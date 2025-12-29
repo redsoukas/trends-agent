@@ -30,7 +30,7 @@ The **AI Trend & Content Factory Agent** is a production-ready system that autom
 1. **🔍 Scouts** trending YouTube videos using the YouTube Data API v3
 2. **📝 Extracts** video transcripts with robust error handling
 3. **🧠 Analyzes** content using OpenAI GPT-4 for trend insights
-4. **📊 Generates** comprehensive daily reports
+4. **📊 Generates** comprehensive hourly reports with enhanced transcript discovery
 5. **🌐 Displays** results on a beautiful Streamlit dashboard
 
 ### Automation Workflow
@@ -53,7 +53,7 @@ graph LR
 
 ### 📊 **Comprehensive Data Collection**
 - **YouTube Data API v3**: Trending videos, metrics, metadata
-- **Transcript Extraction**: Multi-language support with fallback mechanisms
+- **Enhanced Transcript Extraction**: Smart filtering, 16+ language support, metadata fallbacks
 - **Engagement Analytics**: Views, likes, comments, duration analysis
 
 ### 🛡️ **Production-Ready Reliability**

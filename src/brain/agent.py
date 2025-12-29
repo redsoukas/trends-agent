@@ -43,6 +43,114 @@ class ContentAgent:
         self.max_tokens = 4000
         self.temperature = 0.7
     
+    def analyze_metadata_trends(self, videos: List[Dict]) -> Optional[Dict]:
+        \"\"\"
+        Analyze trends using only video metadata (for videos without transcripts).
+        
+        Args:
+            videos: List of video data dictionaries
+            
+        Returns:
+            Dictionary with metadata-based trend analysis
+        \"\"\"
+        if not videos:
+            self.logger.warning(\"No videos provided for metadata analysis\")
+            return None
+        
+        self.logger.info(f\"🔍 Analyzing metadata trends for {len(videos)} videos\")
+        
+        try:
+            # Prepare metadata for analysis
+            metadata = self._prepare_metadata_analysis(videos)
+            
+            prompt = f\"\"\"
+            Analyze YouTube trending patterns using ONLY metadata (no transcripts available):
+            
+            OVERVIEW:
+            • Total Videos: {metadata['total_videos']}
+            • Total Views: {metadata['total_views']:,}
+            • Average Engagement: {metadata['avg_engagement_rate']:.2f}%
+            • Categories: {', '.join(metadata['top_categories'])}
+            
+            VIDEO TITLES:
+            {chr(10).join(f'• {title}' for title in metadata['titles'][:15])}
+            
+            TOP CHANNELS:
+            {chr(10).join(f'• {channel} ({count} videos)' for channel, count in metadata['top_channels'][:10])}
+            
+            CATEGORIES BREAKDOWN:
+            {chr(10).join(f'• {cat}: {count} videos' for cat, count in metadata['category_counts'][:10])}
+            
+            Based on this metadata, analyze:
+            
+            1. **CONTENT TRENDS** - What topics/themes are trending based on titles?
+            2. **CREATOR PATTERNS** - Which types of channels are dominating?
+            3. **AUDIENCE PREFERENCES** - What content formats are popular?
+            4. **ENGAGEMENT INSIGHTS** - What drives views and interaction?
+            5. **MARKET OPPORTUNITIES** - Gaps or emerging niches to explore?
+            
+            Provide insights in JSON format with specific, actionable findings.
+            Focus on what can be determined from titles, channels, and metadata patterns.
+            \"\"\"
+            
+            response = self._call_openai(prompt, \"Metadata trend analysis\")
+            
+            if response:
+                # Add metadata statistics to the response
+                response['metadata_stats'] = {
+                    'analysis_method': 'metadata_only',
+                    'data_sources': ['titles', 'channels', 'categories', 'engagement_metrics'],
+                    'videos_analyzed': len(videos),
+                    'top_categories': metadata['top_categories'][:5],
+                    'top_channels': dict(metadata['top_channels'][:5]),
+                    'avg_views_per_video': metadata['total_views'] // len(videos) if videos else 0
+                }
+            
+            return response
+            
+        except Exception as e:
+            self.logger.error(f\"❌ Failed to generate metadata analysis: {e}\")
+            return None
+    
+    def _prepare_metadata_analysis(self, videos: List[Dict]) -> Dict:
+        \"\"\"
+        Prepare metadata for analysis.
+        
+        Args:
+            videos: List of video data
+            
+        Returns:
+            Processed metadata dictionary
+        \"\"\"
+        from collections import Counter
+        
+        # Basic metrics
+        total_views = sum(video.get('view_count', 0) for video in videos)
+        total_likes = sum(video.get('like_count', 0) for video in videos)
+        
+        # Extract and count categories
+        categories = [video.get('category_name', 'Unknown') for video in videos]
+        category_counts = Counter(categories).most_common()
+        
+        # Extract and count channels
+        channels = [video.get('channel_title', 'Unknown') for video in videos]
+        channel_counts = Counter(channels).most_common()
+        
+        # Extract titles
+        titles = [video.get('title', '') for video in videos]
+        
+        return {
+            'total_videos': len(videos),
+            'total_views': total_views,
+            'total_likes': total_likes,
+            'avg_engagement_rate': (total_likes / total_views * 100) if total_views > 0 else 0,
+            'titles': titles,
+            'top_categories': [cat for cat, _ in category_counts],
+            'category_counts': category_counts,
+            'top_channels': channel_counts,
+            'durations': [video.get('duration_seconds', 0) for video in videos]
+        }
+    
     def analyze_trends(self, videos_with_transcripts: List[Dict]) -> Optional[Dict]:
         """
         Generate comprehensive AI analysis of trending content.

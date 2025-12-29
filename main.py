@@ -73,39 +73,96 @@ def main():
         trending_videos = youtube_scout.get_trending_videos(max_results=10)
         logger.info(f"Found {len(trending_videos)} trending videos")
         
-        # Step 2: Get transcripts
-        logger.info("📝 Fetching video transcripts...")
-        videos_with_transcripts = []
+        # Step 2: Enhanced transcript extraction with filtering
+        logger.info("📝 Analyzing videos for transcript potential...")
         
+        # Filter videos likely to have transcripts
+        high_potential_videos = []
         for video in trending_videos:
+            if transcript_scout.has_good_transcript_potential(video):
+                high_potential_videos.append(video)
+                logger.debug(f"✅ High transcript potential: {video['title'][:50]}...")
+            else:
+                logger.debug(f"⚠️ Low transcript potential: {video['title'][:50]}...")
+        
+        logger.info(f"Found {len(high_potential_videos)}/{len(trending_videos)} videos with good transcript potential")
+        
+        # Get transcripts with enhanced language support
+        videos_with_transcripts = []
+        videos_without_transcripts = []
+        
+        for video in high_potential_videos:
             try:
+                # Try preferred languages first
                 transcript = transcript_scout.get_transcript(video['video_id'])
+                
+                # If no luck with preferred languages, try any language
+                if not transcript:
+                    transcript = transcript_scout.get_transcript_any_language(video['video_id'])
+                
                 if transcript:
                     video['transcript'] = transcript
                     videos_with_transcripts.append(video)
-                    logger.info(f"✅ Got transcript for: {video['title'][:50]}...")
+                    logger.info(f"✅ Got transcript ({transcript['language']}): {video['title'][:50]}...")
+                else:
+                    videos_without_transcripts.append(video)
+                    logger.info(f"❌ No transcript available: {video['title'][:50]}...")
+                    
             except Exception as e:
-                logger.warning(f"⚠️  Failed to get transcript for {video['title'][:50]}: {e}")
+                logger.warning(f"⚠️ Error getting transcript for {video['title'][:50]}: {e}")
+                videos_without_transcripts.append(video)
                 continue
         
-        logger.info(f"Got transcripts for {len(videos_with_transcripts)} videos")
+        # Include remaining videos for metadata-only analysis
+        for video in trending_videos:
+            if video not in high_potential_videos:
+                videos_without_transcripts.append(video)
         
-        # Step 3: Generate AI analysis
-        logger.info("🧠 Generating AI content analysis...")
-        analysis = content_agent.analyze_trends(videos_with_transcripts)
+        logger.info(f"📊 Transcript Results:")
+        logger.info(f"  • With transcripts: {len(videos_with_transcripts)} videos")
+        logger.info(f"  • Without transcripts: {len(videos_without_transcripts)} videos")
+        logger.info(f"  • Success rate: {len(videos_with_transcripts)/len(high_potential_videos)*100:.1f}% (of high-potential videos)")
         
-        # Step 4: Prepare final output
+        # Step 3: Enhanced AI analysis with fallback for non-transcript videos
+        logger.info("🧠 Generating comprehensive AI analysis...")
+        
+        # Analyze videos with transcripts
+        transcript_analysis = None
+        if videos_with_transcripts:
+            transcript_analysis = content_agent.analyze_trends(videos_with_transcripts)
+        
+        # Analyze metadata for all videos
+        metadata_analysis = content_agent.analyze_metadata_trends(trending_videos) if hasattr(content_agent, 'analyze_metadata_trends') else None
+        
+        # Step 4: Prepare comprehensive output
         daily_brief = {
             'timestamp': datetime.utcnow().isoformat(),
             'date': datetime.utcnow().strftime('%Y-%m-%d'),
             'summary': {
                 'total_videos_analyzed': len(trending_videos),
+                'high_potential_videos': len(high_potential_videos),
                 'videos_with_transcripts': len(videos_with_transcripts),
-                'analysis_generated': analysis is not None
+                'videos_without_transcripts': len(videos_without_transcripts),
+                'transcript_success_rate': f"{len(videos_with_transcripts)/len(high_potential_videos)*100:.1f}%" if high_potential_videos else "0%",
+                'overall_success_rate': f"{len(videos_with_transcripts)/len(trending_videos)*100:.1f}%",
+                'analysis_generated': transcript_analysis is not None or metadata_analysis is not None
             },
             'trending_videos': trending_videos,
             'videos_with_transcripts': videos_with_transcripts,
-            'ai_analysis': analysis
+            'videos_without_transcripts': videos_without_transcripts,
+            'analysis': {
+                'transcript_based': transcript_analysis,
+                'metadata_based': metadata_analysis,
+                'note': 'Transcript analysis is more detailed, metadata analysis provides broader trends'
+            },
+            'transcript_insights': {
+                'languages_found': list(set([v['transcript']['language'] for v in videos_with_transcripts])),
+                'generated_vs_manual': {
+                    'generated': len([v for v in videos_with_transcripts if v['transcript'].get('is_generated', False)]),
+                    'manual': len([v for v in videos_with_transcripts if not v['transcript'].get('is_generated', True)])
+                },
+                'average_word_count': sum([v['transcript']['word_count'] for v in videos_with_transcripts]) / len(videos_with_transcripts) if videos_with_transcripts else 0
+            }
         }
         
         # Step 5: Save results

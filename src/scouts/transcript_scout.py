@@ -64,13 +64,82 @@ class TranscriptScout:
             self.logger.info("✅ Transcript Scout initialized successfully")
             self.enabled = True
     
+    def has_good_transcript_potential(self, video_data: Dict) -> bool:
+        """
+        Predict if a video is likely to have transcripts available.
+        
+        Args:
+            video_data: Video metadata dictionary
+            
+        Returns:
+            True if video likely has transcripts
+        """
+        title = video_data.get('title', '').lower()
+        category = video_data.get('category_name', '').lower()
+        duration = video_data.get('duration_seconds', 0)
+        
+        # Categories with good transcript rates
+        high_transcript_categories = [
+            'news', 'education', 'science', 'technology', 'people', 'blogs',
+            'comedy', 'entertainment', 'howto', 'style'
+        ]
+        
+        # Categories with poor transcript rates
+        low_transcript_categories = ['music', 'gaming', 'sports', 'film', 'animation']
+        
+        # Title indicators for speech content
+        speech_indicators = [
+            'interview', 'explains', 'talks', 'discusses', 'review', 'tutorial',
+            'guide', 'news', 'podcast', 'commentary', 'analysis', 'breakdown',
+            'reaction', 'story', 'documentary', 'vlog', 'q&a'
+        ]
+        
+        # Title indicators for non-speech content
+        non_speech_indicators = [
+            'official music video', 'lyrics', 'instrumental', 'soundtrack',
+            'audio only', 'full album', 'remix', 'beat', 'cover', 'compilation',
+            'mix', 'playlist', 'highlights'
+        ]
+        
+        score = 0
+        
+        # Duration scoring (longer videos more likely to have speech)
+        if duration > 1800:  # 30+ minutes
+            score += 3
+        elif duration > 600:  # 10+ minutes
+            score += 2
+        elif duration > 180:  # 3+ minutes
+            score += 1
+        elif duration < 60:  # Very short videos
+            score -= 2
+        
+        # Category scoring
+        if any(cat in category for cat in high_transcript_categories):
+            score += 3
+        elif any(cat in category for cat in low_transcript_categories):
+            score -= 3
+        
+        # Title content scoring
+        if any(indicator in title for indicator in speech_indicators):
+            score += 2
+        if any(indicator in title for indicator in non_speech_indicators):
+            score -= 3
+        
+        # Special cases
+        if 'live' in title or 'stream' in title:
+            score += 1  # Live content often has speech
+        if 'cover' in title and 'music' in category:
+            score -= 2  # Music covers rarely have transcripts
+        
+        return score > 0
+    
     def get_transcript(self, video_id: str, language_codes: List[str] = None) -> Optional[Dict]:
         """
         Get transcript for a YouTube video with comprehensive error handling.
         
         Args:
             video_id: YouTube video ID
-            language_codes: Preferred language codes (default: ['en', 'en-US'])
+            language_codes: Preferred language codes (default: expanded list)
             
         Returns:
             Dictionary with transcript data or None if unavailable
@@ -89,9 +158,16 @@ class TranscriptScout:
             self.logger.warning("⚠️  Invalid video ID format")
             return None
         
-        # Default language preferences
+        # Expanded language preferences for better global coverage
         if language_codes is None:
-            language_codes = ['en', 'en-US', 'en-GB', 'en-CA']
+            language_codes = [
+                # English variants (highest priority)
+                'en', 'en-US', 'en-GB', 'en-CA', 'en-AU',
+                # Major languages with good auto-generation
+                'es', 'fr', 'de', 'pt', 'it', 'ja', 'ko', 'zh', 'ru',
+                # Regional variants
+                'es-ES', 'es-MX', 'pt-BR', 'fr-CA', 'zh-CN', 'zh-TW'
+            ]
         
         self.logger.info(f"🎯 Attempting to fetch transcript for video: {video_id}")
         
@@ -320,6 +396,64 @@ class TranscriptScout:
             self.logger.warning(f"⚠️  Error formatting transcript: {e}")
             # Emergency fallback
             return ' '.join([entry.get('text', '') for entry in transcript_data if entry.get('text')])
+    
+    def get_transcript_any_language(self, video_id: str) -> Optional[Dict]:
+        """
+        Get transcript in any available language as a last resort.
+        
+        Args:
+            video_id: YouTube video ID
+            
+        Returns:
+            Transcript data in any available language or None
+        """
+        if not self.enabled:
+            return None
+        
+        try:
+            transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+            available_transcripts = list(transcript_list)
+            
+            if not available_transcripts:
+                return None
+            
+            # Prefer generated transcripts over manual ones (often better quality)
+            generated = [t for t in available_transcripts if getattr(t, 'is_generated', False)]
+            manual = [t for t in available_transcripts if not getattr(t, 'is_generated', True)]
+            
+            # Try generated first, then manual
+            candidates = generated + manual
+            
+            for transcript in candidates:
+                try:
+                    transcript_data = transcript.fetch()
+                    if transcript_data:
+                        formatted_text = self._format_transcript(transcript_data)
+                        
+                        result = {
+                            'video_id': video_id,
+                            'language': transcript.language_code,
+                            'is_generated': getattr(transcript, 'is_generated', False),
+                            'is_translatable': getattr(transcript, 'is_translatable', False),
+                            'text': formatted_text,
+                            'word_count': len(formatted_text.split()) if formatted_text else 0,
+                            'duration_covered': self._calculate_duration_covered(transcript_data),
+                            'fetch_timestamp': time.time(),
+                            'note': 'Fallback language - not in preferred list'
+                        }
+                        
+                        self.logger.info(f"✅ Found fallback transcript for {video_id} "
+                                       f"in {transcript.language_code} ({result['word_count']} words)")
+                        return result
+                        
+                except Exception as e:
+                    self.logger.debug(f"Failed to fetch transcript in {transcript.language_code}: {e}")
+                    continue
+            
+        except Exception as e:
+            self.logger.debug(f"Failed to get fallback transcript for {video_id}: {e}")
+        
+        return None
     
     def _calculate_duration_covered(self, transcript_data: List[Dict]) -> float:
         """
