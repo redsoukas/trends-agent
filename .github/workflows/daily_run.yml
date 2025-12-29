@@ -1,0 +1,329 @@
+name: 🤖 Daily Trend Analysis
+
+on:
+  schedule:
+    # Run daily at 08:00 UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # Allow manual triggers
+    inputs:
+      max_videos:
+        description: 'Maximum number of videos to analyze'
+        required: false
+        default: '10'
+        type: string
+
+# Security: Explicit permissions for repository operations
+permissions:
+  contents: write          # Required to commit analysis results
+  pull-requests: read      # Allow reading PR context if needed
+  actions: read           # Allow reading workflow status
+  id-token: write         # Required for OIDC if using cloud authentication
+
+env:
+  # Python configuration
+  PYTHON_VERSION: '3.11'
+  
+  # Analysis configuration
+  DEFAULT_MAX_VIDEOS: 10
+  DEFAULT_REGION: 'US'
+
+jobs:
+  analyze-trends:
+    name: 🔍 Analyze YouTube Trends
+    runs-on: ubuntu-latest
+    timeout-minutes: 30  # Prevent runaway jobs
+    
+    # Environment protection (optional)
+    environment: production
+    
+    steps:
+      # ==========================================
+      # Repository Setup
+      # ==========================================
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history to ensure proper git operations
+          fetch-depth: 0
+          # Use a dedicated token if available, fallback to GITHUB_TOKEN
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # ==========================================
+      # Python Environment Setup
+      # ==========================================
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          # Cache pip dependencies for faster builds
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
+      
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        env:
+          # Ensure pip doesn't fail on warnings
+          PIP_DISABLE_PIP_VERSION_CHECK: 1
+          PIP_NO_WARN_SCRIPT_LOCATION: 1
+      
+      # ==========================================
+      # Pre-execution Validation
+      # ==========================================
+      - name: 🔍 Validate Environment
+        run: |
+          echo "🔍 Validating runtime environment..."
+          
+          # Check Python version
+          python --version
+          
+          # Check required packages
+          python -c "import google.oauth2, openai, youtube_transcript_api; print('✅ All packages available')"
+          
+          # Validate environment variables exist (without exposing values)
+          if [ -z "${{ secrets.YOUTUBE_API_KEY }}" ]; then
+            echo "❌ YOUTUBE_API_KEY secret not set"
+            exit 1
+          fi
+          
+          if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
+            echo "❌ OPENAI_API_KEY secret not set"
+            exit 1
+          fi
+          
+          echo "✅ Environment validation passed"
+      
+      # ==========================================
+      # Data Directory Setup
+      # ==========================================
+      - name: 📁 Prepare Data Directory
+        run: |
+          echo "📁 Setting up data directory..."
+          mkdir -p data
+          
+          # Check if previous analysis exists
+          if [ -f "data/daily_brief.json" ]; then
+            echo "📊 Previous analysis found"
+            # Create backup
+            cp data/daily_brief.json data/daily_brief_backup_$(date +%Y%m%d_%H%M%S).json
+            echo "💾 Backup created"
+          else
+            echo "🆕 No previous analysis found"
+          fi
+          
+          # Ensure proper permissions
+          chmod 755 data
+          
+          echo "✅ Data directory ready"
+      
+      # ==========================================
+      # Main Analysis Execution
+      # ==========================================
+      - name: 🚀 Execute Trend Analysis
+        id: analysis
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAX_VIDEOS: ${{ github.event.inputs.max_videos || env.DEFAULT_MAX_VIDEOS }}
+          REGION_CODE: ${{ env.DEFAULT_REGION }}
+        run: |
+          echo "🚀 Starting AI Trend Analysis..."
+          echo "📊 Configuration:"
+          echo "  - Max Videos: $MAX_VIDEOS"
+          echo "  - Region: $REGION_CODE"
+          echo "  - Trigger: ${{ github.event_name }}"
+          
+          # Execute main analysis
+          python main.py
+          
+          # Verify output was generated
+          if [ ! -f "data/daily_brief.json" ]; then
+            echo "❌ Analysis failed: No output file generated"
+            exit 1
+          fi
+          
+          # Check output file size (should not be empty)
+          file_size=$(stat -f%z data/daily_brief.json 2>/dev/null || stat -c%s data/daily_brief.json)
+          if [ "$file_size" -lt 100 ]; then
+            echo "❌ Analysis failed: Output file too small ($file_size bytes)"
+            exit 1
+          fi
+          
+          echo "✅ Analysis completed successfully"
+          echo "📊 Output file size: $file_size bytes"
+          
+          # Set output for next steps
+          echo "analysis_completed=true" >> $GITHUB_OUTPUT
+          echo "output_size=$file_size" >> $GITHUB_OUTPUT
+      
+      # ==========================================
+      # Output Validation & Commit
+      # ==========================================
+      - name: 📊 Validate Analysis Output
+        if: steps.analysis.outputs.analysis_completed == 'true'
+        run: |
+          echo "📊 Validating analysis output..."
+          
+          # Basic JSON validation
+          python -c "
+          import json, sys
+          try:
+              with open('data/daily_brief.json', 'r') as f:
+                  data = json.load(f)
+              print(f'✅ Valid JSON with {len(data)} root keys')
+              
+              # Check required fields
+              required_fields = ['timestamp', 'date', 'summary', 'trending_videos']
+              missing_fields = [field for field in required_fields if field not in data]
+              
+              if missing_fields:
+                  print(f'⚠️  Missing fields: {missing_fields}')
+              else:
+                  print('✅ All required fields present')
+                  
+              # Print summary stats
+              summary = data.get('summary', {})
+              print(f'📈 Videos analyzed: {summary.get(\"total_videos_analyzed\", \"unknown\")}')
+              print(f'📝 With transcripts: {summary.get(\"videos_with_transcripts\", \"unknown\")}')
+              print(f'🧠 AI analysis: {\"✅\" if summary.get(\"analysis_generated\") else \"❌\"}')
+              
+          except Exception as e:
+              print(f'❌ Validation failed: {e}')
+              sys.exit(1)
+          "
+      
+      - name: 🔧 Configure Git
+        if: steps.analysis.outputs.analysis_completed == 'true'
+        run: |
+          echo "🔧 Configuring Git for automated commit..."
+          
+          # Set git identity
+          git config --local user.email "action@github.com"
+          git config --local user.name "AI Trend Agent"
+          
+          # Set safe directory (security requirement)
+          git config --global --add safe.directory $GITHUB_WORKSPACE
+          
+          echo "✅ Git configured"
+      
+      - name: 💾 Commit Analysis Results
+        if: steps.analysis.outputs.analysis_completed == 'true'
+        id: commit
+        run: |
+          echo "💾 Committing analysis results..."
+          
+          # Check if there are changes to commit
+          git add data/daily_brief.json
+          
+          if git diff --staged --quiet; then
+            echo "ℹ️  No changes to commit"
+            echo "changes_committed=false" >> $GITHUB_OUTPUT
+          else
+            # Create commit with detailed message
+            analysis_date=$(date -u +"%Y-%m-%d")
+            commit_msg="🤖 Daily trend analysis for $analysis_date
+
+          📊 Analysis Summary:
+          - Trigger: ${{ github.event_name }}
+          - Timestamp: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          - Output Size: ${{ steps.analysis.outputs.output_size }} bytes
+          - Workflow: ${{ github.workflow }}
+          - Run ID: ${{ github.run_id }}
+          
+          Generated by GitHub Actions"
+            
+            git commit -m "$commit_msg"
+            
+            echo "📤 Pushing changes to repository..."
+            git push origin ${{ github.ref_name }}
+            
+            echo "✅ Analysis results committed and pushed"
+            echo "changes_committed=true" >> $GITHUB_OUTPUT
+            
+            # Get commit hash for reference
+            commit_hash=$(git rev-parse HEAD)
+            echo "commit_hash=$commit_hash" >> $GITHUB_OUTPUT
+          fi
+      
+      # ==========================================
+      # Post-execution Cleanup & Reporting
+      # ==========================================
+      - name: 🧹 Cleanup Temporary Files
+        if: always()  # Run even if previous steps failed
+        run: |
+          echo "🧹 Cleaning up temporary files..."
+          
+          # Remove log files if they exist
+          rm -f trend_agent.log
+          
+          # Remove backup files older than 7 days
+          find data/ -name "daily_brief_backup_*.json" -mtime +7 -delete 2>/dev/null || true
+          
+          echo "✅ Cleanup completed"
+      
+      - name: 📈 Analysis Summary
+        if: always()
+        run: |
+          echo "📈 ==========================="
+          echo "📈 TREND ANALYSIS SUMMARY"
+          echo "📈 ==========================="
+          echo "📅 Date: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          echo "🔄 Trigger: ${{ github.event_name }}"
+          echo "⚙️  Workflow: ${{ github.workflow }}"
+          echo "🆔 Run ID: ${{ github.run_id }}"
+          echo "🌟 Repository: ${{ github.repository }}"
+          echo "🏷️  Ref: ${{ github.ref }}"
+          echo ""
+          
+          if [ "${{ steps.analysis.outputs.analysis_completed }}" == "true" ]; then
+            echo "✅ Analysis Status: COMPLETED"
+            echo "📊 Output Size: ${{ steps.analysis.outputs.output_size }} bytes"
+            
+            if [ "${{ steps.commit.outputs.changes_committed }}" == "true" ]; then
+              echo "💾 Commit Status: COMMITTED"
+              echo "🔗 Commit Hash: ${{ steps.commit.outputs.commit_hash }}"
+            else
+              echo "💾 Commit Status: NO CHANGES"
+            fi
+          else
+            echo "❌ Analysis Status: FAILED"
+          fi
+          
+          echo ""
+          echo "📈 ==========================="
+      
+      # ==========================================
+      # Error Handling & Notifications
+      # ==========================================
+      - name: 🚨 Handle Failure
+        if: failure()
+        run: |
+          echo "🚨 Workflow failed - generating error report..."
+          
+          error_report="data/error_report_$(date +%Y%m%d_%H%M%S).json"
+          
+          cat > "$error_report" << EOF
+          {
+            "timestamp": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "workflow_id": "${{ github.workflow }}",
+            "run_id": "${{ github.run_id }}",
+            "event": "${{ github.event_name }}",
+            "repository": "${{ github.repository }}",
+            "ref": "${{ github.ref }}",
+            "failure_step": "See workflow logs for details",
+            "environment": {
+              "python_version": "${{ env.PYTHON_VERSION }}",
+              "runner_os": "${{ runner.os }}",
+              "max_videos": "${{ github.event.inputs.max_videos || env.DEFAULT_MAX_VIDEOS }}"
+            }
+          }
+          EOF
+          
+          echo "📝 Error report generated: $error_report"
+          echo "🔍 Check workflow logs for detailed error information"
+          echo "💡 Common issues:"
+          echo "   - API key validity"
+          echo "   - Rate limiting"
+          echo "   - Network connectivity"
+          echo "   - YouTube video availability"
