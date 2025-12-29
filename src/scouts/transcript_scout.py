@@ -18,10 +18,17 @@ try:
         TranscriptsDisabled, 
         NoTranscriptFound, 
         VideoUnavailable,
-        TooManyRequests,
         YouTubeRequestFailed
     )
-except ImportError:
+    # TooManyRequests might not exist in all versions, use generic exception
+    try:
+        from youtube_transcript_api._errors import TooManyRequests
+    except ImportError:
+        TooManyRequests = YouTubeRequestFailed
+    
+    TRANSCRIPT_API_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: youtube-transcript-api import failed: {e}")
     YouTubeTranscriptApi = None
     TextFormatter = None
     TranscriptsDisabled = Exception
@@ -29,6 +36,17 @@ except ImportError:
     VideoUnavailable = Exception
     TooManyRequests = Exception
     YouTubeRequestFailed = Exception
+    TRANSCRIPT_API_AVAILABLE = False
+except Exception as e:
+    print(f"Error: Unexpected error importing youtube-transcript-api: {e}")
+    YouTubeTranscriptApi = None
+    TextFormatter = None
+    TranscriptsDisabled = Exception
+    NoTranscriptFound = Exception
+    VideoUnavailable = Exception
+    TooManyRequests = Exception
+    YouTubeRequestFailed = Exception
+    TRANSCRIPT_API_AVAILABLE = False
 
 
 class TranscriptScout:
@@ -39,7 +57,7 @@ class TranscriptScout:
         self.logger = logging.getLogger(__name__)
         self.formatter = TextFormatter() if TextFormatter else None
         
-        if YouTubeTranscriptApi is None:
+        if not TRANSCRIPT_API_AVAILABLE:
             self.logger.error("❌ youtube-transcript-api not installed. Transcript functionality disabled.")
             self.enabled = False
         else:
@@ -368,7 +386,7 @@ class TranscriptScout:
         """
         return {
             'enabled': self.enabled,
-            'api_available': YouTubeTranscriptApi is not None,
+            'api_available': TRANSCRIPT_API_AVAILABLE,
             'formatter_available': self.formatter is not None,
             'timestamp': time.time()
         }
