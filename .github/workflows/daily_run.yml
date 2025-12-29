@@ -47,6 +47,8 @@ jobs:
           fetch-depth: 0
           # Use a dedicated token if available, fallback to GITHUB_TOKEN
           token: ${{ secrets.GITHUB_TOKEN }}
+          # Always checkout the latest commit
+          ref: ${{ github.ref_name }}
       
       # ==========================================
       # Python Environment Setup
@@ -213,6 +215,34 @@ jobs:
         run: |
           echo "💾 Committing analysis results..."
           
+          # First, pull any changes from remote to avoid conflicts
+          echo "🔄 Syncing with remote repository..."
+          git fetch origin
+          
+          # Check if we're behind the remote
+          BEHIND_COUNT=$(git rev-list --count HEAD..origin/${{ github.ref_name }})
+          if [ "$BEHIND_COUNT" -gt 0 ]; then
+            echo "⚠️ Local branch is $BEHIND_COUNT commits behind remote. Pulling changes..."
+            
+            # Stash any uncommitted changes temporarily
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "📦 Stashing uncommitted changes..."
+              git stash push -m "Temporary stash before pull"
+              STASHED=true
+            else
+              STASHED=false
+            fi
+            
+            # Pull with rebase to maintain linear history
+            git pull --rebase origin ${{ github.ref_name }}
+            
+            # Re-apply stashed changes if any
+            if [ "$STASHED" = true ]; then
+              echo "📦 Re-applying stashed changes..."
+              git stash pop || echo "⚠️ Stash pop had conflicts - continuing..."
+            fi
+          fi
+          
           # Check if there are changes to commit
           git add data/daily_brief.json
           
@@ -236,7 +266,24 @@ jobs:
             git commit -m "$commit_msg"
             
             echo "📤 Pushing changes to repository..."
-            git push origin ${{ github.ref_name }}
+            
+            # Try to push with retry mechanism
+            for attempt in 1 2 3; do
+              if git push origin ${{ github.ref_name }}; then
+                echo "✅ Successfully pushed on attempt $attempt"
+                break
+              else
+                echo "⚠️ Push failed on attempt $attempt"
+                if [ $attempt -lt 3 ]; then
+                  echo "🔄 Pulling latest changes and retrying..."
+                  git pull --rebase origin ${{ github.ref_name }}
+                  sleep 5
+                else
+                  echo "❌ Failed to push after 3 attempts"
+                  exit 1
+                fi
+              fi
+            done
             
             echo "✅ Analysis results committed and pushed"
             echo "changes_committed=true" >> $GITHUB_OUTPUT
