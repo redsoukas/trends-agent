@@ -1,9 +1,9 @@
-name: 🤖 Daily Trend Analysis
+name: 🤖 Hourly Trend Analysis
 
 on:
   schedule:
-    # Run daily at 08:00 UTC
-    - cron: '0 8 * * *'
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
   workflow_dispatch:  # Allow manual triggers
     inputs:
       max_videos:
@@ -29,7 +29,7 @@ env:
 
 jobs:
   analyze-trends:
-    name: 🔍 Analyze YouTube Trends
+    name: 🔍 Analyze YouTube Trends (Hourly)
     runs-on: ubuntu-latest
     timeout-minutes: 30  # Prevent runaway jobs
     
@@ -221,8 +221,8 @@ jobs:
             echo "changes_committed=false" >> $GITHUB_OUTPUT
           else
             # Create commit with detailed message
-            analysis_date=$(date -u +"%Y-%m-%d")
-            commit_msg="🤖 Daily trend analysis for $analysis_date
+            analysis_datetime=$(date -u +"%Y-%m-%d %H:%M UTC")
+            commit_msg="🤖 Hourly trend analysis for $analysis_datetime
 
           📊 Analysis Summary:
           - Trigger: ${{ github.event_name }}
@@ -257,8 +257,8 @@ jobs:
           # Remove log files if they exist
           rm -f trend_agent.log
           
-          # Remove backup files older than 7 days
-          find data/ -name "daily_brief_backup_*.json" -mtime +7 -delete 2>/dev/null || true
+          # Remove backup files older than 3 days (hourly runs generate more files)
+          find data/ -name "daily_brief_backup_*.json" -mtime +3 -delete 2>/dev/null || true
           
           echo "✅ Cleanup completed"
       

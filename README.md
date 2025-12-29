@@ -6,7 +6,7 @@
 [![YouTube API](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org/)
 
-> A fully automated AI-powered content strategist that analyzes YouTube trends daily and generates actionable insights using GPT-4.
+> A fully automated AI-powered content strategist that analyzes YouTube trends hourly and generates actionable insights using GPT-4.
 
 ## 📋 Table of Contents
 
@@ -37,7 +37,7 @@ The **AI Trend & Content Factory Agent** is a production-ready system that autom
 
 ```mermaid
 graph LR
-    A[GitHub Actions<br/>Daily 08:00 UTC] --> B[YouTube Scout<br/>Fetch Trending Videos]
+    A[GitHub Actions<br/>Hourly at :00] --> B[YouTube Scout<br/>Fetch Trending Videos]
     B --> C[Transcript Scout<br/>Extract Transcripts]
     C --> D[AI Agent<br/>GPT-4 Analysis]
     D --> E[Data Storage<br/>JSON Output]
@@ -63,7 +63,7 @@ graph LR
 - **Health Monitoring**: Service status checks and diagnostics
 
 ### 🚀 **Automated Deployment**
-- **GitHub Actions**: Fully automated daily execution
+- **GitHub Actions**: Fully automated hourly execution
 - **Streamlit Cloud**: One-click dashboard deployment
 - **Version Control**: Automatic result commits with detailed logs
 
@@ -80,8 +80,8 @@ graph LR
 │   GitHub Actions │    │   Data Sources  │    │   AI Processing │
 │                 │    │                 │    │                 │
 │ ┌─────────────┐ │    │ ┌─────────────┐ │    │ ┌─────────────┐ │
-│ │ Daily Cron  │ │───▶│ │ YouTube API │ │───▶│ │   GPT-4     │ │
-│ │ 08:00 UTC   │ │    │ │   v3 Data   │ │    │ │  Analysis   │ │
+│ │ Hourly Cron │ │───▶│ │ YouTube API │ │───▶│ │   GPT-4     │ │
+│ │   Every :00 │ │    │ │   v3 Data   │ │    │ │  Analysis   │ │
 │ └─────────────┘ │    │ └─────────────┘ │    │ └─────────────┘ │
 │                 │    │                 │    │                 │
 │ ┌─────────────┐ │    │ ┌─────────────┐ │    │ ┌─────────────┐ │
@@ -158,13 +158,13 @@ streamlit run app.py
 
 ### GitHub Actions Configuration
 
-The workflow runs automatically daily at 08:00 UTC. You can customize it:
+The workflow runs automatically every hour. You can customize it:
 
 ```yaml
 # .github/workflows/daily_run.yml
 on:
   schedule:
-    - cron: '0 8 * * *'  # Modify time here (UTC)
+    - cron: '0 * * * *'  # Every hour at minute 0
   workflow_dispatch:       # Enable manual triggers
 ```
 
@@ -254,14 +254,15 @@ streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 3. **Billing & Limits**:
    - **GPT-4**: ~$0.03-0.06 per 1K tokens
-   - **Daily cost**: ~$2-5 (estimated for 10 videos)
+   - **Hourly cost**: ~$2-5 (estimated for 10 videos)
+   - **Daily total**: ~$48-120 (24 hourly runs)
    - Set up **usage limits** to control costs
 
 ## 📖 Usage
 
 ### Automatic Execution
 
-The agent runs automatically every day at 08:00 UTC via GitHub Actions:
+The agent runs automatically every hour via GitHub Actions:
 
 1. ✅ **Fetches** trending YouTube videos
 2. ✅ **Extracts** transcripts with error handling
@@ -274,7 +275,7 @@ The agent runs automatically every day at 08:00 UTC via GitHub Actions:
 Trigger manually from GitHub:
 
 1. Go to **Actions** tab in your repository
-2. Select **"🤖 Daily Trend Analysis"** workflow
+2. Select **"🤖 Hourly Trend Analysis"** workflow
 3. Click **"Run workflow"**
 4. Optionally specify custom parameters
 
@@ -317,7 +318,7 @@ trends-agent/
 | `transcript_scout.py` | Transcript extraction | **Robust error handling**, multi-language |
 | `agent.py` | AI analysis | GPT-4 integration, structured insights |
 | `app.py` | Dashboard | Interactive visualizations, real-time data |
-| `daily_run.yml` | Automation | **Secure permissions**, error recovery |
+| `daily_run.yml` | Automation | **Secure permissions**, hourly execution |
 
 ## 🔧 Troubleshooting
 
