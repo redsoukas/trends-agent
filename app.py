@@ -447,7 +447,7 @@ def get_category_name(category_id):
     category_map = {
         '1': 'Film & Animation',
         '2': 'Autos & Vehicles', 
-        '10': 'Music',
+        # '10': 'Music',  # Filtered out in main.py
         '15': 'Pets & Animals',
         '17': 'Sports',
         '19': 'Travel & Events',
@@ -574,7 +574,8 @@ def render_sidebar(data=None):
                     <div style="font-size: 0.8rem; color: #64748b;">📊 {videos_with_transcripts}/{total_videos} videos analyzed</div>
                     <div style="font-size: 0.8rem; color: #64748b;">🎵 {music_filtered} music videos filtered out</div>
                     <div style="font-size: 0.7rem; color: #94a3b8; margin-top: 0.5rem;">
-                        💡 Focus on educational and commentary content for better insights.
+                        💡 Focus on educational and commentary content for better insights.<br>
+                        🔄 Music filtering active since latest update - wait for next data refresh.
                     </div>
                 </div>
             """, unsafe_allow_html=True)
@@ -697,9 +698,12 @@ def render_video_table(data):
         )
     
     with col3:
+        # Get unique categories, excluding Music since we filter it out
+        categories = list(set([get_category_name(v.get('category_id', '')) for v in data['trending_videos']]))
+        categories = [cat for cat in categories if cat != 'Music']  # Remove Music even if it slips through
         category_filter = st.selectbox(
             "Category:",
-            ["All"] + list(set([get_category_name(v.get('category_id', '')) for v in data['trending_videos']])),
+            ["All"] + sorted(categories),
             key="filter_category"
         )
     
