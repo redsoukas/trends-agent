@@ -1,9 +1,10 @@
 {
-  "timestamp": "2025-12-31T11:06:43.042058",
+  "timestamp": "2025-12-31T11:18:23.201687",
   "date": "2025-12-31",
   "summary": {
     "total_videos_analyzed": 10,
-    "high_potential_videos": 6,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -11,23 +12,6 @@
     "analysis_generated": true
   },
   "trending_videos": [
-    {
-      "video_id": "jBKJbedSrA0",
-      "title": "Doechii - girl, get up. (Feat. SZA)",
-      "description": "Stream//Download \"Alligator Bites Never Heal\" here: https://doechii.lnk.to/ABNH\n\nFollow Doechii Everywhere:\nInstagram: https://doechii.lnk.to/Instagram\nTikTok: https://doechii.lnk.to/TikTok\nTwitter: https://doechii.lnk.to/Twitter\nFacebook: https://doechii.lnk.to/facebook \n\nFollow SZA Everywhere:\nInstagram: https://www.instagram.com/sza/?hl=en\nTikTok: https://www.tiktok.com/@sza?lang=en\nTwitter: https://x.com/sza\nFacebook: https://www.facebook.com/sza/\n\nStream Doechii Everywhere:\nSpotify: https://doechii.lnk.to/Spotify\nApple Music: https://doechii.lnk.to/applemusic\nTidal: https://doechii.lnk.to/Tidal\nSoundcloud: https://doechii.lnk.to/soundcloud\nSubscribe to Doechii's YouTube here: https://doechii.lnk.to/YouTube\n\nDirected by James Mackel\nExecutive Producers: Anthony “ Top Dawg” Tiffith & Anthony Moosa Tiffith\nProduction Co: Adele Drive\nProducer: Moosa Tiffith\nEP: Langston Siebens\n\nAUSTRALIA UNIT\nProducer: Autumn Loveday\nPM: Callum Smit \n1st AC: Simon Noonan\n1st AC: Ryan Percy\nSydney Gea",
-      "channel_title": "Doechii",
-      "channel_id": "UCksiqtuWYtN2YluvAQnV2dQ",
-      "published_at": "2025-12-30T20:08:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jBKJbedSrA0/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 332149,
-      "like_count": 45222,
-      "comment_count": 3040,
-      "category_id": "10",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jBKJbedSrA0"
-    },
     {
       "video_id": "AfQ13jsLDms",
       "title": "Stranger Things 5 | Finale Trailer | Netflix",
@@ -38,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 8174668,
-      "like_count": 275094,
-      "comment_count": 22340,
+      "view_count": 8216529,
+      "like_count": 275631,
+      "comment_count": 22364,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -66,43 +50,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b6PjGXJiB60/hqdefault.jpg",
       "duration": "PT40M2S",
       "duration_seconds": 2402,
-      "view_count": 286659,
-      "like_count": 24963,
-      "comment_count": 3388,
+      "view_count": 293562,
+      "like_count": 25313,
+      "comment_count": 3418,
       "category_id": "20",
       "tags": [
         "Family",
         "friendly"
       ],
       "url": "https://www.youtube.com/watch?v=b6PjGXJiB60"
-    },
-    {
-      "video_id": "G2JMTwqD170",
-      "title": "G Herbo - 1 Chance (Official Music Video)",
-      "description": "'LIL HERB' OUT NOW ⏳: https://gherbo.lnk.to/LilHerb\n\nSTREAM \"WHATEVER U WANT\": https://gherbo.lnk.to/WUW\nSTREAM \"REASON\": https://gherbo.lnk.to/Reason\nSTREAM 'WENT LEGIT' 🌏♻️: http://GHerbo.lnk.to/WentL\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO",
-      "channel_title": "G Herbo",
-      "channel_id": "UCV0pIPt5HFfulonNog3cz1A",
-      "published_at": "2025-12-29T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G2JMTwqD170/hqdefault.jpg",
-      "duration": "PT3M41S",
-      "duration_seconds": 221,
-      "view_count": 299096,
-      "like_count": 20633,
-      "comment_count": 1105,
-      "category_id": "10",
-      "tags": [
-        "G herbo",
-        "g herbo official",
-        "g herbo music",
-        "swervo",
-        "strictly 4 my fans",
-        "g herbo ptsd",
-        "survivors remorse",
-        "rap music",
-        "hip hop",
-        "chicago rap"
-      ],
-      "url": "https://www.youtube.com/watch?v=G2JMTwqD170"
     },
     {
       "video_id": "cwFaV_8jhJ0",
@@ -114,9 +70,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 361551,
-      "like_count": 7068,
-      "comment_count": 674,
+      "view_count": 365323,
+      "like_count": 7104,
+      "comment_count": 676,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -142,9 +98,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7s7gnvNYdj4/hqdefault.jpg",
       "duration": "PT32M34S",
       "duration_seconds": 1954,
-      "view_count": 724299,
-      "like_count": 155491,
-      "comment_count": 8949,
+      "view_count": 739468,
+      "like_count": 160043,
+      "comment_count": 9075,
       "category_id": "24",
       "tags": [
         "asmongold",
@@ -161,34 +117,6 @@
       "url": "https://www.youtube.com/watch?v=7s7gnvNYdj4"
     },
     {
-      "video_id": "5dsi4mTwzYs",
-      "title": "daño - Peso Pluma & Tito Double P (Lyric Video)",
-      "description": "Double P Records©\n\n• ESCUCHA / LISTEN:\nhttps://www.doublepmusic.com/ppdinastiatdp\n\n•LETRA\nSólo una noche\nBastó pa’ que me dejara\nDe mí ya no quiere nada,\nQue esta cansada\nMuy agotada,\nY que a la chingada\n\nNo habrá reproches\nBueno, no prometo nada\nTal vez hoy tomo\nY ya bien loco\nTe fundo el cel la llamada\n\n“Prrrrrr”\n-\n“ hey”\n-\n“qué quieres?”\n\nPorque se siente tan extraño\nLlegar y no sentir tus labios\nQuiero tenerte al lado mio\nTe juro que a veces ya no sonrío\nVen mami, ven dame la mano\nVámonos de este mundo extraño\nLlené de lágrimas el paño\nTe amo aunque me hagas tanto fucking daño\n\nPorque se siente tan extraño\nLlegar y no sentir tus labios\nQuiero tenerte al lado mío\nTe juro que a veces ya ni sonrío\nVen Mami, ven dame tu mano\nVámonos de este mundo extraño\nLlené de lágrimas el paño\nTe amo aunque me hagas tanto fucking daño\n\nPeso Pluma\n⋟Instagram - https://bit.ly/3KxRYMd\n⋟Spotify - http://bit.ly/435v7ii\n⋟TikTok - http://bit.ly/3ZBp3LC\n⋟Apple Music - http://bit.ly/411a92p\n⋟TikTok: https://",
-      "channel_title": "Peso Pluma",
-      "channel_id": "UCzrM_068Odho89mTRrrxqbA",
-      "published_at": "2025-12-29T22:07:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 550484,
-      "like_count": 12149,
-      "comment_count": 272,
-      "category_id": "10",
-      "tags": [
-        "tito doble p",
-        "la doble p",
-        "doble p",
-        "peso pp",
-        "peso pluma",
-        "doblepp",
-        "doble pp",
-        "pp peso pluma",
-        "peso pluma mix",
-        "tito double p"
-      ],
-      "url": "https://www.youtube.com/watch?v=5dsi4mTwzYs"
-    },
-    {
       "video_id": "63VTRloLLH4",
       "title": "Malcolm in the Middle: Life's Still Unfair | Official Teaser | Hulu",
       "description": "After shielding himself from his family for over a decade, Malcolm (Frankie Muniz) is dragged back into their orbit when Hal (Bryan Cranston) and Lois (Jane Kaczmarek) demand his presence at their 40th anniversary party. #MalcolmIntheMiddle Life's Still Unfair, a special four-part event, streams on Hulu and with #HuluOnDisneyPlus April 10. \n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confirmation=1\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like O",
@@ -198,9 +126,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/63VTRloLLH4/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 1362796,
-      "like_count": 41977,
-      "comment_count": 2666,
+      "view_count": 1365009,
+      "like_count": 42000,
+      "comment_count": 2667,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -226,9 +154,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JrSVtb3_guQ/hqdefault.jpg",
       "duration": "PT1H18M9S",
       "duration_seconds": 4689,
-      "view_count": 186416,
-      "like_count": 5987,
-      "comment_count": 336,
+      "view_count": 188668,
+      "like_count": 6020,
+      "comment_count": 339,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -236,154 +164,109 @@
       "url": "https://www.youtube.com/watch?v=JrSVtb3_guQ"
     },
     {
-      "video_id": "6wpwmIug9tk",
-      "title": "Jarahn - Mangi Kimbe (Audio) feat. Ragga Siai & Beegee Bwoy",
-      "description": "Official Audio for “MANGI KIMBE” by Jarahn, @raggasiai.theartist and Beegee Bwoy. Produced, mixed and mastered by Jarahn & Brenz under Palm City Records and Dawgside.\n\n🌴 Enjoy more music by Jarahn https://www.youtube.com/playlist?list=PLHJA63kZo2hAiZPxu0Dq504H2Qtg2MreT\n\n🛎 Subscribe for the latest ! https://www.youtube.com/channel/UC44awJ49tZNNMliYVPQDdmA\n\n📲 Connect and Follow Jarahn ⬇️\nhttps://instagram.com/jarahn_official? \nhttps://www.tiktok.com/@jarahnofficial? \nhttps://soundcloud.com/user-976142010\n\nMANGI KIMBE (LYRICS VIDEO)\nProducer: Jarahn (Palm City Records)\nMaster: Brenz (Dawgside Records)\nArtist: Jarahn\nArtist: Ragga Siai\nArtist: BeeGee Bwoy\n\n© 2025 Jarahn \n\n#jarahn #raggasiai #mangikimbe #beegeebwoy #pngmusic2025",
-      "channel_title": "Jarahn",
-      "channel_id": "UC44awJ49tZNNMliYVPQDdmA",
-      "published_at": "2025-12-25T06:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6wpwmIug9tk/hqdefault.jpg",
-      "duration": "PT4M56S",
-      "duration_seconds": 296,
-      "view_count": 29751,
-      "like_count": 1409,
-      "comment_count": 231,
-      "category_id": "10",
+      "video_id": "-VU_ZxdgBYg",
+      "title": "Avengers: Doomsday - X-Men Teaser Breakdown - Marvel Easter Eggs You Missed!",
+      "description": "Grab Huel today with my exclusive offer of 15% OFF online with my code SCREENCRUSH15 at http://www.huel.com/SCREENCRUSH15 New Customers Only. Thank you to Huel for partnering and supporting our show!\n\nOur X-Men Avenegers Doomsday Trailer breakdown is here!\n\nExplore our merch store for movie & TV fan gear! From T-shirts to unique accessories, find your favorites. For 15% off your first order subscribe here! https://screencrushmerch.com/pages/subscribe \n\nConnect with ScreenCrush\nhttps://discord.gg/VSYHqbDwwj\nhttp://screencrush.com\nhttps://www.tiktok.com/@screencrushnews\nhttps://www.facebook.com/ScreenCrush\nhttps://twitter.com/screencrushnews\nhttp://screencrush.com/newsletter\n\nWritten and Hosted by Ryan Arey http://twitter.com/ryanarey\nEdited by Harriet Lengel-Enright\nLee Mazzio\nElias Kenouryiakis\n\nDoom's Day Festival: https://store.screencrush.com/products/doomsday-festival-t-shirt\nCreation of Peace: https://store.screencrush.com/collections/crewneck/products/creation-of-peace-sweatshirt",
+      "channel_title": "ScreenCrush",
+      "channel_id": "UCgMJGv4cQl8-q71AyFeFmtg",
+      "published_at": "2025-12-30T19:48:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-VU_ZxdgBYg/hqdefault.jpg",
+      "duration": "PT17M37S",
+      "duration_seconds": 1057,
+      "view_count": 210280,
+      "like_count": 5608,
+      "comment_count": 649,
+      "category_id": "1",
+      "tags": [
+        "screencrush",
+        "heavy spoilers",
+        "new rockstars",
+        "avengers doomsday trailer",
+        "avengers doomsday",
+        "doomsday trailer official",
+        "avengers doomsday trailer official",
+        "avengers doomsday cast reveal",
+        "doomsday trailer leak",
+        "avengers doomsday trailer reaction"
+      ],
+      "url": "https://www.youtube.com/watch?v=-VU_ZxdgBYg"
+    },
+    {
+      "video_id": "II-CmJc1GWo",
+      "title": "I Worked On A Haunted Fishing Boat",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 39:58 - Day 1 \n39:58 - 1:10:00 - Day 2 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2025-12-30T23:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/II-CmJc1GWo/hqdefault.jpg",
+      "duration": "PT1H10M",
+      "duration_seconds": 4200,
+      "view_count": 210996,
+      "like_count": 7534,
+      "comment_count": 556,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=II-CmJc1GWo"
+    },
+    {
+      "video_id": "SBzsqPk8bk4",
+      "title": "Avengers: Doomsday Teaser Trailer #2 (2026)",
+      "description": "Check out the Official Teaser Trailer for Avengers: Doomsday starring Chris Hemsworth!\n\n► Buy Tickets on Fandango: https://www.fandango.com/avengers-doomsday-2026-237176/movie-overview?cmp=Trailers_YouTube_Desc\n\nSubscribe to the channel and click the bell icon to be notified of all the hottest trailers: http://bit.ly/2CNniBy \n\n► Shop Rotten Tomatoes: http://bit.ly/3KvCU1M\n\nUS Release Date: December 18, 2026\nStarring: Chris Hemsworth, Anthony Mackie, Vanessa Kirby, Paul Rudd, Florence Pugh, Tenoch Huerta, Simu Liu, Sebastian Stan, Letitia Wright, Ebon Moss-Bachrach, Kelsey Grammer, Lewis Pullman, Danny Ramirez, Joseph Quinn, David Harbour, Winston Duke, Hannah John-Kamen, Tom Hiddleston, Patrick Stewart, Ian McKellen, Alan Cumming, Rebecca Romijn, James Marsden, Channing Tatum, Pedro Pascal, Chris Evans, Robert Downey Jr.\nDirectors: Anthony Russo and Joe Russo\nSynopsis: The next installment in the \"Avengers\" franchise.\n\n► Learn more: https://www.rottentomatoes.com/m/avengers_doomsday?cm",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2025-12-30T14:09:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SBzsqPk8bk4/hqdefault.jpg",
+      "duration": "PT1M32S",
+      "duration_seconds": 92,
+      "view_count": 220316,
+      "like_count": 3490,
+      "comment_count": 336,
+      "category_id": "1",
+      "tags": [
+        "avengers doomsday",
+        "avengers 5",
+        "robert downey jr",
+        "avengers 5: doomsday",
+        "tenoch huerta",
+        "Chris Hemsworth",
+        "Anthony Mackie",
+        "Vanessa Kirby",
+        "Paul Rudd",
+        "and Florence Pugh"
+      ],
+      "url": "https://www.youtube.com/watch?v=SBzsqPk8bk4"
+    },
+    {
+      "video_id": "1pQGN1uHe1M",
+      "title": "Game Night w Caseoh & Sketch",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n(title)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2025-12-31T07:55:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1pQGN1uHe1M/hqdefault.jpg",
+      "duration": "PT4H16M43S",
+      "duration_seconds": 15403,
+      "view_count": 209401,
+      "like_count": 4474,
+      "comment_count": 73,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=6wpwmIug9tk"
+      "url": "https://www.youtube.com/watch?v=1pQGN1uHe1M"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
-    {
-      "video_id": "jBKJbedSrA0",
-      "title": "Doechii - girl, get up. (Feat. SZA)",
-      "description": "Stream//Download \"Alligator Bites Never Heal\" here: https://doechii.lnk.to/ABNH\n\nFollow Doechii Everywhere:\nInstagram: https://doechii.lnk.to/Instagram\nTikTok: https://doechii.lnk.to/TikTok\nTwitter: https://doechii.lnk.to/Twitter\nFacebook: https://doechii.lnk.to/facebook \n\nFollow SZA Everywhere:\nInstagram: https://www.instagram.com/sza/?hl=en\nTikTok: https://www.tiktok.com/@sza?lang=en\nTwitter: https://x.com/sza\nFacebook: https://www.facebook.com/sza/\n\nStream Doechii Everywhere:\nSpotify: https://doechii.lnk.to/Spotify\nApple Music: https://doechii.lnk.to/applemusic\nTidal: https://doechii.lnk.to/Tidal\nSoundcloud: https://doechii.lnk.to/soundcloud\nSubscribe to Doechii's YouTube here: https://doechii.lnk.to/YouTube\n\nDirected by James Mackel\nExecutive Producers: Anthony “ Top Dawg” Tiffith & Anthony Moosa Tiffith\nProduction Co: Adele Drive\nProducer: Moosa Tiffith\nEP: Langston Siebens\n\nAUSTRALIA UNIT\nProducer: Autumn Loveday\nPM: Callum Smit \n1st AC: Simon Noonan\n1st AC: Ryan Percy\nSydney Gea",
-      "channel_title": "Doechii",
-      "channel_id": "UCksiqtuWYtN2YluvAQnV2dQ",
-      "published_at": "2025-12-30T20:08:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jBKJbedSrA0/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 332149,
-      "like_count": 45222,
-      "comment_count": 3040,
-      "category_id": "10",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jBKJbedSrA0"
-    },
-    {
-      "video_id": "b6PjGXJiB60",
-      "title": "Roblox FNAF but my friends betrayed me.",
-      "description": "Today we play eternal nights fnaf roblox play it here https://www.roblox.com/games/11392373641/FNAF-Eternal-Nights\nSub to my friends @Jackeryz @Polarcub @Sketchh @Laughability @Jayingee",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2025-12-31T04:56:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b6PjGXJiB60/hqdefault.jpg",
-      "duration": "PT40M2S",
-      "duration_seconds": 2402,
-      "view_count": 286659,
-      "like_count": 24963,
-      "comment_count": 3388,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=b6PjGXJiB60"
-    },
-    {
-      "video_id": "7s7gnvNYdj4",
-      "title": "We need to talk about this..",
-      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
-      "channel_title": "Asmongold TV  ",
-      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
-      "published_at": "2025-12-31T03:47:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7s7gnvNYdj4/hqdefault.jpg",
-      "duration": "PT32M34S",
-      "duration_seconds": 1954,
-      "view_count": 724299,
-      "like_count": 155491,
-      "comment_count": 8949,
-      "category_id": "24",
-      "tags": [
-        "asmongold",
-        "asmongold reacts",
-        "asmongold wow",
-        "asmongold highlights",
-        "asmongold youtube",
-        "world of warcraft",
-        "asmongold funny",
-        "asmongold tv",
-        "asmongold channel",
-        "zackrawrr"
-      ],
-      "url": "https://www.youtube.com/watch?v=7s7gnvNYdj4"
-    },
-    {
-      "video_id": "5dsi4mTwzYs",
-      "title": "daño - Peso Pluma & Tito Double P (Lyric Video)",
-      "description": "Double P Records©\n\n• ESCUCHA / LISTEN:\nhttps://www.doublepmusic.com/ppdinastiatdp\n\n•LETRA\nSólo una noche\nBastó pa’ que me dejara\nDe mí ya no quiere nada,\nQue esta cansada\nMuy agotada,\nY que a la chingada\n\nNo habrá reproches\nBueno, no prometo nada\nTal vez hoy tomo\nY ya bien loco\nTe fundo el cel la llamada\n\n“Prrrrrr”\n-\n“ hey”\n-\n“qué quieres?”\n\nPorque se siente tan extraño\nLlegar y no sentir tus labios\nQuiero tenerte al lado mio\nTe juro que a veces ya no sonrío\nVen mami, ven dame la mano\nVámonos de este mundo extraño\nLlené de lágrimas el paño\nTe amo aunque me hagas tanto fucking daño\n\nPorque se siente tan extraño\nLlegar y no sentir tus labios\nQuiero tenerte al lado mío\nTe juro que a veces ya ni sonrío\nVen Mami, ven dame tu mano\nVámonos de este mundo extraño\nLlené de lágrimas el paño\nTe amo aunque me hagas tanto fucking daño\n\nPeso Pluma\n⋟Instagram - https://bit.ly/3KxRYMd\n⋟Spotify - http://bit.ly/435v7ii\n⋟TikTok - http://bit.ly/3ZBp3LC\n⋟Apple Music - http://bit.ly/411a92p\n⋟TikTok: https://",
-      "channel_title": "Peso Pluma",
-      "channel_id": "UCzrM_068Odho89mTRrrxqbA",
-      "published_at": "2025-12-29T22:07:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 550484,
-      "like_count": 12149,
-      "comment_count": 272,
-      "category_id": "10",
-      "tags": [
-        "tito doble p",
-        "la doble p",
-        "doble p",
-        "peso pp",
-        "peso pluma",
-        "doblepp",
-        "doble pp",
-        "pp peso pluma",
-        "peso pluma mix",
-        "tito double p"
-      ],
-      "url": "https://www.youtube.com/watch?v=5dsi4mTwzYs"
-    },
-    {
-      "video_id": "JrSVtb3_guQ",
-      "title": "I MUST RAKE ALL THE LEAVES [Leaf It Alone]",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2025-12-30T22:39:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JrSVtb3_guQ/hqdefault.jpg",
-      "duration": "PT1H18M9S",
-      "duration_seconds": 4689,
-      "view_count": 186416,
-      "like_count": 5987,
-      "comment_count": 336,
-      "category_id": "20",
-      "tags": [
-        "joebartolozzi"
-      ],
-      "url": "https://www.youtube.com/watch?v=JrSVtb3_guQ"
-    },
-    {
-      "video_id": "6wpwmIug9tk",
-      "title": "Jarahn - Mangi Kimbe (Audio) feat. Ragga Siai & Beegee Bwoy",
-      "description": "Official Audio for “MANGI KIMBE” by Jarahn, @raggasiai.theartist and Beegee Bwoy. Produced, mixed and mastered by Jarahn & Brenz under Palm City Records and Dawgside.\n\n🌴 Enjoy more music by Jarahn https://www.youtube.com/playlist?list=PLHJA63kZo2hAiZPxu0Dq504H2Qtg2MreT\n\n🛎 Subscribe for the latest ! https://www.youtube.com/channel/UC44awJ49tZNNMliYVPQDdmA\n\n📲 Connect and Follow Jarahn ⬇️\nhttps://instagram.com/jarahn_official? \nhttps://www.tiktok.com/@jarahnofficial? \nhttps://soundcloud.com/user-976142010\n\nMANGI KIMBE (LYRICS VIDEO)\nProducer: Jarahn (Palm City Records)\nMaster: Brenz (Dawgside Records)\nArtist: Jarahn\nArtist: Ragga Siai\nArtist: BeeGee Bwoy\n\n© 2025 Jarahn \n\n#jarahn #raggasiai #mangikimbe #beegeebwoy #pngmusic2025",
-      "channel_title": "Jarahn",
-      "channel_id": "UC44awJ49tZNNMliYVPQDdmA",
-      "published_at": "2025-12-25T06:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6wpwmIug9tk/hqdefault.jpg",
-      "duration": "PT4M56S",
-      "duration_seconds": 296,
-      "view_count": 29751,
-      "like_count": 1409,
-      "comment_count": 231,
-      "category_id": "10",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6wpwmIug9tk"
-    },
     {
       "video_id": "AfQ13jsLDms",
       "title": "Stranger Things 5 | Finale Trailer | Netflix",
@@ -394,9 +277,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 8174668,
-      "like_count": 275094,
-      "comment_count": 22340,
+      "view_count": 8216529,
+      "like_count": 275631,
+      "comment_count": 22364,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -413,32 +296,24 @@
       "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
     },
     {
-      "video_id": "G2JMTwqD170",
-      "title": "G Herbo - 1 Chance (Official Music Video)",
-      "description": "'LIL HERB' OUT NOW ⏳: https://gherbo.lnk.to/LilHerb\n\nSTREAM \"WHATEVER U WANT\": https://gherbo.lnk.to/WUW\nSTREAM \"REASON\": https://gherbo.lnk.to/Reason\nSTREAM 'WENT LEGIT' 🌏♻️: http://GHerbo.lnk.to/WentL\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO",
-      "channel_title": "G Herbo",
-      "channel_id": "UCV0pIPt5HFfulonNog3cz1A",
-      "published_at": "2025-12-29T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G2JMTwqD170/hqdefault.jpg",
-      "duration": "PT3M41S",
-      "duration_seconds": 221,
-      "view_count": 299096,
-      "like_count": 20633,
-      "comment_count": 1105,
-      "category_id": "10",
+      "video_id": "b6PjGXJiB60",
+      "title": "Roblox FNAF but my friends betrayed me.",
+      "description": "Today we play eternal nights fnaf roblox play it here https://www.roblox.com/games/11392373641/FNAF-Eternal-Nights\nSub to my friends @Jackeryz @Polarcub @Sketchh @Laughability @Jayingee",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2025-12-31T04:56:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b6PjGXJiB60/hqdefault.jpg",
+      "duration": "PT40M2S",
+      "duration_seconds": 2402,
+      "view_count": 293562,
+      "like_count": 25313,
+      "comment_count": 3418,
+      "category_id": "20",
       "tags": [
-        "G herbo",
-        "g herbo official",
-        "g herbo music",
-        "swervo",
-        "strictly 4 my fans",
-        "g herbo ptsd",
-        "survivors remorse",
-        "rap music",
-        "hip hop",
-        "chicago rap"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=G2JMTwqD170"
+      "url": "https://www.youtube.com/watch?v=b6PjGXJiB60"
     },
     {
       "video_id": "cwFaV_8jhJ0",
@@ -450,9 +325,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 361551,
-      "like_count": 7068,
-      "comment_count": 674,
+      "view_count": 365323,
+      "like_count": 7104,
+      "comment_count": 676,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -469,6 +344,154 @@
       "url": "https://www.youtube.com/watch?v=cwFaV_8jhJ0"
     },
     {
+      "video_id": "7s7gnvNYdj4",
+      "title": "We need to talk about this..",
+      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2025-12-31T03:47:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7s7gnvNYdj4/hqdefault.jpg",
+      "duration": "PT32M34S",
+      "duration_seconds": 1954,
+      "view_count": 739468,
+      "like_count": 160043,
+      "comment_count": 9075,
+      "category_id": "24",
+      "tags": [
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
+      ],
+      "url": "https://www.youtube.com/watch?v=7s7gnvNYdj4"
+    },
+    {
+      "video_id": "JrSVtb3_guQ",
+      "title": "I MUST RAKE ALL THE LEAVES [Leaf It Alone]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2025-12-30T22:39:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JrSVtb3_guQ/hqdefault.jpg",
+      "duration": "PT1H18M9S",
+      "duration_seconds": 4689,
+      "view_count": 188668,
+      "like_count": 6020,
+      "comment_count": 339,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=JrSVtb3_guQ"
+    },
+    {
+      "video_id": "-VU_ZxdgBYg",
+      "title": "Avengers: Doomsday - X-Men Teaser Breakdown - Marvel Easter Eggs You Missed!",
+      "description": "Grab Huel today with my exclusive offer of 15% OFF online with my code SCREENCRUSH15 at http://www.huel.com/SCREENCRUSH15 New Customers Only. Thank you to Huel for partnering and supporting our show!\n\nOur X-Men Avenegers Doomsday Trailer breakdown is here!\n\nExplore our merch store for movie & TV fan gear! From T-shirts to unique accessories, find your favorites. For 15% off your first order subscribe here! https://screencrushmerch.com/pages/subscribe \n\nConnect with ScreenCrush\nhttps://discord.gg/VSYHqbDwwj\nhttp://screencrush.com\nhttps://www.tiktok.com/@screencrushnews\nhttps://www.facebook.com/ScreenCrush\nhttps://twitter.com/screencrushnews\nhttp://screencrush.com/newsletter\n\nWritten and Hosted by Ryan Arey http://twitter.com/ryanarey\nEdited by Harriet Lengel-Enright\nLee Mazzio\nElias Kenouryiakis\n\nDoom's Day Festival: https://store.screencrush.com/products/doomsday-festival-t-shirt\nCreation of Peace: https://store.screencrush.com/collections/crewneck/products/creation-of-peace-sweatshirt",
+      "channel_title": "ScreenCrush",
+      "channel_id": "UCgMJGv4cQl8-q71AyFeFmtg",
+      "published_at": "2025-12-30T19:48:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-VU_ZxdgBYg/hqdefault.jpg",
+      "duration": "PT17M37S",
+      "duration_seconds": 1057,
+      "view_count": 210280,
+      "like_count": 5608,
+      "comment_count": 649,
+      "category_id": "1",
+      "tags": [
+        "screencrush",
+        "heavy spoilers",
+        "new rockstars",
+        "avengers doomsday trailer",
+        "avengers doomsday",
+        "doomsday trailer official",
+        "avengers doomsday trailer official",
+        "avengers doomsday cast reveal",
+        "doomsday trailer leak",
+        "avengers doomsday trailer reaction"
+      ],
+      "url": "https://www.youtube.com/watch?v=-VU_ZxdgBYg"
+    },
+    {
+      "video_id": "II-CmJc1GWo",
+      "title": "I Worked On A Haunted Fishing Boat",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 39:58 - Day 1 \n39:58 - 1:10:00 - Day 2 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2025-12-30T23:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/II-CmJc1GWo/hqdefault.jpg",
+      "duration": "PT1H10M",
+      "duration_seconds": 4200,
+      "view_count": 210996,
+      "like_count": 7534,
+      "comment_count": 556,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=II-CmJc1GWo"
+    },
+    {
+      "video_id": "SBzsqPk8bk4",
+      "title": "Avengers: Doomsday Teaser Trailer #2 (2026)",
+      "description": "Check out the Official Teaser Trailer for Avengers: Doomsday starring Chris Hemsworth!\n\n► Buy Tickets on Fandango: https://www.fandango.com/avengers-doomsday-2026-237176/movie-overview?cmp=Trailers_YouTube_Desc\n\nSubscribe to the channel and click the bell icon to be notified of all the hottest trailers: http://bit.ly/2CNniBy \n\n► Shop Rotten Tomatoes: http://bit.ly/3KvCU1M\n\nUS Release Date: December 18, 2026\nStarring: Chris Hemsworth, Anthony Mackie, Vanessa Kirby, Paul Rudd, Florence Pugh, Tenoch Huerta, Simu Liu, Sebastian Stan, Letitia Wright, Ebon Moss-Bachrach, Kelsey Grammer, Lewis Pullman, Danny Ramirez, Joseph Quinn, David Harbour, Winston Duke, Hannah John-Kamen, Tom Hiddleston, Patrick Stewart, Ian McKellen, Alan Cumming, Rebecca Romijn, James Marsden, Channing Tatum, Pedro Pascal, Chris Evans, Robert Downey Jr.\nDirectors: Anthony Russo and Joe Russo\nSynopsis: The next installment in the \"Avengers\" franchise.\n\n► Learn more: https://www.rottentomatoes.com/m/avengers_doomsday?cm",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2025-12-30T14:09:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SBzsqPk8bk4/hqdefault.jpg",
+      "duration": "PT1M32S",
+      "duration_seconds": 92,
+      "view_count": 220316,
+      "like_count": 3490,
+      "comment_count": 336,
+      "category_id": "1",
+      "tags": [
+        "avengers doomsday",
+        "avengers 5",
+        "robert downey jr",
+        "avengers 5: doomsday",
+        "tenoch huerta",
+        "Chris Hemsworth",
+        "Anthony Mackie",
+        "Vanessa Kirby",
+        "Paul Rudd",
+        "and Florence Pugh"
+      ],
+      "url": "https://www.youtube.com/watch?v=SBzsqPk8bk4"
+    },
+    {
+      "video_id": "1pQGN1uHe1M",
+      "title": "Game Night w Caseoh & Sketch",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n(title)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2025-12-31T07:55:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1pQGN1uHe1M/hqdefault.jpg",
+      "duration": "PT4H16M43S",
+      "duration_seconds": 15403,
+      "view_count": 209401,
+      "like_count": 4474,
+      "comment_count": 73,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1pQGN1uHe1M"
+    },
+    {
       "video_id": "63VTRloLLH4",
       "title": "Malcolm in the Middle: Life's Still Unfair | Official Teaser | Hulu",
       "description": "After shielding himself from his family for over a decade, Malcolm (Frankie Muniz) is dragged back into their orbit when Hal (Bryan Cranston) and Lois (Jane Kaczmarek) demand his presence at their 40th anniversary party. #MalcolmIntheMiddle Life's Still Unfair, a special four-part event, streams on Hulu and with #HuluOnDisneyPlus April 10. \n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confirmation=1\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like O",
@@ -478,9 +501,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/63VTRloLLH4/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 1362796,
-      "like_count": 41977,
-      "comment_count": 2666,
+      "view_count": 1365009,
+      "like_count": 42000,
+      "comment_count": 2667,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -500,66 +523,82 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 12307869,
-        "averageViewsPerVideo": 1230786.9
+      "content_trends": {
+        "high_interest_themes": [
+          {
+            "theme": "Superhero/Franchise Films",
+            "related_videos": [
+              "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026) Chris Hemsworth",
+              "Avengers: Doomsday - X-Men Teaser Breakdown - Marvel Easter Eggs You Missed!",
+              "Avengers: Doomsday Teaser Trailer #2 (2026)"
+            ],
+            "insight": "Superhero and franchise-related content, particularly relating to the Avengers series, is driving significant interest. This indicates a strong craving for content that builds on established universes, suggesting a market opportunity for more fan theories, breakdowns, and speculative content."
+          },
+          {
+            "theme": "Nostalgia & Revivals",
+            "related_videos": [
+              "Stranger Things 5 | Finale Trailer | Netflix",
+              "Malcolm in the Middle: Life's Still Unfair | Official Teaser | Hulu"
+            ],
+            "insight": "There is a notable trend towards nostalgia and revival content, with platforms like Netflix and Hulu leveraging popular past series. This suggests a viable strategy for content creators to explore similar themes or create content that taps into the emotional connections audiences have with older series."
+          },
+          {
+            "theme": "Gaming Content",
+            "related_videos": [
+              "Roblox FNAF but my friends betrayed me.",
+              "Game Night w Caseoh & Sketch"
+            ],
+            "insight": "Gaming remains a strong interest area, especially with content creators using popular games like Roblox as a backdrop for storytelling or social experiments. Opportunities exist for creators to explore collaborative gaming content or narratively driven gaming experiences."
+          }
+        ]
       },
-      "contentTrends": [
-        {
-          "trend": "Music Collaborations",
-          "description": "Music videos featuring collaborations between popular artists are trending, as seen with Doechii featuring SZA and Peso Pluma with Tito Double P.",
-          "opportunity": "Promote cross-genre collaborations to capture diverse audience segments."
-        },
-        {
-          "trend": "Nostalgia and Franchise Content",
-          "description": "Trailers and teasers for well-loved series and films like 'Stranger Things' and 'Malcolm in the Middle' are generating significant interest.",
-          "opportunity": "Capitalize on the nostalgia factor by creating content around popular franchises and past hit shows."
-        },
-        {
-          "trend": "Gaming Content",
-          "description": "Gaming-related content, particularly with a narrative twist as seen in the Roblox FNAF video, is attracting viewers.",
-          "opportunity": "Explore storytelling within gaming content to engage viewers who enjoy both gaming and narrative-driven content."
-        },
-        {
-          "trend": "Personal and Relatable Content",
-          "description": "Videos with titles suggesting personal experiences or relatable situations, such as 'We need to talk about this..', are trending.",
-          "opportunity": "Leverage content that addresses common experiences or dilemmas that resonate with a broad audience."
-        }
-      ],
-      "creatorPatterns": [
-        {
-          "pattern": "Diverse Content from Top Channels",
-          "description": "Top channels are producing a variety of content types, including music, trailers, and personal narratives.",
-          "opportunity": "Encourage creators to diversify content offerings to maintain engagement across different audience segments."
-        },
-        {
-          "pattern": "High Engagement with Limited Releases",
-          "description": "Channels with a single trending video, such as Doechii and Netflix, are performing well, indicating strong audience engagement.",
-          "opportunity": "Focus on quality and strategic release timing to maximize reach and engagement with fewer but impactful videos."
-        }
-      ],
-      "marketOpportunities": [
-        {
-          "opportunity": "Cross-Platform Collaborations",
-          "description": "With streaming services and music artists both trending, there is potential for cross-platform collaborations that leverage both video and audio content."
-        },
-        {
-          "opportunity": "Enhanced Fan Engagement",
-          "description": "Create interactive or live content related to trending topics, such as live Q&A sessions or watch parties for trailers and new releases."
-        },
-        {
-          "opportunity": "Localized Content Strategy",
-          "description": "Explore the potential for localized content or subtitles to reach non-English speaking audiences, especially for music and entertainment content."
-        }
-      ],
+      "creator_patterns": {
+        "diverse_content_strategies": [
+          {
+            "channel": "Netflix",
+            "strategy": "Utilizing large-scale productions and popular series finales to generate buzz."
+          },
+          {
+            "channel": "Flamingo",
+            "strategy": "Engaging with the gaming community through popular game references and storytelling."
+          },
+          {
+            "channel": "IGN",
+            "strategy": "Providing exclusive content previews and breakdowns for upcoming blockbuster films."
+          },
+          {
+            "channel": "Asmongold TV",
+            "strategy": "Leveraging personal experiences and unique storytelling, such as working on a haunted fishing boat, to attract niche audiences."
+          },
+          {
+            "channel": "Hulu",
+            "strategy": "Reviving and promoting classic television series to attract both nostalgic audiences and new viewers."
+          }
+        ]
+      },
+      "market_opportunities": {
+        "emerging_areas": [
+          {
+            "opportunity": "Fan Engagement and Interactive Content",
+            "recommendation": "Develop platforms or content series that allow for audience interaction, such as live Q&A sessions or fan theory discussions, especially around popular franchises."
+          },
+          {
+            "opportunity": "Cross-Platform Collaborations",
+            "recommendation": "Encourage collaborations between content creators from different niches (e.g., gaming and film analysis) to create unique content offerings that can capture broader audience segments."
+          },
+          {
+            "opportunity": "Localized Nostalgia Content",
+            "recommendation": "Create localized versions of nostalgic content, tapping into regional past popular series or cultural references, to cater to specific audience demographics."
+          }
+        ]
+      },
       "metadata_stats": {
         "analysis_method": "metadata_only",
         "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1230786
+        "avg_views_per_video": 1201955
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
