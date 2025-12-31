@@ -961,6 +961,7 @@ def render_transcript_recommendations(data):
     # Find problematic patterns
     music_filtered = data.get('summary', {}).get('music_videos_filtered', 0)
     total_fetched = data.get('summary', {}).get('total_videos_analyzed', 0) + music_filtered
+    total_analyzed = data.get('summary', {}).get('total_videos_analyzed', 0)
     music_percentage = (music_filtered / total_fetched * 100) if total_fetched > 0 else 0
     
     st.markdown(f"""
@@ -968,7 +969,7 @@ def render_transcript_recommendations(data):
             <div class="insight-label">📊 Current Content Analysis</div>
             <div class="insight-text">
                 <strong>Music Content Filtered:</strong> {music_filtered} videos ({music_percentage:.1f}% of trending)<br>
-                <strong>Analyzed Content:</strong> {total_count} non-music videos<br>
+                <strong>Analyzed Content:</strong> {total_analyzed} non-music videos<br>
                 <strong>Improvement:</strong> Filtering music videos improved analysis focus on speech-based content
             </div>
         </div>
