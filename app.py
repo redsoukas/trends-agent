@@ -553,6 +553,7 @@ def render_sidebar(data=None):
             transcript_rate = data['summary'].get('transcript_success_rate', '0.0%')
             total_videos = data['summary'].get('total_videos_analyzed', 0)
             videos_with_transcripts = data['summary'].get('videos_with_transcripts', 0)
+            music_filtered = data['summary'].get('music_videos_filtered', 0)
             
             # Color based on success rate
             rate_float = float(transcript_rate.replace('%', ''))
@@ -568,11 +569,12 @@ def render_sidebar(data=None):
             
             st.markdown(f"""
                 <div style="margin-top: 1rem; padding: 1rem; background-color: #fef2f2; border-radius: 8px; border: 1px solid #fecaca;">
-                    <div style="font-size: 0.9rem; color: #dc2626; font-weight: 600; margin-bottom: 0.5rem;">📝 Transcript Analysis</div>
+                    <div style="font-size: 0.9rem; color: #dc2626; font-weight: 600; margin-bottom: 0.5rem;">📝 Content Analysis</div>
                     <div style="font-size: 0.8rem; color: {status_color}; font-weight: 600;">{status_icon} Success Rate: {transcript_rate}</div>
-                    <div style="font-size: 0.8rem; color: #64748b;">📊 {videos_with_transcripts}/{total_videos} videos have transcripts</div>
+                    <div style="font-size: 0.8rem; color: #64748b;">📊 {videos_with_transcripts}/{total_videos} videos analyzed</div>
+                    <div style="font-size: 0.8rem; color: #64748b;">🎵 {music_filtered} music videos filtered out</div>
                     <div style="font-size: 0.7rem; color: #94a3b8; margin-top: 0.5rem;">
-                        💡 Tip: Music videos rarely have transcripts. Gaming/educational content has higher success rates.
+                        💡 Focus on educational and commentary content for better insights.
                     </div>
                 </div>
             """, unsafe_allow_html=True)
@@ -953,17 +955,17 @@ def render_transcript_recommendations(data):
             category_stats[cat]['duration_avg'] = category_stats[cat]['total_duration'] / category_stats[cat]['total']
     
     # Find problematic patterns
-    music_count = category_stats.get('Music', {}).get('total', 0)
-    total_count = len(videos)
-    music_percentage = (music_count / total_count * 100) if total_count > 0 else 0
+    music_filtered = data.get('summary', {}).get('music_videos_filtered', 0)
+    total_fetched = data.get('summary', {}).get('total_videos_analyzed', 0) + music_filtered
+    music_percentage = (music_filtered / total_fetched * 100) if total_fetched > 0 else 0
     
     st.markdown(f"""
         <div class="insight-item">
             <div class="insight-label">📊 Current Content Analysis</div>
             <div class="insight-text">
-                <strong>Music Content:</strong> {music_count}/{total_count} videos ({music_percentage:.1f}%)<br>
-                <strong>Issue:</strong> Music videos typically have 0-5% transcript availability<br>
-                <strong>Solution:</strong> Target educational, tech, gaming, and news content for better transcript rates
+                <strong>Music Content Filtered:</strong> {music_filtered} videos ({music_percentage:.1f}% of trending)<br>
+                <strong>Analyzed Content:</strong> {total_count} non-music videos<br>
+                <strong>Improvement:</strong> Filtering music videos improved analysis focus on speech-based content
             </div>
         </div>
         

@@ -131,7 +131,8 @@ class TranscriptScout:
         if 'cover' in title and 'music' in category:
             score -= 2  # Music covers rarely have transcripts
         
-        return score > 0
+        # Since we filter music at source, be more lenient with scoring
+        return score >= 0
     
     def get_transcript(self, video_id: str, language_codes: List[str] = None) -> Optional[Dict]:
         """

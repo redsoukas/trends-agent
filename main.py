@@ -70,8 +70,27 @@ def main():
         
         # Step 1: Fetch trending videos
         logger.info("📺 Fetching trending YouTube videos...")
-        trending_videos = youtube_scout.get_trending_videos(max_results=10)
-        logger.info(f"Found {len(trending_videos)} trending videos")
+        trending_videos_raw = youtube_scout.get_trending_videos(max_results=15)  # Get more to account for filtering
+        
+        # Filter out music videos (category_id "10")
+        trending_videos = []
+        music_videos_filtered = 0
+        
+        for video in trending_videos_raw:
+            if video.get('category_id') == '10':  # Music category
+                music_videos_filtered += 1
+                logger.debug(f"🎵 Filtered music video: {video.get('title', 'Unknown')[:50]}...")
+            else:
+                trending_videos.append(video)
+        
+        # Take top 10 after filtering
+        trending_videos = trending_videos[:10]
+        
+        logger.info(f"Found {len(trending_videos)} trending videos (filtered {music_videos_filtered} music videos)")
+        
+        if len(trending_videos) == 0:
+            logger.warning("⚠️ No non-music videos found in trending results")
+            return False
         
         # Step 2: Enhanced transcript extraction with filtering
         logger.info("📝 Analyzing videos for transcript potential...")
@@ -140,6 +159,7 @@ def main():
             'date': datetime.utcnow().strftime('%Y-%m-%d'),
             'summary': {
                 'total_videos_analyzed': len(trending_videos),
+                'music_videos_filtered': music_videos_filtered,
                 'high_potential_videos': len(high_potential_videos),
                 'videos_with_transcripts': len(videos_with_transcripts),
                 'videos_without_transcripts': len(videos_without_transcripts),
