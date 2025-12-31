@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-12-31T03:34:13.362861",
+  "timestamp": "2025-12-31T04:19:35.595168",
   "date": "2025-12-31",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "high_potential_videos": 5,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -21,9 +21,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jBKJbedSrA0/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 183292,
-      "like_count": 33871,
-      "comment_count": 2547,
+      "view_count": 201191,
+      "like_count": 35743,
+      "comment_count": 2609,
       "category_id": "10",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jBKJbedSrA0"
@@ -38,9 +38,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 6599644,
-      "like_count": 246271,
-      "comment_count": 20912,
+      "view_count": 6772816,
+      "like_count": 250004,
+      "comment_count": 21102,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -57,6 +57,23 @@
       "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
     },
     {
+      "video_id": "vTSTO-2I_FQ",
+      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "channel_title": "Jexy",
+      "channel_id": "UCJknBIqRFnrDBTDREVRnlmA",
+      "published_at": "2025-12-30T20:04:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vTSTO-2I_FQ/hqdefault.jpg",
+      "duration": "PT51S",
+      "duration_seconds": 51,
+      "view_count": 482709,
+      "like_count": 9577,
+      "comment_count": 67,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vTSTO-2I_FQ"
+    },
+    {
       "video_id": "G2JMTwqD170",
       "title": "G Herbo - 1 Chance (Official Music Video)",
       "description": "'LIL HERB' OUT NOW ⏳: https://gherbo.lnk.to/LilHerb\n\nSTREAM \"WHATEVER U WANT\": https://gherbo.lnk.to/WUW\nSTREAM \"REASON\": https://gherbo.lnk.to/Reason\nSTREAM 'WENT LEGIT' 🌏♻️: http://GHerbo.lnk.to/WentL\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO",
@@ -66,9 +83,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G2JMTwqD170/hqdefault.jpg",
       "duration": "PT3M41S",
       "duration_seconds": 221,
-      "view_count": 260977,
-      "like_count": 19194,
-      "comment_count": 1057,
+      "view_count": 267698,
+      "like_count": 19402,
+      "comment_count": 1063,
       "category_id": "10",
       "tags": [
         "G herbo",
@@ -94,9 +111,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 175903,
-      "like_count": 5170,
-      "comment_count": 538,
+      "view_count": 196557,
+      "like_count": 5393,
+      "comment_count": 560,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -122,9 +139,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wqSN2cLSQOA/hqdefault.jpg",
       "duration": "PT2H58M26S",
       "duration_seconds": 10706,
-      "view_count": 1315207,
-      "like_count": 16507,
-      "comment_count": 124,
+      "view_count": 1318776,
+      "like_count": 16525,
+      "comment_count": 128,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=wqSN2cLSQOA"
@@ -139,9 +156,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 450786,
-      "like_count": 10677,
-      "comment_count": 254,
+      "view_count": 466761,
+      "like_count": 10964,
+      "comment_count": 256,
       "category_id": "10",
       "tags": [
         "tito doble p",
@@ -167,9 +184,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/63VTRloLLH4/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 1287010,
-      "like_count": 40287,
-      "comment_count": 2547,
+      "view_count": 1293883,
+      "like_count": 40515,
+      "comment_count": 2560,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -186,59 +203,60 @@
       "url": "https://www.youtube.com/watch?v=63VTRloLLH4"
     },
     {
-      "video_id": "wzIo730bjoI",
-      "title": "Guessing Your Rank RETURNS",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nGUESSING RANKS RETURNS\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2025-12-30T01:22:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wzIo730bjoI/hqdefault.jpg",
-      "duration": "PT1H13M12S",
-      "duration_seconds": 4392,
-      "view_count": 782762,
-      "like_count": 21219,
-      "comment_count": 993,
+      "video_id": "tcmyGHPyujA",
+      "title": "ROBLOX BLIND SHOT Ft. Foltyn",
+      "description": "Merch:  https://shopcaylus.com/ \n\nMy Roblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\nMy Roblox Game: https://www.roblox.com/games/98868317791094/DUMP-ALPHA\n\nDump Discord: https://discord.com/invite/dumpgame\n\nWaterpark Simulator: https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n\nMy Discord Server: https://discord.gg/infinite\n\nMy Secret Roblox Channel: https://www.youtube.com/@CaylusBloxTopVids\n\nInstagram: https://www.instagram.com/caylus/?hl=en\n\nTwitter: https://x.com/caylusq",
+      "channel_title": "CaylusBlox",
+      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
+      "published_at": "2025-12-30T18:51:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tcmyGHPyujA/hqdefault.jpg",
+      "duration": "PT13M44S",
+      "duration_seconds": 824,
+      "view_count": 372684,
+      "like_count": 7659,
+      "comment_count": 1818,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "GUESSING RANKS RETURNS",
-        "jynxzi r6",
-        "jynxzi rainbow six siege",
-        "rainbow six siege",
-        "rainbow six siege guessing ranks"
+        "caylusblox",
+        "caylus roblox",
+        "caylus",
+        "caylus gaming",
+        "caylus infinite",
+        "infinite lists",
+        "calus",
+        "callus",
+        "calis",
+        "roblox"
       ],
-      "url": "https://www.youtube.com/watch?v=wzIo730bjoI"
+      "url": "https://www.youtube.com/watch?v=tcmyGHPyujA"
     },
     {
-      "video_id": "Q5BI2ycz0Io",
-      "title": "Ryan Castro, Kapo - LA VILLA (Letra) || su mini mini a mí me hipnotizo",
-      "description": "\"su mini mini a mí me hipnotizo\" 🦖💙\n#RyanCastro #Kapo #LAVILLA #TikTok\n\nRyan Castro, Kapo - LA VILLA (Letra)\nRyan Castro, Kapo - LA VILLA (Letra)\nRyan Castro, Kapo - LA VILLA (Letra)\n\n🌟 Sigue a Ryan Castro por aquí 🌟\n🎬 YouTube: https://www.youtube.com/channel/UCU4Zw6BTodIqGYUpvlaLD5A\n📘 Facebook: https://www.facebook.com/ryancastrro\n🎵 TikTok: https://www.tiktok.com/@elcantantedelghetto\n📸 Instagram: https://www.instagram.com/ryancastrro/\n\n🌟 Sigue a Kapo por aquí 🌟\n🎬 YouTube: https://www.youtube.com/@yosoytukapo\n📘 Facebook: https://www.facebook.com/kapooficial/\n🎵 TikTok: https://www.tiktok.com/@yosoytukapo\n📸 Instagram: https://www.instagram.com/yosoytukapo\n\n🌐 ¡Mis Redes Sociales! 🌐\n🥳 ¡Seguime y te doy un chocolate! 🍫\n\n📧 Correo de Contacto: marinosaurioxx@gmail.com\n📸 Instagram: https://www.instagram.com/marinosaurio_\n🎵 TikTok: https://www.tiktok.com/@marinosaurio_\n🐦 Twitter: https://twitter.com/marinosaurio\n📌 Pinterest: https://pinterest.com/marinosaurioxx\n☕ Paypal - Donaciones: https://ww",
-      "channel_title": "Marinosaurio",
-      "channel_id": "UCaaWpb0sOBYVpIAWsgawatw",
-      "published_at": "2025-12-27T17:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q5BI2ycz0Io/hqdefault.jpg",
-      "duration": "PT3M13S",
-      "duration_seconds": 193,
-      "view_count": 675243,
-      "like_count": 5170,
-      "comment_count": 38,
+      "video_id": "neRiV_eE7mQ",
+      "title": "Mega Victory Mass Lyrical Video | Chiranjeevi | Venkatesh | Anil Ravipudi | Bheems Ceciroleo | MSG",
+      "description": "Get ready for the Biggest Celebration Anthem of the season🔥\n\n🎶 Presenting the Mega Victory Mass Lyrical Video Song from Mana Shankara Varaprasad Garu featuring Megastar Chiranjeevi and Victory Venkatesh.\n\n#MegaVictoryMass #ManaShankaraVaraprasadGaru #Chiranjeevi #Venkatesh #BheemsCeciroleo #MSG  \n------------------------------------------ \nConnect with T-Series Telugu: 👉 http://bit.ly/SubscribeToTseriesTelugu\n------------------------------------------\n🎶 Song Details 🎶\nSong Name: Mega Victory Mass Song\nMovie Name: Mana Shankaravaraprasad Garu\nSong Featuring: Megastar Chiranjeevi, Victory Venkatesh \nMusic - Bheems Ceciroleo\nSingers: Nakash Aziz and Vishal Dadlani\r\nLyrics - Kasarla Shyam \nChoreography: Vijay Polaki\n\n🎼Musicians Credits🎼\nSong Composed And Arranged by Bheems Ceciroleo\nKeyboards & Rhythms- Vaidhy VR, Bharath Madhusudan, Midhun\nAsokan, Dathu Eswar, Agastya Raag\nFlute- Ramesh Kuppampati\nChorus- Arjun Vijay,Bharadwaj Krishna, Tusher Sambhara\nRecording studio @ A Bheems Musicals ",
+      "channel_title": "T-Series Telugu",
+      "channel_id": "UCnJjcn5FrgrOEp5_N45ZLEQ",
+      "published_at": "2025-12-30T10:45:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/neRiV_eE7mQ/hqdefault.jpg",
+      "duration": "PT3M16S",
+      "duration_seconds": 196,
+      "view_count": 4369337,
+      "like_count": 97023,
+      "comment_count": 3782,
       "category_id": "10",
       "tags": [
-        "ryan castro kapo la villa",
-        "ryan castro kapo la villa letra",
-        "ryan castro kapo la villa lyrics",
-        "ryan castro kapo la villa audio",
-        "ryan castro kapo la villa tiktok",
-        "ryan castro kapo la villa video oficial",
-        "ryan castro kapo la villa reaccion",
-        "ryan castro kapo la villa karaoke",
-        "una que baile dancehall el doctor me receto su mini mini a mi me hipnotizo kapo",
-        "una que baile dancehall el doctor me receto su mini mini a mi me hipnotizo tiktok"
+        "T-Series Telugu",
+        "Telugu New Dance Song",
+        "Telugu New Year Party Song",
+        "Latest telugu New Year Song",
+        "telugu Party Song",
+        "Latest Telugu Party Song 2025",
+        "Mega Victory Mass Lyrical video",
+        "Mega Victory Mass Song Venkatesh",
+        "Mega Victory Mass Video Bheems Ceciroleo",
+        "Mega Victory Mass MSG"
       ],
-      "url": "https://www.youtube.com/watch?v=Q5BI2ycz0Io"
+      "url": "https://www.youtube.com/watch?v=neRiV_eE7mQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -253,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jBKJbedSrA0/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 183292,
-      "like_count": 33871,
-      "comment_count": 2547,
+      "view_count": 201191,
+      "like_count": 35743,
+      "comment_count": 2609,
       "category_id": "10",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jBKJbedSrA0"
@@ -270,9 +288,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wqSN2cLSQOA/hqdefault.jpg",
       "duration": "PT2H58M26S",
       "duration_seconds": 10706,
-      "view_count": 1315207,
-      "like_count": 16507,
-      "comment_count": 124,
+      "view_count": 1318776,
+      "like_count": 16525,
+      "comment_count": 128,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=wqSN2cLSQOA"
@@ -287,9 +305,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 450786,
-      "like_count": 10677,
-      "comment_count": 254,
+      "view_count": 466761,
+      "like_count": 10964,
+      "comment_count": 256,
       "category_id": "10",
       "tags": [
         "tito doble p",
@@ -306,59 +324,60 @@
       "url": "https://www.youtube.com/watch?v=5dsi4mTwzYs"
     },
     {
-      "video_id": "wzIo730bjoI",
-      "title": "Guessing Your Rank RETURNS",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nGUESSING RANKS RETURNS\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2025-12-30T01:22:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wzIo730bjoI/hqdefault.jpg",
-      "duration": "PT1H13M12S",
-      "duration_seconds": 4392,
-      "view_count": 782762,
-      "like_count": 21219,
-      "comment_count": 993,
+      "video_id": "tcmyGHPyujA",
+      "title": "ROBLOX BLIND SHOT Ft. Foltyn",
+      "description": "Merch:  https://shopcaylus.com/ \n\nMy Roblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\nMy Roblox Game: https://www.roblox.com/games/98868317791094/DUMP-ALPHA\n\nDump Discord: https://discord.com/invite/dumpgame\n\nWaterpark Simulator: https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n\nMy Discord Server: https://discord.gg/infinite\n\nMy Secret Roblox Channel: https://www.youtube.com/@CaylusBloxTopVids\n\nInstagram: https://www.instagram.com/caylus/?hl=en\n\nTwitter: https://x.com/caylusq",
+      "channel_title": "CaylusBlox",
+      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
+      "published_at": "2025-12-30T18:51:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tcmyGHPyujA/hqdefault.jpg",
+      "duration": "PT13M44S",
+      "duration_seconds": 824,
+      "view_count": 372684,
+      "like_count": 7659,
+      "comment_count": 1818,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "GUESSING RANKS RETURNS",
-        "jynxzi r6",
-        "jynxzi rainbow six siege",
-        "rainbow six siege",
-        "rainbow six siege guessing ranks"
+        "caylusblox",
+        "caylus roblox",
+        "caylus",
+        "caylus gaming",
+        "caylus infinite",
+        "infinite lists",
+        "calus",
+        "callus",
+        "calis",
+        "roblox"
       ],
-      "url": "https://www.youtube.com/watch?v=wzIo730bjoI"
+      "url": "https://www.youtube.com/watch?v=tcmyGHPyujA"
     },
     {
-      "video_id": "Q5BI2ycz0Io",
-      "title": "Ryan Castro, Kapo - LA VILLA (Letra) || su mini mini a mí me hipnotizo",
-      "description": "\"su mini mini a mí me hipnotizo\" 🦖💙\n#RyanCastro #Kapo #LAVILLA #TikTok\n\nRyan Castro, Kapo - LA VILLA (Letra)\nRyan Castro, Kapo - LA VILLA (Letra)\nRyan Castro, Kapo - LA VILLA (Letra)\n\n🌟 Sigue a Ryan Castro por aquí 🌟\n🎬 YouTube: https://www.youtube.com/channel/UCU4Zw6BTodIqGYUpvlaLD5A\n📘 Facebook: https://www.facebook.com/ryancastrro\n🎵 TikTok: https://www.tiktok.com/@elcantantedelghetto\n📸 Instagram: https://www.instagram.com/ryancastrro/\n\n🌟 Sigue a Kapo por aquí 🌟\n🎬 YouTube: https://www.youtube.com/@yosoytukapo\n📘 Facebook: https://www.facebook.com/kapooficial/\n🎵 TikTok: https://www.tiktok.com/@yosoytukapo\n📸 Instagram: https://www.instagram.com/yosoytukapo\n\n🌐 ¡Mis Redes Sociales! 🌐\n🥳 ¡Seguime y te doy un chocolate! 🍫\n\n📧 Correo de Contacto: marinosaurioxx@gmail.com\n📸 Instagram: https://www.instagram.com/marinosaurio_\n🎵 TikTok: https://www.tiktok.com/@marinosaurio_\n🐦 Twitter: https://twitter.com/marinosaurio\n📌 Pinterest: https://pinterest.com/marinosaurioxx\n☕ Paypal - Donaciones: https://ww",
-      "channel_title": "Marinosaurio",
-      "channel_id": "UCaaWpb0sOBYVpIAWsgawatw",
-      "published_at": "2025-12-27T17:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q5BI2ycz0Io/hqdefault.jpg",
-      "duration": "PT3M13S",
-      "duration_seconds": 193,
-      "view_count": 675243,
-      "like_count": 5170,
-      "comment_count": 38,
+      "video_id": "neRiV_eE7mQ",
+      "title": "Mega Victory Mass Lyrical Video | Chiranjeevi | Venkatesh | Anil Ravipudi | Bheems Ceciroleo | MSG",
+      "description": "Get ready for the Biggest Celebration Anthem of the season🔥\n\n🎶 Presenting the Mega Victory Mass Lyrical Video Song from Mana Shankara Varaprasad Garu featuring Megastar Chiranjeevi and Victory Venkatesh.\n\n#MegaVictoryMass #ManaShankaraVaraprasadGaru #Chiranjeevi #Venkatesh #BheemsCeciroleo #MSG  \n------------------------------------------ \nConnect with T-Series Telugu: 👉 http://bit.ly/SubscribeToTseriesTelugu\n------------------------------------------\n🎶 Song Details 🎶\nSong Name: Mega Victory Mass Song\nMovie Name: Mana Shankaravaraprasad Garu\nSong Featuring: Megastar Chiranjeevi, Victory Venkatesh \nMusic - Bheems Ceciroleo\nSingers: Nakash Aziz and Vishal Dadlani\r\nLyrics - Kasarla Shyam \nChoreography: Vijay Polaki\n\n🎼Musicians Credits🎼\nSong Composed And Arranged by Bheems Ceciroleo\nKeyboards & Rhythms- Vaidhy VR, Bharath Madhusudan, Midhun\nAsokan, Dathu Eswar, Agastya Raag\nFlute- Ramesh Kuppampati\nChorus- Arjun Vijay,Bharadwaj Krishna, Tusher Sambhara\nRecording studio @ A Bheems Musicals ",
+      "channel_title": "T-Series Telugu",
+      "channel_id": "UCnJjcn5FrgrOEp5_N45ZLEQ",
+      "published_at": "2025-12-30T10:45:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/neRiV_eE7mQ/hqdefault.jpg",
+      "duration": "PT3M16S",
+      "duration_seconds": 196,
+      "view_count": 4369337,
+      "like_count": 97023,
+      "comment_count": 3782,
       "category_id": "10",
       "tags": [
-        "ryan castro kapo la villa",
-        "ryan castro kapo la villa letra",
-        "ryan castro kapo la villa lyrics",
-        "ryan castro kapo la villa audio",
-        "ryan castro kapo la villa tiktok",
-        "ryan castro kapo la villa video oficial",
-        "ryan castro kapo la villa reaccion",
-        "ryan castro kapo la villa karaoke",
-        "una que baile dancehall el doctor me receto su mini mini a mi me hipnotizo kapo",
-        "una que baile dancehall el doctor me receto su mini mini a mi me hipnotizo tiktok"
+        "T-Series Telugu",
+        "Telugu New Dance Song",
+        "Telugu New Year Party Song",
+        "Latest telugu New Year Song",
+        "telugu Party Song",
+        "Latest Telugu Party Song 2025",
+        "Mega Victory Mass Lyrical video",
+        "Mega Victory Mass Song Venkatesh",
+        "Mega Victory Mass Video Bheems Ceciroleo",
+        "Mega Victory Mass MSG"
       ],
-      "url": "https://www.youtube.com/watch?v=Q5BI2ycz0Io"
+      "url": "https://www.youtube.com/watch?v=neRiV_eE7mQ"
     },
     {
       "video_id": "AfQ13jsLDms",
@@ -370,9 +389,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 6599644,
-      "like_count": 246271,
-      "comment_count": 20912,
+      "view_count": 6772816,
+      "like_count": 250004,
+      "comment_count": 21102,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -389,6 +408,23 @@
       "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
     },
     {
+      "video_id": "vTSTO-2I_FQ",
+      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "channel_title": "Jexy",
+      "channel_id": "UCJknBIqRFnrDBTDREVRnlmA",
+      "published_at": "2025-12-30T20:04:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vTSTO-2I_FQ/hqdefault.jpg",
+      "duration": "PT51S",
+      "duration_seconds": 51,
+      "view_count": 482709,
+      "like_count": 9577,
+      "comment_count": 67,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vTSTO-2I_FQ"
+    },
+    {
       "video_id": "G2JMTwqD170",
       "title": "G Herbo - 1 Chance (Official Music Video)",
       "description": "'LIL HERB' OUT NOW ⏳: https://gherbo.lnk.to/LilHerb\n\nSTREAM \"WHATEVER U WANT\": https://gherbo.lnk.to/WUW\nSTREAM \"REASON\": https://gherbo.lnk.to/Reason\nSTREAM 'WENT LEGIT' 🌏♻️: http://GHerbo.lnk.to/WentL\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO",
@@ -398,9 +434,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G2JMTwqD170/hqdefault.jpg",
       "duration": "PT3M41S",
       "duration_seconds": 221,
-      "view_count": 260977,
-      "like_count": 19194,
-      "comment_count": 1057,
+      "view_count": 267698,
+      "like_count": 19402,
+      "comment_count": 1063,
       "category_id": "10",
       "tags": [
         "G herbo",
@@ -426,9 +462,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 175903,
-      "like_count": 5170,
-      "comment_count": 538,
+      "view_count": 196557,
+      "like_count": 5393,
+      "comment_count": 560,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -454,9 +490,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/63VTRloLLH4/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 1287010,
-      "like_count": 40287,
-      "comment_count": 2547,
+      "view_count": 1293883,
+      "like_count": 40515,
+      "comment_count": 2560,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -477,95 +513,72 @@
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 9,
-        "totalViews": 11730824,
-        "averageViewsPerVideo": 1303424,
-        "categories": "Unknown"
+        "totalVideos": 10,
+        "totalViews": 15742412,
+        "averageViewsPerVideo": 1574241.2
       },
       "contentTrends": {
-        "musicDominance": {
-          "description": "Music-related content is heavily represented with 4 out of 9 videos being music videos or lyric videos.",
-          "videos": [
+        "music": {
+          "count": 3,
+          "examples": [
             "Doechii - girl, get up. (Feat. SZA)",
             "G Herbo - 1 Chance (Official Music Video)",
-            "daño - Peso Pluma & Tito Double P (Lyric Video)",
-            "Ryan Castro, Kapo - LA VILLA (Letra)"
+            "daño - Peso Pluma & Tito Double P (Lyric Video)"
           ],
-          "insight": "Music content continues to be a dominant force on YouTube, suggesting strong engagement and viewership."
+          "insight": "Music videos continue to be popular, particularly those featuring collaborations or well-known artists."
         },
-        "mediaFranchiseInfluence": {
-          "description": "Popular media franchises such as 'Stranger Things' and 'Avengers' are driving significant viewership.",
-          "videos": [
+        "entertainment": {
+          "count": 4,
+          "examples": [
             "Stranger Things 5 | Finale Trailer | Netflix",
-            "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026)"
-          ],
-          "insight": "Leveraging established franchises can enhance visibility and attract large audiences."
-        },
-        "short-formContent": {
-          "description": "The presence of #shorts indicates a trend towards short-form content.",
-          "videos": [
+            "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026) Chris Hemsworth",
+            "Malcolm in the Middle: Life's Still Unfair | Official Teaser | Hulu",
             "#shorts WHEN IS TACO TUESDAY?"
           ],
-          "insight": "Short-form content is gaining traction, aligning with trends seen on other platforms like TikTok."
+          "insight": "Entertainment content, especially trailers and series teasers, attract significant attention. The inclusion of popular franchises and nostalgia elements boosts engagement."
         },
-        "nostalgiaFactor": {
-          "description": "Content like 'Malcolm in the Middle' teaser taps into nostalgia, which is a powerful tool for audience engagement.",
-          "videos": [
-            "Malcolm in the Middle: Life's Still Unfair | Official Teaser | Hulu"
+        "gaming": {
+          "count": 2,
+          "examples": [
+            "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+            "ROBLOX BLIND SHOT Ft. Foltyn"
           ],
-          "insight": "Reviving classic shows or films can capitalize on nostalgic feelings to attract both old and new viewers."
+          "insight": "Gaming content remains a strong area, with live events and popular games like Roblox capturing viewer interest."
+        },
+        "cultural": {
+          "count": 1,
+          "examples": [
+            "Mega Victory Mass Lyrical Video | Chiranjeevi | Venkatesh | Anil Ravipudi | Bheems Ceciroleo | MSG"
+          ],
+          "insight": "Cultural and regional content can break into trending, especially when associated with significant figures or events."
         }
       },
       "creatorPatterns": {
-        "diversityInTopChannels": {
-          "description": "Top channels are diverse, covering music, entertainment, and gaming.",
-          "channels": [
-            "Doechii",
-            "Netflix",
-            "G Herbo",
-            "IGN",
-            "KreekCraft"
-          ],
-          "insight": "There is a wide range of successful content creators, suggesting open opportunities for new entrants across various niches."
-        }
+        "limitedDataAvailable": true,
+        "notableChannels": [
+          "Netflix",
+          "IGN"
+        ],
+        "insight": "Major streaming platforms and entertainment channels consistently feature in trending lists, leveraging their large subscriber bases and high production quality."
       },
       "marketOpportunities": {
-        "musicIndustry": {
-          "description": "The strong performance of music videos indicates robust demand.",
-          "suggestions": [
-            "Invest in music video production and collaborations with popular artists.",
-            "Explore opportunities in music marketing and artist promotion."
-          ]
+        "collaborations": {
+          "insight": "Videos featuring collaborations between artists or creators from different domains see higher engagement. Consider cross-industry partnerships."
         },
-        "mediaCollaborations": {
-          "description": "Success of franchise-related content opens doors for collaborations.",
-          "suggestions": [
-            "Partner with media companies to create content around popular franchises.",
-            "Develop cross-platform promotions to enhance reach and engagement."
-          ]
+        "regionalContent": {
+          "insight": "Expanding content that appeals to specific cultural or regional audiences can tap into underrepresented markets with high engagement potential."
         },
-        "short-formContentDevelopment": {
-          "description": "Short-form content is becoming increasingly popular.",
-          "suggestions": [
-            "Experiment with YouTube Shorts to capture attention in under 60 seconds.",
-            "Create engaging, snackable content that aligns with viewers’ rapid consumption habits."
-          ]
-        },
-        "nostalgiaMarketing": {
-          "description": "Nostalgia is a powerful tool for audience engagement.",
-          "suggestions": [
-            "Develop content that revives popular themes or characters from the past.",
-            "Leverage nostalgia in marketing campaigns to connect emotionally with audiences."
-          ]
+        "interactiveEvents": {
+          "insight": "Live interactive events, particularly in the gaming sector, are a promising area for engagement. Offering exclusive content or giveaways during these events can enhance viewer participation."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1303424
+        "avg_views_per_video": 1574241
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
