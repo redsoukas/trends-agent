@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-01T18:12:37.530878",
+  "timestamp": "2026-01-01T21:08:54.845388",
   "date": "2026-01-01",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,6 +13,54 @@
   },
   "trending_videos": [
     {
+      "video_id": "wHuWmjXsReU",
+      "title": "Marvel Television’s Wonder Man | Official Trailer",
+      "description": "He was born to play this role, but the spotlight reveals everything. \n\nWonder Man, an 8-episode series, premieres January 27 at 6PM PT only on Disney+.\n\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+      "channel_title": "Marvel Entertainment",
+      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "published_at": "2026-01-01T17:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 847617,
+      "like_count": 55918,
+      "comment_count": 2811,
+      "category_id": "24",
+      "tags": [
+        "marvel",
+        "comics"
+      ],
+      "url": "https://www.youtube.com/watch?v=wHuWmjXsReU"
+    },
+    {
+      "video_id": "78HUK7xJabw",
+      "title": "Playing Repo With The Boys Again (Jynxzi & Sketch)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n0:00-11:02 Yap session\n11:03-1:11:54  Sea of Thieves disaster \n1:11:55-1:57:45  Don't Scream fail\n1:57:46-4:33:50  Repo\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2025-12-31T23:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/78HUK7xJabw/hqdefault.jpg",
+      "duration": "PT4H33M51S",
+      "duration_seconds": 16431,
+      "view_count": 390702,
+      "like_count": 16366,
+      "comment_count": 1193,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=78HUK7xJabw"
+    },
+    {
       "video_id": "AfQ13jsLDms",
       "title": "Stranger Things 5 | Finale Trailer | Netflix",
       "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
@@ -22,9 +70,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 12386415,
-      "like_count": 308262,
-      "comment_count": 24364,
+      "view_count": 12644583,
+      "like_count": 308626,
+      "comment_count": 24496,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -50,9 +98,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/z8-7T1hBnL8/hqdefault.jpg",
       "duration": "PT30M58S",
       "duration_seconds": 1858,
-      "view_count": 516352,
-      "like_count": 51054,
-      "comment_count": 9865,
+      "view_count": 589122,
+      "like_count": 55730,
+      "comment_count": 10508,
       "category_id": "1",
       "tags": [
         "shippidge",
@@ -69,6 +117,78 @@
       "url": "https://www.youtube.com/watch?v=z8-7T1hBnL8"
     },
     {
+      "video_id": "QK1zXP0NTeM",
+      "title": "Lil Baby - Violation (Official Music Video)",
+      "description": "",
+      "channel_title": "Lil Baby Official ",
+      "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
+      "published_at": "2025-12-31T20:57:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
+      "duration": "PT2M18S",
+      "duration_seconds": 138,
+      "view_count": 268801,
+      "like_count": 19050,
+      "comment_count": 1016,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
+    },
+    {
+      "video_id": "RpEGHWdKLL8",
+      "title": "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max",
+      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— HOUSE OF THE DRAGON SEASON 3\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for House of the Dragon Season 3, the long-brewing conflict within House Targaryen crosses the point of no return as the Dance of the Dragons erupts into open war. With King Aegon II displaced and Prince Aemond assuming power in King’s Landing, the struggle for the Iron",
+      "channel_title": "Teaser Universe",
+      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
+      "published_at": "2025-12-31T14:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 46247,
+      "like_count": 472,
+      "comment_count": 68,
+      "category_id": "1",
+      "tags": [
+        "house of the dragon season 3",
+        "house of the dragon official trailer",
+        "house of the dragon season 3 trailer",
+        "house of the dragon season 3 teaser",
+        "house of the dragon season 3 official trailer",
+        "house of the dragon season 3 release date",
+        "house of the dragon season 3 trailer hbo",
+        "house of the dragon season 3 leaks",
+        "house of the dragon season 3 predictions",
+        "house of the dragon season 3 preview"
+      ],
+      "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
+    },
+    {
+      "video_id": "F7LbUKy9nFc",
+      "title": "NOOB vs PRO Cruise Battle in Minecraft!",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-01-01T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F7LbUKy9nFc/hqdefault.jpg",
+      "duration": "PT20M35S",
+      "duration_seconds": 1235,
+      "view_count": 204575,
+      "like_count": 3485,
+      "comment_count": 798,
+      "category_id": "24",
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly",
+        "NOOB vs PRO Cruise Battle in Minecraft!"
+      ],
+      "url": "https://www.youtube.com/watch?v=F7LbUKy9nFc"
+    },
+    {
       "video_id": "cwFaV_8jhJ0",
       "title": "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026) Chris Hemsworth",
       "description": "Don't miss a new look at the Avengers: Doomsday Thor teaser trailer for the upcoming MCU film. Hear Thor's call to Odin for strength to face one last enemy to offer a new future of peace for his daughter, Love.\n\nAvengers: Doomsday opens in theaters on December 18, 2026.\n\n#IGN #Marvel #MCU",
@@ -78,9 +198,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 934175,
-      "like_count": 12439,
-      "comment_count": 954,
+      "view_count": 983108,
+      "like_count": 12759,
+      "comment_count": 973,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -97,49 +217,23 @@
       "url": "https://www.youtube.com/watch?v=cwFaV_8jhJ0"
     },
     {
-      "video_id": "78HUK7xJabw",
-      "title": "Playing Repo With The Boys Again (Jynxzi & Sketch)",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n0:00-11:02 Yap session\n11:03-1:11:54  Sea of Thieves disaster \n1:11:55-1:57:45  Don't Scream fail\n1:57:46-4:33:50  Repo\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2025-12-31T23:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/78HUK7xJabw/hqdefault.jpg",
-      "duration": "PT4H33M51S",
-      "duration_seconds": 16431,
-      "view_count": 329328,
-      "like_count": 14350,
-      "comment_count": 1138,
+      "video_id": "z1Rjp7eIXGc",
+      "title": "Regenerating Lifesteal's Final End Portal",
+      "description": "Texture pack: https://modrinth.com/resourcepack/bare-bones\n& theobaldthebirds: https://www.youtube.com/watch?v=gVsjkErSXeg\n\nDone at 11:44pm on the last day of the year lol\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/",
+      "channel_title": "rekrap2",
+      "channel_id": "UCvt0HYxX34vUvqu66HLXeUw",
+      "published_at": "2026-01-01T14:31:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z1Rjp7eIXGc/hqdefault.jpg",
+      "duration": "PT36M56S",
+      "duration_seconds": 2216,
+      "view_count": 395411,
+      "like_count": 32928,
+      "comment_count": 2102,
       "category_id": "20",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "Minecraft"
       ],
-      "url": "https://www.youtube.com/watch?v=78HUK7xJabw"
-    },
-    {
-      "video_id": "QK1zXP0NTeM",
-      "title": "Lil Baby - Violation (Official Music Video)",
-      "description": "",
-      "channel_title": "Lil Baby Official ",
-      "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
-      "published_at": "2025-12-31T20:57:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 237057,
-      "like_count": 17632,
-      "comment_count": 988,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
+      "url": "https://www.youtube.com/watch?v=z1Rjp7eIXGc"
     },
     {
       "video_id": "qMZMr6HLdkQ",
@@ -151,129 +245,65 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qMZMr6HLdkQ/hqdefault.jpg",
       "duration": "PT17M29S",
       "duration_seconds": 1049,
-      "view_count": 68826,
-      "like_count": 5501,
-      "comment_count": 443,
+      "view_count": 77042,
+      "like_count": 5898,
+      "comment_count": 461,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qMZMr6HLdkQ"
-    },
-    {
-      "video_id": "J41oDT8XD5E",
-      "title": "Hermitcraft 11: Episode 7 - ALL the Farms",
-      "description": "In this episode of Hermitcraft Season 11, Mumbo builds up his new industrial district to add a huge number of new highly efficient Minecraft farms. There's an automatic Minecraft villager breeder, automatic minecraft iron farm, automatic bamboo farm with autocrafting, an automatic super smelter and automatic cobblestone generator. All built within a 12 hour time crunch!\n\nFilming channel: https://www.youtube.com/user/ThatMumboJumbo2\nInstagram: https://www.instagram.com/officialmumbo/\nTwitter: https://twitter.com/ThatMumboJumbo",
-      "channel_title": "Mumbo Jumbo",
-      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
-      "published_at": "2025-12-31T16:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J41oDT8XD5E/hqdefault.jpg",
-      "duration": "PT34M46S",
-      "duration_seconds": 2086,
-      "view_count": 848974,
-      "like_count": 56463,
-      "comment_count": 2467,
-      "category_id": "20",
-      "tags": [
-        "ideas",
-        "creative",
-        "build",
-        "survival",
-        "tutorial",
-        "How to",
-        "MumboJumbo",
-        "ThatMumboJumbo",
-        "Minecraft",
-        "Building"
-      ],
-      "url": "https://www.youtube.com/watch?v=J41oDT8XD5E"
-    },
-    {
-      "video_id": "9XD-5m9X8Ho",
-      "title": "Avengers: Doomsday (2026) X-MEN New Trailer | Marvel Studios | X MEN LEAKED TRAILER CONCEPT FOOTAGE",
-      "description": "Avengers: Doomsday (2026) X-MEN New Trailer | Marvel Studios | X MEN LEAKED TRAILER CONCEPT FOOTAGE | Avengers Doomsday New Trailer | Avengers Doomsday leaked trailer footage | Doomsday New Trailer | Avengers doomsday new trailer | Avengers doomsday new trailer leaked footage | avengers doomsday new scene | Avengers Doomsday new clip footage | Avengers Doomsday new Doctor Doom trailer | avengers doomsday new x men trailer | Avengers doomsday new x men trailer leaked footage | Avengers Doomsday new x men trailer leaked scene | Avengers Doomsday new x men trailer footage | Avengers Doomsday new trailer leaked scene | Avengers Doomsday new x men intro scene footage\n\nATTENTION VIEWERS ❗️\nPlease note that this is a visual, conceptual representation (remake) of the original Avengers: Doomsday X Men trailer. It includes added effects and enhanced HD visuals created using AI and improved and detailed Voice Over throughout the trailer.\n\nThank you for your understanding.\n\nSomething ancient is wa",
-      "channel_title": "Movie Freezes",
-      "channel_id": "UCT-jy9QrGxs7ohPUk3LNrLA",
-      "published_at": "2025-12-31T10:43:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XD-5m9X8Ho/hqdefault.jpg",
-      "duration": "PT1M9S",
-      "duration_seconds": 69,
-      "view_count": 60107,
-      "like_count": 340,
-      "comment_count": 36,
-      "category_id": "1",
-      "tags": [
-        "avengers",
-        "Doomsday",
-        "Thor",
-        "x men",
-        "captain america",
-        "professor x",
-        "Magneto",
-        "avengers Doomsday",
-        "avengers Doomsday new trailer",
-        "avengers Doomsday trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=9XD-5m9X8Ho"
-    },
-    {
-      "video_id": "80_c0qp7GEg",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
-      "channel_title": "Joxy",
-      "channel_id": "UC3DlDcaefUYr-1skxaiLxVw",
-      "published_at": "2025-12-31T22:44:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/80_c0qp7GEg/hqdefault.jpg",
-      "duration": "PT37S",
-      "duration_seconds": 37,
-      "view_count": 412359,
-      "like_count": 5543,
-      "comment_count": 34,
-      "category_id": "20",
-      "tags": [
-        "steal a brainrot giveaway",
-        "steal a brainrot giveaway live",
-        "steal a brainrot secret giveaway",
-        "steal a brainrot live giveaway",
-        "steal a brainrot brainrot god giveaway",
-        "steal a brainrot stream",
-        "steal a brainrot live",
-        "steal a brainrot 24/7 stream",
-        "steal a brainrot",
-        "steal a brainrot god"
-      ],
-      "url": "https://www.youtube.com/watch?v=80_c0qp7GEg"
-    },
-    {
-      "video_id": "mk8FZ7BWCxI",
-      "title": "Avengers Doomsday X-Men Trailer Perfectly Connects the Entire Marvel Multiverse",
-      "description": "Head to https://betterhelp.com/screencrush for 10% off your first month of therapy with our sponsor, BetterHelp. Make your mental health and growth a positive focus in 2026.\n\nAvengers Doomsday's X-Men trailer has arrived, and Cyclops, Magneto, and Professor Xavier have returned. Let's breakdown this trailer, why Cyclops is so upset, and how it all connects to Doom's master plan and previous installments of the Fox Era X-Men.\n\nExplore our merch store for movie & TV fan gear! From T-shirts to unique accessories, find your favorites. For 15% off your first order subscribe here! https://screencrushmerch.com/pages/subscribe \n\nConnect with ScreenCrush\nhttps://discord.gg/VSYHqbDwwj\nhttp://screencrush.com\nhttps://www.tiktok.com/@screencrushnews\nhttps://www.facebook.com/ScreenCrush\nhttps://twitter.com/screencrushnews\nhttp://screencrush.com/newsletter\n\nWritten by Colton Ogburn https://www.youtube.com/@ColtonOgburnChannel\nHosted by Ryan Arey http://twitter.com/ryanarey\nEdited by Harriet Lengel-En",
-      "channel_title": "ScreenCrush",
-      "channel_id": "UCgMJGv4cQl8-q71AyFeFmtg",
-      "published_at": "2025-12-31T18:31:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mk8FZ7BWCxI/hqdefault.jpg",
-      "duration": "PT15M39S",
-      "duration_seconds": 939,
-      "view_count": 112033,
-      "like_count": 3565,
-      "comment_count": 422,
-      "category_id": "1",
-      "tags": [
-        "screencrush",
-        "heavy spoilers",
-        "new rockstars",
-        "x-men",
-        "doomsday",
-        "cyclops",
-        "x-men doomsday trailer",
-        "xavier",
-        "magento",
-        "loki"
-      ],
-      "url": "https://www.youtube.com/watch?v=mk8FZ7BWCxI"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
+      "video_id": "wHuWmjXsReU",
+      "title": "Marvel Television’s Wonder Man | Official Trailer",
+      "description": "He was born to play this role, but the spotlight reveals everything. \n\nWonder Man, an 8-episode series, premieres January 27 at 6PM PT only on Disney+.\n\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+      "channel_title": "Marvel Entertainment",
+      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "published_at": "2026-01-01T17:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 847617,
+      "like_count": 55918,
+      "comment_count": 2811,
+      "category_id": "24",
+      "tags": [
+        "marvel",
+        "comics"
+      ],
+      "url": "https://www.youtube.com/watch?v=wHuWmjXsReU"
+    },
+    {
+      "video_id": "78HUK7xJabw",
+      "title": "Playing Repo With The Boys Again (Jynxzi & Sketch)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n0:00-11:02 Yap session\n11:03-1:11:54  Sea of Thieves disaster \n1:11:55-1:57:45  Don't Scream fail\n1:57:46-4:33:50  Repo\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2025-12-31T23:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/78HUK7xJabw/hqdefault.jpg",
+      "duration": "PT4H33M51S",
+      "duration_seconds": 16431,
+      "view_count": 390702,
+      "like_count": 16366,
+      "comment_count": 1193,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=78HUK7xJabw"
+    },
+    {
       "video_id": "AfQ13jsLDms",
       "title": "Stranger Things 5 | Finale Trailer | Netflix",
       "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
@@ -283,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 12386415,
-      "like_count": 308262,
-      "comment_count": 24364,
+      "view_count": 12644583,
+      "like_count": 308626,
+      "comment_count": 24496,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -311,9 +341,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/z8-7T1hBnL8/hqdefault.jpg",
       "duration": "PT30M58S",
       "duration_seconds": 1858,
-      "view_count": 516352,
-      "like_count": 51054,
-      "comment_count": 9865,
+      "view_count": 589122,
+      "like_count": 55730,
+      "comment_count": 10508,
       "category_id": "1",
       "tags": [
         "shippidge",
@@ -330,6 +360,61 @@
       "url": "https://www.youtube.com/watch?v=z8-7T1hBnL8"
     },
     {
+      "video_id": "RpEGHWdKLL8",
+      "title": "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max",
+      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— HOUSE OF THE DRAGON SEASON 3\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for House of the Dragon Season 3, the long-brewing conflict within House Targaryen crosses the point of no return as the Dance of the Dragons erupts into open war. With King Aegon II displaced and Prince Aemond assuming power in King’s Landing, the struggle for the Iron",
+      "channel_title": "Teaser Universe",
+      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
+      "published_at": "2025-12-31T14:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 46247,
+      "like_count": 472,
+      "comment_count": 68,
+      "category_id": "1",
+      "tags": [
+        "house of the dragon season 3",
+        "house of the dragon official trailer",
+        "house of the dragon season 3 trailer",
+        "house of the dragon season 3 teaser",
+        "house of the dragon season 3 official trailer",
+        "house of the dragon season 3 release date",
+        "house of the dragon season 3 trailer hbo",
+        "house of the dragon season 3 leaks",
+        "house of the dragon season 3 predictions",
+        "house of the dragon season 3 preview"
+      ],
+      "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
+    },
+    {
+      "video_id": "F7LbUKy9nFc",
+      "title": "NOOB vs PRO Cruise Battle in Minecraft!",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-01-01T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F7LbUKy9nFc/hqdefault.jpg",
+      "duration": "PT20M35S",
+      "duration_seconds": 1235,
+      "view_count": 204575,
+      "like_count": 3485,
+      "comment_count": 798,
+      "category_id": "24",
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly",
+        "NOOB vs PRO Cruise Battle in Minecraft!"
+      ],
+      "url": "https://www.youtube.com/watch?v=F7LbUKy9nFc"
+    },
+    {
       "video_id": "cwFaV_8jhJ0",
       "title": "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026) Chris Hemsworth",
       "description": "Don't miss a new look at the Avengers: Doomsday Thor teaser trailer for the upcoming MCU film. Hear Thor's call to Odin for strength to face one last enemy to offer a new future of peace for his daughter, Love.\n\nAvengers: Doomsday opens in theaters on December 18, 2026.\n\n#IGN #Marvel #MCU",
@@ -339,9 +424,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwFaV_8jhJ0/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 934175,
-      "like_count": 12439,
-      "comment_count": 954,
+      "view_count": 983108,
+      "like_count": 12759,
+      "comment_count": 973,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -358,32 +443,23 @@
       "url": "https://www.youtube.com/watch?v=cwFaV_8jhJ0"
     },
     {
-      "video_id": "78HUK7xJabw",
-      "title": "Playing Repo With The Boys Again (Jynxzi & Sketch)",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n0:00-11:02 Yap session\n11:03-1:11:54  Sea of Thieves disaster \n1:11:55-1:57:45  Don't Scream fail\n1:57:46-4:33:50  Repo\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2025-12-31T23:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/78HUK7xJabw/hqdefault.jpg",
-      "duration": "PT4H33M51S",
-      "duration_seconds": 16431,
-      "view_count": 329328,
-      "like_count": 14350,
-      "comment_count": 1138,
+      "video_id": "z1Rjp7eIXGc",
+      "title": "Regenerating Lifesteal's Final End Portal",
+      "description": "Texture pack: https://modrinth.com/resourcepack/bare-bones\n& theobaldthebirds: https://www.youtube.com/watch?v=gVsjkErSXeg\n\nDone at 11:44pm on the last day of the year lol\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/",
+      "channel_title": "rekrap2",
+      "channel_id": "UCvt0HYxX34vUvqu66HLXeUw",
+      "published_at": "2026-01-01T14:31:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z1Rjp7eIXGc/hqdefault.jpg",
+      "duration": "PT36M56S",
+      "duration_seconds": 2216,
+      "view_count": 395411,
+      "like_count": 32928,
+      "comment_count": 2102,
       "category_id": "20",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "Minecraft"
       ],
-      "url": "https://www.youtube.com/watch?v=78HUK7xJabw"
+      "url": "https://www.youtube.com/watch?v=z1Rjp7eIXGc"
     },
     {
       "video_id": "qMZMr6HLdkQ",
@@ -395,96 +471,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qMZMr6HLdkQ/hqdefault.jpg",
       "duration": "PT17M29S",
       "duration_seconds": 1049,
-      "view_count": 68826,
-      "like_count": 5501,
-      "comment_count": 443,
+      "view_count": 77042,
+      "like_count": 5898,
+      "comment_count": 461,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qMZMr6HLdkQ"
-    },
-    {
-      "video_id": "J41oDT8XD5E",
-      "title": "Hermitcraft 11: Episode 7 - ALL the Farms",
-      "description": "In this episode of Hermitcraft Season 11, Mumbo builds up his new industrial district to add a huge number of new highly efficient Minecraft farms. There's an automatic Minecraft villager breeder, automatic minecraft iron farm, automatic bamboo farm with autocrafting, an automatic super smelter and automatic cobblestone generator. All built within a 12 hour time crunch!\n\nFilming channel: https://www.youtube.com/user/ThatMumboJumbo2\nInstagram: https://www.instagram.com/officialmumbo/\nTwitter: https://twitter.com/ThatMumboJumbo",
-      "channel_title": "Mumbo Jumbo",
-      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
-      "published_at": "2025-12-31T16:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J41oDT8XD5E/hqdefault.jpg",
-      "duration": "PT34M46S",
-      "duration_seconds": 2086,
-      "view_count": 848974,
-      "like_count": 56463,
-      "comment_count": 2467,
-      "category_id": "20",
-      "tags": [
-        "ideas",
-        "creative",
-        "build",
-        "survival",
-        "tutorial",
-        "How to",
-        "MumboJumbo",
-        "ThatMumboJumbo",
-        "Minecraft",
-        "Building"
-      ],
-      "url": "https://www.youtube.com/watch?v=J41oDT8XD5E"
-    },
-    {
-      "video_id": "9XD-5m9X8Ho",
-      "title": "Avengers: Doomsday (2026) X-MEN New Trailer | Marvel Studios | X MEN LEAKED TRAILER CONCEPT FOOTAGE",
-      "description": "Avengers: Doomsday (2026) X-MEN New Trailer | Marvel Studios | X MEN LEAKED TRAILER CONCEPT FOOTAGE | Avengers Doomsday New Trailer | Avengers Doomsday leaked trailer footage | Doomsday New Trailer | Avengers doomsday new trailer | Avengers doomsday new trailer leaked footage | avengers doomsday new scene | Avengers Doomsday new clip footage | Avengers Doomsday new Doctor Doom trailer | avengers doomsday new x men trailer | Avengers doomsday new x men trailer leaked footage | Avengers Doomsday new x men trailer leaked scene | Avengers Doomsday new x men trailer footage | Avengers Doomsday new trailer leaked scene | Avengers Doomsday new x men intro scene footage\n\nATTENTION VIEWERS ❗️\nPlease note that this is a visual, conceptual representation (remake) of the original Avengers: Doomsday X Men trailer. It includes added effects and enhanced HD visuals created using AI and improved and detailed Voice Over throughout the trailer.\n\nThank you for your understanding.\n\nSomething ancient is wa",
-      "channel_title": "Movie Freezes",
-      "channel_id": "UCT-jy9QrGxs7ohPUk3LNrLA",
-      "published_at": "2025-12-31T10:43:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XD-5m9X8Ho/hqdefault.jpg",
-      "duration": "PT1M9S",
-      "duration_seconds": 69,
-      "view_count": 60107,
-      "like_count": 340,
-      "comment_count": 36,
-      "category_id": "1",
-      "tags": [
-        "avengers",
-        "Doomsday",
-        "Thor",
-        "x men",
-        "captain america",
-        "professor x",
-        "Magneto",
-        "avengers Doomsday",
-        "avengers Doomsday new trailer",
-        "avengers Doomsday trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=9XD-5m9X8Ho"
-    },
-    {
-      "video_id": "mk8FZ7BWCxI",
-      "title": "Avengers Doomsday X-Men Trailer Perfectly Connects the Entire Marvel Multiverse",
-      "description": "Head to https://betterhelp.com/screencrush for 10% off your first month of therapy with our sponsor, BetterHelp. Make your mental health and growth a positive focus in 2026.\n\nAvengers Doomsday's X-Men trailer has arrived, and Cyclops, Magneto, and Professor Xavier have returned. Let's breakdown this trailer, why Cyclops is so upset, and how it all connects to Doom's master plan and previous installments of the Fox Era X-Men.\n\nExplore our merch store for movie & TV fan gear! From T-shirts to unique accessories, find your favorites. For 15% off your first order subscribe here! https://screencrushmerch.com/pages/subscribe \n\nConnect with ScreenCrush\nhttps://discord.gg/VSYHqbDwwj\nhttp://screencrush.com\nhttps://www.tiktok.com/@screencrushnews\nhttps://www.facebook.com/ScreenCrush\nhttps://twitter.com/screencrushnews\nhttp://screencrush.com/newsletter\n\nWritten by Colton Ogburn https://www.youtube.com/@ColtonOgburnChannel\nHosted by Ryan Arey http://twitter.com/ryanarey\nEdited by Harriet Lengel-En",
-      "channel_title": "ScreenCrush",
-      "channel_id": "UCgMJGv4cQl8-q71AyFeFmtg",
-      "published_at": "2025-12-31T18:31:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mk8FZ7BWCxI/hqdefault.jpg",
-      "duration": "PT15M39S",
-      "duration_seconds": 939,
-      "view_count": 112033,
-      "like_count": 3565,
-      "comment_count": 422,
-      "category_id": "1",
-      "tags": [
-        "screencrush",
-        "heavy spoilers",
-        "new rockstars",
-        "x-men",
-        "doomsday",
-        "cyclops",
-        "x-men doomsday trailer",
-        "xavier",
-        "magento",
-        "loki"
-      ],
-      "url": "https://www.youtube.com/watch?v=mk8FZ7BWCxI"
     },
     {
       "video_id": "QK1zXP0NTeM",
@@ -496,123 +488,85 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 237057,
-      "like_count": 17632,
-      "comment_count": 988,
+      "view_count": 268801,
+      "like_count": 19050,
+      "comment_count": 1016,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
-    },
-    {
-      "video_id": "80_c0qp7GEg",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
-      "channel_title": "Joxy",
-      "channel_id": "UC3DlDcaefUYr-1skxaiLxVw",
-      "published_at": "2025-12-31T22:44:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/80_c0qp7GEg/hqdefault.jpg",
-      "duration": "PT37S",
-      "duration_seconds": 37,
-      "view_count": 412359,
-      "like_count": 5543,
-      "comment_count": 34,
-      "category_id": "20",
-      "tags": [
-        "steal a brainrot giveaway",
-        "steal a brainrot giveaway live",
-        "steal a brainrot secret giveaway",
-        "steal a brainrot live giveaway",
-        "steal a brainrot brainrot god giveaway",
-        "steal a brainrot stream",
-        "steal a brainrot live",
-        "steal a brainrot 24/7 stream",
-        "steal a brainrot",
-        "steal a brainrot god"
-      ],
-      "url": "https://www.youtube.com/watch?v=80_c0qp7GEg"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "overview": {
-          "total_videos": 10,
-          "total_views": 15905626,
-          "average_views_per_video": 1590562.6,
-          "dominant_theme": "Entertainment and Pop Culture",
-          "notable_patterns": [
-            "High interest in upcoming movie trailers and music.",
-            "Engagement with popular franchises such as Stranger Things and Marvel."
-          ]
-        },
-        "video_title_analysis": {
-          "popular_keywords": [
-            "Avengers",
-            "Trailer",
-            "Teaser",
-            "Official",
-            "X-Men",
-            "Netflix"
-          ],
-          "category_inference": [
-            "Entertainment",
-            "Movies",
-            "Music",
-            "Gaming"
-          ],
-          "trending_content_types": [
-            "Movie trailers",
-            "Music videos",
-            "Gaming content"
-          ],
-          "specific_trends": {
-            "Marvel Cinematic Universe": {
-              "trailer_count": 4,
-              "viewership_interest": "High"
-            },
-            "Netflix Series": {
-              "trailer_count": 1,
-              "popularity_impact": "High due to franchise following"
-            },
-            "Music": {
-              "title_count": 1,
-              "artist": "Lil Baby",
-              "market_reception": "Strong due to artist popularity"
-            }
+        "categories": {
+          "entertainment": {
+            "count": 6,
+            "videos": [
+              "Marvel Television’s Wonder Man | Official Trailer",
+              "Stranger Things 5 | Finale Trailer | Netflix",
+              "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max",
+              "Avengers: Doomsday - Official 'Thor' Teaser Trailer (2026) Chris Hemsworth",
+              "Avengers Doomsday Leaks Update, Thor Trailer, Jordan Peele MCU Movie & MORE!!",
+              "NOOB vs PRO Cruise Battle in Minecraft!"
+            ]
+          },
+          "music": {
+            "count": 1,
+            "videos": [
+              "Lil Baby - Violation (Official Music Video)"
+            ]
+          },
+          "gaming": {
+            "count": 3,
+            "videos": [
+              "Playing Repo With The Boys Again (Jynxzi & Sketch)",
+              "Would You Like To SAVE? - Starter Squad (Ep.11)",
+              "Regenerating Lifesteal's Final End Portal"
+            ]
           }
-        }
+        },
+        "insights": [
+          {
+            "category": "entertainment",
+            "observation": "High interest in trailers and teasers for upcoming series and movies. Marvel, Stranger Things, and HBO's House of the Dragon indicate a strong audience anticipation.",
+            "actionable_suggestion": "Brands and creators should leverage upcoming media properties for cross-promotion opportunities. Consider developing anticipation-building content such as reaction videos or theories."
+          },
+          {
+            "category": "music",
+            "observation": "Lil Baby maintains strong engagement with new music releases, suggesting a robust fanbase.",
+            "actionable_suggestion": "Music creators should consider collaborations with trending artists like Lil Baby to tap into their audience. Utilize teaser clips and behind-the-scenes content to maintain engagement."
+          },
+          {
+            "category": "gaming",
+            "observation": "Gaming content, particularly around popular games like Minecraft, continues to trend.",
+            "actionable_suggestion": "Gaming channels should focus on multiplayer experiences and updates about popular game modes to increase engagement. Consider community challenges or collaborations with popular YouTubers."
+          }
+        ]
       },
       "creator_patterns": {
-        "top_channels_analysis": {
-          "high_engagement_channels": [
-            "Netflix",
-            "Lil Baby Official",
-            "IGN"
-          ],
-          "content_type_distribution": {
-            "Entertainment Studios": 3,
-            "Individual Creators": 2,
-            "Music Artists": 1
-          },
-          "collaboration_opportunities": [
-            "Cross-promotions between music artists and film studios.",
-            "Potential for individual creators to collaborate with major franchises."
-          ]
-        }
+        "top_channels": [
+          "Marvel Entertainment",
+          "Netflix",
+          "Lil Baby Official"
+        ],
+        "insights": [
+          {
+            "observation": "Channels associated with established entertainment brands (Marvel, Netflix) and popular music artists (Lil Baby) have significant reach.",
+            "actionable_suggestion": "Emerging creators should explore partnerships or licensing agreements with these brands to enhance visibility. Engage in content that aligns with major releases to capitalize on trending topics."
+          }
+        ]
       },
       "market_opportunities": {
-        "emerging_trends": [
-          "Increased demand for content related to popular franchises (e.g., Marvel, Netflix series).",
-          "Opportunities for new creators to leverage existing fandoms."
-        ],
-        "strategic_insights": [
-          "Develop content that aligns with upcoming major releases to capture audience interest.",
-          "Explore partnerships with established franchises for higher visibility."
-        ],
-        "content_creation_suggestions": [
-          "Focus on teaser and trailer content for upcoming releases.",
-          "Utilize popular music and film themes to drive engagement."
+        "observation": "Content related to major entertainment franchises and gaming is consistently trending, providing opportunities for merchandising and cross-platform promotions.",
+        "actionable_suggestions": [
+          {
+            "suggestion": "Develop merchandise or digital products (like NFTs) tied to trending franchises. Align product launches with key trailer or season release dates for maximum impact."
+          },
+          {
+            "suggestion": "Consider launching interactive campaigns or apps that engage fans of these franchises, offering exclusive content or experiences."
+          }
         ]
       },
       "metadata_stats": {
@@ -621,7 +575,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1590562
+        "avg_views_per_video": 1644720
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
