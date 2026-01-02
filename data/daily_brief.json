@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-02T03:38:37.711197",
+  "timestamp": "2026-01-02T06:14:01.955180",
   "date": "2026-01-02",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 3,
-    "high_potential_videos": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,15 +22,71 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 3115084,
-      "like_count": 81201,
-      "comment_count": 3962,
+      "view_count": 3559644,
+      "like_count": 90724,
+      "comment_count": 4272,
       "category_id": "24",
       "tags": [
         "marvel",
         "comics"
       ],
       "url": "https://www.youtube.com/watch?v=wHuWmjXsReU"
+    },
+    {
+      "video_id": "xDuK15x2OzQ",
+      "title": "FaZeClan is over",
+      "description": "Enjoy!\n\nTwitter - https://twitter.com/Jev\nTwitch - http://www.twitch.tv/Jev\nInstagram - http://instagram.com/mrjeverson#\n\nGET GFUEL HERE WITH MY LINK :)\nUSE CODE 'JEV' AT CHECKOUT FOR A DISCOUNT\nhttps://www.gfuel.com/JEV\n\nSTEELSERIES HEADSETS/MICE/KEYBOARDS/ACCESSORIES\nUSE CODE 'JEV12' FOR 12% OFF\nhttps://steelseries.7eer.net/k9RZ3\n\nJOIN THE CHANNEL AS A MEMBER\nhttps://www.youtube.com/channel/UC7trU46U_9XPDtMnDbiDPUQ/join",
+      "channel_title": "JEV",
+      "channel_id": "UC7trU46U_9XPDtMnDbiDPUQ",
+      "published_at": "2026-01-01T20:22:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xDuK15x2OzQ/hqdefault.jpg",
+      "duration": "PT9M52S",
+      "duration_seconds": 592,
+      "view_count": 888211,
+      "like_count": 96255,
+      "comment_count": 5539,
+      "category_id": "20",
+      "tags": [
+        "FaZe",
+        "Jev",
+        "FaZeClan",
+        "FaZeJev",
+        "FaZe Jev",
+        "FaZeClan Ended",
+        "FaZe Ended",
+        "FaZeClan Dead",
+        "FaZe Dead",
+        "Jev talks about FaZe"
+      ],
+      "url": "https://www.youtube.com/watch?v=xDuK15x2OzQ"
+    },
+    {
+      "video_id": "AfQ13jsLDms",
+      "title": "Stranger Things 5 | Finale Trailer | Netflix",
+      "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2025-12-30T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
+      "duration": "PT1M37S",
+      "duration_seconds": 97,
+      "view_count": 13112963,
+      "like_count": 309283,
+      "comment_count": 24588,
+      "category_id": "24",
+      "tags": [
+        "Caleb McLaughlin",
+        "Charlie Heaton",
+        "Chief Hopper",
+        "David Harbour",
+        "Dustin",
+        "Eleven",
+        "Finn Wolfhard",
+        "Gaten Matarazzo",
+        "Jamie Campbell Bower",
+        "Joe Keery"
+      ],
+      "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
     },
     {
       "video_id": "Crb5gudOABI",
@@ -42,8 +98,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Crb5gudOABI/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 685908,
-      "like_count": 6260,
+      "view_count": 689295,
+      "like_count": 6255,
       "comment_count": 44,
       "category_id": "20",
       "tags": [
@@ -61,77 +117,32 @@
       "url": "https://www.youtube.com/watch?v=Crb5gudOABI"
     },
     {
-      "video_id": "AfQ13jsLDms",
-      "title": "Stranger Things 5 | Finale Trailer | Netflix",
-      "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2025-12-30T14:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
-      "duration": "PT1M37S",
-      "duration_seconds": 97,
-      "view_count": 13017694,
-      "like_count": 309114,
-      "comment_count": 24570,
-      "category_id": "24",
+      "video_id": "Us5xcLfNWdM",
+      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
+      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
+      "channel_title": "Dani Barranco",
+      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
+      "published_at": "2026-01-02T01:40:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 140598,
+      "like_count": 29257,
+      "comment_count": 45552,
+      "category_id": "23",
       "tags": [
-        "Caleb McLaughlin",
-        "Charlie Heaton",
-        "Chief Hopper",
-        "David Harbour",
-        "Dustin",
-        "Eleven",
-        "Finn Wolfhard",
-        "Gaten Matarazzo",
-        "Jamie Campbell Bower",
-        "Joe Keery"
+        "danibarranco13",
+        "dani barranco",
+        "daniela barranco",
+        "danibarranco",
+        "narcisista",
+        "amor prestado",
+        "Jlexis",
+        "Jlexisydani",
+        "Alofoke",
+        "Lacasadealofoke2"
       ],
-      "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
-    },
-    {
-      "video_id": "xDuK15x2OzQ",
-      "title": "FaZeClan is over",
-      "description": "Enjoy!\n\nTwitter - https://twitter.com/Jev\nTwitch - http://www.twitch.tv/Jev\nInstagram - http://instagram.com/mrjeverson#\n\nGET GFUEL HERE WITH MY LINK :)\nUSE CODE 'JEV' AT CHECKOUT FOR A DISCOUNT\nhttps://www.gfuel.com/JEV\n\nSTEELSERIES HEADSETS/MICE/KEYBOARDS/ACCESSORIES\nUSE CODE 'JEV12' FOR 12% OFF\nhttps://steelseries.7eer.net/k9RZ3\n\nJOIN THE CHANNEL AS A MEMBER\nhttps://www.youtube.com/channel/UC7trU46U_9XPDtMnDbiDPUQ/join",
-      "channel_title": "JEV",
-      "channel_id": "UC7trU46U_9XPDtMnDbiDPUQ",
-      "published_at": "2026-01-01T20:22:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xDuK15x2OzQ/hqdefault.jpg",
-      "duration": "PT9M52S",
-      "duration_seconds": 592,
-      "view_count": 708167,
-      "like_count": 85335,
-      "comment_count": 5100,
-      "category_id": "20",
-      "tags": [
-        "FaZe",
-        "Jev",
-        "FaZeClan",
-        "FaZeJev",
-        "FaZe Jev",
-        "FaZeClan Ended",
-        "FaZe Ended",
-        "FaZeClan Dead",
-        "FaZe Dead",
-        "Jev talks about FaZe"
-      ],
-      "url": "https://www.youtube.com/watch?v=xDuK15x2OzQ"
-    },
-    {
-      "video_id": "QK1zXP0NTeM",
-      "title": "Lil Baby - Violation (Official Music Video)",
-      "description": "",
-      "channel_title": "Lil Baby Official ",
-      "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
-      "published_at": "2025-12-31T20:57:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 324366,
-      "like_count": 21093,
-      "comment_count": 1070,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
+      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
     },
     {
       "video_id": "d0Dl3kEOPJU",
@@ -143,9 +154,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/d0Dl3kEOPJU/hqdefault.jpg",
       "duration": "PT8M25S",
       "duration_seconds": 505,
-      "view_count": 58906,
-      "like_count": 2015,
-      "comment_count": 367,
+      "view_count": 68435,
+      "like_count": 2158,
+      "comment_count": 391,
       "category_id": "1",
       "tags": [
         "marvel",
@@ -171,40 +182,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eUBEAPNorME/hqdefault.jpg",
       "duration": "PT12M20S",
       "duration_seconds": 740,
-      "view_count": 541146,
-      "like_count": 39119,
-      "comment_count": 1857,
+      "view_count": 775321,
+      "like_count": 48717,
+      "comment_count": 2198,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=eUBEAPNorME"
     },
     {
-      "video_id": "Us5xcLfNWdM",
-      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
-      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
-      "channel_title": "Dani Barranco",
-      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
-      "published_at": "2026-01-02T01:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 56268,
-      "like_count": 25706,
-      "comment_count": 45078,
-      "category_id": "23",
-      "tags": [
-        "danibarranco13",
-        "dani barranco",
-        "daniela barranco",
-        "danibarranco",
-        "narcisista",
-        "amor prestado",
-        "Jlexis",
-        "Jlexisydani",
-        "Alofoke",
-        "Lacasadealofoke2"
-      ],
-      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
+      "video_id": "QK1zXP0NTeM",
+      "title": "Lil Baby - Violation (Official Music Video)",
+      "description": "",
+      "channel_title": "Lil Baby Official ",
+      "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
+      "published_at": "2025-12-31T20:57:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
+      "duration": "PT2M18S",
+      "duration_seconds": 138,
+      "view_count": 341412,
+      "like_count": 21627,
+      "comment_count": 1086,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
     },
     {
       "video_id": "RpEGHWdKLL8",
@@ -216,9 +216,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 66212,
-      "like_count": 605,
-      "comment_count": 73,
+      "view_count": 71068,
+      "like_count": 635,
+      "comment_count": 79,
       "category_id": "1",
       "tags": [
         "house of the dragon season 3",
@@ -235,21 +235,23 @@
       "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
     },
     {
-      "video_id": "LZyG69AaRtw",
-      "title": "2025 Week 16: Tampa Bay Buccaneers vs. Carolina Panthers",
-      "description": "Replays of classic NFL games.",
-      "channel_title": "NFL Network",
-      "channel_id": "UCNp8TLrPZ6VB52E6tjqgu7w",
-      "published_at": "2025-12-18T01:05:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LZyG69AaRtw/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LZyG69AaRtw"
+      "video_id": "eBao7Seqkv4",
+      "title": "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33",
+      "description": "TOLD EMMM BUST DOWN MY APPP PERFECTTIMMIIINGGGGGGGGGG ANOTHA WHEEL OF MUT BABY WE WINNDDODOOOWWWSSSSS\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-01T21:06:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eBao7Seqkv4/hqdefault.jpg",
+      "duration": "PT34M16S",
+      "duration_seconds": 2056,
+      "view_count": 219492,
+      "like_count": 10858,
+      "comment_count": 724,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=eBao7Seqkv4"
     }
   ],
   "videos_with_transcripts": [],
@@ -264,43 +266,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 3115084,
-      "like_count": 81201,
-      "comment_count": 3962,
+      "view_count": 3559644,
+      "like_count": 90724,
+      "comment_count": 4272,
       "category_id": "24",
       "tags": [
         "marvel",
         "comics"
       ],
       "url": "https://www.youtube.com/watch?v=wHuWmjXsReU"
-    },
-    {
-      "video_id": "AfQ13jsLDms",
-      "title": "Stranger Things 5 | Finale Trailer | Netflix",
-      "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2025-12-30T14:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
-      "duration": "PT1M37S",
-      "duration_seconds": 97,
-      "view_count": 13017694,
-      "like_count": 309114,
-      "comment_count": 24570,
-      "category_id": "24",
-      "tags": [
-        "Caleb McLaughlin",
-        "Charlie Heaton",
-        "Chief Hopper",
-        "David Harbour",
-        "Dustin",
-        "Eleven",
-        "Finn Wolfhard",
-        "Gaten Matarazzo",
-        "Jamie Campbell Bower",
-        "Joe Keery"
-      ],
-      "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
     },
     {
       "video_id": "xDuK15x2OzQ",
@@ -312,9 +286,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xDuK15x2OzQ/hqdefault.jpg",
       "duration": "PT9M52S",
       "duration_seconds": 592,
-      "view_count": 708167,
-      "like_count": 85335,
-      "comment_count": 5100,
+      "view_count": 888211,
+      "like_count": 96255,
+      "comment_count": 5539,
       "category_id": "20",
       "tags": [
         "FaZe",
@@ -331,6 +305,62 @@
       "url": "https://www.youtube.com/watch?v=xDuK15x2OzQ"
     },
     {
+      "video_id": "AfQ13jsLDms",
+      "title": "Stranger Things 5 | Finale Trailer | Netflix",
+      "description": "One last trailer\n\nWatch on Netflix: https://www.netflix.com/title/81297917\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nStranger Things 5 | Finale Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAs Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2025-12-30T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
+      "duration": "PT1M37S",
+      "duration_seconds": 97,
+      "view_count": 13112963,
+      "like_count": 309283,
+      "comment_count": 24588,
+      "category_id": "24",
+      "tags": [
+        "Caleb McLaughlin",
+        "Charlie Heaton",
+        "Chief Hopper",
+        "David Harbour",
+        "Dustin",
+        "Eleven",
+        "Finn Wolfhard",
+        "Gaten Matarazzo",
+        "Jamie Campbell Bower",
+        "Joe Keery"
+      ],
+      "url": "https://www.youtube.com/watch?v=AfQ13jsLDms"
+    },
+    {
+      "video_id": "Us5xcLfNWdM",
+      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
+      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
+      "channel_title": "Dani Barranco",
+      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
+      "published_at": "2026-01-02T01:40:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 140598,
+      "like_count": 29257,
+      "comment_count": 45552,
+      "category_id": "23",
+      "tags": [
+        "danibarranco13",
+        "dani barranco",
+        "daniela barranco",
+        "danibarranco",
+        "narcisista",
+        "amor prestado",
+        "Jlexis",
+        "Jlexisydani",
+        "Alofoke",
+        "Lacasadealofoke2"
+      ],
+      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
+    },
+    {
       "video_id": "d0Dl3kEOPJU",
       "title": "AVENGERS DOOMSDAY LEAKED TRAILER 4",
       "description": "MUSIC CHANNEL GIVEAWAY: https://www.youtube.com/watch?v=sBPz8Wrl80o\n\nFOR ALL INQUIRIES - jacqueline@helmtalentgroup.com\n\nMarvel Studios 7 Year Plan - https://www.youtube.com/watch?v=Fgy_LC1tmZw&t=2s\nChris Evans cut post credit scene- https://www.youtube.com/watch?v=3kFjR2eQlHk\nAvengers Doomsday Plot Leak - https://www.youtube.com/watch?v=8n4NWvjReSQ\nNew MCU Black Panther - https://www.youtube.com/watch?v=HGV-EBrhZxM&t=1s\nULTRON returns - https://www.youtube.com/watch?v=M3YkeIS9NsM\nMarvel's Next Saga - https://www.youtube.com/watch?v=em6RotM7oZw&t=1s\nDoomsday Wolverine Set Photos - https://www.youtube.com/watch?v=SlgrL2zdZJs&t=6s\nAvengers Doomsday Main Characters - https://www.youtube.com/watch?v=olsy3xX8AZ8&t=5s\nFF Council of Reeds - https://www.youtube.com/watch?v=ntRfWjDhM3c&t=4s\nFantastic Four First Reactions - https://www.youtube.com/watch?v=GB-D7m3urx0&t=3s\n\ninstagram: @iamfires\ntwitter: @iamfires\nSpotify: All Fires\n\nCovering Marvel Studios, Avengers Doomsday, Avengers Secret Wars",
@@ -340,9 +370,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/d0Dl3kEOPJU/hqdefault.jpg",
       "duration": "PT8M25S",
       "duration_seconds": 505,
-      "view_count": 58906,
-      "like_count": 2015,
-      "comment_count": 367,
+      "view_count": 68435,
+      "like_count": 2158,
+      "comment_count": 391,
       "category_id": "1",
       "tags": [
         "marvel",
@@ -368,40 +398,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eUBEAPNorME/hqdefault.jpg",
       "duration": "PT12M20S",
       "duration_seconds": 740,
-      "view_count": 541146,
-      "like_count": 39119,
-      "comment_count": 1857,
+      "view_count": 775321,
+      "like_count": 48717,
+      "comment_count": 2198,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=eUBEAPNorME"
-    },
-    {
-      "video_id": "Us5xcLfNWdM",
-      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
-      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
-      "channel_title": "Dani Barranco",
-      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
-      "published_at": "2026-01-02T01:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 56268,
-      "like_count": 25706,
-      "comment_count": 45078,
-      "category_id": "23",
-      "tags": [
-        "danibarranco13",
-        "dani barranco",
-        "daniela barranco",
-        "danibarranco",
-        "narcisista",
-        "amor prestado",
-        "Jlexis",
-        "Jlexisydani",
-        "Alofoke",
-        "Lacasadealofoke2"
-      ],
-      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
     },
     {
       "video_id": "RpEGHWdKLL8",
@@ -413,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 66212,
-      "like_count": 605,
-      "comment_count": 73,
+      "view_count": 71068,
+      "like_count": 635,
+      "comment_count": 79,
       "category_id": "1",
       "tags": [
         "house of the dragon season 3",
@@ -432,6 +434,25 @@
       "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
     },
     {
+      "video_id": "eBao7Seqkv4",
+      "title": "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33",
+      "description": "TOLD EMMM BUST DOWN MY APPP PERFECTTIMMIIINGGGGGGGGGG ANOTHA WHEEL OF MUT BABY WE WINNDDODOOOWWWSSSSS\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-01T21:06:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eBao7Seqkv4/hqdefault.jpg",
+      "duration": "PT34M16S",
+      "duration_seconds": 2056,
+      "view_count": 219492,
+      "like_count": 10858,
+      "comment_count": 724,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=eBao7Seqkv4"
+    },
+    {
       "video_id": "Crb5gudOABI",
       "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
       "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
@@ -441,8 +462,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Crb5gudOABI/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 685908,
-      "like_count": 6260,
+      "view_count": 689295,
+      "like_count": 6255,
       "comment_count": 44,
       "category_id": "20",
       "tags": [
@@ -469,109 +490,73 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QK1zXP0NTeM/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 324366,
-      "like_count": 21093,
-      "comment_count": 1070,
+      "view_count": 341412,
+      "like_count": 21627,
+      "comment_count": 1086,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QK1zXP0NTeM"
-    },
-    {
-      "video_id": "LZyG69AaRtw",
-      "title": "2025 Week 16: Tampa Bay Buccaneers vs. Carolina Panthers",
-      "description": "Replays of classic NFL games.",
-      "channel_title": "NFL Network",
-      "channel_id": "UCNp8TLrPZ6VB52E6tjqgu7w",
-      "published_at": "2025-12-18T01:05:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LZyG69AaRtw/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LZyG69AaRtw"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 18573751,
-        "average_views_per_video": 1857375
-      },
-      "content_trends": {
-        "entertainment_dominance": {
-          "description": "A significant portion of trending content is related to entertainment, including trailers for popular franchises and music videos.",
-          "evidence": [
-            "Marvel Television’s Wonder Man | Official Trailer",
-            "Stranger Things 5 | Finale Trailer | Netflix",
-            "Lil Baby - Violation (Official Music Video)",
-            "AVENGERS DOOMSDAY LEAKED TRAILER 4",
-            "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max"
-          ]
+      "trending_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 19866439,
+          "average_views_per_video": 1986643.9
         },
-        "anticipated_series_and_movies": {
-          "description": "Upcoming series and movie trailers are trending, indicating high viewer anticipation.",
-          "evidence": [
-            "Marvel Television’s Wonder Man | Official Trailer",
-            "Stranger Things 5 | Finale Trailer | Netflix",
-            "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max"
-          ]
+        "content_trends": {
+          "entertainment_dominance": {
+            "description": "A significant proportion of trending videos are related to entertainment franchises, specifically Marvel and Netflix series.",
+            "examples": [
+              "Marvel Television’s Wonder Man | Official Trailer",
+              "Stranger Things 5 | Finale Trailer | Netflix",
+              "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max"
+            ],
+            "insight": "High interest in popular franchises and sequels, indicating a strong viewer preference for familiar and established storylines."
+          },
+          "music_influence": {
+            "description": "Music content continues to hold a strong presence in trending videos.",
+            "examples": [
+              "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
+              "Lil Baby - Violation (Official Music Video)"
+            ],
+            "insight": "Music videos, particularly those featuring popular artists, consistently attract high viewership."
+          },
+          "gaming_and_esports": {
+            "description": "Gaming-related content also appears in trending videos, reflecting a sustained interest in this category.",
+            "examples": [
+              "FaZeClan is over",
+              "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33"
+            ],
+            "insight": "Esports and gaming content have a dedicated audience, indicating potential for growth in gaming-related content creation."
+          }
         },
-        "music_engagement": {
-          "description": "Music content, specifically hip-hop and collaboration tracks, is a strong trend.",
-          "evidence": [
-            "Lil Baby - Violation (Official Music Video)",
-            "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged"
-          ]
+        "creator_patterns": {
+          "brand_affiliation": {
+            "description": "Videos from well-known entertainment brands like Marvel and Netflix are leading trends.",
+            "insight": "Strong brand recognition and established fan bases contribute significantly to trending status."
+          },
+          "individual_creators": {
+            "description": "Individual creators such as JEV and Joxy also contribute to the trending list, showcasing diverse content types.",
+            "insight": "Creators with niche topics or unique content styles can achieve trending status, suggesting opportunities for innovative content creation."
+          }
         },
-        "gaming_and_vlogging": {
-          "description": "Gaming-related content and personal vlogs are also present, although to a lesser extent.",
-          "evidence": [
-            "FaZeClan is over",
-            "never invite a trapper to a manhunt video"
-          ]
-        },
-        "sports_content": {
-          "description": "Sports event highlights or related content appear sporadically but maintain interest.",
-          "evidence": [
-            "2025 Week 16: Tampa Bay Buccaneers vs. Carolina Panthers"
-          ]
-        }
-      },
-      "creator_patterns": {
-        "large_franchises_dominance": {
-          "description": "Content from well-established franchises and large entertainment companies dominate the trending list.",
-          "evidence": [
-            "Marvel Entertainment",
-            "Netflix",
-            "HBO Max"
-          ]
-        },
-        "individual_creator_impact": {
-          "description": "Individual creators with niche but passionate audiences can still make a significant impact.",
-          "evidence": [
-            "Lil Baby Official",
-            "JEV",
-            "Joxy"
-          ]
-        }
-      },
-      "market_opportunities": {
-        "cross_promotion": {
-          "description": "There is an opportunity for cross-promotion between trending entertainment content and other verticals such as gaming and lifestyle, which can enhance reach and engagement.",
-          "suggestion": "Consider collaborations between gaming influencers and entertainment franchises to tap into overlapping audiences."
-        },
-        "emerging_artists": {
-          "description": "With music content trending, there is room for emerging artists to gain visibility through strategic collaborations and features.",
-          "suggestion": "Encourage collaborations between emerging artists and established musicians to leverage existing fan bases."
-        },
-        "trailer_exclusives": {
-          "description": "Releasing exclusive trailers or sneak peeks can drive significant traffic and engagement.",
-          "suggestion": "Entertainment companies should consider timed releases and exclusive content drops to build anticipation and maintain viewer interest."
+        "market_opportunities": {
+          "cross-category_collaboration": {
+            "description": "Collaborations between music and entertainment or gaming can capture diverse audience segments.",
+            "actionable_insight": "Brands and creators should explore partnerships that blend entertainment, music, and gaming content."
+          },
+          "franchise_expansion": {
+            "description": "New content within established franchises tends to trend, indicating a reliable audience for expansions or spin-offs.",
+            "actionable_insight": "Investing in content that builds on popular franchises can yield high engagement and viewership."
+          },
+          "niche_audience engagement": {
+            "description": "Niche content, such as esports or unique gaming experiences, can attract dedicated viewer bases.",
+            "actionable_insight": "Developing content that caters to niche interests can lead to sustained viewer engagement and potential trending success."
+          }
         }
       },
       "metadata_stats": {
@@ -580,7 +565,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1857375
+        "avg_views_per_video": 1986643
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
