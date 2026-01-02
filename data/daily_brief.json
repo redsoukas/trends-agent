@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-02T15:09:34.645280",
+  "timestamp": "2026-01-02T18:12:36.697767",
   "date": "2026-01-02",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 4886364,
-      "like_count": 109681,
-      "comment_count": 4775,
+      "view_count": 5500902,
+      "like_count": 115580,
+      "comment_count": 5011,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -42,9 +42,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xDuK15x2OzQ/hqdefault.jpg",
       "duration": "PT9M52S",
       "duration_seconds": 592,
-      "view_count": 1171573,
-      "like_count": 111379,
-      "comment_count": 6008,
+      "view_count": 1224934,
+      "like_count": 115232,
+      "comment_count": 6188,
       "category_id": "20",
       "tags": [
         "FaZe",
@@ -70,9 +70,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OT5tH4v3_8s/hqdefault.jpg",
       "duration": "PT44S",
       "duration_seconds": 44,
-      "view_count": 32234,
-      "like_count": 756,
-      "comment_count": 444,
+      "view_count": 40794,
+      "like_count": 850,
+      "comment_count": 478,
       "category_id": "24",
       "tags": [
         "Review",
@@ -98,9 +98,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Crb5gudOABI/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 687659,
-      "like_count": 6239,
-      "comment_count": 46,
+      "view_count": 687897,
+      "like_count": 6234,
+      "comment_count": 47,
       "category_id": "20",
       "tags": [
         "steal a brainrot giveaway",
@@ -126,9 +126,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 13394818,
-      "like_count": 309847,
-      "comment_count": 24678,
+      "view_count": 13474288,
+      "like_count": 310045,
+      "comment_count": 24706,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -154,40 +154,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eUBEAPNorME/hqdefault.jpg",
       "duration": "PT12M20S",
       "duration_seconds": 740,
-      "view_count": 1377602,
-      "like_count": 74466,
-      "comment_count": 2920,
+      "view_count": 1538902,
+      "like_count": 80402,
+      "comment_count": 3082,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=eUBEAPNorME"
-    },
-    {
-      "video_id": "Us5xcLfNWdM",
-      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
-      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
-      "channel_title": "Dani Barranco",
-      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
-      "published_at": "2026-01-02T01:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 427259,
-      "like_count": 33549,
-      "comment_count": 46150,
-      "category_id": "23",
-      "tags": [
-        "danibarranco13",
-        "dani barranco",
-        "daniela barranco",
-        "danibarranco",
-        "narcisista",
-        "amor prestado",
-        "Jlexis",
-        "Jlexisydani",
-        "Alofoke",
-        "Lacasadealofoke2"
-      ],
-      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
     },
     {
       "video_id": "d0Dl3kEOPJU",
@@ -199,9 +171,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/d0Dl3kEOPJU/hqdefault.jpg",
       "duration": "PT8M25S",
       "duration_seconds": 505,
-      "view_count": 83743,
-      "like_count": 2362,
-      "comment_count": 419,
+      "view_count": 89029,
+      "like_count": 2428,
+      "comment_count": 428,
       "category_id": "1",
       "tags": [
         "marvel",
@@ -227,9 +199,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fjQ8xdcC9Eg/hqdefault.jpg",
       "duration": "PT1H2M39S",
       "duration_seconds": 3759,
-      "view_count": 902468,
-      "like_count": 61961,
-      "comment_count": 4948,
+      "view_count": 1017433,
+      "like_count": 66640,
+      "comment_count": 5193,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fjQ8xdcC9Eg"
@@ -244,9 +216,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 83425,
-      "like_count": 744,
-      "comment_count": 90,
+      "view_count": 88547,
+      "like_count": 778,
+      "comment_count": 93,
       "category_id": "1",
       "tags": [
         "house of the dragon season 3",
@@ -261,6 +233,25 @@
         "house of the dragon season 3 preview"
       ],
       "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
+    },
+    {
+      "video_id": "eBao7Seqkv4",
+      "title": "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33",
+      "description": "TOLD EMMM BUST DOWN MY APPP PERFECTTIMMIIINGGGGGGGGGG ANOTHA WHEEL OF MUT BABY WE WINNDDODOOOWWWSSSSS\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-01T21:06:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eBao7Seqkv4/hqdefault.jpg",
+      "duration": "PT34M16S",
+      "duration_seconds": 2056,
+      "view_count": 343303,
+      "like_count": 13953,
+      "comment_count": 801,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=eBao7Seqkv4"
     }
   ],
   "videos_with_transcripts": [],
@@ -275,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wHuWmjXsReU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 4886364,
-      "like_count": 109681,
-      "comment_count": 4775,
+      "view_count": 5500902,
+      "like_count": 115580,
+      "comment_count": 5011,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -295,9 +286,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xDuK15x2OzQ/hqdefault.jpg",
       "duration": "PT9M52S",
       "duration_seconds": 592,
-      "view_count": 1171573,
-      "like_count": 111379,
-      "comment_count": 6008,
+      "view_count": 1224934,
+      "like_count": 115232,
+      "comment_count": 6188,
       "category_id": "20",
       "tags": [
         "FaZe",
@@ -323,9 +314,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AfQ13jsLDms/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 13394818,
-      "like_count": 309847,
-      "comment_count": 24678,
+      "view_count": 13474288,
+      "like_count": 310045,
+      "comment_count": 24706,
       "category_id": "24",
       "tags": [
         "Caleb McLaughlin",
@@ -351,40 +342,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eUBEAPNorME/hqdefault.jpg",
       "duration": "PT12M20S",
       "duration_seconds": 740,
-      "view_count": 1377602,
-      "like_count": 74466,
-      "comment_count": 2920,
+      "view_count": 1538902,
+      "like_count": 80402,
+      "comment_count": 3082,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=eUBEAPNorME"
-    },
-    {
-      "video_id": "Us5xcLfNWdM",
-      "title": "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged",
-      "description": "Suscríbete a mi canal: https://bit.ly/DaniBarrancoSub \n\nSPOTIFY:\nTIDAL: https://listen.tidalhifi.com/search/Envueltos%20Unplugged\nAPPLE MUSIC:\nAMAZON MUSIC: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Ddigital-music&field-keywords=Envueltos%20Unplugged&x=0&y=0\n\nINSTAGRAM: danibarranco13\nhttps://www.instagram.com/danibarranco13\n\nTWITTER: DaniBarranco13\nhttps://twitter.com/DaniBarranco13\n\nFACEBOOK FAN PAGE: DaniBarranco13\nhttps://www.facebook.com/danielabarranco13/\n\n#DaniBarranco #jlexis #alofoke #alofokemusic #envueltos #JlexisYDani #lacasadealofoke2",
-      "channel_title": "Dani Barranco",
-      "channel_id": "UCjTC7rv5Lo1j_Efiki-tZbQ",
-      "published_at": "2026-01-02T01:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Us5xcLfNWdM/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 427259,
-      "like_count": 33549,
-      "comment_count": 46150,
-      "category_id": "23",
-      "tags": [
-        "danibarranco13",
-        "dani barranco",
-        "daniela barranco",
-        "danibarranco",
-        "narcisista",
-        "amor prestado",
-        "Jlexis",
-        "Jlexisydani",
-        "Alofoke",
-        "Lacasadealofoke2"
-      ],
-      "url": "https://www.youtube.com/watch?v=Us5xcLfNWdM"
     },
     {
       "video_id": "d0Dl3kEOPJU",
@@ -396,9 +359,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/d0Dl3kEOPJU/hqdefault.jpg",
       "duration": "PT8M25S",
       "duration_seconds": 505,
-      "view_count": 83743,
-      "like_count": 2362,
-      "comment_count": 419,
+      "view_count": 89029,
+      "like_count": 2428,
+      "comment_count": 428,
       "category_id": "1",
       "tags": [
         "marvel",
@@ -424,9 +387,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fjQ8xdcC9Eg/hqdefault.jpg",
       "duration": "PT1H2M39S",
       "duration_seconds": 3759,
-      "view_count": 902468,
-      "like_count": 61961,
-      "comment_count": 4948,
+      "view_count": 1017433,
+      "like_count": 66640,
+      "comment_count": 5193,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fjQ8xdcC9Eg"
@@ -441,9 +404,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RpEGHWdKLL8/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 83425,
-      "like_count": 744,
-      "comment_count": 90,
+      "view_count": 88547,
+      "like_count": 778,
+      "comment_count": 93,
       "category_id": "1",
       "tags": [
         "house of the dragon season 3",
@@ -460,6 +423,25 @@
       "url": "https://www.youtube.com/watch?v=RpEGHWdKLL8"
     },
     {
+      "video_id": "eBao7Seqkv4",
+      "title": "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33",
+      "description": "TOLD EMMM BUST DOWN MY APPP PERFECTTIMMIIINGGGGGGGGGG ANOTHA WHEEL OF MUT BABY WE WINNDDODOOOWWWSSSSS\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-01T21:06:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eBao7Seqkv4/hqdefault.jpg",
+      "duration": "PT34M16S",
+      "duration_seconds": 2056,
+      "view_count": 343303,
+      "like_count": 13953,
+      "comment_count": 801,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=eBao7Seqkv4"
+    },
+    {
       "video_id": "OT5tH4v3_8s",
       "title": "POWER BOOK IV: FORCE SEASON 3 EPISODE 10 TRAILER!!! SERIES FINALE!!!",
       "description": "POWER BOOK IV: FORCE SEASON 3\n\nSubscribe!!!! Thanks for all the love and support!!! Donate if you want and follow my other social media accounts. \n\nPatreon page https://www.patreon.com/Marcdarktv\n\nPaypal Donate page https://www.paypal.me/MarcDarkTv\n\nAdd me on SnapchatUsername: marcdarktv https://www.snapchat.com/add/marcdarktv\n\nTwitter page https://twitter.com/marcdarktv\n\nInstagram page - https://instagram.com/marcdarktvyoutube?igshid=YmMyMTA2M2Y=\n\n\n\n\n#POWERTV\n#STARZ\n#50CENT",
@@ -469,9 +451,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OT5tH4v3_8s/hqdefault.jpg",
       "duration": "PT44S",
       "duration_seconds": 44,
-      "view_count": 32234,
-      "like_count": 756,
-      "comment_count": 444,
+      "view_count": 40794,
+      "like_count": 850,
+      "comment_count": 478,
       "category_id": "24",
       "tags": [
         "Review",
@@ -497,9 +479,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Crb5gudOABI/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 687659,
-      "like_count": 6239,
-      "comment_count": 46,
+      "view_count": 687897,
+      "like_count": 6234,
+      "comment_count": 47,
       "category_id": "20",
       "tags": [
         "steal a brainrot giveaway",
@@ -520,70 +502,92 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "categories": {
-          "entertainment": {
-            "description": "The majority of trending videos fall under the entertainment category, including trailers for TV shows and movies.",
-            "examples": [
+        "popular_genres": [
+          {
+            "genre": "Superhero/Comic Book",
+            "videos": 3,
+            "titles": [
               "Marvel Television’s Wonder Man | Official Trailer",
+              "AVENGERS DOOMSDAY LEAKED TRAILER 4",
+              "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max"
+            ]
+          },
+          {
+            "genre": "Television Series",
+            "videos": 3,
+            "titles": [
+              "POWER BOOK IV: FORCE SEASON 3 EPISODE 10 TRAILER!!! SERIES FINALE!!!",
               "Stranger Things 5 | Finale Trailer | Netflix",
               "HOUSE OF THE DRAGON SEASON 3 - First Trailer (2026) HBO Max"
-            ],
-            "insight": "Trailers for upcoming shows and movies are consistently trending, indicating high viewer interest in previews and teasers."
+            ]
           },
-          "gaming": {
-            "description": "Gaming content like 'Genshin Impact Version \"Luna IV\" Special Program' is trending, highlighting the popularity of video game updates and related content.",
-            "examples": [
-              "Genshin Impact Version \"Luna IV\" Special Program #GenshinImpact #SpecialProgram"
-            ],
-            "insight": "Gaming updates and special programs continue to captivate audiences, suggesting a strong market for game-related content."
+          {
+            "genre": "Gaming",
+            "videos": 2,
+            "titles": [
+              "Genshin Impact Version \"Luna IV\" Special Program #GenshinImpact #SpecialProgram",
+              "Shedeur Sanders is NASTY! Wheel of MUT! Ep. #33"
+            ]
+          }
+        ],
+        "emerging_topics": [
+          {
+            "topic": "Gaming Collaborations",
+            "video": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS"
           },
-          "music": {
-            "description": "Music-related content also appears in the trending list.",
-            "examples": [
-              "Dani Barranco, JLexis, Alofoke Music, Rome LMN - Envueltos Unplugged"
-            ],
-            "insight": "Unplugged music sessions and collaborations have a niche audience that can be further tapped into."
+          {
+            "topic": "Esports Decline",
+            "video": "FaZeClan is over"
           }
-        },
-        "metadata_patterns": {
-          "high_viewership": {
-            "description": "The total viewership of the 10 videos is over 23 million, indicating strong engagement.",
-            "average_views_per_video": 2304714.5,
-            "insight": "Content that is related to popular franchises or anticipated releases tends to attract higher views."
-          }
-        }
+        ]
       },
       "creator_patterns": {
-        "top_channels": {
-          "description": "Channels with strong brand recognition, such as Marvel Entertainment and Netflix, are featured prominently.",
-          "examples": [
-            "Marvel Entertainment",
-            "Netflix"
-          ],
-          "insight": "Established brands have a significant advantage in gaining traction on YouTube, likely due to existing fan bases and marketing reach."
-        },
-        "individual_creators": {
-          "description": "Individual creators like JEV and Joxy also have videos in the trending list, showing the potential for personal branding success.",
-          "examples": [
-            "JEV",
-            "Joxy"
-          ],
-          "insight": "There is potential for individual creators to trend, particularly if they engage with popular niches or collaborate with other well-known entities."
-        }
+        "high_engagement_creators": [
+          "Marvel Entertainment",
+          "Netflix"
+        ],
+        "unique_engagement_styles": [
+          {
+            "channel": "Joxy",
+            "style": "Interactive live giveaways"
+          },
+          {
+            "channel": "JEV",
+            "style": "Personalized gaming content"
+          }
+        ]
       },
       "market_opportunities": {
-        "franchise_expansion": {
-          "description": "Franchises with established fan bases continue to perform well.",
-          "insight": "Opportunities exist for content creators and brands to develop spin-offs or related content that taps into these large, engaged audiences."
-        },
-        "cross-platform promotion": {
-          "description": "Cross-promotion with other platforms like Netflix and HBO Max is prevalent.",
-          "insight": "Leveraging multiple platforms for content distribution can expand reach and audience engagement."
-        },
-        "niche content": {
-          "description": "Niche content like 'never invite a trapper to a manhunt video' can capture unique audience segments.",
-          "insight": "Creators can explore niche themes and audiences for content that stands out amidst mainstream offerings."
-        }
+        "opportunity_areas": [
+          {
+            "area": "Nostalgia Marketing",
+            "reasoning": "Strong interest in sequels and finales suggests a market for nostalgic content."
+          },
+          {
+            "area": "Exclusive Trailers and Leaks",
+            "reasoning": "High engagement with leaked and exclusive trailers indicates demand for early access content."
+          },
+          {
+            "area": "Cross-Genre Collaborations",
+            "reasoning": "Overlap in superhero and television series genres shows potential for cross-promotional content."
+          }
+        ]
+      },
+      "practical_insights": {
+        "actionable_strategies": [
+          {
+            "strategy": "Leverage nostalgia in marketing campaigns",
+            "description": "Create content that taps into popular franchises and series finales."
+          },
+          {
+            "strategy": "Develop exclusive or early-access video content",
+            "description": "Offer sneak peeks or exclusive trailers to capture interest and drive engagement."
+          },
+          {
+            "strategy": "Explore partnerships in cross-genre content",
+            "description": "Collaborate with creators in both superhero and television genres to broaden audience reach."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -591,7 +595,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2304714
+        "avg_views_per_video": 2400602
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
