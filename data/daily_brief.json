@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-08T03:38:15.365160",
+  "timestamp": "2026-01-08T06:14:48.135206",
   "date": "2026-01-08",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W-6Lp9zyDYc/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 317505,
-      "like_count": 3751,
-      "comment_count": 177,
+      "view_count": 376567,
+      "like_count": 3886,
+      "comment_count": 192,
       "category_id": "1",
       "tags": [
         "avengers doomsday official trailer",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FGFO-EvGVRw/hqdefault.jpg",
       "duration": "PT17M14S",
       "duration_seconds": 1034,
-      "view_count": 788660,
-      "like_count": 42512,
-      "comment_count": 6300,
+      "view_count": 896421,
+      "like_count": 45811,
+      "comment_count": 6607,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/khX1Y3kmOJY/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 1687470,
-      "like_count": 33065,
-      "comment_count": 2941,
+      "view_count": 1759324,
+      "like_count": 33529,
+      "comment_count": 2979,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e3D7Fj1PsWk/hqdefault.jpg",
       "duration": "PT4M55S",
       "duration_seconds": 295,
-      "view_count": 2397075,
-      "like_count": 190849,
-      "comment_count": 11079,
+      "view_count": 2818621,
+      "like_count": 167004,
+      "comment_count": 11584,
       "category_id": "20",
       "tags": [
         "Riot Games",
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tlSDDuWxO_0/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 1470216,
-      "like_count": 43465,
-      "comment_count": 3326,
+      "view_count": 1734506,
+      "like_count": 43780,
+      "comment_count": 3373,
       "category_id": "1",
       "tags": [
         "a24",
@@ -151,14 +151,42 @@
       "thumbnail_url": "https://i.ytimg.com/vi/13QoRmIFK0c/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 661639,
-      "like_count": 54815,
-      "comment_count": 2250,
+      "view_count": 748000,
+      "like_count": 57372,
+      "comment_count": 2342,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
       ],
       "url": "https://www.youtube.com/watch?v=13QoRmIFK0c"
+    },
+    {
+      "video_id": "h-EuMZmjpZE",
+      "title": "Vicente Fernández - La Diferencia (Letra/Lyrics)",
+      "description": "Vicente Fernández - La Diferencia (Letra/Lyrics)\nVicente Fernández - La Diferencia\n\nArtist Socials:\nSpotify: https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l?si=ef871c7b4f874886\n\nSíguenos en nuestras redes sociales:  \n📸 Instagram: https://www.instagram.com/ultimosombrero/\n🎥 TikTok: https://www.tiktok.com/@ultimosombrero\n📺 YouTube: https://www.youtube.com/@UltimoSombrero\n🎧 Spotify: https://open.spotify.com/user/316ilpbq5dpx24lmgxbpp5ehkrpe?si=1cbd11bc0d924322&nd=1&dlsi=8a31426f5acf451c\n\n\n#VicenteFernández\n#regionalmexicano\n#musicaregional\n#regionalmexican",
+      "channel_title": "Último Sombrero",
+      "channel_id": "UCkjmjTu_bVat5P66I35yYpw",
+      "published_at": "2026-01-07T18:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-EuMZmjpZE/hqdefault.jpg",
+      "duration": "PT2M51S",
+      "duration_seconds": 171,
+      "view_count": 52610,
+      "like_count": 346,
+      "comment_count": 6,
+      "category_id": "22",
+      "tags": [
+        "La Diferencia Vicente Fernández",
+        "Vicente Fernández La Diferencia",
+        "La Diferencia letra",
+        "La Diferencia lyrics",
+        "La Diferencia Vicente Fernández letra",
+        "Vicente Fernández La Diferencia letra",
+        "letra La Diferencia",
+        "lyrics La Diferencia",
+        "musica regional",
+        "musica regional mexicana"
+      ],
+      "url": "https://www.youtube.com/watch?v=h-EuMZmjpZE"
     },
     {
       "video_id": "-T4aI_k5_3Y",
@@ -170,9 +198,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-T4aI_k5_3Y/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 77507,
-      "like_count": 586,
-      "comment_count": 32,
+      "view_count": 98689,
+      "like_count": 602,
+      "comment_count": 41,
       "category_id": "24",
       "tags": [
         "avengers doomsday trailer",
@@ -198,9 +226,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/by5KXFAyWcg/hqdefault.jpg",
       "duration": "PT41M26S",
       "duration_seconds": 2486,
-      "view_count": 152910,
-      "like_count": 9192,
-      "comment_count": 662,
+      "view_count": 231064,
+      "like_count": 11596,
+      "comment_count": 770,
       "category_id": "17",
       "tags": [
         "mmg"
@@ -217,33 +245,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F2U3ilsfnVk/hqdefault.jpg",
       "duration": "PT19M56S",
       "duration_seconds": 1196,
-      "view_count": 67101,
-      "like_count": 5097,
-      "comment_count": 196,
+      "view_count": 86557,
+      "like_count": 5941,
+      "comment_count": 216,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
-    },
-    {
-      "video_id": "wUFB7MevPo4",
-      "title": "🔴LIVE | ARC NUTTERS w/ CLOAKZY & TIMTHETATMAN | TESTICULAR TORSION TUESDAY | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-07T08:53:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wUFB7MevPo4/hqdefault.jpg",
-      "duration": "PT7H18M27S",
-      "duration_seconds": 26307,
-      "view_count": 872782,
-      "like_count": 17623,
-      "comment_count": 240,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=wUFB7MevPo4"
     }
   ],
   "videos_with_transcripts": [],
@@ -258,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W-6Lp9zyDYc/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 317505,
-      "like_count": 3751,
-      "comment_count": 177,
+      "view_count": 376567,
+      "like_count": 3886,
+      "comment_count": 192,
       "category_id": "1",
       "tags": [
         "avengers doomsday official trailer",
@@ -286,9 +293,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FGFO-EvGVRw/hqdefault.jpg",
       "duration": "PT17M14S",
       "duration_seconds": 1034,
-      "view_count": 788660,
-      "like_count": 42512,
-      "comment_count": 6300,
+      "view_count": 896421,
+      "like_count": 45811,
+      "comment_count": 6607,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
@@ -303,9 +310,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/khX1Y3kmOJY/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 1687470,
-      "like_count": 33065,
-      "comment_count": 2941,
+      "view_count": 1759324,
+      "like_count": 33529,
+      "comment_count": 2979,
       "category_id": "24",
       "tags": [
         "Avengers",
@@ -331,9 +338,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e3D7Fj1PsWk/hqdefault.jpg",
       "duration": "PT4M55S",
       "duration_seconds": 295,
-      "view_count": 2397075,
-      "like_count": 190849,
-      "comment_count": 11079,
+      "view_count": 2818621,
+      "like_count": 167004,
+      "comment_count": 11584,
       "category_id": "20",
       "tags": [
         "Riot Games",
@@ -359,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tlSDDuWxO_0/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 1470216,
-      "like_count": 43465,
-      "comment_count": 3326,
+      "view_count": 1734506,
+      "like_count": 43780,
+      "comment_count": 3373,
       "category_id": "1",
       "tags": [
         "a24",
@@ -387,9 +394,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/13QoRmIFK0c/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 661639,
-      "like_count": 54815,
-      "comment_count": 2250,
+      "view_count": 748000,
+      "like_count": 57372,
+      "comment_count": 2342,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -406,9 +413,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-T4aI_k5_3Y/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 77507,
-      "like_count": 586,
-      "comment_count": 32,
+      "view_count": 98689,
+      "like_count": 602,
+      "comment_count": 41,
       "category_id": "24",
       "tags": [
         "avengers doomsday trailer",
@@ -434,9 +441,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/by5KXFAyWcg/hqdefault.jpg",
       "duration": "PT41M26S",
       "duration_seconds": 2486,
-      "view_count": 152910,
-      "like_count": 9192,
-      "comment_count": 662,
+      "view_count": 231064,
+      "like_count": 11596,
+      "comment_count": 770,
       "category_id": "17",
       "tags": [
         "mmg"
@@ -453,69 +460,93 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F2U3ilsfnVk/hqdefault.jpg",
       "duration": "PT19M56S",
       "duration_seconds": 1196,
-      "view_count": 67101,
-      "like_count": 5097,
-      "comment_count": 196,
+      "view_count": 86557,
+      "like_count": 5941,
+      "comment_count": 216,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
     },
     {
-      "video_id": "wUFB7MevPo4",
-      "title": "🔴LIVE | ARC NUTTERS w/ CLOAKZY & TIMTHETATMAN | TESTICULAR TORSION TUESDAY | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-07T08:53:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wUFB7MevPo4/hqdefault.jpg",
-      "duration": "PT7H18M27S",
-      "duration_seconds": 26307,
-      "view_count": 872782,
-      "like_count": 17623,
-      "comment_count": 240,
-      "category_id": "20",
+      "video_id": "h-EuMZmjpZE",
+      "title": "Vicente Fernández - La Diferencia (Letra/Lyrics)",
+      "description": "Vicente Fernández - La Diferencia (Letra/Lyrics)\nVicente Fernández - La Diferencia\n\nArtist Socials:\nSpotify: https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l?si=ef871c7b4f874886\n\nSíguenos en nuestras redes sociales:  \n📸 Instagram: https://www.instagram.com/ultimosombrero/\n🎥 TikTok: https://www.tiktok.com/@ultimosombrero\n📺 YouTube: https://www.youtube.com/@UltimoSombrero\n🎧 Spotify: https://open.spotify.com/user/316ilpbq5dpx24lmgxbpp5ehkrpe?si=1cbd11bc0d924322&nd=1&dlsi=8a31426f5acf451c\n\n\n#VicenteFernández\n#regionalmexicano\n#musicaregional\n#regionalmexican",
+      "channel_title": "Último Sombrero",
+      "channel_id": "UCkjmjTu_bVat5P66I35yYpw",
+      "published_at": "2026-01-07T18:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-EuMZmjpZE/hqdefault.jpg",
+      "duration": "PT2M51S",
+      "duration_seconds": 171,
+      "view_count": 52610,
+      "like_count": 346,
+      "comment_count": 6,
+      "category_id": "22",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "La Diferencia Vicente Fernández",
+        "Vicente Fernández La Diferencia",
+        "La Diferencia letra",
+        "La Diferencia lyrics",
+        "La Diferencia Vicente Fernández letra",
+        "Vicente Fernández La Diferencia letra",
+        "letra La Diferencia",
+        "lyrics La Diferencia",
+        "musica regional",
+        "musica regional mexicana"
       ],
-      "url": "https://www.youtube.com/watch?v=wUFB7MevPo4"
+      "url": "https://www.youtube.com/watch?v=h-EuMZmjpZE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "analysis": {
-        "content_trends": {
-          "observations": [
-            "Out of 10 trending videos, 3 are related to the 'Avengers: Doomsday' franchise. This indicates a high interest in superhero content, particularly from Marvel Studios.",
-            "Two videos are centered around gaming content: one is related to League of Legends and the other to Fortnite. This highlights the ongoing popularity of gaming content on YouTube.",
-            "There is a notable presence of cinematic trailers, including those for upcoming movies and games, which suggests a strong viewer interest in pre-release promotional content."
-          ],
-          "insights": [
-            "Superhero and gaming franchises continue to dominate trending content, suggesting that creators and brands in these niches should focus on high-quality trailers and teasers to capture audience attention.",
-            "The presence of both live streams and pre-recorded content in trending videos suggests diverse content delivery formats are effective in capturing audience interest."
-          ]
+      "content_trends": {
+        "superhero_movies": {
+          "description": "Superhero movie trailers, particularly from Marvel Studios, are a significant trend with multiple entries such as 'Avengers: Doomsday' and the 'X-Men' teaser. The recurring theme of established franchises suggests strong audience interest in superhero content.",
+          "opportunity": "Leveraging the superhero genre with crossovers and expanded universe content can capture a broad audience. Collaborations and partnerships with known entities like Marvel could enhance visibility."
         },
-        "creator_patterns": {
-          "observations": [
-            "Each of the top channels has only one video trending, indicating a wide distribution of content popularity among different creators.",
-            "Channels like 'Teaser Universe' and 'League of Legends' are leveraging cinematic content to engage viewers."
-          ],
-          "insights": [
-            "Creators can benefit from diversifying their content across different popular genres to increase the likelihood of trending.",
-            "Collaboration with well-known franchises or themes (e.g., Marvel, gaming) can significantly boost a channel's visibility."
-          ]
+        "gaming_cinematics": {
+          "description": "Gaming content, especially cinematic trailers from popular games like League of Legends, is trending. This indicates a sustained interest in high-quality, narrative-driven gaming content.",
+          "opportunity": "Producing engaging cinematic content for upcoming games or updates can drive viewership. Collaborations with influencers or content creators in the gaming space could increase engagement."
         },
-        "market_opportunities": {
-          "observations": [
-            "The mix of live and pre-recorded content in trending videos suggests opportunities for content creators to experiment with both formats to reach wider audiences.",
-            "The presence of a video with a humorous title ('Useless AI Trash') implies that there is room for unconventional, potentially comedic, content to trend."
-          ],
-          "insights": [
-            "There is a market opportunity for content creators to explore and produce engaging content around trending topics such as AI, even in a comedic context.",
-            "Brands and creators should consider leveraging culturally relevant and timely themes (e.g., testicular torsion Tuesday) to create viral content."
-          ]
+        "comedy_and_entertainment": {
+          "description": "Humorous and entertainment content, exemplified by titles like 'Useless AI Trash' and 'Born in Chaos - South Park Drops Into Fortnite!', shows a consistent viewership interest.",
+          "opportunity": "Investing in comedy sketches or humorous takes on trending topics could attract diverse audiences. Experimenting with meme culture and current trends can enhance relatability and shareability."
+        },
+        "music_and_lyrics": {
+          "description": "Music content, such as Vicente Fernández's 'La Diferencia' with lyrics, remains relevant, indicating a consistent audience for music and lyric videos.",
+          "opportunity": "Expanding into diverse music genres and incorporating lyric videos can capture global audiences. Collaborations with artists for exclusive releases can drive channel growth."
+        }
+      },
+      "creator_patterns": {
+        "diversified_content": {
+          "description": "Top channels like 'Teaser Universe' and 'IGN' are producing varied content, from movie trailers to gaming news.",
+          "opportunity": "Channels should continue diversifying their content portfolios to cater to multiple interests, increasing cross-demographic engagement."
+        },
+        "leveraging_franchises": {
+          "description": "Creators are capitalizing on established franchises, seen with multiple Marvel-related trailers.",
+          "opportunity": "Developing content around popular franchises or securing partnerships with major studios can boost channel visibility and subscriber growth."
+        }
+      },
+      "market_opportunities": {
+        "emerging_trends": {
+          "AI_and_technology": {
+            "description": "Content related to AI, highlighted with 'Useless AI Trash', is gaining traction.",
+            "opportunity": "Exploring content around AI innovations, ethics, and applications could engage tech-savvy audiences."
+          }
+        },
+        "content_collaboration": {
+          "description": "Collaborations between content creators, particularly in overlapping genres like gaming and entertainment, are underutilized.",
+          "opportunity": "Facilitating collaborations between channels can merge audiences and expand reach. Co-hosted events or joint content series can attract new viewers."
+        }
+      },
+      "practical_insights": {
+        "content_strategy": {
+          "description": "Focus on producing high-quality, narrative-driven content, especially in trending genres like superhero movies and gaming.",
+          "action": "Allocate resources to create visually appealing and engaging trailers or shorts. Experiment with different storytelling techniques to captivate audiences."
+        },
+        "audience_engagement": {
+          "description": "Engage with audiences through interactive content like live streams or Q&A sessions, especially in categories with high interest.",
+          "action": "Implement regular live interactions to build community and obtain real-time feedback, adjusting content strategies accordingly."
         }
       },
       "metadata_stats": {
@@ -524,7 +555,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 849286
+        "avg_views_per_video": 880235
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
