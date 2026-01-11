@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-11T06:13:19.727615",
+  "timestamp": "2026-01-11T09:09:41.244160",
   "date": "2026-01-11",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 3,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-poSVOan2fw/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1424470,
-      "like_count": 156954,
-      "comment_count": 13490,
+      "view_count": 1605063,
+      "like_count": 168178,
+      "comment_count": 14223,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-poSVOan2fw"
@@ -39,8 +39,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ot5Y1XzcaFg/hqdefault.jpg",
       "duration": "PT3S",
       "duration_seconds": 3,
-      "view_count": 389748,
-      "like_count": 7633,
+      "view_count": 389891,
+      "like_count": 7629,
       "comment_count": 66,
       "category_id": "20",
       "tags": [
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L73Gq8cNsdg/hqdefault.jpg",
       "duration": "PT12M39S",
       "duration_seconds": 759,
-      "view_count": 259689,
-      "like_count": 9209,
-      "comment_count": 1975,
+      "view_count": 301967,
+      "like_count": 10147,
+      "comment_count": 2085,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=L73Gq8cNsdg"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ejJzoB2J--U/hqdefault.jpg",
       "duration": "PT50M44S",
       "duration_seconds": 3044,
-      "view_count": 1569642,
-      "like_count": 119632,
-      "comment_count": 13206,
+      "view_count": 2064613,
+      "like_count": 146239,
+      "comment_count": 13938,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -94,6 +94,34 @@
         "dream minecraft"
       ],
       "url": "https://www.youtube.com/watch?v=ejJzoB2J--U"
+    },
+    {
+      "video_id": "F3ZUJRzUVKc",
+      "title": "Fuerza Regida - TU SANCHO (Letra)",
+      "description": "Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream Now/Download:\nN/A\n\n🎤Letra:\nMi niña alista tu maleta ahorita\nQuiero que te pongas bonita\nYa le marqué al p!nche piloto, ya dile al tonto que ya te vas\nKbrona, buena pa' mentiras\nY esa boquita me fascina\nBaby, tú eres para un loco, y como este loco no hay como yo\n\n[Verso 2]\nQué bonito ch!ngarte en las nubes, bandida\nEl piloto pura v3rga baja la mira\nTerminamos en treinta y llegamos a Ibiza, aterrizamos sin prisa\nMateriales son los que tú menos pedías\nLos detalles enamoraron a mi niña\nHoy te dejo una cuenta de banco en las Islas, tú date vuelo\n\n[Verso 3]\nQué bonita te miras, biеn mamacita sin calzón\nNo le cuentes a tu amiga quе la tengo como león\nCalladita te ves más bonita\nPa' mirarnos otra vez, que no lo sepa tu güey\nSin pedos te espero, peléate con tu güey\nInvéntate una razón pa' que no lo haga de pedo\nNi pedo, sin pedo, ¿ya qué? (Eh, eh, eh)\n\n[Verso 4]\nQué bonito chingart",
+      "channel_title": "GroovLatn",
+      "channel_id": "UCK7wSPETZbh2PK4SX33SuqQ",
+      "published_at": "2026-01-10T17:32:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F3ZUJRzUVKc/hqdefault.jpg",
+      "duration": "PT3M",
+      "duration_seconds": 180,
+      "view_count": 142027,
+      "like_count": 171,
+      "comment_count": 1,
+      "category_id": "22",
+      "tags": [
+        "Fuerza regida tu sancho letra",
+        "Fuerza regida",
+        "Fuerza regida 111xpantia",
+        "Fuerza Regida Tu Sancho",
+        "Tu sancho letra",
+        "Tu sancho letra fuerza regida",
+        "Mi niña alista tu maleta ahorita",
+        "tu sancho fuerza regida",
+        "fuerza regida tu sancho",
+        "Sin pedos te espero"
+      ],
+      "url": "https://www.youtube.com/watch?v=F3ZUJRzUVKc"
     },
     {
       "video_id": "3i3sLFJisEg",
@@ -105,9 +133,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3i3sLFJisEg/hqdefault.jpg",
       "duration": "PT1M14S",
       "duration_seconds": 74,
-      "view_count": 118750,
-      "like_count": 1536,
-      "comment_count": 113,
+      "view_count": 141068,
+      "like_count": 1738,
+      "comment_count": 124,
       "category_id": "1",
       "tags": [
         "doomsday trailer",
@@ -124,51 +152,6 @@
       "url": "https://www.youtube.com/watch?v=3i3sLFJisEg"
     },
     {
-      "video_id": "-JljYMGebyw",
-      "title": "New OP BRAINROTS + DUELS MACHINE Update!",
-      "description": "SAB with @ConorMcGregor & JR! LOCK IN\n\n⚠️Go follow my ROBLOX GROUP: \nhttps://www.roblox.com/communities/36047290/CayPlay#!/about\n\n⚠️Cop the CAYLUS CHAIN:\nhttps://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\n🤯NEW HOODIE & PLUSHIE\nhttps://shopcaylus.com\n\n🎯 Play Waterpark Simulator NOW! \nhttps://store.steampowered.com/app/3293260/Waterpark_Simulator/\n ⭐️ Play Waterpark Simulator DEMO NOW! – https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n 🌊 COME HANG OUT WITH ME IN THE DISCORD. I am there now! – https://discord.gg/waterparksimulator\n\n*CAYLUS PLUSHIES* https://shopcaylus.com/\n\nRoblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/about\n\n👀Subscribe to my NEW secret Roblox channel https://www.youtube.com/@CaylusBloxTopVids\n\nUse ⭐*STARCODE*⭐ Caylus\nCaylus Instagram👀 https://www.instagram.com/caylus/?hl=en\nCaylus Twitter🐦 https://x.com/caylusq",
-      "channel_title": "CaylusBlox",
-      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
-      "published_at": "2026-01-10T21:20:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-JljYMGebyw/hqdefault.jpg",
-      "duration": "PT2H34M15S",
-      "duration_seconds": 9255,
-      "view_count": 2143893,
-      "like_count": 31640,
-      "comment_count": 444,
-      "category_id": "20",
-      "tags": [
-        "caylusblox",
-        "caylus roblox",
-        "caylus",
-        "roblox",
-        "Steal a brainrot update",
-        "ADMIN ABUSE In Steal a Brainrot!",
-        "admin abuse",
-        "steal a brainrot",
-        "caylus admin abuse",
-        "caylus steak"
-      ],
-      "url": "https://www.youtube.com/watch?v=-JljYMGebyw"
-    },
-    {
-      "video_id": "g-4J2X5dNG4",
-      "title": "Chapter 5's NEWEST Trailer Is WILD...",
-      "description": "WHAAT",
-      "channel_title": "Sheeprampage",
-      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
-      "published_at": "2026-01-10T18:35:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g-4J2X5dNG4/hqdefault.jpg",
-      "duration": "PT11M26S",
-      "duration_seconds": 686,
-      "view_count": 196382,
-      "like_count": 8834,
-      "comment_count": 997,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
-    },
-    {
       "video_id": "dj0XaTxb8EA",
       "title": "Quarantine Zone (FULL GAME PART 1)",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -178,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/dj0XaTxb8EA/hqdefault.jpg",
       "duration": "PT3H30M12S",
       "duration_seconds": 12612,
-      "view_count": 161524,
-      "like_count": 11409,
-      "comment_count": 980,
+      "view_count": 261926,
+      "like_count": 14078,
+      "comment_count": 1096,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -197,6 +180,49 @@
       "url": "https://www.youtube.com/watch?v=dj0XaTxb8EA"
     },
     {
+      "video_id": "g-4J2X5dNG4",
+      "title": "Chapter 5's NEWEST Trailer Is WILD...",
+      "description": "WHAAT",
+      "channel_title": "Sheeprampage",
+      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
+      "published_at": "2026-01-10T18:35:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g-4J2X5dNG4/hqdefault.jpg",
+      "duration": "PT11M26S",
+      "duration_seconds": 686,
+      "view_count": 222159,
+      "like_count": 9467,
+      "comment_count": 1043,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
+    },
+    {
+      "video_id": "o21ePfJRYg8",
+      "title": "Jynxzi Vs Musty (Rocket League)",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nJynxzi Vs Musty (Rocket League)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-01-11T02:12:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o21ePfJRYg8/hqdefault.jpg",
+      "duration": "PT1H2M13S",
+      "duration_seconds": 3733,
+      "view_count": 277457,
+      "like_count": 12587,
+      "comment_count": 1705,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "Jynxzi Vs Musty",
+        "jynxzi rocket league",
+        "jynxzi musty rocket league",
+        "jynxzi musty rocket league 1v1",
+        "musty rocket league"
+      ],
+      "url": "https://www.youtube.com/watch?v=o21ePfJRYg8"
+    },
+    {
       "video_id": "rB503AM-SRc",
       "title": "Juan Gabriel - Así Fue (Letra)",
       "description": "🎶💫 ¡Muchas gracias por ver el video! espero que les haya gustado.❤️❤️\n\n🔔 ¡No olvides suscribirte y activar las notificaciones para disfrutar cada video.\n\n📌 Aquí te invitamos a ver el vídeo oficial :\nhttps://youtu.be/0O4CLgXvbjU?si=e-3XG-jNHRvu07eU",
@@ -206,40 +232,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rB503AM-SRc/hqdefault.jpg",
       "duration": "PT6M19S",
       "duration_seconds": 379,
-      "view_count": 339936,
-      "like_count": 605,
+      "view_count": 357228,
+      "like_count": 646,
       "comment_count": 15,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=rB503AM-SRc"
-    },
-    {
-      "video_id": "g2z-_AVWopI",
-      "title": "Marvel Studios' Avengers: Doomsday  - First Trailer | Robert Downey JR. | Dec 18, 2026",
-      "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
-      "channel_title": "Galactic Trailer",
-      "channel_id": "UCvKMRl5yxhst6HW6Qw6qG2w",
-      "published_at": "2026-01-10T15:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g2z-_AVWopI/hqdefault.jpg",
-      "duration": "PT1M16S",
-      "duration_seconds": 76,
-      "view_count": 71227,
-      "like_count": 447,
-      "comment_count": 33,
-      "category_id": "1",
-      "tags": [
-        "Avengers Doomsday trailer",
-        "Avengers Doomsday movie",
-        "Marvel Avengers Doomsday",
-        "Avengers Doomsday 2026",
-        "Avengers Doomsday cast",
-        "Doctor Doom Robert Downey Jr.",
-        "Avengers Doomsday plot",
-        "Avengers Doomsday teaser",
-        "Avengers Doomsday first teaser",
-        "Avengers Doomsday first look trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=g2z-_AVWopI"
     }
   ],
   "videos_with_transcripts": [],
@@ -254,9 +252,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-poSVOan2fw/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1424470,
-      "like_count": 156954,
-      "comment_count": 13490,
+      "view_count": 1605063,
+      "like_count": 168178,
+      "comment_count": 14223,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-poSVOan2fw"
@@ -271,9 +269,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L73Gq8cNsdg/hqdefault.jpg",
       "duration": "PT12M39S",
       "duration_seconds": 759,
-      "view_count": 259689,
-      "like_count": 9209,
-      "comment_count": 1975,
+      "view_count": 301967,
+      "like_count": 10147,
+      "comment_count": 2085,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=L73Gq8cNsdg"
@@ -288,9 +286,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ejJzoB2J--U/hqdefault.jpg",
       "duration": "PT50M44S",
       "duration_seconds": 3044,
-      "view_count": 1569642,
-      "like_count": 119632,
-      "comment_count": 13206,
+      "view_count": 2064613,
+      "like_count": 146239,
+      "comment_count": 13938,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -298,6 +296,34 @@
         "dream minecraft"
       ],
       "url": "https://www.youtube.com/watch?v=ejJzoB2J--U"
+    },
+    {
+      "video_id": "F3ZUJRzUVKc",
+      "title": "Fuerza Regida - TU SANCHO (Letra)",
+      "description": "Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream Now/Download:\nN/A\n\n🎤Letra:\nMi niña alista tu maleta ahorita\nQuiero que te pongas bonita\nYa le marqué al p!nche piloto, ya dile al tonto que ya te vas\nKbrona, buena pa' mentiras\nY esa boquita me fascina\nBaby, tú eres para un loco, y como este loco no hay como yo\n\n[Verso 2]\nQué bonito ch!ngarte en las nubes, bandida\nEl piloto pura v3rga baja la mira\nTerminamos en treinta y llegamos a Ibiza, aterrizamos sin prisa\nMateriales son los que tú menos pedías\nLos detalles enamoraron a mi niña\nHoy te dejo una cuenta de banco en las Islas, tú date vuelo\n\n[Verso 3]\nQué bonita te miras, biеn mamacita sin calzón\nNo le cuentes a tu amiga quе la tengo como león\nCalladita te ves más bonita\nPa' mirarnos otra vez, que no lo sepa tu güey\nSin pedos te espero, peléate con tu güey\nInvéntate una razón pa' que no lo haga de pedo\nNi pedo, sin pedo, ¿ya qué? (Eh, eh, eh)\n\n[Verso 4]\nQué bonito chingart",
+      "channel_title": "GroovLatn",
+      "channel_id": "UCK7wSPETZbh2PK4SX33SuqQ",
+      "published_at": "2026-01-10T17:32:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F3ZUJRzUVKc/hqdefault.jpg",
+      "duration": "PT3M",
+      "duration_seconds": 180,
+      "view_count": 142027,
+      "like_count": 171,
+      "comment_count": 1,
+      "category_id": "22",
+      "tags": [
+        "Fuerza regida tu sancho letra",
+        "Fuerza regida",
+        "Fuerza regida 111xpantia",
+        "Fuerza Regida Tu Sancho",
+        "Tu sancho letra",
+        "Tu sancho letra fuerza regida",
+        "Mi niña alista tu maleta ahorita",
+        "tu sancho fuerza regida",
+        "fuerza regida tu sancho",
+        "Sin pedos te espero"
+      ],
+      "url": "https://www.youtube.com/watch?v=F3ZUJRzUVKc"
     },
     {
       "video_id": "3i3sLFJisEg",
@@ -309,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3i3sLFJisEg/hqdefault.jpg",
       "duration": "PT1M14S",
       "duration_seconds": 74,
-      "view_count": 118750,
-      "like_count": 1536,
-      "comment_count": 113,
+      "view_count": 141068,
+      "like_count": 1738,
+      "comment_count": 124,
       "category_id": "1",
       "tags": [
         "doomsday trailer",
@@ -328,51 +354,6 @@
       "url": "https://www.youtube.com/watch?v=3i3sLFJisEg"
     },
     {
-      "video_id": "-JljYMGebyw",
-      "title": "New OP BRAINROTS + DUELS MACHINE Update!",
-      "description": "SAB with @ConorMcGregor & JR! LOCK IN\n\n⚠️Go follow my ROBLOX GROUP: \nhttps://www.roblox.com/communities/36047290/CayPlay#!/about\n\n⚠️Cop the CAYLUS CHAIN:\nhttps://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\n🤯NEW HOODIE & PLUSHIE\nhttps://shopcaylus.com\n\n🎯 Play Waterpark Simulator NOW! \nhttps://store.steampowered.com/app/3293260/Waterpark_Simulator/\n ⭐️ Play Waterpark Simulator DEMO NOW! – https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n 🌊 COME HANG OUT WITH ME IN THE DISCORD. I am there now! – https://discord.gg/waterparksimulator\n\n*CAYLUS PLUSHIES* https://shopcaylus.com/\n\nRoblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/about\n\n👀Subscribe to my NEW secret Roblox channel https://www.youtube.com/@CaylusBloxTopVids\n\nUse ⭐*STARCODE*⭐ Caylus\nCaylus Instagram👀 https://www.instagram.com/caylus/?hl=en\nCaylus Twitter🐦 https://x.com/caylusq",
-      "channel_title": "CaylusBlox",
-      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
-      "published_at": "2026-01-10T21:20:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-JljYMGebyw/hqdefault.jpg",
-      "duration": "PT2H34M15S",
-      "duration_seconds": 9255,
-      "view_count": 2143893,
-      "like_count": 31640,
-      "comment_count": 444,
-      "category_id": "20",
-      "tags": [
-        "caylusblox",
-        "caylus roblox",
-        "caylus",
-        "roblox",
-        "Steal a brainrot update",
-        "ADMIN ABUSE In Steal a Brainrot!",
-        "admin abuse",
-        "steal a brainrot",
-        "caylus admin abuse",
-        "caylus steak"
-      ],
-      "url": "https://www.youtube.com/watch?v=-JljYMGebyw"
-    },
-    {
-      "video_id": "g-4J2X5dNG4",
-      "title": "Chapter 5's NEWEST Trailer Is WILD...",
-      "description": "WHAAT",
-      "channel_title": "Sheeprampage",
-      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
-      "published_at": "2026-01-10T18:35:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g-4J2X5dNG4/hqdefault.jpg",
-      "duration": "PT11M26S",
-      "duration_seconds": 686,
-      "view_count": 196382,
-      "like_count": 8834,
-      "comment_count": 997,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
-    },
-    {
       "video_id": "dj0XaTxb8EA",
       "title": "Quarantine Zone (FULL GAME PART 1)",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -382,9 +363,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/dj0XaTxb8EA/hqdefault.jpg",
       "duration": "PT3H30M12S",
       "duration_seconds": 12612,
-      "view_count": 161524,
-      "like_count": 11409,
-      "comment_count": 980,
+      "view_count": 261926,
+      "like_count": 14078,
+      "comment_count": 1096,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -401,6 +382,49 @@
       "url": "https://www.youtube.com/watch?v=dj0XaTxb8EA"
     },
     {
+      "video_id": "g-4J2X5dNG4",
+      "title": "Chapter 5's NEWEST Trailer Is WILD...",
+      "description": "WHAAT",
+      "channel_title": "Sheeprampage",
+      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
+      "published_at": "2026-01-10T18:35:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g-4J2X5dNG4/hqdefault.jpg",
+      "duration": "PT11M26S",
+      "duration_seconds": 686,
+      "view_count": 222159,
+      "like_count": 9467,
+      "comment_count": 1043,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
+    },
+    {
+      "video_id": "o21ePfJRYg8",
+      "title": "Jynxzi Vs Musty (Rocket League)",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nJynxzi Vs Musty (Rocket League)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-01-11T02:12:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o21ePfJRYg8/hqdefault.jpg",
+      "duration": "PT1H2M13S",
+      "duration_seconds": 3733,
+      "view_count": 277457,
+      "like_count": 12587,
+      "comment_count": 1705,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "Jynxzi Vs Musty",
+        "jynxzi rocket league",
+        "jynxzi musty rocket league",
+        "jynxzi musty rocket league 1v1",
+        "musty rocket league"
+      ],
+      "url": "https://www.youtube.com/watch?v=o21ePfJRYg8"
+    },
+    {
       "video_id": "rB503AM-SRc",
       "title": "Juan Gabriel - Así Fue (Letra)",
       "description": "🎶💫 ¡Muchas gracias por ver el video! espero que les haya gustado.❤️❤️\n\n🔔 ¡No olvides suscribirte y activar las notificaciones para disfrutar cada video.\n\n📌 Aquí te invitamos a ver el vídeo oficial :\nhttps://youtu.be/0O4CLgXvbjU?si=e-3XG-jNHRvu07eU",
@@ -410,40 +434,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rB503AM-SRc/hqdefault.jpg",
       "duration": "PT6M19S",
       "duration_seconds": 379,
-      "view_count": 339936,
-      "like_count": 605,
+      "view_count": 357228,
+      "like_count": 646,
       "comment_count": 15,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=rB503AM-SRc"
-    },
-    {
-      "video_id": "g2z-_AVWopI",
-      "title": "Marvel Studios' Avengers: Doomsday  - First Trailer | Robert Downey JR. | Dec 18, 2026",
-      "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
-      "channel_title": "Galactic Trailer",
-      "channel_id": "UCvKMRl5yxhst6HW6Qw6qG2w",
-      "published_at": "2026-01-10T15:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g2z-_AVWopI/hqdefault.jpg",
-      "duration": "PT1M16S",
-      "duration_seconds": 76,
-      "view_count": 71227,
-      "like_count": 447,
-      "comment_count": 33,
-      "category_id": "1",
-      "tags": [
-        "Avengers Doomsday trailer",
-        "Avengers Doomsday movie",
-        "Marvel Avengers Doomsday",
-        "Avengers Doomsday 2026",
-        "Avengers Doomsday cast",
-        "Doctor Doom Robert Downey Jr.",
-        "Avengers Doomsday plot",
-        "Avengers Doomsday teaser",
-        "Avengers Doomsday first teaser",
-        "Avengers Doomsday first look trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=g2z-_AVWopI"
     },
     {
       "video_id": "ot5Y1XzcaFg",
@@ -455,8 +451,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ot5Y1XzcaFg/hqdefault.jpg",
       "duration": "PT3S",
       "duration_seconds": 3,
-      "view_count": 389748,
-      "like_count": 7633,
+      "view_count": 389891,
+      "like_count": 7629,
       "comment_count": 66,
       "category_id": "20",
       "tags": [
@@ -477,61 +473,44 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 5763399,
+        "average_views_per_video": 576339.9
+      },
       "content_trends": {
         "gaming": {
-          "popularity": "High",
-          "evidence": [
-            "Multiple videos related to 'Poppy Playtime' and 'Minecraft'",
-            "High engagement in cinematic trailers and gameplay content"
-          ],
-          "insights": [
-            "Cinematic trailers for games generate significant interest and can be leveraged for marketing new game releases.",
-            "Reaction and commentary videos on popular game content, such as 'Poppy Playtime', attract views."
-          ]
+          "description": "Gaming content is prominently featured, with videos related to 'Poppy Playtime', 'Minecraft', and 'Rocket League'.",
+          "trend_insight": "Gaming videos, especially those involving popular games and unique challenges (e.g., speedrunning), continue to capture significant interest.",
+          "market_opportunity": "Consider creating content around emerging games or updates to existing popular games, focusing on unique gameplay or challenges."
         },
-        "superhero_movies": {
-          "popularity": "Moderate to High",
-          "evidence": [
-            "Two trailer videos related to 'Avengers: Doomsday'",
-            "Involvement of popular actors like Robert Downey Jr."
-          ],
-          "insights": [
-            "Trailers and teasers for upcoming superhero movies maintain strong viewer interest.",
-            "Early release and commentary on trailers can capture a dedicated audience."
-          ]
+        "cinematic trailers and reactions": {
+          "description": "Two videos, including a cinematic trailer and a reaction video, are related to 'Poppy Playtime Chapter 5'.",
+          "trend_insight": "There is high engagement with cinematic trailers and reaction videos, particularly for games and movies with a strong fan base.",
+          "market_opportunity": "Leverage upcoming releases in gaming and entertainment to create reaction videos or deep dives into trailers, harnessing fan anticipation."
         },
-        "music": {
-          "popularity": "Moderate",
-          "evidence": [
-            "Video featuring Juan Gabriel's song 'Así Fue'"
-          ],
-          "insights": [
-            "Classic music content still garners views, indicating opportunities for nostalgic or tribute content."
-          ]
+        "music and entertainment": {
+          "description": "Music content is represented by Fuerza Regida and Juan Gabriel, indicating a demand for music videos and lyric content.",
+          "trend_insight": "Music videos and related content, especially in the Spanish language, attract substantial viewership, highlighting the importance of diverse language offerings.",
+          "market_opportunity": "Explore collaborations with musicians or create lyric videos targeting diverse linguistic audiences to expand reach."
         }
       },
       "creator_patterns": {
-        "diverse_content": {
-          "observation": "Channels are creating content across diverse genres such as gaming, movies, and music.",
-          "opportunity": "Creators can expand into multiple categories to capture different audience segments."
-        },
-        "video_format": {
-          "observation": "Cinematic trailers, live giveaways, and reaction videos are common.",
-          "opportunity": "Innovative formats like live interactions or interactive gameplay can further enhance engagement."
+        "single-video creators": {
+          "description": "Each top channel has contributed only one video to the trending list.",
+          "trend_insight": "This suggests that individual standout videos can achieve trending status, emphasizing quality and timing over quantity.",
+          "market_opportunity": "Focus on creating high-quality, shareable content that resonates with specific niches to achieve viral success."
         }
       },
-      "market_opportunities": {
-        "gaming": {
-          "opportunity": "Capitalize on creating cinematic trailers and reaction videos for upcoming game releases.",
-          "growth_potential": "High due to existing interest in gaming content."
+      "additional_insights": {
+        "unknown_categories": {
+          "description": "The categories of the videos are unknown, which limits precise targeting.",
+          "actionable_recommendation": "Encourage creators to properly categorize videos to enhance discoverability and allow for more targeted trend analysis."
         },
-        "superhero_movies": {
-          "opportunity": "Develop exclusive content around upcoming movie releases and actor insights.",
-          "growth_potential": "Moderate to High with strategic timing aligned with movie release cycles."
-        },
-        "music": {
-          "opportunity": "Explore content around classic hits and artist retrospectives to engage nostalgic audiences.",
-          "growth_potential": "Moderate, leveraging existing fan bases."
+        "language diversity": {
+          "description": "Presence of both English and Spanish content suggests multilingual appeal.",
+          "trend_insight": "Bilingual or multilingual content can tap into broader audiences, especially in regions with diverse populations.",
+          "market_opportunity": "Develop content strategies that include translations or dual language offerings to maximize reach and engagement."
         }
       },
       "metadata_stats": {
@@ -540,7 +519,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 667526
+        "avg_views_per_video": 576339
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
