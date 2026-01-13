@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T09:13:28.187300",
+  "timestamp": "2026-01-13T12:16:20.321136",
   "date": "2026-01-13",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OBDJgW-TJKc/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 1512899,
-      "like_count": 79460,
-      "comment_count": 5609,
+      "view_count": 1653854,
+      "like_count": 83009,
+      "comment_count": 5868,
       "category_id": "24",
       "tags": [
         "Anime",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KY8q8Ne_Hpc/hqdefault.jpg",
       "duration": "PT7H3M16S",
       "duration_seconds": 25396,
-      "view_count": 739465,
-      "like_count": 18111,
-      "comment_count": 32,
+      "view_count": 887123,
+      "like_count": 18586,
+      "comment_count": 119,
       "category_id": "20",
       "tags": [
         "funny",
@@ -71,9 +71,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Pbn1yz2p0CU/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 1090319,
-      "like_count": 14128,
-      "comment_count": 1015,
+      "view_count": 1220792,
+      "like_count": 15126,
+      "comment_count": 1071,
       "category_id": "1",
       "tags": [
         "2026",
@@ -99,9 +99,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5LGkxW3MERg/hqdefault.jpg",
       "duration": "PT3H27M21S",
       "duration_seconds": 12441,
-      "view_count": 234024,
-      "like_count": 10450,
-      "comment_count": 849,
+      "view_count": 307586,
+      "like_count": 11633,
+      "comment_count": 904,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -127,12 +127,55 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WsYsNoNjbaw/hqdefault.jpg",
       "duration": "PT3M48S",
       "duration_seconds": 228,
-      "view_count": 345358,
-      "like_count": 74360,
-      "comment_count": 4682,
+      "view_count": 496826,
+      "like_count": 93376,
+      "comment_count": 5506,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
+    },
+    {
+      "video_id": "06P19HnIJjs",
+      "title": "Working the night shift alone...",
+      "description": "You're working the night shift alone, making food and then BAM\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-01-12T17:51:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/06P19HnIJjs/hqdefault.jpg",
+      "duration": "PT1H22M31S",
+      "duration_seconds": 4951,
+      "view_count": 371846,
+      "like_count": 25019,
+      "comment_count": 1309,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=06P19HnIJjs"
+    },
+    {
+      "video_id": "VXQveAdzC74",
+      "title": "Teaser Trailer - Resident Evil Showcase | January 15, 2026",
+      "description": "Tune in on January 15 at 2pm PT / 10pm GMT for the Resident Evil Showcase and be one of the first to see brand new gameplay and news for Resident Evil Requiem.\n\nhttps://www.residentevil.com/showcase/\n\nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch™ 2, Steam, and the Epic Games Store. Pre-orders available now!\n\nhttps://www.residentevil.com/requiem/en-us/products/\n \nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://x.com/re_games \nhttps://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games/\n\n©CAPCOM",
+      "channel_title": "Resident Evil",
+      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
+      "published_at": "2026-01-13T01:45:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VXQveAdzC74/hqdefault.jpg",
+      "duration": "PT16S",
+      "duration_seconds": 16,
+      "view_count": 82905,
+      "like_count": 7361,
+      "comment_count": 661,
+      "category_id": "20",
+      "tags": [
+        "#ResidentEvilRequiem",
+        "#ResidentEvil",
+        "#RE",
+        "#RERequiem",
+        "#RE9",
+        "#REShowcase"
+      ],
+      "url": "https://www.youtube.com/watch?v=VXQveAdzC74"
     },
     {
       "video_id": "3FuP4bV6JY4",
@@ -144,7 +187,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3FuP4bV6JY4/hqdefault.jpg",
       "duration": "PT22S",
       "duration_seconds": 22,
-      "view_count": 334424,
+      "view_count": 334543,
       "like_count": 1046,
       "comment_count": 7,
       "category_id": "20",
@@ -163,58 +206,6 @@
       "url": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
     },
     {
-      "video_id": "VXQveAdzC74",
-      "title": "Teaser Trailer - Resident Evil Showcase | January 15, 2026",
-      "description": "Tune in on January 15 at 2pm PT / 10pm GMT for the Resident Evil Showcase and be one of the first to see brand new gameplay and news for Resident Evil Requiem.\n\nhttps://www.residentevil.com/showcase/\n\nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch™ 2, Steam, and the Epic Games Store. Pre-orders available now!\n\nhttps://www.residentevil.com/requiem/en-us/products/\n \nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://x.com/re_games \nhttps://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games/\n\n©CAPCOM",
-      "channel_title": "Resident Evil",
-      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
-      "published_at": "2026-01-13T01:45:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VXQveAdzC74/hqdefault.jpg",
-      "duration": "PT16S",
-      "duration_seconds": 16,
-      "view_count": 62529,
-      "like_count": 6426,
-      "comment_count": 562,
-      "category_id": "20",
-      "tags": [
-        "#ResidentEvilRequiem",
-        "#ResidentEvil",
-        "#RE",
-        "#RERequiem",
-        "#RE9",
-        "#REShowcase"
-      ],
-      "url": "https://www.youtube.com/watch?v=VXQveAdzC74"
-    },
-    {
-      "video_id": "kyraA4RY13Y",
-      "title": "ROBLOX ENTER BRAINROT",
-      "description": "Today I played roblox enter brainrot! Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects.",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-01-12T16:22:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kyraA4RY13Y/hqdefault.jpg",
-      "duration": "PT24M11S",
-      "duration_seconds": 1451,
-      "view_count": 703584,
-      "like_count": 11959,
-      "comment_count": 2102,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=kyraA4RY13Y"
-    },
-    {
       "video_id": "r6wyz79tZmo",
       "title": "Landman S02 E10 Season Finale Trailer | 'Tragedy and Flies'",
       "description": "Check out the new Landman Season 2 Episode 10 Trailer starring Billy Bob Thornton!\n► Learn more: https://www.rottentomatoes.com/tv/landman/?cmp=RTTV_YouTube_Desc \n \nSubscribe to the channel and click the bell icon to be notified of all the latest TV & streaming series: http://bit.ly/2qTF6ZY  \n\n► Shop Rotten Tomatoes: http://bit.ly/3m59uhu\n► Download the app: https://bit.ly/4lcQqHs\n\nUS Air Date: January 18, 2026\nStarring: Billy Bob Thornton, Ali Larter, Demi Moore\nNetwork: Paramount+\nSynopsis: Don't miss the epic season 2 finale of Landman!\n\nWatch More:  \n► Rotten Tomatoes Originals: http://bit.ly/2D3sipV  \n► What to Watch: https://bit.ly/3x6Q01d\n► Fresh New Clips: https://bit.ly/3mJePrv    \n► Hot New Trailers: http://bit.ly/2qThrsF   \n► New TV This Week: http://bit.ly/2Cq3wzc \n\nRotten Tomatoes TV delivers Fresh TV at a click! Subscribe now for the best trailers, clips, sneak peeks, and binge guides for shows you love and the upcoming series and TV movies that should be on your radar.\n\n",
@@ -224,9 +215,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r6wyz79tZmo/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 37001,
-      "like_count": 227,
-      "comment_count": 63,
+      "view_count": 43174,
+      "like_count": 259,
+      "comment_count": 77,
       "category_id": "1",
       "tags": [
         "Landman",
@@ -243,24 +234,32 @@
       "url": "https://www.youtube.com/watch?v=r6wyz79tZmo"
     },
     {
-      "video_id": "bP_vzHICa4I",
-      "title": "Trump used this to capture Maduro..",
-      "description": "Asmongold Clips / Asmongold Reacts To: Account from a Venezuelan security guard loyal to Nicolás Maduro who recalls what happened the night Delta Force captured Maduro..\n\n\nOn this Asmongold Clips Youtube Channel you'll never quit finding all the funny Asmongold Moments with Mcconnell and the best Asmongold Highlights from the most popular games, like: Baldur's Gate 3, Helldivers 2, Starfield, Blizzard Diablo 4, The War Within & Hardcore Classic WoW, the record breaking MMORPG FFXIV, Path of Exile 2, sneak peeks from Gameplay of the upcoming Riot MMO and playthroughs of many other popular games like Monster Hunter, Final Fantasy 16, Elden Ring and more. Also Asmongold Reacts to a lot of content, such as World Record Speed Run of games, Drama and videos of some of the most interesting creators like penguinz0, Internet Historian, Emiru, Dunkey and more. Asmon is also known for his \"The True Story of Asmongold\", \"Asmongold $2 Pizza\" and \"Asmongold $2 Steak\", \"Asmongold Room and House Tour\"",
-      "channel_title": "Asmongold Clips",
-      "channel_id": "UCMwJJL5FJFuTRT55ksbQ4GQ",
-      "published_at": "2026-01-12T13:36:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bP_vzHICa4I/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 1214897,
-      "like_count": 86817,
-      "comment_count": 11766,
-      "category_id": "24",
+      "video_id": "kyraA4RY13Y",
+      "title": "ROBLOX ENTER BRAINROT",
+      "description": "Today I played roblox enter brainrot! Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects.",
+      "channel_title": "Foltyn",
+      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
+      "published_at": "2026-01-12T16:22:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kyraA4RY13Y/hqdefault.jpg",
+      "duration": "PT24M11S",
+      "duration_seconds": 1451,
+      "view_count": 772253,
+      "like_count": 12930,
+      "comment_count": 2209,
+      "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold clips"
+        "foltyn",
+        "foltyn roblox",
+        "roblox",
+        "roblox foltyn",
+        "foltyn family",
+        "funny",
+        "no swearing",
+        "foltyn family roblox",
+        "roblox foltyn family",
+        "blade ball"
       ],
-      "url": "https://www.youtube.com/watch?v=bP_vzHICa4I"
+      "url": "https://www.youtube.com/watch?v=kyraA4RY13Y"
     }
   ],
   "videos_with_transcripts": [],
@@ -275,9 +274,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OBDJgW-TJKc/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 1512899,
-      "like_count": 79460,
-      "comment_count": 5609,
+      "view_count": 1653854,
+      "like_count": 83009,
+      "comment_count": 5868,
       "category_id": "24",
       "tags": [
         "Anime",
@@ -303,9 +302,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KY8q8Ne_Hpc/hqdefault.jpg",
       "duration": "PT7H3M16S",
       "duration_seconds": 25396,
-      "view_count": 739465,
-      "like_count": 18111,
-      "comment_count": 32,
+      "view_count": 887123,
+      "like_count": 18586,
+      "comment_count": 119,
       "category_id": "20",
       "tags": [
         "funny",
@@ -324,9 +323,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Pbn1yz2p0CU/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 1090319,
-      "like_count": 14128,
-      "comment_count": 1015,
+      "view_count": 1220792,
+      "like_count": 15126,
+      "comment_count": 1071,
       "category_id": "1",
       "tags": [
         "2026",
@@ -352,9 +351,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5LGkxW3MERg/hqdefault.jpg",
       "duration": "PT3H27M21S",
       "duration_seconds": 12441,
-      "view_count": 234024,
-      "like_count": 10450,
-      "comment_count": 849,
+      "view_count": 307586,
+      "like_count": 11633,
+      "comment_count": 904,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -380,12 +379,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WsYsNoNjbaw/hqdefault.jpg",
       "duration": "PT3M48S",
       "duration_seconds": 228,
-      "view_count": 345358,
-      "like_count": 74360,
-      "comment_count": 4682,
+      "view_count": 496826,
+      "like_count": 93376,
+      "comment_count": 5506,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
+    },
+    {
+      "video_id": "06P19HnIJjs",
+      "title": "Working the night shift alone...",
+      "description": "You're working the night shift alone, making food and then BAM\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-01-12T17:51:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/06P19HnIJjs/hqdefault.jpg",
+      "duration": "PT1H22M31S",
+      "duration_seconds": 4951,
+      "view_count": 371846,
+      "like_count": 25019,
+      "comment_count": 1309,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=06P19HnIJjs"
     },
     {
       "video_id": "kyraA4RY13Y",
@@ -397,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kyraA4RY13Y/hqdefault.jpg",
       "duration": "PT24M11S",
       "duration_seconds": 1451,
-      "view_count": 703584,
-      "like_count": 11959,
-      "comment_count": 2102,
+      "view_count": 772253,
+      "like_count": 12930,
+      "comment_count": 2209,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -416,24 +434,28 @@
       "url": "https://www.youtube.com/watch?v=kyraA4RY13Y"
     },
     {
-      "video_id": "bP_vzHICa4I",
-      "title": "Trump used this to capture Maduro..",
-      "description": "Asmongold Clips / Asmongold Reacts To: Account from a Venezuelan security guard loyal to Nicolás Maduro who recalls what happened the night Delta Force captured Maduro..\n\n\nOn this Asmongold Clips Youtube Channel you'll never quit finding all the funny Asmongold Moments with Mcconnell and the best Asmongold Highlights from the most popular games, like: Baldur's Gate 3, Helldivers 2, Starfield, Blizzard Diablo 4, The War Within & Hardcore Classic WoW, the record breaking MMORPG FFXIV, Path of Exile 2, sneak peeks from Gameplay of the upcoming Riot MMO and playthroughs of many other popular games like Monster Hunter, Final Fantasy 16, Elden Ring and more. Also Asmongold Reacts to a lot of content, such as World Record Speed Run of games, Drama and videos of some of the most interesting creators like penguinz0, Internet Historian, Emiru, Dunkey and more. Asmon is also known for his \"The True Story of Asmongold\", \"Asmongold $2 Pizza\" and \"Asmongold $2 Steak\", \"Asmongold Room and House Tour\"",
-      "channel_title": "Asmongold Clips",
-      "channel_id": "UCMwJJL5FJFuTRT55ksbQ4GQ",
-      "published_at": "2026-01-12T13:36:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bP_vzHICa4I/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "duration_seconds": 197,
-      "view_count": 1214897,
-      "like_count": 86817,
-      "comment_count": 11766,
-      "category_id": "24",
+      "video_id": "VXQveAdzC74",
+      "title": "Teaser Trailer - Resident Evil Showcase | January 15, 2026",
+      "description": "Tune in on January 15 at 2pm PT / 10pm GMT for the Resident Evil Showcase and be one of the first to see brand new gameplay and news for Resident Evil Requiem.\n\nhttps://www.residentevil.com/showcase/\n\nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch™ 2, Steam, and the Epic Games Store. Pre-orders available now!\n\nhttps://www.residentevil.com/requiem/en-us/products/\n \nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://x.com/re_games \nhttps://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games/\n\n©CAPCOM",
+      "channel_title": "Resident Evil",
+      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
+      "published_at": "2026-01-13T01:45:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VXQveAdzC74/hqdefault.jpg",
+      "duration": "PT16S",
+      "duration_seconds": 16,
+      "view_count": 82905,
+      "like_count": 7361,
+      "comment_count": 661,
+      "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold clips"
+        "#ResidentEvilRequiem",
+        "#ResidentEvil",
+        "#RE",
+        "#RERequiem",
+        "#RE9",
+        "#REShowcase"
       ],
-      "url": "https://www.youtube.com/watch?v=bP_vzHICa4I"
+      "url": "https://www.youtube.com/watch?v=VXQveAdzC74"
     },
     {
       "video_id": "3FuP4bV6JY4",
@@ -445,7 +467,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3FuP4bV6JY4/hqdefault.jpg",
       "duration": "PT22S",
       "duration_seconds": 22,
-      "view_count": 334424,
+      "view_count": 334543,
       "like_count": 1046,
       "comment_count": 7,
       "category_id": "20",
@@ -464,30 +486,6 @@
       "url": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
     },
     {
-      "video_id": "VXQveAdzC74",
-      "title": "Teaser Trailer - Resident Evil Showcase | January 15, 2026",
-      "description": "Tune in on January 15 at 2pm PT / 10pm GMT for the Resident Evil Showcase and be one of the first to see brand new gameplay and news for Resident Evil Requiem.\n\nhttps://www.residentevil.com/showcase/\n\nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch™ 2, Steam, and the Epic Games Store. Pre-orders available now!\n\nhttps://www.residentevil.com/requiem/en-us/products/\n \nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://x.com/re_games \nhttps://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games/\n\n©CAPCOM",
-      "channel_title": "Resident Evil",
-      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
-      "published_at": "2026-01-13T01:45:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VXQveAdzC74/hqdefault.jpg",
-      "duration": "PT16S",
-      "duration_seconds": 16,
-      "view_count": 62529,
-      "like_count": 6426,
-      "comment_count": 562,
-      "category_id": "20",
-      "tags": [
-        "#ResidentEvilRequiem",
-        "#ResidentEvil",
-        "#RE",
-        "#RERequiem",
-        "#RE9",
-        "#REShowcase"
-      ],
-      "url": "https://www.youtube.com/watch?v=VXQveAdzC74"
-    },
-    {
       "video_id": "r6wyz79tZmo",
       "title": "Landman S02 E10 Season Finale Trailer | 'Tragedy and Flies'",
       "description": "Check out the new Landman Season 2 Episode 10 Trailer starring Billy Bob Thornton!\n► Learn more: https://www.rottentomatoes.com/tv/landman/?cmp=RTTV_YouTube_Desc \n \nSubscribe to the channel and click the bell icon to be notified of all the latest TV & streaming series: http://bit.ly/2qTF6ZY  \n\n► Shop Rotten Tomatoes: http://bit.ly/3m59uhu\n► Download the app: https://bit.ly/4lcQqHs\n\nUS Air Date: January 18, 2026\nStarring: Billy Bob Thornton, Ali Larter, Demi Moore\nNetwork: Paramount+\nSynopsis: Don't miss the epic season 2 finale of Landman!\n\nWatch More:  \n► Rotten Tomatoes Originals: http://bit.ly/2D3sipV  \n► What to Watch: https://bit.ly/3x6Q01d\n► Fresh New Clips: https://bit.ly/3mJePrv    \n► Hot New Trailers: http://bit.ly/2qThrsF   \n► New TV This Week: http://bit.ly/2Cq3wzc \n\nRotten Tomatoes TV delivers Fresh TV at a click! Subscribe now for the best trailers, clips, sneak peeks, and binge guides for shows you love and the upcoming series and TV movies that should be on your radar.\n\n",
@@ -497,9 +495,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r6wyz79tZmo/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 37001,
-      "like_count": 227,
-      "comment_count": 63,
+      "view_count": 43174,
+      "like_count": 259,
+      "comment_count": 77,
       "category_id": "1",
       "tags": [
         "Landman",
@@ -519,63 +517,103 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 6170902,
+        "average_views_per_video": 617090.2,
+        "categories": "Unknown",
+        "potential_categories": [
+          "Entertainment",
+          "Gaming",
+          "Movies",
+          "Anime"
+        ]
+      },
       "content_trends": {
-        "entertainment_dominance": {
-          "description": "The majority of the trending videos are related to entertainment, including teasers and trailers for upcoming shows and games.",
-          "examples": [
-            "ONE PIECE: Season 2 | Official Teaser | Netflix",
-            "Lee Cronin’s The Mummy | Official Teaser",
-            "Teaser Trailer - Resident Evil Showcase | January 15, 2026"
-          ],
-          "insight": "There is a strong audience interest in upcoming releases and teasers, indicating a market opportunity for content creators to focus on similar content types."
-        },
-        "gaming_content": {
-          "description": "Gaming content is prominently featured, with titles related to Roblox and Genshin Impact.",
-          "examples": [
-            "Character Trailer - 'Columbina: To Where She Flies' | Genshin Impact #GenshinImpact #Columbina",
-            "roblox best gameplay",
-            "ROBLOX ENTER BRAINROT"
-          ],
-          "insight": "Gaming continues to be a significant interest area. Content creators should consider exploring collaborations with popular games or creating content around trending games."
-        },
-        "live_streaming_trend": {
-          "description": "Live streaming is becoming a key content format, as demonstrated by the presence of live events in the trending list.",
-          "examples": [
-            "🔴LIVE | ARC RAIDERS wl Gingy & Jamarr Chase | THE TEAM LEADER CHRONICLES | #BUNGULATE"
-          ],
-          "insight": "There is an increasing trend towards real-time content consumption. Creators can capitalize on this by hosting live events or interactive sessions."
-        }
+        "dominant_themes": [
+          "Entertainment",
+          "Gaming",
+          "Teasers/Trailers"
+        ],
+        "popular_genres": [
+          "Anime (e.g., ONE PIECE)",
+          "Gaming (e.g., ARC RAIDERS, Genshin Impact, ROBLOX)",
+          "Movies (e.g., The Mummy, Resident Evil)"
+        ],
+        "cross-media interests": [
+          {
+            "title": "ONE PIECE: Season 2 | Official Teaser | Netflix",
+            "category": "Anime",
+            "platform": "Netflix"
+          },
+          {
+            "title": "Character Trailer - 'Columbina: To Where She Flies' | Genshin Impact",
+            "category": "Gaming",
+            "platform": "Genshin Impact"
+          }
+        ]
       },
       "creator_patterns": {
-        "established_brands": {
-          "description": "Major brands like Netflix and Warner Bros. are consistently producing content that trends.",
-          "examples": [
-            "Netflix (1 videos)",
-            "Warner Bros. (1 videos)"
-          ],
-          "insight": "Collaborations with established brands or leveraging their content can drive viewership for smaller creators."
-        },
-        "niche_creators": {
-          "description": "Niche creators like TheBurntPeanut are gaining traction with unique content.",
-          "examples": [
-            "TheBurntPeanut (1 videos)"
-          ],
-          "insight": "There is potential for niche creators to carve out successful niches by focusing on unique and engaging content."
-        }
+        "top_channels": [
+          {
+            "name": "Netflix",
+            "videos": 1,
+            "implied_focus": "Anime and Series Trailers"
+          },
+          {
+            "name": "TheBurntPeanut",
+            "videos": 1,
+            "implied_focus": "Live Gaming Streams"
+          },
+          {
+            "name": "Warner Bros.",
+            "videos": 1,
+            "implied_focus": "Movie Trailers"
+          },
+          {
+            "name": "CaseOh",
+            "videos": 1,
+            "implied_focus": "Gaming Content"
+          },
+          {
+            "name": "Genshin Impact",
+            "videos": 1,
+            "implied_focus": "Game Character Trailers"
+          }
+        ],
+        "emerging_creators": [
+          {
+            "name": "CaseOh",
+            "focus": "Gaming Content",
+            "opportunity": "Collaboration with major gaming channels"
+          }
+        ]
       },
       "market_opportunities": {
-        "cross-platform_promotion": {
-          "description": "Cross-platform promotions, especially involving popular games, can enhance content visibility.",
-          "insight": "Creators should consider leveraging platforms like Twitch and Discord in conjunction with YouTube to expand reach and engagement."
-        },
-        "teaser_and_trailer_content": {
-          "description": "Teasers and trailers generate significant interest and engagement.",
-          "insight": "Creators and marketers can focus on producing high-quality teaser content to build anticipation and drive viewership."
-        },
-        "interactive_and_community-driven_content": {
-          "description": "Interactive content and community-driven experiences are gaining popularity.",
-          "insight": "There is an opportunity to create content that involves viewer participation, such as polls, Q&A sessions, or collaborative projects."
-        }
+        "content_expansion": [
+          {
+            "opportunity": "Anime Content",
+            "rationale": "High interest in anime-based content like ONE PIECE"
+          },
+          {
+            "opportunity": "Gaming Streams",
+            "rationale": "Popularity of live gaming content such as ARC RAIDERS"
+          },
+          {
+            "opportunity": "Movie Teasers",
+            "rationale": "Consistent interest in movie trailers like The Mummy and Resident Evil"
+          }
+        ],
+        "audience_engagement": [
+          {
+            "strategy": "Interactive Gaming Content",
+            "details": "Use live streams with audience interaction as seen with ARC RAIDERS"
+          },
+          {
+            "strategy": "Cross-platform Promotion",
+            "details": "Leverage platforms like Netflix for enhanced visibility of anime and series content"
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -583,7 +621,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 627450
+        "avg_views_per_video": 617090
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
