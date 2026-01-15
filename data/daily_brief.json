@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-15T12:16:16.660031",
+  "timestamp": "2026-01-15T15:12:38.513295",
   "date": "2026-01-15",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-1UJJPAWudQ/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 2048331,
-      "like_count": 63711,
-      "comment_count": 4585,
+      "view_count": 2229496,
+      "like_count": 67640,
+      "comment_count": 4766,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D1n7kWcOyx4/hqdefault.jpg",
       "duration": "PT7H10M19S",
       "duration_seconds": 25819,
-      "view_count": 798592,
-      "like_count": 16478,
-      "comment_count": 55,
+      "view_count": 820936,
+      "like_count": 16848,
+      "comment_count": 117,
       "category_id": "20",
       "tags": [
         "funny",
@@ -71,9 +71,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/suBAjuuPxnU/hqdefault.jpg",
       "duration": "PT21M36S",
       "duration_seconds": 1296,
-      "view_count": 472562,
-      "like_count": 16840,
-      "comment_count": 1006,
+      "view_count": 485408,
+      "like_count": 17244,
+      "comment_count": 1018,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -99,9 +99,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wB2Jy_FfddU/hqdefault.jpg",
       "duration": "PT39M31S",
       "duration_seconds": 2371,
-      "view_count": 723357,
-      "like_count": 44164,
-      "comment_count": 1726,
+      "view_count": 783750,
+      "like_count": 47467,
+      "comment_count": 2331,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -127,9 +127,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cPfl0AoSw1k/hqdefault.jpg",
       "duration": "PT2M9S",
       "duration_seconds": 129,
-      "view_count": 50138,
-      "like_count": 1371,
-      "comment_count": 366,
+      "view_count": 53608,
+      "like_count": 1475,
+      "comment_count": 395,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cPfl0AoSw1k"
@@ -144,9 +144,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kprBpJWAjw8/hqdefault.jpg",
       "duration": "PT14M16S",
       "duration_seconds": 856,
-      "view_count": 608993,
-      "like_count": 10558,
-      "comment_count": 2436,
+      "view_count": 752634,
+      "like_count": 12594,
+      "comment_count": 2684,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -163,51 +163,52 @@
       "url": "https://www.youtube.com/watch?v=kprBpJWAjw8"
     },
     {
-      "video_id": "GL478403aXU",
-      "title": "Marvel Rivals - Official Spider-Man Marvel Cosmic Invasion Costume Trailer",
-      "description": "Take a look at the Spider-Man Marvel Cosmic Invasion Costume Trailer for Marvel Rivals, the hit free-to-play team-based action shooter developed by NetEase Games. Players can soon rock a pixelated look for Spider-Man inspired by the recently released beat 'em up game Marvel Cosmic Invasion. The Spider-Man Marvel Cosmic Invasion Costume releases on January 16 for Marvel Rivals on PlayStation 4 (PS4), PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
+      "video_id": "xGRm5UC4x1c",
+      "title": "Black Clover Second Season - Official Trailer 2 (English Subtitles)",
+      "description": "Check out the latest trailer for Black Clover Season 2 coming to Crunchyroll in 2026!\nIn a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n#IGN #Anime",
       "channel_title": "IGN",
       "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-01-14T18:30:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GL478403aXU/hqdefault.jpg",
-      "duration": "PT29S",
-      "duration_seconds": 29,
-      "view_count": 130677,
-      "like_count": 2854,
-      "comment_count": 159,
-      "category_id": "20",
+      "published_at": "2026-01-15T02:09:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xGRm5UC4x1c/hqdefault.jpg",
+      "duration": "PT1M40S",
+      "duration_seconds": 100,
+      "view_count": 160126,
+      "like_count": 7791,
+      "comment_count": 471,
+      "category_id": "24",
       "tags": [
-        "Action",
-        "Free-to-Play",
-        "Marvel",
-        "Marvel Rivals",
-        "NetEase Games",
-        "Online Co-Op Multiplayer",
-        "Online Versus Multiplayer",
-        "PC",
-        "PS5 Pro Enhanced",
-        "PlayStation 5"
+        "Anime",
+        "Black Clover",
+        "black clover second season",
+        "black clover season 2",
+        "black clover s2",
+        "black clover season 2 pv",
+        "black clover pv",
+        "black clover season 2 trailer",
+        "black clover",
+        "black clover second season official trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=GL478403aXU"
+      "url": "https://www.youtube.com/watch?v=xGRm5UC4x1c"
     },
     {
-      "video_id": "QBk4aYNX_Vc",
-      "title": "The Divisional Playoffs Were INSANE! Wheel of MUT! Ep. #36",
-      "description": "THE WHEEL OF MUT PLAYOFFS BOYS! This season has been dummy bonkers... and papa meags is a few games away from that juicy super bowl. Will we dummy clutch up crazy mega stylee??? truhuueuuerruuueee.... ??? Or not turruueueuueueueu???\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-01-15T01:15:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QBk4aYNX_Vc/hqdefault.jpg",
-      "duration": "PT29M8S",
-      "duration_seconds": 1748,
-      "view_count": 218652,
-      "like_count": 9494,
-      "comment_count": 514,
-      "category_id": "17",
+      "video_id": "PpNLVUStKik",
+      "title": "No one can talk on Roblox anymore..",
+      "description": "I can’t talk to anyone on Roblox because I’m the only 46 year old playing",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-01-15T04:35:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PpNLVUStKik/hqdefault.jpg",
+      "duration": "PT11M53S",
+      "duration_seconds": 713,
+      "view_count": 438002,
+      "like_count": 35488,
+      "comment_count": 4004,
+      "category_id": "20",
       "tags": [
-        "mmg"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
+      "url": "https://www.youtube.com/watch?v=PpNLVUStKik"
     },
     {
       "video_id": "GhDPFSip5ns",
@@ -219,9 +220,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GhDPFSip5ns/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 110777,
-      "like_count": 910,
-      "comment_count": 65,
+      "view_count": 123276,
+      "like_count": 988,
+      "comment_count": 72,
       "category_id": "1",
       "tags": [
         "avengers doomsday trailer",
@@ -238,24 +239,23 @@
       "url": "https://www.youtube.com/watch?v=GhDPFSip5ns"
     },
     {
-      "video_id": "PpNLVUStKik",
-      "title": "No one can talk on Roblox anymore..",
-      "description": "I can’t talk to anyone on Roblox because I’m the only 46 year old playing",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-01-15T04:35:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PpNLVUStKik/hqdefault.jpg",
-      "duration": "PT11M53S",
-      "duration_seconds": 713,
-      "view_count": 312289,
-      "like_count": 28180,
-      "comment_count": 3635,
-      "category_id": "20",
+      "video_id": "QBk4aYNX_Vc",
+      "title": "The Divisional Playoffs Were INSANE! Wheel of MUT! Ep. #36",
+      "description": "THE WHEEL OF MUT PLAYOFFS BOYS! This season has been dummy bonkers... and papa meags is a few games away from that juicy super bowl. Will we dummy clutch up crazy mega stylee??? truhuueuuerruuueee.... ??? Or not turruueueuueueueu???\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-15T01:15:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBk4aYNX_Vc/hqdefault.jpg",
+      "duration": "PT29M8S",
+      "duration_seconds": 1748,
+      "view_count": 237222,
+      "like_count": 10248,
+      "comment_count": 538,
+      "category_id": "17",
       "tags": [
-        "Family",
-        "friendly"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=PpNLVUStKik"
+      "url": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
     }
   ],
   "videos_with_transcripts": [],
@@ -270,9 +270,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-1UJJPAWudQ/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 2048331,
-      "like_count": 63711,
-      "comment_count": 4585,
+      "view_count": 2229496,
+      "like_count": 67640,
+      "comment_count": 4766,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -298,9 +298,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D1n7kWcOyx4/hqdefault.jpg",
       "duration": "PT7H10M19S",
       "duration_seconds": 25819,
-      "view_count": 798592,
-      "like_count": 16478,
-      "comment_count": 55,
+      "view_count": 820936,
+      "like_count": 16848,
+      "comment_count": 117,
       "category_id": "20",
       "tags": [
         "funny",
@@ -319,9 +319,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/suBAjuuPxnU/hqdefault.jpg",
       "duration": "PT21M36S",
       "duration_seconds": 1296,
-      "view_count": 472562,
-      "like_count": 16840,
-      "comment_count": 1006,
+      "view_count": 485408,
+      "like_count": 17244,
+      "comment_count": 1018,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -347,9 +347,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wB2Jy_FfddU/hqdefault.jpg",
       "duration": "PT39M31S",
       "duration_seconds": 2371,
-      "view_count": 723357,
-      "like_count": 44164,
-      "comment_count": 1726,
+      "view_count": 783750,
+      "like_count": 47467,
+      "comment_count": 2331,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -375,9 +375,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cPfl0AoSw1k/hqdefault.jpg",
       "duration": "PT2M9S",
       "duration_seconds": 129,
-      "view_count": 50138,
-      "like_count": 1371,
-      "comment_count": 366,
+      "view_count": 53608,
+      "like_count": 1475,
+      "comment_count": 395,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cPfl0AoSw1k"
@@ -392,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kprBpJWAjw8/hqdefault.jpg",
       "duration": "PT14M16S",
       "duration_seconds": 856,
-      "view_count": 608993,
-      "like_count": 10558,
-      "comment_count": 2436,
+      "view_count": 752634,
+      "like_count": 12594,
+      "comment_count": 2684,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -411,23 +411,52 @@
       "url": "https://www.youtube.com/watch?v=kprBpJWAjw8"
     },
     {
-      "video_id": "QBk4aYNX_Vc",
-      "title": "The Divisional Playoffs Were INSANE! Wheel of MUT! Ep. #36",
-      "description": "THE WHEEL OF MUT PLAYOFFS BOYS! This season has been dummy bonkers... and papa meags is a few games away from that juicy super bowl. Will we dummy clutch up crazy mega stylee??? truhuueuuerruuueee.... ??? Or not turruueueuueueueu???\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-01-15T01:15:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QBk4aYNX_Vc/hqdefault.jpg",
-      "duration": "PT29M8S",
-      "duration_seconds": 1748,
-      "view_count": 218652,
-      "like_count": 9494,
-      "comment_count": 514,
-      "category_id": "17",
+      "video_id": "xGRm5UC4x1c",
+      "title": "Black Clover Second Season - Official Trailer 2 (English Subtitles)",
+      "description": "Check out the latest trailer for Black Clover Season 2 coming to Crunchyroll in 2026!\nIn a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n#IGN #Anime",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-01-15T02:09:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xGRm5UC4x1c/hqdefault.jpg",
+      "duration": "PT1M40S",
+      "duration_seconds": 100,
+      "view_count": 160126,
+      "like_count": 7791,
+      "comment_count": 471,
+      "category_id": "24",
       "tags": [
-        "mmg"
+        "Anime",
+        "Black Clover",
+        "black clover second season",
+        "black clover season 2",
+        "black clover s2",
+        "black clover season 2 pv",
+        "black clover pv",
+        "black clover season 2 trailer",
+        "black clover",
+        "black clover second season official trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
+      "url": "https://www.youtube.com/watch?v=xGRm5UC4x1c"
+    },
+    {
+      "video_id": "PpNLVUStKik",
+      "title": "No one can talk on Roblox anymore..",
+      "description": "I can’t talk to anyone on Roblox because I’m the only 46 year old playing",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-01-15T04:35:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PpNLVUStKik/hqdefault.jpg",
+      "duration": "PT11M53S",
+      "duration_seconds": 713,
+      "view_count": 438002,
+      "like_count": 35488,
+      "comment_count": 4004,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=PpNLVUStKik"
     },
     {
       "video_id": "GhDPFSip5ns",
@@ -439,9 +468,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GhDPFSip5ns/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 110777,
-      "like_count": 910,
-      "comment_count": 65,
+      "view_count": 123276,
+      "like_count": 988,
+      "comment_count": 72,
       "category_id": "1",
       "tags": [
         "avengers doomsday trailer",
@@ -458,121 +487,86 @@
       "url": "https://www.youtube.com/watch?v=GhDPFSip5ns"
     },
     {
-      "video_id": "PpNLVUStKik",
-      "title": "No one can talk on Roblox anymore..",
-      "description": "I can’t talk to anyone on Roblox because I’m the only 46 year old playing",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-01-15T04:35:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PpNLVUStKik/hqdefault.jpg",
-      "duration": "PT11M53S",
-      "duration_seconds": 713,
-      "view_count": 312289,
-      "like_count": 28180,
-      "comment_count": 3635,
-      "category_id": "20",
+      "video_id": "QBk4aYNX_Vc",
+      "title": "The Divisional Playoffs Were INSANE! Wheel of MUT! Ep. #36",
+      "description": "THE WHEEL OF MUT PLAYOFFS BOYS! This season has been dummy bonkers... and papa meags is a few games away from that juicy super bowl. Will we dummy clutch up crazy mega stylee??? truhuueuuerruuueee.... ??? Or not turruueueuueueueu???\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-15T01:15:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBk4aYNX_Vc/hqdefault.jpg",
+      "duration": "PT29M8S",
+      "duration_seconds": 1748,
+      "view_count": 237222,
+      "like_count": 10248,
+      "comment_count": 538,
+      "category_id": "17",
       "tags": [
-        "Family",
-        "friendly"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=PpNLVUStKik"
-    },
-    {
-      "video_id": "GL478403aXU",
-      "title": "Marvel Rivals - Official Spider-Man Marvel Cosmic Invasion Costume Trailer",
-      "description": "Take a look at the Spider-Man Marvel Cosmic Invasion Costume Trailer for Marvel Rivals, the hit free-to-play team-based action shooter developed by NetEase Games. Players can soon rock a pixelated look for Spider-Man inspired by the recently released beat 'em up game Marvel Cosmic Invasion. The Spider-Man Marvel Cosmic Invasion Costume releases on January 16 for Marvel Rivals on PlayStation 4 (PS4), PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-01-14T18:30:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GL478403aXU/hqdefault.jpg",
-      "duration": "PT29S",
-      "duration_seconds": 29,
-      "view_count": 130677,
-      "like_count": 2854,
-      "comment_count": 159,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Free-to-Play",
-        "Marvel",
-        "Marvel Rivals",
-        "NetEase Games",
-        "Online Co-Op Multiplayer",
-        "Online Versus Multiplayer",
-        "PC",
-        "PS5 Pro Enhanced",
-        "PlayStation 5"
-      ],
-      "url": "https://www.youtube.com/watch?v=GL478403aXU"
+      "url": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 5474368,
-        "average_views_per_video": 547436.8,
-        "categories": "Unknown"
-      },
-      "trending_patterns": {
-        "entertainment_dominance": {
-          "description": "The trending videos are heavily dominated by entertainment content including trailers, gameplay, and movie discussions.",
+      "content_trends": {
+        "trailer_and_teasers": {
+          "description": "A significant portion of trending content involves trailers and teasers for popular shows and movies.",
           "examples": [
             "Euphoria Season 3 | Trailer | HBO Max",
             "AVENGERS DOOMSDAY TRAILER BREAKDOWN: All 4 Teasers Clues You Missed!",
-            "Corporate Retreat Horror-Dark Comedy | Official Trailer"
+            "Black Clover Second Season - Official Trailer 2 (English Subtitles)",
+            "AVENGERS: DOOMSDAY - Final Trailer (2026) Robert Downey Jr | Marvel Studios (Concept Version)"
           ],
-          "insight": "Viewers are highly engaged with entertainment content, particularly related to popular franchises such as Marvel and HBO series."
+          "insight": "Leverage the hype surrounding upcoming releases by creating breakdowns or reaction videos to capture audience interest."
         },
         "gaming_content": {
-          "description": "Gaming-related content is prominently featured, with live streams and gameplay videos trending.",
+          "description": "Gaming content, especially involving popular games or humorous live streams, is trending.",
           "examples": [
             "🔴LIVE | CHECK THAT MF's GOOP LEVEL | NUT RAIDERS w/ Cloakzy & (Cheater) Nickmercs | #BUNGULATE",
-            "We Played The Creepy Fishing Game Again...",
-            "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!"
+            "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!",
+            "No one can talk on Roblox anymore.."
           ],
-          "insight": "Interactive and engaging gaming content has a significant viewership, indicating strong viewer interest in live gaming experiences and unique gameplay."
+          "insight": "Engage with the gaming community through live streams and gameplay commentary to attract a dedicated viewer base."
         },
-        "nostalgia_and_fan_theories": {
-          "description": "Content that taps into nostalgia and fan theories, such as concept trailers and breakdowns, are trending.",
+        "unique_concepts": {
+          "description": "Videos with unique or niche concepts, such as horror-dark comedy, are gaining traction.",
           "examples": [
-            "AVENGERS: DOOMSDAY - Final Trailer (2026) Robert Downey Jr | Marvel Studios (Concept Version)",
-            "AVENGERS DOOMSDAY TRAILER BREAKDOWN: All 4 Teasers Clues You Missed!"
+            "\"Corporate Retreat\" Horror-Dark Comedy | Official Trailer",
+            "We Played The Creepy Fishing Game Again..."
           ],
-          "insight": "Leveraging nostalgia and speculative content, such as fan theories and concept videos, can drive significant engagement."
+          "insight": "Explore unique content genres or cross-genre blends to capture niche audiences seeking fresh experiences."
+        },
+        "sports_entertainment": {
+          "description": "Sports-related content, particularly focusing on highlights or game reviews, continues to attract viewers.",
+          "examples": [
+            "The Divisional Playoffs Were INSANE! Wheel of MUT! Ep. #36"
+          ],
+          "insight": "Capitalize on sports seasons and major events by providing timely analysis and commentary."
         }
       },
       "creator_patterns": {
         "diversified_content": {
-          "description": "Top channels are diversifying their content, leveraging both original series and breakdowns of popular franchises.",
-          "channels": [
-            "HBO Max",
-            "New Rockstars"
-          ],
-          "insight": "Developing a mix of original content and commentary or analysis on existing popular media can help creators maintain diverse audience engagement."
+          "description": "Creators are diversifying their content to include trailers, live streams, and breakdowns.",
+          "insight": "To maximize reach, creators should consider expanding their content portfolio across different formats and genres."
         },
-        "individual_creators": {
-          "description": "Individual creators like SMii7Y and TheBurntPeanut are gaining traction with niche and humorous content.",
-          "examples": [
-            "SMii7Y's gameplay video",
-            "TheBurntPeanut's live stream"
-          ],
-          "insight": "There is a market for unique, personality-driven content that appeals to niche audiences and creates community engagement."
+        "collaborations": {
+          "description": "Collaborative content, especially in live streams, is proving popular.",
+          "insight": "Partner with other creators to tap into their audience and create engaging, multi-perspective content."
         }
       },
       "market_opportunities": {
-        "cross-platform_promotion": {
-          "description": "Promoting content across multiple platforms (YouTube, Twitch, etc.) can increase reach and engagement.",
-          "insight": "Creators can benefit from leveraging cross-platform strategies to capture audiences from different viewer bases, particularly in gaming and live content."
+        "genre_exploration": {
+          "description": "There is a growing audience for unique genre combinations and storytelling formats.",
+          "insight": "Invest in creating or supporting content that blends genres or presents stories in unconventional ways."
         },
-        "content_collaborations": {
-          "description": "Collaborative content involving popular figures or channels could enhance viewership.",
-          "insight": "Collaborations between creators, especially those with established fan bases, can amplify reach and introduce content to broader audiences."
+        "interactive_and_live_content": {
+          "description": "Interactive and live content formats are engaging audiences effectively.",
+          "insight": "Develop interactive content strategies, such as live Q&A sessions or audience-driven content, to boost engagement."
         },
-        "emerging_trends": {
-          "description": "Content that interacts with trending topics or events, such as new series releases or major gaming events, can capture timely interest.",
-          "insight": "Aligning content release schedules with major entertainment or gaming events can maximize visibility and viewer interest."
+        "pop_culture_analysis": {
+          "description": "Videos analyzing pop culture, such as movie and TV show breakdowns, are in demand.",
+          "insight": "Create content that analyzes and discusses upcoming or recently released media to attract viewers interested in pop culture insights."
         }
       },
       "metadata_stats": {
@@ -581,7 +575,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 547436
+        "avg_views_per_video": 608445
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
