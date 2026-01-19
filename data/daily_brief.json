@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-19T00:39:58.052094",
+  "timestamp": "2026-01-19T03:41:27.477518",
   "date": "2026-01-19",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -12,6 +12,34 @@
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "FVz7T_nZAIw",
+      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
+      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
+      "channel_title": "T.I.",
+      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
+      "published_at": "2026-01-18T19:28:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
+      "duration": "PT3M1S",
+      "duration_seconds": 181,
+      "view_count": 106493,
+      "like_count": 12981,
+      "comment_count": 1834,
+      "category_id": "23",
+      "tags": [
+        "ti",
+        "t.i.",
+        "t i",
+        "tip",
+        "ti harris",
+        "tip harris",
+        "Expeditiously",
+        "t.i.p.",
+        "rap",
+        "trap"
+      ],
+      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
+    },
     {
       "video_id": "fmohHVMMN_o",
       "title": "Stranger Things Promo - SNL",
@@ -22,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 1513392,
-      "like_count": 74527,
-      "comment_count": 1799,
+      "view_count": 1787489,
+      "like_count": 83211,
+      "comment_count": 1997,
       "category_id": "23",
       "tags": [
         "snl",
@@ -50,8 +78,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 618362,
-      "like_count": 17399,
+      "view_count": 618619,
+      "like_count": 17378,
       "comment_count": 77,
       "category_id": "20",
       "tags": [
@@ -78,9 +106,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 46077,
-      "like_count": 385,
-      "comment_count": 77,
+      "view_count": 53776,
+      "like_count": 437,
+      "comment_count": 90,
       "category_id": "24",
       "tags": [
         "NEON",
@@ -106,40 +134,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u1_Bhvry-qg/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 857589,
-      "like_count": 5094,
+      "view_count": 858126,
+      "like_count": 5087,
       "comment_count": 0,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
-    },
-    {
-      "video_id": "FVz7T_nZAIw",
-      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
-      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
-      "channel_title": "T.I.",
-      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
-      "published_at": "2026-01-18T19:28:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "duration_seconds": 181,
-      "view_count": 60757,
-      "like_count": 8886,
-      "comment_count": 1378,
-      "category_id": "23",
-      "tags": [
-        "ti",
-        "t.i.",
-        "t i",
-        "tip",
-        "ti harris",
-        "tip harris",
-        "Expeditiously",
-        "t.i.p.",
-        "rap",
-        "trap"
-      ],
-      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
     },
     {
       "video_id": "-tckRoT4ztg",
@@ -151,9 +151,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 331059,
-      "like_count": 1149,
-      "comment_count": 39,
+      "view_count": 372109,
+      "like_count": 1263,
+      "comment_count": 44,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -179,7 +179,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bEVza_5jgq0/hqdefault.jpg",
       "duration": "PT7S",
       "duration_seconds": 7,
-      "view_count": 169432,
+      "view_count": 170867,
       "like_count": 1016,
       "comment_count": 3,
       "category_id": "20",
@@ -207,9 +207,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uzMQhc7obDw/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 63344,
-      "like_count": 4618,
-      "comment_count": 559,
+      "view_count": 72133,
+      "like_count": 4941,
+      "comment_count": 582,
       "category_id": "20",
       "tags": [
         "#GranblueFantasyVersus",
@@ -221,46 +221,92 @@
       "url": "https://www.youtube.com/watch?v=uzMQhc7obDw"
     },
     {
-      "video_id": "flLZfUEwKcI",
-      "title": "🔴LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-18T09:13:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/flLZfUEwKcI/hqdefault.jpg",
-      "duration": "PT9H56M32S",
-      "duration_seconds": 35792,
-      "view_count": 1055690,
-      "like_count": 17806,
-      "comment_count": 143,
+      "video_id": "jlUY9cYEoJQ",
+      "title": "Hytale: A Fresh Start",
+      "description": "In this Mumbo Jumbo Minecraft... I mean, Hytale video, Mumbo starts a brand new Hytale survival world! Spending a full IRL day playing the game, learning the hytale combat mechanics, Hytale building techniques, and trying to survive my first night in this interesting little game! \n\nFilming channel: https://www.youtube.com/user/ThatMumboJumbo2\nInstagram: https://www.instagram.com/officialmumbo/\nTwitter: https://twitter.com/ThatMumboJumbo",
+      "channel_title": "Mumbo Jumbo",
+      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
+      "published_at": "2026-01-18T20:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jlUY9cYEoJQ/hqdefault.jpg",
+      "duration": "PT50M45S",
+      "duration_seconds": 3045,
+      "view_count": 446369,
+      "like_count": 34026,
+      "comment_count": 2161,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "My first day on Hytale",
+        "My first time playing Hytale",
+        "Hytale: A fresh start",
+        "Mumbo Jumbo Minecraft",
+        "Hytale video",
+        "brand new Hytale survival world",
+        "new Hytale survival world",
+        "Hytale survival world",
+        "Hytale",
+        "hytale combat mechanics"
       ],
-      "url": "https://www.youtube.com/watch?v=flLZfUEwKcI"
+      "url": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
     },
     {
-      "video_id": "vIYYUIIkP-8",
-      "title": "JeraiCathy Live Stream",
-      "description": "#roblox #live #shorts",
-      "channel_title": "JeraiCathy",
-      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
-      "published_at": "2026-01-18T15:21:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
-      "duration": "PT1M11S",
-      "duration_seconds": 71,
-      "view_count": 1949188,
-      "like_count": 5445,
-      "comment_count": 58,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
+      "video_id": "qvWG06wFiK0",
+      "title": "What You Don’t See When Airstream Launches a New Trailer",
+      "description": "Tricia's Latest Cookbook, Taste of the States \"More than a cookbook\"\n🇺🇸 Taste of the States: 75 of America's Best Bites\n👉 Order your copy now: https://shop.tricialeach.com/\n\nTo learn more about the Airstream World Traveler: \nhttps://www.airstream.com/blog/introducing-world-traveler/\n\n🎁 RVers Christmas Guide: https://youtu.be/tLA5-MIT1p8\nAirstream Globetrotter Tour: https://youtu.be/hAd0PDcdlUU\nAirstream Flying Cloud Tour: https://youtu.be/UCuiBFpJhZA\n\n🎥 New episodes every Sunday as we visit all 63 U.S. National Parks. Subscribe and join the adventure!\n\n❤️ KYD Insiders https://www.patreon.com/KeepYourDaydream \nJoin the most supportive and genuine RV community ever. Get our welcome package in the mail, monthly ((Livestreams)), invitations to meet-ups, giveaways and chat in the private Insiders Facebook group. \n\n🍋 Tricia's Cookbook & Spice Blends http://tricialeach.com/\nCreating BIG TASTE doesn't have to take time! These blends are my personal recipes, the go-to combinations I find myself",
+      "channel_title": "Keep Your Daydream",
+      "channel_id": "UCEhJLsShZt8McryMf_DHLZQ",
+      "published_at": "2026-01-19T01:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qvWG06wFiK0/hqdefault.jpg",
+      "duration": "PT26M7S",
+      "duration_seconds": 1567,
+      "view_count": 16792,
+      "like_count": 2032,
+      "comment_count": 102,
+      "category_id": "2",
+      "tags": [
+        "keep your daydream",
+        "kyd",
+        "airstream",
+        "airstream world traveler",
+        "world traveler airstream",
+        "airstream collaboration",
+        "behind the scenes airstream",
+        "airstream photoshoot",
+        "airstream history",
+        "wally byam"
+      ],
+      "url": "https://www.youtube.com/watch?v=qvWG06wFiK0"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
+    {
+      "video_id": "FVz7T_nZAIw",
+      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
+      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
+      "channel_title": "T.I.",
+      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
+      "published_at": "2026-01-18T19:28:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
+      "duration": "PT3M1S",
+      "duration_seconds": 181,
+      "view_count": 106493,
+      "like_count": 12981,
+      "comment_count": 1834,
+      "category_id": "23",
+      "tags": [
+        "ti",
+        "t.i.",
+        "t i",
+        "tip",
+        "ti harris",
+        "tip harris",
+        "Expeditiously",
+        "t.i.p.",
+        "rap",
+        "trap"
+      ],
+      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
+    },
     {
       "video_id": "fmohHVMMN_o",
       "title": "Stranger Things Promo - SNL",
@@ -271,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 1513392,
-      "like_count": 74527,
-      "comment_count": 1799,
+      "view_count": 1787489,
+      "like_count": 83211,
+      "comment_count": 1997,
       "category_id": "23",
       "tags": [
         "snl",
@@ -299,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 46077,
-      "like_count": 385,
-      "comment_count": 77,
+      "view_count": 53776,
+      "like_count": 437,
+      "comment_count": 90,
       "category_id": "24",
       "tags": [
         "NEON",
@@ -318,34 +364,6 @@
       "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
     },
     {
-      "video_id": "FVz7T_nZAIw",
-      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
-      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
-      "channel_title": "T.I.",
-      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
-      "published_at": "2026-01-18T19:28:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "duration_seconds": 181,
-      "view_count": 60757,
-      "like_count": 8886,
-      "comment_count": 1378,
-      "category_id": "23",
-      "tags": [
-        "ti",
-        "t.i.",
-        "t i",
-        "tip",
-        "ti harris",
-        "tip harris",
-        "Expeditiously",
-        "t.i.p.",
-        "rap",
-        "trap"
-      ],
-      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
-    },
-    {
       "video_id": "-tckRoT4ztg",
       "title": "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026",
       "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
@@ -355,9 +373,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 331059,
-      "like_count": 1149,
-      "comment_count": 39,
+      "view_count": 372109,
+      "like_count": 1263,
+      "comment_count": 44,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -383,9 +401,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uzMQhc7obDw/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 63344,
-      "like_count": 4618,
-      "comment_count": 559,
+      "view_count": 72133,
+      "like_count": 4941,
+      "comment_count": 582,
       "category_id": "20",
       "tags": [
         "#GranblueFantasyVersus",
@@ -397,42 +415,60 @@
       "url": "https://www.youtube.com/watch?v=uzMQhc7obDw"
     },
     {
-      "video_id": "flLZfUEwKcI",
-      "title": "🔴LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-18T09:13:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/flLZfUEwKcI/hqdefault.jpg",
-      "duration": "PT9H56M32S",
-      "duration_seconds": 35792,
-      "view_count": 1055690,
-      "like_count": 17806,
-      "comment_count": 143,
+      "video_id": "jlUY9cYEoJQ",
+      "title": "Hytale: A Fresh Start",
+      "description": "In this Mumbo Jumbo Minecraft... I mean, Hytale video, Mumbo starts a brand new Hytale survival world! Spending a full IRL day playing the game, learning the hytale combat mechanics, Hytale building techniques, and trying to survive my first night in this interesting little game! \n\nFilming channel: https://www.youtube.com/user/ThatMumboJumbo2\nInstagram: https://www.instagram.com/officialmumbo/\nTwitter: https://twitter.com/ThatMumboJumbo",
+      "channel_title": "Mumbo Jumbo",
+      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
+      "published_at": "2026-01-18T20:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jlUY9cYEoJQ/hqdefault.jpg",
+      "duration": "PT50M45S",
+      "duration_seconds": 3045,
+      "view_count": 446369,
+      "like_count": 34026,
+      "comment_count": 2161,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "My first day on Hytale",
+        "My first time playing Hytale",
+        "Hytale: A fresh start",
+        "Mumbo Jumbo Minecraft",
+        "Hytale video",
+        "brand new Hytale survival world",
+        "new Hytale survival world",
+        "Hytale survival world",
+        "Hytale",
+        "hytale combat mechanics"
       ],
-      "url": "https://www.youtube.com/watch?v=flLZfUEwKcI"
+      "url": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
     },
     {
-      "video_id": "vIYYUIIkP-8",
-      "title": "JeraiCathy Live Stream",
-      "description": "#roblox #live #shorts",
-      "channel_title": "JeraiCathy",
-      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
-      "published_at": "2026-01-18T15:21:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
-      "duration": "PT1M11S",
-      "duration_seconds": 71,
-      "view_count": 1949188,
-      "like_count": 5445,
-      "comment_count": 58,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
+      "video_id": "qvWG06wFiK0",
+      "title": "What You Don’t See When Airstream Launches a New Trailer",
+      "description": "Tricia's Latest Cookbook, Taste of the States \"More than a cookbook\"\n🇺🇸 Taste of the States: 75 of America's Best Bites\n👉 Order your copy now: https://shop.tricialeach.com/\n\nTo learn more about the Airstream World Traveler: \nhttps://www.airstream.com/blog/introducing-world-traveler/\n\n🎁 RVers Christmas Guide: https://youtu.be/tLA5-MIT1p8\nAirstream Globetrotter Tour: https://youtu.be/hAd0PDcdlUU\nAirstream Flying Cloud Tour: https://youtu.be/UCuiBFpJhZA\n\n🎥 New episodes every Sunday as we visit all 63 U.S. National Parks. Subscribe and join the adventure!\n\n❤️ KYD Insiders https://www.patreon.com/KeepYourDaydream \nJoin the most supportive and genuine RV community ever. Get our welcome package in the mail, monthly ((Livestreams)), invitations to meet-ups, giveaways and chat in the private Insiders Facebook group. \n\n🍋 Tricia's Cookbook & Spice Blends http://tricialeach.com/\nCreating BIG TASTE doesn't have to take time! These blends are my personal recipes, the go-to combinations I find myself",
+      "channel_title": "Keep Your Daydream",
+      "channel_id": "UCEhJLsShZt8McryMf_DHLZQ",
+      "published_at": "2026-01-19T01:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qvWG06wFiK0/hqdefault.jpg",
+      "duration": "PT26M7S",
+      "duration_seconds": 1567,
+      "view_count": 16792,
+      "like_count": 2032,
+      "comment_count": 102,
+      "category_id": "2",
+      "tags": [
+        "keep your daydream",
+        "kyd",
+        "airstream",
+        "airstream world traveler",
+        "world traveler airstream",
+        "airstream collaboration",
+        "behind the scenes airstream",
+        "airstream photoshoot",
+        "airstream history",
+        "wally byam"
+      ],
+      "url": "https://www.youtube.com/watch?v=qvWG06wFiK0"
     },
     {
       "video_id": "gkz0IMbhX6s",
@@ -444,8 +480,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 618362,
-      "like_count": 17399,
+      "view_count": 618619,
+      "like_count": 17378,
       "comment_count": 77,
       "category_id": "20",
       "tags": [
@@ -472,8 +508,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u1_Bhvry-qg/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 857589,
-      "like_count": 5094,
+      "view_count": 858126,
+      "like_count": 5087,
       "comment_count": 0,
       "category_id": "20",
       "tags": [],
@@ -489,7 +525,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bEVza_5jgq0/hqdefault.jpg",
       "duration": "PT7S",
       "duration_seconds": 7,
-      "view_count": 169432,
+      "view_count": 170867,
       "like_count": 1016,
       "comment_count": 3,
       "category_id": "20",
@@ -513,86 +549,103 @@
     "metadata_based": {
       "overview": {
         "totalVideos": 10,
-        "totalViews": 6664890,
-        "averageViewsPerVideo": 666489,
-        "categories": "Unknown"
+        "totalViews": 4502773,
+        "averageViewsPerVideo": 450277.3
       },
       "contentTrends": {
-        "liveContent": {
-          "count": 3,
-          "titles": [
-            "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-            "🔴LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
-            "JeraiCathy Live Stream"
-          ],
-          "insight": "Live streaming content appears to be popular, capturing audience engagement with real-time interaction."
-        },
-        "entertainmentTrailers": {
-          "count": 3,
-          "titles": [
-            "Stranger Things Promo - SNL",
-            "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
-            "Avengers: Doomsday - Final Trailer 'Rise Of Doom' | Chris Hemsworth, Chris Evans | 2026"
-          ],
-          "insight": "High interest in entertainment content, particularly upcoming TV shows and movies, suggests strong viewer anticipation."
-        },
-        "gamingContent": {
-          "count": 3,
-          "titles": [
-            "EXTREME SHARK GAME!!!",
+        "diverseCategories": [
+          "Music",
+          "Entertainment",
+          "Gaming",
+          "TV Shows",
+          "Movies",
+          "Technology"
+        ],
+        "emergingThemes": [
+          "Nostalgia/Retro",
+          "Upcoming Content Previews",
+          "Interactive/Gamified Content",
+          "High-Profile Collaborations"
+        ],
+        "notableMentions": {
+          "music": "T.I. - Let Em Know [Prod. by Pharrell Williams]",
+          "tvShows": "Stranger Things Promo - SNL",
+          "movies": "Avengers: Doomsday - Final Trailer",
+          "gaming": [
             "roblox best gameplay",
             "Granblue Fantasy Versus: Rising – Ilsa Gameplay Trailer"
-          ],
-          "insight": "Gaming content remains a staple with diverse offerings from indie games to major releases, indicating a broad audience appeal."
-        },
-        "musicContent": {
-          "count": 1,
-          "titles": [
-            "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)"
-          ],
-          "insight": "Music content, while less frequent, continues to attract attention, especially when tied to popular artists and producers."
+          ]
         }
       },
       "creatorPatterns": {
-        "topChannels": {
-          "Saturday Night Live": {
-            "videoCount": 1,
-            "insight": "Established brands like SNL leverage existing audience bases to drive viewership for promotional content."
+        "topChannels": [
+          "T.I.",
+          "Saturday Night Live",
+          "Joxy",
+          "NEON NZ",
+          "Sylex"
+        ],
+        "singleVideoChannels": 5,
+        "collaborativePotential": [
+          {
+            "channel": "T.I.",
+            "collaborationOpportunities": [
+              "Pharrell Williams",
+              "Other music producers"
+            ]
           },
-          "Joxy": {
-            "videoCount": 1,
-            "insight": "Niche channels like Joxy, focusing on unique themes, can capture specific audience segments."
-          },
-          "NEON NZ": {
-            "videoCount": 1,
-            "insight": "Platforms like NEON NZ expand their reach through exclusive content releases, tapping into regional markets."
-          },
-          "Sylex": {
-            "videoCount": 1,
-            "insight": "Channels like Sylex contribute to the gaming content segment, appealing to enthusiastic gaming communities."
-          },
-          "T.I.": {
-            "videoCount": 1,
-            "insight": "Celebrity channels can leverage their personal brand to promote new music, attracting both fans and new listeners."
+          {
+            "channel": "Saturday Night Live",
+            "collaborationOpportunities": [
+              "TV Networks",
+              "Streaming Platforms"
+            ]
           }
-        }
+        ]
       },
       "marketOpportunities": {
-        "liveStreaming": {
-          "opportunity": "Investing in live streaming capabilities and interactive content could enhance viewer engagement and retention.",
-          "suggestedActions": "Develop a robust live streaming strategy that includes real-time interaction, Q&A sessions, and exclusive content to build community."
+        "crossPlatformPromotion": [
+          {
+            "contentType": "Trailers",
+            "platforms": [
+              "YouTube",
+              "Social Media",
+              "Streaming Services"
+            ]
+          },
+          {
+            "contentType": "Music Releases",
+            "platforms": [
+              "YouTube",
+              "Spotify",
+              "Apple Music"
+            ]
+          }
+        ],
+        "interactiveContent": [
+          {
+            "trend": "Live Giveaways",
+            "potential": "Increase engagement and subscriber growth"
+          }
+        ],
+        "untappedCategories": [
+          "In-depth Analysis",
+          "Behind-the-Scenes Content",
+          "Educational Content related to trending topics"
+        ]
+      },
+      "actionableInsights": {
+        "contentStrategy": {
+          "focus": "Leveraging nostalgia and upcoming releases",
+          "recommendation": "Create content that hypes up upcoming releases or taps into popular retro themes."
         },
-        "entertainmentCollaborations": {
-          "opportunity": "Partnerships with entertainment brands and exclusive trailer releases can drive significant viewership spikes.",
-          "suggestedActions": "Collaborate with production houses for exclusive content releases and leverage social media to amplify reach."
+        "creatorEngagement": {
+          "focus": "Collaborations",
+          "recommendation": "Encourage collaborations between music and entertainment channels to cross-promote content."
         },
-        "gamingContentExpansion": {
-          "opportunity": "The diverse gaming content landscape indicates potential for growth by targeting niche gaming communities.",
-          "suggestedActions": "Explore partnerships with emerging game developers and create content that highlights new and trending games."
-        },
-        "musicPromotions": {
-          "opportunity": "Music releases tied to well-known artists and producers can generate immediate interest.",
-          "suggestedActions": "Promote new music releases through strategic partnerships with popular artists, utilizing cross-promotional tactics across platforms."
+        "audienceGrowth": {
+          "focus": "Interactive and Engaging Content",
+          "recommendation": "Utilize live streams and interactive content such as giveaways to boost engagement and viewership."
         }
       },
       "metadata_stats": {
@@ -601,7 +654,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 666489
+        "avg_views_per_video": 450277
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
