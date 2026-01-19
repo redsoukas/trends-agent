@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-18T21:08:19.363168",
-  "date": "2026-01-18",
+  "timestamp": "2026-01-19T00:39:58.052094",
+  "date": "2026-01-19",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
     "high_potential_videos": 7,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 1089914,
-      "like_count": 59601,
-      "comment_count": 1547,
+      "view_count": 1513392,
+      "like_count": 74527,
+      "comment_count": 1799,
       "category_id": "23",
       "tags": [
         "snl",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 618104,
-      "like_count": 17409,
-      "comment_count": 75,
+      "view_count": 618362,
+      "like_count": 17399,
+      "comment_count": 77,
       "category_id": "20",
       "tags": [
         "steal a brainrot giveaway",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 36046,
-      "like_count": 328,
-      "comment_count": 56,
+      "view_count": 46077,
+      "like_count": 385,
+      "comment_count": 77,
       "category_id": "24",
       "tags": [
         "NEON",
@@ -106,12 +106,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u1_Bhvry-qg/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 857241,
-      "like_count": 5095,
+      "view_count": 857589,
+      "like_count": 5094,
       "comment_count": 0,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
+    },
+    {
+      "video_id": "FVz7T_nZAIw",
+      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
+      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
+      "channel_title": "T.I.",
+      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
+      "published_at": "2026-01-18T19:28:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
+      "duration": "PT3M1S",
+      "duration_seconds": 181,
+      "view_count": 60757,
+      "like_count": 8886,
+      "comment_count": 1378,
+      "category_id": "23",
+      "tags": [
+        "ti",
+        "t.i.",
+        "t i",
+        "tip",
+        "ti harris",
+        "tip harris",
+        "Expeditiously",
+        "t.i.p.",
+        "rap",
+        "trap"
+      ],
+      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
     },
     {
       "video_id": "-tckRoT4ztg",
@@ -123,9 +151,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 265480,
-      "like_count": 1015,
-      "comment_count": 38,
+      "view_count": 331059,
+      "like_count": 1149,
+      "comment_count": 39,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -142,21 +170,32 @@
       "url": "https://www.youtube.com/watch?v=-tckRoT4ztg"
     },
     {
-      "video_id": "vIYYUIIkP-8",
-      "title": "JeraiCathy Live Stream",
-      "description": "#roblox #live #shorts",
-      "channel_title": "JeraiCathy",
-      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
-      "published_at": "2026-01-18T15:21:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
-      "duration": "PT1M11S",
-      "duration_seconds": 71,
-      "view_count": 1949132,
-      "like_count": 5449,
-      "comment_count": 57,
+      "video_id": "bEVza_5jgq0",
+      "title": "roblox best gameplay",
+      "description": "Roblox insane moment aura #roblox #shorts #usa",
+      "channel_title": "StanRP",
+      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
+      "published_at": "2026-01-18T22:16:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bEVza_5jgq0/hqdefault.jpg",
+      "duration": "PT7S",
+      "duration_seconds": 7,
+      "view_count": 169432,
+      "like_count": 1016,
+      "comment_count": 3,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
+      "tags": [
+        "roblox",
+        "granny",
+        "free fire",
+        "live roblox",
+        "roblox shorts",
+        "shorts feed",
+        "67",
+        "six seven",
+        "meme reset",
+        "singing brainrot song"
+      ],
+      "url": "https://www.youtube.com/watch?v=bEVza_5jgq0"
     },
     {
       "video_id": "uzMQhc7obDw",
@@ -168,9 +207,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uzMQhc7obDw/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 48562,
-      "like_count": 3977,
-      "comment_count": 488,
+      "view_count": 63344,
+      "like_count": 4618,
+      "comment_count": 559,
       "category_id": "20",
       "tags": [
         "#GranblueFantasyVersus",
@@ -191,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/flLZfUEwKcI/hqdefault.jpg",
       "duration": "PT9H56M32S",
       "duration_seconds": 35792,
-      "view_count": 1030832,
-      "like_count": 17585,
-      "comment_count": 125,
+      "view_count": 1055690,
+      "like_count": 17806,
+      "comment_count": 143,
       "category_id": "20",
       "tags": [
         "funny",
@@ -203,32 +242,21 @@
       "url": "https://www.youtube.com/watch?v=flLZfUEwKcI"
     },
     {
-      "video_id": "oRkFD80oy-k",
-      "title": "We Played The Most Extreme Game of Tag... Again",
-      "description": "Back on STORROR Parkour Pro and we still suck at this game but hey at least we get to play tag :)\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@imSovi \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sounds.o",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-01-17T21:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oRkFD80oy-k/hqdefault.jpg",
-      "duration": "PT20M47S",
-      "duration_seconds": 1247,
-      "view_count": 1098727,
-      "like_count": 70246,
-      "comment_count": 1760,
+      "video_id": "vIYYUIIkP-8",
+      "title": "JeraiCathy Live Stream",
+      "description": "#roblox #live #shorts",
+      "channel_title": "JeraiCathy",
+      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
+      "published_at": "2026-01-18T15:21:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
+      "duration": "PT1M11S",
+      "duration_seconds": 71,
+      "view_count": 1949188,
+      "like_count": 5445,
+      "comment_count": 58,
       "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "storror parkour pro",
-        "storror parkour pro gameplay",
-        "storror parkour pro game",
-        "storror parkour pro multiplayer",
-        "storror parkour pro funny moments",
-        "storror"
-      ],
-      "url": "https://www.youtube.com/watch?v=oRkFD80oy-k"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
     }
   ],
   "videos_with_transcripts": [],
@@ -243,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 1089914,
-      "like_count": 59601,
-      "comment_count": 1547,
+      "view_count": 1513392,
+      "like_count": 74527,
+      "comment_count": 1799,
       "category_id": "23",
       "tags": [
         "snl",
@@ -271,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 36046,
-      "like_count": 328,
-      "comment_count": 56,
+      "view_count": 46077,
+      "like_count": 385,
+      "comment_count": 77,
       "category_id": "24",
       "tags": [
         "NEON",
@@ -290,6 +318,34 @@
       "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
     },
     {
+      "video_id": "FVz7T_nZAIw",
+      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
+      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
+      "channel_title": "T.I.",
+      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
+      "published_at": "2026-01-18T19:28:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
+      "duration": "PT3M1S",
+      "duration_seconds": 181,
+      "view_count": 60757,
+      "like_count": 8886,
+      "comment_count": 1378,
+      "category_id": "23",
+      "tags": [
+        "ti",
+        "t.i.",
+        "t i",
+        "tip",
+        "ti harris",
+        "tip harris",
+        "Expeditiously",
+        "t.i.p.",
+        "rap",
+        "trap"
+      ],
+      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
+    },
+    {
       "video_id": "-tckRoT4ztg",
       "title": "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026",
       "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
@@ -299,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 265480,
-      "like_count": 1015,
-      "comment_count": 38,
+      "view_count": 331059,
+      "like_count": 1149,
+      "comment_count": 39,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -318,23 +374,6 @@
       "url": "https://www.youtube.com/watch?v=-tckRoT4ztg"
     },
     {
-      "video_id": "vIYYUIIkP-8",
-      "title": "JeraiCathy Live Stream",
-      "description": "#roblox #live #shorts",
-      "channel_title": "JeraiCathy",
-      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
-      "published_at": "2026-01-18T15:21:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
-      "duration": "PT1M11S",
-      "duration_seconds": 71,
-      "view_count": 1949132,
-      "like_count": 5449,
-      "comment_count": 57,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
-    },
-    {
       "video_id": "uzMQhc7obDw",
       "title": "Granblue Fantasy Versus: Rising – Ilsa Gameplay Trailer",
       "description": "Boot camp begins now. Ilsa, the demonic drill sergeant, reports for duty as the 11th DLC addition to the GBVSR roster on February 10!\n\nOfficial Website - Granblue Fantasy Versus: Rising (English)\nhttps://rising.granbluefantasy.jp/en/\n\nOfficial GBVS Series X Account (formerly Twitter)\nhttps://x.com/gbvs_official\n\n#GranblueFantasyVersus #GBVS #GBVSR #Cygames #Ilsa",
@@ -344,9 +383,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uzMQhc7obDw/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 48562,
-      "like_count": 3977,
-      "comment_count": 488,
+      "view_count": 63344,
+      "like_count": 4618,
+      "comment_count": 559,
       "category_id": "20",
       "tags": [
         "#GranblueFantasyVersus",
@@ -367,9 +406,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/flLZfUEwKcI/hqdefault.jpg",
       "duration": "PT9H56M32S",
       "duration_seconds": 35792,
-      "view_count": 1030832,
-      "like_count": 17585,
-      "comment_count": 125,
+      "view_count": 1055690,
+      "like_count": 17806,
+      "comment_count": 143,
       "category_id": "20",
       "tags": [
         "funny",
@@ -379,32 +418,21 @@
       "url": "https://www.youtube.com/watch?v=flLZfUEwKcI"
     },
     {
-      "video_id": "oRkFD80oy-k",
-      "title": "We Played The Most Extreme Game of Tag... Again",
-      "description": "Back on STORROR Parkour Pro and we still suck at this game but hey at least we get to play tag :)\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@imSovi \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sounds.o",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-01-17T21:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oRkFD80oy-k/hqdefault.jpg",
-      "duration": "PT20M47S",
-      "duration_seconds": 1247,
-      "view_count": 1098727,
-      "like_count": 70246,
-      "comment_count": 1760,
+      "video_id": "vIYYUIIkP-8",
+      "title": "JeraiCathy Live Stream",
+      "description": "#roblox #live #shorts",
+      "channel_title": "JeraiCathy",
+      "channel_id": "UCXt5kI4_qjV8z5AC-PK8D4g",
+      "published_at": "2026-01-18T15:21:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vIYYUIIkP-8/hqdefault.jpg",
+      "duration": "PT1M11S",
+      "duration_seconds": 71,
+      "view_count": 1949188,
+      "like_count": 5445,
+      "comment_count": 58,
       "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "storror parkour pro",
-        "storror parkour pro gameplay",
-        "storror parkour pro game",
-        "storror parkour pro multiplayer",
-        "storror parkour pro funny moments",
-        "storror"
-      ],
-      "url": "https://www.youtube.com/watch?v=oRkFD80oy-k"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
     },
     {
       "video_id": "gkz0IMbhX6s",
@@ -416,9 +444,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 618104,
-      "like_count": 17409,
-      "comment_count": 75,
+      "view_count": 618362,
+      "like_count": 17399,
+      "comment_count": 77,
       "category_id": "20",
       "tags": [
         "steal a brainrot giveaway",
@@ -444,82 +472,136 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u1_Bhvry-qg/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 857241,
-      "like_count": 5095,
+      "view_count": 857589,
+      "like_count": 5094,
       "comment_count": 0,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
+    },
+    {
+      "video_id": "bEVza_5jgq0",
+      "title": "roblox best gameplay",
+      "description": "Roblox insane moment aura #roblox #shorts #usa",
+      "channel_title": "StanRP",
+      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
+      "published_at": "2026-01-18T22:16:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bEVza_5jgq0/hqdefault.jpg",
+      "duration": "PT7S",
+      "duration_seconds": 7,
+      "view_count": 169432,
+      "like_count": 1016,
+      "comment_count": 3,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "granny",
+        "free fire",
+        "live roblox",
+        "roblox shorts",
+        "shorts feed",
+        "67",
+        "six seven",
+        "meme reset",
+        "singing brainrot song"
+      ],
+      "url": "https://www.youtube.com/watch?v=bEVza_5jgq0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 9,
-        "total_views": 6994038,
-        "average_views_per_video": 777115.33
+        "totalVideos": 10,
+        "totalViews": 6664890,
+        "averageViewsPerVideo": 666489,
+        "categories": "Unknown"
       },
-      "content_trends": {
-        "genre_popularity": {
-          "entertainment_and_comedy": 2,
-          "live_stream_and_gaming": 3,
-          "trailer_and_promo": 4
+      "contentTrends": {
+        "liveContent": {
+          "count": 3,
+          "titles": [
+            "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+            "🔴LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
+            "JeraiCathy Live Stream"
+          ],
+          "insight": "Live streaming content appears to be popular, capturing audience engagement with real-time interaction."
         },
-        "trending_content_types": [
-          "official trailers",
-          "live streams",
-          "promotional videos"
-        ],
-        "popular_themes": [
-          "superhero films",
-          "popular TV series",
-          "extreme games"
-        ]
-      },
-      "creator_patterns": {
-        "channel_types": {
-          "media_networks": 2,
-          "gaming_creators": 2,
-          "individual_creators": 1
+        "entertainmentTrailers": {
+          "count": 3,
+          "titles": [
+            "Stranger Things Promo - SNL",
+            "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
+            "Avengers: Doomsday - Final Trailer 'Rise Of Doom' | Chris Hemsworth, Chris Evans | 2026"
+          ],
+          "insight": "High interest in entertainment content, particularly upcoming TV shows and movies, suggests strong viewer anticipation."
         },
-        "cross-platform_promotion": {
-          "evidence": 2,
-          "description": "Channels like NEON NZ and Saturday Night Live are leveraging cross-platform promotions by using YouTube to boost visibility for their TV content."
+        "gamingContent": {
+          "count": 3,
+          "titles": [
+            "EXTREME SHARK GAME!!!",
+            "roblox best gameplay",
+            "Granblue Fantasy Versus: Rising – Ilsa Gameplay Trailer"
+          ],
+          "insight": "Gaming content remains a staple with diverse offerings from indie games to major releases, indicating a broad audience appeal."
+        },
+        "musicContent": {
+          "count": 1,
+          "titles": [
+            "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)"
+          ],
+          "insight": "Music content, while less frequent, continues to attract attention, especially when tied to popular artists and producers."
         }
       },
-      "market_opportunities": {
-        "collaborative_trailer_releases": {
-          "potential": "high",
-          "description": "With 4 out of 9 trending videos being trailers, collaboration with studios for exclusive trailer releases on YouTube can capture substantial viewership."
-        },
-        "live_stream_engagement": {
-          "potential": "medium",
-          "description": "With 3 live streams trending, there's an opportunity to enhance viewer interaction through real-time engagements and exclusive live events."
-        },
-        "niche_targeting": {
-          "potential": "low",
-          "description": "Videos like 'STEAL A BRAINROT GIVEAWAY LIVE' indicate niche interests; targeting these can yield dedicated viewership but may not reach large audiences."
+      "creatorPatterns": {
+        "topChannels": {
+          "Saturday Night Live": {
+            "videoCount": 1,
+            "insight": "Established brands like SNL leverage existing audience bases to drive viewership for promotional content."
+          },
+          "Joxy": {
+            "videoCount": 1,
+            "insight": "Niche channels like Joxy, focusing on unique themes, can capture specific audience segments."
+          },
+          "NEON NZ": {
+            "videoCount": 1,
+            "insight": "Platforms like NEON NZ expand their reach through exclusive content releases, tapping into regional markets."
+          },
+          "Sylex": {
+            "videoCount": 1,
+            "insight": "Channels like Sylex contribute to the gaming content segment, appealing to enthusiastic gaming communities."
+          },
+          "T.I.": {
+            "videoCount": 1,
+            "insight": "Celebrity channels can leverage their personal brand to promote new music, attracting both fans and new listeners."
+          }
         }
       },
-      "practical_insights": {
-        "optimize_video_titles": {
-          "strategy": "Incorporate keywords related to popular shows, games, and live events to increase searchability."
+      "marketOpportunities": {
+        "liveStreaming": {
+          "opportunity": "Investing in live streaming capabilities and interactive content could enhance viewer engagement and retention.",
+          "suggestedActions": "Develop a robust live streaming strategy that includes real-time interaction, Q&A sessions, and exclusive content to build community."
         },
-        "capitalize_on_trending_series": {
-          "strategy": "Create content that references or reviews trending series and movies, leveraging their popularity for increased engagement."
+        "entertainmentCollaborations": {
+          "opportunity": "Partnerships with entertainment brands and exclusive trailer releases can drive significant viewership spikes.",
+          "suggestedActions": "Collaborate with production houses for exclusive content releases and leverage social media to amplify reach."
         },
-        "enhance_interactivity": {
-          "strategy": "Introduce interactive elements in live streams, such as Q&A sessions or interactive games, to boost viewer retention and engagement."
+        "gamingContentExpansion": {
+          "opportunity": "The diverse gaming content landscape indicates potential for growth by targeting niche gaming communities.",
+          "suggestedActions": "Explore partnerships with emerging game developers and create content that highlights new and trending games."
+        },
+        "musicPromotions": {
+          "opportunity": "Music releases tied to well-known artists and producers can generate immediate interest.",
+          "suggestedActions": "Promote new music releases through strategic partnerships with popular artists, utilizing cross-promotional tactics across platforms."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 777115
+        "avg_views_per_video": 666489
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
