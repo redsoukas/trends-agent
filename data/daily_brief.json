@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-19T15:12:24.461724",
+  "timestamp": "2026-01-19T18:13:44.206410",
   "date": "2026-01-19",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 224580,
-      "like_count": 19739,
-      "comment_count": 2531,
+      "view_count": 252848,
+      "like_count": 21467,
+      "comment_count": 2733,
       "category_id": "23",
       "tags": [
         "ti",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 2323363,
-      "like_count": 100339,
-      "comment_count": 2439,
+      "view_count": 2469129,
+      "like_count": 106551,
+      "comment_count": 2576,
       "category_id": "23",
       "tags": [
         "snl",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jlUY9cYEoJQ/hqdefault.jpg",
       "duration": "PT50M45S",
       "duration_seconds": 3045,
-      "view_count": 868553,
-      "like_count": 52697,
-      "comment_count": 2993,
+      "view_count": 966463,
+      "like_count": 56430,
+      "comment_count": 3172,
       "category_id": "20",
       "tags": [
         "My first day on Hytale",
@@ -97,32 +97,32 @@
       "url": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
     },
     {
-      "video_id": "7laIhWUshwc",
-      "title": "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
-      "description": "Say your prayers. 13 April.\n\n#Euphoria returns to HBO Max available on NEON.\n\nhttps://www.neontv.co.nz/\n\nLooking for more NEON? Follow us our socials for updates on all the best content on offer:\nFacebook: https://www.facebook.com/NeonNewZealand\nInstagram: https://www.instagram.com/neon_nz\nTwitter: https://twitter.com/NeonNZ\nTikTok: https://www.tiktok.com/@neon_nz",
-      "channel_title": "NEON NZ",
-      "channel_id": "UCLx4I_7Mi5XyQbsovZcsgiQ",
-      "published_at": "2026-01-14T17:46:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
-      "duration": "PT2M10S",
-      "duration_seconds": 130,
-      "view_count": 63379,
-      "like_count": 481,
-      "comment_count": 101,
-      "category_id": "24",
+      "video_id": "UbNhSVj6WZM",
+      "title": "Pre-Order Trailer | Marathon",
+      "description": "Marathon releases March 5, 2026. \n\nSecrets. Buried and rotting. With the UESC holding the shovel.  \nThat's where you come in, Runner.\n\nScavenge the lost colony of Tau Ceti IV in the survival extraction FPS from the creators of Halo and Destiny.\n\nPre-order Marathon now: \nSteam: https://store.steampowered.com/app/3065800/Marathon/\nPlayStation 5: https://www.playstation.com/en-us/games/marathon/\nXbox Series X|S: https://www.microsoft.com/store/productid/9p8mgmxndv9b\n\nLearn more: https://bung.ie/4rl5QfF\n\nFollow Marathon:\nTikTok: https://tiktok.com/@marathonthegame\nInstagram: https://instagram.com/marathonthegame\nTwitter: https://x.com/marathonthegame\nBluesky: https://bsky.app/profile/marathonthegame.bungie.net\nDiscord: https://discord.gg/marathonthegame\n\nInfil into the dark sci-fi world of Tau Ceti IV: A derelict colony rife with rival Runners, hostile UESC security forces, and unpredictable environments. Play with your crew, as a solo Runner, or form uneasy alliances with proximity chat. ",
+      "channel_title": "Marathon",
+      "channel_id": "UCBsbrudhKRrT9zs8iNOEjjw",
+      "published_at": "2026-01-19T15:53:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UbNhSVj6WZM/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 16318,
+      "like_count": 5870,
+      "comment_count": 931,
+      "category_id": "20",
       "tags": [
-        "NEON",
-        "NZ;",
-        "TV;",
-        "NEON;",
-        "ONLINE;",
-        "New",
-        "Zealand;",
-        "On",
-        "Demand;",
-        "Movies"
+        "marathon",
+        "marathonthegame",
+        "bungie",
+        "pc",
+        "steam",
+        "xbox",
+        "ps",
+        "ps5",
+        "playstation",
+        "game"
       ],
-      "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
+      "url": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
     },
     {
       "video_id": "TnN1yayz7_s",
@@ -134,9 +134,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TnN1yayz7_s/hqdefault.jpg",
       "duration": "PT45M38S",
       "duration_seconds": 2738,
-      "view_count": 241817,
-      "like_count": 9058,
-      "comment_count": 658,
+      "view_count": 270208,
+      "like_count": 10141,
+      "comment_count": 693,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -153,6 +153,54 @@
       "url": "https://www.youtube.com/watch?v=TnN1yayz7_s"
     },
     {
+      "video_id": "7laIhWUshwc",
+      "title": "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
+      "description": "Say your prayers. 13 April.\n\n#Euphoria returns to HBO Max available on NEON.\n\nhttps://www.neontv.co.nz/\n\nLooking for more NEON? Follow us our socials for updates on all the best content on offer:\nFacebook: https://www.facebook.com/NeonNewZealand\nInstagram: https://www.instagram.com/neon_nz\nTwitter: https://twitter.com/NeonNZ\nTikTok: https://www.tiktok.com/@neon_nz",
+      "channel_title": "NEON NZ",
+      "channel_id": "UCLx4I_7Mi5XyQbsovZcsgiQ",
+      "published_at": "2026-01-14T17:46:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 63571,
+      "like_count": 482,
+      "comment_count": 102,
+      "category_id": "24",
+      "tags": [
+        "NEON",
+        "NZ;",
+        "TV;",
+        "NEON;",
+        "ONLINE;",
+        "New",
+        "Zealand;",
+        "On",
+        "Demand;",
+        "Movies"
+      ],
+      "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
+    },
+    {
+      "video_id": "cdkjaEnkb9w",
+      "title": "Joe Bart Best Of 2025",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Gaming Channel: https://www.youtube.com/@JoeBartGames\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\nEditor:\n➥@yourbusinessdad2716 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥ https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bartolozzi",
+      "channel_id": "UCGRryxFxjXbVAtBPE9EbyMg",
+      "published_at": "2026-01-19T00:04:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cdkjaEnkb9w/hqdefault.jpg",
+      "duration": "PT25M27S",
+      "duration_seconds": 1527,
+      "view_count": 356053,
+      "like_count": 21147,
+      "comment_count": 1251,
+      "category_id": "24",
+      "tags": [
+        "joebartolozzi",
+        "react"
+      ],
+      "url": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
+    },
+    {
       "video_id": "-tckRoT4ztg",
       "title": "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026",
       "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
@@ -162,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 505986,
-      "like_count": 1754,
-      "comment_count": 62,
+      "view_count": 537255,
+      "like_count": 1829,
+      "comment_count": 68,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -181,80 +229,23 @@
       "url": "https://www.youtube.com/watch?v=-tckRoT4ztg"
     },
     {
-      "video_id": "cdkjaEnkb9w",
-      "title": "Joe Bart Best Of 2025",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Gaming Channel: https://www.youtube.com/@JoeBartGames\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\nEditor:\n➥@yourbusinessdad2716 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥ https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bartolozzi",
-      "channel_id": "UCGRryxFxjXbVAtBPE9EbyMg",
-      "published_at": "2026-01-19T00:04:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cdkjaEnkb9w/hqdefault.jpg",
-      "duration": "PT25M27S",
-      "duration_seconds": 1527,
-      "view_count": 322631,
-      "like_count": 18958,
-      "comment_count": 1226,
-      "category_id": "24",
+      "video_id": "ymgX-DYanXA",
+      "title": "The AFC Championship Game Was INTENSE! Wheel of MUT! Ep. #37",
+      "description": "WHEEL OF MUT AFCC CHIPPPPP?!?!? Holy Ultimate W GNNNGGG Papa Meags is about to be BUSSSINNN CHEEKS mega rizz W time TUHRURUUEUEUEUEU\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-18T20:43:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ymgX-DYanXA/hqdefault.jpg",
+      "duration": "PT30M50S",
+      "duration_seconds": 1850,
+      "view_count": 305705,
+      "like_count": 12409,
+      "comment_count": 429,
+      "category_id": "17",
       "tags": [
-        "joebartolozzi",
-        "react"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
-    },
-    {
-      "video_id": "qvWG06wFiK0",
-      "title": "What You Don’t See When Airstream Launches a New Trailer",
-      "description": "Tricia's Latest Cookbook, Taste of the States \"More than a cookbook\"\n🇺🇸 Taste of the States: 75 of America's Best Bites\n👉 Order your copy now: https://shop.tricialeach.com/\n\nTo learn more about the Airstream World Traveler: \nhttps://www.airstream.com/blog/introducing-world-traveler/\n\n🎁 RVers Christmas Guide: https://youtu.be/tLA5-MIT1p8\nAirstream Globetrotter Tour: https://youtu.be/hAd0PDcdlUU\nAirstream Flying Cloud Tour: https://youtu.be/UCuiBFpJhZA\n\n🎥 New episodes every Sunday as we visit all 63 U.S. National Parks. Subscribe and join the adventure!\n\n❤️ KYD Insiders https://www.patreon.com/KeepYourDaydream \nJoin the most supportive and genuine RV community ever. Get our welcome package in the mail, monthly ((Livestreams)), invitations to meet-ups, giveaways and chat in the private Insiders Facebook group. \n\n🍋 Tricia's Cookbook & Spice Blends http://tricialeach.com/\nCreating BIG TASTE doesn't have to take time! These blends are my personal recipes, the go-to combinations I find myself",
-      "channel_title": "Keep Your Daydream",
-      "channel_id": "UCEhJLsShZt8McryMf_DHLZQ",
-      "published_at": "2026-01-19T01:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qvWG06wFiK0/hqdefault.jpg",
-      "duration": "PT26M7S",
-      "duration_seconds": 1567,
-      "view_count": 42103,
-      "like_count": 3385,
-      "comment_count": 151,
-      "category_id": "2",
-      "tags": [
-        "keep your daydream",
-        "kyd",
-        "airstream",
-        "airstream world traveler",
-        "world traveler airstream",
-        "airstream collaboration",
-        "behind the scenes airstream",
-        "airstream photoshoot",
-        "airstream history",
-        "wally byam"
-      ],
-      "url": "https://www.youtube.com/watch?v=qvWG06wFiK0"
-    },
-    {
-      "video_id": "gkz0IMbhX6s",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
-      "channel_title": "Joxy",
-      "channel_id": "UC3DlDcaefUYr-1skxaiLxVw",
-      "published_at": "2026-01-18T03:19:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
-      "duration": "PT14S",
-      "duration_seconds": 14,
-      "view_count": 619207,
-      "like_count": 17376,
-      "comment_count": 76,
-      "category_id": "20",
-      "tags": [
-        "steal a brainrot giveaway",
-        "steal a brainrot giveaway live",
-        "steal a brainrot secret giveaway",
-        "steal a brainrot live giveaway",
-        "steal a brainrot brainrot god giveaway",
-        "steal a brainrot stream",
-        "steal a brainrot live",
-        "steal a brainrot 24/7 stream",
-        "steal a brainrot",
-        "steal a brainrot god"
-      ],
-      "url": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
+      "url": "https://www.youtube.com/watch?v=ymgX-DYanXA"
     },
     {
       "video_id": "IvGDPA9SbFE",
@@ -266,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IvGDPA9SbFE/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 141547,
-      "like_count": 4477,
-      "comment_count": 367,
+      "view_count": 194748,
+      "like_count": 5373,
+      "comment_count": 440,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IvGDPA9SbFE"
@@ -286,9 +277,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 224580,
-      "like_count": 19739,
-      "comment_count": 2531,
+      "view_count": 252848,
+      "like_count": 21467,
+      "comment_count": 2733,
       "category_id": "23",
       "tags": [
         "ti",
@@ -314,9 +305,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 2323363,
-      "like_count": 100339,
-      "comment_count": 2439,
+      "view_count": 2469129,
+      "like_count": 106551,
+      "comment_count": 2576,
       "category_id": "23",
       "tags": [
         "snl",
@@ -342,9 +333,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jlUY9cYEoJQ/hqdefault.jpg",
       "duration": "PT50M45S",
       "duration_seconds": 3045,
-      "view_count": 868553,
-      "like_count": 52697,
-      "comment_count": 2993,
+      "view_count": 966463,
+      "like_count": 56430,
+      "comment_count": 3172,
       "category_id": "20",
       "tags": [
         "My first day on Hytale",
@@ -361,32 +352,32 @@
       "url": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
     },
     {
-      "video_id": "7laIhWUshwc",
-      "title": "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
-      "description": "Say your prayers. 13 April.\n\n#Euphoria returns to HBO Max available on NEON.\n\nhttps://www.neontv.co.nz/\n\nLooking for more NEON? Follow us our socials for updates on all the best content on offer:\nFacebook: https://www.facebook.com/NeonNewZealand\nInstagram: https://www.instagram.com/neon_nz\nTwitter: https://twitter.com/NeonNZ\nTikTok: https://www.tiktok.com/@neon_nz",
-      "channel_title": "NEON NZ",
-      "channel_id": "UCLx4I_7Mi5XyQbsovZcsgiQ",
-      "published_at": "2026-01-14T17:46:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
-      "duration": "PT2M10S",
-      "duration_seconds": 130,
-      "view_count": 63379,
-      "like_count": 481,
-      "comment_count": 101,
-      "category_id": "24",
+      "video_id": "UbNhSVj6WZM",
+      "title": "Pre-Order Trailer | Marathon",
+      "description": "Marathon releases March 5, 2026. \n\nSecrets. Buried and rotting. With the UESC holding the shovel.  \nThat's where you come in, Runner.\n\nScavenge the lost colony of Tau Ceti IV in the survival extraction FPS from the creators of Halo and Destiny.\n\nPre-order Marathon now: \nSteam: https://store.steampowered.com/app/3065800/Marathon/\nPlayStation 5: https://www.playstation.com/en-us/games/marathon/\nXbox Series X|S: https://www.microsoft.com/store/productid/9p8mgmxndv9b\n\nLearn more: https://bung.ie/4rl5QfF\n\nFollow Marathon:\nTikTok: https://tiktok.com/@marathonthegame\nInstagram: https://instagram.com/marathonthegame\nTwitter: https://x.com/marathonthegame\nBluesky: https://bsky.app/profile/marathonthegame.bungie.net\nDiscord: https://discord.gg/marathonthegame\n\nInfil into the dark sci-fi world of Tau Ceti IV: A derelict colony rife with rival Runners, hostile UESC security forces, and unpredictable environments. Play with your crew, as a solo Runner, or form uneasy alliances with proximity chat. ",
+      "channel_title": "Marathon",
+      "channel_id": "UCBsbrudhKRrT9zs8iNOEjjw",
+      "published_at": "2026-01-19T15:53:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UbNhSVj6WZM/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 16318,
+      "like_count": 5870,
+      "comment_count": 931,
+      "category_id": "20",
       "tags": [
-        "NEON",
-        "NZ;",
-        "TV;",
-        "NEON;",
-        "ONLINE;",
-        "New",
-        "Zealand;",
-        "On",
-        "Demand;",
-        "Movies"
+        "marathon",
+        "marathonthegame",
+        "bungie",
+        "pc",
+        "steam",
+        "xbox",
+        "ps",
+        "ps5",
+        "playstation",
+        "game"
       ],
-      "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
+      "url": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
     },
     {
       "video_id": "TnN1yayz7_s",
@@ -398,9 +389,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TnN1yayz7_s/hqdefault.jpg",
       "duration": "PT45M38S",
       "duration_seconds": 2738,
-      "view_count": 241817,
-      "like_count": 9058,
-      "comment_count": 658,
+      "view_count": 270208,
+      "like_count": 10141,
+      "comment_count": 693,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -417,6 +408,54 @@
       "url": "https://www.youtube.com/watch?v=TnN1yayz7_s"
     },
     {
+      "video_id": "7laIhWUshwc",
+      "title": "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
+      "description": "Say your prayers. 13 April.\n\n#Euphoria returns to HBO Max available on NEON.\n\nhttps://www.neontv.co.nz/\n\nLooking for more NEON? Follow us our socials for updates on all the best content on offer:\nFacebook: https://www.facebook.com/NeonNewZealand\nInstagram: https://www.instagram.com/neon_nz\nTwitter: https://twitter.com/NeonNZ\nTikTok: https://www.tiktok.com/@neon_nz",
+      "channel_title": "NEON NZ",
+      "channel_id": "UCLx4I_7Mi5XyQbsovZcsgiQ",
+      "published_at": "2026-01-14T17:46:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7laIhWUshwc/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 63571,
+      "like_count": 482,
+      "comment_count": 102,
+      "category_id": "24",
+      "tags": [
+        "NEON",
+        "NZ;",
+        "TV;",
+        "NEON;",
+        "ONLINE;",
+        "New",
+        "Zealand;",
+        "On",
+        "Demand;",
+        "Movies"
+      ],
+      "url": "https://www.youtube.com/watch?v=7laIhWUshwc"
+    },
+    {
+      "video_id": "cdkjaEnkb9w",
+      "title": "Joe Bart Best Of 2025",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Gaming Channel: https://www.youtube.com/@JoeBartGames\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\nEditor:\n➥@yourbusinessdad2716 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥ https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bartolozzi",
+      "channel_id": "UCGRryxFxjXbVAtBPE9EbyMg",
+      "published_at": "2026-01-19T00:04:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cdkjaEnkb9w/hqdefault.jpg",
+      "duration": "PT25M27S",
+      "duration_seconds": 1527,
+      "view_count": 356053,
+      "like_count": 21147,
+      "comment_count": 1251,
+      "category_id": "24",
+      "tags": [
+        "joebartolozzi",
+        "react"
+      ],
+      "url": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
+    },
+    {
       "video_id": "-tckRoT4ztg",
       "title": "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026",
       "description": "#thor  #marvelstudios #chrishemsworth \n\nWatch the 'FAN (CONCEPT) Trailer Concept' For Marvel Studios' Avengers: Doomsday (2026) (More Info About This Video Down Below!)\n\n▶️ Watch More Concept Trailers:\n\nHarry Potter and the Cursed Child Trailer - https://youtu.be/OnwogtoNJSA 👈\n\nFrozen: Live Action Movie Trailer -  https://youtu.be/5FlLO5EpNic 👈\n\nPirates of the Caribbean 6 Trailer - https://youtu.be/uncc9uN0bbI👈\n\n\"Avengers: Doomsday\" is the highly anticipated fifth installment in the core Avengers series, slated for release on December 18, 2026, marking a major event in Phase Six of the Marvel Cinematic Universe. Directed by the Russo Brothers—Anthony and Joe Russo—the film reunites many beloved heroes and introduces new alliances. As the MCU expands its multiverse saga, this crossover brings together iconic teams such as the Avengers, Fantastic Four, X-Men, Wakandans, and the New Avengers to confront the formidable villain Doctor Doom, portrayed in a stunning twist by Robert Downey Jr.",
@@ -426,9 +465,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tckRoT4ztg/hqdefault.jpg",
       "duration": "PT1M24S",
       "duration_seconds": 84,
-      "view_count": 505986,
-      "like_count": 1754,
-      "comment_count": 62,
+      "view_count": 537255,
+      "like_count": 1829,
+      "comment_count": 68,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday trailer",
@@ -445,52 +484,23 @@
       "url": "https://www.youtube.com/watch?v=-tckRoT4ztg"
     },
     {
-      "video_id": "cdkjaEnkb9w",
-      "title": "Joe Bart Best Of 2025",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Gaming Channel: https://www.youtube.com/@JoeBartGames\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\nEditor:\n➥@yourbusinessdad2716 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥ https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bartolozzi",
-      "channel_id": "UCGRryxFxjXbVAtBPE9EbyMg",
-      "published_at": "2026-01-19T00:04:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cdkjaEnkb9w/hqdefault.jpg",
-      "duration": "PT25M27S",
-      "duration_seconds": 1527,
-      "view_count": 322631,
-      "like_count": 18958,
-      "comment_count": 1226,
-      "category_id": "24",
+      "video_id": "ymgX-DYanXA",
+      "title": "The AFC Championship Game Was INTENSE! Wheel of MUT! Ep. #37",
+      "description": "WHEEL OF MUT AFCC CHIPPPPP?!?!? Holy Ultimate W GNNNGGG Papa Meags is about to be BUSSSINNN CHEEKS mega rizz W time TUHRURUUEUEUEUEU\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-01-18T20:43:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ymgX-DYanXA/hqdefault.jpg",
+      "duration": "PT30M50S",
+      "duration_seconds": 1850,
+      "view_count": 305705,
+      "like_count": 12409,
+      "comment_count": 429,
+      "category_id": "17",
       "tags": [
-        "joebartolozzi",
-        "react"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
-    },
-    {
-      "video_id": "qvWG06wFiK0",
-      "title": "What You Don’t See When Airstream Launches a New Trailer",
-      "description": "Tricia's Latest Cookbook, Taste of the States \"More than a cookbook\"\n🇺🇸 Taste of the States: 75 of America's Best Bites\n👉 Order your copy now: https://shop.tricialeach.com/\n\nTo learn more about the Airstream World Traveler: \nhttps://www.airstream.com/blog/introducing-world-traveler/\n\n🎁 RVers Christmas Guide: https://youtu.be/tLA5-MIT1p8\nAirstream Globetrotter Tour: https://youtu.be/hAd0PDcdlUU\nAirstream Flying Cloud Tour: https://youtu.be/UCuiBFpJhZA\n\n🎥 New episodes every Sunday as we visit all 63 U.S. National Parks. Subscribe and join the adventure!\n\n❤️ KYD Insiders https://www.patreon.com/KeepYourDaydream \nJoin the most supportive and genuine RV community ever. Get our welcome package in the mail, monthly ((Livestreams)), invitations to meet-ups, giveaways and chat in the private Insiders Facebook group. \n\n🍋 Tricia's Cookbook & Spice Blends http://tricialeach.com/\nCreating BIG TASTE doesn't have to take time! These blends are my personal recipes, the go-to combinations I find myself",
-      "channel_title": "Keep Your Daydream",
-      "channel_id": "UCEhJLsShZt8McryMf_DHLZQ",
-      "published_at": "2026-01-19T01:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qvWG06wFiK0/hqdefault.jpg",
-      "duration": "PT26M7S",
-      "duration_seconds": 1567,
-      "view_count": 42103,
-      "like_count": 3385,
-      "comment_count": 151,
-      "category_id": "2",
-      "tags": [
-        "keep your daydream",
-        "kyd",
-        "airstream",
-        "airstream world traveler",
-        "world traveler airstream",
-        "airstream collaboration",
-        "behind the scenes airstream",
-        "airstream photoshoot",
-        "airstream history",
-        "wally byam"
-      ],
-      "url": "https://www.youtube.com/watch?v=qvWG06wFiK0"
+      "url": "https://www.youtube.com/watch?v=ymgX-DYanXA"
     },
     {
       "video_id": "IvGDPA9SbFE",
@@ -502,81 +512,80 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IvGDPA9SbFE/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 141547,
-      "like_count": 4477,
-      "comment_count": 367,
+      "view_count": 194748,
+      "like_count": 5373,
+      "comment_count": 440,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IvGDPA9SbFE"
-    },
-    {
-      "video_id": "gkz0IMbhX6s",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
-      "channel_title": "Joxy",
-      "channel_id": "UC3DlDcaefUYr-1skxaiLxVw",
-      "published_at": "2026-01-18T03:19:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gkz0IMbhX6s/hqdefault.jpg",
-      "duration": "PT14S",
-      "duration_seconds": 14,
-      "view_count": 619207,
-      "like_count": 17376,
-      "comment_count": 76,
-      "category_id": "20",
-      "tags": [
-        "steal a brainrot giveaway",
-        "steal a brainrot giveaway live",
-        "steal a brainrot secret giveaway",
-        "steal a brainrot live giveaway",
-        "steal a brainrot brainrot god giveaway",
-        "steal a brainrot stream",
-        "steal a brainrot live",
-        "steal a brainrot 24/7 stream",
-        "steal a brainrot",
-        "steal a brainrot god"
-      ],
-      "url": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 5432298,
+        "average_views_per_video": 543229.8,
+        "categories": "Unknown"
+      },
       "content_trends": {
-        "diverse_media": {
-          "description": "The trending videos encompass a wide range of media types, including music, film trailers, and promotional content.",
-          "insight": "This suggests a broad interest in entertainment-related content, especially in music and upcoming movie/series releases."
+        "music_and_entertainment": {
+          "description": "Music and entertainment videos, such as official audio and trailers, dominate the trending list.",
+          "examples": [
+            "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
+            "Euphoria Season 3 | Official Trailer | HBO Max available on NEON NZ",
+            "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026"
+          ],
+          "insights": "Trailers and music releases are consistently popular, indicating a strong audience interest in upcoming entertainment events."
         },
-        "nostalgia_and_franchise": {
-          "description": "Video titles such as 'Stranger Things Promo', 'Euphoria Season 3', and 'Avengers: Doomsday' highlight the popularity of well-established franchises and series.",
-          "insight": "Leveraging nostalgia and existing fan bases by creating content related to popular franchises can capture significant viewer interest."
+        "gaming": {
+          "description": "Gaming content, including game trailers and episodic content, is a significant trend.",
+          "examples": [
+            "Hytale: A Fresh Start",
+            "The AFC Championship Game Was INTENSE! Wheel of MUT! Ep. #37"
+          ],
+          "insights": "Gaming videos attract a dedicated audience, suggesting opportunities for more episodic series and game reviews."
         },
-        "new_releases_and_exclusives": {
-          "description": "HBO Max content and other exclusive releases indicate a trend towards platform-specific series and exclusive content.",
-          "insight": "Creating content that previews or discusses new releases on popular streaming platforms can engage viewers looking for the latest entertainment news."
+        "nostalgia_and_remakes": {
+          "description": "Content related to nostalgic themes or remakes, such as Stranger Things and Knights of the Seven Kingdoms, is trending.",
+          "examples": [
+            "Stranger Things Promo - SNL",
+            "A Knight of the Seven Kingdoms | Weeks Ahead Trailer | HBO Max"
+          ],
+          "insights": "Leveraging popular franchises and nostalgic content can drive viewership, suggesting potential in creating related content or spin-offs."
         }
       },
       "creator_patterns": {
-        "celebrity_and_influencer_involvement": {
-          "description": "Channels like T.I. and Saturday Night Live highlight the impact of celebrity-driven content.",
-          "insight": "Collaborating with well-known personalities or featuring celebrity-related content can enhance visibility and attract more views."
+        "established_channels": {
+          "description": "Established channels such as T.I. and Saturday Night Live maintain a strong presence on the trending list.",
+          "examples": [
+            "T.I. (1 videos)",
+            "Saturday Night Live (1 videos)"
+          ],
+          "insights": "Established brands and creators consistently draw large audiences, indicating the importance of brand loyalty and name recognition."
         },
-        "varied_content_creators": {
-          "description": "Channels range from individual creators (Mumbo Jumbo) to large productions (HBO Max), indicating a healthy mix of content types.",
-          "insight": "This variety provides opportunities for both established creators and newcomers to gain traction by tapping into niche or mainstream audiences."
+        "diverse_content_creators": {
+          "description": "Creators from various niches gain traction, showcasing a diversity of interests among YouTube audiences.",
+          "examples": [
+            "Mumbo Jumbo (1 videos)",
+            "CaseOh (1 videos)"
+          ],
+          "insights": "There's potential for niche content creators to capture significant viewership by catering to specific audience interests."
         }
       },
       "market_opportunities": {
-        "cross-platform promotions": {
-          "description": "Videos promoting content available on different platforms (e.g., NEON NZ for HBO Max content) suggest a trend in cross-platform promotions.",
-          "insight": "Brands and creators can capitalize on this trend by forming partnerships that promote content across multiple streaming services."
+        "cross-promotion": {
+          "description": "Collaborations between music artists and film/TV trailers could enhance reach.",
+          "insights": "Opportunities exist for cross-promotional content that combines music and film, leveraging audiences from both sectors."
         },
-        "event-based content": {
-          "description": "Videos like 'STEAL A BRAINROT GIVEAWAY LIVE' indicate a trend towards live and interactive content.",
-          "insight": "Hosting live events or interactive sessions can drive engagement and attract viewers looking for real-time interaction."
+        "episodic_series": {
+          "description": "Episodic content, especially in gaming, can capture dedicated audiences.",
+          "insights": "Creating serialized content or ongoing series can maintain viewer engagement over time."
         },
-        "exploratory and behind-the-scenes content": {
-          "description": "Content like 'What You Don’t See When Airstream Launches a New Trailer' reflects an interest in behind-the-scenes and exploratory narratives.",
-          "insight": "Offering unique perspectives or behind-the-scenes looks can attract audiences interested in more in-depth content."
+        "nostalgic_and_franchise_content": {
+          "description": "Content that taps into popular franchises or nostalgic themes has high engagement potential.",
+          "insights": "Developing new content that ties into existing franchises or plays on nostalgia can drive high viewer interest."
         }
       },
       "metadata_stats": {
@@ -585,7 +594,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 535316
+        "avg_views_per_video": 543229
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
