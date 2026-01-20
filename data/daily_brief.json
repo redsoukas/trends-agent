@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-20T18:15:29.440019",
+  "timestamp": "2026-01-20T21:10:04.911674",
   "date": "2026-01-20",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 3246482,
-      "like_count": 132938,
-      "comment_count": 3123,
+      "view_count": 3310115,
+      "like_count": 135080,
+      "comment_count": 3168,
       "category_id": "23",
       "tags": [
         "snl",
@@ -50,7 +50,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NCLPFcPce0I/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 334735,
+      "view_count": 335228,
       "like_count": 7519,
       "comment_count": 8,
       "category_id": "20",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UtPg0hb8A0o/hqdefault.jpg",
       "duration": "PT22M58S",
       "duration_seconds": 1378,
-      "view_count": 243044,
-      "like_count": 7906,
-      "comment_count": 747,
+      "view_count": 273036,
+      "like_count": 8565,
+      "comment_count": 805,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/km1IlBAZJH0/hqdefault.jpg",
       "duration": "PT6M6S",
       "duration_seconds": 366,
-      "view_count": 1596181,
-      "like_count": 130736,
-      "comment_count": 4458,
+      "view_count": 1733944,
+      "like_count": 137680,
+      "comment_count": 4611,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -107,32 +107,24 @@
       "url": "https://www.youtube.com/watch?v=km1IlBAZJH0"
     },
     {
-      "video_id": "g5mVzcjc9xo",
-      "title": "Landman Season 3 Trailer & First Look",
-      "description": "Landman wrapped its 2nd season with an unusually happy tone as Tommy has managed to find peace against all odds.\n\n#landmanseason2 #landman",
-      "channel_title": "Nextfilm",
-      "channel_id": "UC4wwLztavGbjXl366gsTYZg",
-      "published_at": "2026-01-19T18:31:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g5mVzcjc9xo/hqdefault.jpg",
-      "duration": "PT5M41S",
-      "duration_seconds": 341,
-      "view_count": 157412,
-      "like_count": 673,
-      "comment_count": 72,
-      "category_id": "1",
+      "video_id": "BftIr01R0uU",
+      "title": "Sonic Presents: The Chaotix Casefiles Trailer",
+      "description": "The Chaotix Detective Agency is on the case! 🕵️‍♂️ Get ready for a brand-new audio adventure, Sonic the Hedgehog Presents: The Chaotix Casefiles, arriving on 1/27 wherever you listen to podcasts. \n\n#ChaotixCaseFiles #SonicTheHedgehog\n\nAlso, check out our other social pages to stay up to date on the latest Sonic happenings: \n\nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social",
+      "channel_title": "Sonic the Hedgehog",
+      "channel_id": "UCCOSYITWQHRSUxvlQ4_PSCg",
+      "published_at": "2026-01-20T17:04:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BftIr01R0uU/hqdefault.jpg",
+      "duration": "PT1M53S",
+      "duration_seconds": 113,
+      "view_count": 97354,
+      "like_count": 22863,
+      "comment_count": 2127,
+      "category_id": "20",
       "tags": [
-        "Landman",
-        "Landman season 2",
-        "Landman season 2 Episode 10",
-        "Landman season 2 Episode 10 recap",
-        "Landman season 2 Episode 10 ending explained",
-        "Landman season 3",
-        "Landman Season 3 Trailer",
-        "Landman season 3 Release date",
-        "Landman season 2 ending explained",
-        "Landman season 2 recap"
+        "sonic",
+        "sonic the hedgehog"
       ],
-      "url": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
+      "url": "https://www.youtube.com/watch?v=BftIr01R0uU"
     },
     {
       "video_id": "5m1FcUc_puU",
@@ -144,9 +136,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5m1FcUc_puU/hqdefault.jpg",
       "duration": "PT14M8S",
       "duration_seconds": 848,
-      "view_count": 577563,
-      "like_count": 27651,
-      "comment_count": 7465,
+      "view_count": 619548,
+      "like_count": 29178,
+      "comment_count": 7912,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -163,60 +155,56 @@
       "url": "https://www.youtube.com/watch?v=5m1FcUc_puU"
     },
     {
-      "video_id": "FVz7T_nZAIw",
-      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
-      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
-      "channel_title": "T.I.",
-      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
-      "published_at": "2026-01-18T19:28:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "duration_seconds": 181,
-      "view_count": 393499,
-      "like_count": 29614,
-      "comment_count": 3519,
-      "category_id": "23",
+      "video_id": "l7csHY86NXs",
+      "title": "Journey - Faithfully (Lyrics)",
+      "description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Listen: Journey - Faithfully (Lyrics)\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿Lyrics:\n\n[Verse 1]\nHighway run into the midnight sun\nWheels go 'round and 'round, you're on my mind\nRestless hearts, sleep alone tonight\nSendin' all my love along the wire\n\n[Chorus]\nThey say that the road ain't no place to start a family\nRight down the line, it's been you and me\nAnd lovin' a music man ain't always what it's supposed to be\nOh, girl, you stand by me\nI'm forever yours\nFaithfully\n\n[Verse 2]\nCircus life under the big-top world\nWe all need the clowns to make us smile\nThrough space and time, always another show\nWonderin' where I am lost without you\n\n[Chorus]\nAnd bein' apart ain't easy on this love affair\nTwo strangers learn to fall in love again\nI get the joy of rediscovering you\nOh, girl, you stand by me\nI'm forever yours\nFaithfully \n\n[Outro]\nWoah-oh, oh-oh\nWoah-oh, oh-oh, oh\nWoah-oh, oh-oh, oh-oh\nFaithfully\nI'm still yours\nI'm forever yours\n'Ever yours\nFaithfully",
+      "channel_title": "Invited Kingdom",
+      "channel_id": "UCFWHWqcDEfkngrRFKUOxDlg",
+      "published_at": "2026-01-13T13:35:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l7csHY86NXs/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 104823,
+      "like_count": 457,
+      "comment_count": 7,
+      "category_id": "22",
       "tags": [
-        "ti",
-        "t.i.",
-        "t i",
-        "tip",
-        "ti harris",
-        "tip harris",
-        "Expeditiously",
-        "t.i.p.",
-        "rap",
-        "trap"
+        "Journey - Faithfully (Lyrics)",
+        "Journey - Faithfully",
+        "Faithfully",
+        "Journey",
+        "Lyrics",
+        "lyrics"
       ],
-      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
+      "url": "https://www.youtube.com/watch?v=l7csHY86NXs"
     },
     {
-      "video_id": "UbNhSVj6WZM",
-      "title": "Pre-Order Trailer | Marathon",
-      "description": "Marathon releases March 5, 2026. \n\nSecrets. Buried and rotting. With the UESC holding the shovel.  \nThat's where you come in, Runner.\n\nScavenge the lost colony of Tau Ceti IV in the survival extraction FPS from the creators of Halo and Destiny.\n\nPre-order Marathon now: \nSteam: https://store.steampowered.com/app/3065800/Marathon/\nPlayStation 5: https://www.playstation.com/en-us/games/marathon/\nXbox Series X|S: https://www.microsoft.com/store/productid/9p8mgmxndv9b\n\nLearn more: https://bung.ie/4rl5QfF\n\nFollow Marathon:\nTikTok: https://tiktok.com/@marathonthegame\nInstagram: https://instagram.com/marathonthegame\nTwitter: https://x.com/marathonthegame\nBluesky: https://bsky.app/profile/marathonthegame.bungie.net\nDiscord: https://discord.gg/marathonthegame\n\nInfil into the dark sci-fi world of Tau Ceti IV: A derelict colony rife with rival Runners, hostile UESC security forces, and unpredictable environments. Play with your crew, as a solo Runner, or form uneasy alliances with proximity chat. ",
-      "channel_title": "Marathon",
-      "channel_id": "UCBsbrudhKRrT9zs8iNOEjjw",
-      "published_at": "2026-01-19T15:53:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UbNhSVj6WZM/hqdefault.jpg",
-      "duration": "PT1M56S",
-      "duration_seconds": 116,
-      "view_count": 182016,
-      "like_count": 12280,
-      "comment_count": 1924,
-      "category_id": "20",
+      "video_id": "g5mVzcjc9xo",
+      "title": "Landman Season 3 Trailer & First Look",
+      "description": "Landman wrapped its 2nd season with an unusually happy tone as Tommy has managed to find peace against all odds.\n\n#landmanseason2 #landman",
+      "channel_title": "Nextfilm",
+      "channel_id": "UC4wwLztavGbjXl366gsTYZg",
+      "published_at": "2026-01-19T18:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g5mVzcjc9xo/hqdefault.jpg",
+      "duration": "PT5M41S",
+      "duration_seconds": 341,
+      "view_count": 186401,
+      "like_count": 788,
+      "comment_count": 80,
+      "category_id": "1",
       "tags": [
-        "marathon",
-        "marathonthegame",
-        "bungie",
-        "pc",
-        "steam",
-        "xbox",
-        "ps",
-        "ps5",
-        "playstation",
-        "game"
+        "Landman",
+        "Landman season 2",
+        "Landman season 2 Episode 10",
+        "Landman season 2 Episode 10 recap",
+        "Landman season 2 Episode 10 ending explained",
+        "Landman season 3",
+        "Landman Season 3 Trailer",
+        "Landman season 3 Release date",
+        "Landman season 2 ending explained",
+        "Landman season 2 recap"
       ],
-      "url": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
+      "url": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
     },
     {
       "video_id": "fwp90akC86g",
@@ -228,9 +216,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fwp90akC86g/hqdefault.jpg",
       "duration": "PT48M32S",
       "duration_seconds": 2912,
-      "view_count": 296701,
-      "like_count": 10627,
-      "comment_count": 901,
+      "view_count": 323066,
+      "like_count": 11416,
+      "comment_count": 931,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -247,32 +235,32 @@
       "url": "https://www.youtube.com/watch?v=fwp90akC86g"
     },
     {
-      "video_id": "MB8aWvBPEWA",
-      "title": "MY HERO ULTRA RUMBLE — Season 15 Trailer",
-      "description": "The jet-black hero, draped in shadows! Fumikage Tokoyami -Tsukuyomi- joins the battle in Season 15 of MY HERO ULTRA RUMBLE — the superpowered FREE-TO-PLAY battle royale! Season 15 goes live January 21st! \n\nNew content coming in Season 15: \n💥 New Playable Character – Fumikage Tokoyami: Harness the shadow within and strike through coordinated attacks with [Dark Shadow]!\n💥 New Costumes – Cyber Hero, Quirk Assist Gear, Denki Kaminari's Armor of the Holy Light & Fumikage Tokoyami's Armor of the Abyss! And more!!\n💥 New Battle Style – Nejire Hado \"Fairy\" coming soon!\n\nPlay for FREE today on PlayStation, Xbox, Steam, and Nintendo Switch: www.playmyheroultrarumble.com \n\n#MYHEROULTRARUMBLE #MHUR\nFollow MY HERO ULTRA RUMBLE:\nInstagram: https://www.instagram.com/myherour/\nTwitter: https://twitter.com/MyHeroUR\n\nFollow Bandai Namco Entertainment America:\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwit",
-      "channel_title": "Bandai Namco Entertainment America",
-      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
-      "published_at": "2026-01-20T04:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MB8aWvBPEWA/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 58764,
-      "like_count": 4187,
-      "comment_count": 685,
+      "video_id": "6iX0aiIcYls",
+      "title": "For Honor - Official Juren Hero Reveal Trailer",
+      "description": "For Honor's new Hero is the fearless Juren, who fights with the Fang Tian Hua Ji, a polearm weapon. Joining the Wu Lin, Juren's relentless fighting style threatens to bring turmoil to Heathmoor. Learn more about Juren and the second update of Y9S4 during the Warrior’s Den on January 22 at  twitch.tv/forhonorgame at 12pm EST. \nPlay For Honor for free for an entire week from January 29 – February 5 (February 9 on Ubisoft Connect) and if you like what you played, the game will be on sale for up to 90% off on select platforms.\n\n#IGN #gaming",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-01-20T17:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6iX0aiIcYls/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 25397,
+      "like_count": 1612,
+      "comment_count": 297,
       "category_id": "20",
       "tags": [
-        "Bandai Namco",
-        "Bandai Namco Entertainment",
-        "video games",
-        "namco bandai",
-        "PS5",
-        "PS4",
-        "Xbox Series X",
-        "anime games",
-        "playstation",
-        "xbox"
+        "Action",
+        "For Honor",
+        "Online Co-Op Multiplayer",
+        "Online Versus Multiplayer",
+        "PC",
+        "PlayStation 4",
+        "Ubisoft",
+        "Ubisoft Montreal",
+        "Xbox One",
+        "For Honor game trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=MB8aWvBPEWA"
+      "url": "https://www.youtube.com/watch?v=6iX0aiIcYls"
     }
   ],
   "videos_with_transcripts": [],
@@ -287,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fmohHVMMN_o/hqdefault.jpg",
       "duration": "PT4M6S",
       "duration_seconds": 246,
-      "view_count": 3246482,
-      "like_count": 132938,
-      "comment_count": 3123,
+      "view_count": 3310115,
+      "like_count": 135080,
+      "comment_count": 3168,
       "category_id": "23",
       "tags": [
         "snl",
@@ -315,9 +303,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UtPg0hb8A0o/hqdefault.jpg",
       "duration": "PT22M58S",
       "duration_seconds": 1378,
-      "view_count": 243044,
-      "like_count": 7906,
-      "comment_count": 747,
+      "view_count": 273036,
+      "like_count": 8565,
+      "comment_count": 805,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -343,9 +331,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/km1IlBAZJH0/hqdefault.jpg",
       "duration": "PT6M6S",
       "duration_seconds": 366,
-      "view_count": 1596181,
-      "like_count": 130736,
-      "comment_count": 4458,
+      "view_count": 1733944,
+      "like_count": 137680,
+      "comment_count": 4611,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -355,32 +343,24 @@
       "url": "https://www.youtube.com/watch?v=km1IlBAZJH0"
     },
     {
-      "video_id": "g5mVzcjc9xo",
-      "title": "Landman Season 3 Trailer & First Look",
-      "description": "Landman wrapped its 2nd season with an unusually happy tone as Tommy has managed to find peace against all odds.\n\n#landmanseason2 #landman",
-      "channel_title": "Nextfilm",
-      "channel_id": "UC4wwLztavGbjXl366gsTYZg",
-      "published_at": "2026-01-19T18:31:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g5mVzcjc9xo/hqdefault.jpg",
-      "duration": "PT5M41S",
-      "duration_seconds": 341,
-      "view_count": 157412,
-      "like_count": 673,
-      "comment_count": 72,
-      "category_id": "1",
+      "video_id": "BftIr01R0uU",
+      "title": "Sonic Presents: The Chaotix Casefiles Trailer",
+      "description": "The Chaotix Detective Agency is on the case! 🕵️‍♂️ Get ready for a brand-new audio adventure, Sonic the Hedgehog Presents: The Chaotix Casefiles, arriving on 1/27 wherever you listen to podcasts. \n\n#ChaotixCaseFiles #SonicTheHedgehog\n\nAlso, check out our other social pages to stay up to date on the latest Sonic happenings: \n\nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social",
+      "channel_title": "Sonic the Hedgehog",
+      "channel_id": "UCCOSYITWQHRSUxvlQ4_PSCg",
+      "published_at": "2026-01-20T17:04:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BftIr01R0uU/hqdefault.jpg",
+      "duration": "PT1M53S",
+      "duration_seconds": 113,
+      "view_count": 97354,
+      "like_count": 22863,
+      "comment_count": 2127,
+      "category_id": "20",
       "tags": [
-        "Landman",
-        "Landman season 2",
-        "Landman season 2 Episode 10",
-        "Landman season 2 Episode 10 recap",
-        "Landman season 2 Episode 10 ending explained",
-        "Landman season 3",
-        "Landman Season 3 Trailer",
-        "Landman season 3 Release date",
-        "Landman season 2 ending explained",
-        "Landman season 2 recap"
+        "sonic",
+        "sonic the hedgehog"
       ],
-      "url": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
+      "url": "https://www.youtube.com/watch?v=BftIr01R0uU"
     },
     {
       "video_id": "5m1FcUc_puU",
@@ -392,9 +372,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5m1FcUc_puU/hqdefault.jpg",
       "duration": "PT14M8S",
       "duration_seconds": 848,
-      "view_count": 577563,
-      "like_count": 27651,
-      "comment_count": 7465,
+      "view_count": 619548,
+      "like_count": 29178,
+      "comment_count": 7912,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -411,60 +391,32 @@
       "url": "https://www.youtube.com/watch?v=5m1FcUc_puU"
     },
     {
-      "video_id": "FVz7T_nZAIw",
-      "title": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
-      "description": "Produced by @Pharrell \n\"Let Em Know\" from the upcoming project 'Kill The King' \nT.I. Is Back!!\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #pharrellwilliams #letemknow",
-      "channel_title": "T.I.",
-      "channel_id": "UCsD7zvGKkqB7GvQpygW2few",
-      "published_at": "2026-01-18T19:28:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVz7T_nZAIw/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "duration_seconds": 181,
-      "view_count": 393499,
-      "like_count": 29614,
-      "comment_count": 3519,
-      "category_id": "23",
+      "video_id": "g5mVzcjc9xo",
+      "title": "Landman Season 3 Trailer & First Look",
+      "description": "Landman wrapped its 2nd season with an unusually happy tone as Tommy has managed to find peace against all odds.\n\n#landmanseason2 #landman",
+      "channel_title": "Nextfilm",
+      "channel_id": "UC4wwLztavGbjXl366gsTYZg",
+      "published_at": "2026-01-19T18:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g5mVzcjc9xo/hqdefault.jpg",
+      "duration": "PT5M41S",
+      "duration_seconds": 341,
+      "view_count": 186401,
+      "like_count": 788,
+      "comment_count": 80,
+      "category_id": "1",
       "tags": [
-        "ti",
-        "t.i.",
-        "t i",
-        "tip",
-        "ti harris",
-        "tip harris",
-        "Expeditiously",
-        "t.i.p.",
-        "rap",
-        "trap"
+        "Landman",
+        "Landman season 2",
+        "Landman season 2 Episode 10",
+        "Landman season 2 Episode 10 recap",
+        "Landman season 2 Episode 10 ending explained",
+        "Landman season 3",
+        "Landman Season 3 Trailer",
+        "Landman season 3 Release date",
+        "Landman season 2 ending explained",
+        "Landman season 2 recap"
       ],
-      "url": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
-    },
-    {
-      "video_id": "UbNhSVj6WZM",
-      "title": "Pre-Order Trailer | Marathon",
-      "description": "Marathon releases March 5, 2026. \n\nSecrets. Buried and rotting. With the UESC holding the shovel.  \nThat's where you come in, Runner.\n\nScavenge the lost colony of Tau Ceti IV in the survival extraction FPS from the creators of Halo and Destiny.\n\nPre-order Marathon now: \nSteam: https://store.steampowered.com/app/3065800/Marathon/\nPlayStation 5: https://www.playstation.com/en-us/games/marathon/\nXbox Series X|S: https://www.microsoft.com/store/productid/9p8mgmxndv9b\n\nLearn more: https://bung.ie/4rl5QfF\n\nFollow Marathon:\nTikTok: https://tiktok.com/@marathonthegame\nInstagram: https://instagram.com/marathonthegame\nTwitter: https://x.com/marathonthegame\nBluesky: https://bsky.app/profile/marathonthegame.bungie.net\nDiscord: https://discord.gg/marathonthegame\n\nInfil into the dark sci-fi world of Tau Ceti IV: A derelict colony rife with rival Runners, hostile UESC security forces, and unpredictable environments. Play with your crew, as a solo Runner, or form uneasy alliances with proximity chat. ",
-      "channel_title": "Marathon",
-      "channel_id": "UCBsbrudhKRrT9zs8iNOEjjw",
-      "published_at": "2026-01-19T15:53:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UbNhSVj6WZM/hqdefault.jpg",
-      "duration": "PT1M56S",
-      "duration_seconds": 116,
-      "view_count": 182016,
-      "like_count": 12280,
-      "comment_count": 1924,
-      "category_id": "20",
-      "tags": [
-        "marathon",
-        "marathonthegame",
-        "bungie",
-        "pc",
-        "steam",
-        "xbox",
-        "ps",
-        "ps5",
-        "playstation",
-        "game"
-      ],
-      "url": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
+      "url": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
     },
     {
       "video_id": "fwp90akC86g",
@@ -476,9 +428,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fwp90akC86g/hqdefault.jpg",
       "duration": "PT48M32S",
       "duration_seconds": 2912,
-      "view_count": 296701,
-      "like_count": 10627,
-      "comment_count": 901,
+      "view_count": 323066,
+      "like_count": 11416,
+      "comment_count": 931,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -495,34 +447,6 @@
       "url": "https://www.youtube.com/watch?v=fwp90akC86g"
     },
     {
-      "video_id": "MB8aWvBPEWA",
-      "title": "MY HERO ULTRA RUMBLE — Season 15 Trailer",
-      "description": "The jet-black hero, draped in shadows! Fumikage Tokoyami -Tsukuyomi- joins the battle in Season 15 of MY HERO ULTRA RUMBLE — the superpowered FREE-TO-PLAY battle royale! Season 15 goes live January 21st! \n\nNew content coming in Season 15: \n💥 New Playable Character – Fumikage Tokoyami: Harness the shadow within and strike through coordinated attacks with [Dark Shadow]!\n💥 New Costumes – Cyber Hero, Quirk Assist Gear, Denki Kaminari's Armor of the Holy Light & Fumikage Tokoyami's Armor of the Abyss! And more!!\n💥 New Battle Style – Nejire Hado \"Fairy\" coming soon!\n\nPlay for FREE today on PlayStation, Xbox, Steam, and Nintendo Switch: www.playmyheroultrarumble.com \n\n#MYHEROULTRARUMBLE #MHUR\nFollow MY HERO ULTRA RUMBLE:\nInstagram: https://www.instagram.com/myherour/\nTwitter: https://twitter.com/MyHeroUR\n\nFollow Bandai Namco Entertainment America:\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwit",
-      "channel_title": "Bandai Namco Entertainment America",
-      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
-      "published_at": "2026-01-20T04:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MB8aWvBPEWA/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 58764,
-      "like_count": 4187,
-      "comment_count": 685,
-      "category_id": "20",
-      "tags": [
-        "Bandai Namco",
-        "Bandai Namco Entertainment",
-        "video games",
-        "namco bandai",
-        "PS5",
-        "PS4",
-        "Xbox Series X",
-        "anime games",
-        "playstation",
-        "xbox"
-      ],
-      "url": "https://www.youtube.com/watch?v=MB8aWvBPEWA"
-    },
-    {
       "video_id": "NCLPFcPce0I",
       "title": "Steal a Brainrot DUPE GLITCH LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY!",
       "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY! (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brai",
@@ -532,89 +456,152 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NCLPFcPce0I/hqdefault.jpg",
       "duration": "PT14S",
       "duration_seconds": 14,
-      "view_count": 334735,
+      "view_count": 335228,
       "like_count": 7519,
       "comment_count": 8,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=NCLPFcPce0I"
+    },
+    {
+      "video_id": "l7csHY86NXs",
+      "title": "Journey - Faithfully (Lyrics)",
+      "description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Listen: Journey - Faithfully (Lyrics)\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿Lyrics:\n\n[Verse 1]\nHighway run into the midnight sun\nWheels go 'round and 'round, you're on my mind\nRestless hearts, sleep alone tonight\nSendin' all my love along the wire\n\n[Chorus]\nThey say that the road ain't no place to start a family\nRight down the line, it's been you and me\nAnd lovin' a music man ain't always what it's supposed to be\nOh, girl, you stand by me\nI'm forever yours\nFaithfully\n\n[Verse 2]\nCircus life under the big-top world\nWe all need the clowns to make us smile\nThrough space and time, always another show\nWonderin' where I am lost without you\n\n[Chorus]\nAnd bein' apart ain't easy on this love affair\nTwo strangers learn to fall in love again\nI get the joy of rediscovering you\nOh, girl, you stand by me\nI'm forever yours\nFaithfully \n\n[Outro]\nWoah-oh, oh-oh\nWoah-oh, oh-oh, oh\nWoah-oh, oh-oh, oh-oh\nFaithfully\nI'm still yours\nI'm forever yours\n'Ever yours\nFaithfully",
+      "channel_title": "Invited Kingdom",
+      "channel_id": "UCFWHWqcDEfkngrRFKUOxDlg",
+      "published_at": "2026-01-13T13:35:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l7csHY86NXs/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 104823,
+      "like_count": 457,
+      "comment_count": 7,
+      "category_id": "22",
+      "tags": [
+        "Journey - Faithfully (Lyrics)",
+        "Journey - Faithfully",
+        "Faithfully",
+        "Journey",
+        "Lyrics",
+        "lyrics"
+      ],
+      "url": "https://www.youtube.com/watch?v=l7csHY86NXs"
+    },
+    {
+      "video_id": "6iX0aiIcYls",
+      "title": "For Honor - Official Juren Hero Reveal Trailer",
+      "description": "For Honor's new Hero is the fearless Juren, who fights with the Fang Tian Hua Ji, a polearm weapon. Joining the Wu Lin, Juren's relentless fighting style threatens to bring turmoil to Heathmoor. Learn more about Juren and the second update of Y9S4 during the Warrior’s Den on January 22 at  twitch.tv/forhonorgame at 12pm EST. \nPlay For Honor for free for an entire week from January 29 – February 5 (February 9 on Ubisoft Connect) and if you like what you played, the game will be on sale for up to 90% off on select platforms.\n\n#IGN #gaming",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-01-20T17:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6iX0aiIcYls/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 25397,
+      "like_count": 1612,
+      "comment_count": 297,
+      "category_id": "20",
+      "tags": [
+        "Action",
+        "For Honor",
+        "Online Co-Op Multiplayer",
+        "Online Versus Multiplayer",
+        "PC",
+        "PlayStation 4",
+        "Ubisoft",
+        "Ubisoft Montreal",
+        "Xbox One",
+        "For Honor game trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=6iX0aiIcYls"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns": {
-        "total_videos": 10,
-        "total_views": 7086397,
-        "average_views_per_video": 708639.7,
-        "video_title_analysis": {
-          "entertainment": [
+      "content_trends": {
+        "entertainment_focus": {
+          "description": "A significant portion of the trending videos are related to entertainment, including TV show promos, trailers, and gaming content.",
+          "examples": [
             "Stranger Things Promo - SNL",
+            "Every Clue that Dr Doom is Hiding in the Avengers: Doomsday Trailers",
             "Landman Season 3 Trailer & First Look",
-            "MY HERO ULTRA RUMBLE — Season 15 Trailer"
-          ],
-          "gaming": [
-            "Steal a Brainrot DUPE GLITCH LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY!",
-            "How Minecraft Manhunt is Made...",
-            "Water Boiling Simulator"
-          ],
-          "music": [
-            "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)"
-          ],
-          "film_and_tv_analysis": [
-            "Every Clue that Dr Doom is Hiding in the Avengers: Doomsday Trailers"
-          ],
-          "documentary": [
-            "The secret psychic weapon used in Venezuela"
-          ],
-          "technology": [
-            "Pre-Order Trailer | Marathon"
+            "For Honor - Official Juren Hero Reveal Trailer"
           ]
         },
-        "channel_analysis": {
-          "diverse_content_creators": [
-            "Saturday Night Live",
-            "Nexy",
-            "ScreenCrush",
-            "Dream",
-            "Nextfilm"
-          ],
-          "single_video_contribution": true,
-          "potential_collaborations": "Opportunity for cross-channel collaborations due to single video contributions from each channel."
+        "gaming_influence": {
+          "description": "Gaming content continues to trend, with a mix of gameplay insights and community engagement.",
+          "examples": [
+            "How Minecraft Manhunt is Made...",
+            "Steal a Brainrot DUPE GLITCH LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY!",
+            "Sonic Presents: The Chaotix Casefiles Trailer"
+          ]
+        },
+        "nostalgia_and_classics": {
+          "description": "Classic and nostalgic content, such as music and classic games, maintain a strong presence on trending lists.",
+          "examples": [
+            "Journey - Faithfully (Lyrics)",
+            "Sonic Presents: The Chaotix Casefiles Trailer"
+          ]
+        },
+        "informative_and_educational": {
+          "description": "Informative content that dives into conspiracy theories or lesser-known tactics is also trending.",
+          "examples": [
+            "The secret psychic weapon used in Venezuela"
+          ]
         }
       },
-      "content_trends": {
-        "dominant_genres": [
-          "Entertainment",
-          "Gaming",
-          "Film and TV Analysis"
-        ],
-        "emerging_trends": "Increased interest in gaming content and entertainment trailers.",
-        "opportunity_for_expansion": "Potential for expanding into more niche categories such as psychological analysis and tech reviews."
+      "creator_patterns": {
+        "diverse_content_creators": {
+          "description": "Creators from different niches including comedy, gaming, and analysis are able to reach the trending list.",
+          "examples": [
+            {
+              "channel": "Saturday Night Live",
+              "video": "Stranger Things Promo - SNL",
+              "category": "Comedy/TV"
+            },
+            {
+              "channel": "Dream",
+              "video": "How Minecraft Manhunt is Made...",
+              "category": "Gaming"
+            },
+            {
+              "channel": "ScreenCrush",
+              "video": "Every Clue that Dr Doom is Hiding in the Avengers: Doomsday Trailers",
+              "category": "Analysis/Entertainment"
+            }
+          ]
+        },
+        "engagement_with_trailers_and_promos": {
+          "description": "Trailers and promotional content from established franchises and creators are consistently trending.",
+          "examples": [
+            "Stranger Things Promo - SNL",
+            "Landman Season 3 Trailer & First Look",
+            "For Honor - Official Juren Hero Reveal Trailer"
+          ]
+        }
       },
       "market_opportunities": {
-        "content_creation": {
-          "trailer_reaction_videos": "High potential for engagement as multiple trailers have trended.",
-          "behind_the_scenes_gaming": "Interest in gaming mechanics and secrets as seen with Minecraft Manhunt."
+        "cross-platform_synergies": {
+          "description": "Leveraging established franchises across different platforms (e.g., TV shows, video games) can attract diverse audiences.",
+          "strategies": [
+            "Create content that ties into popular franchises to capture both dedicated fans and casual viewers.",
+            "Collaborate with creators from different platforms to expand reach and engagement."
+          ]
         },
-        "audience_engagement": {
-          "live_streaming": "Opportunity to engage audiences through live streaming, especially in gaming.",
-          "interactive_content": "Incorporate viewer participation through live polls and Q&A, particularly with entertainment content."
+        "gaming_community_engagement": {
+          "description": "Interactive gaming content that involves community participation is highly engaging and trending.",
+          "strategies": [
+            "Develop live events or interactive streams to engage with the gaming community actively.",
+            "Encourage user-generated content around popular games to drive engagement."
+          ]
         },
-        "monetization_strategies": {
-          "merchandising": "Leveraging popular gaming and entertainment titles for branded merchandise."
-        }
-      },
-      "practical_insights": {
-        "content_strategy": {
-          "focus_on_trailers": "Increase production of trailer breakdowns and first-look videos, as these garner significant views.",
-          "gaming_content_expansion": "Develop series around popular games with hidden features or updates."
-        },
-        "audience_targeting": {
-          "young_adults_and_teenagers": "Predominantly target younger demographics interested in gaming and entertainment."
-        },
-        "channel_growth": {
-          "collaborations_and_partnerships": "Pursue collaborations with other trending channels to tap into their audiences."
+        "leveraging_nostalgia": {
+          "description": "Content that taps into nostalgia, such as classic music or game franchises, appeals to a broad age range.",
+          "strategies": [
+            "Revive or reference classic content to engage older audiences while introducing it to younger viewers.",
+            "Use nostalgic elements in new, innovative ways to attract attention."
+          ]
         }
       },
       "metadata_stats": {
@@ -623,7 +610,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 708639
+        "avg_views_per_video": 700891
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
