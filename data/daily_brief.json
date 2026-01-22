@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-22T09:16:01.417469",
+  "timestamp": "2026-01-22T12:17:18.428194",
   "date": "2026-01-22",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 3,
     "high_potential_videos": 6,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/htOpBAhwMhk/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 334763,
-      "like_count": 3696,
-      "comment_count": 768,
+      "view_count": 361738,
+      "like_count": 3873,
+      "comment_count": 809,
       "category_id": "24",
       "tags": [
         "2026",
@@ -41,25 +41,27 @@
       "url": "https://www.youtube.com/watch?v=htOpBAhwMhk"
     },
     {
-      "video_id": "kgSo1FO_hhw",
-      "title": "🔴LIVE | CERTIFIED GOOP GETTER | WACK MY JUNK WITH A KNOTTED ROPE LIKE IM 007 WEDNESDAY | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-22T08:35:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kgSo1FO_hhw/hqdefault.jpg",
-      "duration": "PT6H59M7S",
-      "duration_seconds": 25147,
-      "view_count": 635797,
-      "like_count": 16181,
-      "comment_count": 27,
+      "video_id": "fWeRcr3mX44",
+      "title": "Random Horror Games",
+      "description": "Over 2500 theaters now ► https://ironlung.com",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-01-22T03:44:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fWeRcr3mX44/hqdefault.jpg",
+      "duration": "PT1H51M42S",
+      "duration_seconds": 6702,
+      "view_count": 441540,
+      "like_count": 35336,
+      "comment_count": 766,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "markiplier",
+        "iron lung",
+        "horror games",
+        "scary games",
+        "random"
       ],
-      "url": "https://www.youtube.com/watch?v=kgSo1FO_hhw"
+      "url": "https://www.youtube.com/watch?v=fWeRcr3mX44"
     },
     {
       "video_id": "KBxF7jPjSsI",
@@ -71,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KBxF7jPjSsI/hqdefault.jpg",
       "duration": "PT2M1S",
       "duration_seconds": 121,
-      "view_count": 49726,
-      "like_count": 4908,
-      "comment_count": 227,
+      "view_count": 52577,
+      "like_count": 5089,
+      "comment_count": 236,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
@@ -88,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i1fqbyMXt1Y/hqdefault.jpg",
       "duration": "PT2M59S",
       "duration_seconds": 179,
-      "view_count": 485193,
-      "like_count": 35788,
-      "comment_count": 4201,
+      "view_count": 533397,
+      "like_count": 37810,
+      "comment_count": 4372,
       "category_id": "20",
       "tags": [
         "street fighter 6",
@@ -102,27 +104,21 @@
       "url": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
     },
     {
-      "video_id": "fWeRcr3mX44",
-      "title": "Random Horror Games",
-      "description": "Over 2500 theaters now ► https://ironlung.com",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-01-22T03:44:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fWeRcr3mX44/hqdefault.jpg",
-      "duration": "PT1H51M42S",
-      "duration_seconds": 6702,
-      "view_count": 363952,
-      "like_count": 32312,
-      "comment_count": 633,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "iron lung",
-        "horror games",
-        "scary games",
-        "random"
-      ],
-      "url": "https://www.youtube.com/watch?v=fWeRcr3mX44"
+      "video_id": "3ZAXqR10ZKE",
+      "title": "Deadpool & Wolverine",
+      "description": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse. He soon unites with his would-be pal, Wolverine, to complete the mission and save his world from an existential threat.",
+      "channel_title": "FX",
+      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
+      "published_at": "2026-01-22T07:26:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ZAXqR10ZKE/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
     },
     {
       "video_id": "n1Q9rV0RV4k",
@@ -134,9 +130,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n1Q9rV0RV4k/hqdefault.jpg",
       "duration": "PT4M9S",
       "duration_seconds": 249,
-      "view_count": 295630,
-      "like_count": 1302,
-      "comment_count": 17,
+      "view_count": 311704,
+      "like_count": 1371,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "don't stop believin'",
@@ -162,9 +158,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3Qy3AqQK-3E/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 564318,
-      "like_count": 10165,
-      "comment_count": 1299,
+      "view_count": 593262,
+      "like_count": 10441,
+      "comment_count": 1348,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -181,25 +177,36 @@
       "url": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
     },
     {
-      "video_id": "3ZAXqR10ZKE",
-      "title": "Deadpool & Wolverine",
-      "description": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse. He soon unites with his would-be pal, Wolverine, to complete the mission and save his world from an existential threat.",
-      "channel_title": "FX",
-      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-01-22T07:26:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ZAXqR10ZKE/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
+      "video_id": "8b1qEsQIapI",
+      "title": "NO JOHN PORK NOOOOO",
+      "description": "Liar's Bar is so back\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@BlargMyShnoople \n@mcnasty \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sounds.org/\n\nEdited by: https://www.youtube.com/@WiddasTy\nThumbnail Mil",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-01-21T20:13:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8b1qEsQIapI/hqdefault.jpg",
+      "duration": "PT33M51S",
+      "duration_seconds": 2031,
+      "view_count": 725263,
+      "like_count": 50523,
+      "comment_count": 1230,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "liar's bar",
+        "liar's bar gameplay",
+        "liar's bar roulette",
+        "liar's bar game",
+        "liar's bar dice game",
+        "liar's bar funny moments"
+      ],
+      "url": "https://www.youtube.com/watch?v=8b1qEsQIapI"
     },
     {
       "video_id": "2Ag4H4WxoxU",
-      "title": "He-Man: Masters Of The Universe - Teaser Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept ",
+      "title": "He-Man: Masters Of The Universe - Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept",
       "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— He-Man: Masters Of The Universe\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Masters of the Universe, the legendary saga is reimagined as a grounded, character-driven story of identity and destiny. Prince Adam, portrayed by Nicholas Galitzine, begins his journey on Earth, unaware of his true heritage as the alien prince of Eternia. As his",
       "channel_title": "Teaser Universe",
       "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
@@ -207,9 +214,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2Ag4H4WxoxU/hqdefault.jpg",
       "duration": "PT1M2S",
       "duration_seconds": 62,
-      "view_count": 287093,
-      "like_count": 2140,
-      "comment_count": 305,
+      "view_count": 319332,
+      "like_count": 2365,
+      "comment_count": 333,
       "category_id": "1",
       "tags": [
         "masters of the universe",
@@ -226,80 +233,36 @@
       "url": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
     },
     {
-      "video_id": "8b1qEsQIapI",
-      "title": "NO JOHN PORK NOOOOO",
-      "description": "Liar's Bar is so back\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@BlargMyShnoople \n@mcnasty \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sounds.org/\n\nEdited by: https://www.youtube.com/@WiddasTy\nThumbnail Mil",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-01-21T20:13:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8b1qEsQIapI/hqdefault.jpg",
-      "duration": "PT33M51S",
-      "duration_seconds": 2031,
-      "view_count": 671278,
-      "like_count": 47673,
-      "comment_count": 1203,
+      "video_id": "tGeATNyMFn4",
+      "title": "Somethings Wrong At This Diner…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-01-21T23:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tGeATNyMFn4/hqdefault.jpg",
+      "duration": "PT2H18M49S",
+      "duration_seconds": 8329,
+      "view_count": 240761,
+      "like_count": 9008,
+      "comment_count": 694,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "liar's bar",
-        "liar's bar gameplay",
-        "liar's bar roulette",
-        "liar's bar game",
-        "liar's bar dice game",
-        "liar's bar funny moments"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=8b1qEsQIapI"
+      "url": "https://www.youtube.com/watch?v=tGeATNyMFn4"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
-    {
-      "video_id": "kgSo1FO_hhw",
-      "title": "🔴LIVE | CERTIFIED GOOP GETTER | WACK MY JUNK WITH A KNOTTED ROPE LIKE IM 007 WEDNESDAY | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-22T08:35:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kgSo1FO_hhw/hqdefault.jpg",
-      "duration": "PT6H59M7S",
-      "duration_seconds": 25147,
-      "view_count": 635797,
-      "like_count": 16181,
-      "comment_count": 27,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=kgSo1FO_hhw"
-    },
-    {
-      "video_id": "i1fqbyMXt1Y",
-      "title": "Street Fighter 6 - Alex Gameplay Trailer",
-      "description": "Alex, the Big Apple brawler, will make his descent into the ring of Street Fighter 6 on March 17!\n\nNo use holding back when faced with the Dark Devil himself, as he'll show you no mercy with his array of devastatingly powerful throws!\n\nAlex can be purchased individually with Fighter Coins and the owners of the Year 3 Character Pass / Ultimate Pass will automatically get access to Alex when he releases.\n\nhttps://www.streetfighter.com/6/\n\n#StreetFighter6 #SF6 #Alex #Capcom\n\nTwitter: http://www.twitter.com/streetfighter\nDiscord: https://discord.gg/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-      "channel_title": "Street Fighter",
-      "channel_id": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
-      "published_at": "2026-01-21T22:58:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i1fqbyMXt1Y/hqdefault.jpg",
-      "duration": "PT2M59S",
-      "duration_seconds": 179,
-      "view_count": 485193,
-      "like_count": 35788,
-      "comment_count": 4201,
-      "category_id": "20",
-      "tags": [
-        "street fighter 6",
-        "sf6",
-        "capcom",
-        "alex",
-        "street fighter"
-      ],
-      "url": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
-    },
     {
       "video_id": "fWeRcr3mX44",
       "title": "Random Horror Games",
@@ -310,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fWeRcr3mX44/hqdefault.jpg",
       "duration": "PT1H51M42S",
       "duration_seconds": 6702,
-      "view_count": 363952,
-      "like_count": 32312,
-      "comment_count": 633,
+      "view_count": 441540,
+      "like_count": 35336,
+      "comment_count": 766,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -324,6 +287,29 @@
       "url": "https://www.youtube.com/watch?v=fWeRcr3mX44"
     },
     {
+      "video_id": "i1fqbyMXt1Y",
+      "title": "Street Fighter 6 - Alex Gameplay Trailer",
+      "description": "Alex, the Big Apple brawler, will make his descent into the ring of Street Fighter 6 on March 17!\n\nNo use holding back when faced with the Dark Devil himself, as he'll show you no mercy with his array of devastatingly powerful throws!\n\nAlex can be purchased individually with Fighter Coins and the owners of the Year 3 Character Pass / Ultimate Pass will automatically get access to Alex when he releases.\n\nhttps://www.streetfighter.com/6/\n\n#StreetFighter6 #SF6 #Alex #Capcom\n\nTwitter: http://www.twitter.com/streetfighter\nDiscord: https://discord.gg/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+      "channel_title": "Street Fighter",
+      "channel_id": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "published_at": "2026-01-21T22:58:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i1fqbyMXt1Y/hqdefault.jpg",
+      "duration": "PT2M59S",
+      "duration_seconds": 179,
+      "view_count": 533397,
+      "like_count": 37810,
+      "comment_count": 4372,
+      "category_id": "20",
+      "tags": [
+        "street fighter 6",
+        "sf6",
+        "capcom",
+        "alex",
+        "street fighter"
+      ],
+      "url": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
+    },
+    {
       "video_id": "3ZAXqR10ZKE",
       "title": "Deadpool & Wolverine",
       "description": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse. He soon unites with his would-be pal, Wolverine, to complete the mission and save his world from an existential threat.",
@@ -341,34 +327,6 @@
       "url": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
     },
     {
-      "video_id": "2Ag4H4WxoxU",
-      "title": "He-Man: Masters Of The Universe - Teaser Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept ",
-      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— He-Man: Masters Of The Universe\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Masters of the Universe, the legendary saga is reimagined as a grounded, character-driven story of identity and destiny. Prince Adam, portrayed by Nicholas Galitzine, begins his journey on Earth, unaware of his true heritage as the alien prince of Eternia. As his",
-      "channel_title": "Teaser Universe",
-      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
-      "published_at": "2026-01-21T16:46:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Ag4H4WxoxU/hqdefault.jpg",
-      "duration": "PT1M2S",
-      "duration_seconds": 62,
-      "view_count": 287093,
-      "like_count": 2140,
-      "comment_count": 305,
-      "category_id": "1",
-      "tags": [
-        "masters of the universe",
-        "masters of the universe 2026",
-        "masters of the universe 2026 trailer",
-        "masters of the universe 2026 teaser",
-        "Masters of the Universe",
-        "masters of the universe 2026 cast",
-        "masters of the universe 2026 movie",
-        "masters of the universe 2026 skeletor",
-        "he man and the masters of the universe movie 2026",
-        "heman nicholas galitzine"
-      ],
-      "url": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
-    },
-    {
       "video_id": "8b1qEsQIapI",
       "title": "NO JOHN PORK NOOOOO",
       "description": "Liar's Bar is so back\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@BlargMyShnoople \n@mcnasty \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sounds.org/\n\nEdited by: https://www.youtube.com/@WiddasTy\nThumbnail Mil",
@@ -378,9 +336,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8b1qEsQIapI/hqdefault.jpg",
       "duration": "PT33M51S",
       "duration_seconds": 2031,
-      "view_count": 671278,
-      "like_count": 47673,
-      "comment_count": 1203,
+      "view_count": 725263,
+      "like_count": 50523,
+      "comment_count": 1230,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -397,6 +355,62 @@
       "url": "https://www.youtube.com/watch?v=8b1qEsQIapI"
     },
     {
+      "video_id": "2Ag4H4WxoxU",
+      "title": "He-Man: Masters Of The Universe - Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept",
+      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— He-Man: Masters Of The Universe\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Masters of the Universe, the legendary saga is reimagined as a grounded, character-driven story of identity and destiny. Prince Adam, portrayed by Nicholas Galitzine, begins his journey on Earth, unaware of his true heritage as the alien prince of Eternia. As his",
+      "channel_title": "Teaser Universe",
+      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
+      "published_at": "2026-01-21T16:46:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Ag4H4WxoxU/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 319332,
+      "like_count": 2365,
+      "comment_count": 333,
+      "category_id": "1",
+      "tags": [
+        "masters of the universe",
+        "masters of the universe 2026",
+        "masters of the universe 2026 trailer",
+        "masters of the universe 2026 teaser",
+        "Masters of the Universe",
+        "masters of the universe 2026 cast",
+        "masters of the universe 2026 movie",
+        "masters of the universe 2026 skeletor",
+        "he man and the masters of the universe movie 2026",
+        "heman nicholas galitzine"
+      ],
+      "url": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
+    },
+    {
+      "video_id": "tGeATNyMFn4",
+      "title": "Somethings Wrong At This Diner…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-01-21T23:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tGeATNyMFn4/hqdefault.jpg",
+      "duration": "PT2H18M49S",
+      "duration_seconds": 8329,
+      "view_count": 240761,
+      "like_count": 9008,
+      "comment_count": 694,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=tGeATNyMFn4"
+    },
+    {
       "video_id": "htOpBAhwMhk",
       "title": "MASTERS OF THE UNIVERSE Official Teaser Trailer (2026)",
       "description": "Official Masters of the Universe Movie Teaser Trailer 2026 | More ➤ https://KinoCheck.com/App | Nicholas Galitzine Movie Trailer | Cinema: 5 Jun 2026 | Details ➤ https://KinoCheck.com/movie/2s7/masters-of-the-universe-2026?utm_source=youtube&utm_medium=description\nAn orphan named Adam discovers he is a prince destined to be the savior of a faraway land and must quickly learn of his power and the importance of saving his true home from an evil force.\n\nMasters of the Universe (2026) is the new fantasy movie by Aaron Nee & Adam Nee, starring Nicholas Galitzine, Jared Leto and Camila Mendes. The script was written by Lindsey Beer..\n\nNote | #MastersoftheUniverse #Teaser Trailer courtesy of Sony Pictures. | All Rights Reserved. #KinoCheck®",
@@ -406,9 +420,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/htOpBAhwMhk/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 334763,
-      "like_count": 3696,
-      "comment_count": 768,
+      "view_count": 361738,
+      "like_count": 3873,
+      "comment_count": 809,
       "category_id": "24",
       "tags": [
         "2026",
@@ -434,9 +448,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KBxF7jPjSsI/hqdefault.jpg",
       "duration": "PT2M1S",
       "duration_seconds": 121,
-      "view_count": 49726,
-      "like_count": 4908,
-      "comment_count": 227,
+      "view_count": 52577,
+      "like_count": 5089,
+      "comment_count": 236,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
@@ -451,9 +465,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n1Q9rV0RV4k/hqdefault.jpg",
       "duration": "PT4M9S",
       "duration_seconds": 249,
-      "view_count": 295630,
-      "like_count": 1302,
-      "comment_count": 17,
+      "view_count": 311704,
+      "like_count": 1371,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "don't stop believin'",
@@ -479,9 +493,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3Qy3AqQK-3E/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 564318,
-      "like_count": 10165,
-      "comment_count": 1299,
+      "view_count": 593262,
+      "like_count": 10441,
+      "comment_count": 1348,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -501,67 +515,80 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
+      "video_analysis": {
         "total_videos": 10,
-        "total_views": 3687750,
-        "average_views_per_video": 368775
+        "total_views": 3579574,
+        "average_views_per_video": 357957.4,
+        "categories": "Mixed/Unknown"
       },
-      "content_trends": {
-        "movie_trailers": {
-          "count": 3,
-          "examples": [
+      "trending_themes": {
+        "entertainment": {
+          "description": "A significant portion of the trending videos are related to entertainment, specifically trailers and music.",
+          "evidence": [
             "MASTERS OF THE UNIVERSE Official Teaser Trailer (2026)",
-            "When times were simpler… Teaser Trailer Tomorrow | Masters of The Universe",
-            "He-Man: Masters Of The Universe - Teaser Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept"
+            "Street Fighter 6 - Alex Gameplay Trailer",
+            "He-Man: Masters Of The Universe - Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept",
+            "Journey - Don't Stop Believin' (Lyrics)"
           ],
-          "insights": "Movie trailers, especially those for upcoming blockbusters or iconic franchises, continue to capture significant attention. The presence of multiple 'Masters of the Universe' related videos suggests a renewed interest in nostalgic content."
+          "insights": "Trailers and music content consistently draw high engagement, suggesting a strong audience interest in nostalgia and popular franchises."
         },
         "gaming": {
-          "count": 2,
-          "examples": [
-            "Street Fighter 6 - Alex Gameplay Trailer",
-            "Random Horror Games"
+          "description": "Gaming content continues to be a significant trend.",
+          "evidence": [
+            "Random Horror Games",
+            "Street Fighter 6 - Alex Gameplay Trailer"
           ],
-          "insights": "Gaming content remains popular, with both major franchise updates (e.g., Street Fighter) and general gaming content (e.g., horror games) attracting views. This indicates opportunities for gaming-centric channels to capitalize on major releases and niche gameplay experiences."
+          "insights": "There's a notable interest in gaming, particularly new releases and gameplay trailers."
         },
         "music": {
-          "count": 2,
-          "examples": [
+          "description": "Music videos maintain a strong presence in trending content.",
+          "evidence": [
             "Fox BD - Free Jr. Foxx (Official Music Video)",
             "Journey - Don't Stop Believin' (Lyrics)"
           ],
-          "insights": "Music videos and lyric videos maintain consistent viewer engagement. Established songs and new releases both have potential for significant traction."
+          "insights": "Music videos, especially those with strong narrative or nostalgic elements, tend to perform well."
         },
-        "live streaming": {
-          "count": 1,
-          "examples": [
-            "🔴LIVE | CERTIFIED GOOP GETTER | WACK MY JUNK WITH A KNOTTED ROPE LIKE IM 007 WEDNESDAY | #BUNGULATE"
+        "unique_titles": {
+          "description": "Titles with unique or quirky names capture attention.",
+          "evidence": [
+            "NO JOHN PORK NOOOOO",
+            "Somethings Wrong At This Diner…"
           ],
-          "insights": "Live streaming content, especially with unique or quirky titles, can generate interest and engagement, indicating opportunities for creators to explore live interactions and experimental formats."
-        },
-        "humor/meme": {
-          "count": 1,
-          "examples": [
-            "NO JOHN PORK NOOOOO"
-          ],
-          "insights": "Humor and meme content continue to resonate with audiences, highlighting the potential for virality and engagement through relatable and comedic material."
+          "insights": "Creative and unconventional titles can intrigue viewers and increase click-through rates."
         }
       },
       "creator_patterns": {
-        "diversity_in_content": "The trending videos come from a diverse range of creators, each contributing a unique type of content, from trailers to live streams and music.",
-        "channel_insights": {
-          "KinoCheck.com": "Focuses on movie trailers, leveraging popular and upcoming films for engagement.",
-          "TheBurntPeanut": "Utilizes live streaming with a focus on unique, eye-catching titles.",
-          "BD628": "Produces music content, indicating a niche in music video production or promotion.",
-          "Street Fighter": "Capitalizes on gaming content, particularly in showcasing gameplay trailers.",
-          "Markiplier": "Known for gaming content, potentially leveraging trending games for engagement."
+        "top_channels": {
+          "description": "Channels with a strong brand or niche tend to appear in trending lists.",
+          "evidence": [
+            "KinoCheck.com",
+            "Markiplier",
+            "Street Fighter"
+          ],
+          "insights": "Building a strong brand presence and focusing on niche content can increase the likelihood of trending."
+        },
+        "diversified content": {
+          "description": "Channels covering diverse topics or having a varied content library tend to trend.",
+          "evidence": [
+            "Markiplier covering gaming",
+            "KinoCheck.com focusing on trailers"
+          ],
+          "insights": "Diversifying content offerings can help reach broader audiences and increase engagement."
         }
       },
       "market_opportunities": {
-        "nostalgia": "Content related to nostalgic franchises like 'Masters of the Universe' can be leveraged for increased viewership, particularly around significant releases or anniversaries.",
-        "gaming_releases": "Aligning content with major gaming releases or updates can drive traffic and engagement.",
-        "live_interactions": "There is a growing opportunity in live streaming, especially with engaging, unusual, or interactive content formats.",
-        "humor_and_memes": "Investing in humor and meme-driven content can result in high engagement and potential virality."
+        "nostalgia": {
+          "description": "Content that taps into nostalgia has high engagement potential.",
+          "opportunity": "Create content that revisits popular themes, music, and franchises from the past."
+        },
+        "gaming": {
+          "description": "The gaming industry continues to thrive with high viewer engagement.",
+          "opportunity": "Develop content around new game releases, gameplay strategies, and reviews."
+        },
+        "innovative_titles": {
+          "description": "Unique and intriguing video titles can drive viewer interest.",
+          "opportunity": "Experiment with creative and unconventional titles to boost click-through rates."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -569,7 +596,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 368775
+        "avg_views_per_video": 357957
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
