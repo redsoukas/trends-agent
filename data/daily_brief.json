@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-24T09:09:21.952445",
+  "timestamp": "2026-01-24T12:14:51.779707",
   "date": "2026-01-24",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 1666243,
-      "like_count": 251949,
-      "comment_count": 18404,
+      "view_count": 1800778,
+      "like_count": 264193,
+      "comment_count": 19021,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -41,21 +41,25 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
-      "video_id": "KqOQ_Quy5Sw",
-      "title": "Back to the Future",
-      "description": "In this 1980s sci-fi classic, small-town California teen Marty McFly (Michael J. Fox) is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown (Christopher Lloyd) goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents (Crispin Glover, Lea Thompson), and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-10T01:08:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqOQ_Quy5Sw/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
+      "video_id": "HVAPQZYym-Q",
+      "title": "🔴LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-01-24T09:44:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HVAPQZYym-Q/hqdefault.jpg",
+      "duration": "PT7H59M24S",
+      "duration_seconds": 28764,
+      "view_count": 908731,
+      "like_count": 17136,
+      "comment_count": 43,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
     },
     {
       "video_id": "ZmEx7wQI6RY",
@@ -67,9 +71,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 12603360,
-      "like_count": 77654,
-      "comment_count": 14558,
+      "view_count": 12845286,
+      "like_count": 78243,
+      "comment_count": 14637,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -86,23 +90,21 @@
       "url": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
     },
     {
-      "video_id": "sJ_VD7Lz2rU",
-      "title": "Quarantine Zone  - Part 2",
-      "description": "I got some nifty new gadgets in Quarantine Zone\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-01-23T18:05:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sJ_VD7Lz2rU/hqdefault.jpg",
-      "duration": "PT1H32M32S",
-      "duration_seconds": 5552,
-      "view_count": 352916,
-      "like_count": 25846,
-      "comment_count": 1523,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
+      "video_id": "KqOQ_Quy5Sw",
+      "title": "Back to the Future",
+      "description": "In this 1980s sci-fi classic, small-town California teen Marty McFly (Michael J. Fox) is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown (Christopher Lloyd) goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents (Crispin Glover, Lea Thompson), and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-24T10:27:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KqOQ_Quy5Sw/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
     },
     {
       "video_id": "oonACDq89BY",
@@ -114,29 +116,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oonACDq89BY/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 2917987,
-      "like_count": 160493,
-      "comment_count": 9723,
+      "view_count": 2969437,
+      "like_count": 162092,
+      "comment_count": 9809,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=oonACDq89BY"
     },
     {
-      "video_id": "yjued1PlhRY",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brainrot givea",
-      "channel_title": "Fridonic",
-      "channel_id": "UCdqyA7s-WBsgFamaEEu8GZg",
-      "published_at": "2026-01-24T02:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yjued1PlhRY/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 845952,
-      "like_count": 4219,
-      "comment_count": 17,
+      "video_id": "sJ_VD7Lz2rU",
+      "title": "Quarantine Zone  - Part 2",
+      "description": "I got some nifty new gadgets in Quarantine Zone\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-01-23T18:05:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sJ_VD7Lz2rU/hqdefault.jpg",
+      "duration": "PT1H32M32S",
+      "duration_seconds": 5552,
+      "view_count": 410732,
+      "like_count": 27767,
+      "comment_count": 1605,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yjued1PlhRY"
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
     },
     {
       "video_id": "Et4clt5xdI4",
@@ -148,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et4clt5xdI4/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 531122,
-      "like_count": 27521,
-      "comment_count": 1153,
+      "view_count": 559853,
+      "like_count": 28319,
+      "comment_count": 1177,
       "category_id": "1",
       "tags": [
         "2026",
@@ -167,32 +171,21 @@
       "url": "https://www.youtube.com/watch?v=Et4clt5xdI4"
     },
     {
-      "video_id": "rQiqP4dY-ms",
-      "title": "I GOT #1 Leadboard in Escape Tsunami For Brainrots..",
-      "description": "Merch:  https://shopcaylus.com/ \n\nMy Roblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\nMy Roblox Game: https://www.roblox.com/games/98868317791094/DUMP-ALPHA\n\nDump Discord: https://discord.com/invite/dumpgame\n\nWaterpark Simulator: https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n\nMy Discord Server: https://discord.gg/infinite\n\nMy Secret Roblox Channel: https://www.youtube.com/@CaylusBloxTopVids\n\nInstagram: https://www.instagram.com/caylus/?hl=en\n\nTwitter: https://x.com/caylusq",
-      "channel_title": "CaylusBlox",
-      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
-      "published_at": "2026-01-23T18:31:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rQiqP4dY-ms/hqdefault.jpg",
-      "duration": "PT18M10S",
-      "duration_seconds": 1090,
-      "view_count": 798034,
-      "like_count": 18036,
-      "comment_count": 1879,
+      "video_id": "yjued1PlhRY",
+      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brainrot givea",
+      "channel_title": "Fridonic",
+      "channel_id": "UCdqyA7s-WBsgFamaEEu8GZg",
+      "published_at": "2026-01-24T02:40:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yjued1PlhRY/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 846150,
+      "like_count": 4215,
+      "comment_count": 20,
       "category_id": "20",
-      "tags": [
-        "caylusblox",
-        "caylus roblox",
-        "caylus",
-        "caylus gaming",
-        "caylus infinite",
-        "infinite lists",
-        "calus",
-        "callus",
-        "calis",
-        "roblox"
-      ],
-      "url": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=yjued1PlhRY"
     },
     {
       "video_id": "ZnfUeVeMKjY",
@@ -204,9 +197,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZnfUeVeMKjY/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 2231682,
-      "like_count": 151850,
-      "comment_count": 8024,
+      "view_count": 2304781,
+      "like_count": 154595,
+      "comment_count": 8117,
       "category_id": "24",
       "tags": [
         "invincible season 4 official trailer",
@@ -232,9 +225,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/A6VL85vEcvg/hqdefault.jpg",
       "duration": "PT47M14S",
       "duration_seconds": 2834,
-      "view_count": 220871,
-      "like_count": 8569,
-      "comment_count": 791,
+      "view_count": 295768,
+      "like_count": 10474,
+      "comment_count": 893,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -258,9 +251,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 1666243,
-      "like_count": 251949,
-      "comment_count": 18404,
+      "view_count": 1800778,
+      "like_count": 264193,
+      "comment_count": 19021,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -277,6 +270,27 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
+      "video_id": "HVAPQZYym-Q",
+      "title": "🔴LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-01-24T09:44:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HVAPQZYym-Q/hqdefault.jpg",
+      "duration": "PT7H59M24S",
+      "duration_seconds": 28764,
+      "view_count": 908731,
+      "like_count": 17136,
+      "comment_count": 43,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
+    },
+    {
       "video_id": "ZmEx7wQI6RY",
       "title": "Masters of The Universe – Official Teaser Trailer",
       "description": "Discover your true power. Watch the Teaser Trailer for Masters Of The Universe now, and see the movie only in theaters June 5.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nF",
@@ -286,9 +300,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 12603360,
-      "like_count": 77654,
-      "comment_count": 14558,
+      "view_count": 12845286,
+      "like_count": 78243,
+      "comment_count": 14637,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -305,23 +319,21 @@
       "url": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
     },
     {
-      "video_id": "sJ_VD7Lz2rU",
-      "title": "Quarantine Zone  - Part 2",
-      "description": "I got some nifty new gadgets in Quarantine Zone\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-01-23T18:05:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sJ_VD7Lz2rU/hqdefault.jpg",
-      "duration": "PT1H32M32S",
-      "duration_seconds": 5552,
-      "view_count": 352916,
-      "like_count": 25846,
-      "comment_count": 1523,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
+      "video_id": "KqOQ_Quy5Sw",
+      "title": "Back to the Future",
+      "description": "In this 1980s sci-fi classic, small-town California teen Marty McFly (Michael J. Fox) is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown (Christopher Lloyd) goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents (Crispin Glover, Lea Thompson), and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-24T10:27:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KqOQ_Quy5Sw/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
     },
     {
       "video_id": "oonACDq89BY",
@@ -333,40 +345,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oonACDq89BY/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 2917987,
-      "like_count": 160493,
-      "comment_count": 9723,
+      "view_count": 2969437,
+      "like_count": 162092,
+      "comment_count": 9809,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=oonACDq89BY"
     },
     {
-      "video_id": "rQiqP4dY-ms",
-      "title": "I GOT #1 Leadboard in Escape Tsunami For Brainrots..",
-      "description": "Merch:  https://shopcaylus.com/ \n\nMy Roblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\nMy Roblox Game: https://www.roblox.com/games/98868317791094/DUMP-ALPHA\n\nDump Discord: https://discord.com/invite/dumpgame\n\nWaterpark Simulator: https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n\nMy Discord Server: https://discord.gg/infinite\n\nMy Secret Roblox Channel: https://www.youtube.com/@CaylusBloxTopVids\n\nInstagram: https://www.instagram.com/caylus/?hl=en\n\nTwitter: https://x.com/caylusq",
-      "channel_title": "CaylusBlox",
-      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
-      "published_at": "2026-01-23T18:31:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rQiqP4dY-ms/hqdefault.jpg",
-      "duration": "PT18M10S",
-      "duration_seconds": 1090,
-      "view_count": 798034,
-      "like_count": 18036,
-      "comment_count": 1879,
+      "video_id": "sJ_VD7Lz2rU",
+      "title": "Quarantine Zone  - Part 2",
+      "description": "I got some nifty new gadgets in Quarantine Zone\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-01-23T18:05:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sJ_VD7Lz2rU/hqdefault.jpg",
+      "duration": "PT1H32M32S",
+      "duration_seconds": 5552,
+      "view_count": 410732,
+      "like_count": 27767,
+      "comment_count": 1605,
       "category_id": "20",
       "tags": [
-        "caylusblox",
-        "caylus roblox",
-        "caylus",
-        "caylus gaming",
-        "caylus infinite",
-        "infinite lists",
-        "calus",
-        "callus",
-        "calis",
-        "roblox"
+        "jacksepticeye"
       ],
-      "url": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
+      "url": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
     },
     {
       "video_id": "ZnfUeVeMKjY",
@@ -378,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZnfUeVeMKjY/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 2231682,
-      "like_count": 151850,
-      "comment_count": 8024,
+      "view_count": 2304781,
+      "like_count": 154595,
+      "comment_count": 8117,
       "category_id": "24",
       "tags": [
         "invincible season 4 official trailer",
@@ -406,9 +409,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/A6VL85vEcvg/hqdefault.jpg",
       "duration": "PT47M14S",
       "duration_seconds": 2834,
-      "view_count": 220871,
-      "like_count": 8569,
-      "comment_count": 791,
+      "view_count": 295768,
+      "like_count": 10474,
+      "comment_count": 893,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -420,40 +423,6 @@
       "url": "https://www.youtube.com/watch?v=A6VL85vEcvg"
     },
     {
-      "video_id": "KqOQ_Quy5Sw",
-      "title": "Back to the Future",
-      "description": "In this 1980s sci-fi classic, small-town California teen Marty McFly (Michael J. Fox) is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown (Christopher Lloyd) goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents (Crispin Glover, Lea Thompson), and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-10T01:08:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqOQ_Quy5Sw/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
-    },
-    {
-      "video_id": "yjued1PlhRY",
-      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brainrot givea",
-      "channel_title": "Fridonic",
-      "channel_id": "UCdqyA7s-WBsgFamaEEu8GZg",
-      "published_at": "2026-01-24T02:40:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yjued1PlhRY/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 845952,
-      "like_count": 4219,
-      "comment_count": 17,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yjued1PlhRY"
-    },
-    {
       "video_id": "Et4clt5xdI4",
       "title": "Supergirl | Blast Off :30",
       "description": "It’s called making an entrance. #Supergirl lands in theaters and IMAX June 26.\n\n“Supergirl,” DC Studios’ newest feature film to hit the big screen, will be in theaters worldwide this summer from Warner Bros. Pictures, starring Milly Alcock in the dual role of Supergirl/Kara Zor-El. Craig Gillespie directs the film from a screenplay by Ana Nogueira.\n\nWhen an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.\n\nAlcock stars alongside Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, and Jason Momoa. DC Studios heads Peter Safran and James Gunn are producing the film, which is based on characters from DC, Supergirl based on characters created by Jerry Siegel and Joe Shuster.\n\nThe film is executive produced by Nigel Gostelow, Chantal Nong Vo and Lars P. Winther. Behind the camera, Gillespie is joined by director of photography R",
@@ -463,9 +432,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et4clt5xdI4/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 531122,
-      "like_count": 27521,
-      "comment_count": 1153,
+      "view_count": 559853,
+      "like_count": 28319,
+      "comment_count": 1177,
       "category_id": "1",
       "tags": [
         "2026",
@@ -480,66 +449,109 @@
         "Jason Momoa"
       ],
       "url": "https://www.youtube.com/watch?v=Et4clt5xdI4"
+    },
+    {
+      "video_id": "yjued1PlhRY",
+      "title": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+      "description": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS (ROBLOX)\n\nsteal a brainrot, steal a brainrot tips, steal a brainrot code, steal a brainrot hack, steal a brainrot magma, steal a brainrot codes, steal a brainrot owner, caylus steal a brainrot, steal a brainrot roblox, roblox steal a brainrot, steal a brainrot secret, steal a brainrot update, steal a brainrot script, steal a brainrot modded, steal a brainrot glitch, modded steal a brainrot, steal a brainrot hidden, steal a brainrot rainbow, steal a brainrot exploit, vindooly steal a brainrot, steal a brainrot vindooly, how to get free secrets in steal a brainrot, steal a brainrot giveaway live, steal a brainrot live, steal a brainrot update, steal a brainrot live stream, steal a brainrot free secrets, how to get secrets in steal a brainrot roblox, how to get free brainrot gods in steal a brainrot, roblox steal a brainrot, steal a brainrot roblox, streal a brainrot roblox giveaway, steal a brainrot givea",
+      "channel_title": "Fridonic",
+      "channel_id": "UCdqyA7s-WBsgFamaEEu8GZg",
+      "published_at": "2026-01-24T02:40:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yjued1PlhRY/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 846150,
+      "like_count": 4215,
+      "comment_count": 20,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=yjued1PlhRY"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "trailer_dominance": {
-          "description": "A significant portion of trending videos are trailers or teasers for movies, TV shows, and games.",
-          "data": {
-            "trailer_videos": 5,
-            "total_videos": 10,
-            "percentage": 50
+      "contentTrends": {
+        "videoTypes": [
+          {
+            "type": "Trailer",
+            "count": 5,
+            "percentage": 50,
+            "description": "Half of the videos are trailers, indicating a strong trend towards promotional content for upcoming releases."
           },
-          "insights": "Trailers and teasers are highly engaging content on YouTube, likely due to their ability to generate excitement and anticipation for upcoming releases."
+          {
+            "type": "Live Stream",
+            "count": 2,
+            "percentage": 20,
+            "description": "Live streaming content accounts for 20% of the trending videos, showcasing its increasing popularity."
+          }
+        ],
+        "commonThemes": [
+          {
+            "theme": "Entertainment Franchises",
+            "examples": [
+              "Masters of The Universe",
+              "Star Wars",
+              "Back to the Future"
+            ],
+            "insight": "Established franchises continue to attract significant attention and viewership."
+          },
+          {
+            "theme": "Interactive and Engaging Content",
+            "examples": [
+              "🔴LIVE | She Raid My Arc Till I Dam Battleground",
+              "STEAL A BRAINROT GIVEAWAY LIVE"
+            ],
+            "insight": "Content that offers interactivity or a sense of community engagement is likely to trend."
+          }
+        ]
+      },
+      "creatorPatterns": {
+        "topChannels": {
+          "GLITCH": {
+            "videoCount": 1,
+            "contentType": "Trailer",
+            "description": "GLITCH is focusing on high-interest, promotional trailer content."
+          },
+          "Star Wars": {
+            "videoCount": 1,
+            "contentType": "Teaser Trailer",
+            "description": "Star Wars continues leveraging its vast fanbase by releasing teasers for upcoming content."
+          }
         },
-        "gaming_influence": {
-          "description": "Gaming-related content, including trailers and gameplay, appears frequently in trending videos.",
-          "data": {
-            "gaming_videos": 3,
-            "total_videos": 10,
-            "percentage": 30
-          },
-          "insights": "The gaming community remains a significant presence on YouTube, suggesting opportunities for content creators to focus on gaming-related themes for higher engagement."
-        },
-        "nostalgia_and_franchise_power": {
-          "description": "Videos related to established franchises and nostalgic content are trending.",
-          "data": {
-            "franchise_videos": 4,
-            "total_videos": 10,
-            "percentage": 40
-          },
-          "insights": "Leveraging popular franchises and nostalgia can be a successful strategy for content creators aiming to capture a broad audience."
+        "channelDiversity": {
+          "uniqueChannels": 5,
+          "totalVideos": 10,
+          "insight": "The trending list is dominated by a diverse set of creators, indicating no single channel monopolizes attention."
         }
       },
-      "creator_patterns": {
-        "diverse_content": {
-          "description": "Top channels feature a varied mix of content types, from trailers to gameplay and giveaways.",
-          "channels": [
-            "GLITCH",
-            "AMC",
-            "Amazon MGM Studios",
-            "jacksepticeye",
-            "Star Wars"
-          ],
-          "insights": "Channels are diversifying their content types to reach wider audiences, indicating that a varied content strategy could be beneficial for creators."
-        },
-        "brand_collaborations": {
-          "description": "Big brand channels like Star Wars and Amazon MGM Studios are leveraging their brand power to trend.",
-          "insights": "Collaborations with established brands can boost visibility and engagement, suggesting a potential partnership avenue for creators."
-        }
+      "marketOpportunities": {
+        "focusAreas": [
+          {
+            "area": "Trailer and Teaser Releases",
+            "opportunity": "Brands and creators can capitalize on the high engagement of trailer content by releasing more teasers and promotional videos."
+          },
+          {
+            "area": "Live Interactive Streams",
+            "opportunity": "Investing in live streaming technology and interactive content can increase viewer engagement and retention."
+          }
+        ],
+        "engagementStrategies": [
+          {
+            "strategy": "Leverage Established Franchises",
+            "action": "Collaborate with or create content around well-known franchises to tap into existing fanbases."
+          },
+          {
+            "strategy": "Audience Interaction",
+            "action": "Incorporate real-time audience interaction features to enhance live content appeal."
+          }
+        ]
       },
-      "market_opportunities": {
-        "emerging_trends": {
-          "description": "There is an increasing trend towards live interaction and engagement, as seen with giveaways and live content.",
-          "insights": "Incorporating live streams and interactive content could enhance viewer engagement and retention."
-        },
-        "audience_engagement": {
-          "description": "Interactive and competitive content, such as leaderboards and challenges, are attracting attention.",
-          "insights": "Creating content that allows viewers to participate or engage directly with creators can drive higher engagement metrics."
-        }
+      "dataSummary": {
+        "totalVideos": 10,
+        "totalViews": 22941516,
+        "averageViewsPerVideo": 2294151.6,
+        "insight": "The average view count per video indicates a high level of engagement, suggesting that the trending content is resonating well with the audience."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -547,7 +559,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2216816
+        "avg_views_per_video": 2294151
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
