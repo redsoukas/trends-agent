@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-25T18:12:24.169444",
+  "timestamp": "2026-01-25T21:08:35.460623",
   "date": "2026-01-25",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 1560689,
-      "like_count": 115455,
-      "comment_count": 9653,
+      "view_count": 1811201,
+      "like_count": 127319,
+      "comment_count": 10438,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yP5RGz_CRFM/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 540731,
-      "like_count": 58160,
-      "comment_count": 5209,
+      "view_count": 920006,
+      "like_count": 73903,
+      "comment_count": 6458,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 230649,
-      "like_count": 14255,
-      "comment_count": 1638,
+      "view_count": 252856,
+      "like_count": 15156,
+      "comment_count": 1771,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -86,21 +86,32 @@
       "url": "https://www.youtube.com/watch?v=SZhl5-ag0tA"
     },
     {
-      "video_id": "sbamuCeIpHg",
-      "title": "Star Wars: Attack of the Clones",
-      "description": "Set ten years after the events of \"The Phantom Menace,\" the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.",
-      "channel_title": "FX",
-      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-01-11T00:49:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbamuCeIpHg/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sbamuCeIpHg"
+      "video_id": "CU2HOhS9yOo",
+      "title": "I Became a Minecraft Killer",
+      "description": "it's time to ban minecraft's smartest player\n\nI Became a Minecraft Killer\n\nUnstable SMP:\n➜  @ParrotX2 \n➜  @Spokeishere \n➜  @FlameFragsMC \n➜  @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @LettuceK @PurpledMC @Boosfer \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.storyblocks.com), artlist ",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-01-25T14:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CU2HOhS9yOo/hqdefault.jpg",
+      "duration": "PT1H20M30S",
+      "duration_seconds": 4830,
+      "view_count": 1422907,
+      "like_count": 139340,
+      "comment_count": 22716,
+      "category_id": "20",
+      "tags": [
+        "wemmbu",
+        "flamefrags",
+        "unstable smp",
+        "wemmbu vs flamefrags",
+        "wemmbu unstable smp",
+        "wemmbu farlands",
+        "minecraft farlands",
+        "wemmbu minecraft",
+        "wemmbu orbital cannon",
+        "orbital strike cannon"
+      ],
+      "url": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
     },
     {
       "video_id": "-cKpkB3qcqo",
@@ -112,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 341583,
-      "like_count": 11486,
-      "comment_count": 943,
+      "view_count": 376781,
+      "like_count": 12068,
+      "comment_count": 987,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -131,25 +142,21 @@
       "url": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
     },
     {
-      "video_id": "xXAEVrLoaTs",
-      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-25T08:52:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
-      "duration": "PT7H13M30S",
-      "duration_seconds": 26010,
-      "view_count": 974833,
-      "like_count": 17912,
-      "comment_count": 134,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
+      "video_id": "KgMbiyy1vQI",
+      "title": "Star Wars: Revenge of the Sith",
+      "description": "It has been three years since the Clone Wars began. Jedi Master Obi-Wan Kenobi (Ewan McGregor) and Jedi Knight Anakin Skywalker (Hayden Christensen) rescue Chancellor Palpatine (Ian McDiarmid) from General Grievous, the commander of the droid armies, but Grievous escapes. Suspicions are raised within the Jedi Council concerning Chancellor Palpatine, with whom Anakin has formed a bond. Asked to spy on the chancellor, and full of bitterness toward the Jedi Council, Anakin embraces the Dark Side.",
+      "channel_title": "FX",
+      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
+      "published_at": "2026-01-11T00:49:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KgMbiyy1vQI/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KgMbiyy1vQI"
     },
     {
       "video_id": "V2Gx9icNQiA",
@@ -161,9 +168,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2485990,
-      "like_count": 324278,
-      "comment_count": 22505,
+      "view_count": 2550307,
+      "like_count": 329717,
+      "comment_count": 22783,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -180,77 +187,70 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
-      "video_id": "F0JgyHT9wN8",
-      "title": "This Game is Just Mario Party with Beans",
-      "description": "2026 is off to a rambunctious start. Like c’mon… Bean minigames? Yeah, I think so.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@soup \n@EthanhasYouTube \n@BlargMyShnoople \n@Trippayy \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-01-24T23:28:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
-      "duration": "PT35M31S",
-      "duration_seconds": 2131,
-      "view_count": 1153155,
-      "like_count": 56098,
-      "comment_count": 1760,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "bean there won that",
-        "bean there won that gameplay",
-        "gameplay bean there won that",
-        "bean there won that funny moments",
-        "bean there won that party game",
-        "party games"
-      ],
-      "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
-    },
-    {
-      "video_id": "VGbj02URLmE",
-      "title": "SUPERGIRL LOBO TRAILER 2026",
-      "description": "Supergirl Lobo Trailer 2026. Jason Momoa Lobo returns to the DC Movies after Aquaman Justice League. Lobo vs Supergirl, Lobo vs Superman, Lobo Powers & Abilities & Superman 2 Man Of Tomorrow Teaser ► https://bit.ly/AwesomeSubscribe\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=gAQBiAQB2AYlsAgC\nKnight Of The Seven Kingdoms Episode 1 https://www.youtube.com/watch?v=0EjIsAyA96k&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=gAQBiAQBsAgC\nKnight Of The Seven Kingdoms Episode 2 Trailer https://www.youtube.com/watch?v=ucPLdLZPb3g&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=gAQBiAQBsAgC\nAhsoka Season 2 Trailer https://www.youtube.com/watch?v=_58TzLy0L38&list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW&index=12&pp=gAQBiAQB2AaRA7AIAg%3D%3D\nThe Mandalorian & Grogu Trailer https://www.youtube.com/watch?v=O5UfCNVBk5g&list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW&index=1&pp=gAQBiAQBsAgC\nHouse Of The Dragon Season 3 Trailer ",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-01-25T02:26:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VGbj02URLmE/hqdefault.jpg",
-      "duration": "PT12M46S",
-      "duration_seconds": 766,
-      "view_count": 135260,
-      "like_count": 4714,
-      "comment_count": 513,
+      "video_id": "RlOXICpHr2M",
+      "title": "The NFL Today",
+      "description": "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+      "channel_title": "CW 69",
+      "channel_id": "UC99KUR8vlLdPRvkT8TzfYKQ",
+      "published_at": "2026-01-11T00:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RlOXICpHr2M/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=VGbj02URLmE"
+      "url": "https://www.youtube.com/watch?v=RlOXICpHr2M"
     },
     {
-      "video_id": "Udk48Sm60yE",
-      "title": "2 Minecraft Pros VS 1000 Hunters",
-      "description": "On the Unstable SMP, LettuceK is currently beating every other candidate in the election by 6,000 votes. The only way to beat him, is to bring Wemmbu back to spawn and prove that he's been lying this whole time. This is 2 Minecraft Pros VS 1000 Hunters. \n\nUnstable SMP:\n➜ ‪  @wemmbumc \n➜ ‪  @FlameFragsMC \n➜ ‪  @Spokeishere \n➜ ‪  @ParrotX2 \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @wemmbumc @LettuceK @TheobaldTheBird @CoinMonkeExtras @PurpledMC @Boosfer \n\nOriginal music by  @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 o",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-01-24T14:30:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
-      "duration": "PT1H10M58S",
-      "duration_seconds": 4258,
-      "view_count": 3506111,
-      "like_count": 196660,
-      "comment_count": 36005,
+      "video_id": "4ml1Qf4Bngw",
+      "title": "THE SUPER MARIO GALAXY MOVIE Trailer 2 (NEW 2026) 4K",
+      "description": "Official Website: https://www.thesupermariogalaxymovie.com\n\nNew galaxies. New friends. Yoshi joins the adventure. The Super Mario Galaxy Movie is only in theaters April 1.\n\nThe Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.\n \nThe film will be co-financed by Universal Pictures and Nintendo and will be released worldwide by Universal Pictures.\n\nThe Super Mario Galaxy Movie is directed by returning filmmakers Aaron Horvath and Michael Jelenic, from a screenplay by returning screenwriter Matthew Fogel, with Brian Tyler returning to compose the score.\n\nSUBSCRIBE for more ANIMATED videos here: www.youtube.com/@JoBloAnimatedVideos?sub_confirmation=1\n\nFootage Courtesy Of NBCUniversal Media, LLC.\n\n#TheSuperMarioG",
+      "channel_title": "JoBlo Animated Videos",
+      "channel_id": "UC2sxxXRBL5SgY0fI58BrOCA",
+      "published_at": "2026-01-25T14:13:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4ml1Qf4Bngw/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 125599,
+      "like_count": 4169,
+      "comment_count": 551,
+      "category_id": "1",
+      "tags": [
+        "THE SUPER MARIO GALAXY MOVIE Trailer",
+        "THE SUPER MARIO GALAXY MOVIE Title",
+        "THE SUPER MARIO",
+        "Princess Peach",
+        "Anya Taylor-Joy",
+        "Mario",
+        "Chris Pratt",
+        "Bowser",
+        "Jack Black",
+        "Toad"
+      ],
+      "url": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
+    },
+    {
+      "video_id": "xXAEVrLoaTs",
+      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-01-25T08:52:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
+      "duration": "PT7H13M30S",
+      "duration_seconds": 26010,
+      "view_count": 1001801,
+      "like_count": 18162,
+      "comment_count": 148,
       "category_id": "20",
       "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=Udk48Sm60yE"
+      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
     }
   ],
   "videos_with_transcripts": [],
@@ -265,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 1560689,
-      "like_count": 115455,
-      "comment_count": 9653,
+      "view_count": 1811201,
+      "like_count": 127319,
+      "comment_count": 10438,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -282,9 +282,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yP5RGz_CRFM/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 540731,
-      "like_count": 58160,
-      "comment_count": 5209,
+      "view_count": 920006,
+      "like_count": 73903,
+      "comment_count": 6458,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -310,9 +310,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 230649,
-      "like_count": 14255,
-      "comment_count": 1638,
+      "view_count": 252856,
+      "like_count": 15156,
+      "comment_count": 1771,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -329,6 +329,34 @@
       "url": "https://www.youtube.com/watch?v=SZhl5-ag0tA"
     },
     {
+      "video_id": "CU2HOhS9yOo",
+      "title": "I Became a Minecraft Killer",
+      "description": "it's time to ban minecraft's smartest player\n\nI Became a Minecraft Killer\n\nUnstable SMP:\n➜  @ParrotX2 \n➜  @Spokeishere \n➜  @FlameFragsMC \n➜  @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @LettuceK @PurpledMC @Boosfer \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.storyblocks.com), artlist ",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-01-25T14:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CU2HOhS9yOo/hqdefault.jpg",
+      "duration": "PT1H20M30S",
+      "duration_seconds": 4830,
+      "view_count": 1422907,
+      "like_count": 139340,
+      "comment_count": 22716,
+      "category_id": "20",
+      "tags": [
+        "wemmbu",
+        "flamefrags",
+        "unstable smp",
+        "wemmbu vs flamefrags",
+        "wemmbu unstable smp",
+        "wemmbu farlands",
+        "minecraft farlands",
+        "wemmbu minecraft",
+        "wemmbu orbital cannon",
+        "orbital strike cannon"
+      ],
+      "url": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
+    },
+    {
       "video_id": "-cKpkB3qcqo",
       "title": "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
       "description": "JOIN MY DISCORD: https://discordapp.com/invite/SLOplays\n\n(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer\n\nBandai Contact - https://www.bandainamcoent.com/contact\nhttps://support.bandainamcoent.com/hc/en-us\n\n(2026) NEW DRAGON BALL FUSION GAMEPLAY REVEAL! - Dragon Ball Super Divers - Official Trailer\n\nNEW 2025 DRAGON BALL: Super Divers – Official Vegito and Gogeta Game Reveal & Gameplay Trailer!\n\n(2025) NEW OFFICIAL FUSION FIRST LOOK + GAMEPLAY!\n\nDRAGON BALL: Super Divers – Official Reveal\n\n*NEW* SPARKING ZERO CHARACTERS REVEAL! - Dragon Ball: Sparking Zero Official Gameplay Reveal - All New Goku & Vegeta Mechanics and Updated Gameplay!\n\n(2024) DRAGON BALL SPARKING ZERO - New Official Update!\n\nNEW Sparking Zero / Dragon Ball Z: Budokai Tenkaichi 4\n\nNEW TENKAICHI 4 INFO! - Dragon Ball Sparking Zero Breakdown\n\nDragon Ball Z Budokai Tenkaichi 4 official new title trademark as Sparking! ZERO\n\nhttps://westernrise.com/SLO - USE Code: SLO for a discount\n\nJoin this channel",
@@ -338,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 341583,
-      "like_count": 11486,
-      "comment_count": 943,
+      "view_count": 376781,
+      "like_count": 12068,
+      "comment_count": 987,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -357,27 +385,6 @@
       "url": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
     },
     {
-      "video_id": "xXAEVrLoaTs",
-      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-25T08:52:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
-      "duration": "PT7H13M30S",
-      "duration_seconds": 26010,
-      "view_count": 974833,
-      "like_count": 17912,
-      "comment_count": 134,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
-    },
-    {
       "video_id": "V2Gx9icNQiA",
       "title": "GAMEOVERSE [TRAILER]",
       "description": "Gameoverse is an animated series about VIDEO GAME WORLDS!!!.. Horrifically exploding. And saving them means helping the bad guy stop the good guy or everyone dies.\n\nPilot coming in May.\nCreated & Directed by Ross O'Donovan\nWritten by Ross O’Donovan & Arin Hanson\n\nTrailer Opening Music (0:03 - 1:07) by Jake Kaufman\nMontage Music \"The Final Battle\" (1:07 - 2:04) by Mattashi @MattashiComposer",
@@ -387,9 +394,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2485990,
-      "like_count": 324278,
-      "comment_count": 22505,
+      "view_count": 2550307,
+      "like_count": 329717,
+      "comment_count": 22783,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -406,86 +413,62 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
-      "video_id": "F0JgyHT9wN8",
-      "title": "This Game is Just Mario Party with Beans",
-      "description": "2026 is off to a rambunctious start. Like c’mon… Bean minigames? Yeah, I think so.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@soup \n@EthanhasYouTube \n@BlargMyShnoople \n@Trippayy \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-01-24T23:28:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
-      "duration": "PT35M31S",
-      "duration_seconds": 2131,
-      "view_count": 1153155,
-      "like_count": 56098,
-      "comment_count": 1760,
+      "video_id": "4ml1Qf4Bngw",
+      "title": "THE SUPER MARIO GALAXY MOVIE Trailer 2 (NEW 2026) 4K",
+      "description": "Official Website: https://www.thesupermariogalaxymovie.com\n\nNew galaxies. New friends. Yoshi joins the adventure. The Super Mario Galaxy Movie is only in theaters April 1.\n\nThe Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.\n \nThe film will be co-financed by Universal Pictures and Nintendo and will be released worldwide by Universal Pictures.\n\nThe Super Mario Galaxy Movie is directed by returning filmmakers Aaron Horvath and Michael Jelenic, from a screenplay by returning screenwriter Matthew Fogel, with Brian Tyler returning to compose the score.\n\nSUBSCRIBE for more ANIMATED videos here: www.youtube.com/@JoBloAnimatedVideos?sub_confirmation=1\n\nFootage Courtesy Of NBCUniversal Media, LLC.\n\n#TheSuperMarioG",
+      "channel_title": "JoBlo Animated Videos",
+      "channel_id": "UC2sxxXRBL5SgY0fI58BrOCA",
+      "published_at": "2026-01-25T14:13:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4ml1Qf4Bngw/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 125599,
+      "like_count": 4169,
+      "comment_count": 551,
+      "category_id": "1",
+      "tags": [
+        "THE SUPER MARIO GALAXY MOVIE Trailer",
+        "THE SUPER MARIO GALAXY MOVIE Title",
+        "THE SUPER MARIO",
+        "Princess Peach",
+        "Anya Taylor-Joy",
+        "Mario",
+        "Chris Pratt",
+        "Bowser",
+        "Jack Black",
+        "Toad"
+      ],
+      "url": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
+    },
+    {
+      "video_id": "xXAEVrLoaTs",
+      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-01-25T08:52:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
+      "duration": "PT7H13M30S",
+      "duration_seconds": 26010,
+      "view_count": 1001801,
+      "like_count": 18162,
+      "comment_count": 148,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "bean there won that",
-        "bean there won that gameplay",
-        "gameplay bean there won that",
-        "bean there won that funny moments",
-        "bean there won that party game",
-        "party games"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
+      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
     },
     {
-      "video_id": "VGbj02URLmE",
-      "title": "SUPERGIRL LOBO TRAILER 2026",
-      "description": "Supergirl Lobo Trailer 2026. Jason Momoa Lobo returns to the DC Movies after Aquaman Justice League. Lobo vs Supergirl, Lobo vs Superman, Lobo Powers & Abilities & Superman 2 Man Of Tomorrow Teaser ► https://bit.ly/AwesomeSubscribe\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=gAQBiAQB2AYlsAgC\nKnight Of The Seven Kingdoms Episode 1 https://www.youtube.com/watch?v=0EjIsAyA96k&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=gAQBiAQBsAgC\nKnight Of The Seven Kingdoms Episode 2 Trailer https://www.youtube.com/watch?v=ucPLdLZPb3g&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=gAQBiAQBsAgC\nAhsoka Season 2 Trailer https://www.youtube.com/watch?v=_58TzLy0L38&list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW&index=12&pp=gAQBiAQB2AaRA7AIAg%3D%3D\nThe Mandalorian & Grogu Trailer https://www.youtube.com/watch?v=O5UfCNVBk5g&list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW&index=1&pp=gAQBiAQBsAgC\nHouse Of The Dragon Season 3 Trailer ",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-01-25T02:26:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VGbj02URLmE/hqdefault.jpg",
-      "duration": "PT12M46S",
-      "duration_seconds": 766,
-      "view_count": 135260,
-      "like_count": 4714,
-      "comment_count": 513,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=VGbj02URLmE"
-    },
-    {
-      "video_id": "Udk48Sm60yE",
-      "title": "2 Minecraft Pros VS 1000 Hunters",
-      "description": "On the Unstable SMP, LettuceK is currently beating every other candidate in the election by 6,000 votes. The only way to beat him, is to bring Wemmbu back to spawn and prove that he's been lying this whole time. This is 2 Minecraft Pros VS 1000 Hunters. \n\nUnstable SMP:\n➜ ‪  @wemmbumc \n➜ ‪  @FlameFragsMC \n➜ ‪  @Spokeishere \n➜ ‪  @ParrotX2 \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @wemmbumc @LettuceK @TheobaldTheBird @CoinMonkeExtras @PurpledMC @Boosfer \n\nOriginal music by  @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 o",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-01-24T14:30:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
-      "duration": "PT1H10M58S",
-      "duration_seconds": 4258,
-      "view_count": 3506111,
-      "like_count": 196660,
-      "comment_count": 36005,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
-      ],
-      "url": "https://www.youtube.com/watch?v=Udk48Sm60yE"
-    },
-    {
-      "video_id": "sbamuCeIpHg",
-      "title": "Star Wars: Attack of the Clones",
-      "description": "Set ten years after the events of \"The Phantom Menace,\" the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.",
+      "video_id": "KgMbiyy1vQI",
+      "title": "Star Wars: Revenge of the Sith",
+      "description": "It has been three years since the Clone Wars began. Jedi Master Obi-Wan Kenobi (Ewan McGregor) and Jedi Knight Anakin Skywalker (Hayden Christensen) rescue Chancellor Palpatine (Ian McDiarmid) from General Grievous, the commander of the droid armies, but Grievous escapes. Suspicions are raised within the Jedi Council concerning Chancellor Palpatine, with whom Anakin has formed a bond. Asked to spy on the chancellor, and full of bitterness toward the Jedi Council, Anakin embraces the Dark Side.",
       "channel_title": "FX",
       "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-01-11T00:49:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbamuCeIpHg/hqdefault.jpg",
+      "published_at": "2026-01-11T00:49:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KgMbiyy1vQI/hqdefault.jpg",
       "duration": "P0D",
       "duration_seconds": 0,
       "view_count": 0,
@@ -493,89 +476,63 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=sbamuCeIpHg"
+      "url": "https://www.youtube.com/watch?v=KgMbiyy1vQI"
+    },
+    {
+      "video_id": "RlOXICpHr2M",
+      "title": "The NFL Today",
+      "description": "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+      "channel_title": "CW 69",
+      "channel_id": "UC99KUR8vlLdPRvkT8TzfYKQ",
+      "published_at": "2026-01-11T00:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RlOXICpHr2M/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RlOXICpHr2M"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 10929001,
-        "average_views_per_video": 1092900.1,
-        "categories": "Unknown"
-      },
-      "trending_patterns": {
-        "dominant_themes": [
-          "Anime",
-          "Video Games",
-          "Movies"
-        ],
-        "popular_titles": [
-          "Dragon Ball",
-          "Super Mario",
-          "Star Wars",
-          "Minecraft"
-        ],
-        "cross-category synergy": [
-          {
-            "theme": "Anime and Video Games",
-            "example_videos": [
-              "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
-              "DRAGON BALL: Sparking! Zero – New DLC Teaser Trailer",
-              "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer"
-            ]
-          },
-          {
-            "theme": "Video Games and Movies",
-            "example_videos": [
-              "The Super Mario Galaxy Movie – Yoshi First Look",
-              "This Game is Just Mario Party with Beans"
-            ]
-          }
-        ],
-        "live_streaming_trend": {
-          "example": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-          "insight": "Live streaming is being used to engage audiences in real-time, enhancing viewer interaction and content dynamism."
+      "content_trends": {
+        "anime_and_gaming": {
+          "observation": "Anime and gaming-related content are highly prevalent among the trending videos, with titles related to Dragon Ball, Super Mario, and Minecraft.",
+          "implication": "There is a strong audience interest in anime series like Dragon Ball and popular gaming franchises such as Super Mario and Minecraft.",
+          "actionable_insight": "Content creators should consider leveraging popular anime and gaming franchises in their videos to tap into existing fan bases, potentially increasing viewership and engagement."
+        },
+        "movie_and_trailer_content": {
+          "observation": "Trailer and movie-related content, particularly involving adaptations or continuations of popular franchises (e.g., The Super Mario Galaxy Movie), are trending.",
+          "implication": "There is a significant interest in upcoming movie releases and adaptations of well-known franchises, suggesting an opportunity for content around previews, reviews, and fan theories.",
+          "actionable_insight": "Channels can benefit from creating anticipation and engagement by producing speculative content, analyses, and fan discussions related to upcoming movie releases and trailers."
+        },
+        "live_streaming": {
+          "observation": "Live streaming content, as seen with the ARC RAIDERS live video, is part of the trending list.",
+          "implication": "Live streaming is an engaging format that can draw real-time interaction and participation from audiences.",
+          "actionable_insight": "Creators should explore live streaming to engage with their audience in real-time, incorporating interactive elements like Q&A sessions or live reactions to trending topics."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          "東映アニメーション公式YouTubeチャンネル",
-          "Nintendo of America",
-          "Bandai Namco Entertainment America",
-          "FX",
-          "SLOplays"
-        ],
-        "collaboration_opportunities": [
-          {
-            "channels": [
-              "東映アニメーション公式YouTubeチャンネル",
-              "Bandai Namco Entertainment America"
-            ],
-            "potential": "Collaboration on anime and gaming content, focusing on popular franchises like Dragon Ball."
-          },
-          {
-            "channels": [
-              "Nintendo of America",
-              "FX"
-            ],
-            "potential": "Cross-promotions for video game adaptations into movies, leveraging the popularity of franchises like Super Mario."
-          }
-        ]
+        "diverse_creator_base": {
+          "observation": "The top channels feature a mix of corporate channels (東映アニメーション, Nintendo of America, Bandai Namco) and individual creators (Wemmbu, SLOplays).",
+          "implication": "Both established corporate entities and independent creators have the potential to trend, suggesting a diverse competitive landscape on YouTube.",
+          "actionable_insight": "Independent creators can collaborate with corporate channels to access larger audiences, while corporate channels can engage authentic influencers to enhance their brand presence."
+        }
       },
       "market_opportunities": {
-        "anime_and_gaming": {
-          "insight": "With multiple Dragon Ball-related content trending, there's an opportunity to expand marketing efforts for anime-themed gaming content.",
-          "example_opportunity": "Develop exclusive behind-the-scenes content or interactive experiences tied to Dragon Ball releases."
+        "cross-franchise collaborations": {
+          "observation": "There is a crossover appeal in content that spans multiple popular franchises (e.g., Dragon Ball, Super Mario).",
+          "implication": "Cross-franchise content can capture audiences from multiple fan bases, creating unique engagement opportunities.",
+          "actionable_insight": "Consider developing content that creatively combines elements from different franchises, such as fan theories, crossover episodes, or themed challenges."
         },
-        "nostalgia_and_remakes": {
-          "insight": "Nostalgia-driven content such as remakes or adaptations of classic franchises (e.g., Super Mario Galaxy) continues to drive viewer interest.",
-          "example_opportunity": "Create content that explores the history and evolution of these franchises, tapping into both new and existing fan bases."
-        },
-        "live_content_engagement": {
-          "insight": "Live streaming formats are gaining traction and offer real-time interaction, fostering a community-centric approach.",
-          "example_opportunity": "Host live Q&A sessions or interactive gameplay streams to increase engagement and subscriber growth."
+        "language and localization": {
+          "observation": "The presence of a Japanese channel (東映アニメーション) suggests a global interest in non-English content.",
+          "implication": "Localized content can cater to specific language-speaking audiences and broaden a channel's reach.",
+          "actionable_insight": "Channels should explore producing content in multiple languages or providing subtitles to capture non-English speaking audiences, expanding their global viewership."
         }
       },
       "metadata_stats": {
@@ -584,7 +541,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1092900
+        "avg_views_per_video": 846145
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
