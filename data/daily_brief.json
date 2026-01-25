@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T12:15:10.733265",
+  "timestamp": "2026-01-25T15:09:07.327132",
   "date": "2026-01-25",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 857529,
-      "like_count": 69943,
-      "comment_count": 6148,
+      "view_count": 1205618,
+      "like_count": 94234,
+      "comment_count": 8089,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
       "duration": "PT7H13M30S",
       "duration_seconds": 26010,
-      "view_count": 922901,
-      "like_count": 17270,
-      "comment_count": 79,
+      "view_count": 948203,
+      "like_count": 17611,
+      "comment_count": 102,
       "category_id": "20",
       "tags": [
         "funny",
@@ -60,9 +60,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 155898,
-      "like_count": 11292,
-      "comment_count": 1264,
+      "view_count": 194332,
+      "like_count": 12893,
+      "comment_count": 1461,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -88,9 +88,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
       "duration": "PT1H10M58S",
       "duration_seconds": 4258,
-      "view_count": 3104276,
-      "like_count": 186929,
-      "comment_count": 34830,
+      "view_count": 3334536,
+      "like_count": 192351,
+      "comment_count": 35564,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -116,9 +116,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 261381,
-      "like_count": 9806,
-      "comment_count": 800,
+      "view_count": 303251,
+      "like_count": 10641,
+      "comment_count": 878,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -144,9 +144,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
       "duration": "PT35M31S",
       "duration_seconds": 2131,
-      "view_count": 917092,
-      "like_count": 46287,
-      "comment_count": 1657,
+      "view_count": 1035432,
+      "like_count": 50719,
+      "comment_count": 1709,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -163,23 +163,6 @@
       "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
     },
     {
-      "video_id": "Gp8-TZlTMP0",
-      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
-      "description": "",
-      "channel_title": "LAJA",
-      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
-      "published_at": "2026-01-24T20:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 127783,
-      "like_count": 16042,
-      "comment_count": 1660,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
-    },
-    {
       "video_id": "V2Gx9icNQiA",
       "title": "GAMEOVERSE [TRAILER]",
       "description": "Gameoverse is an animated series about VIDEO GAME WORLDS!!!.. Horrifically exploding. And saving them means helping the bad guy stop the good guy or everyone dies.\n\nPilot coming in May.\nCreated & Directed by Ross O'Donovan\nWritten by Ross O’Donovan & Arin Hanson\n\nTrailer Opening Music (0:03 - 1:07) by Jake Kaufman\nMontage Music \"The Final Battle\" (1:07 - 2:04) by Mattashi @MattashiComposer",
@@ -189,9 +172,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2388196,
-      "like_count": 314304,
-      "comment_count": 21994,
+      "view_count": 2427970,
+      "like_count": 318188,
+      "comment_count": 22219,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -217,12 +200,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/J-XpX8Okphg/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 1089597,
-      "like_count": 5657,
-      "comment_count": 16,
+      "view_count": 1089749,
+      "like_count": 5651,
+      "comment_count": 17,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=J-XpX8Okphg"
+    },
+    {
+      "video_id": "Gp8-TZlTMP0",
+      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
+      "description": "",
+      "channel_title": "LAJA",
+      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
+      "published_at": "2026-01-24T20:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 135134,
+      "like_count": 16483,
+      "comment_count": 1694,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
     },
     {
       "video_id": "ZmEx7wQI6RY",
@@ -234,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 15798913,
-      "like_count": 82243,
-      "comment_count": 15331,
+      "view_count": 15955988,
+      "like_count": 82569,
+      "comment_count": 15391,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -265,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 857529,
-      "like_count": 69943,
-      "comment_count": 6148,
+      "view_count": 1205618,
+      "like_count": 94234,
+      "comment_count": 8089,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -282,9 +282,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
       "duration": "PT7H13M30S",
       "duration_seconds": 26010,
-      "view_count": 922901,
-      "like_count": 17270,
-      "comment_count": 79,
+      "view_count": 948203,
+      "like_count": 17611,
+      "comment_count": 102,
       "category_id": "20",
       "tags": [
         "funny",
@@ -303,9 +303,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 155898,
-      "like_count": 11292,
-      "comment_count": 1264,
+      "view_count": 194332,
+      "like_count": 12893,
+      "comment_count": 1461,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -331,9 +331,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
       "duration": "PT1H10M58S",
       "duration_seconds": 4258,
-      "view_count": 3104276,
-      "like_count": 186929,
-      "comment_count": 34830,
+      "view_count": 3334536,
+      "like_count": 192351,
+      "comment_count": 35564,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -359,9 +359,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 261381,
-      "like_count": 9806,
-      "comment_count": 800,
+      "view_count": 303251,
+      "like_count": 10641,
+      "comment_count": 878,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -387,9 +387,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
       "duration": "PT35M31S",
       "duration_seconds": 2131,
-      "view_count": 917092,
-      "like_count": 46287,
-      "comment_count": 1657,
+      "view_count": 1035432,
+      "like_count": 50719,
+      "comment_count": 1709,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -406,23 +406,6 @@
       "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
     },
     {
-      "video_id": "Gp8-TZlTMP0",
-      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
-      "description": "",
-      "channel_title": "LAJA",
-      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
-      "published_at": "2026-01-24T20:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 127783,
-      "like_count": 16042,
-      "comment_count": 1660,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
-    },
-    {
       "video_id": "V2Gx9icNQiA",
       "title": "GAMEOVERSE [TRAILER]",
       "description": "Gameoverse is an animated series about VIDEO GAME WORLDS!!!.. Horrifically exploding. And saving them means helping the bad guy stop the good guy or everyone dies.\n\nPilot coming in May.\nCreated & Directed by Ross O'Donovan\nWritten by Ross O’Donovan & Arin Hanson\n\nTrailer Opening Music (0:03 - 1:07) by Jake Kaufman\nMontage Music \"The Final Battle\" (1:07 - 2:04) by Mattashi @MattashiComposer",
@@ -432,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2388196,
-      "like_count": 314304,
-      "comment_count": 21994,
+      "view_count": 2427970,
+      "like_count": 318188,
+      "comment_count": 22219,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -451,6 +434,23 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
+      "video_id": "Gp8-TZlTMP0",
+      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
+      "description": "",
+      "channel_title": "LAJA",
+      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
+      "published_at": "2026-01-24T20:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 135134,
+      "like_count": 16483,
+      "comment_count": 1694,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
+    },
+    {
       "video_id": "ZmEx7wQI6RY",
       "title": "Masters of The Universe – Official Teaser Trailer",
       "description": "Discover your true power. Watch the Teaser Trailer for Masters Of The Universe now, and see the movie only in theaters June 5.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nF",
@@ -460,9 +460,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 15798913,
-      "like_count": 82243,
-      "comment_count": 15331,
+      "view_count": 15955988,
+      "like_count": 82569,
+      "comment_count": 15391,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -488,9 +488,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/J-XpX8Okphg/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 1089597,
-      "like_count": 5657,
-      "comment_count": 16,
+      "view_count": 1089749,
+      "like_count": 5651,
+      "comment_count": 17,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=J-XpX8Okphg"
@@ -499,79 +499,77 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "video_counts": {
-          "total_videos": 10,
-          "total_views": 25623566,
-          "average_views_per_video": 2562356.6
+      "content_trends": {
+        "anime_and_gaming": {
+          "description": "Anime and gaming-related content appears prominently, with multiple titles referencing 'Dragon Ball' and other gaming genres.",
+          "video_count": 5,
+          "notable_titles": [
+            "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
+            "DRAGON BALL: Sparking! Zero – New DLC Teaser Trailer",
+            "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
+            "2 Minecraft Pros VS 1000 Hunters",
+            "Masters of The Universe – Official Teaser Trailer"
+          ]
         },
-        "content_trends": {
-          "anime_and_gaming": {
-            "description": "Anime and gaming content, particularly related to Dragon Ball and video games, are prominently featured.",
-            "video_titles": [
-              "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
-              "DRAGON BALL: Sparking! Zero – New DLC Teaser Trailer",
-              "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
-              "2 Minecraft Pros VS 1000 Hunters",
-              "This Game is Just Mario Party with Beans"
-            ],
-            "insight": "Anime and gaming are significant drivers of engagement, suggesting a strong market for similar content."
-          },
-          "live_streams": {
-            "description": "Live streaming content is also trending, with interactive elements and giveaways.",
-            "video_titles": [
-              "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-              "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS"
-            ],
-            "insight": "Live, interactive content is gaining traction, indicating potential for growth in live streaming and community engagement strategies."
-          },
-          "trailers_and_teasers": {
-            "description": "Trailers and teasers, especially for games and TV shows, are prevalent.",
-            "video_titles": [
-              "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
-              "DRAGON BALL: Sparking! Zero – New DLC Teaser Trailer",
-              "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
-              "GAMEOVERSE [TRAILER]",
-              "Masters of The Universe – Official Teaser Trailer"
-            ],
-            "insight": "There is a strong interest in upcoming releases, suggesting opportunities for early buzz generation and fan engagement through sneak peeks."
-          }
+        "live_interaction": {
+          "description": "Live streaming and interactive content is gaining traction, as seen in the titles with live or giveaway elements.",
+          "video_count": 2,
+          "notable_titles": [
+            "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
+            "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS"
+          ]
         },
-        "creator_patterns": {
+        "cross-genre_blends": {
+          "description": "There is a trend of blending different entertainment genres, such as gaming, anime, and music.",
+          "video_count": 3,
+          "notable_titles": [
+            "This Game is Just Mario Party with Beans",
+            "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
+            "GAMEOVERSE [TRAILER]"
+          ]
+        }
+      },
+      "creator_patterns": {
+        "diverse_creators": {
+          "description": "Each video is produced by a different creator, indicating a diverse creator base without a dominant player.",
           "top_channels": [
-            {
-              "channel_name": "東映アニメーション公式YouTubeチャンネル",
-              "video_count": 1
-            },
-            {
-              "channel_name": "TheBurntPeanut",
-              "video_count": 1
-            },
-            {
-              "channel_name": "Bandai Namco Entertainment America",
-              "video_count": 1
-            },
-            {
-              "channel_name": "Parrot",
-              "video_count": 1
-            },
-            {
-              "channel_name": "SLOplays",
-              "video_count": 1
-            }
-          ],
-          "insight": "The diversity of creators, with each channel contributing one video to the trending list, indicates a wide range of content creators finding success. This suggests opportunities for new creators to enter the market with unique offerings."
+            "東映アニメーション公式YouTubeチャンネル",
+            "TheBurntPeanut",
+            "Bandai Namco Entertainment America",
+            "Parrot",
+            "SLOplays"
+          ]
         },
-        "market_opportunities": {
-          "anime_and_gaming": {
-            "opportunity": "Develop content around popular anime series and games, leveraging existing fan bases to drive engagement."
-          },
-          "live_interactive_content": {
-            "opportunity": "Experiment with live streaming and interactive content to capitalize on viewer engagement and real-time interaction."
-          },
-          "trailer_and_teaser_content": {
-            "opportunity": "Create anticipation for upcoming releases through strategic teaser campaigns, potentially collaborating with influencers to amplify reach."
-          }
+        "official_trailers": {
+          "description": "Official trailers and teasers from recognized brands or franchises are consistently trending.",
+          "video_count": 4,
+          "notable_channels": [
+            "東映アニメーション公式YouTubeチャンネル",
+            "Bandai Namco Entertainment America"
+          ]
+        }
+      },
+      "market_opportunities": {
+        "anime_and_gaming_expansion": {
+          "description": "There is a strong audience interest in anime and gaming, suggesting opportunities for content expansion in these areas.",
+          "actionable_insights": [
+            "Develop original content or collaborations featuring popular anime and gaming franchises.",
+            "Create interactive live events or gaming tournaments."
+          ]
+        },
+        "live_streaming_engagement": {
+          "description": "Increasing popularity of live streams and interactive content indicates potential for higher engagement.",
+          "actionable_insights": [
+            "Incorporate live streaming features into content plans to increase viewer interaction.",
+            "Host live Q&A sessions or interactive giveaways to engage audiences."
+          ]
+        },
+        "cross-genre_experimentation": {
+          "description": "Blending different genres can attract a broader audience base.",
+          "actionable_insights": [
+            "Experiment with content that combines gaming, music, and anime themes.",
+            "Engage with creators from different entertainment sectors for collaborative projects."
+          ]
         }
       },
       "metadata_stats": {
@@ -580,7 +578,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2562356
+        "avg_views_per_video": 2663021
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
