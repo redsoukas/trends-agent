@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-25T00:41:36.539039",
+  "timestamp": "2026-01-25T03:42:29.489139",
   "date": "2026-01-25",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2204782,
-      "like_count": 299529,
-      "comment_count": 21122,
+      "view_count": 2266733,
+      "like_count": 304920,
+      "comment_count": 21436,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
       "duration": "PT1H10M58S",
       "duration_seconds": 4258,
-      "view_count": 1927062,
-      "like_count": 149349,
-      "comment_count": 29349,
+      "view_count": 2290198,
+      "like_count": 161942,
+      "comment_count": 31441,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 14031629,
-      "like_count": 80771,
-      "comment_count": 15137,
+      "view_count": 14538707,
+      "like_count": 81217,
+      "comment_count": 15213,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -106,9 +106,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wwcfhb43Ge8/hqdefault.jpg",
       "duration": "PT1H17M34S",
       "duration_seconds": 4654,
-      "view_count": 1648012,
-      "like_count": 23477,
-      "comment_count": 503,
+      "view_count": 1698284,
+      "like_count": 23791,
+      "comment_count": 570,
       "category_id": "20",
       "tags": [
         "caylusblox",
@@ -134,9 +134,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oonACDq89BY/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 3220105,
-      "like_count": 169534,
-      "comment_count": 10192,
+      "view_count": 3260710,
+      "like_count": 170446,
+      "comment_count": 10278,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=oonACDq89BY"
@@ -151,12 +151,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QuYj0wxtIJI/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 1232607,
-      "like_count": 6513,
+      "view_count": 1233017,
+      "like_count": 6508,
       "comment_count": 33,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QuYj0wxtIJI"
+    },
+    {
+      "video_id": "Gp8-TZlTMP0",
+      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
+      "description": "",
+      "channel_title": "LAJA",
+      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
+      "published_at": "2026-01-24T20:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 92286,
+      "like_count": 14481,
+      "comment_count": 1597,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
     },
     {
       "video_id": "Et4clt5xdI4",
@@ -168,9 +185,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et4clt5xdI4/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 628905,
-      "like_count": 30024,
-      "comment_count": 1258,
+      "view_count": 636160,
+      "like_count": 30237,
+      "comment_count": 1270,
       "category_id": "1",
       "tags": [
         "2026",
@@ -187,66 +204,60 @@
       "url": "https://www.youtube.com/watch?v=Et4clt5xdI4"
     },
     {
-      "video_id": "czkFRiUYgRY",
-      "title": "Back to the Future Part II",
-      "description": "In this zany sequel, time-traveling duo Marty McFly and Dr. Emmett Brown return from saving Marty's future son from disaster, only to discover their own time transformed. In this nightmarish version of Hill Valley, Marty's father has been murdered and Biff Tannen, Marty's nemesis, has profited. After uncovering the secret to Biff's success -- a sports almanac from the future -- Marty and the Doc embark on a quest to repair the space-time continuum.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-10T01:08:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/czkFRiUYgRY/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=czkFRiUYgRY"
-    },
-    {
-      "video_id": "ZnfUeVeMKjY",
-      "title": "Invincible Season 4 - Official Trailer | Prime Video",
-      "description": "March 18!!! \n\n» Watch Invincible on Prime Video: https://bit.ly/InvincibleSeason1\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout Invincible:\nINVINCIBLE is an adult animated superhero series that revolves around 17-year-old Mark Grayson, who’s just like every other guy his age — except his father is the most powerful superhero on the planet, Omni-Man. But as Mark develops powers of his own, he discovers his father’s legacy may not be as heroic as it seems.\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-01-22T17:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZnfUeVeMKjY/hqdefault.jpg",
-      "duration": "PT2M29S",
-      "duration_seconds": 149,
-      "view_count": 2570826,
-      "like_count": 165048,
-      "comment_count": 8474,
-      "category_id": "24",
-      "tags": [
-        "invincible season 4 official trailer",
-        "invincible season 4 trailer",
-        "invincible season 4 prime video",
-        "prime video invincible season 4",
-        "invincible",
-        "invincible season 4",
-        "invincible s4",
-        "invincible s4 thragg",
-        "invincible s4 trailer",
-        "invincible season 4 thragg"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZnfUeVeMKjY"
-    },
-    {
-      "video_id": "HHNLfxBxcvo",
-      "title": "Terraria 1.4.5 Bigger & Boulder Official Trailer",
-      "description": "Terraria 1.4.5 is launching on January 27th, Bigger and Boulder than ever before!  Check out some of the new changes and content in the brand new trailer... and stay tuned for the full launch posts and changelog on launch day!",
-      "channel_title": "Re-Logic",
-      "channel_id": "UCq3QzpKNapKhCl4jpgQB44w",
-      "published_at": "2026-01-24T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HHNLfxBxcvo/hqdefault.jpg",
-      "duration": "PT1M22S",
-      "duration_seconds": 82,
-      "view_count": 642155,
-      "like_count": 78369,
-      "comment_count": 5402,
+      "video_id": "F0JgyHT9wN8",
+      "title": "This Game is Just Mario Party with Beans",
+      "description": "2026 is off to a rambunctious start. Like c’mon… Bean minigames? Yeah, I think so.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@soup \n@EthanhasYouTube \n@BlargMyShnoople \n@Trippayy \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-01-24T23:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
+      "duration": "PT35M31S",
+      "duration_seconds": 2131,
+      "view_count": 342729,
+      "like_count": 25615,
+      "comment_count": 1363,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HHNLfxBxcvo"
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "bean there won that",
+        "bean there won that gameplay",
+        "gameplay bean there won that",
+        "bean there won that funny moments",
+        "bean there won that party game",
+        "party games"
+      ],
+      "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
+    },
+    {
+      "video_id": "-cKpkB3qcqo",
+      "title": "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
+      "description": "JOIN MY DISCORD: https://discordapp.com/invite/SLOplays\n\n(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer\n\nBandai Contact - https://www.bandainamcoent.com/contact\nhttps://support.bandainamcoent.com/hc/en-us\n\n(2026) NEW DRAGON BALL FUSION GAMEPLAY REVEAL! - Dragon Ball Super Divers - Official Trailer\n\nNEW 2025 DRAGON BALL: Super Divers – Official Vegito and Gogeta Game Reveal & Gameplay Trailer!\n\n(2025) NEW OFFICIAL FUSION FIRST LOOK + GAMEPLAY!\n\nDRAGON BALL: Super Divers – Official Reveal\n\n*NEW* SPARKING ZERO CHARACTERS REVEAL! - Dragon Ball: Sparking Zero Official Gameplay Reveal - All New Goku & Vegeta Mechanics and Updated Gameplay!\n\n(2024) DRAGON BALL SPARKING ZERO - New Official Update!\n\nNEW Sparking Zero / Dragon Ball Z: Budokai Tenkaichi 4\n\nNEW TENKAICHI 4 INFO! - Dragon Ball Sparking Zero Breakdown\n\nDragon Ball Z Budokai Tenkaichi 4 official new title trademark as Sparking! ZERO\n\nhttps://westernrise.com/SLO - USE Code: SLO for a discount\n\nJoin this channel",
+      "channel_title": "SLOplays",
+      "channel_id": "UC6OKhj0EAcyLVu77AhbuEHw",
+      "published_at": "2026-01-25T01:39:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
+      "duration": "PT5M40S",
+      "duration_seconds": 340,
+      "view_count": 5770,
+      "like_count": 3248,
+      "comment_count": 327,
+      "category_id": "20",
+      "tags": [
+        "dragon ball z sparking zero",
+        "dragon ball sparking zero",
+        "dragon ball sparking zero trailer",
+        "sloplays dragon ball sparking zero",
+        "sparking zero",
+        "dragon ball sparking zero gameplay",
+        "sparking zero gameplay",
+        "sparking zero reveal",
+        "dragon ball super",
+        "dragon ball sparking zero news"
+      ],
+      "url": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
     }
   ],
   "videos_with_transcripts": [],
@@ -261,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2204782,
-      "like_count": 299529,
-      "comment_count": 21122,
+      "view_count": 2266733,
+      "like_count": 304920,
+      "comment_count": 21436,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -289,9 +300,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Udk48Sm60yE/hqdefault.jpg",
       "duration": "PT1H10M58S",
       "duration_seconds": 4258,
-      "view_count": 1927062,
-      "like_count": 149349,
-      "comment_count": 29349,
+      "view_count": 2290198,
+      "like_count": 161942,
+      "comment_count": 31441,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -317,9 +328,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZmEx7wQI6RY/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 14031629,
-      "like_count": 80771,
-      "comment_count": 15137,
+      "view_count": 14538707,
+      "like_count": 81217,
+      "comment_count": 15213,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -345,9 +356,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wwcfhb43Ge8/hqdefault.jpg",
       "duration": "PT1H17M34S",
       "duration_seconds": 4654,
-      "view_count": 1648012,
-      "like_count": 23477,
-      "comment_count": 503,
+      "view_count": 1698284,
+      "like_count": 23791,
+      "comment_count": 570,
       "category_id": "20",
       "tags": [
         "caylusblox",
@@ -373,57 +384,85 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oonACDq89BY/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 3220105,
-      "like_count": 169534,
-      "comment_count": 10192,
+      "view_count": 3260710,
+      "like_count": 170446,
+      "comment_count": 10278,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=oonACDq89BY"
     },
     {
-      "video_id": "ZnfUeVeMKjY",
-      "title": "Invincible Season 4 - Official Trailer | Prime Video",
-      "description": "March 18!!! \n\n» Watch Invincible on Prime Video: https://bit.ly/InvincibleSeason1\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout Invincible:\nINVINCIBLE is an adult animated superhero series that revolves around 17-year-old Mark Grayson, who’s just like every other guy his age — except his father is the most powerful superhero on the planet, Omni-Man. But as Mark develops powers of his own, he discovers his father’s legacy may not be as heroic as it seems.\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-01-22T17:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZnfUeVeMKjY/hqdefault.jpg",
-      "duration": "PT2M29S",
-      "duration_seconds": 149,
-      "view_count": 2570826,
-      "like_count": 165048,
-      "comment_count": 8474,
+      "video_id": "Gp8-TZlTMP0",
+      "title": "LAJA - GOTHAM 2 (Video Oficial) Shot.by@checkthefootage #spanishdrill",
+      "description": "",
+      "channel_title": "LAJA",
+      "channel_id": "UCA_R5DJK_2lI4fAjNOyn7pw",
+      "published_at": "2026-01-24T20:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp8-TZlTMP0/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 92286,
+      "like_count": 14481,
+      "comment_count": 1597,
       "category_id": "24",
-      "tags": [
-        "invincible season 4 official trailer",
-        "invincible season 4 trailer",
-        "invincible season 4 prime video",
-        "prime video invincible season 4",
-        "invincible",
-        "invincible season 4",
-        "invincible s4",
-        "invincible s4 thragg",
-        "invincible s4 trailer",
-        "invincible season 4 thragg"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZnfUeVeMKjY"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
     },
     {
-      "video_id": "HHNLfxBxcvo",
-      "title": "Terraria 1.4.5 Bigger & Boulder Official Trailer",
-      "description": "Terraria 1.4.5 is launching on January 27th, Bigger and Boulder than ever before!  Check out some of the new changes and content in the brand new trailer... and stay tuned for the full launch posts and changelog on launch day!",
-      "channel_title": "Re-Logic",
-      "channel_id": "UCq3QzpKNapKhCl4jpgQB44w",
-      "published_at": "2026-01-24T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HHNLfxBxcvo/hqdefault.jpg",
-      "duration": "PT1M22S",
-      "duration_seconds": 82,
-      "view_count": 642155,
-      "like_count": 78369,
-      "comment_count": 5402,
+      "video_id": "F0JgyHT9wN8",
+      "title": "This Game is Just Mario Party with Beans",
+      "description": "2026 is off to a rambunctious start. Like c’mon… Bean minigames? Yeah, I think so.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n\nFriends in the video:\n@soup \n@EthanhasYouTube \n@BlargMyShnoople \n@Trippayy \n@TheDooo \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-01-24T23:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F0JgyHT9wN8/hqdefault.jpg",
+      "duration": "PT35M31S",
+      "duration_seconds": 2131,
+      "view_count": 342729,
+      "like_count": 25615,
+      "comment_count": 1363,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HHNLfxBxcvo"
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "bean there won that",
+        "bean there won that gameplay",
+        "gameplay bean there won that",
+        "bean there won that funny moments",
+        "bean there won that party game",
+        "party games"
+      ],
+      "url": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
+    },
+    {
+      "video_id": "-cKpkB3qcqo",
+      "title": "(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer",
+      "description": "JOIN MY DISCORD: https://discordapp.com/invite/SLOplays\n\n(2026) NEW DRAGON BALL SUPER MORO ARC ANIME REVEAL! - Official Trailer\n\nBandai Contact - https://www.bandainamcoent.com/contact\nhttps://support.bandainamcoent.com/hc/en-us\n\n(2026) NEW DRAGON BALL FUSION GAMEPLAY REVEAL! - Dragon Ball Super Divers - Official Trailer\n\nNEW 2025 DRAGON BALL: Super Divers – Official Vegito and Gogeta Game Reveal & Gameplay Trailer!\n\n(2025) NEW OFFICIAL FUSION FIRST LOOK + GAMEPLAY!\n\nDRAGON BALL: Super Divers – Official Reveal\n\n*NEW* SPARKING ZERO CHARACTERS REVEAL! - Dragon Ball: Sparking Zero Official Gameplay Reveal - All New Goku & Vegeta Mechanics and Updated Gameplay!\n\n(2024) DRAGON BALL SPARKING ZERO - New Official Update!\n\nNEW Sparking Zero / Dragon Ball Z: Budokai Tenkaichi 4\n\nNEW TENKAICHI 4 INFO! - Dragon Ball Sparking Zero Breakdown\n\nDragon Ball Z Budokai Tenkaichi 4 official new title trademark as Sparking! ZERO\n\nhttps://westernrise.com/SLO - USE Code: SLO for a discount\n\nJoin this channel",
+      "channel_title": "SLOplays",
+      "channel_id": "UC6OKhj0EAcyLVu77AhbuEHw",
+      "published_at": "2026-01-25T01:39:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
+      "duration": "PT5M40S",
+      "duration_seconds": 340,
+      "view_count": 5770,
+      "like_count": 3248,
+      "comment_count": 327,
+      "category_id": "20",
+      "tags": [
+        "dragon ball z sparking zero",
+        "dragon ball sparking zero",
+        "dragon ball sparking zero trailer",
+        "sloplays dragon ball sparking zero",
+        "sparking zero",
+        "dragon ball sparking zero gameplay",
+        "sparking zero gameplay",
+        "sparking zero reveal",
+        "dragon ball super",
+        "dragon ball sparking zero news"
+      ],
+      "url": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
     },
     {
       "video_id": "QuYj0wxtIJI",
@@ -435,8 +474,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QuYj0wxtIJI/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 1232607,
-      "like_count": 6513,
+      "view_count": 1233017,
+      "like_count": 6508,
       "comment_count": 33,
       "category_id": "20",
       "tags": [],
@@ -452,9 +491,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et4clt5xdI4/hqdefault.jpg",
       "duration": "PT33S",
       "duration_seconds": 33,
-      "view_count": 628905,
-      "like_count": 30024,
-      "comment_count": 1258,
+      "view_count": 636160,
+      "like_count": 30237,
+      "comment_count": 1270,
       "category_id": "1",
       "tags": [
         "2026",
@@ -469,66 +508,61 @@
         "Jason Momoa"
       ],
       "url": "https://www.youtube.com/watch?v=Et4clt5xdI4"
-    },
-    {
-      "video_id": "czkFRiUYgRY",
-      "title": "Back to the Future Part II",
-      "description": "In this zany sequel, time-traveling duo Marty McFly and Dr. Emmett Brown return from saving Marty's future son from disaster, only to discover their own time transformed. In this nightmarish version of Hill Valley, Marty's father has been murdered and Biff Tannen, Marty's nemesis, has profited. After uncovering the secret to Biff's success -- a sports almanac from the future -- Marty and the Doc embark on a quest to repair the space-time continuum.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-10T01:08:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/czkFRiUYgRY/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=czkFRiUYgRY"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "dominant_trend": "Trailer and Teaser Content",
-        "description": "Videos related to gaming (Minecraft and Terraria) are trending, suggesting a sustained interest in gaming content.",
-        "sub_trend": "Gaming Content"
+      "video_trends_analysis": {
+        "total_videos": 10,
+        "total_views": 26364594,
+        "average_views_per_video": 2636459.4,
+        "content_patterns": {
+          "prevalence_of_trailers": {
+            "count": 5,
+            "percentage": 50,
+            "description": "Trailers and teasers are a dominant format, likely due to high audience engagement and anticipation. These include mainstream franchises like Star Wars and Dragon Ball, indicating a strong interest in familiar IPs."
+          },
+          "gaming_content": {
+            "count": 3,
+            "percentage": 30,
+            "description": "Gaming-related videos, such as Minecraft and unique game formats like 'Mario Party with Beans', show a significant presence. This reflects the continued popularity of gaming content on YouTube."
+          },
+          "music_and_entertainment": {
+            "count": 2,
+            "percentage": 20,
+            "description": "Music videos and entertainment content, such as Spanish drill music, indicate diverse content consumption and niche interest areas."
+          }
+        }
       },
       "creator_patterns": {
-        "diversity": {
-          "description": "There is a diverse range of creators, each with one video in the trending list, showing that trending content is not dominated by a few channels but is spread across different creators."
-        },
-        "content_strategy": {
-          "description": "Creators are leveraging popular franchises (Star Wars, Masters of The Universe) and nostalgia (Back to the Future) to attract views."
+        "single_video_contributions": 100,
+        "top_channels_analysis": {
+          "diversity_in_channels": {
+            "description": "Each top channel contributed only one video, suggesting a wide diversity of creators making it to the trending list, rather than dominance by a few creators."
+          },
+          "notable_creators": {
+            "GLITCH": {
+              "description": "Known for gaming content, likely the creator of '2 Minecraft Pros VS 1000 Hunters'. Their presence indicates engagement with competitive gaming content."
+            },
+            "Star Wars": {
+              "description": "A major franchise with a significant fanbase. The inclusion of the 'Maul - Shadow Lord' teaser suggests strong viewer interest in established franchises."
+            }
+          }
         }
       },
       "market_opportunities": {
-        "untapped_potential": "Branded Content Collaborations",
-        "description": "Given the popularity of trailers and gaming content, there is potential for collaborations between game developers and content creators to produce branded content or exclusive previews.",
-        "cross-promotion": {
-          "opportunity": "Cross-Promotion with Streaming Services",
-          "description": "With multiple trailers for streaming services, there is an opportunity for creators to partner with platforms like Disney+ and Prime Video for cross-promotional campaigns."
+        "franchise_expansion": {
+          "description": "Opportunities exist for content creators to develop content around popular franchises such as Star Wars and Dragon Ball, which have proven viewership appeal."
         },
-        "niche_exploitation": {
-          "opportunity": "Nostalgia-Focused Content",
-          "description": "Content that taps into nostalgia (e.g., Back to the Future, Masters of The Universe) can be further explored to engage older demographics who are drawn to nostalgic themes."
-        }
-      },
-      "data-driven_insights": {
-        "average_views_per_video": 2810608.3,
-        "engagement_potential": {
-          "high_engagement": "Videos related to well-known franchises and gaming are likely to have higher engagement rates due to their built-in fanbases."
+        "gaming content": {
+          "description": "Leverage the popularity of gaming videos by exploring unique and interactive formats. Collaborations with gaming influencers could amplify reach."
         },
-        "category_inference": {
-          "likely_categories": [
-            "Entertainment",
-            "Gaming",
-            "Movies",
-            "Television"
-          ],
-          "description": "Based on the video titles and content, these categories are likely to be the main areas of interest."
+        "localized music content": {
+          "description": "The success of Spanish drill music indicates potential for localized content strategy. Creators could tap into regional music trends to capture niche audiences."
+        },
+        "short-form content": {
+          "description": "Given the presence of short teaser content, there is an opportunity for more short-form, high-engagement videos, particularly those with a strong visual or narrative hook."
         }
       },
       "metadata_stats": {
@@ -537,7 +571,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2810608
+        "avg_views_per_video": 2636459
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
