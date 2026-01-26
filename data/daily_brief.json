@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-01-25T21:08:35.460623",
-  "date": "2026-01-25",
+  "timestamp": "2026-01-26T00:40:33.123105",
+  "date": "2026-01-26",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 1811201,
-      "like_count": 127319,
-      "comment_count": 10438,
+      "view_count": 1991823,
+      "like_count": 134700,
+      "comment_count": 10891,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yP5RGz_CRFM/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 920006,
-      "like_count": 73903,
-      "comment_count": 6458,
+      "view_count": 1285695,
+      "like_count": 83311,
+      "comment_count": 7113,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 252856,
-      "like_count": 15156,
-      "comment_count": 1771,
+      "view_count": 273837,
+      "like_count": 15797,
+      "comment_count": 1866,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CU2HOhS9yOo/hqdefault.jpg",
       "duration": "PT1H20M30S",
       "duration_seconds": 4830,
-      "view_count": 1422907,
-      "like_count": 139340,
-      "comment_count": 22716,
+      "view_count": 1954374,
+      "like_count": 156729,
+      "comment_count": 24190,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 376781,
-      "like_count": 12068,
-      "comment_count": 987,
+      "view_count": 405664,
+      "like_count": 12506,
+      "comment_count": 1021,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -140,6 +140,51 @@
         "dragon ball sparking zero news"
       ],
       "url": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
+    },
+    {
+      "video_id": "3NDNLbQKXmc",
+      "title": "I want these brainrot",
+      "description": "",
+      "channel_title": "Minezy",
+      "channel_id": "UCtdbt7sSw5AYsT1Kf22gQRQ",
+      "published_at": "2026-01-25T20:15:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3NDNLbQKXmc/hqdefault.jpg",
+      "duration": "PT11S",
+      "duration_seconds": 11,
+      "view_count": 328743,
+      "like_count": 1240,
+      "comment_count": 7,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3NDNLbQKXmc"
+    },
+    {
+      "video_id": "V2Gx9icNQiA",
+      "title": "GAMEOVERSE [TRAILER]",
+      "description": "Gameoverse is an animated series about VIDEO GAME WORLDS!!!.. Horrifically exploding. And saving them means helping the bad guy stop the good guy or everyone dies.\n\nPilot coming in May.\nCreated & Directed by Ross O'Donovan\nWritten by Ross O’Donovan & Arin Hanson\n\nTrailer Opening Music (0:03 - 1:07) by Jake Kaufman\nMontage Music \"The Final Battle\" (1:07 - 2:04) by Mattashi @MattashiComposer",
+      "channel_title": "GLITCH",
+      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
+      "published_at": "2026-01-23T20:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
+      "duration": "PT2M8S",
+      "duration_seconds": 128,
+      "view_count": 2631435,
+      "like_count": 335053,
+      "comment_count": 23068,
+      "category_id": "1",
+      "tags": [
+        "glitch",
+        "glitch productions",
+        "digital circus",
+        "the amazing digital circus",
+        "murder drones",
+        "Pomni",
+        "Uzi",
+        "Jax",
+        "Ragatha",
+        "Kinger"
+      ],
+      "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
       "video_id": "KgMbiyy1vQI",
@@ -159,98 +204,60 @@
       "url": "https://www.youtube.com/watch?v=KgMbiyy1vQI"
     },
     {
-      "video_id": "V2Gx9icNQiA",
-      "title": "GAMEOVERSE [TRAILER]",
-      "description": "Gameoverse is an animated series about VIDEO GAME WORLDS!!!.. Horrifically exploding. And saving them means helping the bad guy stop the good guy or everyone dies.\n\nPilot coming in May.\nCreated & Directed by Ross O'Donovan\nWritten by Ross O’Donovan & Arin Hanson\n\nTrailer Opening Music (0:03 - 1:07) by Jake Kaufman\nMontage Music \"The Final Battle\" (1:07 - 2:04) by Mattashi @MattashiComposer",
-      "channel_title": "GLITCH",
-      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
-      "published_at": "2026-01-23T20:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
-      "duration": "PT2M8S",
-      "duration_seconds": 128,
-      "view_count": 2550307,
-      "like_count": 329717,
-      "comment_count": 22783,
-      "category_id": "1",
-      "tags": [
-        "glitch",
-        "glitch productions",
-        "digital circus",
-        "the amazing digital circus",
-        "murder drones",
-        "Pomni",
-        "Uzi",
-        "Jax",
-        "Ragatha",
-        "Kinger"
-      ],
-      "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
-    },
-    {
-      "video_id": "RlOXICpHr2M",
-      "title": "The NFL Today",
-      "description": "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-      "channel_title": "CW 69",
-      "channel_id": "UC99KUR8vlLdPRvkT8TzfYKQ",
-      "published_at": "2026-01-11T00:49:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RlOXICpHr2M/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RlOXICpHr2M"
-    },
-    {
-      "video_id": "4ml1Qf4Bngw",
-      "title": "THE SUPER MARIO GALAXY MOVIE Trailer 2 (NEW 2026) 4K",
-      "description": "Official Website: https://www.thesupermariogalaxymovie.com\n\nNew galaxies. New friends. Yoshi joins the adventure. The Super Mario Galaxy Movie is only in theaters April 1.\n\nThe Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.\n \nThe film will be co-financed by Universal Pictures and Nintendo and will be released worldwide by Universal Pictures.\n\nThe Super Mario Galaxy Movie is directed by returning filmmakers Aaron Horvath and Michael Jelenic, from a screenplay by returning screenwriter Matthew Fogel, with Brian Tyler returning to compose the score.\n\nSUBSCRIBE for more ANIMATED videos here: www.youtube.com/@JoBloAnimatedVideos?sub_confirmation=1\n\nFootage Courtesy Of NBCUniversal Media, LLC.\n\n#TheSuperMarioG",
-      "channel_title": "JoBlo Animated Videos",
-      "channel_id": "UC2sxxXRBL5SgY0fI58BrOCA",
-      "published_at": "2026-01-25T14:13:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4ml1Qf4Bngw/hqdefault.jpg",
-      "duration": "PT2M24S",
-      "duration_seconds": 144,
-      "view_count": 125599,
-      "like_count": 4169,
-      "comment_count": 551,
-      "category_id": "1",
-      "tags": [
-        "THE SUPER MARIO GALAXY MOVIE Trailer",
-        "THE SUPER MARIO GALAXY MOVIE Title",
-        "THE SUPER MARIO",
-        "Princess Peach",
-        "Anya Taylor-Joy",
-        "Mario",
-        "Chris Pratt",
-        "Bowser",
-        "Jack Black",
-        "Toad"
-      ],
-      "url": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
-    },
-    {
-      "video_id": "xXAEVrLoaTs",
-      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-25T08:52:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
-      "duration": "PT7H13M30S",
-      "duration_seconds": 26010,
-      "view_count": 1001801,
-      "like_count": 18162,
-      "comment_count": 148,
+      "video_id": "lDDgeUfWssA",
+      "title": "Everything You MISSED In The NEW Mario Galaxy Movie Trailer #2!",
+      "description": "A NEW Trailer is HERE for the Mario Galaxy movie! This time we have TONS of cameos and easter eggs including new characters to talk about, I guarantee you missed some of these crazy new secrets! \n\nIf you enjoyed the video, make sure to subscribe, leave a like and hit the bell to stay up to date on all things Nintendo, it helps more than you think!\n\nIntro By Paulygon:\nhttps://www.youtube.com/watch?v=nDBUfySOapM\n\nOutro: Qumu Pikmin \"Today's Results\" Remix-\nhttps://www.youtube.com/watch?v=OHN7GhNuZ0E\n\nFollow me on social media for more content and updates!\nTwitter:\nhttps://twitter.com/nin10doland\n-----------------------------------------------------------------------------------\nOfficial Nin10doland Discord:\nhttps://discord.gg/49hv292\n-------------------------------------------------------------------------------------\nInstagram:\nNin10doland: https://www.instagram.com/nin10doland/\nPersonal: https://www.instagram.com/lstrouse7/\n--------------------------------------------------------------",
+      "channel_title": "Nin10doland",
+      "channel_id": "UC-YzOyNh3lucFu_mfLyNwFg",
+      "published_at": "2026-01-25T16:35:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lDDgeUfWssA/hqdefault.jpg",
+      "duration": "PT12M47S",
+      "duration_seconds": 767,
+      "view_count": 40557,
+      "like_count": 1929,
+      "comment_count": 255,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "Mario galaxy movie trailer",
+        "Mario galaxy movie trailer 2",
+        "Mario movie",
+        "Mario movie trailer",
+        "super Mario galaxy",
+        "Mario galaxy 2",
+        "new 3d mario",
+        "Mario galaxy movie direct",
+        "things you missed",
+        "easter eggs"
       ],
-      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
+      "url": "https://www.youtube.com/watch?v=lDDgeUfWssA"
+    },
+    {
+      "video_id": "ijqXQVlay9c",
+      "title": "supersonic spear trap VS youtuber SMP",
+      "description": "🔥 Download War Thunder for FREE and get awesome bonuses! PC & Consoles — https://wtplay.link/judelow and WT Mobile — https://wtm.game/judeloww\n\nbuy my sigma capes https://feathermc.com/judelow\nthanks to chuck nasty for lining em up\n\n00:00 - intro\n01:11 - testing the spear\n01:59 - the perfect amount\n03:20 - Improving the KB trap\n03:57 - setting it up\n04:58 - testing the trap\n06:39 - trapping streamers\n09:45 - the plot\n10:45 - sneaky builder\n11:44 - making sure it works\n12:50 - it begins.\n13:23 - the REAL spear master\n\nJoin MY discord to be part of the giveaways i'm doing\nhttps://discord.gg/QWmxTnHNBX\n\nmost music by Epidemic sounds\ncredit to Alex Pyne for recreating the v-sauce music\n\nBuy a channel membership for cool perks such as \nsneak peeks at videos\nplay games with me and other members\nhelp with videos\nbe in videos if you clutch up \ncool badge",
+      "channel_title": "JudeLow",
+      "channel_id": "UC2gufCjSyNihNbOEZE50bwQ",
+      "published_at": "2026-01-25T17:42:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ijqXQVlay9c/hqdefault.jpg",
+      "duration": "PT15M17S",
+      "duration_seconds": 917,
+      "view_count": 544032,
+      "like_count": 41386,
+      "comment_count": 1870,
+      "category_id": "20",
+      "tags": [
+        "spear judelow",
+        "judelow spear",
+        "judelow uses sprea",
+        "spear trap",
+        "spear trap minecraft",
+        "miencraft spear trap",
+        "minecraft spear",
+        "boat spear",
+        "spear boat trap",
+        "minecraft spear boat"
+      ],
+      "url": "https://www.youtube.com/watch?v=ijqXQVlay9c"
     }
   ],
   "videos_with_transcripts": [],
@@ -265,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 1811201,
-      "like_count": 127319,
-      "comment_count": 10438,
+      "view_count": 1991823,
+      "like_count": 134700,
+      "comment_count": 10891,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OOmRInABehI"
@@ -282,9 +289,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yP5RGz_CRFM/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 920006,
-      "like_count": 73903,
-      "comment_count": 6458,
+      "view_count": 1285695,
+      "like_count": 83311,
+      "comment_count": 7113,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -310,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SZhl5-ag0tA/hqdefault.jpg",
       "duration": "PT1M48S",
       "duration_seconds": 108,
-      "view_count": 252856,
-      "like_count": 15156,
-      "comment_count": 1771,
+      "view_count": 273837,
+      "like_count": 15797,
+      "comment_count": 1866,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -338,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CU2HOhS9yOo/hqdefault.jpg",
       "duration": "PT1H20M30S",
       "duration_seconds": 4830,
-      "view_count": 1422907,
-      "like_count": 139340,
-      "comment_count": 22716,
+      "view_count": 1954374,
+      "like_count": 156729,
+      "comment_count": 24190,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -366,9 +373,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cKpkB3qcqo/hqdefault.jpg",
       "duration": "PT5M40S",
       "duration_seconds": 340,
-      "view_count": 376781,
-      "like_count": 12068,
-      "comment_count": 987,
+      "view_count": 405664,
+      "like_count": 12506,
+      "comment_count": 1021,
       "category_id": "20",
       "tags": [
         "dragon ball z sparking zero",
@@ -394,9 +401,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V2Gx9icNQiA/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 2550307,
-      "like_count": 329717,
-      "comment_count": 22783,
+      "view_count": 2631435,
+      "like_count": 335053,
+      "comment_count": 23068,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -413,53 +420,77 @@
       "url": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
     },
     {
-      "video_id": "4ml1Qf4Bngw",
-      "title": "THE SUPER MARIO GALAXY MOVIE Trailer 2 (NEW 2026) 4K",
-      "description": "Official Website: https://www.thesupermariogalaxymovie.com\n\nNew galaxies. New friends. Yoshi joins the adventure. The Super Mario Galaxy Movie is only in theaters April 1.\n\nThe Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.\n \nThe film will be co-financed by Universal Pictures and Nintendo and will be released worldwide by Universal Pictures.\n\nThe Super Mario Galaxy Movie is directed by returning filmmakers Aaron Horvath and Michael Jelenic, from a screenplay by returning screenwriter Matthew Fogel, with Brian Tyler returning to compose the score.\n\nSUBSCRIBE for more ANIMATED videos here: www.youtube.com/@JoBloAnimatedVideos?sub_confirmation=1\n\nFootage Courtesy Of NBCUniversal Media, LLC.\n\n#TheSuperMarioG",
-      "channel_title": "JoBlo Animated Videos",
-      "channel_id": "UC2sxxXRBL5SgY0fI58BrOCA",
-      "published_at": "2026-01-25T14:13:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4ml1Qf4Bngw/hqdefault.jpg",
-      "duration": "PT2M24S",
-      "duration_seconds": 144,
-      "view_count": 125599,
-      "like_count": 4169,
-      "comment_count": 551,
-      "category_id": "1",
-      "tags": [
-        "THE SUPER MARIO GALAXY MOVIE Trailer",
-        "THE SUPER MARIO GALAXY MOVIE Title",
-        "THE SUPER MARIO",
-        "Princess Peach",
-        "Anya Taylor-Joy",
-        "Mario",
-        "Chris Pratt",
-        "Bowser",
-        "Jack Black",
-        "Toad"
-      ],
-      "url": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
-    },
-    {
-      "video_id": "xXAEVrLoaTs",
-      "title": "🔴LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-01-25T08:52:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xXAEVrLoaTs/hqdefault.jpg",
-      "duration": "PT7H13M30S",
-      "duration_seconds": 26010,
-      "view_count": 1001801,
-      "like_count": 18162,
-      "comment_count": 148,
+      "video_id": "lDDgeUfWssA",
+      "title": "Everything You MISSED In The NEW Mario Galaxy Movie Trailer #2!",
+      "description": "A NEW Trailer is HERE for the Mario Galaxy movie! This time we have TONS of cameos and easter eggs including new characters to talk about, I guarantee you missed some of these crazy new secrets! \n\nIf you enjoyed the video, make sure to subscribe, leave a like and hit the bell to stay up to date on all things Nintendo, it helps more than you think!\n\nIntro By Paulygon:\nhttps://www.youtube.com/watch?v=nDBUfySOapM\n\nOutro: Qumu Pikmin \"Today's Results\" Remix-\nhttps://www.youtube.com/watch?v=OHN7GhNuZ0E\n\nFollow me on social media for more content and updates!\nTwitter:\nhttps://twitter.com/nin10doland\n-----------------------------------------------------------------------------------\nOfficial Nin10doland Discord:\nhttps://discord.gg/49hv292\n-------------------------------------------------------------------------------------\nInstagram:\nNin10doland: https://www.instagram.com/nin10doland/\nPersonal: https://www.instagram.com/lstrouse7/\n--------------------------------------------------------------",
+      "channel_title": "Nin10doland",
+      "channel_id": "UC-YzOyNh3lucFu_mfLyNwFg",
+      "published_at": "2026-01-25T16:35:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lDDgeUfWssA/hqdefault.jpg",
+      "duration": "PT12M47S",
+      "duration_seconds": 767,
+      "view_count": 40557,
+      "like_count": 1929,
+      "comment_count": 255,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "Mario galaxy movie trailer",
+        "Mario galaxy movie trailer 2",
+        "Mario movie",
+        "Mario movie trailer",
+        "super Mario galaxy",
+        "Mario galaxy 2",
+        "new 3d mario",
+        "Mario galaxy movie direct",
+        "things you missed",
+        "easter eggs"
       ],
-      "url": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
+      "url": "https://www.youtube.com/watch?v=lDDgeUfWssA"
+    },
+    {
+      "video_id": "ijqXQVlay9c",
+      "title": "supersonic spear trap VS youtuber SMP",
+      "description": "🔥 Download War Thunder for FREE and get awesome bonuses! PC & Consoles — https://wtplay.link/judelow and WT Mobile — https://wtm.game/judeloww\n\nbuy my sigma capes https://feathermc.com/judelow\nthanks to chuck nasty for lining em up\n\n00:00 - intro\n01:11 - testing the spear\n01:59 - the perfect amount\n03:20 - Improving the KB trap\n03:57 - setting it up\n04:58 - testing the trap\n06:39 - trapping streamers\n09:45 - the plot\n10:45 - sneaky builder\n11:44 - making sure it works\n12:50 - it begins.\n13:23 - the REAL spear master\n\nJoin MY discord to be part of the giveaways i'm doing\nhttps://discord.gg/QWmxTnHNBX\n\nmost music by Epidemic sounds\ncredit to Alex Pyne for recreating the v-sauce music\n\nBuy a channel membership for cool perks such as \nsneak peeks at videos\nplay games with me and other members\nhelp with videos\nbe in videos if you clutch up \ncool badge",
+      "channel_title": "JudeLow",
+      "channel_id": "UC2gufCjSyNihNbOEZE50bwQ",
+      "published_at": "2026-01-25T17:42:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ijqXQVlay9c/hqdefault.jpg",
+      "duration": "PT15M17S",
+      "duration_seconds": 917,
+      "view_count": 544032,
+      "like_count": 41386,
+      "comment_count": 1870,
+      "category_id": "20",
+      "tags": [
+        "spear judelow",
+        "judelow spear",
+        "judelow uses sprea",
+        "spear trap",
+        "spear trap minecraft",
+        "miencraft spear trap",
+        "minecraft spear",
+        "boat spear",
+        "spear boat trap",
+        "minecraft spear boat"
+      ],
+      "url": "https://www.youtube.com/watch?v=ijqXQVlay9c"
+    },
+    {
+      "video_id": "3NDNLbQKXmc",
+      "title": "I want these brainrot",
+      "description": "",
+      "channel_title": "Minezy",
+      "channel_id": "UCtdbt7sSw5AYsT1Kf22gQRQ",
+      "published_at": "2026-01-25T20:15:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3NDNLbQKXmc/hqdefault.jpg",
+      "duration": "PT11S",
+      "duration_seconds": 11,
+      "view_count": 328743,
+      "like_count": 1240,
+      "comment_count": 7,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3NDNLbQKXmc"
     },
     {
       "video_id": "KgMbiyy1vQI",
@@ -477,63 +508,63 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KgMbiyy1vQI"
-    },
-    {
-      "video_id": "RlOXICpHr2M",
-      "title": "The NFL Today",
-      "description": "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-      "channel_title": "CW 69",
-      "channel_id": "UC99KUR8vlLdPRvkT8TzfYKQ",
-      "published_at": "2026-01-11T00:49:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RlOXICpHr2M/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RlOXICpHr2M"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 9456160,
+        "average_views_per_video": 945616
+      },
       "content_trends": {
-        "anime_and_gaming": {
-          "observation": "Anime and gaming-related content are highly prevalent among the trending videos, with titles related to Dragon Ball, Super Mario, and Minecraft.",
-          "implication": "There is a strong audience interest in anime series like Dragon Ball and popular gaming franchises such as Super Mario and Minecraft.",
-          "actionable_insight": "Content creators should consider leveraging popular anime and gaming franchises in their videos to tap into existing fan bases, potentially increasing viewership and engagement."
-        },
-        "movie_and_trailer_content": {
-          "observation": "Trailer and movie-related content, particularly involving adaptations or continuations of popular franchises (e.g., The Super Mario Galaxy Movie), are trending.",
-          "implication": "There is a significant interest in upcoming movie releases and adaptations of well-known franchises, suggesting an opportunity for content around previews, reviews, and fan theories.",
-          "actionable_insight": "Channels can benefit from creating anticipation and engagement by producing speculative content, analyses, and fan discussions related to upcoming movie releases and trailers."
-        },
-        "live_streaming": {
-          "observation": "Live streaming content, as seen with the ARC RAIDERS live video, is part of the trending list.",
-          "implication": "Live streaming is an engaging format that can draw real-time interaction and participation from audiences.",
-          "actionable_insight": "Creators should explore live streaming to engage with their audience in real-time, incorporating interactive elements like Q&A sessions or live reactions to trending topics."
-        }
+        "dominant_themes": [
+          "Dragon Ball",
+          "Super Mario",
+          "Anime",
+          "Gaming"
+        ],
+        "observations": [
+          "Anime and gaming-related content appear to be trending, as evidenced by multiple video titles related to 'Dragon Ball' and 'Super Mario'.",
+          "Video game adaptations and trailers are popular, suggesting a strong audience interest in both new releases and updates for existing franchises.",
+          "The crossover between video game culture and traditional media (like movies) is capturing significant attention."
+        ]
       },
       "creator_patterns": {
-        "diverse_creator_base": {
-          "observation": "The top channels feature a mix of corporate channels (東映アニメーション, Nintendo of America, Bandai Namco) and individual creators (Wemmbu, SLOplays).",
-          "implication": "Both established corporate entities and independent creators have the potential to trend, suggesting a diverse competitive landscape on YouTube.",
-          "actionable_insight": "Independent creators can collaborate with corporate channels to access larger audiences, while corporate channels can engage authentic influencers to enhance their brand presence."
-        }
+        "top_channels": [
+          "東映アニメーション公式YouTubeチャンネル",
+          "Nintendo of America",
+          "Bandai Namco Entertainment America",
+          "Wemmbu",
+          "SLOplays"
+        ],
+        "observations": [
+          "Top channels are generally official brand channels or established creators in the anime and gaming niches.",
+          "These channels leverage existing fanbases from popular franchises (Dragon Ball, Super Mario) to drive engagement and views."
+        ]
       },
       "market_opportunities": {
-        "cross-franchise collaborations": {
-          "observation": "There is a crossover appeal in content that spans multiple popular franchises (e.g., Dragon Ball, Super Mario).",
-          "implication": "Cross-franchise content can capture audiences from multiple fan bases, creating unique engagement opportunities.",
-          "actionable_insight": "Consider developing content that creatively combines elements from different franchises, such as fan theories, crossover episodes, or themed challenges."
-        },
-        "language and localization": {
-          "observation": "The presence of a Japanese channel (東映アニメーション) suggests a global interest in non-English content.",
-          "implication": "Localized content can cater to specific language-speaking audiences and broaden a channel's reach.",
-          "actionable_insight": "Channels should explore producing content in multiple languages or providing subtitles to capture non-English speaking audiences, expanding their global viewership."
-        }
+        "content_creation": [
+          {
+            "opportunity": "Anime and Gaming Crossover Content",
+            "insight": "Create content that explores the intersection of anime and gaming, such as anime adaptations of popular games or vice versa."
+          },
+          {
+            "opportunity": "Trailer Analysis and Breakdown",
+            "insight": "Capitalize on the popularity of trailers by creating detailed analysis and breakdown videos that delve into easter eggs and hidden details."
+          }
+        ],
+        "audience_engagement": [
+          {
+            "opportunity": "Interactive Content",
+            "insight": "Develop interactive content like quizzes or polls related to trending franchises to increase engagement and viewer retention."
+          },
+          {
+            "opportunity": "Collaborations with Influencers",
+            "insight": "Partner with popular influencers within the anime and gaming communities to co-create content and tap into their audiences."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -541,7 +572,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 846145
+        "avg_views_per_video": 945616
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
