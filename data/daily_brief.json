@@ -1,34 +1,17 @@
 {
-  "timestamp": "2026-01-27T09:15:37.152190",
+  "timestamp": "2026-01-27T12:17:14.257022",
   "date": "2026-01-27",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
-    {
-      "video_id": "_uihXIKNP7c",
-      "title": "My Cousin Vinny",
-      "description": "New York lawyer Vinny has never won a case. When his teenage cousin Bill and his friend Stan are accused of murder in a backwater Alabama town, it's up to the nervous Vinny to save him from jail, even though he's only ever tried personal injury cases before, and none of them successfully.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-13T01:11:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_uihXIKNP7c/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=_uihXIKNP7c"
-    },
     {
       "video_id": "xFoOGGQCT4A",
       "title": "See Rapper Travis Scott in New ‘Odyssey’ Trailer",
@@ -39,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xFoOGGQCT4A/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 73970,
-      "like_count": 508,
-      "comment_count": 147,
+      "view_count": 82301,
+      "like_count": 554,
+      "comment_count": 153,
       "category_id": "25",
       "tags": [
         "Al Roker",
@@ -58,25 +41,21 @@
       "url": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
     },
     {
-      "video_id": "-_DaUyAB_DE",
-      "title": "Minecraft Speedrunner VS 5 Hunters REVIVAL",
-      "description": "You voted for it. Time to take on 5 hunters. The hunters are back and better than ever. Will we AT LAST move on to 6 hunters?\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dream\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \n\nSeed: 935327412\nVersion: 1.21.11\n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there is FIVE hunters. The 6th rendition of the 5 hunters series, the revival...\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friends George and Sapnap and BadBoyHalo and Antfrost  and Awesamdude try to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\n(Most) Music is from: @dreamproductionsXD \n\n#MinecraftManhunt",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-01-26T00:30:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-_DaUyAB_DE/hqdefault.jpg",
-      "duration": "PT52M40S",
-      "duration_seconds": 3160,
-      "view_count": 4691485,
-      "like_count": 261685,
-      "comment_count": 16805,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
+      "video_id": "_uihXIKNP7c",
+      "title": "My Cousin Vinny",
+      "description": "New York lawyer Vinny has never won a case. When his teenage cousin Bill and his friend Stan are accused of murder in a backwater Alabama town, it's up to the nervous Vinny to save him from jail, even though he's only ever tried personal injury cases before, and none of them successfully.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-27T10:43:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_uihXIKNP7c/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=_uihXIKNP7c"
     },
     {
       "video_id": "l_ut22lhPJA",
@@ -88,12 +67,56 @@
       "thumbnail_url": "https://i.ytimg.com/vi/l_ut22lhPJA/hqdefault.jpg",
       "duration": "PT14M21S",
       "duration_seconds": 861,
-      "view_count": 83902,
-      "like_count": 2397,
-      "comment_count": 272,
+      "view_count": 94950,
+      "like_count": 2562,
+      "comment_count": 297,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=l_ut22lhPJA"
+    },
+    {
+      "video_id": "-_DaUyAB_DE",
+      "title": "Minecraft Speedrunner VS 5 Hunters REVIVAL",
+      "description": "You voted for it. Time to take on 5 hunters. The hunters are back and better than ever. Will we AT LAST move on to 6 hunters?\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dream\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \n\nSeed: 935327412\nVersion: 1.21.11\n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there is FIVE hunters. The 6th rendition of the 5 hunters series, the revival...\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friends George and Sapnap and BadBoyHalo and Antfrost  and Awesamdude try to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\n(Most) Music is from: @dreamproductionsXD \n\n#MinecraftManhunt",
+      "channel_title": "Dream",
+      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "published_at": "2026-01-26T00:30:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-_DaUyAB_DE/hqdefault.jpg",
+      "duration": "PT52M40S",
+      "duration_seconds": 3160,
+      "view_count": 4855792,
+      "like_count": 266246,
+      "comment_count": 17086,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "dream",
+        "dream minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
+    },
+    {
+      "video_id": "tZ0JbnbWpQ8",
+      "title": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker",
+      "description": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker\n© 2026 - Piece of Magic Entertainment",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-01-26T14:36:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tZ0JbnbWpQ8/hqdefault.jpg",
+      "duration": "PT1M57S",
+      "duration_seconds": 117,
+      "view_count": 97094,
+      "like_count": 4268,
+      "comment_count": 280,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=tZ0JbnbWpQ8"
     },
     {
       "video_id": "oylnqAzTV08",
@@ -105,9 +128,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oylnqAzTV08/hqdefault.jpg",
       "duration": "PT40M32S",
       "duration_seconds": 2432,
-      "view_count": 381678,
-      "like_count": 32851,
-      "comment_count": 2420,
+      "view_count": 468976,
+      "like_count": 37591,
+      "comment_count": 2692,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -124,27 +147,21 @@
       "url": "https://www.youtube.com/watch?v=oylnqAzTV08"
     },
     {
-      "video_id": "tZ0JbnbWpQ8",
-      "title": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker",
-      "description": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker\n© 2026 - Piece of Magic Entertainment",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-01-26T14:36:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tZ0JbnbWpQ8/hqdefault.jpg",
-      "duration": "PT1M57S",
-      "duration_seconds": 117,
-      "view_count": 74399,
-      "like_count": 3150,
-      "comment_count": 220,
+      "video_id": "OOmRInABehI",
+      "title": "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
+      "description": "Series Premieres in Fall of 2026!\nThe anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus in Fall 2026!\n\n#dragonball #dragonballsuper\n\n◾️INTRODUCTION\nThe globally beloved manga DRAGON BALL by Akira Toriyama continues to captivate fans through a wide range of media—from TV animation, movies, games, and merchandising—standing as a top-ranked title with extraordinary worldwide popularity. \nNow, in 2026, the anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus! This ENHANCED edition introduces a large volume of newly added and redrawn cuts, as well as a reconstructed narrative. With cutting-edge visual expression, the series delivers even more immersive battle scenes and a more faithful representation of the original manga—bringing an ENHANCED edition to life like never before.\n\nSeveral years have passed since the fierce ba",
+      "channel_title": "東映アニメーション公式YouTubeチャンネル",
+      "channel_id": "UCLhgIX2L5ZCaWdlaxR_oTAg",
+      "published_at": "2026-01-25T04:45:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 2637042,
+      "like_count": 164540,
+      "comment_count": 12716,
       "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026"
-      ],
-      "url": "https://www.youtube.com/watch?v=tZ0JbnbWpQ8"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=OOmRInABehI"
     },
     {
       "video_id": "1t7VlZPl_AU",
@@ -156,9 +173,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1t7VlZPl_AU/hqdefault.jpg",
       "duration": "PT43M58S",
       "duration_seconds": 2638,
-      "view_count": 571678,
-      "like_count": 33611,
-      "comment_count": 939,
+      "view_count": 651462,
+      "like_count": 36847,
+      "comment_count": 981,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -175,38 +192,60 @@
       "url": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
     },
     {
-      "video_id": "OOmRInABehI",
-      "title": "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
-      "description": "Series Premieres in Fall of 2026!\nThe anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus in Fall 2026!\n\n#dragonball #dragonballsuper\n\n◾️INTRODUCTION\nThe globally beloved manga DRAGON BALL by Akira Toriyama continues to captivate fans through a wide range of media—from TV animation, movies, games, and merchandising—standing as a top-ranked title with extraordinary worldwide popularity. \nNow, in 2026, the anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus! This ENHANCED edition introduces a large volume of newly added and redrawn cuts, as well as a reconstructed narrative. With cutting-edge visual expression, the series delivers even more immersive battle scenes and a more faithful representation of the original manga—bringing an ENHANCED edition to life like never before.\n\nSeveral years have passed since the fierce ba",
-      "channel_title": "東映アニメーション公式YouTubeチャンネル",
-      "channel_id": "UCLhgIX2L5ZCaWdlaxR_oTAg",
-      "published_at": "2026-01-25T04:45:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 2614076,
-      "like_count": 163605,
-      "comment_count": 12656,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=OOmRInABehI"
+      "video_id": "yZbexxHip4w",
+      "title": "Anissa & Lucan Gameplay Trailer | Invincible VS",
+      "description": "Anissa and Lucan are coming. The Viltrumite invasion has begun. \n\nAnissa and Lucan are the 12th and 13th Fighters announced for Invincible VS. Play as these Viltrumites along with the rest of the 18 fighter roster when Invincible VS releases on Xbox, PC, and PS5 April 30th, 2026.\n\nPreorder any digital edition today and receive the Zero-Suit Invincible skin: https://invinciblevs.com/#preorder\n\nFrom @Skybound and in-house studio Quarter Up. Preorder now on PC, Xbox X|S, and PS5.\n\nFollow us, ‪@InvincibleVS on the apps:\nInstagram ► https://www.instagram.com/invinciblevs/\nX ► https://x.com/InvincibleVS\nTikTok ► https://www.tiktok.com/@InvincibleVS\nDiscord ► https://discord.gg/invinciblevs\nTwitch ► https://www.twitch.tv/invinciblevsgame\n\nCecil Stedman Gameplay Trailer | Invincible VS:\n• https://youtu.be/nKYAyVmdqkM\n\n#anissa #lucan  #invinciblevs #tagfighter",
+      "channel_title": "Invincible VS",
+      "channel_id": "UC5L1HQQAKErQKlCoIHTzXbQ",
+      "published_at": "2026-01-26T18:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yZbexxHip4w/hqdefault.jpg",
+      "duration": "PT1M26S",
+      "duration_seconds": 86,
+      "view_count": 91205,
+      "like_count": 5729,
+      "comment_count": 946,
+      "category_id": "20",
+      "tags": [
+        "Anissa",
+        "Lucan",
+        "Invincible",
+        "Invincible VS",
+        "Invincible VS Anissa",
+        "Invincible VS Lucan",
+        "Invincible VS Gameplay Trailers",
+        "Invincible VS Anissa gameplay",
+        "Invincible VS Lucan gameplay",
+        "anissa gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=yZbexxHip4w"
     },
     {
-      "video_id": "C_ND1eI8Y9w",
-      "title": "Mission: Impossible -- Fallout",
-      "description": "Ethan Hunt and the IMF team join forces with CIA assassin August Walker to prevent a disaster of epic proportions. Arms dealer John Lark and a group of terrorists known as the Apostles plan to use three plutonium cores for a simultaneous nuclear attack on the Vatican, Jerusalem and Mecca, Saudi Arabia. When the weapons go missing, Ethan and his crew find themselves in a desperate race against time to prevent them from falling into the wrong hands.",
-      "channel_title": "FX",
-      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-01-12T00:47:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C_ND1eI8Y9w/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
+      "video_id": "jp0-psVMD1k",
+      "title": "There’s Anomalies In This Attic…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-01-26T23:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jp0-psVMD1k/hqdefault.jpg",
+      "duration": "PT2H8M31S",
+      "duration_seconds": 7711,
+      "view_count": 255505,
+      "like_count": 7823,
+      "comment_count": 554,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=jp0-psVMD1k"
     }
   ],
   "videos_with_transcripts": [],
@@ -221,9 +260,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xFoOGGQCT4A/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 73970,
-      "like_count": 508,
-      "comment_count": 147,
+      "view_count": 82301,
+      "like_count": 554,
+      "comment_count": 153,
       "category_id": "25",
       "tags": [
         "Al Roker",
@@ -240,25 +279,21 @@
       "url": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
     },
     {
-      "video_id": "-_DaUyAB_DE",
-      "title": "Minecraft Speedrunner VS 5 Hunters REVIVAL",
-      "description": "You voted for it. Time to take on 5 hunters. The hunters are back and better than ever. Will we AT LAST move on to 6 hunters?\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dream\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \n\nSeed: 935327412\nVersion: 1.21.11\n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there is FIVE hunters. The 6th rendition of the 5 hunters series, the revival...\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friends George and Sapnap and BadBoyHalo and Antfrost  and Awesamdude try to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\n(Most) Music is from: @dreamproductionsXD \n\n#MinecraftManhunt",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-01-26T00:30:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-_DaUyAB_DE/hqdefault.jpg",
-      "duration": "PT52M40S",
-      "duration_seconds": 3160,
-      "view_count": 4691485,
-      "like_count": 261685,
-      "comment_count": 16805,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
+      "video_id": "_uihXIKNP7c",
+      "title": "My Cousin Vinny",
+      "description": "New York lawyer Vinny has never won a case. When his teenage cousin Bill and his friend Stan are accused of murder in a backwater Alabama town, it's up to the nervous Vinny to save him from jail, even though he's only ever tried personal injury cases before, and none of them successfully.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-27T10:43:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_uihXIKNP7c/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=_uihXIKNP7c"
     },
     {
       "video_id": "l_ut22lhPJA",
@@ -270,12 +305,56 @@
       "thumbnail_url": "https://i.ytimg.com/vi/l_ut22lhPJA/hqdefault.jpg",
       "duration": "PT14M21S",
       "duration_seconds": 861,
-      "view_count": 83902,
-      "like_count": 2397,
-      "comment_count": 272,
+      "view_count": 94950,
+      "like_count": 2562,
+      "comment_count": 297,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=l_ut22lhPJA"
+    },
+    {
+      "video_id": "-_DaUyAB_DE",
+      "title": "Minecraft Speedrunner VS 5 Hunters REVIVAL",
+      "description": "You voted for it. Time to take on 5 hunters. The hunters are back and better than ever. Will we AT LAST move on to 6 hunters?\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dream\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \n\nSeed: 935327412\nVersion: 1.21.11\n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there is FIVE hunters. The 6th rendition of the 5 hunters series, the revival...\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friends George and Sapnap and BadBoyHalo and Antfrost  and Awesamdude try to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\n(Most) Music is from: @dreamproductionsXD \n\n#MinecraftManhunt",
+      "channel_title": "Dream",
+      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "published_at": "2026-01-26T00:30:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-_DaUyAB_DE/hqdefault.jpg",
+      "duration": "PT52M40S",
+      "duration_seconds": 3160,
+      "view_count": 4855792,
+      "like_count": 266246,
+      "comment_count": 17086,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "dream",
+        "dream minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
+    },
+    {
+      "video_id": "tZ0JbnbWpQ8",
+      "title": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker",
+      "description": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker\n© 2026 - Piece of Magic Entertainment",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-01-26T14:36:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tZ0JbnbWpQ8/hqdefault.jpg",
+      "duration": "PT1M57S",
+      "duration_seconds": 117,
+      "view_count": 97094,
+      "like_count": 4268,
+      "comment_count": 280,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=tZ0JbnbWpQ8"
     },
     {
       "video_id": "oylnqAzTV08",
@@ -287,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oylnqAzTV08/hqdefault.jpg",
       "duration": "PT40M32S",
       "duration_seconds": 2432,
-      "view_count": 381678,
-      "like_count": 32851,
-      "comment_count": 2420,
+      "view_count": 468976,
+      "like_count": 37591,
+      "comment_count": 2692,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -306,27 +385,21 @@
       "url": "https://www.youtube.com/watch?v=oylnqAzTV08"
     },
     {
-      "video_id": "tZ0JbnbWpQ8",
-      "title": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker",
-      "description": "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker\n© 2026 - Piece of Magic Entertainment",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-01-26T14:36:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tZ0JbnbWpQ8/hqdefault.jpg",
-      "duration": "PT1M57S",
-      "duration_seconds": 117,
-      "view_count": 74399,
-      "like_count": 3150,
-      "comment_count": 220,
+      "video_id": "OOmRInABehI",
+      "title": "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
+      "description": "Series Premieres in Fall of 2026!\nThe anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus in Fall 2026!\n\n#dragonball #dragonballsuper\n\n◾️INTRODUCTION\nThe globally beloved manga DRAGON BALL by Akira Toriyama continues to captivate fans through a wide range of media—from TV animation, movies, games, and merchandising—standing as a top-ranked title with extraordinary worldwide popularity. \nNow, in 2026, the anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus! This ENHANCED edition introduces a large volume of newly added and redrawn cuts, as well as a reconstructed narrative. With cutting-edge visual expression, the series delivers even more immersive battle scenes and a more faithful representation of the original manga—bringing an ENHANCED edition to life like never before.\n\nSeveral years have passed since the fierce ba",
+      "channel_title": "東映アニメーション公式YouTubeチャンネル",
+      "channel_id": "UCLhgIX2L5ZCaWdlaxR_oTAg",
+      "published_at": "2026-01-25T04:45:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 2637042,
+      "like_count": 164540,
+      "comment_count": 12716,
       "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026"
-      ],
-      "url": "https://www.youtube.com/watch?v=tZ0JbnbWpQ8"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=OOmRInABehI"
     },
     {
       "video_id": "1t7VlZPl_AU",
@@ -338,9 +411,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1t7VlZPl_AU/hqdefault.jpg",
       "duration": "PT43M58S",
       "duration_seconds": 2638,
-      "view_count": 571678,
-      "like_count": 33611,
-      "comment_count": 939,
+      "view_count": 651462,
+      "like_count": 36847,
+      "comment_count": 981,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -357,107 +430,187 @@
       "url": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
     },
     {
-      "video_id": "OOmRInABehI",
-      "title": "Anime “Dragon Ball Super: Beerus” | SUPER Launch Trailer",
-      "description": "Series Premieres in Fall of 2026!\nThe anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus in Fall 2026!\n\n#dragonball #dragonballsuper\n\n◾️INTRODUCTION\nThe globally beloved manga DRAGON BALL by Akira Toriyama continues to captivate fans through a wide range of media—from TV animation, movies, games, and merchandising—standing as a top-ranked title with extraordinary worldwide popularity. \nNow, in 2026, the anime Dragon Ball Super, original work, story, and character design by Akira Toriyama, is set to begin anew as Dragon Ball Super: Beerus! This ENHANCED edition introduces a large volume of newly added and redrawn cuts, as well as a reconstructed narrative. With cutting-edge visual expression, the series delivers even more immersive battle scenes and a more faithful representation of the original manga—bringing an ENHANCED edition to life like never before.\n\nSeveral years have passed since the fierce ba",
-      "channel_title": "東映アニメーション公式YouTubeチャンネル",
-      "channel_id": "UCLhgIX2L5ZCaWdlaxR_oTAg",
-      "published_at": "2026-01-25T04:45:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OOmRInABehI/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 2614076,
-      "like_count": 163605,
-      "comment_count": 12656,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=OOmRInABehI"
+      "video_id": "yZbexxHip4w",
+      "title": "Anissa & Lucan Gameplay Trailer | Invincible VS",
+      "description": "Anissa and Lucan are coming. The Viltrumite invasion has begun. \n\nAnissa and Lucan are the 12th and 13th Fighters announced for Invincible VS. Play as these Viltrumites along with the rest of the 18 fighter roster when Invincible VS releases on Xbox, PC, and PS5 April 30th, 2026.\n\nPreorder any digital edition today and receive the Zero-Suit Invincible skin: https://invinciblevs.com/#preorder\n\nFrom @Skybound and in-house studio Quarter Up. Preorder now on PC, Xbox X|S, and PS5.\n\nFollow us, ‪@InvincibleVS on the apps:\nInstagram ► https://www.instagram.com/invinciblevs/\nX ► https://x.com/InvincibleVS\nTikTok ► https://www.tiktok.com/@InvincibleVS\nDiscord ► https://discord.gg/invinciblevs\nTwitch ► https://www.twitch.tv/invinciblevsgame\n\nCecil Stedman Gameplay Trailer | Invincible VS:\n• https://youtu.be/nKYAyVmdqkM\n\n#anissa #lucan  #invinciblevs #tagfighter",
+      "channel_title": "Invincible VS",
+      "channel_id": "UC5L1HQQAKErQKlCoIHTzXbQ",
+      "published_at": "2026-01-26T18:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yZbexxHip4w/hqdefault.jpg",
+      "duration": "PT1M26S",
+      "duration_seconds": 86,
+      "view_count": 91205,
+      "like_count": 5729,
+      "comment_count": 946,
+      "category_id": "20",
+      "tags": [
+        "Anissa",
+        "Lucan",
+        "Invincible",
+        "Invincible VS",
+        "Invincible VS Anissa",
+        "Invincible VS Lucan",
+        "Invincible VS Gameplay Trailers",
+        "Invincible VS Anissa gameplay",
+        "Invincible VS Lucan gameplay",
+        "anissa gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=yZbexxHip4w"
     },
     {
-      "video_id": "_uihXIKNP7c",
-      "title": "My Cousin Vinny",
-      "description": "New York lawyer Vinny has never won a case. When his teenage cousin Bill and his friend Stan are accused of murder in a backwater Alabama town, it's up to the nervous Vinny to save him from jail, even though he's only ever tried personal injury cases before, and none of them successfully.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-13T01:11:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_uihXIKNP7c/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=_uihXIKNP7c"
-    },
-    {
-      "video_id": "C_ND1eI8Y9w",
-      "title": "Mission: Impossible -- Fallout",
-      "description": "Ethan Hunt and the IMF team join forces with CIA assassin August Walker to prevent a disaster of epic proportions. Arms dealer John Lark and a group of terrorists known as the Apostles plan to use three plutonium cores for a simultaneous nuclear attack on the Vatican, Jerusalem and Mecca, Saudi Arabia. When the weapons go missing, Ethan and his crew find themselves in a desperate race against time to prevent them from falling into the wrong hands.",
-      "channel_title": "FX",
-      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-01-12T00:47:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C_ND1eI8Y9w/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
+      "video_id": "jp0-psVMD1k",
+      "title": "There’s Anomalies In This Attic…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-01-26T23:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jp0-psVMD1k/hqdefault.jpg",
+      "duration": "PT2H8M31S",
+      "duration_seconds": 7711,
+      "view_count": 255505,
+      "like_count": 7823,
+      "comment_count": 554,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=jp0-psVMD1k"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 9,
-        "total_views": 8491188,
-        "average_views_per_video": 943465
+        "total_videos": 10,
+        "total_views": 9234327,
+        "average_views_per_video": 923432.7
       },
       "content_trends": {
-        "diverse_genres": {
-          "observation": "The trending videos encompass a wide range of genres, including trailers, gaming, and anime.",
-          "insight": "The diversity suggests that audiences are interested in varied content, with a particular interest in entertainment and gaming."
-        },
-        "trailer_and_teasers": {
-          "observation": "3 out of the 9 videos are trailers or teasers for upcoming releases.",
-          "insight": "There is a strong audience interest in upcoming releases which suggests that content related to previews and teasers is highly engaging."
-        },
-        "gaming_influence": {
-          "observation": "2 videos are directly related to gaming ('Minecraft Speedrunner' and 'I'm On Observation Duty 8').",
-          "insight": "Gaming content continues to have a significant presence in trending videos, indicating a robust market for gaming videos."
-        }
+        "dominant_themes": [
+          "Trailers and Previews",
+          "Gaming",
+          "Pop Culture",
+          "Anime"
+        ],
+        "video_types": [
+          {
+            "type": "Trailer",
+            "count": 5,
+            "examples": [
+              "See Rapper Travis Scott in New ‘Odyssey’ Trailer",
+              "A Knight Of The Seven Kingdoms Episode 3 Trailer: Dunk vs Aerion & House of the Dragon Easter Eggs",
+              "IRON LUNG Trailer (2026) Mark Fischbach, Troy Baker",
+              "Anime 'Dragon Ball Super: Beerus' | SUPER Launch Trailer",
+              "Anissa & Lucan Gameplay Trailer | Invincible VS"
+            ]
+          },
+          {
+            "type": "Gaming",
+            "count": 3,
+            "examples": [
+              "Minecraft Speedrunner VS 5 Hunters REVIVAL",
+              "I'm On Observation Duty 8",
+              "This New Horror Game is Terrifying"
+            ]
+          },
+          {
+            "type": "Pop Culture",
+            "count": 2,
+            "examples": [
+              "See Rapper Travis Scott in New ‘Odyssey’ Trailer",
+              "My Cousin Vinny"
+            ]
+          }
+        ],
+        "popular_genres": [
+          "Horror",
+          "Anime",
+          "Fantasy"
+        ]
       },
       "creator_patterns": {
-        "top_channels": {
-          "observation": "Each channel listed has only one video trending, showing a diverse spread among creators.",
-          "insight": "No single creator or channel dominates the trending list, indicating that there is room for new creators to gain visibility."
-        },
-        "cross-industry influence": {
-          "observation": "Creators like Markiplier are branching into other genres, such as film ('IRON LUNG Trailer').",
-          "insight": "There is an opportunity for creators to expand their influence by diversifying their content across different media types."
-        }
+        "top_channels": [
+          {
+            "channel_name": "TODAY",
+            "video_count": 1,
+            "focus": "News and Current Events"
+          },
+          {
+            "channel_name": "AMC",
+            "video_count": 1,
+            "focus": "Television and Entertainment"
+          },
+          {
+            "channel_name": "Emergency Awesome",
+            "video_count": 1,
+            "focus": "Pop Culture and Easter Eggs"
+          },
+          {
+            "channel_name": "Dream",
+            "video_count": 1,
+            "focus": "Gaming Content"
+          },
+          {
+            "channel_name": "ONE Media",
+            "video_count": 1,
+            "focus": "Movie Trailers"
+          }
+        ],
+        "notable_creators": [
+          "Mark Fischbach",
+          "Troy Baker"
+        ],
+        "cross-promotion": "Possible collaboration between gaming and entertainment creators."
       },
       "market_opportunities": {
-        "entertainment_and_previews": {
-          "insight": "Given the high interest in trailers and teasers, creating content around upcoming entertainment releases can capture audience attention."
-        },
-        "gaming_content": {
-          "insight": "There is a continuous demand for gaming content, particularly related to popular games and gaming challenges."
-        },
-        "genre-diversified content": {
-          "insight": "Producing content across multiple genres can attract a wider audience base and capitalize on varied viewer interests."
-        }
+        "untapped_categories": [
+          "Educational Content",
+          "Science and Technology"
+        ],
+        "content_recommendations": [
+          {
+            "type": "Gaming",
+            "suggestions": [
+              "Collaborative Gameplay with Popular Creators",
+              "Behind-the-Scenes of Game Development"
+            ]
+          },
+          {
+            "type": "Anime",
+            "suggestions": [
+              "Deep Dives into Anime Lore",
+              "Character Development Analysis"
+            ]
+          },
+          {
+            "type": "Trailers",
+            "suggestions": [
+              "Fan Theories and Predictions",
+              "Interactive Trailer Experiences"
+            ]
+          }
+        ],
+        "audience_engagement": [
+          "Encourage interactive content like polls and Q&A",
+          "Leverage social media for community building around trending topics"
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 943465
+        "avg_views_per_video": 923432
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
