@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-29T12:20:52.012719",
+  "timestamp": "2026-01-29T15:17:50.629877",
   "date": "2026-01-29",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sBVjIlTjoIk/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 4348858,
-      "like_count": 161692,
-      "comment_count": 9519,
+      "view_count": 4405490,
+      "like_count": 162366,
+      "comment_count": 8539,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -42,9 +42,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2GdpTp-ClQk/hqdefault.jpg",
       "duration": "PT7H13M41S",
       "duration_seconds": 26021,
-      "view_count": 933744,
-      "like_count": 16825,
-      "comment_count": 97,
+      "view_count": 956603,
+      "like_count": 17215,
+      "comment_count": 157,
       "category_id": "20",
       "tags": [
         "funny",
@@ -63,9 +63,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RPtu5elZ9Vo/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 186709,
-      "like_count": 5558,
-      "comment_count": 1006,
+      "view_count": 196219,
+      "like_count": 5708,
+      "comment_count": 1062,
       "category_id": "20",
       "tags": [
         "16:9",
@@ -91,9 +91,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lt9RmsrcX_8/hqdefault.jpg",
       "duration": "PT1H36M39S",
       "duration_seconds": 5799,
-      "view_count": 241671,
-      "like_count": 9551,
-      "comment_count": 660,
+      "view_count": 271158,
+      "like_count": 10681,
+      "comment_count": 696,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -110,32 +110,32 @@
       "url": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
     },
     {
-      "video_id": "u1XHd5rIvmY",
-      "title": "DTF St. Louis | Official Trailer | HBO Max",
-      "description": "Every plan has its kinks.\n\n#DTFStLouis premieres March 1 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-01-28T18:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u1XHd5rIvmY/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1539821,
-      "like_count": 4679,
-      "comment_count": 361,
-      "category_id": "24",
+      "video_id": "W1kd8RJp-9U",
+      "title": "DTF ST. LOUIS Trailer (2026) David Harbour, Jason Bateman",
+      "description": "DTF ST. LOUIS Trailer (2026) David Harbour, Jason Bateman, Linda Cardellini\n© 2026 - HBO Max",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-01-28T18:12:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W1kd8RJp-9U/hqdefault.jpg",
+      "duration": "PT2M37S",
+      "duration_seconds": 157,
+      "view_count": 112270,
+      "like_count": 887,
+      "comment_count": 66,
+      "category_id": "1",
       "tags": [
-        "hbo max",
-        "hbo originals",
-        "hbo original series",
-        "hbo max trailer",
-        "hbo max series",
-        "hbo max youtube",
-        "dtf st. louis",
-        "dtf st. louis trailer",
-        "dtf st. louis series",
-        "dtf st. louis first look"
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "DTF St. Louis",
+        "DTF St. Louis Trailer",
+        "David Harbour",
+        "Jason Bateman",
+        "Linda Cardellini"
       ],
-      "url": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
+      "url": "https://www.youtube.com/watch?v=W1kd8RJp-9U"
     },
     {
       "video_id": "b_Rj-YaB2aI",
@@ -143,10 +143,10 @@
       "description": "Corrupt National Security Agency official Thomas Reynolds (Jon Voight) has a congressman assassinated to assure the passage of expansive new surveillance legislation. When a videotape of the murder ends up in the hands of Robert Clayton Dean (Will Smith), a labor lawyer and dedicated family man, he is framed for murder. With the help of ex-intelligence agent Edward \"Brill\" Lyle (Gene Hackman), Dean attempts to throw Reynolds off his trail and prove his innocence.",
       "channel_title": "AMC",
       "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-15T01:07:19Z",
+      "published_at": "2026-01-29T14:47:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/b_Rj-YaB2aI/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -164,9 +164,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wQfqQ-oIXiA/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 2729445,
-      "like_count": 1856,
-      "comment_count": 76,
+      "view_count": 2871340,
+      "like_count": 1975,
+      "comment_count": 85,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -192,9 +192,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HrLvQt1XS4/hqdefault.jpg",
       "duration": "PT29M37S",
       "duration_seconds": 1777,
-      "view_count": 267880,
-      "like_count": 10607,
-      "comment_count": 619,
+      "view_count": 283881,
+      "like_count": 11211,
+      "comment_count": 642,
       "category_id": "17",
       "tags": [
         "mmg"
@@ -202,32 +202,32 @@
       "url": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
     },
     {
-      "video_id": "KOrLWiHLFHY",
-      "title": "DAREDEVIL BORN AGAIN TRAILER BREAKDOWN | Season 2 | Live Reaction",
-      "description": "Daredevil Born Again Season 2 (coming March 24) Trailer Breakdown & Analysis by New Rockstars’ Erik Voss!\n\nJessica Jones, Foggy Nelson, and Karen Page all return in Daredevil Born Again Season 2, coming March 24 on Disney+. New Rockstars reacts to this trailer featuring Childish Gambino’s Lithonia for the details you missed!\n\nCheck out our January 30th live show at the UCB Theater in Los Angeles or stream anywhere. Tickets here: https://ucbcomedy.com/show/new-rockstars-ucb-live-and-livestreamed/\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDSonaQuest\nJustin Schoenrock\nSinCityMon5ter\nBro...\nPaulo Bianca\nRick Denmon\nJeremy Dunham\nFrederi",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-01-28T00:17:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KOrLWiHLFHY/hqdefault.jpg",
-      "duration": "PT28M36S",
-      "duration_seconds": 1716,
-      "view_count": 179574,
-      "like_count": 7725,
-      "comment_count": 420,
-      "category_id": "24",
+      "video_id": "cqEn-bmpV30",
+      "title": "Scott Pilgrim EX – Release Date Trailer – Nintendo Switch 2",
+      "description": "Scott Pilgrim EX releases on Nintendo Switch 2 and Nintendo Switch on March 3, 2026! \n\nMatthew Patel and Robot-01 enter the fray! Battle through space and time in Toronto as a variety of fan-favorite fighters. Finish off your foes with stylish combos, wacky weapons, and over-the-top specials. With up to four players in online or local co-op, share the action with your friends! \n\n#NintendoSwitch2 #NintendoSwitch #ScottPilgrimEX \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
+      "channel_title": "Nintendo of America",
+      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "published_at": "2026-01-29T00:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cqEn-bmpV30/hqdefault.jpg",
+      "duration": "PT1M22S",
+      "duration_seconds": 82,
+      "view_count": 80450,
+      "like_count": 5171,
+      "comment_count": 379,
+      "category_id": "20",
       "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "daredevil",
-        "daredevil born again",
-        "daredevil born again season 2",
-        "daredevil trailer",
-        "daredevil born again season 2 trailer",
-        "kingpin",
-        "jessica jones"
+        "nintendo",
+        "game",
+        "gameplay",
+        "fun",
+        "video game",
+        "action",
+        "adventure",
+        "rpg",
+        "play",
+        "switch"
       ],
-      "url": "https://www.youtube.com/watch?v=KOrLWiHLFHY"
+      "url": "https://www.youtube.com/watch?v=cqEn-bmpV30"
     },
     {
       "video_id": "KHyd-H5RtG0",
@@ -239,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KHyd-H5RtG0/hqdefault.jpg",
       "duration": "PT47M18S",
       "duration_seconds": 2838,
-      "view_count": 959437,
-      "like_count": 28980,
-      "comment_count": 5928,
+      "view_count": 993575,
+      "like_count": 29335,
+      "comment_count": 5682,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -270,9 +270,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sBVjIlTjoIk/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 4348858,
-      "like_count": 161692,
-      "comment_count": 9519,
+      "view_count": 4405490,
+      "like_count": 162366,
+      "comment_count": 8539,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -290,9 +290,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2GdpTp-ClQk/hqdefault.jpg",
       "duration": "PT7H13M41S",
       "duration_seconds": 26021,
-      "view_count": 933744,
-      "like_count": 16825,
-      "comment_count": 97,
+      "view_count": 956603,
+      "like_count": 17215,
+      "comment_count": 157,
       "category_id": "20",
       "tags": [
         "funny",
@@ -311,9 +311,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RPtu5elZ9Vo/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 186709,
-      "like_count": 5558,
-      "comment_count": 1006,
+      "view_count": 196219,
+      "like_count": 5708,
+      "comment_count": 1062,
       "category_id": "20",
       "tags": [
         "16:9",
@@ -339,9 +339,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lt9RmsrcX_8/hqdefault.jpg",
       "duration": "PT1H36M39S",
       "duration_seconds": 5799,
-      "view_count": 241671,
-      "like_count": 9551,
-      "comment_count": 660,
+      "view_count": 271158,
+      "like_count": 10681,
+      "comment_count": 696,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -358,32 +358,49 @@
       "url": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
     },
     {
-      "video_id": "u1XHd5rIvmY",
-      "title": "DTF St. Louis | Official Trailer | HBO Max",
-      "description": "Every plan has its kinks.\n\n#DTFStLouis premieres March 1 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-01-28T18:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u1XHd5rIvmY/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1539821,
-      "like_count": 4679,
-      "comment_count": 361,
-      "category_id": "24",
+      "video_id": "W1kd8RJp-9U",
+      "title": "DTF ST. LOUIS Trailer (2026) David Harbour, Jason Bateman",
+      "description": "DTF ST. LOUIS Trailer (2026) David Harbour, Jason Bateman, Linda Cardellini\n© 2026 - HBO Max",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-01-28T18:12:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W1kd8RJp-9U/hqdefault.jpg",
+      "duration": "PT2M37S",
+      "duration_seconds": 157,
+      "view_count": 112270,
+      "like_count": 887,
+      "comment_count": 66,
+      "category_id": "1",
       "tags": [
-        "hbo max",
-        "hbo originals",
-        "hbo original series",
-        "hbo max trailer",
-        "hbo max series",
-        "hbo max youtube",
-        "dtf st. louis",
-        "dtf st. louis trailer",
-        "dtf st. louis series",
-        "dtf st. louis first look"
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "DTF St. Louis",
+        "DTF St. Louis Trailer",
+        "David Harbour",
+        "Jason Bateman",
+        "Linda Cardellini"
       ],
-      "url": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
+      "url": "https://www.youtube.com/watch?v=W1kd8RJp-9U"
+    },
+    {
+      "video_id": "b_Rj-YaB2aI",
+      "title": "Enemy of the State",
+      "description": "Corrupt National Security Agency official Thomas Reynolds (Jon Voight) has a congressman assassinated to assure the passage of expansive new surveillance legislation. When a videotape of the murder ends up in the hands of Robert Clayton Dean (Will Smith), a labor lawyer and dedicated family man, he is framed for murder. With the help of ex-intelligence agent Edward \"Brill\" Lyle (Gene Hackman), Dean attempts to throw Reynolds off his trail and prove his innocence.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-29T14:47:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b_Rj-YaB2aI/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=b_Rj-YaB2aI"
     },
     {
       "video_id": "wQfqQ-oIXiA",
@@ -395,9 +412,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wQfqQ-oIXiA/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 2729445,
-      "like_count": 1856,
-      "comment_count": 76,
+      "view_count": 2871340,
+      "like_count": 1975,
+      "comment_count": 85,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -423,9 +440,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HrLvQt1XS4/hqdefault.jpg",
       "duration": "PT29M37S",
       "duration_seconds": 1777,
-      "view_count": 267880,
-      "like_count": 10607,
-      "comment_count": 619,
+      "view_count": 283881,
+      "like_count": 11211,
+      "comment_count": 642,
       "category_id": "17",
       "tags": [
         "mmg"
@@ -433,32 +450,32 @@
       "url": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
     },
     {
-      "video_id": "KOrLWiHLFHY",
-      "title": "DAREDEVIL BORN AGAIN TRAILER BREAKDOWN | Season 2 | Live Reaction",
-      "description": "Daredevil Born Again Season 2 (coming March 24) Trailer Breakdown & Analysis by New Rockstars’ Erik Voss!\n\nJessica Jones, Foggy Nelson, and Karen Page all return in Daredevil Born Again Season 2, coming March 24 on Disney+. New Rockstars reacts to this trailer featuring Childish Gambino’s Lithonia for the details you missed!\n\nCheck out our January 30th live show at the UCB Theater in Los Angeles or stream anywhere. Tickets here: https://ucbcomedy.com/show/new-rockstars-ucb-live-and-livestreamed/\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDSonaQuest\nJustin Schoenrock\nSinCityMon5ter\nBro...\nPaulo Bianca\nRick Denmon\nJeremy Dunham\nFrederi",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-01-28T00:17:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KOrLWiHLFHY/hqdefault.jpg",
-      "duration": "PT28M36S",
-      "duration_seconds": 1716,
-      "view_count": 179574,
-      "like_count": 7725,
-      "comment_count": 420,
-      "category_id": "24",
+      "video_id": "cqEn-bmpV30",
+      "title": "Scott Pilgrim EX – Release Date Trailer – Nintendo Switch 2",
+      "description": "Scott Pilgrim EX releases on Nintendo Switch 2 and Nintendo Switch on March 3, 2026! \n\nMatthew Patel and Robot-01 enter the fray! Battle through space and time in Toronto as a variety of fan-favorite fighters. Finish off your foes with stylish combos, wacky weapons, and over-the-top specials. With up to four players in online or local co-op, share the action with your friends! \n\n#NintendoSwitch2 #NintendoSwitch #ScottPilgrimEX \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
+      "channel_title": "Nintendo of America",
+      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "published_at": "2026-01-29T00:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cqEn-bmpV30/hqdefault.jpg",
+      "duration": "PT1M22S",
+      "duration_seconds": 82,
+      "view_count": 80450,
+      "like_count": 5171,
+      "comment_count": 379,
+      "category_id": "20",
       "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "daredevil",
-        "daredevil born again",
-        "daredevil born again season 2",
-        "daredevil trailer",
-        "daredevil born again season 2 trailer",
-        "kingpin",
-        "jessica jones"
+        "nintendo",
+        "game",
+        "gameplay",
+        "fun",
+        "video game",
+        "action",
+        "adventure",
+        "rpg",
+        "play",
+        "switch"
       ],
-      "url": "https://www.youtube.com/watch?v=KOrLWiHLFHY"
+      "url": "https://www.youtube.com/watch?v=cqEn-bmpV30"
     },
     {
       "video_id": "KHyd-H5RtG0",
@@ -470,9 +487,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KHyd-H5RtG0/hqdefault.jpg",
       "duration": "PT47M18S",
       "duration_seconds": 2838,
-      "view_count": 959437,
-      "like_count": 28980,
-      "comment_count": 5928,
+      "view_count": 993575,
+      "like_count": 29335,
+      "comment_count": 5682,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -487,23 +504,6 @@
         "zackrawrr"
       ],
       "url": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
-    },
-    {
-      "video_id": "b_Rj-YaB2aI",
-      "title": "Enemy of the State",
-      "description": "Corrupt National Security Agency official Thomas Reynolds (Jon Voight) has a congressman assassinated to assure the passage of expansive new surveillance legislation. When a videotape of the murder ends up in the hands of Robert Clayton Dean (Will Smith), a labor lawyer and dedicated family man, he is framed for murder. With the help of ex-intelligence agent Edward \"Brill\" Lyle (Gene Hackman), Dean attempts to throw Reynolds off his trail and prove his innocence.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-15T01:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b_Rj-YaB2aI/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=b_Rj-YaB2aI"
     }
   ],
   "analysis": {
@@ -511,74 +511,57 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 11387139,
-        "average_views_per_video": 1138713.9,
-        "categories": "Unknown"
+        "total_views": 10170986,
+        "average_views_per_video": 1017098.6
       },
       "content_trends": {
-        "trailers_and_teasers": {
-          "count": 5,
-          "examples": [
+        "entertainment": {
+          "dominance": "High",
+          "titles": [
             "Marvel Television’s Daredevil: Born Again Season 2 | Teaser Trailer",
             "Fallout - Official Dogmeat Trailer feat. Shroud",
-            "DTF St. Louis | Official Trailer | HBO Max",
+            "DTF ST. LOUIS Trailer (2026) David Harbour, Jason Bateman",
             "Paradise Season 2 | Official Trailer | Hulu",
-            "DAREDEVIL BORN AGAIN TRAILER BREAKDOWN | Season 2 | Live Reaction"
+            "Scott Pilgrim EX – Release Date Trailer – Nintendo Switch 2"
           ],
-          "insight": "With 50% of trending videos being trailers or related to trailer content, there is a strong trend towards cinematic and episodic content previews. This suggests a high audience interest in upcoming shows and expansions in popular franchises."
-        },
-        "live_streaming": {
-          "count": 1,
-          "examples": [
-            "🔴LIVE | ARC NUTTERS | 2x FIRE RATE LETS GO | BIRD CITY LETS GOOOO | CAW - CAW!!!!! | #BUNGULATE"
-          ],
-          "insight": "Live streaming content remains significant, with interactive and gaming-related themes remaining popular. This presents an opportunity for creators to engage audiences in real-time."
+          "insight": "Strong demand for trailers and teasers related to established franchises and known personalities."
         },
         "gaming": {
-          "count": 3,
-          "examples": [
-            "Fallout - Official Dogmeat Trailer feat. Shroud",
-            "Bears Season is Off to a CRAZY Start! Wheel of MUT! Ep. #39",
-            "Obey The Voice (Full Game)"
+          "presence": "Moderate",
+          "titles": [
+            "🔴LIVE | ARC NUTTERS | 2x FIRE RATE LETS GO | BIRD CITY LETS GOOOO | CAW - CAW!!!!! | #BUNGULATE",
+            "Obey The Voice (Full Game)",
+            "Bears Season is Off to a CRAZY Start! Wheel of MUT! Ep. #39"
           ],
-          "insight": "Gaming maintains a strong presence, reflecting consistent viewer interest in both gameplay content and gaming-related trailers. Collaborations with popular gaming influencers can enhance reach."
+          "insight": "Live streaming and episodic content related to gaming are gaining traction."
+        },
+        "miscellaneous": {
+          "titles": [
+            "Enemy of the State",
+            "Holy sh*t.. This is embarrassing"
+          ],
+          "insight": "Broad interest in varied content types; potential for virality in unexpected categories."
         }
       },
       "creator_patterns": {
-        "top_channels": {
-          "Marvel Entertainment": {
-            "video_count": 1,
-            "trend": "Focuses on franchise-based content with high audience anticipation."
-          },
-          "HBO Max": {
-            "video_count": 1,
-            "trend": "Utilizes platform-exclusive trailers to drive interest and subscriptions."
-          },
-          "IGN": {
-            "video_count": 1,
-            "trend": "Known for gaming and entertainment news, continues to engage audiences with relevant trailers and content breakdowns."
-          }
-        },
-        "emerging_creators": {
-          "TheBurntPeanut": {
-            "video_count": 1,
-            "opportunity": "Newer or lesser-known channels can capitalize on niche interests, such as unique gaming experiences or live streaming."
-          },
-          "CaseOh": {
-            "video_count": 1,
-            "opportunity": "Creators exploring unique narrative or gaming content can find success by engaging with dedicated communities."
-          }
-        }
+        "top_channels": [
+          "Marvel Entertainment",
+          "TheBurntPeanut",
+          "IGN",
+          "CaseOh",
+          "ONE Media"
+        ],
+        "insight": "Established channels with niche focus (entertainment, gaming, media) continue to dominate; opportunity for new creators to leverage existing franchises."
       },
       "market_opportunities": {
-        "franchise_content": {
-          "insight": "High demand for franchise-related content indicates potential for growth in areas such as fan theories, trailer breakdowns, and anticipation-related content."
-        },
-        "interactive_and_live_content": {
-          "insight": "There is potential to expand interactive content, particularly in live streaming formats that encourage real-time viewer engagement."
-        },
-        "cross-platform collaborations": {
-          "insight": "Opportunities exist for collaborations between platforms and popular content creators, especially in gaming and entertainment sectors."
+        "potential_trends": [
+          "Leverage established franchises for teaser content to capture audience interest.",
+          "Explore live streaming opportunities in gaming for audience engagement.",
+          "Produce episodic content to build ongoing viewer investment."
+        ],
+        "new_creation": {
+          "strategy": "Develop content around upcoming or lesser-known franchises with potential for cult following.",
+          "collaboration": "Collaborate with influential personalities to boost content reach."
         }
       },
       "metadata_stats": {
@@ -587,7 +570,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1138713
+        "avg_views_per_video": 1017098
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
