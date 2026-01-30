@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-30T15:17:08.564057",
+  "timestamp": "2026-01-30T18:18:41.894290",
   "date": "2026-01-30",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MKhod_ziM0s/hqdefault.jpg",
       "duration": "PT11M54S",
       "duration_seconds": 714,
-      "view_count": 155092,
-      "like_count": 5199,
-      "comment_count": 697,
+      "view_count": 181140,
+      "like_count": 5547,
+      "comment_count": 735,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MKhod_ziM0s"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/seZr9wqV4bA/hqdefault.jpg",
       "duration": "PT7H18M26S",
       "duration_seconds": 26306,
-      "view_count": 932428,
-      "like_count": 18240,
-      "comment_count": 118,
+      "view_count": 961461,
+      "like_count": 18590,
+      "comment_count": 151,
       "category_id": "20",
       "tags": [
         "funny",
@@ -49,6 +49,60 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=seZr9wqV4bA"
+    },
+    {
+      "video_id": "FO2f7lh39Y4",
+      "title": "Grey Hulk (2026) - Dwayne Johnson, Ben Affleck, Morgan Freeman | Concept Trailer",
+      "description": "#GreyHulk #DwayneJohnson #BenAffleck\n\nWatch this \"Fan-Made Concept Trailer of Grey Hulk\"\n\nIn this Grey Hulk concept trailer, Dwayne Johnson becomes something horrifically different than any Hulk you have ever seen before in the form of Joe Fixit - the cunning and morally ambiguous persona that occurs when gamma radiation is used to rewrite a man's DNA, rather than cause mindless rage. Johnson is playing Marcus Kane - a former special forces operative that was subjected to experimental serum by Dr. Samuel Kline played by Morgan Freeman. Dr. Kline was a brilliant scientist with an ethically challenged mind set. He believed that he could create controllable super-soldiers by causing transformations that were related to a person's intellect rather than anger.\n\nBen Affleck joins the cast as General Ross - the military commander who green lit the program and is now faced with containing his biggest blunder - the emergence of Marcus Kane's Grey Hulk - not as an unstoppable monster, but as a p",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-01-29T12:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FO2f7lh39Y4/hqdefault.jpg",
+      "duration": "PT1M48S",
+      "duration_seconds": 108,
+      "view_count": 114346,
+      "like_count": 612,
+      "comment_count": 68,
+      "category_id": "24",
+      "tags": [
+        "Grey Hulk",
+        "Grey Hulk 2026",
+        "Grey Hulk first look",
+        "Grey Hulk new movie",
+        "Grey Hulk dwayne johnson",
+        "grey hulk concept trailer",
+        "grey hulk trailer",
+        "grey hulk ai trailer",
+        "grey hulk rage movie",
+        "grey hulk first trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=FO2f7lh39Y4"
+    },
+    {
+      "video_id": "K_0kl1WiSPg",
+      "title": "Tomodachi Life: Living the Dream Direct 1.29.2026",
+      "description": "Join us on Jan 29 at 6am PT for the Tomodachi Life: Living the Dream Direct! The presentation will last roughly 20 minutes and provide more info on the upcoming Nintendo Switch game.\n\nTomodachi Life: Living the Dream releases for Nintendo Switch on April 16, 2026. Pre-order today: https://www.nintendo.com/us/store/products/tomodachi-life-living-the-dream-switch/?utm_source=SW-AA&utm_medium=soytnoa&utm_campaign=N1151-01&utm_id=N1151-01\n \n#TomodachiLife #NintendoDirect\n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
+      "channel_title": "Nintendo of America",
+      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "published_at": "2026-01-29T14:26:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K_0kl1WiSPg/hqdefault.jpg",
+      "duration": "PT22M1S",
+      "duration_seconds": 1321,
+      "view_count": 1251718,
+      "like_count": 102477,
+      "comment_count": 13467,
+      "category_id": "20",
+      "tags": [
+        "nintendo",
+        "game",
+        "gameplay",
+        "fun",
+        "video game",
+        "play",
+        "switch",
+        "nintendo switch"
+      ],
+      "url": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
     },
     {
       "video_id": "BKy4gqIVv9E",
@@ -60,9 +114,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BKy4gqIVv9E/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 236807,
-      "like_count": 4121,
-      "comment_count": 352,
+      "view_count": 254317,
+      "like_count": 4318,
+      "comment_count": 370,
       "category_id": "24",
       "tags": [
         "Outlander",
@@ -79,60 +133,6 @@
       "url": "https://www.youtube.com/watch?v=BKy4gqIVv9E"
     },
     {
-      "video_id": "K_0kl1WiSPg",
-      "title": "Tomodachi Life: Living the Dream Direct 1.29.2026",
-      "description": "Join us on Jan 29 at 6am PT for the Tomodachi Life: Living the Dream Direct! The presentation will last roughly 20 minutes and provide more info on the upcoming Nintendo Switch game.\n\nTomodachi Life: Living the Dream releases for Nintendo Switch on April 16, 2026. Pre-order today: https://www.nintendo.com/us/store/products/tomodachi-life-living-the-dream-switch/?utm_source=SW-AA&utm_medium=soytnoa&utm_campaign=N1151-01&utm_id=N1151-01\n \n#TomodachiLife #NintendoDirect\n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
-      "channel_title": "Nintendo of America",
-      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
-      "published_at": "2026-01-29T14:26:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K_0kl1WiSPg/hqdefault.jpg",
-      "duration": "PT22M1S",
-      "duration_seconds": 1321,
-      "view_count": 1212600,
-      "like_count": 99665,
-      "comment_count": 13091,
-      "category_id": "20",
-      "tags": [
-        "nintendo",
-        "game",
-        "gameplay",
-        "fun",
-        "video game",
-        "play",
-        "switch",
-        "nintendo switch"
-      ],
-      "url": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
-    },
-    {
-      "video_id": "4nCCJEtMaDA",
-      "title": "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker",
-      "description": "Official Iron Lung Movie Trailer 2026 | More ➤ https://KinoCheck.com/App | Markiplier Movie Trailer | Cinema: 30 Jan 2026 | Details ➤ https://KinoCheck.com/movie/y25/iron-lung-2026?utm_source=youtube&utm_medium=description\nAn ocean of blood. The only hope left after The Quiet Rapture. In the rusting halls of crumbling space stations, the last remnants of humanity craft a submarine to explore the bleeding depths... and weld one soul inside to pilot it. But hope in this void is as illusionary as the starlight. This is not an expedition. It's an execution.\n\nIron Lung (2026) is the new horror movie starring Troy Baker, Mark Fischbach and Caroline Kaplan.\n\nNote | #IronLung #Trailer courtesy of Piece of Magic Entertainment. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-01-29T16:04:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4nCCJEtMaDA/hqdefault.jpg",
-      "duration": "PT2M3S",
-      "duration_seconds": 123,
-      "view_count": 83616,
-      "like_count": 579,
-      "comment_count": 54,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Caroline Kaplan",
-        "Depth",
-        "Expedition",
-        "Horror",
-        "Iron Lung",
-        "Iron Lung trailer",
-        "KinoCheck",
-        "Mark Fischbach",
-        "Movie"
-      ],
-      "url": "https://www.youtube.com/watch?v=4nCCJEtMaDA"
-    },
-    {
       "video_id": "ItkITKxvQGo",
       "title": "Valentine's Day and Lunar New Year in Hay Day",
       "description": "Claim the QR Code: https://link.haydaygame.com/?action=voucher&code=70371cf9-6ab6-44b3-979d-546bf478da19\n\nBest. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/",
@@ -142,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ItkITKxvQGo/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 666484,
-      "like_count": 14212,
-      "comment_count": 671,
+      "view_count": 852247,
+      "like_count": 16269,
+      "comment_count": 776,
       "category_id": "20",
       "tags": [
         "Hay Day",
@@ -161,24 +161,32 @@
       "url": "https://www.youtube.com/watch?v=ItkITKxvQGo"
     },
     {
-      "video_id": "sBVjIlTjoIk",
-      "title": "Marvel Television’s Daredevil: Born Again Season 2 | Teaser Trailer",
-      "description": "Time to dance with the Devil. \nMarvel Television’s #DaredevilBornAgain Season 2 premieres March 24 only on @disneyplus.  \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney \n/ @StarWars \n/ @pixar \n/ @disneyplus",
-      "channel_title": "Marvel Entertainment",
-      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "published_at": "2026-01-27T15:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sBVjIlTjoIk/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 4671143,
-      "like_count": 166152,
-      "comment_count": 8693,
-      "category_id": "24",
+      "video_id": "BkQ6N2JS9bA",
+      "title": "Highlander - First Trailer (2026) Henry Cavill, Russell Crowe, Dave Bautista | Amazon MGM Studios",
+      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— Highlander\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Highlander, the story follows Connor MacLeod, portrayed by Henry Cavill, an immortal warrior burdened by centuries of survival and loss, now living quietly in modern-day New York as the past closes in around him. Trained long ago by his mentor Juan Sánchez-Villalobos Ramírez, played ",
+      "channel_title": "Teaser Universe",
+      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
+      "published_at": "2026-01-29T15:04:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BkQ6N2JS9bA/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 111410,
+      "like_count": 395,
+      "comment_count": 109,
+      "category_id": "1",
       "tags": [
-        "marvel",
-        "comics"
+        "highlander henry cavill",
+        "highlander",
+        "highlander henry cavill trailer",
+        "highlander henry cavill first look",
+        "highlander reboot henry cavill",
+        "highlander remake henry cavill",
+        "highlander 2026 henry cavill",
+        "highlander trailer henry cavill",
+        "highlander trailer 2026",
+        "highlander reboot"
       ],
-      "url": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
+      "url": "https://www.youtube.com/watch?v=BkQ6N2JS9bA"
     },
     {
       "video_id": "Zggy4pzWzIA",
@@ -190,40 +198,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Zggy4pzWzIA/hqdefault.jpg",
       "duration": "PT9M59S",
       "duration_seconds": 599,
-      "view_count": 683831,
-      "like_count": 27957,
-      "comment_count": 6044,
+      "view_count": 784117,
+      "like_count": 30771,
+      "comment_count": 6486,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Zggy4pzWzIA"
     },
     {
-      "video_id": "x3e-WDxyGVY",
-      "title": "Routine (FULL GAME?!)",
-      "description": "Over 4100 theaters OUT NOW ► https://ironlung.com\n\nRoutine is supposedly a little like SOMA and a whole lot of scary, so let's try to make it all the way through!\nPlay The Game ► https://store.steampowered.com/app/606160/ROUTINE/",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-01-30T00:46:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x3e-WDxyGVY/hqdefault.jpg",
-      "duration": "PT5H34M50S",
-      "duration_seconds": 20090,
-      "view_count": 563955,
-      "like_count": 32542,
-      "comment_count": 1118,
-      "category_id": "20",
+      "video_id": "4nCCJEtMaDA",
+      "title": "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker",
+      "description": "Official Iron Lung Movie Trailer 2026 | More ➤ https://KinoCheck.com/App | Markiplier Movie Trailer | Cinema: 30 Jan 2026 | Details ➤ https://KinoCheck.com/movie/y25/iron-lung-2026?utm_source=youtube&utm_medium=description\nAn ocean of blood. The only hope left after The Quiet Rapture. In the rusting halls of crumbling space stations, the last remnants of humanity craft a submarine to explore the bleeding depths... and weld one soul inside to pilot it. But hope in this void is as illusionary as the starlight. This is not an expedition. It's an execution.\n\nIron Lung (2026) is the new horror movie starring Troy Baker, Mark Fischbach and Caroline Kaplan.\n\nNote | #IronLung #Trailer courtesy of Piece of Magic Entertainment. | All Rights Reserved. #KinoCheck®",
+      "channel_title": "KinoCheck.com",
+      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
+      "published_at": "2026-01-29T16:04:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4nCCJEtMaDA/hqdefault.jpg",
+      "duration": "PT2M3S",
+      "duration_seconds": 123,
+      "view_count": 107827,
+      "like_count": 673,
+      "comment_count": 58,
+      "category_id": "24",
       "tags": [
-        "markiplier",
-        "horror games",
-        "scary games",
-        "routine",
-        "routine game",
-        "full game",
-        "lets play",
-        "playthrough",
-        "walkthrough",
-        "part 1"
+        "2026",
+        "Caroline Kaplan",
+        "Depth",
+        "Expedition",
+        "Horror",
+        "Iron Lung",
+        "Iron Lung trailer",
+        "KinoCheck",
+        "Mark Fischbach",
+        "Movie"
       ],
-      "url": "https://www.youtube.com/watch?v=x3e-WDxyGVY"
+      "url": "https://www.youtube.com/watch?v=4nCCJEtMaDA"
+    },
+    {
+      "video_id": "X1lpqj_t95o",
+      "title": "PUBG Payload: When Teammates are Bots #1",
+      "description": "",
+      "channel_title": "DUKA",
+      "channel_id": "UCSBpzDoqhaj1wtIj9TfCX2Q",
+      "published_at": "2026-01-30T04:08:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X1lpqj_t95o/hqdefault.jpg",
+      "duration": "PT2M8S",
+      "duration_seconds": 128,
+      "view_count": 124616,
+      "like_count": 4175,
+      "comment_count": 540,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=X1lpqj_t95o"
     }
   ],
   "videos_with_transcripts": [],
@@ -238,9 +263,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MKhod_ziM0s/hqdefault.jpg",
       "duration": "PT11M54S",
       "duration_seconds": 714,
-      "view_count": 155092,
-      "like_count": 5199,
-      "comment_count": 697,
+      "view_count": 181140,
+      "like_count": 5547,
+      "comment_count": 735,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MKhod_ziM0s"
@@ -255,9 +280,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/seZr9wqV4bA/hqdefault.jpg",
       "duration": "PT7H18M26S",
       "duration_seconds": 26306,
-      "view_count": 932428,
-      "like_count": 18240,
-      "comment_count": 118,
+      "view_count": 961461,
+      "like_count": 18590,
+      "comment_count": 151,
       "category_id": "20",
       "tags": [
         "funny",
@@ -265,6 +290,60 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=seZr9wqV4bA"
+    },
+    {
+      "video_id": "FO2f7lh39Y4",
+      "title": "Grey Hulk (2026) - Dwayne Johnson, Ben Affleck, Morgan Freeman | Concept Trailer",
+      "description": "#GreyHulk #DwayneJohnson #BenAffleck\n\nWatch this \"Fan-Made Concept Trailer of Grey Hulk\"\n\nIn this Grey Hulk concept trailer, Dwayne Johnson becomes something horrifically different than any Hulk you have ever seen before in the form of Joe Fixit - the cunning and morally ambiguous persona that occurs when gamma radiation is used to rewrite a man's DNA, rather than cause mindless rage. Johnson is playing Marcus Kane - a former special forces operative that was subjected to experimental serum by Dr. Samuel Kline played by Morgan Freeman. Dr. Kline was a brilliant scientist with an ethically challenged mind set. He believed that he could create controllable super-soldiers by causing transformations that were related to a person's intellect rather than anger.\n\nBen Affleck joins the cast as General Ross - the military commander who green lit the program and is now faced with containing his biggest blunder - the emergence of Marcus Kane's Grey Hulk - not as an unstoppable monster, but as a p",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-01-29T12:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FO2f7lh39Y4/hqdefault.jpg",
+      "duration": "PT1M48S",
+      "duration_seconds": 108,
+      "view_count": 114346,
+      "like_count": 612,
+      "comment_count": 68,
+      "category_id": "24",
+      "tags": [
+        "Grey Hulk",
+        "Grey Hulk 2026",
+        "Grey Hulk first look",
+        "Grey Hulk new movie",
+        "Grey Hulk dwayne johnson",
+        "grey hulk concept trailer",
+        "grey hulk trailer",
+        "grey hulk ai trailer",
+        "grey hulk rage movie",
+        "grey hulk first trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=FO2f7lh39Y4"
+    },
+    {
+      "video_id": "K_0kl1WiSPg",
+      "title": "Tomodachi Life: Living the Dream Direct 1.29.2026",
+      "description": "Join us on Jan 29 at 6am PT for the Tomodachi Life: Living the Dream Direct! The presentation will last roughly 20 minutes and provide more info on the upcoming Nintendo Switch game.\n\nTomodachi Life: Living the Dream releases for Nintendo Switch on April 16, 2026. Pre-order today: https://www.nintendo.com/us/store/products/tomodachi-life-living-the-dream-switch/?utm_source=SW-AA&utm_medium=soytnoa&utm_campaign=N1151-01&utm_id=N1151-01\n \n#TomodachiLife #NintendoDirect\n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
+      "channel_title": "Nintendo of America",
+      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "published_at": "2026-01-29T14:26:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K_0kl1WiSPg/hqdefault.jpg",
+      "duration": "PT22M1S",
+      "duration_seconds": 1321,
+      "view_count": 1251718,
+      "like_count": 102477,
+      "comment_count": 13467,
+      "category_id": "20",
+      "tags": [
+        "nintendo",
+        "game",
+        "gameplay",
+        "fun",
+        "video game",
+        "play",
+        "switch",
+        "nintendo switch"
+      ],
+      "url": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
     },
     {
       "video_id": "BKy4gqIVv9E",
@@ -276,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BKy4gqIVv9E/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 236807,
-      "like_count": 4121,
-      "comment_count": 352,
+      "view_count": 254317,
+      "like_count": 4318,
+      "comment_count": 370,
       "category_id": "24",
       "tags": [
         "Outlander",
@@ -295,60 +374,6 @@
       "url": "https://www.youtube.com/watch?v=BKy4gqIVv9E"
     },
     {
-      "video_id": "K_0kl1WiSPg",
-      "title": "Tomodachi Life: Living the Dream Direct 1.29.2026",
-      "description": "Join us on Jan 29 at 6am PT for the Tomodachi Life: Living the Dream Direct! The presentation will last roughly 20 minutes and provide more info on the upcoming Nintendo Switch game.\n\nTomodachi Life: Living the Dream releases for Nintendo Switch on April 16, 2026. Pre-order today: https://www.nintendo.com/us/store/products/tomodachi-life-living-the-dream-switch/?utm_source=SW-AA&utm_medium=soytnoa&utm_campaign=N1151-01&utm_id=N1151-01\n \n#TomodachiLife #NintendoDirect\n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
-      "channel_title": "Nintendo of America",
-      "channel_id": "UCGIY_O-8vW4rfX98KlMkvRg",
-      "published_at": "2026-01-29T14:26:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K_0kl1WiSPg/hqdefault.jpg",
-      "duration": "PT22M1S",
-      "duration_seconds": 1321,
-      "view_count": 1212600,
-      "like_count": 99665,
-      "comment_count": 13091,
-      "category_id": "20",
-      "tags": [
-        "nintendo",
-        "game",
-        "gameplay",
-        "fun",
-        "video game",
-        "play",
-        "switch",
-        "nintendo switch"
-      ],
-      "url": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
-    },
-    {
-      "video_id": "4nCCJEtMaDA",
-      "title": "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker",
-      "description": "Official Iron Lung Movie Trailer 2026 | More ➤ https://KinoCheck.com/App | Markiplier Movie Trailer | Cinema: 30 Jan 2026 | Details ➤ https://KinoCheck.com/movie/y25/iron-lung-2026?utm_source=youtube&utm_medium=description\nAn ocean of blood. The only hope left after The Quiet Rapture. In the rusting halls of crumbling space stations, the last remnants of humanity craft a submarine to explore the bleeding depths... and weld one soul inside to pilot it. But hope in this void is as illusionary as the starlight. This is not an expedition. It's an execution.\n\nIron Lung (2026) is the new horror movie starring Troy Baker, Mark Fischbach and Caroline Kaplan.\n\nNote | #IronLung #Trailer courtesy of Piece of Magic Entertainment. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-01-29T16:04:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4nCCJEtMaDA/hqdefault.jpg",
-      "duration": "PT2M3S",
-      "duration_seconds": 123,
-      "view_count": 83616,
-      "like_count": 579,
-      "comment_count": 54,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Caroline Kaplan",
-        "Depth",
-        "Expedition",
-        "Horror",
-        "Iron Lung",
-        "Iron Lung trailer",
-        "KinoCheck",
-        "Mark Fischbach",
-        "Movie"
-      ],
-      "url": "https://www.youtube.com/watch?v=4nCCJEtMaDA"
-    },
-    {
       "video_id": "ItkITKxvQGo",
       "title": "Valentine's Day and Lunar New Year in Hay Day",
       "description": "Claim the QR Code: https://link.haydaygame.com/?action=voucher&code=70371cf9-6ab6-44b3-979d-546bf478da19\n\nBest. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/",
@@ -358,9 +383,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ItkITKxvQGo/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 666484,
-      "like_count": 14212,
-      "comment_count": 671,
+      "view_count": 852247,
+      "like_count": 16269,
+      "comment_count": 776,
       "category_id": "20",
       "tags": [
         "Hay Day",
@@ -377,24 +402,32 @@
       "url": "https://www.youtube.com/watch?v=ItkITKxvQGo"
     },
     {
-      "video_id": "sBVjIlTjoIk",
-      "title": "Marvel Television’s Daredevil: Born Again Season 2 | Teaser Trailer",
-      "description": "Time to dance with the Devil. \nMarvel Television’s #DaredevilBornAgain Season 2 premieres March 24 only on @disneyplus.  \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney \n/ @StarWars \n/ @pixar \n/ @disneyplus",
-      "channel_title": "Marvel Entertainment",
-      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "published_at": "2026-01-27T15:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sBVjIlTjoIk/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 4671143,
-      "like_count": 166152,
-      "comment_count": 8693,
-      "category_id": "24",
+      "video_id": "BkQ6N2JS9bA",
+      "title": "Highlander - First Trailer (2026) Henry Cavill, Russell Crowe, Dave Bautista | Amazon MGM Studios",
+      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— Highlander\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Highlander, the story follows Connor MacLeod, portrayed by Henry Cavill, an immortal warrior burdened by centuries of survival and loss, now living quietly in modern-day New York as the past closes in around him. Trained long ago by his mentor Juan Sánchez-Villalobos Ramírez, played ",
+      "channel_title": "Teaser Universe",
+      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
+      "published_at": "2026-01-29T15:04:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BkQ6N2JS9bA/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 111410,
+      "like_count": 395,
+      "comment_count": 109,
+      "category_id": "1",
       "tags": [
-        "marvel",
-        "comics"
+        "highlander henry cavill",
+        "highlander",
+        "highlander henry cavill trailer",
+        "highlander henry cavill first look",
+        "highlander reboot henry cavill",
+        "highlander remake henry cavill",
+        "highlander 2026 henry cavill",
+        "highlander trailer henry cavill",
+        "highlander trailer 2026",
+        "highlander reboot"
       ],
-      "url": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
+      "url": "https://www.youtube.com/watch?v=BkQ6N2JS9bA"
     },
     {
       "video_id": "Zggy4pzWzIA",
@@ -406,130 +439,160 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Zggy4pzWzIA/hqdefault.jpg",
       "duration": "PT9M59S",
       "duration_seconds": 599,
-      "view_count": 683831,
-      "like_count": 27957,
-      "comment_count": 6044,
+      "view_count": 784117,
+      "like_count": 30771,
+      "comment_count": 6486,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Zggy4pzWzIA"
     },
     {
-      "video_id": "x3e-WDxyGVY",
-      "title": "Routine (FULL GAME?!)",
-      "description": "Over 4100 theaters OUT NOW ► https://ironlung.com\n\nRoutine is supposedly a little like SOMA and a whole lot of scary, so let's try to make it all the way through!\nPlay The Game ► https://store.steampowered.com/app/606160/ROUTINE/",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-01-30T00:46:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x3e-WDxyGVY/hqdefault.jpg",
-      "duration": "PT5H34M50S",
-      "duration_seconds": 20090,
-      "view_count": 563955,
-      "like_count": 32542,
-      "comment_count": 1118,
-      "category_id": "20",
+      "video_id": "4nCCJEtMaDA",
+      "title": "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker",
+      "description": "Official Iron Lung Movie Trailer 2026 | More ➤ https://KinoCheck.com/App | Markiplier Movie Trailer | Cinema: 30 Jan 2026 | Details ➤ https://KinoCheck.com/movie/y25/iron-lung-2026?utm_source=youtube&utm_medium=description\nAn ocean of blood. The only hope left after The Quiet Rapture. In the rusting halls of crumbling space stations, the last remnants of humanity craft a submarine to explore the bleeding depths... and weld one soul inside to pilot it. But hope in this void is as illusionary as the starlight. This is not an expedition. It's an execution.\n\nIron Lung (2026) is the new horror movie starring Troy Baker, Mark Fischbach and Caroline Kaplan.\n\nNote | #IronLung #Trailer courtesy of Piece of Magic Entertainment. | All Rights Reserved. #KinoCheck®",
+      "channel_title": "KinoCheck.com",
+      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
+      "published_at": "2026-01-29T16:04:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4nCCJEtMaDA/hqdefault.jpg",
+      "duration": "PT2M3S",
+      "duration_seconds": 123,
+      "view_count": 107827,
+      "like_count": 673,
+      "comment_count": 58,
+      "category_id": "24",
       "tags": [
-        "markiplier",
-        "horror games",
-        "scary games",
-        "routine",
-        "routine game",
-        "full game",
-        "lets play",
-        "playthrough",
-        "walkthrough",
-        "part 1"
+        "2026",
+        "Caroline Kaplan",
+        "Depth",
+        "Expedition",
+        "Horror",
+        "Iron Lung",
+        "Iron Lung trailer",
+        "KinoCheck",
+        "Mark Fischbach",
+        "Movie"
       ],
-      "url": "https://www.youtube.com/watch?v=x3e-WDxyGVY"
+      "url": "https://www.youtube.com/watch?v=4nCCJEtMaDA"
+    },
+    {
+      "video_id": "X1lpqj_t95o",
+      "title": "PUBG Payload: When Teammates are Bots #1",
+      "description": "",
+      "channel_title": "DUKA",
+      "channel_id": "UCSBpzDoqhaj1wtIj9TfCX2Q",
+      "published_at": "2026-01-30T04:08:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X1lpqj_t95o/hqdefault.jpg",
+      "duration": "PT2M8S",
+      "duration_seconds": 128,
+      "view_count": 124616,
+      "like_count": 4175,
+      "comment_count": 540,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=X1lpqj_t95o"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "totalVideos": 9,
-      "totalViews": 9205956,
-      "averageViewsPerVideo": 1022884,
-      "trendingCategories": [
-        "Entertainment",
-        "Gaming",
-        "Movies/TV Shows",
-        "Live Streaming"
-      ],
-      "contentTrends": {
-        "highlyAnticipatedSequels": {
-          "description": "Sequels or continuations of popular series such as 'Outlander' and 'Daredevil' are trending, indicating a sustained interest in established franchises.",
-          "examples": [
-            "Outlander | The Final Season: Official Trailer | STARZ",
-            "Marvel Television’s Daredevil: Born Again Season 2 | Teaser Trailer"
-          ],
-          "insights": "Creating content around established franchises can yield high engagement due to existing fan bases."
-        },
-        "gamingContent": {
-          "description": "Gaming-related videos, such as trailers for upcoming games and discussions about popular games, are trending.",
-          "examples": [
-            "Tomodachi Life: Living the Dream Direct 1.29.2026",
-            "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker",
-            "Roblox finally addressed it"
-          ],
-          "insights": "There is a market opportunity in creating both game content and commentary, especially around popular or controversial games."
-        },
-        "event-basedContent": {
-          "description": "Content related to specific cultural or seasonal events like Valentine's Day and Lunar New Year is gaining traction.",
-          "examples": [
-            "Valentine's Day and Lunar New Year in Hay Day"
-          ],
-          "insights": "Leveraging seasonal events and holidays in content creation can increase relevance and viewership."
-        },
-        "liveStreaming": {
-          "description": "Live streaming events that engage audiences in real-time are gaining popularity.",
-          "examples": [
-            "🔴LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA | OFFICER X GINGY | #BUNGULATE"
-          ],
-          "insights": "Investing in live streaming capabilities can enhance viewer engagement and provide interactive experiences."
+      "content_trends": {
+        "popular_themes": [
+          {
+            "theme": "Movies and Trailers",
+            "percentage": 50,
+            "examples": [
+              "HENRY CAVILL HIGHLANDER 2027 First Look Teaser",
+              "Grey Hulk (2026) - Dwayne Johnson, Ben Affleck, Morgan Freeman | Concept Trailer",
+              "Outlander | The Final Season: Official Trailer | STARZ",
+              "Highlander - First Trailer (2026) Henry Cavill, Russell Crowe, Dave Bautista | Amazon MGM Studios",
+              "IRON LUNG Official Trailer (2026) Mark Fischbach, Troy Baker"
+            ]
+          },
+          {
+            "theme": "Gaming",
+            "percentage": 30,
+            "examples": [
+              "🔴LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA | OFFICER X GINGY | #BUNGULATE",
+              "Tomodachi Life: Living the Dream Direct 1.29.2026",
+              "PUBG Payload: When Teammates are Bots #1",
+              "Roblox finally addressed it"
+            ]
+          },
+          {
+            "theme": "Seasonal and Event-driven",
+            "percentage": 10,
+            "examples": [
+              "Valentine's Day and Lunar New Year in Hay Day"
+            ]
+          }
+        ],
+        "emerging_patterns": {
+          "cross-media_promotion": "There is a significant instance of cross-media promotion, especially in movie-related content featuring high-profile actors and upcoming releases.",
+          "live_streaming_and_interactivity": "Live streaming and interactive gaming content are gaining traction, as seen in titles like '🔴LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA'."
         }
       },
-      "creatorPatterns": {
-        "diverseChannelRepresentation": {
-          "description": "The trending videos are distributed across various channels, indicating that multiple creators are finding success with diverse content.",
-          "examples": [
-            "Emergency Awesome",
-            "TheBurntPeanut",
-            "STARZ",
-            "Nintendo of America",
-            "KinoCheck.com"
-          ],
-          "insights": "Content diversity across different channels suggests that niche audiences are being effectively targeted."
-        }
+      "creator_patterns": {
+        "top_creators": [
+          {
+            "name": "Emergency Awesome",
+            "contribution": 10
+          },
+          {
+            "name": "TheBurntPeanut",
+            "contribution": 10
+          },
+          {
+            "name": "Ultimate Studios",
+            "contribution": 10
+          },
+          {
+            "name": "Nintendo of America",
+            "contribution": 10
+          },
+          {
+            "name": "STARZ",
+            "contribution": 10
+          }
+        ],
+        "creator_type": "Diverse range from individual creators to established studios and networks, indicating a broad spectrum of content creation styles."
       },
-      "marketOpportunities": {
-        "franchiseExpansion": {
-          "description": "There is potential for creating more content around popular franchises or expanding into new storytelling mediums.",
-          "suggestedActions": [
-            "Develop spin-off content or behind-the-scenes videos.",
-            "Collaborate with franchise owners for exclusive content releases."
-          ]
-        },
-        "interactiveGamingContent": {
-          "description": "With the rise of gaming content, there is an opportunity to create interactive or participatory content.",
-          "suggestedActions": [
-            "Host live gaming sessions with audience participation.",
-            "Develop content that explores game mechanics or lore."
-          ]
-        },
-        "seasonalContent": {
-          "description": "Creating content that aligns with seasonal trends or global events can attract timely viewership.",
-          "suggestedActions": [
-            "Plan content calendars around major holidays and global events.",
-            "Create themed content series that resonate with current trends."
-          ]
-        }
+      "market_opportunities": {
+        "opportunity_areas": [
+          {
+            "area": "Concept Trailers and Teasers",
+            "insight": "Concept trailers are popular, providing an opportunity for creators to engage audiences with speculative content and teasers of upcoming projects."
+          },
+          {
+            "area": "Gaming Content",
+            "insight": "Gaming remains a strong area, with opportunities for content that includes live interaction, updates, and community engagement."
+          },
+          {
+            "area": "Seasonal Content",
+            "insight": "There is potential to capitalize on seasonal and cultural events to create timely and relevant content that captures audience interest."
+          }
+        ],
+        "recommendations": [
+          {
+            "strategy": "Collaborate with Influencers",
+            "action": "Partner with popular creators and influencers within the movie and gaming niches to leverage their audience reach."
+          },
+          {
+            "strategy": "Enhance Interactivity",
+            "action": "Develop more interactive content, especially in live streaming formats, to increase viewer engagement and retention."
+          },
+          {
+            "strategy": "Diversify Content Formats",
+            "action": "Expand content offerings to include short-form content and behind-the-scenes footage to provide variety and depth to the audience."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1022884
+        "avg_views_per_video": 474319
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
