@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-01T18:14:40.214634",
+  "timestamp": "2026-02-01T21:10:47.680392",
   "date": "2026-02-01",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PSbCMA9Nevk/hqdefault.jpg",
       "duration": "PT4M32S",
       "duration_seconds": 272,
-      "view_count": 5776,
-      "like_count": 10059,
-      "comment_count": 2059,
+      "view_count": 196451,
+      "like_count": 16586,
+      "comment_count": 3199,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ym_z8Azlk9I/hqdefault.jpg",
       "duration": "PT2H6M30S",
       "duration_seconds": 7590,
-      "view_count": 783761,
-      "like_count": 50354,
-      "comment_count": 1982,
+      "view_count": 866272,
+      "like_count": 53866,
+      "comment_count": 2192,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -69,6 +69,44 @@
       "url": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
     },
     {
+      "video_id": "2vyyPyV1d6s",
+      "title": "The Devil Wears Prada 2 | Trailer Tonight",
+      "description": "Trailer tonight. That’s all.",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-02-01T17:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2vyyPyV1d6s/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 49802,
+      "like_count": 2914,
+      "comment_count": 179,
+      "category_id": "1",
+      "tags": [
+        "Trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
+    },
+    {
+      "video_id": "7llHLZY3VB4",
+      "title": "MINECRAFT HORROR MOD with my friends",
+      "description": "huge thank you to @Temprist for setting all of this up and thank you to my friends for playing with me @Polarcub @KadenFumblebottom @Sketchh @Laughability\nMAIN MODS USED:\nCRYPTID - STEAMPWRED\nThe Broken Script - RedstoneWizard08\nThe Obsessed - vllax\nThe Knocker - Ma_Do",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-01T04:25:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
+      "duration": "PT40M26S",
+      "duration_seconds": 2426,
+      "view_count": 664464,
+      "like_count": 45646,
+      "comment_count": 5119,
+      "category_id": "20",
+      "tags": [
+        "minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=7llHLZY3VB4"
+    },
+    {
       "video_id": "oYd6rXOrz7E",
       "title": "The Show Is On! | WWE 2K26 Official Announce Trailer | 2K",
       "description": "Relive it. Rewrite it. Run it.\nWhere Icons return, and Rules don’t.\nThe show never stops in #WWE2K26 😤 \n\nPre-Order Today!  https://bit.ly/4c2vP6V\n\nFollow us to be the first to know updates:\n\nInstagram 👉    / wwegames  \nTwitter 👉   / wwegames  \nTikTok 👉    / wwegames  \nFacebook 👉    / wwegames  \nThreads 👉  https://www.threads.net/WWEgames\n\n#CMPunk #WWE #TripleH #Trailer #2K26",
@@ -78,9 +116,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oYd6rXOrz7E/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 124849,
-      "like_count": 7930,
-      "comment_count": 1323,
+      "view_count": 135127,
+      "like_count": 8175,
+      "comment_count": 1361,
       "category_id": "20",
       "tags": [
         "wwe",
@@ -107,8 +145,8 @@
       "duration": "PT1H40M58S",
       "duration_seconds": 6058,
       "view_count": 0,
-      "like_count": 8615,
-      "comment_count": 235,
+      "like_count": 9361,
+      "comment_count": 254,
       "category_id": "30",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=beTozV5eYFc"
@@ -123,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6sG1PlX74gs/hqdefault.jpg",
       "duration": "PT6M22S",
       "duration_seconds": 382,
-      "view_count": 30736,
-      "like_count": 218,
-      "comment_count": 24,
+      "view_count": 40470,
+      "like_count": 269,
+      "comment_count": 30,
       "category_id": "1",
       "tags": [
         "power book iii raising kanan",
@@ -142,23 +180,32 @@
       "url": "https://www.youtube.com/watch?v=6sG1PlX74gs"
     },
     {
-      "video_id": "7llHLZY3VB4",
-      "title": "MINECRAFT HORROR MOD with my friends",
-      "description": "huge thank you to @Temprist for setting all of this up and thank you to my friends for playing with me @Polarcub @KadenFumblebottom @Sketchh @Laughability",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-01T04:25:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
-      "duration": "PT40M26S",
-      "duration_seconds": 2426,
-      "view_count": 531115,
-      "like_count": 40136,
-      "comment_count": 4783,
+      "video_id": "ZjjXIxuBLI8",
+      "title": "IT'S OVER..",
+      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-02-01T13:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZjjXIxuBLI8/hqdefault.jpg",
+      "duration": "PT33M41S",
+      "duration_seconds": 2021,
+      "view_count": 646401,
+      "like_count": 20282,
+      "comment_count": 5300,
       "category_id": "20",
       "tags": [
-        "minecraft"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=7llHLZY3VB4"
+      "url": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
     },
     {
       "video_id": "OVPS819MW5g",
@@ -170,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OVPS819MW5g/hqdefault.jpg",
       "duration": "PT10M31S",
       "duration_seconds": 631,
-      "view_count": 49675,
-      "like_count": 2542,
-      "comment_count": 398,
+      "view_count": 53601,
+      "like_count": 2631,
+      "comment_count": 410,
       "category_id": "20",
       "tags": [
         "wwe 2k26",
@@ -195,9 +242,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4hJr0kmjKlo/hqdefault.jpg",
       "duration": "PT36M31S",
       "duration_seconds": 2191,
-      "view_count": 2901723,
-      "like_count": 199020,
-      "comment_count": 23213,
+      "view_count": 2997877,
+      "like_count": 202013,
+      "comment_count": 23351,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -212,62 +259,6 @@
         "orbital strike cannon"
       ],
       "url": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
-    },
-    {
-      "video_id": "5M8jyvjJW1s",
-      "title": "AVENGERS: DOOMSDAY - Final Trailer (2026) Tobey Maguire | Marvel Studios",
-      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— AVENGERS: DOOMSDAY\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Avengers Doomsday, the story unfolds around a catastrophic multiversal incursion linking the X-Men’s universe with the world of Tobey Maguire’s Spider-Man, forcing an unthinkable choice where the only way to save reality is to destroy another universe entirely. As the incursi",
-      "channel_title": "Teaser Universe",
-      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
-      "published_at": "2026-01-30T17:21:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5M8jyvjJW1s/hqdefault.jpg",
-      "duration": "PT1M1S",
-      "duration_seconds": 61,
-      "view_count": 169778,
-      "like_count": 826,
-      "comment_count": 97,
-      "category_id": "1",
-      "tags": [
-        "doomsday trailer",
-        "avengers doomsday",
-        "avengers doomsday trailer",
-        "avengers doomsday teaser",
-        "avengers doomsday trailer leak",
-        "doomsday wakanda trailer",
-        "doomsday teaser 4",
-        "tobey maguire doomsday",
-        "avengers doomsday tobey maguire leak",
-        "avengers doomsday tobey maguire trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=5M8jyvjJW1s"
-    },
-    {
-      "video_id": "QoJe7NXUS4k",
-      "title": "I Worked At A Photo Store…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-01-31T23:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QoJe7NXUS4k/hqdefault.jpg",
-      "duration": "PT1H11S",
-      "duration_seconds": 3611,
-      "view_count": 323279,
-      "like_count": 11687,
-      "comment_count": 656,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=QoJe7NXUS4k"
     }
   ],
   "videos_with_transcripts": [],
@@ -282,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PSbCMA9Nevk/hqdefault.jpg",
       "duration": "PT4M32S",
       "duration_seconds": 272,
-      "view_count": 5776,
-      "like_count": 10059,
-      "comment_count": 2059,
+      "view_count": 196451,
+      "like_count": 16586,
+      "comment_count": 3199,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -310,9 +301,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ym_z8Azlk9I/hqdefault.jpg",
       "duration": "PT2H6M30S",
       "duration_seconds": 7590,
-      "view_count": 783761,
-      "like_count": 50354,
-      "comment_count": 1982,
+      "view_count": 866272,
+      "like_count": 53866,
+      "comment_count": 2192,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -329,6 +320,25 @@
       "url": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
     },
     {
+      "video_id": "7llHLZY3VB4",
+      "title": "MINECRAFT HORROR MOD with my friends",
+      "description": "huge thank you to @Temprist for setting all of this up and thank you to my friends for playing with me @Polarcub @KadenFumblebottom @Sketchh @Laughability\nMAIN MODS USED:\nCRYPTID - STEAMPWRED\nThe Broken Script - RedstoneWizard08\nThe Obsessed - vllax\nThe Knocker - Ma_Do",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-01T04:25:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
+      "duration": "PT40M26S",
+      "duration_seconds": 2426,
+      "view_count": 664464,
+      "like_count": 45646,
+      "comment_count": 5119,
+      "category_id": "20",
+      "tags": [
+        "minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=7llHLZY3VB4"
+    },
+    {
       "video_id": "oYd6rXOrz7E",
       "title": "The Show Is On! | WWE 2K26 Official Announce Trailer | 2K",
       "description": "Relive it. Rewrite it. Run it.\nWhere Icons return, and Rules don’t.\nThe show never stops in #WWE2K26 😤 \n\nPre-Order Today!  https://bit.ly/4c2vP6V\n\nFollow us to be the first to know updates:\n\nInstagram 👉    / wwegames  \nTwitter 👉   / wwegames  \nTikTok 👉    / wwegames  \nFacebook 👉    / wwegames  \nThreads 👉  https://www.threads.net/WWEgames\n\n#CMPunk #WWE #TripleH #Trailer #2K26",
@@ -338,9 +348,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oYd6rXOrz7E/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 124849,
-      "like_count": 7930,
-      "comment_count": 1323,
+      "view_count": 135127,
+      "like_count": 8175,
+      "comment_count": 1361,
       "category_id": "20",
       "tags": [
         "wwe",
@@ -367,8 +377,8 @@
       "duration": "PT1H40M58S",
       "duration_seconds": 6058,
       "view_count": 0,
-      "like_count": 8615,
-      "comment_count": 235,
+      "like_count": 9361,
+      "comment_count": 254,
       "category_id": "30",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=beTozV5eYFc"
@@ -383,9 +393,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6sG1PlX74gs/hqdefault.jpg",
       "duration": "PT6M22S",
       "duration_seconds": 382,
-      "view_count": 30736,
-      "like_count": 218,
-      "comment_count": 24,
+      "view_count": 40470,
+      "like_count": 269,
+      "comment_count": 30,
       "category_id": "1",
       "tags": [
         "power book iii raising kanan",
@@ -402,23 +412,32 @@
       "url": "https://www.youtube.com/watch?v=6sG1PlX74gs"
     },
     {
-      "video_id": "7llHLZY3VB4",
-      "title": "MINECRAFT HORROR MOD with my friends",
-      "description": "huge thank you to @Temprist for setting all of this up and thank you to my friends for playing with me @Polarcub @KadenFumblebottom @Sketchh @Laughability",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-01T04:25:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
-      "duration": "PT40M26S",
-      "duration_seconds": 2426,
-      "view_count": 531115,
-      "like_count": 40136,
-      "comment_count": 4783,
+      "video_id": "ZjjXIxuBLI8",
+      "title": "IT'S OVER..",
+      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-02-01T13:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZjjXIxuBLI8/hqdefault.jpg",
+      "duration": "PT33M41S",
+      "duration_seconds": 2021,
+      "view_count": 646401,
+      "like_count": 20282,
+      "comment_count": 5300,
       "category_id": "20",
       "tags": [
-        "minecraft"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=7llHLZY3VB4"
+      "url": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
     },
     {
       "video_id": "OVPS819MW5g",
@@ -430,9 +449,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OVPS819MW5g/hqdefault.jpg",
       "duration": "PT10M31S",
       "duration_seconds": 631,
-      "view_count": 49675,
-      "like_count": 2542,
-      "comment_count": 398,
+      "view_count": 53601,
+      "like_count": 2631,
+      "comment_count": 410,
       "category_id": "20",
       "tags": [
         "wwe 2k26",
@@ -455,9 +474,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4hJr0kmjKlo/hqdefault.jpg",
       "duration": "PT36M31S",
       "duration_seconds": 2191,
-      "view_count": 2901723,
-      "like_count": 199020,
-      "comment_count": 23213,
+      "view_count": 2997877,
+      "like_count": 202013,
+      "comment_count": 23351,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -474,129 +493,73 @@
       "url": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
     },
     {
-      "video_id": "5M8jyvjJW1s",
-      "title": "AVENGERS: DOOMSDAY - Final Trailer (2026) Tobey Maguire | Marvel Studios",
-      "description": "— Attention Viewers ⚠️\n— This is a Fan-Made Concept Trailer for:\n— AVENGERS: DOOMSDAY\n\n— This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I’ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support — now let’s dive into a world shaped by creativity and craft. 🎬✨\n\n— In this concept trailer for Avengers Doomsday, the story unfolds around a catastrophic multiversal incursion linking the X-Men’s universe with the world of Tobey Maguire’s Spider-Man, forcing an unthinkable choice where the only way to save reality is to destroy another universe entirely. As the incursi",
-      "channel_title": "Teaser Universe",
-      "channel_id": "UCa2MXjBtWn91WPHWRBCLI6Q",
-      "published_at": "2026-01-30T17:21:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5M8jyvjJW1s/hqdefault.jpg",
-      "duration": "PT1M1S",
-      "duration_seconds": 61,
-      "view_count": 169778,
-      "like_count": 826,
-      "comment_count": 97,
+      "video_id": "2vyyPyV1d6s",
+      "title": "The Devil Wears Prada 2 | Trailer Tonight",
+      "description": "Trailer tonight. That’s all.",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-02-01T17:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2vyyPyV1d6s/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 49802,
+      "like_count": 2914,
+      "comment_count": 179,
       "category_id": "1",
       "tags": [
-        "doomsday trailer",
-        "avengers doomsday",
-        "avengers doomsday trailer",
-        "avengers doomsday teaser",
-        "avengers doomsday trailer leak",
-        "doomsday wakanda trailer",
-        "doomsday teaser 4",
-        "tobey maguire doomsday",
-        "avengers doomsday tobey maguire leak",
-        "avengers doomsday tobey maguire trailer"
+        "Trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=5M8jyvjJW1s"
-    },
-    {
-      "video_id": "QoJe7NXUS4k",
-      "title": "I Worked At A Photo Store…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-01-31T23:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QoJe7NXUS4k/hqdefault.jpg",
-      "duration": "PT1H11S",
-      "duration_seconds": 3611,
-      "view_count": 323279,
-      "like_count": 11687,
-      "comment_count": 656,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=QoJe7NXUS4k"
+      "url": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "content_themes": [
-          {
-            "theme": "Gaming",
-            "videos": [
-              "TEKKEN 8 - Season 3 Trailer",
-              "WWE 2K26 Official Announce Trailer",
-              "MINECRAFT HORROR MOD with my friends",
-              "WWE 2K26 Gameplay Trailer BREAKDOWN",
-              "I Explored the Minecraft Farlands"
-            ],
-            "insights": "Gaming content dominates the trending list, accounting for 50% of the videos. This indicates a strong viewer interest in both new releases and creative mod content."
-          },
-          {
-            "theme": "Horror",
-            "videos": [
-              "RANDOM HORROR GAME NIGHT",
-              "Tyler Perry's Boo 2! A Madea Halloween",
-              "MINECRAFT HORROR MOD with my friends"
-            ],
-            "insights": "Horror-themed content, which includes both games and movies, shows a notable presence. This suggests a consistent audience appetite for horror experiences across different media forms."
-          },
-          {
-            "theme": "Entertainment",
-            "videos": [
-              "Power Book III: Raising Kanan Season 5 Official Trailer",
-              "AVENGERS: DOOMSDAY - Final Trailer (2026) Tobey Maguire",
-              "The Show Is On! | WWE 2K26 Official Announce Trailer"
-            ],
-            "insights": "Entertainment trailers, especially those related to well-known franchises, generate significant interest. This highlights opportunities for content creators to tap into established fanbases."
-          }
-        ],
-        "creator_patterns": {
-          "top_channels": [
-            {
-              "channel": "Bandai Namco Entertainment America",
-              "video_count": 1,
-              "insights": "Bandai Namco's inclusion demonstrates the impact of well-established gaming studios in driving engagement through new content announcements."
-            },
-            {
-              "channel": "Markiplier",
-              "video_count": 1,
-              "insights": "Markiplier, a prominent YouTuber, maintains influence with diverse content, such as horror gaming, appealing to a wide audience base."
-            },
-            {
-              "channel": "WWE 2K",
-              "video_count": 1,
-              "insights": "WWE 2K's presence underscores the popularity of sports entertainment, blending gaming with traditional sports fandom."
-            }
-          ]
+      "content_trends": {
+        "gaming": {
+          "description": "Gaming-related content is prominent among the trending videos, with titles related to popular franchises like TEKKEN and WWE, as well as gameplay content such as Minecraft mods.",
+          "percentage": 50,
+          "insight": "There is a significant interest in both traditional gaming trailers and gameplay content. Leveraging popular game releases and updates can drive viewership."
         },
-        "market_opportunities": {
-          "gaming": {
-            "opportunity": "Develop content that explores new game releases and mods, leveraging the high interest in this category.",
-            "actionable_strategy": "Collaborate with gaming influencers to review and showcase new games or create unique gaming experiences."
-          },
-          "horror": {
-            "opportunity": "Expand into horror-themed content, considering its cross-platform appeal.",
-            "actionable_strategy": "Create short horror series or collaborate with game developers to produce engaging horror content."
-          },
-          "entertainment": {
-            "opportunity": "Focus on creating content around upcoming movies and TV series, especially those related to popular franchises.",
-            "actionable_strategy": "Partner with entertainment channels for exclusive previews and behind-the-scenes content to attract a dedicated fanbase."
-          }
+        "horror": {
+          "description": "Horror-themed content, including both gaming and movie trailers, appears to be trending.",
+          "percentage": 30,
+          "insight": "Horror content is consistently popular, especially around Halloween. Content creators can capitalize on this with seasonal releases and collaborations."
+        },
+        "entertainment": {
+          "description": "Entertainment trailers, such as those for movies and TV shows, also feature prominently.",
+          "percentage": 20,
+          "insight": "Trailers for widely recognized entertainment brands maintain strong viewer interest. Timely releases aligned with official studio announcements can enhance visibility."
+        }
+      },
+      "creator_patterns": {
+        "content_diversification": {
+          "description": "Top creators like Markiplier and WWE 2K are exploring a variety of content types, from gameplay to detailed breakdowns.",
+          "insight": "Creators should consider diversifying content types to capture different audience segments, such as combining gameplay with detailed analyses or behind-the-scenes content."
+        },
+        "collaboration_opportunities": {
+          "description": "Several channels are featuring content from major franchises, indicating opportunities for collaboration with established brands.",
+          "insight": "Creators can pursue partnerships or collaborations with major brands to gain access to exclusive content that can boost their channel's visibility."
+        }
+      },
+      "market_opportunities": {
+        "emerging_trends": {
+          "description": "There is a growing interest in crossover content that combines popular gaming franchises with trending themes like horror.",
+          "insight": "Developing content that combines multiple trending themes can capture broader interest, such as horror-themed game mods or parodies."
+        },
+        "seasonal_content": {
+          "description": "Content with seasonal relevance, such as Halloween-themed videos, shows strong engagement patterns.",
+          "insight": "Creating and releasing content that aligns with seasonal events and holidays can maximize engagement and visibility."
+        }
+      },
+      "recommendations": {
+        "data_driven_insights": {
+          "description": "Utilizing data analytics to identify peak interest periods and trending topics can inform content release strategies.",
+          "insight": "Creators should leverage analytics tools to predict and respond to emerging trends quickly, enabling timely content creation that resonates with current audience interests."
+        },
+        "audience_engagement": {
+          "description": "Engagement with existing fanbases through interactive content, such as live streams or Q&A sessions, can increase viewer loyalty.",
+          "insight": "Incorporating interactive elements that allow for real-time communication with audiences can deepen engagement and foster community growth."
         }
       },
       "metadata_stats": {
@@ -605,7 +568,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 492069
+        "avg_views_per_video": 565046
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
