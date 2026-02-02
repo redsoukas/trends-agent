@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-01T21:10:47.680392",
-  "date": "2026-02-01",
+  "timestamp": "2026-02-02T00:45:33.738481",
+  "date": "2026-02-02",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PSbCMA9Nevk/hqdefault.jpg",
       "duration": "PT4M32S",
       "duration_seconds": 272,
-      "view_count": 196451,
-      "like_count": 16586,
-      "comment_count": 3199,
+      "view_count": 300173,
+      "like_count": 20663,
+      "comment_count": 3849,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -41,6 +41,42 @@
       "url": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
     },
     {
+      "video_id": "MSqkpW9qqwE",
+      "title": "Draft Day",
+      "description": "Sonny Weaver Jr. is the general manager of the Cleveland Browns. One of pro football's most important days, NFL draft day, is drawing near, but Sonny has much more on his mind than just which players to recruit. His lover is pregnant, and the team's owner wants to fire him. After Sonny accepts a deal with Seattle that nets him that team's first-round pick, he immediately wonders if he has made the right choice for himself and the Browns.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-18T01:09:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MSqkpW9qqwE/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MSqkpW9qqwE"
+    },
+    {
+      "video_id": "2vyyPyV1d6s",
+      "title": "The Devil Wears Prada 2 | Trailer Tonight",
+      "description": "Trailer tonight. That’s all.",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-02-01T17:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2vyyPyV1d6s/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 126114,
+      "like_count": 4728,
+      "comment_count": 271,
+      "category_id": "1",
+      "tags": [
+        "Trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
+    },
+    {
       "video_id": "ym_z8Azlk9I",
       "title": "RANDOM HORROR GAME NIGHT",
       "description": "Iron Lung #1 MOVIE IN AMERICA (for now) ► https://ironlung.com\n\nIt's horror game night which obviously is the night where I play a bunch of random horror games. We've always done this.",
@@ -50,9 +86,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ym_z8Azlk9I/hqdefault.jpg",
       "duration": "PT2H6M30S",
       "duration_seconds": 7590,
-      "view_count": 866272,
-      "like_count": 53866,
-      "comment_count": 2192,
+      "view_count": 951294,
+      "like_count": 57022,
+      "comment_count": 2354,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -69,23 +105,32 @@
       "url": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
     },
     {
-      "video_id": "2vyyPyV1d6s",
-      "title": "The Devil Wears Prada 2 | Trailer Tonight",
-      "description": "Trailer tonight. That’s all.",
-      "channel_title": "20th Century Studios",
-      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-      "published_at": "2026-02-01T17:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2vyyPyV1d6s/hqdefault.jpg",
-      "duration": "PT31S",
-      "duration_seconds": 31,
-      "view_count": 49802,
-      "like_count": 2914,
-      "comment_count": 179,
+      "video_id": "9IAcXv6Q-cQ",
+      "title": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026)",
+      "description": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-02-01T17:23:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9IAcXv6Q-cQ/hqdefault.jpg",
+      "duration": "PT1M33S",
+      "duration_seconds": 93,
+      "view_count": 104829,
+      "like_count": 1977,
+      "comment_count": 91,
       "category_id": "1",
       "tags": [
-        "Trailer"
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Devil Wears Prada 2",
+        "The Devil Wears Prada 2 Trailer",
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt"
       ],
-      "url": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
+      "url": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
     },
     {
       "video_id": "7llHLZY3VB4",
@@ -97,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
       "duration": "PT40M26S",
       "duration_seconds": 2426,
-      "view_count": 664464,
-      "like_count": 45646,
-      "comment_count": 5119,
+      "view_count": 790477,
+      "like_count": 50349,
+      "comment_count": 5356,
       "category_id": "20",
       "tags": [
         "minecraft"
@@ -116,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oYd6rXOrz7E/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 135127,
-      "like_count": 8175,
-      "comment_count": 1361,
+      "view_count": 144370,
+      "like_count": 8406,
+      "comment_count": 1409,
       "category_id": "20",
       "tags": [
         "wwe",
@@ -135,51 +180,6 @@
       "url": "https://www.youtube.com/watch?v=oYd6rXOrz7E"
     },
     {
-      "video_id": "beTozV5eYFc",
-      "title": "Tyler Perry's Boo 2! A Madea Halloween",
-      "description": "Have no fear—Madea and friends are back in this screamingly funny follow-up to Tyler Perry’s comedy hit! When Brian’s (Tyler Perry) daughter sneaks off to attend a party at a haunted campground, Madea, Bam, Hattie, and Joe set out on a hell-arious journey to bring her back, scaring up laughs and striking fear in all monsters, goblins, and party animals standing in their way.",
-      "channel_title": "YouTube Movies",
-      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
-      "published_at": "2026-01-31T05:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/beTozV5eYFc/hqdefault.jpg",
-      "duration": "PT1H40M58S",
-      "duration_seconds": 6058,
-      "view_count": 0,
-      "like_count": 9361,
-      "comment_count": 254,
-      "category_id": "30",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=beTozV5eYFc"
-    },
-    {
-      "video_id": "6sG1PlX74gs",
-      "title": "Power Book III: Raising Kanan Season 5 Official Trailer | First Look",
-      "description": "Before Power Origins and Power Legacy are released, Power Book III: Raising Kanan concludes with Season 5, potentially delivering the biggest twists in the universe. Will Kanan kill Raq? How will the partnership with Breeze work? Which surprise characters will appear? Let’s take a look.\n\n#powerbookiii #powerbook3 #raisingkanan \n\nJoin here as a special member of our Next Season family!\nhttps://www.youtube.com/channel/UCM-xIi1l1w4k6dH7APlm5oQ/join\n\nMore on Power Origins: https://youtu.be/xAQuOWUWT8s",
-      "channel_title": "Next Season",
-      "channel_id": "UCM-xIi1l1w4k6dH7APlm5oQ",
-      "published_at": "2026-01-31T18:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6sG1PlX74gs/hqdefault.jpg",
-      "duration": "PT6M22S",
-      "duration_seconds": 382,
-      "view_count": 40470,
-      "like_count": 269,
-      "comment_count": 30,
-      "category_id": "1",
-      "tags": [
-        "power book iii raising kanan",
-        "power book iii raising kanan season 5",
-        "power book iii raising kanan trailer",
-        "raising kanan season 5 trailer",
-        "raising kanan season 5 teaser",
-        "raising kanan season 5 release date",
-        "Power Force",
-        "Power Book 4 Force Season 3",
-        "Power Starz",
-        "Power Force Starz"
-      ],
-      "url": "https://www.youtube.com/watch?v=6sG1PlX74gs"
-    },
-    {
       "video_id": "ZjjXIxuBLI8",
       "title": "IT'S OVER..",
       "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
@@ -189,9 +189,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZjjXIxuBLI8/hqdefault.jpg",
       "duration": "PT33M41S",
       "duration_seconds": 2021,
-      "view_count": 646401,
-      "like_count": 20282,
-      "comment_count": 5300,
+      "view_count": 835017,
+      "like_count": 23532,
+      "comment_count": 6029,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -208,57 +208,49 @@
       "url": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
     },
     {
-      "video_id": "OVPS819MW5g",
-      "title": "WWE 2K26 Gameplay Trailer BREAKDOWN!",
-      "description": "WWE 2k26 full gameplay trailer breakdown. Looking at all gameplay footage discussing new additions, features and impressions\n\nTo sponsor my channel, you can see my price, availability, and stats: \nhttps://app.thoughtleaders.io/#/reserve/assemble\nFor sponsorship questions and more info, contact assemble@thoughtleaders.io\n\nFree way to Support the show is with the 👍 Like Button 👍\nSubscribe to stay up to date on all the content! ⌨️\n\n⭐Become an official Channel Member!\nhttps://www.youtube.com/channel/UC3OW0vsfYhy3y1wsbqBSZzQ/join\n\n👕MERCH STORE: \nhttps://assemble-shop.fourthwall.com/en-cad/?",
-      "channel_title": "Assemble",
-      "channel_id": "UC3OW0vsfYhy3y1wsbqBSZzQ",
-      "published_at": "2026-01-31T23:28:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OVPS819MW5g/hqdefault.jpg",
-      "duration": "PT10M31S",
-      "duration_seconds": 631,
-      "view_count": 53601,
-      "like_count": 2631,
-      "comment_count": 410,
+      "video_id": "pwEjymwFspg",
+      "title": "WWE 2K26: Gameplay Trailer Breakdown! New Details, Hidden Features, Showcase Matches & More!",
+      "description": "Join us as we breakdown the new WWE 2K26 Gameplay Trailer to reveal of the new content it includes, secrets and hidden features!\n\nThe new gameplay trailer features a ton of new footage including the first look at Inferno match gameplay featuring The Undertaker and Kane, Dumpster match gameplay between Michin and Chelsea Green, and new footage of the Scrapyard Brawl area coming to The Island!\n\nAlso shown in the trailer were some of the new gameplay features including the return of stackable tables, the new match start feature, barricade brawls, and the new bag of thumbtacks!\n\nThe trailer also revealed the addition of a classic version of CM Punk featuring his ROH / TNA gear, with this further adding to the speculation of Steve Corino joining the roster as a new ECW Legend!\n\nWhat did you think of the trailer? Did you catch anything I missed?\nLet me know your thoughts in the comments!\n\n☆☆☆ About WWE 2K26 ☆☆☆\n\nWWE 2K26 is due to release on March 13th, 2026, however players who pre-order on",
+      "channel_title": "Smacktalks",
+      "channel_id": "UCAeTKI3Zcv44VDqq0koHy7Q",
+      "published_at": "2026-02-01T18:42:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pwEjymwFspg/hqdefault.jpg",
+      "duration": "PT14M21S",
+      "duration_seconds": 861,
+      "view_count": 29007,
+      "like_count": 1704,
+      "comment_count": 347,
       "category_id": "20",
       "tags": [
         "wwe 2k26",
-        "wwe 2k26 gameplay",
-        "wwe 2k26 gameplay trailer",
-        "wwe 2k26 gameplay reveal",
-        "wwe 2k26 trailer",
         "wwe 2k26 news",
-        "wwe 2k26 update"
+        "wwe 2k26 trailer",
+        "wwe 2k26 trailer breakdown",
+        "wwe 2k26 gameplay trailer",
+        "wwe 2k26 screenshots",
+        "wwe 2k26 attitude era edition",
+        "wwe 2k25",
+        "wwe 2k26 cm punk",
+        "wwe 2k26 entrances"
       ],
-      "url": "https://www.youtube.com/watch?v=OVPS819MW5g"
+      "url": "https://www.youtube.com/watch?v=pwEjymwFspg"
     },
     {
-      "video_id": "4hJr0kmjKlo",
-      "title": "I Explored the Minecraft Farlands",
-      "description": "the end of the world\n\nI Explored the Minecraft Farlands\n\nUnstable SMP:\n➜  @FlameFragsMC \n➜  ⁨@Spokeishere \n➜  @ParrotX2 \n➜  ⁨@wemmbumc \n\nminor spoilers below\n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (all of the minecraft theme remixes!)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.storyblocks.com),",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-01-31T14:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4hJr0kmjKlo/hqdefault.jpg",
-      "duration": "PT36M31S",
-      "duration_seconds": 2191,
-      "view_count": 2997877,
-      "like_count": 202013,
-      "comment_count": 23351,
+      "video_id": "5yYMALI5rvk",
+      "title": "I Added COUPLES In Steal a Brainrot...",
+      "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox",
+      "channel_title": "Techys",
+      "channel_id": "UCoRjsuzMh-MqfRjvlqaVLPw",
+      "published_at": "2026-02-01T16:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5yYMALI5rvk/hqdefault.jpg",
+      "duration": "PT19M2S",
+      "duration_seconds": 1142,
+      "view_count": 302556,
+      "like_count": 5733,
+      "comment_count": 571,
       "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "flamefrags",
-        "unstable smp",
-        "wemmbu vs flamefrags",
-        "wemmbu unstable smp",
-        "wemmbu farlands",
-        "minecraft farlands",
-        "wemmbu minecraft",
-        "wemmbu orbital cannon",
-        "orbital strike cannon"
-      ],
-      "url": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5yYMALI5rvk"
     }
   ],
   "videos_with_transcripts": [],
@@ -273,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PSbCMA9Nevk/hqdefault.jpg",
       "duration": "PT4M32S",
       "duration_seconds": 272,
-      "view_count": 196451,
-      "like_count": 16586,
-      "comment_count": 3199,
+      "view_count": 300173,
+      "like_count": 20663,
+      "comment_count": 3849,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -301,9 +293,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ym_z8Azlk9I/hqdefault.jpg",
       "duration": "PT2H6M30S",
       "duration_seconds": 7590,
-      "view_count": 866272,
-      "like_count": 53866,
-      "comment_count": 2192,
+      "view_count": 951294,
+      "like_count": 57022,
+      "comment_count": 2354,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -320,6 +312,34 @@
       "url": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
     },
     {
+      "video_id": "9IAcXv6Q-cQ",
+      "title": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026)",
+      "description": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-02-01T17:23:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9IAcXv6Q-cQ/hqdefault.jpg",
+      "duration": "PT1M33S",
+      "duration_seconds": 93,
+      "view_count": 104829,
+      "like_count": 1977,
+      "comment_count": 91,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Devil Wears Prada 2",
+        "The Devil Wears Prada 2 Trailer",
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt"
+      ],
+      "url": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
+    },
+    {
       "video_id": "7llHLZY3VB4",
       "title": "MINECRAFT HORROR MOD with my friends",
       "description": "huge thank you to @Temprist for setting all of this up and thank you to my friends for playing with me @Polarcub @KadenFumblebottom @Sketchh @Laughability\nMAIN MODS USED:\nCRYPTID - STEAMPWRED\nThe Broken Script - RedstoneWizard08\nThe Obsessed - vllax\nThe Knocker - Ma_Do",
@@ -329,9 +349,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7llHLZY3VB4/hqdefault.jpg",
       "duration": "PT40M26S",
       "duration_seconds": 2426,
-      "view_count": 664464,
-      "like_count": 45646,
-      "comment_count": 5119,
+      "view_count": 790477,
+      "like_count": 50349,
+      "comment_count": 5356,
       "category_id": "20",
       "tags": [
         "minecraft"
@@ -348,9 +368,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oYd6rXOrz7E/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 135127,
-      "like_count": 8175,
-      "comment_count": 1361,
+      "view_count": 144370,
+      "like_count": 8406,
+      "comment_count": 1409,
       "category_id": "20",
       "tags": [
         "wwe",
@@ -367,51 +387,6 @@
       "url": "https://www.youtube.com/watch?v=oYd6rXOrz7E"
     },
     {
-      "video_id": "beTozV5eYFc",
-      "title": "Tyler Perry's Boo 2! A Madea Halloween",
-      "description": "Have no fear—Madea and friends are back in this screamingly funny follow-up to Tyler Perry’s comedy hit! When Brian’s (Tyler Perry) daughter sneaks off to attend a party at a haunted campground, Madea, Bam, Hattie, and Joe set out on a hell-arious journey to bring her back, scaring up laughs and striking fear in all monsters, goblins, and party animals standing in their way.",
-      "channel_title": "YouTube Movies",
-      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
-      "published_at": "2026-01-31T05:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/beTozV5eYFc/hqdefault.jpg",
-      "duration": "PT1H40M58S",
-      "duration_seconds": 6058,
-      "view_count": 0,
-      "like_count": 9361,
-      "comment_count": 254,
-      "category_id": "30",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=beTozV5eYFc"
-    },
-    {
-      "video_id": "6sG1PlX74gs",
-      "title": "Power Book III: Raising Kanan Season 5 Official Trailer | First Look",
-      "description": "Before Power Origins and Power Legacy are released, Power Book III: Raising Kanan concludes with Season 5, potentially delivering the biggest twists in the universe. Will Kanan kill Raq? How will the partnership with Breeze work? Which surprise characters will appear? Let’s take a look.\n\n#powerbookiii #powerbook3 #raisingkanan \n\nJoin here as a special member of our Next Season family!\nhttps://www.youtube.com/channel/UCM-xIi1l1w4k6dH7APlm5oQ/join\n\nMore on Power Origins: https://youtu.be/xAQuOWUWT8s",
-      "channel_title": "Next Season",
-      "channel_id": "UCM-xIi1l1w4k6dH7APlm5oQ",
-      "published_at": "2026-01-31T18:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6sG1PlX74gs/hqdefault.jpg",
-      "duration": "PT6M22S",
-      "duration_seconds": 382,
-      "view_count": 40470,
-      "like_count": 269,
-      "comment_count": 30,
-      "category_id": "1",
-      "tags": [
-        "power book iii raising kanan",
-        "power book iii raising kanan season 5",
-        "power book iii raising kanan trailer",
-        "raising kanan season 5 trailer",
-        "raising kanan season 5 teaser",
-        "raising kanan season 5 release date",
-        "Power Force",
-        "Power Book 4 Force Season 3",
-        "Power Starz",
-        "Power Force Starz"
-      ],
-      "url": "https://www.youtube.com/watch?v=6sG1PlX74gs"
-    },
-    {
       "video_id": "ZjjXIxuBLI8",
       "title": "IT'S OVER..",
       "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
@@ -421,9 +396,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZjjXIxuBLI8/hqdefault.jpg",
       "duration": "PT33M41S",
       "duration_seconds": 2021,
-      "view_count": 646401,
-      "like_count": 20282,
-      "comment_count": 5300,
+      "view_count": 835017,
+      "like_count": 23532,
+      "comment_count": 6029,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -440,57 +415,66 @@
       "url": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
     },
     {
-      "video_id": "OVPS819MW5g",
-      "title": "WWE 2K26 Gameplay Trailer BREAKDOWN!",
-      "description": "WWE 2k26 full gameplay trailer breakdown. Looking at all gameplay footage discussing new additions, features and impressions\n\nTo sponsor my channel, you can see my price, availability, and stats: \nhttps://app.thoughtleaders.io/#/reserve/assemble\nFor sponsorship questions and more info, contact assemble@thoughtleaders.io\n\nFree way to Support the show is with the 👍 Like Button 👍\nSubscribe to stay up to date on all the content! ⌨️\n\n⭐Become an official Channel Member!\nhttps://www.youtube.com/channel/UC3OW0vsfYhy3y1wsbqBSZzQ/join\n\n👕MERCH STORE: \nhttps://assemble-shop.fourthwall.com/en-cad/?",
-      "channel_title": "Assemble",
-      "channel_id": "UC3OW0vsfYhy3y1wsbqBSZzQ",
-      "published_at": "2026-01-31T23:28:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OVPS819MW5g/hqdefault.jpg",
-      "duration": "PT10M31S",
-      "duration_seconds": 631,
-      "view_count": 53601,
-      "like_count": 2631,
-      "comment_count": 410,
+      "video_id": "pwEjymwFspg",
+      "title": "WWE 2K26: Gameplay Trailer Breakdown! New Details, Hidden Features, Showcase Matches & More!",
+      "description": "Join us as we breakdown the new WWE 2K26 Gameplay Trailer to reveal of the new content it includes, secrets and hidden features!\n\nThe new gameplay trailer features a ton of new footage including the first look at Inferno match gameplay featuring The Undertaker and Kane, Dumpster match gameplay between Michin and Chelsea Green, and new footage of the Scrapyard Brawl area coming to The Island!\n\nAlso shown in the trailer were some of the new gameplay features including the return of stackable tables, the new match start feature, barricade brawls, and the new bag of thumbtacks!\n\nThe trailer also revealed the addition of a classic version of CM Punk featuring his ROH / TNA gear, with this further adding to the speculation of Steve Corino joining the roster as a new ECW Legend!\n\nWhat did you think of the trailer? Did you catch anything I missed?\nLet me know your thoughts in the comments!\n\n☆☆☆ About WWE 2K26 ☆☆☆\n\nWWE 2K26 is due to release on March 13th, 2026, however players who pre-order on",
+      "channel_title": "Smacktalks",
+      "channel_id": "UCAeTKI3Zcv44VDqq0koHy7Q",
+      "published_at": "2026-02-01T18:42:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pwEjymwFspg/hqdefault.jpg",
+      "duration": "PT14M21S",
+      "duration_seconds": 861,
+      "view_count": 29007,
+      "like_count": 1704,
+      "comment_count": 347,
       "category_id": "20",
       "tags": [
         "wwe 2k26",
-        "wwe 2k26 gameplay",
-        "wwe 2k26 gameplay trailer",
-        "wwe 2k26 gameplay reveal",
-        "wwe 2k26 trailer",
         "wwe 2k26 news",
-        "wwe 2k26 update"
+        "wwe 2k26 trailer",
+        "wwe 2k26 trailer breakdown",
+        "wwe 2k26 gameplay trailer",
+        "wwe 2k26 screenshots",
+        "wwe 2k26 attitude era edition",
+        "wwe 2k25",
+        "wwe 2k26 cm punk",
+        "wwe 2k26 entrances"
       ],
-      "url": "https://www.youtube.com/watch?v=OVPS819MW5g"
+      "url": "https://www.youtube.com/watch?v=pwEjymwFspg"
     },
     {
-      "video_id": "4hJr0kmjKlo",
-      "title": "I Explored the Minecraft Farlands",
-      "description": "the end of the world\n\nI Explored the Minecraft Farlands\n\nUnstable SMP:\n➜  @FlameFragsMC \n➜  ⁨@Spokeishere \n➜  @ParrotX2 \n➜  ⁨@wemmbumc \n\nminor spoilers below\n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (all of the minecraft theme remixes!)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.storyblocks.com),",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-01-31T14:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4hJr0kmjKlo/hqdefault.jpg",
-      "duration": "PT36M31S",
-      "duration_seconds": 2191,
-      "view_count": 2997877,
-      "like_count": 202013,
-      "comment_count": 23351,
+      "video_id": "5yYMALI5rvk",
+      "title": "I Added COUPLES In Steal a Brainrot...",
+      "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox",
+      "channel_title": "Techys",
+      "channel_id": "UCoRjsuzMh-MqfRjvlqaVLPw",
+      "published_at": "2026-02-01T16:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5yYMALI5rvk/hqdefault.jpg",
+      "duration": "PT19M2S",
+      "duration_seconds": 1142,
+      "view_count": 302556,
+      "like_count": 5733,
+      "comment_count": 571,
       "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "flamefrags",
-        "unstable smp",
-        "wemmbu vs flamefrags",
-        "wemmbu unstable smp",
-        "wemmbu farlands",
-        "minecraft farlands",
-        "wemmbu minecraft",
-        "wemmbu orbital cannon",
-        "orbital strike cannon"
-      ],
-      "url": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5yYMALI5rvk"
+    },
+    {
+      "video_id": "MSqkpW9qqwE",
+      "title": "Draft Day",
+      "description": "Sonny Weaver Jr. is the general manager of the Cleveland Browns. One of pro football's most important days, NFL draft day, is drawing near, but Sonny has much more on his mind than just which players to recruit. His lover is pregnant, and the team's owner wants to fire him. After Sonny accepts a deal with Seattle that nets him that team's first-round pick, he immediately wonders if he has made the right choice for himself and the Browns.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-18T01:09:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MSqkpW9qqwE/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MSqkpW9qqwE"
     },
     {
       "video_id": "2vyyPyV1d6s",
@@ -502,9 +486,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2vyyPyV1d6s/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 49802,
-      "like_count": 2914,
-      "comment_count": 179,
+      "view_count": 126114,
+      "like_count": 4728,
+      "comment_count": 271,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -515,51 +499,73 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "total_videos": 10,
+      "total_views": 3583837,
+      "average_views_per_video": 358383.7,
+      "trending_categories_inference": [
+        "Gaming",
+        "Movies/Entertainment",
+        "Horror",
+        "Sports"
+      ],
       "content_trends": {
         "gaming": {
-          "description": "Gaming-related content is prominent among the trending videos, with titles related to popular franchises like TEKKEN and WWE, as well as gameplay content such as Minecraft mods.",
-          "percentage": 50,
-          "insight": "There is a significant interest in both traditional gaming trailers and gameplay content. Leveraging popular game releases and updates can drive viewership."
-        },
-        "horror": {
-          "description": "Horror-themed content, including both gaming and movie trailers, appears to be trending.",
-          "percentage": 30,
-          "insight": "Horror content is consistently popular, especially around Halloween. Content creators can capitalize on this with seasonal releases and collaborations."
+          "videos": [
+            "TEKKEN 8 - Season 3 Trailer",
+            "MINECRAFT HORROR MOD with my friends",
+            "The Show Is On! | WWE 2K26 Official Announce Trailer | 2K",
+            "WWE 2K26: Gameplay Trailer Breakdown! New Details, Hidden Features, Showcase Matches & More!"
+          ],
+          "views_approximation": 40
         },
         "entertainment": {
-          "description": "Entertainment trailers, such as those for movies and TV shows, also feature prominently.",
-          "percentage": 20,
-          "insight": "Trailers for widely recognized entertainment brands maintain strong viewer interest. Timely releases aligned with official studio announcements can enhance visibility."
+          "videos": [
+            "The Devil Wears Prada 2 | Trailer Tonight",
+            "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026)",
+            "Draft Day"
+          ],
+          "views_approximation": 30
+        },
+        "horror": {
+          "videos": [
+            "RANDOM HORROR GAME NIGHT",
+            "MINECRAFT HORROR MOD with my friends"
+          ],
+          "views_approximation": 20
+        },
+        "emotional_reacts": {
+          "videos": [
+            "IT'S OVER.."
+          ],
+          "views_approximation": 10
         }
       },
       "creator_patterns": {
-        "content_diversification": {
-          "description": "Top creators like Markiplier and WWE 2K are exploring a variety of content types, from gameplay to detailed breakdowns.",
-          "insight": "Creators should consider diversifying content types to capture different audience segments, such as combining gameplay with detailed analyses or behind-the-scenes content."
-        },
-        "collaboration_opportunities": {
-          "description": "Several channels are featuring content from major franchises, indicating opportunities for collaboration with established brands.",
-          "insight": "Creators can pursue partnerships or collaborations with major brands to gain access to exclusive content that can boost their channel's visibility."
-        }
+        "notable_channels": [
+          "Bandai Namco Entertainment America",
+          "AMC",
+          "20th Century Studios",
+          "Markiplier",
+          "ONE Media"
+        ],
+        "single_video_contributions": true
       },
       "market_opportunities": {
-        "emerging_trends": {
-          "description": "There is a growing interest in crossover content that combines popular gaming franchises with trending themes like horror.",
-          "insight": "Developing content that combines multiple trending themes can capture broader interest, such as horror-themed game mods or parodies."
+        "gaming": {
+          "insight": "High engagement with gaming trailers suggests potential for more in-depth content such as gameplay breakdowns, developer interviews, and eSports tournament coverage.",
+          "opportunity": "Collaborations with emerging gaming influencers to create exclusive content or early access previews."
         },
-        "seasonal_content": {
-          "description": "Content with seasonal relevance, such as Halloween-themed videos, shows strong engagement patterns.",
-          "insight": "Creating and releasing content that aligns with seasonal events and holidays can maximize engagement and visibility."
-        }
-      },
-      "recommendations": {
-        "data_driven_insights": {
-          "description": "Utilizing data analytics to identify peak interest periods and trending topics can inform content release strategies.",
-          "insight": "Creators should leverage analytics tools to predict and respond to emerging trends quickly, enabling timely content creation that resonates with current audience interests."
+        "movies/entertainment": {
+          "insight": "Sequel and remakes remain popular, indicating audience interest in nostalgia-driven content.",
+          "opportunity": "Producing behind-the-scenes content or exclusive interviews with cast and crew of upcoming films."
         },
-        "audience_engagement": {
-          "description": "Engagement with existing fanbases through interactive content, such as live streams or Q&A sessions, can increase viewer loyalty.",
-          "insight": "Incorporating interactive elements that allow for real-time communication with audiences can deepen engagement and foster community growth."
+        "horror": {
+          "insight": "Horror-themed content, especially in gaming, is trending, suggesting a niche but engaged audience.",
+          "opportunity": "Developing interactive horror experiences or VR content to capitalize on the immersive trend."
+        },
+        "emotional_reacts": {
+          "insight": "Videos with emotional titles hint at virality potential through relatability or shock.",
+          "opportunity": "Creating content that taps into current events or emotional storytelling to enhance viewer connection."
         }
       },
       "metadata_stats": {
@@ -568,7 +574,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 565046
+        "avg_views_per_video": 358383
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
