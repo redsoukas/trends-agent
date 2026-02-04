@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-04T00:41:52.208876",
+  "timestamp": "2026-02-04T03:52:23.672280",
   "date": "2026-02-04",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "high_potential_videos": 6,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,51 +13,6 @@
   },
   "trending_videos": [
     {
-      "video_id": "3_ZVYxDgbM0",
-      "title": "HELLDIVERS™ 2: Galactic Offensive Trailer",
-      "description": "Helldivers, we march towards Cyberstan to stop the Automatons forging a planet-killing weapon of galactic destruction! \n\nTake control of the new heavy-hitting Bastion Tank to pancake the tin-plated tyrants beneath the full force of Freedom’s firepower!",
-      "channel_title": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "published_at": "2026-02-03T13:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_ZVYxDgbM0/hqdefault.jpg",
-      "duration": "PT53S",
-      "duration_seconds": 53,
-      "view_count": 460517,
-      "like_count": 37506,
-      "comment_count": 2467,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
-    },
-    {
-      "video_id": "t-4_y299yx4",
-      "title": "Can you figure out what game I'm actually playing?",
-      "description": "Twitch Chat could be the smartest gamers of all time. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=dawl6NfP-s8\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #banjokazooie",
-      "channel_title": "DougDougDoug",
-      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
-      "published_at": "2026-02-03T20:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-4_y299yx4/hqdefault.jpg",
-      "duration": "PT35M20S",
-      "duration_seconds": 2120,
-      "view_count": 171016,
-      "like_count": 18815,
-      "comment_count": 720,
-      "category_id": "20",
-      "tags": [
-        "DougDoug",
-        "DougDoug's Leftovers",
-        "DougDoug Youtube",
-        "DougDoug second channel",
-        "dougdoug stream highlights",
-        "dougdoug twitch",
-        "dougdoug twitch highlights",
-        "dougdoug stream",
-        "twitch",
-        "twitch chat"
-      ],
-      "url": "https://www.youtube.com/watch?v=t-4_y299yx4"
-    },
-    {
       "video_id": "CN0lNff-zm0",
       "title": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
       "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi\n\nDhurandhar: The Revenge\nReleasing In Cinemas Worldwide on 19th March 2026 in Hindi, Telugu, Tamil, Kannada & Malayalam\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\n🎬 Film Credits:\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nMusic and Background score - Shashwat Sachdev\nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer - Preetisheel Singh Dsouza \nSound Designer - Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut \nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini ",
@@ -67,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CN0lNff-zm0/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 7036437,
-      "like_count": 305482,
-      "comment_count": 14481,
+      "view_count": 7215611,
+      "like_count": 312926,
+      "comment_count": 14663,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -86,23 +41,66 @@
       "url": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
-      "video_id": "0P1Xyxv22mo",
-      "title": "The Most Hectic Creator Among Us Ever.",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@EvanJohnson2 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-03T00:56:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0P1Xyxv22mo/hqdefault.jpg",
-      "duration": "PT1H26M49S",
-      "duration_seconds": 5209,
-      "view_count": 425321,
-      "like_count": 16765,
-      "comment_count": 851,
+      "video_id": "C0amJWBSCtA",
+      "title": "Cast Away",
+      "description": "Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck learns how to survive on the island, where he remains for years, accompanied by only his handmade volleyball friend, Wilson. Will Chuck ever return to civilization and reunite with his loved ones?",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-21T01:10:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C0amJWBSCtA/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C0amJWBSCtA"
+    },
+    {
+      "video_id": "3_ZVYxDgbM0",
+      "title": "HELLDIVERS™ 2: Galactic Offensive Trailer",
+      "description": "Helldivers, we march towards Cyberstan to stop the Automatons forging a planet-killing weapon of galactic destruction! \n\nTake control of the new heavy-hitting Bastion Tank to pancake the tin-plated tyrants beneath the full force of Freedom’s firepower!",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-03T13:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3_ZVYxDgbM0/hqdefault.jpg",
+      "duration": "PT53S",
+      "duration_seconds": 53,
+      "view_count": 510639,
+      "like_count": 39332,
+      "comment_count": 2556,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
+    },
+    {
+      "video_id": "sahcs5wovnk",
+      "title": "roblox best gameplay",
+      "description": "Roblox insane moment aura #roblox #shorts #usa",
+      "channel_title": "StanRP",
+      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
+      "published_at": "2026-02-04T01:59:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sahcs5wovnk/hqdefault.jpg",
+      "duration": "PT9S",
+      "duration_seconds": 9,
+      "view_count": 186537,
+      "like_count": 1455,
+      "comment_count": 1,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "roblox",
+        "granny",
+        "free fire",
+        "live roblox",
+        "roblox shorts",
+        "shorts feed",
+        "67",
+        "six seven",
+        "meme reset",
+        "singing brainrot song"
       ],
-      "url": "https://www.youtube.com/watch?v=0P1Xyxv22mo"
+      "url": "https://www.youtube.com/watch?v=sahcs5wovnk"
     },
     {
       "video_id": "6zmKcUa4Xxk",
@@ -114,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6zmKcUa4Xxk/hqdefault.jpg",
       "duration": "PT2M17S",
       "duration_seconds": 137,
-      "view_count": 1706772,
-      "like_count": 43014,
-      "comment_count": 1881,
+      "view_count": 2045481,
+      "like_count": 46984,
+      "comment_count": 1993,
       "category_id": "1",
       "tags": [
         "a24",
@@ -133,32 +131,77 @@
       "url": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
     },
     {
-      "video_id": "_-e_WloZrg0",
-      "title": "roblox best gameplay",
-      "description": "Roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-03T22:20:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_-e_WloZrg0/hqdefault.jpg",
-      "duration": "PT23S",
-      "duration_seconds": 23,
-      "view_count": 244963,
-      "like_count": 1967,
-      "comment_count": 4,
+      "video_id": "a4rMn3QOd3c",
+      "title": "Thor: Ragnarok",
+      "description": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+      "channel_title": "FX",
+      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
+      "published_at": "2026-01-21T01:11:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a4rMn3QOd3c/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
+    },
+    {
+      "video_id": "ZgWrFoaisdk",
+      "title": "Monarch: Legacy of Monsters — Season 2 Official Trailer | Apple TV",
+      "description": "Kong. Godzilla. Titan X. \n\nMonarch: Legacy of Monsters returns February 27 on Apple TV https://apple.co/_Monarch\n\nBased on the Monsterverse from Legendary, this dramatic saga — spanning three generations — reveals buried secrets and the ways that epic, earth-shattering events can reverberate through our lives.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#Monarch #Trailer #AppleTV",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-02-03T18:14:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZgWrFoaisdk/hqdefault.jpg",
+      "duration": "PT2M42S",
+      "duration_seconds": 162,
+      "view_count": 1464006,
+      "like_count": 32801,
+      "comment_count": 2441,
+      "category_id": "24",
+      "tags": [
+        "monarch",
+        "monarch legacy of monsters",
+        "monarch season 2",
+        "monarch season two",
+        "season 2",
+        "trailer",
+        "teaser",
+        "monarch trailer",
+        "trailer monarch",
+        "monarch legacy of monsters trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZgWrFoaisdk"
+    },
+    {
+      "video_id": "t-4_y299yx4",
+      "title": "Can you figure out what game I'm actually playing?",
+      "description": "Twitch Chat could be the smartest gamers of all time. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=dawl6NfP-s8\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #banjokazooie",
+      "channel_title": "DougDougDoug",
+      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
+      "published_at": "2026-02-03T20:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t-4_y299yx4/hqdefault.jpg",
+      "duration": "PT35M20S",
+      "duration_seconds": 2120,
+      "view_count": 335342,
+      "like_count": 25775,
+      "comment_count": 932,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "DougDoug",
+        "DougDoug's Leftovers",
+        "DougDoug Youtube",
+        "DougDoug second channel",
+        "dougdoug stream highlights",
+        "dougdoug twitch",
+        "dougdoug twitch highlights",
+        "dougdoug stream",
+        "twitch",
+        "twitch chat"
       ],
-      "url": "https://www.youtube.com/watch?v=_-e_WloZrg0"
+      "url": "https://www.youtube.com/watch?v=t-4_y299yx4"
     },
     {
       "video_id": "5wBQfm6RxLo",
@@ -170,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5wBQfm6RxLo/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 53362,
-      "like_count": 2011,
-      "comment_count": 817,
+      "view_count": 64419,
+      "like_count": 2163,
+      "comment_count": 892,
       "category_id": "20",
       "tags": [
         "MLB The Show",
@@ -189,101 +232,37 @@
       "url": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
     },
     {
-      "video_id": "eR769m4VXnw",
-      "title": "A League of Their Own",
-      "description": "As America's stock of athletic young men is depleted during World War II, a professional all-female baseball league springs up in the Midwest, funded by publicity-hungry candy maker Walter Harvey (Garry Marshall). Competitive sisters Dottie Hinson (Geena Davis) and Kit Keller (Lori Petty) spar with each other, scout Ernie Capadino (Jon Lovitz) and grumpy has-been coach Jimmy Dugan (Tom Hanks) on their way to fame. Madonna and Rosie O'Donnell co-star as two of the sisters' teammates.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-20T00:42:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eR769m4VXnw/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=eR769m4VXnw"
-    },
-    {
-      "video_id": "e9HXmMnUEdE",
-      "title": "The Devil Wears Prada 2 | Official Trailer",
-      "description": "Everybody wants this. \n\nMeryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci return in The Devil Wears Prada 2, in theaters May 1. Watch the full trailer now. \n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finerman, and executive produced by Michael Bederman, Kar",
-      "channel_title": "20th Century Studios",
-      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-      "published_at": "2026-02-02T00:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e9HXmMnUEdE/hqdefault.jpg",
-      "duration": "PT1M40S",
-      "duration_seconds": 100,
-      "view_count": 7371141,
-      "like_count": 125663,
-      "comment_count": 5130,
-      "category_id": "1",
-      "tags": [
-        "Trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=e9HXmMnUEdE"
-    },
-    {
-      "video_id": "8blHz4yAer8",
-      "title": "IEM Krakow 2026 - Day 7 - Stream A",
-      "description": "Join the discussion:\nhttp://www.twitter.com/eslcs\nhttp://www.facebook.com/eslcs\nhttp://www.instagram.com/eslcs\n\nhttp://www.twitter.com/iem\nhttp://www.facebook.com/iem\n\nWatch live on Twitch:\nhttps://www.twitch.tv/eslcs\n\nGet the latest ESL apparel:\nhttp://shop.eslgaming.com\n\nYour leading Competitive Gaming Platform:\nhttps://www.faceit.com\n\nGet free statistics for your matchmaking games with \nhttp://csstats.gg/\n\n0:00 Intro\n42:04 MOUZ vs. FaZe Clan - Map 1 (Mirage)\n1:22:58 Studio\n1:38:54 MOUZ vs. FaZe Clan - Map 2 (Inferno)\n2:27:18 Studio\n3:07:26 G2 Esports vs. Team Spirit - Map 1 (Anubis)\n3:59:50 Studio\n4:15:51 G2 Esports vs. Team Spirit - Map 2 (Overpass)\n5:08:56 Studio\n5:26:24 G2 Esports vs. Team Spirit - Map 3 (Dust2)\n6:31:16 Studio\n6:47:01 MOUZ vs. Team Falcons- Map 1 (Inferno)\n8:00:02 Studio\n8:15:51 MOUZ vs. Team Falcons - Map 2 (Dust2)\n9:41:57 Studio\n10:03:19 Outro\n\n#esl #cs2 #counterstrike",
-      "channel_title": "ESL Counter-Strike",
-      "channel_id": "UCPq2ETz4aAGo2Z-8JisDPIA",
-      "published_at": "2026-02-03T23:03:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8blHz4yAer8/hqdefault.jpg",
-      "duration": "PT10H11M54S",
-      "duration_seconds": 36714,
-      "view_count": 1418072,
-      "like_count": 11273,
-      "comment_count": 8,
+      "video_id": "IvasHKo6Oos",
+      "title": "TACO TUESDAY ADMIN ABUSE",
+      "description": "⚠️Go follow my ROBLOX GROUP: \nhttps://www.roblox.com/communities/36047290/CayPlay#!/about\n\n⚠️Cop the CAYLUS CHAIN:\nhttps://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\n🤯NEW HOODIE & PLUSHIE\nhttps://shopcaylus.com\n\n🎯 Play Waterpark Simulator NOW! \nhttps://store.steampowered.com/app/3293260/Waterpark_Simulator/\n ⭐️ Play Waterpark Simulator DEMO NOW! – https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n 🌊 COME HANG OUT WITH ME IN THE DISCORD. I am there now! – https://discord.gg/waterparksimulator\n\n*CAYLUS PLUSHIES* https://shopcaylus.com/\n\nRoblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/about\n\n👀Subscribe to my NEW secret Roblox channel https://www.youtube.com/@CaylusBloxTopVids\n\nUse ⭐*STARCODE*⭐ Caylus\nCaylus Instagram👀 https://www.instagram.com/caylus/?hl=en\nCaylus Twitter🐦 https://x.com/caylusq",
+      "channel_title": "CaylusBlox",
+      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
+      "published_at": "2026-02-04T00:16:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IvasHKo6Oos/hqdefault.jpg",
+      "duration": "PT2H40M16S",
+      "duration_seconds": 9616,
+      "view_count": 956703,
+      "like_count": 22299,
+      "comment_count": 202,
       "category_id": "20",
       "tags": [
-        "ESL",
-        "Counter-Strike",
-        "ESL CS",
-        "ESLCS",
-        "ESL CSGO",
-        "ESL Counter-Strike",
-        "IEM",
-        "IEM CS",
-        "IEM CSGO",
-        "CSGO"
+        "caylusblox",
+        "caylus roblox",
+        "caylus",
+        "roblox",
+        "Steal a brainrot update",
+        "ADMIN ABUSE In Steal a Brainrot!",
+        "admin abuse",
+        "steal a brainrot",
+        "caylus admin abuse",
+        "caylus steak"
       ],
-      "url": "https://www.youtube.com/watch?v=8blHz4yAer8"
+      "url": "https://www.youtube.com/watch?v=IvasHKo6Oos"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "t-4_y299yx4",
-      "title": "Can you figure out what game I'm actually playing?",
-      "description": "Twitch Chat could be the smartest gamers of all time. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=dawl6NfP-s8\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #banjokazooie",
-      "channel_title": "DougDougDoug",
-      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
-      "published_at": "2026-02-03T20:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-4_y299yx4/hqdefault.jpg",
-      "duration": "PT35M20S",
-      "duration_seconds": 2120,
-      "view_count": 171016,
-      "like_count": 18815,
-      "comment_count": 720,
-      "category_id": "20",
-      "tags": [
-        "DougDoug",
-        "DougDoug's Leftovers",
-        "DougDoug Youtube",
-        "DougDoug second channel",
-        "dougdoug stream highlights",
-        "dougdoug twitch",
-        "dougdoug twitch highlights",
-        "dougdoug stream",
-        "twitch",
-        "twitch chat"
-      ],
-      "url": "https://www.youtube.com/watch?v=t-4_y299yx4"
-    },
-    {
       "video_id": "CN0lNff-zm0",
       "title": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
       "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi\n\nDhurandhar: The Revenge\nReleasing In Cinemas Worldwide on 19th March 2026 in Hindi, Telugu, Tamil, Kannada & Malayalam\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\n🎬 Film Credits:\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nMusic and Background score - Shashwat Sachdev\nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer - Preetisheel Singh Dsouza \nSound Designer - Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut \nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini ",
@@ -293,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CN0lNff-zm0/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 7036437,
-      "like_count": 305482,
-      "comment_count": 14481,
+      "view_count": 7215611,
+      "like_count": 312926,
+      "comment_count": 14663,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -312,25 +291,6 @@
       "url": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
-      "video_id": "0P1Xyxv22mo",
-      "title": "The Most Hectic Creator Among Us Ever.",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@EvanJohnson2 \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-03T00:56:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0P1Xyxv22mo/hqdefault.jpg",
-      "duration": "PT1H26M49S",
-      "duration_seconds": 5209,
-      "view_count": 425321,
-      "like_count": 16765,
-      "comment_count": 851,
-      "category_id": "20",
-      "tags": [
-        "joebartolozzi"
-      ],
-      "url": "https://www.youtube.com/watch?v=0P1Xyxv22mo"
-    },
-    {
       "video_id": "6zmKcUa4Xxk",
       "title": "The Drama | Official Trailer HD | A24",
       "description": "From writer/director Kristoffer Borgli and starring Zendaya and Robert Pattinson. THE DRAMA – Save the date April 3.\n\nRELEASE DATE: April 3\nDIRECTOR: Kristoffer Borgli\nCAST: Zendaya, Robert Pattinson\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: The Moment, Pillion, How to Make a Killing, The Drama, Mother Mary & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
@@ -340,9 +300,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6zmKcUa4Xxk/hqdefault.jpg",
       "duration": "PT2M17S",
       "duration_seconds": 137,
-      "view_count": 1706772,
-      "like_count": 43014,
-      "comment_count": 1881,
+      "view_count": 2045481,
+      "like_count": 46984,
+      "comment_count": 1993,
       "category_id": "1",
       "tags": [
         "a24",
@@ -359,6 +319,62 @@
       "url": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
     },
     {
+      "video_id": "ZgWrFoaisdk",
+      "title": "Monarch: Legacy of Monsters — Season 2 Official Trailer | Apple TV",
+      "description": "Kong. Godzilla. Titan X. \n\nMonarch: Legacy of Monsters returns February 27 on Apple TV https://apple.co/_Monarch\n\nBased on the Monsterverse from Legendary, this dramatic saga — spanning three generations — reveals buried secrets and the ways that epic, earth-shattering events can reverberate through our lives.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#Monarch #Trailer #AppleTV",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-02-03T18:14:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZgWrFoaisdk/hqdefault.jpg",
+      "duration": "PT2M42S",
+      "duration_seconds": 162,
+      "view_count": 1464006,
+      "like_count": 32801,
+      "comment_count": 2441,
+      "category_id": "24",
+      "tags": [
+        "monarch",
+        "monarch legacy of monsters",
+        "monarch season 2",
+        "monarch season two",
+        "season 2",
+        "trailer",
+        "teaser",
+        "monarch trailer",
+        "trailer monarch",
+        "monarch legacy of monsters trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZgWrFoaisdk"
+    },
+    {
+      "video_id": "t-4_y299yx4",
+      "title": "Can you figure out what game I'm actually playing?",
+      "description": "Twitch Chat could be the smartest gamers of all time. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=dawl6NfP-s8\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #banjokazooie",
+      "channel_title": "DougDougDoug",
+      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
+      "published_at": "2026-02-03T20:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t-4_y299yx4/hqdefault.jpg",
+      "duration": "PT35M20S",
+      "duration_seconds": 2120,
+      "view_count": 335342,
+      "like_count": 25775,
+      "comment_count": 932,
+      "category_id": "20",
+      "tags": [
+        "DougDoug",
+        "DougDoug's Leftovers",
+        "DougDoug Youtube",
+        "DougDoug second channel",
+        "dougdoug stream highlights",
+        "dougdoug twitch",
+        "dougdoug twitch highlights",
+        "dougdoug stream",
+        "twitch",
+        "twitch chat"
+      ],
+      "url": "https://www.youtube.com/watch?v=t-4_y299yx4"
+    },
+    {
       "video_id": "5wBQfm6RxLo",
       "title": "MLB The Show 26 Gameplay Trailer",
       "description": "Pre-Order Now: https://mlbthe.show/0BRw\n\nLeave your mark like never before. \nHere’s what’s new in ‘26: \nRoad To The Show: Road To Cooperstown\nExpanded Amateur Years feat. 11 new colleges\nBear Down Pitching \nBig Zone Hitting\nDiamond Dynasty: The World Baseball Classic*\nOver 500 new gameplay animations\nRevamped Trade Experience in Franchise Mode\nStorylines: Negro Leagues Season 4\n\n\nEarly Access starts March 13th, 2026\nAvailable March 17th, 2026 \nGet 10% off your Digital Deluxe Edition pre-order if you’ve bought any digital version of MLB The Show since ‘21.  \n                          \n*Internet connection required. \n**Discount reflected in cart. Must be signed into your account. Only applies to same platform purchases. For Nintendo Switch, since MLB® The Show™ 22.",
@@ -368,9 +384,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5wBQfm6RxLo/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 53362,
-      "like_count": 2011,
-      "comment_count": 817,
+      "view_count": 64419,
+      "like_count": 2163,
+      "comment_count": 892,
       "category_id": "20",
       "tags": [
         "MLB The Show",
@@ -387,51 +403,49 @@
       "url": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
     },
     {
-      "video_id": "e9HXmMnUEdE",
-      "title": "The Devil Wears Prada 2 | Official Trailer",
-      "description": "Everybody wants this. \n\nMeryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci return in The Devil Wears Prada 2, in theaters May 1. Watch the full trailer now. \n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finerman, and executive produced by Michael Bederman, Kar",
-      "channel_title": "20th Century Studios",
-      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-      "published_at": "2026-02-02T00:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e9HXmMnUEdE/hqdefault.jpg",
-      "duration": "PT1M40S",
-      "duration_seconds": 100,
-      "view_count": 7371141,
-      "like_count": 125663,
-      "comment_count": 5130,
-      "category_id": "1",
-      "tags": [
-        "Trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=e9HXmMnUEdE"
-    },
-    {
-      "video_id": "8blHz4yAer8",
-      "title": "IEM Krakow 2026 - Day 7 - Stream A",
-      "description": "Join the discussion:\nhttp://www.twitter.com/eslcs\nhttp://www.facebook.com/eslcs\nhttp://www.instagram.com/eslcs\n\nhttp://www.twitter.com/iem\nhttp://www.facebook.com/iem\n\nWatch live on Twitch:\nhttps://www.twitch.tv/eslcs\n\nGet the latest ESL apparel:\nhttp://shop.eslgaming.com\n\nYour leading Competitive Gaming Platform:\nhttps://www.faceit.com\n\nGet free statistics for your matchmaking games with \nhttp://csstats.gg/\n\n0:00 Intro\n42:04 MOUZ vs. FaZe Clan - Map 1 (Mirage)\n1:22:58 Studio\n1:38:54 MOUZ vs. FaZe Clan - Map 2 (Inferno)\n2:27:18 Studio\n3:07:26 G2 Esports vs. Team Spirit - Map 1 (Anubis)\n3:59:50 Studio\n4:15:51 G2 Esports vs. Team Spirit - Map 2 (Overpass)\n5:08:56 Studio\n5:26:24 G2 Esports vs. Team Spirit - Map 3 (Dust2)\n6:31:16 Studio\n6:47:01 MOUZ vs. Team Falcons- Map 1 (Inferno)\n8:00:02 Studio\n8:15:51 MOUZ vs. Team Falcons - Map 2 (Dust2)\n9:41:57 Studio\n10:03:19 Outro\n\n#esl #cs2 #counterstrike",
-      "channel_title": "ESL Counter-Strike",
-      "channel_id": "UCPq2ETz4aAGo2Z-8JisDPIA",
-      "published_at": "2026-02-03T23:03:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8blHz4yAer8/hqdefault.jpg",
-      "duration": "PT10H11M54S",
-      "duration_seconds": 36714,
-      "view_count": 1418072,
-      "like_count": 11273,
-      "comment_count": 8,
+      "video_id": "IvasHKo6Oos",
+      "title": "TACO TUESDAY ADMIN ABUSE",
+      "description": "⚠️Go follow my ROBLOX GROUP: \nhttps://www.roblox.com/communities/36047290/CayPlay#!/about\n\n⚠️Cop the CAYLUS CHAIN:\nhttps://www.roblox.com/communities/11190175/Caylus-Group#!/store\n\n🤯NEW HOODIE & PLUSHIE\nhttps://shopcaylus.com\n\n🎯 Play Waterpark Simulator NOW! \nhttps://store.steampowered.com/app/3293260/Waterpark_Simulator/\n ⭐️ Play Waterpark Simulator DEMO NOW! – https://store.steampowered.com/app/3293260/Waterpark_Simulator/\n 🌊 COME HANG OUT WITH ME IN THE DISCORD. I am there now! – https://discord.gg/waterparksimulator\n\n*CAYLUS PLUSHIES* https://shopcaylus.com/\n\nRoblox Group: https://www.roblox.com/communities/11190175/Caylus-Group#!/about\n\n👀Subscribe to my NEW secret Roblox channel https://www.youtube.com/@CaylusBloxTopVids\n\nUse ⭐*STARCODE*⭐ Caylus\nCaylus Instagram👀 https://www.instagram.com/caylus/?hl=en\nCaylus Twitter🐦 https://x.com/caylusq",
+      "channel_title": "CaylusBlox",
+      "channel_id": "UCsPMNatXCwqyUuJilBT73jg",
+      "published_at": "2026-02-04T00:16:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IvasHKo6Oos/hqdefault.jpg",
+      "duration": "PT2H40M16S",
+      "duration_seconds": 9616,
+      "view_count": 956703,
+      "like_count": 22299,
+      "comment_count": 202,
       "category_id": "20",
       "tags": [
-        "ESL",
-        "Counter-Strike",
-        "ESL CS",
-        "ESLCS",
-        "ESL CSGO",
-        "ESL Counter-Strike",
-        "IEM",
-        "IEM CS",
-        "IEM CSGO",
-        "CSGO"
+        "caylusblox",
+        "caylus roblox",
+        "caylus",
+        "roblox",
+        "Steal a brainrot update",
+        "ADMIN ABUSE In Steal a Brainrot!",
+        "admin abuse",
+        "steal a brainrot",
+        "caylus admin abuse",
+        "caylus steak"
       ],
-      "url": "https://www.youtube.com/watch?v=8blHz4yAer8"
+      "url": "https://www.youtube.com/watch?v=IvasHKo6Oos"
+    },
+    {
+      "video_id": "C0amJWBSCtA",
+      "title": "Cast Away",
+      "description": "Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck learns how to survive on the island, where he remains for years, accompanied by only his handmade volleyball friend, Wilson. Will Chuck ever return to civilization and reunite with his loved ones?",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-21T01:10:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C0amJWBSCtA/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C0amJWBSCtA"
     },
     {
       "video_id": "3_ZVYxDgbM0",
@@ -443,26 +457,26 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3_ZVYxDgbM0/hqdefault.jpg",
       "duration": "PT53S",
       "duration_seconds": 53,
-      "view_count": 460517,
-      "like_count": 37506,
-      "comment_count": 2467,
+      "view_count": 510639,
+      "like_count": 39332,
+      "comment_count": 2556,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
     },
     {
-      "video_id": "_-e_WloZrg0",
+      "video_id": "sahcs5wovnk",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
       "channel_title": "StanRP",
       "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-03T22:20:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_-e_WloZrg0/hqdefault.jpg",
-      "duration": "PT23S",
-      "duration_seconds": 23,
-      "view_count": 244963,
-      "like_count": 1967,
-      "comment_count": 4,
+      "published_at": "2026-02-04T01:59:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sahcs5wovnk/hqdefault.jpg",
+      "duration": "PT9S",
+      "duration_seconds": 9,
+      "view_count": 186537,
+      "like_count": 1455,
+      "comment_count": 1,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -476,16 +490,16 @@
         "meme reset",
         "singing brainrot song"
       ],
-      "url": "https://www.youtube.com/watch?v=_-e_WloZrg0"
+      "url": "https://www.youtube.com/watch?v=sahcs5wovnk"
     },
     {
-      "video_id": "eR769m4VXnw",
-      "title": "A League of Their Own",
-      "description": "As America's stock of athletic young men is depleted during World War II, a professional all-female baseball league springs up in the Midwest, funded by publicity-hungry candy maker Walter Harvey (Garry Marshall). Competitive sisters Dottie Hinson (Geena Davis) and Kit Keller (Lori Petty) spar with each other, scout Ernie Capadino (Jon Lovitz) and grumpy has-been coach Jimmy Dugan (Tom Hanks) on their way to fame. Madonna and Rosie O'Donnell co-star as two of the sisters' teammates.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-01-20T00:42:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eR769m4VXnw/hqdefault.jpg",
+      "video_id": "a4rMn3QOd3c",
+      "title": "Thor: Ragnarok",
+      "description": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+      "channel_title": "FX",
+      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
+      "published_at": "2026-01-21T01:11:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a4rMn3QOd3c/hqdefault.jpg",
       "duration": "P0D",
       "duration_seconds": 0,
       "view_count": 0,
@@ -493,7 +507,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=eR769m4VXnw"
+      "url": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
     }
   ],
   "analysis": {
@@ -501,89 +515,87 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 18887601,
-        "average_views_per_video": 1888760.1,
+        "total_views": 12778738,
+        "average_views_per_video": 1277873.8,
         "categories": "Unknown"
       },
-      "trending_patterns": {
-        "gaming": {
-          "video_count": 4,
-          "titles": [
-            "HELLDIVERS™ 2: Galactic Offensive Trailer",
-            "Can you figure out what game I'm actually playing?",
-            "roblox best gameplay",
-            "MLB The Show 26 Gameplay Trailer"
-          ],
-          "key_channels": [
-            "HELLDIVERS™ 2",
-            "DougDougDoug",
-            "Joe Bart Games"
-          ],
-          "insights": {
-            "popularity": "High engagement with gaming content, especially trailers and gameplay.",
-            "opportunity": "Focus on creating engaging trailers and interactive gaming content to capture audience interest."
+      "content_trends": {
+        "genres_and_themes": [
+          {
+            "genre": "Film Trailers",
+            "description": "A significant portion of trending videos are film trailers, indicating a strong audience interest in upcoming movies.",
+            "videos": [
+              "Dhurandhar: The Revenge Official Hindi Teaser",
+              "The Drama | Official Trailer HD",
+              "Monarch: Legacy of Monsters — Season 2 Official Trailer"
+            ]
+          },
+          {
+            "genre": "Gaming",
+            "description": "Gaming trailers and gameplay videos are prominent, highlighting continued interest in gaming content.",
+            "videos": [
+              "HELLDIVERS™ 2: Galactic Offensive Trailer",
+              "roblox best gameplay",
+              "MLB The Show 26 Gameplay Trailer",
+              "Can you figure out what game I'm actually playing?"
+            ]
+          },
+          {
+            "genre": "Miscellaneous",
+            "description": "Mixed content including humor and cultural references, showcasing diversity in content types.",
+            "videos": [
+              "TACO TUESDAY ADMIN ABUSE"
+            ]
           }
-        },
-        "film_and_trailers": {
-          "video_count": 4,
-          "titles": [
-            "Dhurandhar: The Revenge Official Hindi Teaser",
-            "The Drama | Official Trailer HD | A24",
-            "The Devil Wears Prada 2 | Official Trailer",
-            "A League of Their Own"
-          ],
-          "key_channels": [
-            "JioStudios",
-            "A24"
-          ],
-          "insights": {
-            "popularity": "Strong interest in movie and series trailers, both in local and international markets.",
-            "opportunity": "Leverage teaser and trailer content to build anticipation; consider international collaboration for broader reach."
-          }
-        },
-        "esports_and_events": {
-          "video_count": 1,
-          "titles": [
-            "IEM Krakow 2026 - Day 7 - Stream A"
-          ],
-          "insights": {
-            "popularity": "Esports events have a dedicated following that can be further capitalized on.",
-            "opportunity": "Expand live streaming and highlight content for major esports events to engage with niche audiences."
-          }
-        },
-        "miscellaneous": {
-          "video_count": 1,
-          "title": [
-            "The Most Hectic Creator Among Us Ever."
-          ],
-          "insights": {
-            "popularity": "Content featuring popular social games like Among Us remains engaging.",
-            "opportunity": "Capitalize on popular multiplayer games by creating collaboration content with influencers."
-          }
-        }
+        ]
       },
       "creator_patterns": {
-        "top_creators": [
-          "HELLDIVERS™ 2",
-          "DougDougDoug",
-          "JioStudios",
-          "Joe Bart Games",
-          "A24"
+        "top_channels": [
+          {
+            "channel": "JioStudios",
+            "video_count": 1,
+            "remark": "Prominent in the film industry, likely to have a dedicated audience for cinematic content."
+          },
+          {
+            "channel": "A24",
+            "video_count": 1,
+            "remark": "Known for indie films, attracting viewers interested in unique storytelling."
+          }
         ],
-        "insights": {
-          "branding": "Brand-specific channels are effectively leveraging their content to drive engagement.",
-          "collaboration": "Opportunities exist for cross-channel collaborations, especially between gaming and film content creators."
-        }
+        "emerging_channels": [
+          {
+            "channel": "HELLDIVERS™ 2",
+            "video_count": 1,
+            "remark": "Gaining traction in the gaming community, potential for increased viewership."
+          },
+          {
+            "channel": "StanRP",
+            "video_count": 1,
+            "remark": "Specializes in gaming content, likely tapping into a niche audience."
+          }
+        ]
       },
       "market_opportunities": {
-        "data_driven_insights": {
-          "cross-category content": "Consider blending gaming and film content to create unique experiences such as interactive trailers.",
-          "language diversity": "Expand content offerings in different languages to tap into non-English speaking markets."
-        },
-        "strategic_recommendations": {
-          "content diversification": "Explore diverse content types such as behind-the-scenes, developer interviews, and fan interactions.",
-          "platform expansion": "Leverage other platforms (e.g., Twitch for gaming, Instagram for film) to maximize reach and engagement."
-        }
+        "content_gaps": [
+          {
+            "opportunity": "Localized Content",
+            "description": "The success of Indian film trailers like 'Dhurandhar' suggests a potential market for more regional and localized content."
+          },
+          {
+            "opportunity": "Interactive Gaming",
+            "description": "Increasing engagement with interactive and mystery gaming videos suggests an opportunity for more interactive content."
+          }
+        ],
+        "strategic_insights": [
+          {
+            "insight": "Cross-Platform Promotion",
+            "description": "Channels could benefit from leveraging other social media platforms to drive traffic to YouTube, particularly for film and gaming content."
+          },
+          {
+            "insight": "Diverse Content Strategy",
+            "description": "Creators should consider diversifying content offerings to capture wider audience interests beyond traditional genres."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -591,7 +603,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1888760
+        "avg_views_per_video": 1277873
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
