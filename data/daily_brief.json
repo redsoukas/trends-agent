@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-05T12:22:09.740645",
+  "timestamp": "2026-02-05T15:20:52.570449",
   "date": "2026-02-05",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFuE1LRxm80/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 4063246,
-      "like_count": 93535,
-      "comment_count": 9351,
+      "view_count": 4671805,
+      "like_count": 103781,
+      "comment_count": 10087,
       "category_id": "24",
       "tags": [
         "Alan Ritchson",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mELI-cjw6HQ/hqdefault.jpg",
       "duration": "PT7H18M44S",
       "duration_seconds": 26324,
-      "view_count": 921796,
-      "like_count": 17760,
-      "comment_count": 70,
+      "view_count": 946650,
+      "like_count": 18206,
+      "comment_count": 136,
       "category_id": "20",
       "tags": [
         "funny",
@@ -71,9 +71,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yogNTgCr9-A/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 167019,
-      "like_count": 9661,
-      "comment_count": 935,
+      "view_count": 172687,
+      "like_count": 9908,
+      "comment_count": 947,
       "category_id": "24",
       "tags": [
         "Pokémon",
@@ -90,6 +90,43 @@
       "url": "https://www.youtube.com/watch?v=yogNTgCr9-A"
     },
     {
+      "video_id": "N8Sgnn72e9Y",
+      "title": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
+      "description": "Join Game Director Aaron Keller and the team for a look at what 2026 has in store for the world of Overwatch!\n\nGet your first look at the next wave of new Heroes, see what new story content the team’s been working on, check out some of the latest gameplay improvements, and so much more.\n\nIt all starts when the Reign of Talon - Season 1: Conquest launches on Feb 10.\n\nOverwatch is free to play for everyone on console & PC!\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+      "channel_title": "PlayOverwatch",
+      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
+      "published_at": "2026-02-04T18:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N8Sgnn72e9Y/hqdefault.jpg",
+      "duration": "PT34M24S",
+      "duration_seconds": 2064,
+      "view_count": 957198,
+      "like_count": 67572,
+      "comment_count": 8877,
+      "category_id": "20",
+      "tags": [
+        "Overwatch 2",
+        "Overwatch"
+      ],
+      "url": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
+    },
+    {
+      "video_id": "B8ZhrAP7k6Y",
+      "title": "HELLDIVERS™ 2: A Bastion of Freedom Trailer",
+      "description": "Leave your tread marks over the enemy with the new Bastion Tank – deploying for the push towards Cyberstan.\nCrash enemy lines, crush hostile forces, and crack the Automaton code by working together to deliver Freedom to the galaxy.\n\nLearn your roles, take control, and steamroll the anti-Democratic appliances into scrap.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-04T13:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B8ZhrAP7k6Y/hqdefault.jpg",
+      "duration": "PT1M15S",
+      "duration_seconds": 75,
+      "view_count": 256775,
+      "like_count": 23425,
+      "comment_count": 1662,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
+    },
+    {
       "video_id": "gATtksfxvn4",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
@@ -99,8 +136,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gATtksfxvn4/hqdefault.jpg",
       "duration": "PT16S",
       "duration_seconds": 16,
-      "view_count": 784504,
-      "like_count": 6229,
+      "view_count": 784780,
+      "like_count": 6227,
       "comment_count": 6,
       "category_id": "20",
       "tags": [
@@ -118,43 +155,6 @@
       "url": "https://www.youtube.com/watch?v=gATtksfxvn4"
     },
     {
-      "video_id": "B8ZhrAP7k6Y",
-      "title": "HELLDIVERS™ 2: A Bastion of Freedom Trailer",
-      "description": "Leave your tread marks over the enemy with the new Bastion Tank – deploying for the push towards Cyberstan.\nCrash enemy lines, crush hostile forces, and crack the Automaton code by working together to deliver Freedom to the galaxy.\n\nLearn your roles, take control, and steamroll the anti-Democratic appliances into scrap.",
-      "channel_title": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "published_at": "2026-02-04T13:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B8ZhrAP7k6Y/hqdefault.jpg",
-      "duration": "PT1M15S",
-      "duration_seconds": 75,
-      "view_count": 250604,
-      "like_count": 23137,
-      "comment_count": 1623,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
-    },
-    {
-      "video_id": "N8Sgnn72e9Y",
-      "title": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
-      "description": "Join Game Director Aaron Keller and the team for a look at what 2026 has in store for the world of Overwatch!\n\nGet your first look at the next wave of new Heroes, see what new story content the team’s been working on, check out some of the latest gameplay improvements, and so much more.\n\nIt all starts when the Reign of Talon - Season 1: Conquest launches on Feb 10.\n\nOverwatch is free to play for everyone on console & PC!\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-02-04T18:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N8Sgnn72e9Y/hqdefault.jpg",
-      "duration": "PT34M24S",
-      "duration_seconds": 2064,
-      "view_count": 930449,
-      "like_count": 66146,
-      "comment_count": 8722,
-      "category_id": "20",
-      "tags": [
-        "Overwatch 2",
-        "Overwatch"
-      ],
-      "url": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
-    },
-    {
       "video_id": "6zmKcUa4Xxk",
       "title": "The Drama | Official Trailer HD | A24",
       "description": "From writer/director Kristoffer Borgli and starring Zendaya and Robert Pattinson. THE DRAMA – Save the date April 3.\n\nRELEASE DATE: April 3\nDIRECTOR: Kristoffer Borgli\nCAST: Zendaya, Robert Pattinson\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: The Moment, Pillion, How to Make a Killing, The Drama, Mother Mary & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
@@ -164,9 +164,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6zmKcUa4Xxk/hqdefault.jpg",
       "duration": "PT2M17S",
       "duration_seconds": 137,
-      "view_count": 5491855,
-      "like_count": 71875,
-      "comment_count": 2786,
+      "view_count": 5685318,
+      "like_count": 73683,
+      "comment_count": 2829,
       "category_id": "1",
       "tags": [
         "a24",
@@ -192,9 +192,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HCXE75VR0NI/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 1227983,
-      "like_count": 123931,
-      "comment_count": 11255,
+      "view_count": 1356112,
+      "like_count": 132696,
+      "comment_count": 11725,
       "category_id": "20",
       "tags": [
         "poppy playtime",
@@ -211,6 +211,30 @@
       "url": "https://www.youtube.com/watch?v=HCXE75VR0NI"
     },
     {
+      "video_id": "4BvXZ4Gqnc0",
+      "title": "Ya Borracho - Herencia De Grandes (Letra)",
+      "description": "Ya Borracho - Herencia De Grandes (Letra)\n\n🌶️Lyrics:\n\n[Verso 1]\nMe enamoré y creo que me fui de paso\nHoy me declaro un loco obsesionado\nY no te espantes pues no es nada malo\nPero es que tú eres mi amor anhelado\nCuando te vi sentí algo que ya no había aquí\nQuise elegir por mí y me decidí por ti\n\n[Coro]\nY ya borracho me parqueo por tu ventana\nPara llevarte las canciones que te encantan\nPa' enamorarte las flores no son tan caras\nPero llevan todo el cariño de mi alma\nQue pa' en febrero vendré frente a ti\nCon mis preguntas y digas que sí\nHacernos novios y verte feliz y muy contenta como yo por ti\n\n[Interludio]\nHerencia De Grandes\n\n[Verso 2]\nPregúntame qué es lo que me enamora\nPa' describirte unas cuántas horas\nTambién pregunta qué quiero contigo\nQue seas dichosa al estar conmigo\nY ya borracho contéstame la llamada\nPa' dedicarte unas bonitas palabras\nAsí borracho me animo a decirte todo\nY puedo describir lo mucho que me encantas\nDecirte que me siento muy feliz y emocionado por tenerte a ti\nE",
+      "channel_title": "Mexi Music",
+      "channel_id": "UCE0HYMJBfBaAt7PrV3oMv-g",
+      "published_at": "2026-02-04T17:03:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4BvXZ4Gqnc0/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 138834,
+      "like_count": 517,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [
+        "Ya Borracho - Herencia De Grandes (Letra)",
+        "Ya Borracho - Herencia De Grandes",
+        "Herencia De Grandes",
+        "Ya Borracho",
+        "Letra",
+        "letra"
+      ],
+      "url": "https://www.youtube.com/watch?v=4BvXZ4Gqnc0"
+    },
+    {
       "video_id": "CN0lNff-zm0",
       "title": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
       "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi\n\nDhurandhar: The Revenge\nReleasing In Cinemas Worldwide on 19th March 2026 in Hindi, Telugu, Tamil, Kannada & Malayalam\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\n🎬 Film Credits:\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nMusic and Background score - Shashwat Sachdev\nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer - Preetisheel Singh Dsouza \nSound Designer - Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut \nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini ",
@@ -220,9 +244,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CN0lNff-zm0/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 9986109,
-      "like_count": 366708,
-      "comment_count": 16340,
+      "view_count": 10154721,
+      "like_count": 370624,
+      "comment_count": 16447,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -237,34 +261,6 @@
         "R. Madhavan"
       ],
       "url": "https://www.youtube.com/watch?v=CN0lNff-zm0"
-    },
-    {
-      "video_id": "8j9z9429Oas",
-      "title": "This Capybara Visited My Farm…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 28:57 - Channel 4 Midnight \n28:57 - 38:15 - Homework \n38:15 - 40:44 - Death Trips \n40:44 - 1:04:58 -Kacipbara \n1:04:58 - 1:12:24 - The Uninvited Eternal Nights \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-04T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8j9z9429Oas/hqdefault.jpg",
-      "duration": "PT1H12M25S",
-      "duration_seconds": 4345,
-      "view_count": 185098,
-      "like_count": 6365,
-      "comment_count": 510,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=8j9z9429Oas"
     }
   ],
   "videos_with_transcripts": [],
@@ -279,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFuE1LRxm80/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 4063246,
-      "like_count": 93535,
-      "comment_count": 9351,
+      "view_count": 4671805,
+      "like_count": 103781,
+      "comment_count": 10087,
       "category_id": "24",
       "tags": [
         "Alan Ritchson",
@@ -307,9 +303,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mELI-cjw6HQ/hqdefault.jpg",
       "duration": "PT7H18M44S",
       "duration_seconds": 26324,
-      "view_count": 921796,
-      "like_count": 17760,
-      "comment_count": 70,
+      "view_count": 946650,
+      "like_count": 18206,
+      "comment_count": 136,
       "category_id": "20",
       "tags": [
         "funny",
@@ -317,23 +313,6 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=mELI-cjw6HQ"
-    },
-    {
-      "video_id": "B8ZhrAP7k6Y",
-      "title": "HELLDIVERS™ 2: A Bastion of Freedom Trailer",
-      "description": "Leave your tread marks over the enemy with the new Bastion Tank – deploying for the push towards Cyberstan.\nCrash enemy lines, crush hostile forces, and crack the Automaton code by working together to deliver Freedom to the galaxy.\n\nLearn your roles, take control, and steamroll the anti-Democratic appliances into scrap.",
-      "channel_title": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "published_at": "2026-02-04T13:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B8ZhrAP7k6Y/hqdefault.jpg",
-      "duration": "PT1M15S",
-      "duration_seconds": 75,
-      "view_count": 250604,
-      "like_count": 23137,
-      "comment_count": 1623,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
     },
     {
       "video_id": "N8Sgnn72e9Y",
@@ -345,15 +324,32 @@
       "thumbnail_url": "https://i.ytimg.com/vi/N8Sgnn72e9Y/hqdefault.jpg",
       "duration": "PT34M24S",
       "duration_seconds": 2064,
-      "view_count": 930449,
-      "like_count": 66146,
-      "comment_count": 8722,
+      "view_count": 957198,
+      "like_count": 67572,
+      "comment_count": 8877,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
         "Overwatch"
       ],
       "url": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
+    },
+    {
+      "video_id": "B8ZhrAP7k6Y",
+      "title": "HELLDIVERS™ 2: A Bastion of Freedom Trailer",
+      "description": "Leave your tread marks over the enemy with the new Bastion Tank – deploying for the push towards Cyberstan.\nCrash enemy lines, crush hostile forces, and crack the Automaton code by working together to deliver Freedom to the galaxy.\n\nLearn your roles, take control, and steamroll the anti-Democratic appliances into scrap.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-04T13:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B8ZhrAP7k6Y/hqdefault.jpg",
+      "duration": "PT1M15S",
+      "duration_seconds": 75,
+      "view_count": 256775,
+      "like_count": 23425,
+      "comment_count": 1662,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
     },
     {
       "video_id": "6zmKcUa4Xxk",
@@ -365,9 +361,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6zmKcUa4Xxk/hqdefault.jpg",
       "duration": "PT2M17S",
       "duration_seconds": 137,
-      "view_count": 5491855,
-      "like_count": 71875,
-      "comment_count": 2786,
+      "view_count": 5685318,
+      "like_count": 73683,
+      "comment_count": 2829,
       "category_id": "1",
       "tags": [
         "a24",
@@ -393,9 +389,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HCXE75VR0NI/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 1227983,
-      "like_count": 123931,
-      "comment_count": 11255,
+      "view_count": 1356112,
+      "like_count": 132696,
+      "comment_count": 11725,
       "category_id": "20",
       "tags": [
         "poppy playtime",
@@ -412,6 +408,30 @@
       "url": "https://www.youtube.com/watch?v=HCXE75VR0NI"
     },
     {
+      "video_id": "4BvXZ4Gqnc0",
+      "title": "Ya Borracho - Herencia De Grandes (Letra)",
+      "description": "Ya Borracho - Herencia De Grandes (Letra)\n\n🌶️Lyrics:\n\n[Verso 1]\nMe enamoré y creo que me fui de paso\nHoy me declaro un loco obsesionado\nY no te espantes pues no es nada malo\nPero es que tú eres mi amor anhelado\nCuando te vi sentí algo que ya no había aquí\nQuise elegir por mí y me decidí por ti\n\n[Coro]\nY ya borracho me parqueo por tu ventana\nPara llevarte las canciones que te encantan\nPa' enamorarte las flores no son tan caras\nPero llevan todo el cariño de mi alma\nQue pa' en febrero vendré frente a ti\nCon mis preguntas y digas que sí\nHacernos novios y verte feliz y muy contenta como yo por ti\n\n[Interludio]\nHerencia De Grandes\n\n[Verso 2]\nPregúntame qué es lo que me enamora\nPa' describirte unas cuántas horas\nTambién pregunta qué quiero contigo\nQue seas dichosa al estar conmigo\nY ya borracho contéstame la llamada\nPa' dedicarte unas bonitas palabras\nAsí borracho me animo a decirte todo\nY puedo describir lo mucho que me encantas\nDecirte que me siento muy feliz y emocionado por tenerte a ti\nE",
+      "channel_title": "Mexi Music",
+      "channel_id": "UCE0HYMJBfBaAt7PrV3oMv-g",
+      "published_at": "2026-02-04T17:03:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4BvXZ4Gqnc0/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 138834,
+      "like_count": 517,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [
+        "Ya Borracho - Herencia De Grandes (Letra)",
+        "Ya Borracho - Herencia De Grandes",
+        "Herencia De Grandes",
+        "Ya Borracho",
+        "Letra",
+        "letra"
+      ],
+      "url": "https://www.youtube.com/watch?v=4BvXZ4Gqnc0"
+    },
+    {
       "video_id": "CN0lNff-zm0",
       "title": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
       "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi\n\nDhurandhar: The Revenge\nReleasing In Cinemas Worldwide on 19th March 2026 in Hindi, Telugu, Tamil, Kannada & Malayalam\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\n🎬 Film Credits:\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nMusic and Background score - Shashwat Sachdev\nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer - Preetisheel Singh Dsouza \nSound Designer - Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut \nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini ",
@@ -421,9 +441,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CN0lNff-zm0/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 9986109,
-      "like_count": 366708,
-      "comment_count": 16340,
+      "view_count": 10154721,
+      "like_count": 370624,
+      "comment_count": 16447,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -440,34 +460,6 @@
       "url": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
-      "video_id": "8j9z9429Oas",
-      "title": "This Capybara Visited My Farm…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 28:57 - Channel 4 Midnight \n28:57 - 38:15 - Homework \n38:15 - 40:44 - Death Trips \n40:44 - 1:04:58 -Kacipbara \n1:04:58 - 1:12:24 - The Uninvited Eternal Nights \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-04T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8j9z9429Oas/hqdefault.jpg",
-      "duration": "PT1H12M25S",
-      "duration_seconds": 4345,
-      "view_count": 185098,
-      "like_count": 6365,
-      "comment_count": 510,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=8j9z9429Oas"
-    },
-    {
       "video_id": "yogNTgCr9-A",
       "title": "#Pokemon30 | Teaser Trailer",
       "description": "Celebrate 30 years of Pokémon with a special video debuting during Super Bowl LX on February 8! #Pokemon30",
@@ -477,9 +469,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yogNTgCr9-A/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 167019,
-      "like_count": 9661,
-      "comment_count": 935,
+      "view_count": 172687,
+      "like_count": 9908,
+      "comment_count": 947,
       "category_id": "24",
       "tags": [
         "Pokémon",
@@ -505,8 +497,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gATtksfxvn4/hqdefault.jpg",
       "duration": "PT16S",
       "duration_seconds": 16,
-      "view_count": 784504,
-      "like_count": 6229,
+      "view_count": 784780,
+      "like_count": 6227,
       "comment_count": 6,
       "category_id": "20",
       "tags": [
@@ -527,80 +519,80 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 24008663,
-        "average_views_per_video": 2400866.3,
-        "undetermined_categories": true
-      },
-      "content_trends": {
-        "dominant_themes": [
-          "Entertainment",
-          "Gaming",
-          "Trailers"
-        ],
-        "common_video_elements": [
-          "Trailers for upcoming movies or games",
-          "Live streaming events",
-          "Teasers for new releases"
-        ],
-        "emerging_topics": [
-          "Space-themed challenges",
-          "Classic franchises with new content (e.g., Pokémon)",
-          "Animal-related content with personal narratives"
-        ]
-      },
-      "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "Netflix",
-            "video_count": 1,
-            "average_views_per_video": "Data not provided"
-          },
-          {
-            "name": "TheBurntPeanut",
-            "video_count": 1,
-            "average_views_per_video": "Data not provided"
-          },
-          {
-            "name": "The Official Pokémon YouTube channel",
-            "video_count": 1,
-            "average_views_per_video": "Data not provided"
-          }
-        ],
-        "content_diversity": "High - includes trailers, gaming content, and personal stories",
-        "branding_tactics": [
-          "Use of official trailers and teasers to drive engagement",
-          "Leveraging live events for real-time interaction"
-        ]
-      },
-      "market_opportunities": {
-        "developing_trends": [
-          "Increasing interest in immersive gaming trailers and content",
-          "Potential growth in live streaming challenges with unique themes"
-        ],
-        "content_expansion": [
-          "Explore more personal narrative content involving animals or unique experiences",
-          "Capitalize on nostalgia and franchise updates (e.g., Pokémon, Overwatch)"
-        ],
-        "collaboration_potential": [
-          "Collaborate with gaming and entertainment entities for exclusive content",
-          "Partner with influencers for live events and challenges to increase viewer engagement"
-        ]
-      },
-      "actionable_insights": {
-        "content_strategy": [
-          "Focus on creating high-quality trailers and teasers for upcoming projects",
-          "Develop unique live streaming events with interactive elements"
-        ],
-        "audience_engagement": [
-          "Utilize hashtags and trending topics to enhance discoverability",
-          "Engage with audiences through Q&A or interactive elements during live streams"
-        ],
-        "branding": [
-          "Strengthen brand presence through consistent use of branded content",
-          "Explore co-marketing opportunities with popular franchises and creators"
-        ]
+      "trendingPatternsAnalysis": {
+        "totalVideos": 10,
+        "totalViews": 25124880,
+        "averageViewsPerVideo": 2512488,
+        "contentTrends": {
+          "categories": "Unknown",
+          "commonThemes": [
+            "Gaming",
+            "Trailers",
+            "Music",
+            "Live Streams"
+          ],
+          "insights": [
+            {
+              "theme": "Gaming",
+              "details": "Three videos fall into the gaming category, indicating a strong interest in new game releases and updates. This includes Overwatch, HELLDIVERS™ 2, and Roblox."
+            },
+            {
+              "theme": "Trailers",
+              "details": "Four videos are trailers or teasers, suggesting a high engagement with upcoming content announcements, particularly in entertainment and gaming."
+            },
+            {
+              "theme": "Live Streaming",
+              "details": "The presence of a live stream video ('NUT RAIDERS') indicates ongoing popularity and engagement with live content formats."
+            },
+            {
+              "theme": "Music",
+              "details": "The video 'Ya Borracho - Herencia De Grandes (Letra)' suggests an audience for music and lyric videos."
+            }
+          ]
+        },
+        "creatorPatterns": {
+          "topChannels": [
+            "Netflix",
+            "TheBurntPeanut",
+            "The Official Pokémon YouTube channel",
+            "PlayOverwatch",
+            "HELLDIVERS™ 2"
+          ],
+          "insights": [
+            {
+              "channel": "Netflix",
+              "details": "Continues to capitalize on its strong brand presence with high-impact trailers."
+            },
+            {
+              "channel": "The Official Pokémon YouTube channel",
+              "details": "Utilizes nostalgia and brand strength with teaser trailers for ongoing engagement."
+            },
+            {
+              "channel": "Game Developers and Publishers",
+              "details": "Channels like PlayOverwatch and HELLDIVERS™ 2 leverage community interest in updates and new content."
+            }
+          ]
+        },
+        "marketOpportunities": {
+          "insights": [
+            {
+              "opportunity": "Cross-Promotion",
+              "details": "Utilize collaborations between gaming and entertainment channels to expand reach."
+            },
+            {
+              "opportunity": "Live Streaming",
+              "details": "Invest in live streaming capabilities to engage audiences in real-time, particularly for gaming and interactive content."
+            },
+            {
+              "opportunity": "Music and Lyric Videos",
+              "details": "Potential for growth in music content, particularly in regional or niche markets."
+            },
+            {
+              "opportunity": "Diverse Content Formats",
+              "details": "Experiment with different content formats such as interactive trailers or behind-the-scenes to increase engagement."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -608,7 +600,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2400866
+        "avg_views_per_video": 2512488
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
