@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-09T12:26:53.617950",
+  "timestamp": "2026-02-09T15:27:15.285749",
   "date": "2026-02-09",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 6,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2122083,
-      "like_count": 28448,
-      "comment_count": 2179,
+      "view_count": 2332412,
+      "like_count": 31758,
+      "comment_count": 2426,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -50,8 +50,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 885630,
-      "like_count": 7800,
+      "view_count": 886009,
+      "like_count": 7797,
       "comment_count": 9,
       "category_id": "20",
       "tags": [
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 330517,
-      "like_count": 4040,
-      "comment_count": 388,
+      "view_count": 411231,
+      "like_count": 4835,
+      "comment_count": 435,
       "category_id": "1",
       "tags": [
         "movie",
@@ -106,15 +106,61 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
       "duration": "PT16M30S",
       "duration_seconds": 990,
-      "view_count": 365092,
-      "like_count": 26314,
-      "comment_count": 3056,
+      "view_count": 493530,
+      "like_count": 31444,
+      "comment_count": 3290,
       "category_id": "20",
       "tags": [
         "Family",
         "friendly"
       ],
       "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
+    },
+    {
+      "video_id": "ik0drfECnPo",
+      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
+      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
+      "channel_title": "Entertainment Tonight",
+      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
+      "published_at": "2026-02-09T01:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
+      "duration": "PT1M4S",
+      "duration_seconds": 64,
+      "view_count": 324158,
+      "like_count": 7631,
+      "comment_count": 482,
+      "category_id": "24",
+      "tags": [
+        "Netflix",
+        "Brad Pitt",
+        "Quentin Tarantino",
+        "Margot Robbie",
+        "Once Upon a Time In Hollywood"
+      ],
+      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
+    },
+    {
+      "video_id": "FqxFEn7w_2s",
+      "title": "Your WORST Clips...",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-09T00:21:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
+      "duration": "PT35M7S",
+      "duration_seconds": 2107,
+      "view_count": 362032,
+      "like_count": 12195,
+      "comment_count": 764,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziR6",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "The WORST Clips..."
+      ],
+      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
     },
     {
       "video_id": "ydqvWEeJpdk",
@@ -126,9 +172,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 215409,
-      "like_count": 2926,
-      "comment_count": 375,
+      "view_count": 239458,
+      "like_count": 3151,
+      "comment_count": 393,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -145,21 +191,32 @@
       "url": "https://www.youtube.com/watch?v=ydqvWEeJpdk"
     },
     {
-      "video_id": "Qg317F7cwQ4",
-      "title": "Days of Thunder",
-      "description": "In the fast-paced world of NASCAR, a rivalry brews between rookie hotshot Cole Trickle (Tom Cruise) and veteran racer Rowdy Burns (Michael Rooker). When both of them are seriously injured in competition, the former bitter rivals become close friends. With Cole's spirits restored by a romance with neurosurgeon Dr. Claire Lewicki (Nicole Kidman), and Rowdy still sidelined by injuries, Cole decides to race Rowdy's car in the Daytona 500 against underhanded newcomer Russ Wheeler (Cary Elwes).",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-02-09T12:03:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qg317F7cwQ4/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Qg317F7cwQ4"
+      "video_id": "9ik8sxTkTbw",
+      "title": "Gmod Scary Map (not really) - We're On the Epstein List? (Garry's Mod Funny Moments)",
+      "description": "Outro Song: https://www.youtube.com/watch?v=D24HvIdqX2c\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nNogla - @DaithiDeNogla \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nLui Calibre - @KingLuiCalibre \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
+      "channel_title": "VanossGaming",
+      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "published_at": "2026-02-09T01:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
+      "duration": "PT22M34S",
+      "duration_seconds": 1354,
+      "view_count": 406091,
+      "like_count": 24411,
+      "comment_count": 997,
+      "category_id": "20",
+      "tags": [
+        "Funny Moments",
+        "Montage video games",
+        "gaming",
+        "Vanoss",
+        "VanossGaming",
+        "Gameplay",
+        "Secret",
+        "Puncake",
+        "Parody",
+        "Comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=9ik8sxTkTbw"
     },
     {
       "video_id": "VoqjnU_wGJM",
@@ -171,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 355595,
-      "like_count": 22107,
-      "comment_count": 922,
+      "view_count": 378501,
+      "like_count": 23141,
+      "comment_count": 954,
       "category_id": "1",
       "tags": [
         "2026",
@@ -190,67 +247,21 @@
       "url": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
     },
     {
-      "video_id": "FqxFEn7w_2s",
-      "title": "Your WORST Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-09T00:21:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
-      "duration": "PT35M7S",
-      "duration_seconds": 2107,
-      "view_count": 315566,
-      "like_count": 10456,
-      "comment_count": 720,
+      "video_id": "leM2NjGmCbY",
+      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-09T13:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 152171,
+      "like_count": 29368,
+      "comment_count": 2919,
       "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "The WORST Clips..."
-      ],
-      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
-    },
-    {
-      "video_id": "O_cFEgd0rqw",
-      "title": "Me Fui Sin Hacer Ruido (Lyrics) | Corrido Tumbado | LINZAE LIR",
-      "description": "Un cierre silencioso marcado por la decisión de irse sin escándalos ni reproches. La historia acompaña ese momento íntimo en el que alguien entiende que cerrar una puerta con calma también puede ser un acto de fortaleza y dignidad.\n\n#CorridoTumbado #Lyrics #DolorSilencioso #Despedida #Madurez",
-      "channel_title": "LINZAE LIR",
-      "channel_id": "UCPK4k0tBG7G17LrLaisbWpw",
-      "published_at": "2026-01-14T06:46:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_cFEgd0rqw/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 311880,
-      "like_count": 9281,
-      "comment_count": 150,
-      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=O_cFEgd0rqw"
-    },
-    {
-      "video_id": "ik0drfECnPo",
-      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
-      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
-      "channel_title": "Entertainment Tonight",
-      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
-      "published_at": "2026-02-09T01:43:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
-      "duration": "PT1M4S",
-      "duration_seconds": 64,
-      "view_count": 232190,
-      "like_count": 5849,
-      "comment_count": 382,
-      "category_id": "24",
-      "tags": [
-        "Netflix",
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "Margot Robbie",
-        "Once Upon a Time In Hollywood"
-      ],
-      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
+      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
     }
   ],
   "videos_with_transcripts": [],
@@ -265,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2122083,
-      "like_count": 28448,
-      "comment_count": 2179,
+      "view_count": 2332412,
+      "like_count": 31758,
+      "comment_count": 2426,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -293,9 +304,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 330517,
-      "like_count": 4040,
-      "comment_count": 388,
+      "view_count": 411231,
+      "like_count": 4835,
+      "comment_count": 435,
       "category_id": "1",
       "tags": [
         "movie",
@@ -321,55 +332,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
       "duration": "PT16M30S",
       "duration_seconds": 990,
-      "view_count": 365092,
-      "like_count": 26314,
-      "comment_count": 3056,
+      "view_count": 493530,
+      "like_count": 31444,
+      "comment_count": 3290,
       "category_id": "20",
       "tags": [
         "Family",
         "friendly"
       ],
       "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
-    },
-    {
-      "video_id": "Qg317F7cwQ4",
-      "title": "Days of Thunder",
-      "description": "In the fast-paced world of NASCAR, a rivalry brews between rookie hotshot Cole Trickle (Tom Cruise) and veteran racer Rowdy Burns (Michael Rooker). When both of them are seriously injured in competition, the former bitter rivals become close friends. With Cole's spirits restored by a romance with neurosurgeon Dr. Claire Lewicki (Nicole Kidman), and Rowdy still sidelined by injuries, Cole decides to race Rowdy's car in the Daytona 500 against underhanded newcomer Russ Wheeler (Cary Elwes).",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-02-09T12:03:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qg317F7cwQ4/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Qg317F7cwQ4"
-    },
-    {
-      "video_id": "FqxFEn7w_2s",
-      "title": "Your WORST Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-09T00:21:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
-      "duration": "PT35M7S",
-      "duration_seconds": 2107,
-      "view_count": 315566,
-      "like_count": 10456,
-      "comment_count": 720,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "The WORST Clips..."
-      ],
-      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
     },
     {
       "video_id": "ik0drfECnPo",
@@ -381,9 +352,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 232190,
-      "like_count": 5849,
-      "comment_count": 382,
+      "view_count": 324158,
+      "like_count": 7631,
+      "comment_count": 482,
       "category_id": "24",
       "tags": [
         "Netflix",
@@ -395,6 +366,74 @@
       "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
     },
     {
+      "video_id": "FqxFEn7w_2s",
+      "title": "Your WORST Clips...",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-09T00:21:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
+      "duration": "PT35M7S",
+      "duration_seconds": 2107,
+      "view_count": 362032,
+      "like_count": 12195,
+      "comment_count": 764,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziR6",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "The WORST Clips..."
+      ],
+      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
+    },
+    {
+      "video_id": "9ik8sxTkTbw",
+      "title": "Gmod Scary Map (not really) - We're On the Epstein List? (Garry's Mod Funny Moments)",
+      "description": "Outro Song: https://www.youtube.com/watch?v=D24HvIdqX2c\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nNogla - @DaithiDeNogla \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nLui Calibre - @KingLuiCalibre \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
+      "channel_title": "VanossGaming",
+      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "published_at": "2026-02-09T01:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
+      "duration": "PT22M34S",
+      "duration_seconds": 1354,
+      "view_count": 406091,
+      "like_count": 24411,
+      "comment_count": 997,
+      "category_id": "20",
+      "tags": [
+        "Funny Moments",
+        "Montage video games",
+        "gaming",
+        "Vanoss",
+        "VanossGaming",
+        "Gameplay",
+        "Secret",
+        "Puncake",
+        "Parody",
+        "Comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=9ik8sxTkTbw"
+    },
+    {
+      "video_id": "leM2NjGmCbY",
+      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-09T13:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 152171,
+      "like_count": 29368,
+      "comment_count": 2919,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+    },
+    {
       "video_id": "ezZlOYeLHOQ",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
@@ -404,8 +443,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 885630,
-      "like_count": 7800,
+      "view_count": 886009,
+      "like_count": 7797,
       "comment_count": 9,
       "category_id": "20",
       "tags": [
@@ -432,9 +471,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 215409,
-      "like_count": 2926,
-      "comment_count": 375,
+      "view_count": 239458,
+      "like_count": 3151,
+      "comment_count": 393,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -460,9 +499,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 355595,
-      "like_count": 22107,
-      "comment_count": 922,
+      "view_count": 378501,
+      "like_count": 23141,
+      "comment_count": 954,
       "category_id": "1",
       "tags": [
         "2026",
@@ -477,100 +516,69 @@
         "Jason Momoa"
       ],
       "url": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
-    },
-    {
-      "video_id": "O_cFEgd0rqw",
-      "title": "Me Fui Sin Hacer Ruido (Lyrics) | Corrido Tumbado | LINZAE LIR",
-      "description": "Un cierre silencioso marcado por la decisión de irse sin escándalos ni reproches. La historia acompaña ese momento íntimo en el que alguien entiende que cerrar una puerta con calma también puede ser un acto de fortaleza y dignidad.\n\n#CorridoTumbado #Lyrics #DolorSilencioso #Despedida #Madurez",
-      "channel_title": "LINZAE LIR",
-      "channel_id": "UCPK4k0tBG7G17LrLaisbWpw",
-      "published_at": "2026-01-14T06:46:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_cFEgd0rqw/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 311880,
-      "like_count": 9281,
-      "comment_count": 150,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=O_cFEgd0rqw"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 5133962,
-        "average_views_per_video": 513396.2
-      },
-      "content_trends": {
-        "gaming": {
-          "videos": [
-            "roblox best gameplay",
-            "ROBLOX BOTE RIED.. but I have ADMIN"
+      "video_trends": {
+        "trailer_dominance": {
+          "observations": [
+            "3 out of 10 videos are trailers for upcoming movies or games.",
+            "Trailers for major events like the Super Bowl are included, indicating high viewer interest in event-driven content."
           ],
-          "insights": {
-            "popularity_of_platform": "The presence of two Roblox-related videos suggests a strong interest in gaming content, particularly in interactive and community-driven platforms like Roblox.",
-            "engagement_factor": "Gaming videos often have high engagement due to community interaction and participatory content."
-          }
+          "insights": [
+            "Leveraging upcoming events and creating related content can capture large audience segments.",
+            "Collaborations with studios or participation in promotional campaigns for high-profile releases could be beneficial."
+          ]
         },
-        "entertainment": {
-          "videos": [
-            "Project Hail Mary | Final Trailer",
-            "ALL SUPER BOWL 2026 (Trailers)",
-            "Supergirl Super Bowl Teaser Trailer - Home (2026)",
-            "Days of Thunder",
-            "Supergirl | Home",
-            "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)"
+        "gaming_content": {
+          "observations": [
+            "2 of the 10 videos are related to Roblox, a popular gaming platform.",
+            "Garry's Mod, a classic, is still generating content, indicating a niche but dedicated audience."
           ],
-          "insights": {
-            "trailer_demand": "High number of trailers and teaser content indicates a significant demand for upcoming entertainment previews, especially related to major events like the Super Bowl.",
-            "cross_promotion": "The use of major events (e.g., Super Bowl) to release trailers maximizes visibility and audience reach."
-          }
-        },
-        "music": {
-          "videos": [
-            "Me Fui Sin Hacer Ruido (Lyrics) | Corrido Tumbado | LINZAE LIR"
-          ],
-          "insights": {
-            "regional_genres": "The presence of Corrido Tumbado, a genre popular in Latin regions, suggests opportunities in global market diversification and targeting niche musical genres."
-          }
-        },
-        "user_generated_content": {
-          "videos": [
-            "Your WORST Clips..."
-          ],
-          "insights": {
-            "audience_interaction": "Content that involves user submissions or highlights user interaction (e.g., clips compilations) can increase engagement and community involvement."
-          }
+          "insights": [
+            "Investing in gaming content, particularly around Roblox, could be a stable content strategy.",
+            "Exploring less saturated gaming niches like Garry's Mod might attract dedicated viewer bases."
+          ]
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Amazon MGM Studios",
-          "StanRP",
-          "TrailerSpot",
-          "Flamingo",
-          "Rotten Tomatoes Trailers"
-        ],
-        "insights": {
-          "diversified_content": "Channels span a variety of categories from gaming to film trailers, indicating a diverse range of content that appeals to different audience segments.",
-          "branded_content": "Channel like Amazon MGM Studios suggests professional, high-production content which tends to attract audiences looking for quality previews."
+        "diverse_content": {
+          "observations": [
+            "Channels like Flamingo and StanRP are producing varied content, from gameplay to creative skits.",
+            "Amazon MGM Studios is leveraging trailers, aligning with their primary business model."
+          ],
+          "insights": [
+            "A diversified content strategy can help in reaching varied audience segments.",
+            "Balancing between niche content and trending topics can enhance channel growth."
+          ]
+        },
+        "channel_performance": {
+          "observations": [
+            "Channels with a single video each are still making it to the trending list, suggesting high-quality or viral potential content."
+          ],
+          "insights": [
+            "Focusing on high-quality, shareable content can be more effective than volume-based strategies."
+          ]
         }
       },
       "market_opportunities": {
-        "gaming_content": {
-          "focus": "Expand content around trending games like Roblox, including gameplay, tips, and community events to capture engaged gaming audiences."
+        "event-driven_content": {
+          "observations": [
+            "Content tied to events like the Super Bowl is trending, demonstrating the potential of event-based video strategies."
+          ],
+          "insights": [
+            "Creating content around major cultural or entertainment events can lead to significant viewership spikes."
+          ]
         },
-        "entertainment_trailers": {
-          "focus": "Capitalize on high-profile events for trailer releases to boost initial viewership and engagement."
-        },
-        "niche_music_genres": {
-          "focus": "Explore and promote lesser-known music genres to tap into underserved markets, leveraging regional and cultural music trends."
-        },
-        "user_interaction": {
-          "focus": "Create content formats that encourage user submissions and interactions, fostering a community-driven content environment."
+        "cross-platform promotion": {
+          "observations": [
+            "Entertainment Tonight, known for its cross-platform presence, is on the trending list."
+          ],
+          "insights": [
+            "Developing a cross-platform content strategy could enhance visibility and engagement across different audience segments."
+          ]
         }
       },
       "metadata_stats": {
@@ -579,7 +587,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 513396
+        "avg_views_per_video": 598559
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
