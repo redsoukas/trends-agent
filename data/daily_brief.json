@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T18:27:26.625735",
+  "timestamp": "2026-02-09T21:19:49.781794",
   "date": "2026-02-09",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2658353,
-      "like_count": 35371,
-      "comment_count": 2661,
+      "view_count": 2986740,
+      "like_count": 38210,
+      "comment_count": 2883,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -50,12 +50,55 @@
       "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 408701,
-      "like_count": 43674,
-      "comment_count": 4170,
+      "view_count": 558020,
+      "like_count": 50791,
+      "comment_count": 4685,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+    },
+    {
+      "video_id": "ik0drfECnPo",
+      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
+      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
+      "channel_title": "Entertainment Tonight",
+      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
+      "published_at": "2026-02-09T01:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
+      "duration": "PT1M4S",
+      "duration_seconds": 64,
+      "view_count": 521075,
+      "like_count": 11070,
+      "comment_count": 731,
+      "category_id": "24",
+      "tags": [
+        "Netflix",
+        "Brad Pitt",
+        "Quentin Tarantino",
+        "Margot Robbie",
+        "Once Upon a Time In Hollywood"
+      ],
+      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
+    },
+    {
+      "video_id": "L-eqpSkNL5Q",
+      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
+      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-09T04:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
+      "duration": "PT16M30S",
+      "duration_seconds": 990,
+      "view_count": 691473,
+      "like_count": 40306,
+      "comment_count": 3645,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
     },
     {
       "video_id": "UC4INGdHwhs",
@@ -67,9 +110,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 484929,
-      "like_count": 5531,
-      "comment_count": 487,
+      "view_count": 552732,
+      "like_count": 6117,
+      "comment_count": 522,
       "category_id": "1",
       "tags": [
         "movie",
@@ -86,49 +129,6 @@
       "url": "https://www.youtube.com/watch?v=UC4INGdHwhs"
     },
     {
-      "video_id": "L-eqpSkNL5Q",
-      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
-      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-09T04:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 596795,
-      "like_count": 36175,
-      "comment_count": 3457,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
-    },
-    {
-      "video_id": "ik0drfECnPo",
-      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
-      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
-      "channel_title": "Entertainment Tonight",
-      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
-      "published_at": "2026-02-09T01:43:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
-      "duration": "PT1M4S",
-      "duration_seconds": 64,
-      "view_count": 428143,
-      "like_count": 9549,
-      "comment_count": 612,
-      "category_id": "24",
-      "tags": [
-        "Netflix",
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "Margot Robbie",
-        "Once Upon a Time In Hollywood"
-      ],
-      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
-    },
-    {
       "video_id": "ezZlOYeLHOQ",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
@@ -138,9 +138,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 883977,
-      "like_count": 7796,
-      "comment_count": 9,
+      "view_count": 884339,
+      "like_count": 7789,
+      "comment_count": 10,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -166,9 +166,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 265848,
-      "like_count": 3377,
-      "comment_count": 420,
+      "view_count": 288668,
+      "like_count": 3494,
+      "comment_count": 445,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -194,9 +194,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
       "duration": "PT22M34S",
       "duration_seconds": 1354,
-      "view_count": 460413,
-      "like_count": 26807,
-      "comment_count": 1043,
+      "view_count": 515065,
+      "like_count": 28830,
+      "comment_count": 1091,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -222,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 417111,
-      "like_count": 24125,
-      "comment_count": 1011,
+      "view_count": 438025,
+      "like_count": 24754,
+      "comment_count": 1034,
       "category_id": "1",
       "tags": [
         "2026",
@@ -250,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
       "duration": "PT35M7S",
       "duration_seconds": 2107,
-      "view_count": 424388,
-      "like_count": 14235,
-      "comment_count": 817,
+      "view_count": 497340,
+      "like_count": 16006,
+      "comment_count": 869,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -276,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2658353,
-      "like_count": 35371,
-      "comment_count": 2661,
+      "view_count": 2986740,
+      "like_count": 38210,
+      "comment_count": 2883,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -304,12 +304,55 @@
       "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 408701,
-      "like_count": 43674,
-      "comment_count": 4170,
+      "view_count": 558020,
+      "like_count": 50791,
+      "comment_count": 4685,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+    },
+    {
+      "video_id": "ik0drfECnPo",
+      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
+      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
+      "channel_title": "Entertainment Tonight",
+      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
+      "published_at": "2026-02-09T01:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
+      "duration": "PT1M4S",
+      "duration_seconds": 64,
+      "view_count": 521075,
+      "like_count": 11070,
+      "comment_count": 731,
+      "category_id": "24",
+      "tags": [
+        "Netflix",
+        "Brad Pitt",
+        "Quentin Tarantino",
+        "Margot Robbie",
+        "Once Upon a Time In Hollywood"
+      ],
+      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
+    },
+    {
+      "video_id": "L-eqpSkNL5Q",
+      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
+      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-09T04:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
+      "duration": "PT16M30S",
+      "duration_seconds": 990,
+      "view_count": 691473,
+      "like_count": 40306,
+      "comment_count": 3645,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
     },
     {
       "video_id": "UC4INGdHwhs",
@@ -321,9 +364,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 484929,
-      "like_count": 5531,
-      "comment_count": 487,
+      "view_count": 552732,
+      "like_count": 6117,
+      "comment_count": 522,
       "category_id": "1",
       "tags": [
         "movie",
@@ -340,49 +383,6 @@
       "url": "https://www.youtube.com/watch?v=UC4INGdHwhs"
     },
     {
-      "video_id": "L-eqpSkNL5Q",
-      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
-      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-09T04:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 596795,
-      "like_count": 36175,
-      "comment_count": 3457,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
-    },
-    {
-      "video_id": "ik0drfECnPo",
-      "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
-      "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
-      "channel_title": "Entertainment Tonight",
-      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
-      "published_at": "2026-02-09T01:43:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
-      "duration": "PT1M4S",
-      "duration_seconds": 64,
-      "view_count": 428143,
-      "like_count": 9549,
-      "comment_count": 612,
-      "category_id": "24",
-      "tags": [
-        "Netflix",
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "Margot Robbie",
-        "Once Upon a Time In Hollywood"
-      ],
-      "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
-    },
-    {
       "video_id": "9ik8sxTkTbw",
       "title": "Gmod Scary Map (not really) - We're On the Epstein List? (Garry's Mod Funny Moments)",
       "description": "Outro Song: https://www.youtube.com/watch?v=D24HvIdqX2c\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nNogla - @DaithiDeNogla \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nLui Calibre - @KingLuiCalibre \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
@@ -392,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
       "duration": "PT22M34S",
       "duration_seconds": 1354,
-      "view_count": 460413,
-      "like_count": 26807,
-      "comment_count": 1043,
+      "view_count": 515065,
+      "like_count": 28830,
+      "comment_count": 1091,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -420,9 +420,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
       "duration": "PT35M7S",
       "duration_seconds": 2107,
-      "view_count": 424388,
-      "like_count": 14235,
-      "comment_count": 817,
+      "view_count": 497340,
+      "like_count": 16006,
+      "comment_count": 869,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -443,9 +443,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
       "duration": "PT21S",
       "duration_seconds": 21,
-      "view_count": 883977,
-      "like_count": 7796,
-      "comment_count": 9,
+      "view_count": 884339,
+      "like_count": 7789,
+      "comment_count": 10,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -471,9 +471,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 265848,
-      "like_count": 3377,
-      "comment_count": 420,
+      "view_count": 288668,
+      "like_count": 3494,
+      "comment_count": 445,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -499,9 +499,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 417111,
-      "like_count": 24125,
-      "comment_count": 1011,
+      "view_count": 438025,
+      "like_count": 24754,
+      "comment_count": 1034,
       "category_id": "1",
       "tags": [
         "2026",
@@ -521,72 +521,73 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 7028658,
-        "average_views_per_video": 702865.8,
-        "categories": "Unknown",
-        "note": "The lack of known categories limits specific genre analysis."
+      "total_videos": 10,
+      "total_views": 7933477,
+      "average_views_per_video": 793347.7,
+      "categories_analysis": {
+        "unknown_categories": true,
+        "estimated_categories": [
+          "Gaming",
+          "Movies and Entertainment",
+          "Trailers",
+          "Comedy",
+          "User-generated Content"
+        ],
+        "dominant_category": "Movies and Entertainment"
       },
       "content_trends": {
-        "notable_genres": [
-          "Trailers",
-          "Gaming",
-          "Superhero",
-          "Comedy"
+        "video_titles_keywords": [
+          "Trailer",
+          "Roblox",
+          "Super Bowl",
+          "Gameplay",
+          "Supergirl",
+          "Funny Moments"
         ],
-        "trend_analysis": {
-          "trailers": {
-            "description": "Trailers for movies and events, such as 'Project Hail Mary' and 'Super Bowl 2026', are prominent.",
-            "potential": "High interest in upcoming releases and events suggests a strong engagement opportunity for promotional content."
-          },
-          "gaming": {
-            "description": "Titles like 'Helldivers 2' and 'ROBLOX BOTE RIED' indicate a robust interest in gaming-related content.",
-            "potential": "Focus on unique gameplay experiences or developer insights to capture audience attention."
-          },
-          "superhero": {
-            "description": "Multiple entries related to 'Supergirl' suggest a sustained interest in superhero content.",
-            "potential": "Leveraging popular superhero franchises could enhance viewership."
-          },
-          "comedy": {
-            "description": "Content like 'Gmod Scary Map' highlights humor and entertainment value in gaming.",
-            "potential": "Creating entertaining, shareable moments can increase audience retention."
-          }
+        "trending_types_of_content": [
+          "Movie trailers",
+          "Gaming content",
+          "Super Bowl related content",
+          "User-generated clips and compilations"
+        ],
+        "trailer_dominance": {
+          "percentage_of_trailers": 50,
+          "insight": "Trailers are highly popular, indicating a strong audience interest in upcoming movies and events."
         }
       },
       "creator_patterns": {
         "top_channels": [
           "Amazon MGM Studios",
           "HELLDIVERS™ 2",
-          "TrailerSpot",
+          "Entertainment Tonight",
           "Flamingo",
-          "Entertainment Tonight"
+          "TrailerSpot"
         ],
-        "channel_analysis": {
-          "diverse_content": {
-            "description": "Channels are producing a mix of trailers, gaming insights, and entertainment news.",
-            "strategy": "Collaborations between studios and influencers could expand reach and engagement."
-          },
-          "influencer_impact": {
-            "description": "Influencers like Flamingo are leveraging gaming content to attract substantial viewership.",
-            "strategy": "Focusing on influencer partnerships in the gaming sector could enhance brand presence."
-          }
+        "video_distribution": {
+          "single_video_channels": 5,
+          "multiple_video_channels": 0,
+          "insight": "Most popular channels are contributing single videos, indicating a wide variety of content from different creators."
+        },
+        "creator_opportunity": {
+          "potential_growth_areas": [
+            "Consistent trailer releases",
+            "Engaging gaming content",
+            "User-generated content compilations"
+          ],
+          "suggested_strategy": "Creators should focus on releasing consistent content related to trending events (like the Super Bowl) to capture sustained audience interest."
         }
       },
       "market_opportunities": {
-        "opportunities_analysis": {
-          "cross-promotion": {
-            "description": "Promoting trailers and teasers across different platforms can build anticipation.",
-            "actionable_insight": "Use cross-platform strategies to maximize content exposure, especially around event releases."
-          },
-          "content_expansion": {
-            "description": "Exploration of niche gaming content and insider insights could cater to dedicated fanbases.",
-            "actionable_insight": "Develop content series focusing on specific gaming communities and their interests."
-          },
-          "engagement_innovation": {
-            "description": "Interactive and participatory content formats may enhance viewer engagement.",
-            "actionable_insight": "Incorporating polls, Q&A sessions, or live commentary could increase interaction."
-          }
+        "high_potential_areas": [
+          "Movie and entertainment trailers",
+          "Gaming content, especially related to popular titles like Roblox",
+          "Sports event-related content"
+        ],
+        "audience_engagement": {
+          "insight": "Leveraging the popularity of specific events (e.g., Super Bowl) and trending games can increase viewer engagement and channel growth."
+        },
+        "content_diversification": {
+          "suggestion": "Channels can diversify by combining popular genres, such as gaming with comedic elements, to appeal to broader audiences."
         }
       },
       "metadata_stats": {
@@ -595,7 +596,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 702865
+        "avg_views_per_video": 793347
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
