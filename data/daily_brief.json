@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-09T21:19:49.781794",
-  "date": "2026-02-09",
+  "timestamp": "2026-02-10T00:51:21.361869",
+  "date": "2026-02-10",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "high_potential_videos": 6,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2986740,
-      "like_count": 38210,
-      "comment_count": 2883,
+      "view_count": 3472743,
+      "like_count": 41124,
+      "comment_count": 3107,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
     },
     {
-      "video_id": "leM2NjGmCbY",
-      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
-      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
-      "channel_title": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "published_at": "2026-02-09T13:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
-      "duration": "PT2M55S",
-      "duration_seconds": 175,
-      "view_count": 558020,
-      "like_count": 50791,
-      "comment_count": 4685,
-      "category_id": "20",
+      "video_id": "LapnF_8oXIk",
+      "title": "The Perfect Storm",
+      "description": "Based on a true story, the film tells of the courageous men and women who risk their lives every working day, pitting their fishing boats and rescue vessels against the capricious forces of nature. Their worst fears are realized at sea on Halloween of 1991, when they are confronted by three raging weather fronts which unexpectedly collide to produce the greatest, fiercest storm in modern history -- \"The Perfect Storm.\"",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-26T00:46:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LapnF_8oXIk/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+      "url": "https://www.youtube.com/watch?v=LapnF_8oXIk"
     },
     {
       "video_id": "ik0drfECnPo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 521075,
-      "like_count": 11070,
-      "comment_count": 731,
+      "view_count": 635266,
+      "like_count": 12448,
+      "comment_count": 868,
       "category_id": "24",
       "tags": [
         "Netflix",
@@ -81,24 +81,21 @@
       "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
     },
     {
-      "video_id": "L-eqpSkNL5Q",
-      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
-      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-09T04:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 691473,
-      "like_count": 40306,
-      "comment_count": 3645,
+      "video_id": "leM2NjGmCbY",
+      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-09T13:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 670497,
+      "like_count": 55943,
+      "comment_count": 5096,
       "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
     },
     {
       "video_id": "UC4INGdHwhs",
@@ -110,9 +107,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 552732,
-      "like_count": 6117,
-      "comment_count": 522,
+      "view_count": 647106,
+      "like_count": 6646,
+      "comment_count": 546,
       "category_id": "1",
       "tags": [
         "movie",
@@ -129,18 +126,18 @@
       "url": "https://www.youtube.com/watch?v=UC4INGdHwhs"
     },
     {
-      "video_id": "ezZlOYeLHOQ",
+      "video_id": "g7OxNslQev0",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
       "channel_title": "StanRP",
       "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-09T00:50:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
-      "duration": "PT21S",
-      "duration_seconds": 21,
-      "view_count": 884339,
-      "like_count": 7789,
-      "comment_count": 10,
+      "published_at": "2026-02-09T23:22:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g7OxNslQev0/hqdefault.jpg",
+      "duration": "PT20S",
+      "duration_seconds": 20,
+      "view_count": 832585,
+      "like_count": 7385,
+      "comment_count": 4,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -154,7 +151,7 @@
         "meme reset",
         "singing brainrot song"
       ],
-      "url": "https://www.youtube.com/watch?v=ezZlOYeLHOQ"
+      "url": "https://www.youtube.com/watch?v=g7OxNslQev0"
     },
     {
       "video_id": "ydqvWEeJpdk",
@@ -166,9 +163,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 288668,
-      "like_count": 3494,
-      "comment_count": 445,
+      "view_count": 312160,
+      "like_count": 3681,
+      "comment_count": 454,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -185,32 +182,32 @@
       "url": "https://www.youtube.com/watch?v=ydqvWEeJpdk"
     },
     {
-      "video_id": "9ik8sxTkTbw",
-      "title": "Gmod Scary Map (not really) - We're On the Epstein List? (Garry's Mod Funny Moments)",
-      "description": "Outro Song: https://www.youtube.com/watch?v=D24HvIdqX2c\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nNogla - @DaithiDeNogla \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nLui Calibre - @KingLuiCalibre \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
-      "channel_title": "VanossGaming",
-      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
-      "published_at": "2026-02-09T01:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
-      "duration": "PT22M34S",
-      "duration_seconds": 1354,
-      "view_count": 515065,
-      "like_count": 28830,
-      "comment_count": 1091,
+      "video_id": "W6syt9DObB8",
+      "title": "This is genuinely bad..",
+      "description": "Asmongold reacts to @BellularNews https://www.youtube.com/watch?v=x1wQeYcxc6s\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-02-09T19:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W6syt9DObB8/hqdefault.jpg",
+      "duration": "PT30M21S",
+      "duration_seconds": 1821,
+      "view_count": 325252,
+      "like_count": 10391,
+      "comment_count": 1711,
       "category_id": "20",
       "tags": [
-        "Funny Moments",
-        "Montage video games",
-        "gaming",
-        "Vanoss",
-        "VanossGaming",
-        "Gameplay",
-        "Secret",
-        "Puncake",
-        "Parody",
-        "Comedy"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=9ik8sxTkTbw"
+      "url": "https://www.youtube.com/watch?v=W6syt9DObB8"
     },
     {
       "video_id": "VoqjnU_wGJM",
@@ -222,9 +219,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 438025,
-      "like_count": 24754,
-      "comment_count": 1034,
+      "view_count": 465839,
+      "like_count": 25447,
+      "comment_count": 1052,
       "category_id": "1",
       "tags": [
         "2026",
@@ -241,27 +238,24 @@
       "url": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
     },
     {
-      "video_id": "FqxFEn7w_2s",
-      "title": "Your WORST Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-09T00:21:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
-      "duration": "PT35M7S",
-      "duration_seconds": 2107,
-      "view_count": 497340,
-      "like_count": 16006,
-      "comment_count": 869,
+      "video_id": "L-eqpSkNL5Q",
+      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
+      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-09T04:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
+      "duration": "PT16M30S",
+      "duration_seconds": 990,
+      "view_count": 849686,
+      "like_count": 46346,
+      "comment_count": 3870,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "The WORST Clips..."
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
+      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
     }
   ],
   "videos_with_transcripts": [],
@@ -276,9 +270,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P0XN3-n-2Lo/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 2986740,
-      "like_count": 38210,
-      "comment_count": 2883,
+      "view_count": 3472743,
+      "like_count": 41124,
+      "comment_count": 3107,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -295,23 +289,6 @@
       "url": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
     },
     {
-      "video_id": "leM2NjGmCbY",
-      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
-      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
-      "channel_title": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "published_at": "2026-02-09T13:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
-      "duration": "PT2M55S",
-      "duration_seconds": 175,
-      "view_count": 558020,
-      "like_count": 50791,
-      "comment_count": 4685,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
-    },
-    {
       "video_id": "ik0drfECnPo",
       "title": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
       "description": "Brad Pitt brings back his 'Once Upon a Time in Hollywood Character' in 'The Adventures of Cliff Booth,' coming soon to Netflix. David Fincher directs the Quentin Tarantino-scripted follow-up to 2019's Oscar-winning hit.",
@@ -321,9 +298,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ik0drfECnPo/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 521075,
-      "like_count": 11070,
-      "comment_count": 731,
+      "view_count": 635266,
+      "like_count": 12448,
+      "comment_count": 868,
       "category_id": "24",
       "tags": [
         "Netflix",
@@ -335,24 +312,21 @@
       "url": "https://www.youtube.com/watch?v=ik0drfECnPo"
     },
     {
-      "video_id": "L-eqpSkNL5Q",
-      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
-      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-02-09T04:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 691473,
-      "like_count": 40306,
-      "comment_count": 3645,
+      "video_id": "leM2NjGmCbY",
+      "title": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+      "description": "Helldivers, we stand on the precipice of Cyberstan, and at last, our enemy stands revealed.\n\nStudy them closely. Steel yourselves for battle.\n\nLet's end this Machinery of Oppression once and for all.",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-02-09T13:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/leM2NjGmCbY/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 670497,
+      "like_count": 55943,
+      "comment_count": 5096,
       "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=leM2NjGmCbY"
     },
     {
       "video_id": "UC4INGdHwhs",
@@ -364,9 +338,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UC4INGdHwhs/hqdefault.jpg",
       "duration": "PT10M10S",
       "duration_seconds": 610,
-      "view_count": 552732,
-      "like_count": 6117,
-      "comment_count": 522,
+      "view_count": 647106,
+      "like_count": 6646,
+      "comment_count": 546,
       "category_id": "1",
       "tags": [
         "movie",
@@ -383,69 +357,83 @@
       "url": "https://www.youtube.com/watch?v=UC4INGdHwhs"
     },
     {
-      "video_id": "9ik8sxTkTbw",
-      "title": "Gmod Scary Map (not really) - We're On the Epstein List? (Garry's Mod Funny Moments)",
-      "description": "Outro Song: https://www.youtube.com/watch?v=D24HvIdqX2c\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nNogla - @DaithiDeNogla \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nLui Calibre - @KingLuiCalibre \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
-      "channel_title": "VanossGaming",
-      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
-      "published_at": "2026-02-09T01:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ik8sxTkTbw/hqdefault.jpg",
-      "duration": "PT22M34S",
-      "duration_seconds": 1354,
-      "view_count": 515065,
-      "like_count": 28830,
-      "comment_count": 1091,
+      "video_id": "W6syt9DObB8",
+      "title": "This is genuinely bad..",
+      "description": "Asmongold reacts to @BellularNews https://www.youtube.com/watch?v=x1wQeYcxc6s\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's VOD Rerun Channel: https://www.twitch.tv/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-02-09T19:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W6syt9DObB8/hqdefault.jpg",
+      "duration": "PT30M21S",
+      "duration_seconds": 1821,
+      "view_count": 325252,
+      "like_count": 10391,
+      "comment_count": 1711,
       "category_id": "20",
       "tags": [
-        "Funny Moments",
-        "Montage video games",
-        "gaming",
-        "Vanoss",
-        "VanossGaming",
-        "Gameplay",
-        "Secret",
-        "Puncake",
-        "Parody",
-        "Comedy"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=9ik8sxTkTbw"
+      "url": "https://www.youtube.com/watch?v=W6syt9DObB8"
     },
     {
-      "video_id": "FqxFEn7w_2s",
-      "title": "Your WORST Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nThe WORST Clips...\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-09T00:21:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FqxFEn7w_2s/hqdefault.jpg",
-      "duration": "PT35M7S",
-      "duration_seconds": 2107,
-      "view_count": 497340,
-      "like_count": 16006,
-      "comment_count": 869,
+      "video_id": "L-eqpSkNL5Q",
+      "title": "ROBLOX BOTE RIED.. but I have ADMIN",
+      "description": "this game rocks play it here https://www.roblox.com/games/71457452830106/bote-ried\nToday I play bote ried and I use admin commands",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-09T04:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L-eqpSkNL5Q/hqdefault.jpg",
+      "duration": "PT16M30S",
+      "duration_seconds": 990,
+      "view_count": 849686,
+      "like_count": 46346,
+      "comment_count": 3870,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "The WORST Clips..."
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
+      "url": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
     },
     {
-      "video_id": "ezZlOYeLHOQ",
+      "video_id": "LapnF_8oXIk",
+      "title": "The Perfect Storm",
+      "description": "Based on a true story, the film tells of the courageous men and women who risk their lives every working day, pitting their fishing boats and rescue vessels against the capricious forces of nature. Their worst fears are realized at sea on Halloween of 1991, when they are confronted by three raging weather fronts which unexpectedly collide to produce the greatest, fiercest storm in modern history -- \"The Perfect Storm.\"",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-01-26T00:46:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LapnF_8oXIk/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LapnF_8oXIk"
+    },
+    {
+      "video_id": "g7OxNslQev0",
       "title": "roblox best gameplay",
       "description": "Roblox insane moment aura #roblox #shorts #usa",
       "channel_title": "StanRP",
       "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-09T00:50:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ezZlOYeLHOQ/hqdefault.jpg",
-      "duration": "PT21S",
-      "duration_seconds": 21,
-      "view_count": 884339,
-      "like_count": 7789,
-      "comment_count": 10,
+      "published_at": "2026-02-09T23:22:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g7OxNslQev0/hqdefault.jpg",
+      "duration": "PT20S",
+      "duration_seconds": 20,
+      "view_count": 832585,
+      "like_count": 7385,
+      "comment_count": 4,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -459,7 +447,7 @@
         "meme reset",
         "singing brainrot song"
       ],
-      "url": "https://www.youtube.com/watch?v=ezZlOYeLHOQ"
+      "url": "https://www.youtube.com/watch?v=g7OxNslQev0"
     },
     {
       "video_id": "ydqvWEeJpdk",
@@ -471,9 +459,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ydqvWEeJpdk/hqdefault.jpg",
       "duration": "PT58S",
       "duration_seconds": 58,
-      "view_count": 288668,
-      "like_count": 3494,
-      "comment_count": 445,
+      "view_count": 312160,
+      "like_count": 3681,
+      "comment_count": 454,
       "category_id": "1",
       "tags": [
         "Supergirl",
@@ -499,9 +487,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VoqjnU_wGJM/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 438025,
-      "like_count": 24754,
-      "comment_count": 1034,
+      "view_count": 465839,
+      "like_count": 25447,
+      "comment_count": 1052,
       "category_id": "1",
       "tags": [
         "2026",
@@ -521,73 +509,76 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "total_videos": 10,
-      "total_views": 7933477,
-      "average_views_per_video": 793347.7,
-      "categories_analysis": {
-        "unknown_categories": true,
-        "estimated_categories": [
-          "Gaming",
-          "Movies and Entertainment",
-          "Trailers",
-          "Comedy",
-          "User-generated Content"
-        ],
-        "dominant_category": "Movies and Entertainment"
-      },
       "content_trends": {
-        "video_titles_keywords": [
-          "Trailer",
-          "Roblox",
-          "Super Bowl",
-          "Gameplay",
-          "Supergirl",
-          "Funny Moments"
-        ],
-        "trending_types_of_content": [
-          "Movie trailers",
-          "Gaming content",
-          "Super Bowl related content",
-          "User-generated clips and compilations"
-        ],
-        "trailer_dominance": {
-          "percentage_of_trailers": 50,
-          "insight": "Trailers are highly popular, indicating a strong audience interest in upcoming movies and events."
+        "movie_and_trailer_dominance": {
+          "description": "The majority of trending content is related to movie trailers and cinematic content, indicating a strong audience interest in upcoming films and entertainment.",
+          "evidence": [
+            "Project Hail Mary | Final Trailer",
+            "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
+            "ALL SUPER BOWL 2026 (Trailers)",
+            "Supergirl Super Bowl Teaser Trailer - Home (2026)",
+            "Supergirl | Home"
+          ]
+        },
+        "gaming_content": {
+          "description": "Gaming content maintains a significant presence, particularly involving popular platforms like Roblox and niche gaming titles.",
+          "evidence": [
+            "roblox best gameplay",
+            "ROBLOX BOTE RIED.. but I have ADMIN",
+            "Helldivers 2 - Return of the Cyborgs Deep Dive"
+          ]
+        },
+        "diversity_in_content_type": {
+          "description": "There is a mix of content types ranging from trailers to gameplay, indicating varied viewer interests and the need for diverse content strategies.",
+          "evidence": [
+            "This is genuinely bad..",
+            "roblox best gameplay"
+          ]
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Amazon MGM Studios",
-          "HELLDIVERS™ 2",
-          "Entertainment Tonight",
-          "Flamingo",
-          "TrailerSpot"
-        ],
-        "video_distribution": {
-          "single_video_channels": 5,
-          "multiple_video_channels": 0,
-          "insight": "Most popular channels are contributing single videos, indicating a wide variety of content from different creators."
+        "established_brands": {
+          "description": "Established entertainment brands and channels are leading in creating trending content, leveraging their audience base and marketing power.",
+          "channels": [
+            "Amazon MGM Studios",
+            "AMC",
+            "Entertainment Tonight"
+          ]
         },
-        "creator_opportunity": {
-          "potential_growth_areas": [
-            "Consistent trailer releases",
-            "Engaging gaming content",
-            "User-generated content compilations"
-          ],
-          "suggested_strategy": "Creators should focus on releasing consistent content related to trending events (like the Super Bowl) to capture sustained audience interest."
+        "gaming_communities": {
+          "description": "Gaming-focused channels and communities are effectively producing engaging content that resonates with dedicated gaming audiences.",
+          "channels": [
+            "HELLDIVERS™ 2"
+          ]
+        },
+        "emerging_trailer_channels": {
+          "description": "Specialized channels focusing on trailers, such as 'TrailerSpot', are gaining traction by specializing in this niche.",
+          "channels": [
+            "TrailerSpot"
+          ]
         }
       },
       "market_opportunities": {
-        "high_potential_areas": [
-          "Movie and entertainment trailers",
-          "Gaming content, especially related to popular titles like Roblox",
-          "Sports event-related content"
-        ],
-        "audience_engagement": {
-          "insight": "Leveraging the popularity of specific events (e.g., Super Bowl) and trending games can increase viewer engagement and channel growth."
+        "expanding_trailer_content": {
+          "description": "There is an opportunity to expand content related to movie and game trailers, potentially including behind-the-scenes content or extended discussions.",
+          "suggestions": [
+            "Create a series focused on in-depth analyses of upcoming trailers.",
+            "Engage audiences with interactive content like polls or predictions about film success."
+          ]
         },
-        "content_diversification": {
-          "suggestion": "Channels can diversify by combining popular genres, such as gaming with comedic elements, to appeal to broader audiences."
+        "gaming_collaborations": {
+          "description": "Collaborations with gaming influencers or launching interactive gaming content could tap into the robust gaming community's engagement.",
+          "suggestions": [
+            "Partner with popular gaming personalities to reach wider audiences.",
+            "Develop interactive live streams or events around new game releases."
+          ]
+        },
+        "cross-promotion_with_brands": {
+          "description": "Cross-promotional efforts with established entertainment brands can enhance reach and credibility for newer channels.",
+          "suggestions": [
+            "Collaborate with movie studios for exclusive content drops.",
+            "Use brand partnerships to create themed content around major entertainment events like the Super Bowl."
+          ]
         }
       },
       "metadata_stats": {
@@ -596,7 +587,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 793347
+        "avg_views_per_video": 821113
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
