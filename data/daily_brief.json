@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-11T18:30:39.788829",
+  "timestamp": "2026-02-11T21:18:58.747095",
   "date": "2026-02-11",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,6 +13,44 @@
   },
   "trending_videos": [
     {
+      "video_id": "EriEensiy0I",
+      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
+      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
+      "channel_title": "Mob Entertainment",
+      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
+      "published_at": "2026-02-11T18:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
+      "duration": "PT2M33S",
+      "duration_seconds": 153,
+      "view_count": 1225842,
+      "like_count": 217093,
+      "comment_count": 28820,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
+      "video_id": "UAUBNBpdBU4",
+      "title": "🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-11T08:36:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UAUBNBpdBU4/hqdefault.jpg",
+      "duration": "PT7H3M30S",
+      "duration_seconds": 25410,
+      "view_count": 967443,
+      "like_count": 17503,
+      "comment_count": 180,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
+    },
+    {
       "video_id": "S-XxKVxZ2fU",
       "title": "ONE PIECE: Season 2 | Official Trailer | Netflix",
       "description": "Straw Hats! Grab your crew! ONE PIECE: INTO THE GRAND LINE sets sail on March 10th!\n\nMORE INFO ON ONE PIECE: INTO THE GRAND LINE:\nNetflix’s epic high-seas pirate adventure, ONE PIECE, returns for Season 2—unleashing fiercer adversaries and the most perilous quests yet. Luffy and the Straw Hats set sail for the extraordinary Grand Line—a legendary stretch of sea where danger and wonder await at every turn. As they journey through this unpredictable realm in search of the world’s greatest treasure, they’ll encounter bizarre islands and a host of formidable new enemies.\n\nABOUT ONE PIECE:\nNetflix’s live-action adaptation of ONE PIECE is based on Japan’s highest-selling manga series of all time by Eiichiro Oda, with over 100 volumes and 500M copies sold worldwide. The epic high-seas adventure follows Monkey D. Luffy on his quest to find the legendary fabled treasure, the ONE PIECE, and become King of the Pirates. The beloved franchise has a vast, multigenerational global fan base. Upon its ",
@@ -22,9 +60,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/S-XxKVxZ2fU/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 3074520,
-      "like_count": 159822,
-      "comment_count": 9931,
+      "view_count": 3243551,
+      "like_count": 164417,
+      "comment_count": 10171,
       "category_id": "24",
       "tags": [
         "Adaptation",
@@ -41,55 +79,6 @@
       "url": "https://www.youtube.com/watch?v=S-XxKVxZ2fU"
     },
     {
-      "video_id": "UAUBNBpdBU4",
-      "title": "🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-11T08:36:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UAUBNBpdBU4/hqdefault.jpg",
-      "duration": "PT7H3M30S",
-      "duration_seconds": 25410,
-      "view_count": 941354,
-      "like_count": 17267,
-      "comment_count": 149,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
-    },
-    {
-      "video_id": "IXWYo58yiz4",
-      "title": "No Man's Sky Remnant Trailer",
-      "description": "Introducing No Man's Sky Remnant (6.2).\n\nUpgrade your Multi-Tool and physically manipulate objects with the Gravitino Coil (gravity gun) module in update 6.2, Remnant! Magnetise, carry, and launch stacks of industrial waste - and transport your haul in your off-road Colossus. Deck out your vehicle with an array of new wheels, cabins and modules, earn rewards, salvage materials, join the community in a cross-country road trip… and more!\n\nFull patch notes here: https://www.nomanssky.com/remnant-update",
-      "channel_title": "HelloGamesTube",
-      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
-      "published_at": "2026-02-11T13:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IXWYo58yiz4/hqdefault.jpg",
-      "duration": "PT1M10S",
-      "duration_seconds": 70,
-      "view_count": 122120,
-      "like_count": 19469,
-      "comment_count": 2346,
-      "category_id": "20",
-      "tags": [
-        "no",
-        "man's sky",
-        "no man's sky",
-        "no mans sky",
-        "nms",
-        "no man sky",
-        "no man",
-        "no man's sky how to",
-        "no man's sky gameplay",
-        "no man's sky guide"
-      ],
-      "url": "https://www.youtube.com/watch?v=IXWYo58yiz4"
-    },
-    {
       "video_id": "2WusTNLmBpE",
       "title": "I Became King of the Unstable SMP",
       "description": "After Lettuce paused the Unstable SMP election and declared himself the interim leader, he captured me and my best friend Theo. Now I have to start from scratch, escape, save Theo, and defeat Lettuce. This is How I Became King of the Unstable SMP. \n\nUnstable SMP:\n➜ ‪  ‪@wemmbumc \n➜ ‪  ‪@FlameFragsMC \n➜ ‪  @Spokeishere \n➜ ‪  ‪@ParrotX2 \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird @LettuceK @Boosfer @PurpledMC @wemmbumc @FlameFragsMC @Spokeishere @jumperwho @minutetechmc @JadenMAN @PrinceZam @fymada @HoraceMinecraft @Leowook \n\nOriginal Music by @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and",
@@ -99,9 +88,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2WusTNLmBpE/hqdefault.jpg",
       "duration": "PT1H36M4S",
       "duration_seconds": 5764,
-      "view_count": 3762143,
-      "like_count": 257571,
-      "comment_count": 60213,
+      "view_count": 3947264,
+      "like_count": 262921,
+      "comment_count": 61135,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -118,32 +107,21 @@
       "url": "https://www.youtube.com/watch?v=2WusTNLmBpE"
     },
     {
-      "video_id": "nSGjL6QFdWo",
-      "title": "Coulda Been Love 2 Official Trailer",
-      "description": "Coulda Been Love Season 2 premieres this Thursday, February 12th at 9PM EST on Druski's YouTube channel! \n\nFollow Druski\nDruski Official Instagram - https://www.instagram.com/druski/\nDruski Official Twitch - https://www.twitch.tv/druski\nDruski Official TikTok - https://www.tiktok.com/@druski\nDruski Official Twitter - https://twitter.com/druski\nDruski Official Facebook - https://www.facebook.com/druski2funny\nDruski Official Snapchat https://www.snapchat.com/add/druski\n\nFollow Coulda Been Records\nInstagram - https://www.instagram.com/couldabeenrecords\n\nFollow 4LIFERS\n4lifers Instagram - https://www.instagram.com/4lifers\n\n#Druski #CouldaBeenRecords #CouldaBeenLove #love #reality #realitytv #realityshow #sexyyred  #calebpressley #joselinehernandez #charlestonwhite #celinapowell  #amayapapaya #sukihana #yungmiami #bendadonnn",
-      "channel_title": "Druski",
-      "channel_id": "UC4PQqjGczpgmqbpicKjkwvw",
-      "published_at": "2026-02-10T18:28:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nSGjL6QFdWo/hqdefault.jpg",
-      "duration": "PT3M14S",
-      "duration_seconds": 194,
-      "view_count": 230512,
-      "like_count": 11386,
-      "comment_count": 1335,
-      "category_id": "17",
-      "tags": [
-        "druski",
-        "druskitv",
-        "druski2funny",
-        "coulda been records",
-        "coulda been records auditions",
-        "druski coulda been records",
-        "druski coulda been",
-        "druski auditions",
-        "drew desbordes",
-        "comedy"
-      ],
-      "url": "https://www.youtube.com/watch?v=nSGjL6QFdWo"
+      "video_id": "tlNJQ0darFs",
+      "title": "Chapter 5's NEW Gameplay Trailer Is WILD...",
+      "description": "pretty cool\n\nhttps://www.youtube.com/watch?v=CNFueMipUQQ&pp=ygUMaXRzbGlnaHRuaW5n",
+      "channel_title": "Sheeprampage",
+      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
+      "published_at": "2026-02-11T18:05:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tlNJQ0darFs/hqdefault.jpg",
+      "duration": "PT20M2S",
+      "duration_seconds": 1202,
+      "view_count": 92492,
+      "like_count": 10750,
+      "comment_count": 1563,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=tlNJQ0darFs"
     },
     {
       "video_id": "AMA6AkkexzE",
@@ -155,9 +133,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AMA6AkkexzE/hqdefault.jpg",
       "duration": "PT43M36S",
       "duration_seconds": 2616,
-      "view_count": 538622,
-      "like_count": 28316,
-      "comment_count": 1069,
+      "view_count": 586880,
+      "like_count": 30383,
+      "comment_count": 1117,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -174,69 +152,32 @@
       "url": "https://www.youtube.com/watch?v=AMA6AkkexzE"
     },
     {
-      "video_id": "q3t4KmJynSY",
-      "title": "Talon Recruitment Trailer | Overwatch",
-      "description": "Don’t just fight for the future. Command it.\n\nJoin Talon in their fight against Overwatch and play as all 5 new Heroes when you jump into Season 1: Conquest today.\n\nOverwatch is free to play for everyone on console & PC!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-02-10T19:09:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q3t4KmJynSY/hqdefault.jpg",
-      "duration": "PT40S",
-      "duration_seconds": 40,
-      "view_count": 155572,
-      "like_count": 11246,
-      "comment_count": 653,
+      "video_id": "IXWYo58yiz4",
+      "title": "No Man's Sky Remnant Trailer",
+      "description": "Introducing No Man's Sky Remnant (6.2).\n\nUpgrade your Multi-Tool and physically manipulate objects with the Gravitino Coil (gravity gun) module in update 6.2, Remnant! Magnetise, carry, and launch stacks of industrial waste - and transport your haul in your off-road Colossus. Deck out your vehicle with an array of new wheels, cabins and modules, earn rewards, salvage materials, join the community in a cross-country road trip… and more!\n\nFull patch notes here: https://www.nomanssky.com/remnant-update",
+      "channel_title": "HelloGamesTube",
+      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
+      "published_at": "2026-02-11T13:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IXWYo58yiz4/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 219795,
+      "like_count": 23708,
+      "comment_count": 2811,
       "category_id": "20",
       "tags": [
-        "Overwatch 2",
-        "Overwatch"
+        "no",
+        "man's sky",
+        "no man's sky",
+        "no mans sky",
+        "nms",
+        "no man sky",
+        "no man",
+        "no man's sky how to",
+        "no man's sky gameplay",
+        "no man's sky guide"
       ],
-      "url": "https://www.youtube.com/watch?v=q3t4KmJynSY"
-    },
-    {
-      "video_id": "-o307xgilSA",
-      "title": "Elsa Bloodstone: The Hunter Heiress | Character Reveal | Marvel Rivals",
-      "description": "🗡The Hunt Begins.  \n\nRaised among legends and forged in blood, Elsa Bloodstone steps into Marvel Rivals as a relentless monster hunter with unmatched instincts. A master Duelist, she wields an arsenal of weapons, deadly traps, and the power to turn the hunt against her enemies - sometimes even summoning monsters to fight at her side.  \n\nFollowing in her father's footsteps, Elsa thrives where danger lurks. Her prey never evades her for long... because nothing escapes a Bloodstone for long.\n\nElsa Bloodstone arrives with Season 6.5 on February 13, 2026.\n\nStand your ground. Don't be her prey.\nOr try and run - It'll make her day\n\nPlay free now on:\n🔹 Steam: https://t.co/IPhy0Of1cG\n🔹 PlayStation: https://t.co/FR0aVfTmcn\n🔹 Xbox: https://t.co/GaAYz7Nku6\n🔹 Epic Games: https://t.co/QXoxz0VAP7\n\nFollow #MarvelRivals for the latest news:\n🔹 Discord: https://discord.gg/marvelrivals\n🔹 Twitter: https://twitter.com/MarvelRivals\n🔹 Instagram: https://www.instagram.com/marvelrivals/\n🔹 Facebook: https://www.",
-      "channel_title": "Marvel Rivals",
-      "channel_id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "published_at": "2026-02-10T17:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-o307xgilSA/hqdefault.jpg",
-      "duration": "PT1M5S",
-      "duration_seconds": 65,
-      "view_count": 907702,
-      "like_count": 42526,
-      "comment_count": 3237,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=-o307xgilSA"
-    },
-    {
-      "video_id": "ZC1kEknG2ro",
-      "title": "GIRLS LIKE GIRLS - Official Trailer [HD] - Only In Theaters June 19",
-      "description": "Love begins when you let it in. Watch the trailer for GIRLS LIKE GIRLS, a film by Hayley Kiyoko. Only in theaters June 19.\n\nBased on writer/director Hayley Kiyoko's hit single and best-selling novel of the same name and featuring all-new music from Kiyoko, GIRLS LIKE GIRLS is a heartfelt coming-of-age story set over the course of one sun-drenched summer, where new-girl-in-town Coley falls in love for the first time while learning to accept herself along the way.\n\nInstagram: https://www.instagram.com/girlslikegirlsfilm/\nFacebook: https://www.facebook.com/girlslikegirlsfilm\nTwitter: https://x.com/girlslikegirls\nTikTok: https://www.tiktok.com/@girlslikegirlsfilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tikt",
-      "channel_title": "Focus Features",
-      "channel_id": "UCU4SM3j_9TNWaSu8KdGV50g",
-      "published_at": "2026-02-10T16:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZC1kEknG2ro/hqdefault.jpg",
-      "duration": "PT2M31S",
-      "duration_seconds": 151,
-      "view_count": 2375232,
-      "like_count": 14731,
-      "comment_count": 665,
-      "category_id": "1",
-      "tags": [
-        "Focus Features",
-        "Girls Like Girls",
-        "Girls Like Girls Movie",
-        "Girls Like Girls Film",
-        "Maya da Costa",
-        "Myra Molloy",
-        "Levon Hawke",
-        "and Zach Braff",
-        "Hayley Kiyoko",
-        "Stefanie Scott"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZC1kEknG2ro"
+      "url": "https://www.youtube.com/watch?v=IXWYo58yiz4"
     },
     {
       "video_id": "Zs4a7Iwky6A",
@@ -248,17 +189,99 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Zs4a7Iwky6A/hqdefault.jpg",
       "duration": "PT2H47M48S",
       "duration_seconds": 10068,
-      "view_count": 175541,
-      "like_count": 12682,
-      "comment_count": 1528,
+      "view_count": 204889,
+      "like_count": 14523,
+      "comment_count": 1653,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Zs4a7Iwky6A"
+    },
+    {
+      "video_id": "itW7xp5QOKo",
+      "title": "The Super Mario Galaxy Movie - Trailer #2 (2026) - Chris Pratt, Anya Taylor-Joy, Benny Safdie",
+      "description": "Watch the new trailer for The Super Mario Galaxy Movie, opening at Regal theatres on April 3.\n\nMario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.\n\nDirector: Aaron Horvath, Michael Jelenic\nWriters: Matthew Fogel\nStars: Chris Pratt, Anya Taylor-Joy, Benny Safdie\n\nSee more trailers, discover new movies, and get tickets at https://www.regmovies.com.",
+      "channel_title": "Regal",
+      "channel_id": "UCagplPOBQE4pDM75n7h6jPA",
+      "published_at": "2026-01-25T19:02:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/itW7xp5QOKo/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 34277,
+      "like_count": 964,
+      "comment_count": 200,
+      "category_id": "24",
+      "tags": [
+        "Movies",
+        "Regal",
+        "Movie Trailer",
+        "Trailers",
+        "new trailer",
+        "new movie trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=itW7xp5QOKo"
+    },
+    {
+      "video_id": "wP8ZNjOwPPw",
+      "title": "FLAMINGO",
+      "description": "huge shout out to @KadenFumblebottom  for making this for me, today I take on the flamingo rage obby since the regular rage obbies have been so fun. play it here: https://www.roblox.com/games/73205694560476/FLAMINGO",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-11T09:35:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wP8ZNjOwPPw/hqdefault.jpg",
+      "duration": "PT33M12S",
+      "duration_seconds": 1992,
+      "view_count": 454260,
+      "like_count": 38753,
+      "comment_count": 4171,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=wP8ZNjOwPPw"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
+      "video_id": "EriEensiy0I",
+      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
+      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
+      "channel_title": "Mob Entertainment",
+      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
+      "published_at": "2026-02-11T18:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
+      "duration": "PT2M33S",
+      "duration_seconds": 153,
+      "view_count": 1225842,
+      "like_count": 217093,
+      "comment_count": 28820,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
+      "video_id": "UAUBNBpdBU4",
+      "title": "🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-11T08:36:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UAUBNBpdBU4/hqdefault.jpg",
+      "duration": "PT7H3M30S",
+      "duration_seconds": 25410,
+      "view_count": 967443,
+      "like_count": 17503,
+      "comment_count": 180,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
+    },
+    {
       "video_id": "S-XxKVxZ2fU",
       "title": "ONE PIECE: Season 2 | Official Trailer | Netflix",
       "description": "Straw Hats! Grab your crew! ONE PIECE: INTO THE GRAND LINE sets sail on March 10th!\n\nMORE INFO ON ONE PIECE: INTO THE GRAND LINE:\nNetflix’s epic high-seas pirate adventure, ONE PIECE, returns for Season 2—unleashing fiercer adversaries and the most perilous quests yet. Luffy and the Straw Hats set sail for the extraordinary Grand Line—a legendary stretch of sea where danger and wonder await at every turn. As they journey through this unpredictable realm in search of the world’s greatest treasure, they’ll encounter bizarre islands and a host of formidable new enemies.\n\nABOUT ONE PIECE:\nNetflix’s live-action adaptation of ONE PIECE is based on Japan’s highest-selling manga series of all time by Eiichiro Oda, with over 100 volumes and 500M copies sold worldwide. The epic high-seas adventure follows Monkey D. Luffy on his quest to find the legendary fabled treasure, the ONE PIECE, and become King of the Pirates. The beloved franchise has a vast, multigenerational global fan base. Upon its ",
@@ -268,9 +291,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/S-XxKVxZ2fU/hqdefault.jpg",
       "duration": "PT3M1S",
       "duration_seconds": 181,
-      "view_count": 3074520,
-      "like_count": 159822,
-      "comment_count": 9931,
+      "view_count": 3243551,
+      "like_count": 164417,
+      "comment_count": 10171,
       "category_id": "24",
       "tags": [
         "Adaptation",
@@ -287,55 +310,6 @@
       "url": "https://www.youtube.com/watch?v=S-XxKVxZ2fU"
     },
     {
-      "video_id": "UAUBNBpdBU4",
-      "title": "🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-11T08:36:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UAUBNBpdBU4/hqdefault.jpg",
-      "duration": "PT7H3M30S",
-      "duration_seconds": 25410,
-      "view_count": 941354,
-      "like_count": 17267,
-      "comment_count": 149,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
-    },
-    {
-      "video_id": "IXWYo58yiz4",
-      "title": "No Man's Sky Remnant Trailer",
-      "description": "Introducing No Man's Sky Remnant (6.2).\n\nUpgrade your Multi-Tool and physically manipulate objects with the Gravitino Coil (gravity gun) module in update 6.2, Remnant! Magnetise, carry, and launch stacks of industrial waste - and transport your haul in your off-road Colossus. Deck out your vehicle with an array of new wheels, cabins and modules, earn rewards, salvage materials, join the community in a cross-country road trip… and more!\n\nFull patch notes here: https://www.nomanssky.com/remnant-update",
-      "channel_title": "HelloGamesTube",
-      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
-      "published_at": "2026-02-11T13:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IXWYo58yiz4/hqdefault.jpg",
-      "duration": "PT1M10S",
-      "duration_seconds": 70,
-      "view_count": 122120,
-      "like_count": 19469,
-      "comment_count": 2346,
-      "category_id": "20",
-      "tags": [
-        "no",
-        "man's sky",
-        "no man's sky",
-        "no mans sky",
-        "nms",
-        "no man sky",
-        "no man",
-        "no man's sky how to",
-        "no man's sky gameplay",
-        "no man's sky guide"
-      ],
-      "url": "https://www.youtube.com/watch?v=IXWYo58yiz4"
-    },
-    {
       "video_id": "2WusTNLmBpE",
       "title": "I Became King of the Unstable SMP",
       "description": "After Lettuce paused the Unstable SMP election and declared himself the interim leader, he captured me and my best friend Theo. Now I have to start from scratch, escape, save Theo, and defeat Lettuce. This is How I Became King of the Unstable SMP. \n\nUnstable SMP:\n➜ ‪  ‪@wemmbumc \n➜ ‪  ‪@FlameFragsMC \n➜ ‪  @Spokeishere \n➜ ‪  ‪@ParrotX2 \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird @LettuceK @Boosfer @PurpledMC @wemmbumc @FlameFragsMC @Spokeishere @jumperwho @minutetechmc @JadenMAN @PrinceZam @fymada @HoraceMinecraft @Leowook \n\nOriginal Music by @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and",
@@ -345,9 +319,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2WusTNLmBpE/hqdefault.jpg",
       "duration": "PT1H36M4S",
       "duration_seconds": 5764,
-      "view_count": 3762143,
-      "like_count": 257571,
-      "comment_count": 60213,
+      "view_count": 3947264,
+      "like_count": 262921,
+      "comment_count": 61135,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -364,32 +338,21 @@
       "url": "https://www.youtube.com/watch?v=2WusTNLmBpE"
     },
     {
-      "video_id": "nSGjL6QFdWo",
-      "title": "Coulda Been Love 2 Official Trailer",
-      "description": "Coulda Been Love Season 2 premieres this Thursday, February 12th at 9PM EST on Druski's YouTube channel! \n\nFollow Druski\nDruski Official Instagram - https://www.instagram.com/druski/\nDruski Official Twitch - https://www.twitch.tv/druski\nDruski Official TikTok - https://www.tiktok.com/@druski\nDruski Official Twitter - https://twitter.com/druski\nDruski Official Facebook - https://www.facebook.com/druski2funny\nDruski Official Snapchat https://www.snapchat.com/add/druski\n\nFollow Coulda Been Records\nInstagram - https://www.instagram.com/couldabeenrecords\n\nFollow 4LIFERS\n4lifers Instagram - https://www.instagram.com/4lifers\n\n#Druski #CouldaBeenRecords #CouldaBeenLove #love #reality #realitytv #realityshow #sexyyred  #calebpressley #joselinehernandez #charlestonwhite #celinapowell  #amayapapaya #sukihana #yungmiami #bendadonnn",
-      "channel_title": "Druski",
-      "channel_id": "UC4PQqjGczpgmqbpicKjkwvw",
-      "published_at": "2026-02-10T18:28:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nSGjL6QFdWo/hqdefault.jpg",
-      "duration": "PT3M14S",
-      "duration_seconds": 194,
-      "view_count": 230512,
-      "like_count": 11386,
-      "comment_count": 1335,
-      "category_id": "17",
-      "tags": [
-        "druski",
-        "druskitv",
-        "druski2funny",
-        "coulda been records",
-        "coulda been records auditions",
-        "druski coulda been records",
-        "druski coulda been",
-        "druski auditions",
-        "drew desbordes",
-        "comedy"
-      ],
-      "url": "https://www.youtube.com/watch?v=nSGjL6QFdWo"
+      "video_id": "tlNJQ0darFs",
+      "title": "Chapter 5's NEW Gameplay Trailer Is WILD...",
+      "description": "pretty cool\n\nhttps://www.youtube.com/watch?v=CNFueMipUQQ&pp=ygUMaXRzbGlnaHRuaW5n",
+      "channel_title": "Sheeprampage",
+      "channel_id": "UCdPf5251gNKwd8hIBz3RtYg",
+      "published_at": "2026-02-11T18:05:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tlNJQ0darFs/hqdefault.jpg",
+      "duration": "PT20M2S",
+      "duration_seconds": 1202,
+      "view_count": 92492,
+      "like_count": 10750,
+      "comment_count": 1563,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=tlNJQ0darFs"
     },
     {
       "video_id": "AMA6AkkexzE",
@@ -401,9 +364,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AMA6AkkexzE/hqdefault.jpg",
       "duration": "PT43M36S",
       "duration_seconds": 2616,
-      "view_count": 538622,
-      "like_count": 28316,
-      "comment_count": 1069,
+      "view_count": 586880,
+      "like_count": 30383,
+      "comment_count": 1117,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -420,49 +383,32 @@
       "url": "https://www.youtube.com/watch?v=AMA6AkkexzE"
     },
     {
-      "video_id": "-o307xgilSA",
-      "title": "Elsa Bloodstone: The Hunter Heiress | Character Reveal | Marvel Rivals",
-      "description": "🗡The Hunt Begins.  \n\nRaised among legends and forged in blood, Elsa Bloodstone steps into Marvel Rivals as a relentless monster hunter with unmatched instincts. A master Duelist, she wields an arsenal of weapons, deadly traps, and the power to turn the hunt against her enemies - sometimes even summoning monsters to fight at her side.  \n\nFollowing in her father's footsteps, Elsa thrives where danger lurks. Her prey never evades her for long... because nothing escapes a Bloodstone for long.\n\nElsa Bloodstone arrives with Season 6.5 on February 13, 2026.\n\nStand your ground. Don't be her prey.\nOr try and run - It'll make her day\n\nPlay free now on:\n🔹 Steam: https://t.co/IPhy0Of1cG\n🔹 PlayStation: https://t.co/FR0aVfTmcn\n🔹 Xbox: https://t.co/GaAYz7Nku6\n🔹 Epic Games: https://t.co/QXoxz0VAP7\n\nFollow #MarvelRivals for the latest news:\n🔹 Discord: https://discord.gg/marvelrivals\n🔹 Twitter: https://twitter.com/MarvelRivals\n🔹 Instagram: https://www.instagram.com/marvelrivals/\n🔹 Facebook: https://www.",
-      "channel_title": "Marvel Rivals",
-      "channel_id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "published_at": "2026-02-10T17:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-o307xgilSA/hqdefault.jpg",
-      "duration": "PT1M5S",
-      "duration_seconds": 65,
-      "view_count": 907702,
-      "like_count": 42526,
-      "comment_count": 3237,
+      "video_id": "IXWYo58yiz4",
+      "title": "No Man's Sky Remnant Trailer",
+      "description": "Introducing No Man's Sky Remnant (6.2).\n\nUpgrade your Multi-Tool and physically manipulate objects with the Gravitino Coil (gravity gun) module in update 6.2, Remnant! Magnetise, carry, and launch stacks of industrial waste - and transport your haul in your off-road Colossus. Deck out your vehicle with an array of new wheels, cabins and modules, earn rewards, salvage materials, join the community in a cross-country road trip… and more!\n\nFull patch notes here: https://www.nomanssky.com/remnant-update",
+      "channel_title": "HelloGamesTube",
+      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
+      "published_at": "2026-02-11T13:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IXWYo58yiz4/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 219795,
+      "like_count": 23708,
+      "comment_count": 2811,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=-o307xgilSA"
-    },
-    {
-      "video_id": "ZC1kEknG2ro",
-      "title": "GIRLS LIKE GIRLS - Official Trailer [HD] - Only In Theaters June 19",
-      "description": "Love begins when you let it in. Watch the trailer for GIRLS LIKE GIRLS, a film by Hayley Kiyoko. Only in theaters June 19.\n\nBased on writer/director Hayley Kiyoko's hit single and best-selling novel of the same name and featuring all-new music from Kiyoko, GIRLS LIKE GIRLS is a heartfelt coming-of-age story set over the course of one sun-drenched summer, where new-girl-in-town Coley falls in love for the first time while learning to accept herself along the way.\n\nInstagram: https://www.instagram.com/girlslikegirlsfilm/\nFacebook: https://www.facebook.com/girlslikegirlsfilm\nTwitter: https://x.com/girlslikegirls\nTikTok: https://www.tiktok.com/@girlslikegirlsfilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tikt",
-      "channel_title": "Focus Features",
-      "channel_id": "UCU4SM3j_9TNWaSu8KdGV50g",
-      "published_at": "2026-02-10T16:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZC1kEknG2ro/hqdefault.jpg",
-      "duration": "PT2M31S",
-      "duration_seconds": 151,
-      "view_count": 2375232,
-      "like_count": 14731,
-      "comment_count": 665,
-      "category_id": "1",
       "tags": [
-        "Focus Features",
-        "Girls Like Girls",
-        "Girls Like Girls Movie",
-        "Girls Like Girls Film",
-        "Maya da Costa",
-        "Myra Molloy",
-        "Levon Hawke",
-        "and Zach Braff",
-        "Hayley Kiyoko",
-        "Stefanie Scott"
+        "no",
+        "man's sky",
+        "no man's sky",
+        "no mans sky",
+        "nms",
+        "no man sky",
+        "no man",
+        "no man's sky how to",
+        "no man's sky gameplay",
+        "no man's sky guide"
       ],
-      "url": "https://www.youtube.com/watch?v=ZC1kEknG2ro"
+      "url": "https://www.youtube.com/watch?v=IXWYo58yiz4"
     },
     {
       "video_id": "Zs4a7Iwky6A",
@@ -474,83 +420,118 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Zs4a7Iwky6A/hqdefault.jpg",
       "duration": "PT2H47M48S",
       "duration_seconds": 10068,
-      "view_count": 175541,
-      "like_count": 12682,
-      "comment_count": 1528,
+      "view_count": 204889,
+      "like_count": 14523,
+      "comment_count": 1653,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Zs4a7Iwky6A"
     },
     {
-      "video_id": "q3t4KmJynSY",
-      "title": "Talon Recruitment Trailer | Overwatch",
-      "description": "Don’t just fight for the future. Command it.\n\nJoin Talon in their fight against Overwatch and play as all 5 new Heroes when you jump into Season 1: Conquest today.\n\nOverwatch is free to play for everyone on console & PC!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-02-10T19:09:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q3t4KmJynSY/hqdefault.jpg",
-      "duration": "PT40S",
-      "duration_seconds": 40,
-      "view_count": 155572,
-      "like_count": 11246,
-      "comment_count": 653,
+      "video_id": "itW7xp5QOKo",
+      "title": "The Super Mario Galaxy Movie - Trailer #2 (2026) - Chris Pratt, Anya Taylor-Joy, Benny Safdie",
+      "description": "Watch the new trailer for The Super Mario Galaxy Movie, opening at Regal theatres on April 3.\n\nMario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.\n\nDirector: Aaron Horvath, Michael Jelenic\nWriters: Matthew Fogel\nStars: Chris Pratt, Anya Taylor-Joy, Benny Safdie\n\nSee more trailers, discover new movies, and get tickets at https://www.regmovies.com.",
+      "channel_title": "Regal",
+      "channel_id": "UCagplPOBQE4pDM75n7h6jPA",
+      "published_at": "2026-01-25T19:02:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/itW7xp5QOKo/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 34277,
+      "like_count": 964,
+      "comment_count": 200,
+      "category_id": "24",
+      "tags": [
+        "Movies",
+        "Regal",
+        "Movie Trailer",
+        "Trailers",
+        "new trailer",
+        "new movie trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=itW7xp5QOKo"
+    },
+    {
+      "video_id": "wP8ZNjOwPPw",
+      "title": "FLAMINGO",
+      "description": "huge shout out to @KadenFumblebottom  for making this for me, today I take on the flamingo rage obby since the regular rage obbies have been so fun. play it here: https://www.roblox.com/games/73205694560476/FLAMINGO",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-02-11T09:35:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wP8ZNjOwPPw/hqdefault.jpg",
+      "duration": "PT33M12S",
+      "duration_seconds": 1992,
+      "view_count": 454260,
+      "like_count": 38753,
+      "comment_count": 4171,
       "category_id": "20",
       "tags": [
-        "Overwatch 2",
-        "Overwatch"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=q3t4KmJynSY"
+      "url": "https://www.youtube.com/watch?v=wP8ZNjOwPPw"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "prevalence_of_trailers": {
-          "description": "A significant number of trending videos are trailers, either for TV shows, movies, or video games.",
-          "evidence": "5 out of 10 videos are trailers.",
-          "opportunity": "Consider creating engaging teaser content for upcoming releases to capture audience interest."
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 10976693,
+        "averageViewsPerVideo": 1097669.3
+      },
+      "contentTrends": {
+        "gaming": {
+          "description": "Gaming content appears to be a prevalent trend with multiple entries related to game trailers and gameplay.",
+          "examples": [
+            "Poppy Playtime: Chapter 5 - Official Game Trailer",
+            "Chapter 5's NEW Gameplay Trailer Is WILD...",
+            "No Man's Sky Remnant Trailer",
+            "Silent Hill f - Part 11 (ENDING)"
+          ],
+          "insights": "High engagement with gaming trailers and gameplay videos indicates a strong interest in both upcoming releases and ongoing series. Creators can capitalize on this trend by producing content around popular games, updates, and community challenges."
         },
-        "gaming_influence": {
-          "description": "Gaming-related content continues to trend, with videos like 'No Man's Sky Remnant Trailer' and 'I Became King of the Unstable SMP'.",
-          "evidence": "2 out of 10 videos are directly related to gaming.",
-          "opportunity": "Develop content around popular games and leverage gaming communities for higher engagement."
+        "entertainment": {
+          "description": "Entertainment content such as TV shows, movies, and live streams are also trending.",
+          "examples": [
+            "ONE PIECE: Season 2 | Official Trailer | Netflix",
+            "The Super Mario Galaxy Movie - Trailer #2 (2026)",
+            "🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY"
+          ],
+          "insights": "Trailers for upcoming seasons and movies are generating significant interest. There is an opportunity for content related to reviews, predictions, and behind-the-scenes insights. Live streaming remains a viable format for engaging audiences in real-time."
         },
-        "live_streaming": {
-          "description": "Live streaming content is represented, indicating ongoing interest in real-time engagement.",
-          "evidence": "'🔴LIVE | ARC NUTTERS | TESTY TORSION TUESDAY' being part of the trending list.",
-          "opportunity": "Incorporate live streaming to engage with audiences in real-time and increase watch time."
-        },
-        "diverse_content_interests": {
-          "description": "The diversity of content types, from character reveals to unique series trailers, indicates a wide range of audience interests.",
-          "evidence": "Categories include anime adaptations, comedy, action, and drama.",
-          "opportunity": "Broaden content offerings to appeal to varied interests and capture a wider audience base."
+        "uniqueTitles": {
+          "description": "Titles with unique or intriguing phrasing seem to attract attention.",
+          "examples": [
+            "I Became King of the Unstable SMP",
+            "DO NOT Let Me Work at a Quarantine Zone",
+            "FLAMINGO"
+          ],
+          "insights": "Using creative and compelling titles can increase click-through rates. Channels should experiment with intriguing and evocative language to draw viewers in."
         }
       },
-      "creator_patterns": {
-        "established_brands_dominance": {
-          "description": "Established brands like Netflix and Marvel continue to hold strong influence on trending content.",
-          "evidence": "Netflix and Marvel-related content are prominently featured.",
-          "strategy": "Collaborate with major brands for co-promotions or leverage their content style for inspiration."
+      "creatorPatterns": {
+        "channelDiversity": {
+          "description": "Each channel in the top list only features one video, indicating a diverse set of creators.",
+          "insights": "The platform is not dominated by a few creators; instead, a wide variety of channels are achieving trending status. This suggests opportunities for new and emerging creators to gain visibility with unique and engaging content."
         },
-        "individual_creators": {
-          "description": "Individual creators like TheBurntPeanut and Parrot are capable of making it to the trending list.",
-          "evidence": "Creators with unique content such as 'I Became King of the Unstable SMP' are trending.",
-          "strategy": "Foster unique content creation and build personal brand identity to stand out."
+        "cross-platform Opportunities": {
+          "description": "Collaboration between different entertainment platforms (e.g., Netflix, video game developers) is evident.",
+          "insights": "Creators can explore partnerships with platforms and brands to create cross-promotional content, potentially increasing reach and engagement."
         }
       },
-      "market_opportunities": {
-        "trailer_and_teaser_content": {
-          "description": "High engagement with trailer content presents an opportunity to focus on marketing upcoming releases.",
-          "actionable_insight": "Produce high-quality trailers and teasers with compelling narratives and visuals."
+      "marketOpportunities": {
+        "gamingIndustry": {
+          "description": "With the high interest in gaming-related content, there is a market opportunity for brands and creators in the gaming industry.",
+          "suggestions": "Develop content around game tutorials, walkthroughs, or community challenges to engage with this audience segment."
         },
-        "expanding_niche_audiences": {
-          "description": "Niche content such as character reveals and specific gaming experiences have a dedicated audience.",
-          "actionable_insight": "Identify and target niche communities with tailored content to build a loyal viewer base."
+        "entertainment and Streaming": {
+          "description": "Entertainment content, especially related to new releases and live events, shows strong traction.",
+          "suggestions": "Focus on creating ancillary content such as reaction videos, in-depth analyses, or fan theories related to popular series and movies."
         },
-        "increasing_interactivity": {
-          "description": "Interactive content such as live streams and audience participation videos are gaining traction.",
-          "actionable_insight": "Incorporate interactive elements such as Q&A sessions or live feedback to enhance viewer engagement."
+        "content Innovation": {
+          "description": "Unique and creatively titled content draws attention.",
+          "suggestions": "Experiment with unconventional video titles and formats to capture audience interest and stand out from the competition."
         }
       },
       "metadata_stats": {
@@ -559,7 +540,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1228331
+        "avg_views_per_video": 1097669
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
