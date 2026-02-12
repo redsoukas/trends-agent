@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-12T18:28:22.650508",
+  "timestamp": "2026-02-12T21:16:28.062512",
   "date": "2026-02-12",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,44 +13,6 @@
   },
   "trending_videos": [
     {
-      "video_id": "EriEensiy0I",
-      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
-      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
-      "channel_title": "Mob Entertainment",
-      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
-      "published_at": "2026-02-11T18:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
-      "duration": "PT2M33S",
-      "duration_seconds": 153,
-      "view_count": 4858115,
-      "like_count": 400798,
-      "comment_count": 39725,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
-    },
-    {
-      "video_id": "hmdKduBi-ig",
-      "title": "🔴LIVE | ARC NUTTERS: CLANKA WARFARE | CLOAKZY X HUTCHMF | #ShartThrice&BeNice | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-12T08:55:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hmdKduBi-ig/hqdefault.jpg",
-      "duration": "PT7H9M59S",
-      "duration_seconds": 25799,
-      "view_count": 968140,
-      "like_count": 19433,
-      "comment_count": 252,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=hmdKduBi-ig"
-    },
-    {
       "video_id": "HgMbkitzhEM",
       "title": "“Spider-Noir” – Authentic Black & White Teaser Trailer | Prime Video",
       "description": "With no power comes no responsibility. \"Spider-Noir\" - a live-action series starring Nicolas Cage - arrives in Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\nWatch The Teaser In True-Hue Full Color Here: https://youtu.be/b-Blr0_koQA\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n“Spider-Noir” – Authentic Black & White Teaser Trailer | Prime Video\nhttps://you",
@@ -60,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgMbkitzhEM/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 406666,
-      "like_count": 65559,
-      "comment_count": 4685,
+      "view_count": 1170114,
+      "like_count": 114399,
+      "comment_count": 7006,
       "category_id": "24",
       "tags": [
         "spider noir official teaser",
@@ -79,6 +41,72 @@
       "url": "https://www.youtube.com/watch?v=HgMbkitzhEM"
     },
     {
+      "video_id": "hmdKduBi-ig",
+      "title": "🔴LIVE | ARC NUTTERS: CLANKA WARFARE | CLOAKZY X HUTCHMF | #ShartThrice&BeNice | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-12T08:55:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hmdKduBi-ig/hqdefault.jpg",
+      "duration": "PT7H9M59S",
+      "duration_seconds": 25799,
+      "view_count": 996341,
+      "like_count": 19759,
+      "comment_count": 280,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=hmdKduBi-ig"
+    },
+    {
+      "video_id": "y9sCyfun56c",
+      "title": "Beéle - quédate (Letra)",
+      "description": "🌴¡Muchas gracias por ver el video! espero que les haya gustado. 🌴\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n📧Para promociones: malibumusicpromotions@gmail.com\n\n🌴Muchas gracias por todo el apoyo, si te gusta el contenido que subo, no olvides suscribirte al canal y compartir los vídeos con tus amigos \n\n🌴 Primero mira el vídeo oficial por aquí:\nhttps://youtu.be/0ElD2qJ5ZoU?si=2iI-ofXUmLI9q0ZT\n\n📝 Letra/ Lyrics:\nCómo le explico al corazón que quieres irte\nSi tienes duda mami no te estoy mintiendo\nMira mis ojos mientras mi alma se desviste\nLos que miras justo cuando me estoy viniendo\n\nCómo quisiera que estuvieras aquí\nMe sintieras a mí, al ladito tuyo\nPa’ que veas que yo no puedo fingir, y me puedo morir por los besos tuyos\n\nCómo quisiera que estuvieras aquí\nMe sintieras a mí, al ladito tuyo\nPa’ que veas que yo no puedo fingir, y me puedo morir por los besos tuyos\n\nVen quédate, quédate\nNo puedo estar sin ti\nQuédate, quédate\nNo puedo estar sin ti,\n\n♪♪♪\n\nQuédate, no pu",
+      "channel_title": "Malibu Music",
+      "channel_id": "UCgjwKZJN_kdFmaxvW4G0AaA",
+      "published_at": "2026-02-06T17:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y9sCyfun56c/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 290387,
+      "like_count": 256,
+      "comment_count": 3,
+      "category_id": "22",
+      "tags": [
+        "MalibuMusic",
+        "tropical music",
+        "afrobeat",
+        "kizomba",
+        "dembow",
+        "reggae",
+        "dancehall latino",
+        "zouk",
+        "timba",
+        "summer vibes"
+      ],
+      "url": "https://www.youtube.com/watch?v=y9sCyfun56c"
+    },
+    {
+      "video_id": "EriEensiy0I",
+      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
+      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
+      "channel_title": "Mob Entertainment",
+      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
+      "published_at": "2026-02-11T18:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
+      "duration": "PT2M33S",
+      "duration_seconds": 153,
+      "view_count": 5118921,
+      "like_count": 410432,
+      "comment_count": 40458,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
       "video_id": "_RjyzK5yVz4",
       "title": "DO NOT Go Into These Bunkers",
       "description": "Dreadway, more like Deadway because we die a lot in this video\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@imSovi \n@daukey \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://",
@@ -88,9 +116,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_RjyzK5yVz4/hqdefault.jpg",
       "duration": "PT24M8S",
       "duration_seconds": 1448,
-      "view_count": 785903,
-      "like_count": 40583,
-      "comment_count": 861,
+      "view_count": 860016,
+      "like_count": 43396,
+      "comment_count": 886,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -116,9 +144,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tlNJQ0darFs/hqdefault.jpg",
       "duration": "PT20M2S",
       "duration_seconds": 1202,
-      "view_count": 403953,
-      "like_count": 19402,
-      "comment_count": 2441,
+      "view_count": 412875,
+      "like_count": 19650,
+      "comment_count": 2468,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=tlNJQ0darFs"
@@ -133,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2cfFnFQd8Ao/hqdefault.jpg",
       "duration": "PT26M46S",
       "duration_seconds": 1606,
-      "view_count": 394805,
-      "like_count": 29653,
-      "comment_count": 1081,
+      "view_count": 453489,
+      "like_count": 32408,
+      "comment_count": 1134,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -161,9 +189,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JEn8zxLcFcI/hqdefault.jpg",
       "duration": "PT29M37S",
       "duration_seconds": 1777,
-      "view_count": 524971,
-      "like_count": 17466,
-      "comment_count": 2596,
+      "view_count": 552880,
+      "like_count": 17949,
+      "comment_count": 2630,
       "category_id": "20",
       "tags": [
         "Poppy Playtime Chapter 5",
@@ -180,32 +208,21 @@
       "url": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
     },
     {
-      "video_id": "8jXVw9946vc",
-      "title": "I Worked At A Church In The Middle Of Nowhere…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-11T23:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jXVw9946vc/hqdefault.jpg",
-      "duration": "PT1H9M8S",
-      "duration_seconds": 4148,
-      "view_count": 300292,
-      "like_count": 10875,
-      "comment_count": 773,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=8jXVw9946vc"
+      "video_id": "M53vMum29KQ",
+      "title": "You Get Hurt in the Game, You Get Hurt in Real Life",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nOur soap https://usecheeky.com/#starter-pack-offer\nGaming channel https://www.youtube.com/@UCxfr3b8IuHSzu22UHnAvHWg \nThis is the greatest counter strike setup of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-02-12T18:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M53vMum29KQ/hqdefault.jpg",
+      "duration": "PT17M7S",
+      "duration_seconds": 1027,
+      "view_count": 199132,
+      "like_count": 17597,
+      "comment_count": 1337,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=M53vMum29KQ"
     },
     {
       "video_id": "XpQ0TXUnESQ",
@@ -217,83 +234,17 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XpQ0TXUnESQ/hqdefault.jpg",
       "duration": "PT2M4S",
       "duration_seconds": 124,
-      "view_count": 230786,
-      "like_count": 25690,
-      "comment_count": 961,
+      "view_count": 250173,
+      "like_count": 26894,
+      "comment_count": 988,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=XpQ0TXUnESQ"
-    },
-    {
-      "video_id": "7ILtgVTjdpw",
-      "title": "roblox best gameplay",
-      "description": "Roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-12T02:56:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ILtgVTjdpw/hqdefault.jpg",
-      "duration": "PT18S",
-      "duration_seconds": 18,
-      "view_count": 577131,
-      "like_count": 4726,
-      "comment_count": 8,
-      "category_id": "20",
-      "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
-      ],
-      "url": "https://www.youtube.com/watch?v=7ILtgVTjdpw"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "EriEensiy0I",
-      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
-      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
-      "channel_title": "Mob Entertainment",
-      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
-      "published_at": "2026-02-11T18:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
-      "duration": "PT2M33S",
-      "duration_seconds": 153,
-      "view_count": 4858115,
-      "like_count": 400798,
-      "comment_count": 39725,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
-    },
-    {
-      "video_id": "hmdKduBi-ig",
-      "title": "🔴LIVE | ARC NUTTERS: CLANKA WARFARE | CLOAKZY X HUTCHMF | #ShartThrice&BeNice | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-12T08:55:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hmdKduBi-ig/hqdefault.jpg",
-      "duration": "PT7H9M59S",
-      "duration_seconds": 25799,
-      "view_count": 968140,
-      "like_count": 19433,
-      "comment_count": 252,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=hmdKduBi-ig"
-    },
-    {
       "video_id": "HgMbkitzhEM",
       "title": "“Spider-Noir” – Authentic Black & White Teaser Trailer | Prime Video",
       "description": "With no power comes no responsibility. \"Spider-Noir\" - a live-action series starring Nicolas Cage - arrives in Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\nWatch The Teaser In True-Hue Full Color Here: https://youtu.be/b-Blr0_koQA\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n“Spider-Noir” – Authentic Black & White Teaser Trailer | Prime Video\nhttps://you",
@@ -303,9 +254,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgMbkitzhEM/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 406666,
-      "like_count": 65559,
-      "comment_count": 4685,
+      "view_count": 1170114,
+      "like_count": 114399,
+      "comment_count": 7006,
       "category_id": "24",
       "tags": [
         "spider noir official teaser",
@@ -322,6 +273,72 @@
       "url": "https://www.youtube.com/watch?v=HgMbkitzhEM"
     },
     {
+      "video_id": "hmdKduBi-ig",
+      "title": "🔴LIVE | ARC NUTTERS: CLANKA WARFARE | CLOAKZY X HUTCHMF | #ShartThrice&BeNice | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-12T08:55:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hmdKduBi-ig/hqdefault.jpg",
+      "duration": "PT7H9M59S",
+      "duration_seconds": 25799,
+      "view_count": 996341,
+      "like_count": 19759,
+      "comment_count": 280,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=hmdKduBi-ig"
+    },
+    {
+      "video_id": "y9sCyfun56c",
+      "title": "Beéle - quédate (Letra)",
+      "description": "🌴¡Muchas gracias por ver el video! espero que les haya gustado. 🌴\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n📧Para promociones: malibumusicpromotions@gmail.com\n\n🌴Muchas gracias por todo el apoyo, si te gusta el contenido que subo, no olvides suscribirte al canal y compartir los vídeos con tus amigos \n\n🌴 Primero mira el vídeo oficial por aquí:\nhttps://youtu.be/0ElD2qJ5ZoU?si=2iI-ofXUmLI9q0ZT\n\n📝 Letra/ Lyrics:\nCómo le explico al corazón que quieres irte\nSi tienes duda mami no te estoy mintiendo\nMira mis ojos mientras mi alma se desviste\nLos que miras justo cuando me estoy viniendo\n\nCómo quisiera que estuvieras aquí\nMe sintieras a mí, al ladito tuyo\nPa’ que veas que yo no puedo fingir, y me puedo morir por los besos tuyos\n\nCómo quisiera que estuvieras aquí\nMe sintieras a mí, al ladito tuyo\nPa’ que veas que yo no puedo fingir, y me puedo morir por los besos tuyos\n\nVen quédate, quédate\nNo puedo estar sin ti\nQuédate, quédate\nNo puedo estar sin ti,\n\n♪♪♪\n\nQuédate, no pu",
+      "channel_title": "Malibu Music",
+      "channel_id": "UCgjwKZJN_kdFmaxvW4G0AaA",
+      "published_at": "2026-02-06T17:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y9sCyfun56c/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 290387,
+      "like_count": 256,
+      "comment_count": 3,
+      "category_id": "22",
+      "tags": [
+        "MalibuMusic",
+        "tropical music",
+        "afrobeat",
+        "kizomba",
+        "dembow",
+        "reggae",
+        "dancehall latino",
+        "zouk",
+        "timba",
+        "summer vibes"
+      ],
+      "url": "https://www.youtube.com/watch?v=y9sCyfun56c"
+    },
+    {
+      "video_id": "EriEensiy0I",
+      "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
+      "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
+      "channel_title": "Mob Entertainment",
+      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
+      "published_at": "2026-02-11T18:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
+      "duration": "PT2M33S",
+      "duration_seconds": 153,
+      "view_count": 5118921,
+      "like_count": 410432,
+      "comment_count": 40458,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
       "video_id": "_RjyzK5yVz4",
       "title": "DO NOT Go Into These Bunkers",
       "description": "Dreadway, more like Deadway because we die a lot in this video\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@imSovi \n@daukey \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://",
@@ -331,9 +348,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_RjyzK5yVz4/hqdefault.jpg",
       "duration": "PT24M8S",
       "duration_seconds": 1448,
-      "view_count": 785903,
-      "like_count": 40583,
-      "comment_count": 861,
+      "view_count": 860016,
+      "like_count": 43396,
+      "comment_count": 886,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -359,9 +376,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tlNJQ0darFs/hqdefault.jpg",
       "duration": "PT20M2S",
       "duration_seconds": 1202,
-      "view_count": 403953,
-      "like_count": 19402,
-      "comment_count": 2441,
+      "view_count": 412875,
+      "like_count": 19650,
+      "comment_count": 2468,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=tlNJQ0darFs"
@@ -376,9 +393,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2cfFnFQd8Ao/hqdefault.jpg",
       "duration": "PT26M46S",
       "duration_seconds": 1606,
-      "view_count": 394805,
-      "like_count": 29653,
-      "comment_count": 1081,
+      "view_count": 453489,
+      "like_count": 32408,
+      "comment_count": 1134,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -404,9 +421,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JEn8zxLcFcI/hqdefault.jpg",
       "duration": "PT29M37S",
       "duration_seconds": 1777,
-      "view_count": 524971,
-      "like_count": 17466,
-      "comment_count": 2596,
+      "view_count": 552880,
+      "like_count": 17949,
+      "comment_count": 2630,
       "category_id": "20",
       "tags": [
         "Poppy Playtime Chapter 5",
@@ -423,32 +440,21 @@
       "url": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
     },
     {
-      "video_id": "8jXVw9946vc",
-      "title": "I Worked At A Church In The Middle Of Nowhere…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-11T23:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jXVw9946vc/hqdefault.jpg",
-      "duration": "PT1H9M8S",
-      "duration_seconds": 4148,
-      "view_count": 300292,
-      "like_count": 10875,
-      "comment_count": 773,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=8jXVw9946vc"
+      "video_id": "M53vMum29KQ",
+      "title": "You Get Hurt in the Game, You Get Hurt in Real Life",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nOur soap https://usecheeky.com/#starter-pack-offer\nGaming channel https://www.youtube.com/@UCxfr3b8IuHSzu22UHnAvHWg \nThis is the greatest counter strike setup of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-02-12T18:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M53vMum29KQ/hqdefault.jpg",
+      "duration": "PT17M7S",
+      "duration_seconds": 1027,
+      "view_count": 199132,
+      "like_count": 17597,
+      "comment_count": 1337,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=M53vMum29KQ"
     },
     {
       "video_id": "XpQ0TXUnESQ",
@@ -460,105 +466,102 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XpQ0TXUnESQ/hqdefault.jpg",
       "duration": "PT2M4S",
       "duration_seconds": 124,
-      "view_count": 230786,
-      "like_count": 25690,
-      "comment_count": 961,
+      "view_count": 250173,
+      "like_count": 26894,
+      "comment_count": 988,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=XpQ0TXUnESQ"
-    },
-    {
-      "video_id": "7ILtgVTjdpw",
-      "title": "roblox best gameplay",
-      "description": "Roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-02-12T02:56:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ILtgVTjdpw/hqdefault.jpg",
-      "duration": "PT18S",
-      "duration_seconds": 18,
-      "view_count": 577131,
-      "like_count": 4726,
-      "comment_count": 8,
-      "category_id": "20",
-      "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
-      ],
-      "url": "https://www.youtube.com/watch?v=7ILtgVTjdpw"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 10,
-        "totalViews": 9450762,
-        "averageViewsPerVideo": 945076.2
+        "total_videos": 10,
+        "total_views": 10304328,
+        "average_views_per_video": 1030432.8,
+        "categories": "Unknown"
       },
-      "contentTrends": {
-        "gaming": {
-          "description": "The majority of the trending videos are related to gaming, with titles referencing game trailers, gameplay, and live streams.",
-          "examples": [
-            "Poppy Playtime: Chapter 5 - Official Game Trailer",
-            "Chapter 5's NEW Gameplay Trailer Is WILD...",
-            "GTA5 Online - Moo Returns For Speed Glitches and Launching! (Funny Moments)",
-            "roblox best gameplay"
-          ],
-          "insight": "Gaming content, especially trailers and gameplay videos, continue to dominate the trending space. This suggests a high viewer interest in upcoming game releases and gameplay mechanics."
-        },
-        "entertainment": {
-          "description": "Entertainment content such as teasers and trailers for upcoming shows is also on trend.",
-          "examples": [
-            "“Spider-Noir” – Authentic Black & White Teaser Trailer | Prime Video",
-            "Yao Guang Character Trailer: \"All the Best\" | Honkai: Star Rail"
-          ],
-          "insight": "Trailers for new series or movies from popular platforms like Prime Video attract significant attention, indicating a strong market for exclusive sneak peeks and teasers."
-        },
-        "uniqueContent": {
-          "description": "Non-traditional content also appears to capture attention, showing a diverse interest in content types.",
-          "examples": [
-            "I Worked At A Church In The Middle Of Nowhere…",
-            "DO NOT Go Into These Bunkers"
-          ],
-          "insight": "There is an opportunity for unique storytelling and exploration content, as these videos suggest an audience for niche, exploratory, and personal experience narratives."
-        }
-      },
-      "creatorPatterns": {
-        "topChannels": {
-          "Mob Entertainment": {
-            "videoCount": 1,
-            "description": "Known for gaming-related content, particularly around popular indie games like 'Poppy Playtime'."
+      "content_trends": {
+        "themes": [
+          "Entertainment Trailers",
+          "Gaming",
+          "Music",
+          "Interactive Streaming"
+        ],
+        "key_observations": [
+          {
+            "theme": "Entertainment Trailers",
+            "description": "Trailers for upcoming shows and games are significant, with multiple entries such as 'Spider-Noir' and 'Poppy Playtime: Chapter 5'. These videos leverage anticipation and fandom interest."
           },
-          "TheBurntPeanut": {
-            "videoCount": 1,
-            "description": "Indicates potential in growing channels that can capture trending status with unique content."
+          {
+            "theme": "Gaming",
+            "description": "Gaming content is prevalent, with titles like 'GTA5 Online', 'Poppy Playtime', and 'Honkai: Star Rail'. This indicates a strong engagement from gaming communities."
           },
-          "Prime Video": {
-            "videoCount": 1,
-            "description": "Strong presence in entertainment, leveraging bigger platforms and existing IPs for traction."
+          {
+            "theme": "Music",
+            "description": "Music content, although limited in this dataset, shows strong viewership potential with titles like 'Beéle - quédate (Letra)'."
+          },
+          {
+            "theme": "Interactive Streaming",
+            "description": "Live streaming content such as 'ARC NUTTERS: CLANKA WARFARE' suggests real-time engagement and interaction as a rising trend."
           }
-        },
-        "insight": "Emerging creators with unique gaming or storytelling content can penetrate the trending space. Established entities like Prime Video leverage their brand to maintain consistent interest."
+        ]
       },
-      "marketOpportunities": {
-        "gaming": {
-          "opportunity": "Develop content around upcoming game releases and mechanics, which have shown high potential to trend."
-        },
-        "entertainment": {
-          "opportunity": "Capitalize on interest in exclusive trailers and teasers for new series or film content."
-        },
-        "uniqueStorytelling": {
-          "opportunity": "Create niche, exploratory content or personal storytelling that can captivate diverse audiences."
-        }
+      "creator_patterns": {
+        "top_channels": [
+          "Prime Video",
+          "TheBurntPeanut",
+          "Malibu Music",
+          "Mob Entertainment",
+          "SMii7Yplus"
+        ],
+        "upload_frequency": "Each channel appears to have one video in the trending list, indicating diverse content contribution.",
+        "engagement_strategies": [
+          {
+            "channel": "Prime Video",
+            "strategy": "Utilizing teaser trailers to generate hype for upcoming releases."
+          },
+          {
+            "channel": "Mob Entertainment",
+            "strategy": "Engaging gaming audiences with new chapter releases and gameplay trailers."
+          },
+          {
+            "channel": "Malibu Music",
+            "strategy": "Leveraging music releases to capture audience attention with popular artists."
+          }
+        ]
+      },
+      "market_opportunities": {
+        "emerging_trends": [
+          {
+            "opportunity": "Increased Demand for Game Trailers",
+            "description": "With multiple game-related videos trending, there is an opportunity for creators to focus on content around new game releases and updates."
+          },
+          {
+            "opportunity": "Hybrid Streaming Formats",
+            "description": "Combining live-action and gaming, as seen in 'ARC NUTTERS: CLANKA WARFARE', could capitalize on real-time audience interaction."
+          },
+          {
+            "opportunity": "Nostalgia Marketing",
+            "description": "Utilizing retro themes or re-imagined classics, similar to 'Spider-Noir', can attract audiences seeking familiar content with a new twist."
+          }
+        ],
+        "strategic_recommendations": [
+          {
+            "recommendation": "Enhance Cross-Channel Promotion",
+            "details": "Collaborate with popular gaming and entertainment channels to cross-promote content and reach wider audiences."
+          },
+          {
+            "recommendation": "Invest in High-Quality Production",
+            "details": "As seen with 'Prime Video', high production value can significantly enhance viewer engagement and brand appeal."
+          },
+          {
+            "recommendation": "Leverage Interactive Elements",
+            "details": "Incorporating interactive features in videos can increase viewer retention and engagement, particularly in live streams."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -566,7 +569,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 945076
+        "avg_views_per_video": 1030432
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
