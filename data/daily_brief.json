@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-13T03:55:53.230078",
+  "timestamp": "2026-02-13T06:30:26.720925",
   "date": "2026-02-13",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgMbkitzhEM/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 2302977,
-      "like_count": 157875,
-      "comment_count": 8607,
+      "view_count": 2497971,
+      "like_count": 165354,
+      "comment_count": 7839,
       "category_id": "24",
       "tags": [
         "spider noir official teaser",
@@ -39,62 +39,6 @@
         "prime video"
       ],
       "url": "https://www.youtube.com/watch?v=HgMbkitzhEM"
-    },
-    {
-      "video_id": "P0e5YEXtZu0",
-      "title": "State of Play | February 12, 2026 [English]",
-      "description": "Tune in live this Thursday for 60+ minutes of news, gameplay updates, and announcements from game studios across the globe. February's State of Play will spotlight eye-catching third-party and indie games headed to PS5, along with the latest from teams at PlayStation Studios.\n\nState of Play broadcasts live February 12 at 2pm PT / 5pm ET / 11pm CEST | February 13 at 7am JST on YouTube and Twitch, and will be broadcast in English with Japanese subtitles also available. We’ll see you then!\n\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e.g. licensed music) that PlayStation does not control. We welcome and celebrate our amazing co-streamers and creators, but licensing agreements outside our control could interfere with co-streams or VOD archives of this broadcast. If you’re planning to save this broadcast as a VOD to create recap videos, or to repost clips or segments from the show, we advise omitting any copyrighted musi",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-02-12T23:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P0e5YEXtZu0/hqdefault.jpg",
-      "duration": "PT1H12M31S",
-      "duration_seconds": 4351,
-      "view_count": 2634581,
-      "like_count": 89657,
-      "comment_count": 1816,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "Sony",
-        "Kena Scars of Kosmora",
-        "Yotei Legends",
-        "DS2 OTB PC",
-        "4 Loop",
-        "Pragmata",
-        "RE Requiem",
-        "Legacy of Kain Defiance Remastered"
-      ],
-      "url": "https://www.youtube.com/watch?v=P0e5YEXtZu0"
-    },
-    {
-      "video_id": "kbyUZhheUSQ",
-      "title": "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
-      "description": "Keanu Reeves is back as John Wick, but this time in a currently untitled game from Saber, Lionsgate, and franchise director Chad Stahelski. The story will be an original script set in the John Wick timeline, and it will expand on the lore with familiar characters and brand-new ones. Get ready for \"a distinct gun fu combat system, jaw-dropping camerawork, immersive driving experiences, and a variety of memorable environments.\" \n\n#ign #Gaming #PlayStation",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-02-12T23:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kbyUZhheUSQ/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "duration_seconds": 136,
-      "view_count": 289278,
-      "like_count": 24872,
-      "comment_count": 1704,
-      "category_id": "20",
-      "tags": [
-        "ign",
-        "playstation showcase",
-        "playstation showcase 2026",
-        "ps5 showcase",
-        "state of play",
-        "sony state of play",
-        "playstation state of play",
-        "ps5",
-        "ps5 gameplay",
-        "game trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
     },
     {
       "video_id": "TTKGo_ijOCk",
@@ -114,6 +58,62 @@
       "url": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
     },
     {
+      "video_id": "kbyUZhheUSQ",
+      "title": "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
+      "description": "Keanu Reeves is back as John Wick, but this time in a currently untitled game from Saber, Lionsgate, and franchise director Chad Stahelski. The story will be an original script set in the John Wick timeline, and it will expand on the lore with familiar characters and brand-new ones. Get ready for \"a distinct gun fu combat system, jaw-dropping camerawork, immersive driving experiences, and a variety of memorable environments.\" \n\n#ign #Gaming #PlayStation",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-02-12T23:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kbyUZhheUSQ/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "duration_seconds": 136,
+      "view_count": 511025,
+      "like_count": 35475,
+      "comment_count": 2308,
+      "category_id": "20",
+      "tags": [
+        "ign",
+        "playstation showcase",
+        "playstation showcase 2026",
+        "ps5 showcase",
+        "state of play",
+        "sony state of play",
+        "playstation state of play",
+        "ps5",
+        "ps5 gameplay",
+        "game trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
+    },
+    {
+      "video_id": "bGdFBim7nYY",
+      "title": "State of Play | February 12, 2026 [English Subtitles]",
+      "description": "Tune in live this Thursday for 60+ minutes of news, gameplay updates, and announcements from game studios across the globe. February's State of Play will spotlight eye-catching third-party and indie games headed to PS5, along with the latest from teams at PlayStation Studios.\n\nState of Play broadcasts live February 12 at 2pm PT / 5pm ET / 11pm CEST | February 13 at 7am JST on YouTube and Twitch, and will be broadcast in English with Japanese subtitles also available. We’ll see you then!\n\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e.g. licensed music) that PlayStation does not control. We welcome and celebrate our amazing co-streamers and creators, but licensing agreements outside our control could interfere with co-streams or VOD archives of this broadcast. If you’re planning to save this broadcast as a VOD to create recap videos, or to repost clips or segments from the show, we advise omitting any copyrighted musi",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-02-12T23:22:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bGdFBim7nYY/hqdefault.jpg",
+      "duration": "PT1H12M45S",
+      "duration_seconds": 4365,
+      "view_count": 773352,
+      "like_count": 28985,
+      "comment_count": 1077,
+      "category_id": "20",
+      "tags": [
+        "PlayStation",
+        "PS5",
+        "Sony",
+        "Kena Scars of Kosmora",
+        "Yotei Legends",
+        "DS2 OTB PC",
+        "4 Loop",
+        "Pragmata",
+        "RE Requiem",
+        "Legacy of Kain Defiance Remastered"
+      ],
+      "url": "https://www.youtube.com/watch?v=bGdFBim7nYY"
+    },
+    {
       "video_id": "EriEensiy0I",
       "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
       "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
@@ -123,12 +123,88 @@
       "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
       "duration": "PT2M33S",
       "duration_seconds": 153,
-      "view_count": 5611488,
-      "like_count": 426486,
-      "comment_count": 41637,
+      "view_count": 5745919,
+      "like_count": 430613,
+      "comment_count": 41908,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
+      "video_id": "98qo7Tl4QsE",
+      "title": "We've Lost Dale Earnhardt: 25 Years Later",
+      "description": "In the 25 years since the death of Dale Earnhardt, much about NASCAR has changed... and much has stayed the same. Earnhardt's friends, competitors, and fans, as well as current drivers, reflect on the Intimidator's life, legacy, and lasting impact.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-01-30T00:49:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/98qo7Tl4QsE/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
+    },
+    {
+      "video_id": "fXVy4mALHLY",
+      "title": "Resident Evil Requiem - 4th Trailer",
+      "description": "Requiem for the dead. Nightmare for the living.\n\nResident Evil Requiem is now available for pre-order! Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.\n \nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch 2, Steam, Epic Games Store and GeForce NOW.\n\nPre-order: https://www.residentevil.com/requiem/en-us/products\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games \nhttp://www.facebook.com/residentevil \nhttps://www.instagram.com/re_games",
+      "channel_title": "Resident Evil",
+      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
+      "published_at": "2026-02-12T22:18:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fXVy4mALHLY/hqdefault.jpg",
+      "duration": "PT2M19S",
+      "duration_seconds": 139,
+      "view_count": 302631,
+      "like_count": 35830,
+      "comment_count": 3115,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=fXVy4mALHLY"
+    },
+    {
+      "video_id": "l-Dql2_zbbM",
+      "title": "I Hired A Rocket League PRO to SECRETLY Troll Streamers",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nI Hired A Rocket League PRO to SECRETLY Troll Streamers\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-12T23:14:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l-Dql2_zbbM/hqdefault.jpg",
+      "duration": "PT40M55S",
+      "duration_seconds": 2455,
+      "view_count": 316245,
+      "like_count": 13100,
+      "comment_count": 1060,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "I Hired A Rocket League PRO to SECRETLY Troll Streamers",
+        "jynxzi rocket league",
+        "jynxzi rocket league musty cow",
+        "musty cow"
+      ],
+      "url": "https://www.youtube.com/watch?v=l-Dql2_zbbM"
+    },
+    {
+      "video_id": "2MtgIoToa7I",
+      "title": "Star Wars: Galactic Racer™ - Official Gameplay Trailer",
+      "description": "Star Wars: Galactic Racer™ is a high-stakes, high-octane reinvention of racing born in the lawless Outer Rim of the Star Wars™ galaxy. Coming to PlayStation 5, Xbox Series X|S, and PC in 2026.\n \nA new racer has arrived to the Galactic League: an unsanctioned racing circuit where only the bold survive.\n \nFor Shade, a lone racer with a dream of glory and revenge, the League isn't just a race; it's a shot at reclaiming destiny.\n \nWishlist today!\n \nVisit the official website and follow for updates on social media:\n \nOfficial Site - [URL https://starwarsgalacticracer.com/]\nInstagram - [handle @starwarsgalacticracer]\nX - [handle https://x.com/SWGalacticRacer]\nTikTok - [handle @starwarsgalacticracer]\nFacebook - [handle https://www.facebook.com/SWGalacticRacer]\n \n#StarWars #StarWarsGalacticRacer #racinggame #pcgaming #playstation #xbox #gaming\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Di",
+      "channel_title": "Star Wars",
+      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
+      "published_at": "2026-02-12T22:35:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2MtgIoToa7I/hqdefault.jpg",
+      "duration": "PT1M31S",
+      "duration_seconds": 91,
+      "view_count": 203347,
+      "like_count": 15178,
+      "comment_count": 1506,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=2MtgIoToa7I"
     },
     {
       "video_id": "NGwUUYERExQ",
@@ -140,9 +216,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NGwUUYERExQ/hqdefault.jpg",
       "duration": "PT13M58S",
       "duration_seconds": 838,
-      "view_count": 653337,
-      "like_count": 33501,
-      "comment_count": 5131,
+      "view_count": 794949,
+      "like_count": 38000,
+      "comment_count": 5563,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -157,96 +233,6 @@
         "blade ball"
       ],
       "url": "https://www.youtube.com/watch?v=NGwUUYERExQ"
-    },
-    {
-      "video_id": "fXVy4mALHLY",
-      "title": "Resident Evil Requiem - 4th Trailer",
-      "description": "Requiem for the dead. Nightmare for the living.\n\nResident Evil Requiem is now available for pre-order! Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.\n \nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch 2, Steam, Epic Games Store and GeForce NOW.\n\nPre-order: https://www.residentevil.com/requiem/en-us/products\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games \nhttp://www.facebook.com/residentevil \nhttps://www.instagram.com/re_games",
-      "channel_title": "Resident Evil",
-      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
-      "published_at": "2026-02-12T22:18:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fXVy4mALHLY/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 206995,
-      "like_count": 28954,
-      "comment_count": 2591,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fXVy4mALHLY"
-    },
-    {
-      "video_id": "RrCLDfB6t1c",
-      "title": "STATE OF PLAY LIVE...GET IN HERE 🔴Full Stream🔴 (2-12)",
-      "description": "Check out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-02-13T01:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RrCLDfB6t1c/hqdefault.jpg",
-      "duration": "PT3H47S",
-      "duration_seconds": 10847,
-      "view_count": 309378,
-      "like_count": 9033,
-      "comment_count": 108,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=RrCLDfB6t1c"
-    },
-    {
-      "video_id": "2MtgIoToa7I",
-      "title": "Star Wars: Galactic Racer™ - Official Gameplay Trailer",
-      "description": "Star Wars: Galactic Racer™ is a high-stakes, high-octane reinvention of racing born in the lawless Outer Rim of the Star Wars™ galaxy. Coming to PlayStation 5, Xbox Series X|S, and PC in 2026.\n \nA new racer has arrived to the Galactic League: an unsanctioned racing circuit where only the bold survive.\n \nFor Shade, a lone racer with a dream of glory and revenge, the League isn't just a race; it's a shot at reclaiming destiny.\n \nWishlist today!\n \nVisit the official website and follow for updates on social media:\n \nOfficial Site - [URL https://starwarsgalacticracer.com/]\nInstagram - [handle @starwarsgalacticracer]\nX - [handle https://x.com/SWGalacticRacer]\nTikTok - [handle @starwarsgalacticracer]\nFacebook - [handle https://www.facebook.com/SWGalacticRacer]\n \n#StarWars #StarWarsGalacticRacer #racinggame #pcgaming #playstation #xbox #gaming\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Di",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-02-12T22:35:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2MtgIoToa7I/hqdefault.jpg",
-      "duration": "PT1M31S",
-      "duration_seconds": 91,
-      "view_count": 129650,
-      "like_count": 12350,
-      "comment_count": 1240,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=2MtgIoToa7I"
-    },
-    {
-      "video_id": "xDypUdR_8d0",
-      "title": "4 Minecraft Pros VS 2500 Players",
-      "description": "On the Unstable SMP, I assembled the best team of players to fight back against the LAW and my greatest enemy, Leo! This is how I Fought a War with Parrot, FlameFrags, and Wemmbu…\n\n4 Minecraft Pros VS 2500 Players\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @ParrotX2 @wemmbumc @FlameFragsMC @Leowook @jumperwho @MapiccMc @PrinceZam @minutetechmc @LettuceK eggchan @TheobaldTheBird @JadenMAN @PurpledMC @fymada @HoraceMinecraft @Lomedy \n\nmusic: \nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Uns",
-      "channel_title": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "published_at": "2026-02-12T14:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xDypUdR_8d0/hqdefault.jpg",
-      "duration": "PT1H56M40S",
-      "duration_seconds": 7000,
-      "view_count": 1472001,
-      "like_count": 83534,
-      "comment_count": 12005,
-      "category_id": "20",
-      "tags": [
-        "spoke",
-        "spokeishere",
-        "lifesteal",
-        "minecraft",
-        "survival",
-        "wormhole",
-        "unstable",
-        "unstable universe",
-        "wemmbu",
-        "parrotx2"
-      ],
-      "url": "https://www.youtube.com/watch?v=xDypUdR_8d0"
     }
   ],
   "videos_with_transcripts": [],
@@ -261,9 +247,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgMbkitzhEM/hqdefault.jpg",
       "duration": "PT1M51S",
       "duration_seconds": 111,
-      "view_count": 2302977,
-      "like_count": 157875,
-      "comment_count": 8607,
+      "view_count": 2497971,
+      "like_count": 165354,
+      "comment_count": 7839,
       "category_id": "24",
       "tags": [
         "spider noir official teaser",
@@ -280,34 +266,6 @@
       "url": "https://www.youtube.com/watch?v=HgMbkitzhEM"
     },
     {
-      "video_id": "P0e5YEXtZu0",
-      "title": "State of Play | February 12, 2026 [English]",
-      "description": "Tune in live this Thursday for 60+ minutes of news, gameplay updates, and announcements from game studios across the globe. February's State of Play will spotlight eye-catching third-party and indie games headed to PS5, along with the latest from teams at PlayStation Studios.\n\nState of Play broadcasts live February 12 at 2pm PT / 5pm ET / 11pm CEST | February 13 at 7am JST on YouTube and Twitch, and will be broadcast in English with Japanese subtitles also available. We’ll see you then!\n\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e.g. licensed music) that PlayStation does not control. We welcome and celebrate our amazing co-streamers and creators, but licensing agreements outside our control could interfere with co-streams or VOD archives of this broadcast. If you’re planning to save this broadcast as a VOD to create recap videos, or to repost clips or segments from the show, we advise omitting any copyrighted musi",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-02-12T23:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P0e5YEXtZu0/hqdefault.jpg",
-      "duration": "PT1H12M31S",
-      "duration_seconds": 4351,
-      "view_count": 2634581,
-      "like_count": 89657,
-      "comment_count": 1816,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "Sony",
-        "Kena Scars of Kosmora",
-        "Yotei Legends",
-        "DS2 OTB PC",
-        "4 Loop",
-        "Pragmata",
-        "RE Requiem",
-        "Legacy of Kain Defiance Remastered"
-      ],
-      "url": "https://www.youtube.com/watch?v=P0e5YEXtZu0"
-    },
-    {
       "video_id": "kbyUZhheUSQ",
       "title": "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
       "description": "Keanu Reeves is back as John Wick, but this time in a currently untitled game from Saber, Lionsgate, and franchise director Chad Stahelski. The story will be an original script set in the John Wick timeline, and it will expand on the lore with familiar characters and brand-new ones. Get ready for \"a distinct gun fu combat system, jaw-dropping camerawork, immersive driving experiences, and a variety of memorable environments.\" \n\n#ign #Gaming #PlayStation",
@@ -317,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kbyUZhheUSQ/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 289278,
-      "like_count": 24872,
-      "comment_count": 1704,
+      "view_count": 511025,
+      "like_count": 35475,
+      "comment_count": 2308,
       "category_id": "20",
       "tags": [
         "ign",
@@ -336,6 +294,34 @@
       "url": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
     },
     {
+      "video_id": "bGdFBim7nYY",
+      "title": "State of Play | February 12, 2026 [English Subtitles]",
+      "description": "Tune in live this Thursday for 60+ minutes of news, gameplay updates, and announcements from game studios across the globe. February's State of Play will spotlight eye-catching third-party and indie games headed to PS5, along with the latest from teams at PlayStation Studios.\n\nState of Play broadcasts live February 12 at 2pm PT / 5pm ET / 11pm CEST | February 13 at 7am JST on YouTube and Twitch, and will be broadcast in English with Japanese subtitles also available. We’ll see you then!\n\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e.g. licensed music) that PlayStation does not control. We welcome and celebrate our amazing co-streamers and creators, but licensing agreements outside our control could interfere with co-streams or VOD archives of this broadcast. If you’re planning to save this broadcast as a VOD to create recap videos, or to repost clips or segments from the show, we advise omitting any copyrighted musi",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-02-12T23:22:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bGdFBim7nYY/hqdefault.jpg",
+      "duration": "PT1H12M45S",
+      "duration_seconds": 4365,
+      "view_count": 773352,
+      "like_count": 28985,
+      "comment_count": 1077,
+      "category_id": "20",
+      "tags": [
+        "PlayStation",
+        "PS5",
+        "Sony",
+        "Kena Scars of Kosmora",
+        "Yotei Legends",
+        "DS2 OTB PC",
+        "4 Loop",
+        "Pragmata",
+        "RE Requiem",
+        "Legacy of Kain Defiance Remastered"
+      ],
+      "url": "https://www.youtube.com/watch?v=bGdFBim7nYY"
+    },
+    {
       "video_id": "EriEensiy0I",
       "title": "Poppy Playtime: Chapter 5 - Official Game Trailer",
       "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nWishlist Poppy Playtime: Chapter 5 on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://huggywug.co/4dhWNFb\nNintendo Switch: https://huggywug.co",
@@ -345,12 +331,71 @@
       "thumbnail_url": "https://i.ytimg.com/vi/EriEensiy0I/hqdefault.jpg",
       "duration": "PT2M33S",
       "duration_seconds": 153,
-      "view_count": 5611488,
-      "like_count": 426486,
-      "comment_count": 41637,
+      "view_count": 5745919,
+      "like_count": 430613,
+      "comment_count": 41908,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=EriEensiy0I"
+    },
+    {
+      "video_id": "fXVy4mALHLY",
+      "title": "Resident Evil Requiem - 4th Trailer",
+      "description": "Requiem for the dead. Nightmare for the living.\n\nResident Evil Requiem is now available for pre-order! Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.\n \nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch 2, Steam, Epic Games Store and GeForce NOW.\n\nPre-order: https://www.residentevil.com/requiem/en-us/products\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games \nhttp://www.facebook.com/residentevil \nhttps://www.instagram.com/re_games",
+      "channel_title": "Resident Evil",
+      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
+      "published_at": "2026-02-12T22:18:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fXVy4mALHLY/hqdefault.jpg",
+      "duration": "PT2M19S",
+      "duration_seconds": 139,
+      "view_count": 302631,
+      "like_count": 35830,
+      "comment_count": 3115,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=fXVy4mALHLY"
+    },
+    {
+      "video_id": "l-Dql2_zbbM",
+      "title": "I Hired A Rocket League PRO to SECRETLY Troll Streamers",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nI Hired A Rocket League PRO to SECRETLY Troll Streamers\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-12T23:14:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l-Dql2_zbbM/hqdefault.jpg",
+      "duration": "PT40M55S",
+      "duration_seconds": 2455,
+      "view_count": 316245,
+      "like_count": 13100,
+      "comment_count": 1060,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "I Hired A Rocket League PRO to SECRETLY Troll Streamers",
+        "jynxzi rocket league",
+        "jynxzi rocket league musty cow",
+        "musty cow"
+      ],
+      "url": "https://www.youtube.com/watch?v=l-Dql2_zbbM"
+    },
+    {
+      "video_id": "2MtgIoToa7I",
+      "title": "Star Wars: Galactic Racer™ - Official Gameplay Trailer",
+      "description": "Star Wars: Galactic Racer™ is a high-stakes, high-octane reinvention of racing born in the lawless Outer Rim of the Star Wars™ galaxy. Coming to PlayStation 5, Xbox Series X|S, and PC in 2026.\n \nA new racer has arrived to the Galactic League: an unsanctioned racing circuit where only the bold survive.\n \nFor Shade, a lone racer with a dream of glory and revenge, the League isn't just a race; it's a shot at reclaiming destiny.\n \nWishlist today!\n \nVisit the official website and follow for updates on social media:\n \nOfficial Site - [URL https://starwarsgalacticracer.com/]\nInstagram - [handle @starwarsgalacticracer]\nX - [handle https://x.com/SWGalacticRacer]\nTikTok - [handle @starwarsgalacticracer]\nFacebook - [handle https://www.facebook.com/SWGalacticRacer]\n \n#StarWars #StarWarsGalacticRacer #racinggame #pcgaming #playstation #xbox #gaming\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Di",
+      "channel_title": "Star Wars",
+      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
+      "published_at": "2026-02-12T22:35:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2MtgIoToa7I/hqdefault.jpg",
+      "duration": "PT1M31S",
+      "duration_seconds": 91,
+      "view_count": 203347,
+      "like_count": 15178,
+      "comment_count": 1506,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=2MtgIoToa7I"
     },
     {
       "video_id": "NGwUUYERExQ",
@@ -362,9 +407,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NGwUUYERExQ/hqdefault.jpg",
       "duration": "PT13M58S",
       "duration_seconds": 838,
-      "view_count": 653337,
-      "like_count": 33501,
-      "comment_count": 5131,
+      "view_count": 794949,
+      "like_count": 38000,
+      "comment_count": 5563,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -379,96 +424,6 @@
         "blade ball"
       ],
       "url": "https://www.youtube.com/watch?v=NGwUUYERExQ"
-    },
-    {
-      "video_id": "fXVy4mALHLY",
-      "title": "Resident Evil Requiem - 4th Trailer",
-      "description": "Requiem for the dead. Nightmare for the living.\n\nResident Evil Requiem is now available for pre-order! Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.\n \nA new era of survival horror begins when Resident Evil Requiem launches February 27, 2026 for PlayStation®5, Xbox Series X|S, Nintendo Switch 2, Steam, Epic Games Store and GeForce NOW.\n\nPre-order: https://www.residentevil.com/requiem/en-us/products\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games \nhttp://www.facebook.com/residentevil \nhttps://www.instagram.com/re_games",
-      "channel_title": "Resident Evil",
-      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
-      "published_at": "2026-02-12T22:18:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fXVy4mALHLY/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 206995,
-      "like_count": 28954,
-      "comment_count": 2591,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fXVy4mALHLY"
-    },
-    {
-      "video_id": "RrCLDfB6t1c",
-      "title": "STATE OF PLAY LIVE...GET IN HERE 🔴Full Stream🔴 (2-12)",
-      "description": "Check out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-02-13T01:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RrCLDfB6t1c/hqdefault.jpg",
-      "duration": "PT3H47S",
-      "duration_seconds": 10847,
-      "view_count": 309378,
-      "like_count": 9033,
-      "comment_count": 108,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=RrCLDfB6t1c"
-    },
-    {
-      "video_id": "2MtgIoToa7I",
-      "title": "Star Wars: Galactic Racer™ - Official Gameplay Trailer",
-      "description": "Star Wars: Galactic Racer™ is a high-stakes, high-octane reinvention of racing born in the lawless Outer Rim of the Star Wars™ galaxy. Coming to PlayStation 5, Xbox Series X|S, and PC in 2026.\n \nA new racer has arrived to the Galactic League: an unsanctioned racing circuit where only the bold survive.\n \nFor Shade, a lone racer with a dream of glory and revenge, the League isn't just a race; it's a shot at reclaiming destiny.\n \nWishlist today!\n \nVisit the official website and follow for updates on social media:\n \nOfficial Site - [URL https://starwarsgalacticracer.com/]\nInstagram - [handle @starwarsgalacticracer]\nX - [handle https://x.com/SWGalacticRacer]\nTikTok - [handle @starwarsgalacticracer]\nFacebook - [handle https://www.facebook.com/SWGalacticRacer]\n \n#StarWars #StarWarsGalacticRacer #racinggame #pcgaming #playstation #xbox #gaming\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Di",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-02-12T22:35:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2MtgIoToa7I/hqdefault.jpg",
-      "duration": "PT1M31S",
-      "duration_seconds": 91,
-      "view_count": 129650,
-      "like_count": 12350,
-      "comment_count": 1240,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=2MtgIoToa7I"
-    },
-    {
-      "video_id": "xDypUdR_8d0",
-      "title": "4 Minecraft Pros VS 2500 Players",
-      "description": "On the Unstable SMP, I assembled the best team of players to fight back against the LAW and my greatest enemy, Leo! This is how I Fought a War with Parrot, FlameFrags, and Wemmbu…\n\n4 Minecraft Pros VS 2500 Players\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @ParrotX2 @wemmbumc @FlameFragsMC @Leowook @jumperwho @MapiccMc @PrinceZam @minutetechmc @LettuceK eggchan @TheobaldTheBird @JadenMAN @PurpledMC @fymada @HoraceMinecraft @Lomedy \n\nmusic: \nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Uns",
-      "channel_title": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "published_at": "2026-02-12T14:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xDypUdR_8d0/hqdefault.jpg",
-      "duration": "PT1H56M40S",
-      "duration_seconds": 7000,
-      "view_count": 1472001,
-      "like_count": 83534,
-      "comment_count": 12005,
-      "category_id": "20",
-      "tags": [
-        "spoke",
-        "spokeishere",
-        "lifesteal",
-        "minecraft",
-        "survival",
-        "wormhole",
-        "unstable",
-        "unstable universe",
-        "wemmbu",
-        "parrotx2"
-      ],
-      "url": "https://www.youtube.com/watch?v=xDypUdR_8d0"
     },
     {
       "video_id": "TTKGo_ijOCk",
@@ -486,109 +441,101 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
+    },
+    {
+      "video_id": "98qo7Tl4QsE",
+      "title": "We've Lost Dale Earnhardt: 25 Years Later",
+      "description": "In the 25 years since the death of Dale Earnhardt, much about NASCAR has changed... and much has stayed the same. Earnhardt's friends, competitors, and fans, as well as current drivers, reflect on the Intimidator's life, legacy, and lasting impact.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-01-30T00:49:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/98qo7Tl4QsE/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 13609685,
-        "averageViewsPerVideo": 1360968.5
-      },
-      "contentTrends": {
-        "categories": [
-          "Gaming",
-          "Movies/TV",
-          "Live Streaming",
-          "React Content"
-        ],
-        "dominantThemes": [
-          "Teaser Trailers",
-          "Gameplay Reveals",
-          "Live Streaming Events",
-          "Reaction Videos"
-        ],
-        "patternAnalysis": {
-          "trailers": {
-            "count": 6,
+      "content_trends": {
+        "genres": {
+          "entertainment": {
+            "description": "A significant portion of the trending videos belong to entertainment, focusing on film and gaming trailers.",
             "examples": [
-              "Spider-Noir – Authentic Black & White Teaser Trailer | Prime Video",
-              "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
-              "Poppy Playtime: Chapter 5 - Official Game Trailer",
-              "Resident Evil Requiem - 4th Trailer",
-              "Star Wars: Galactic Racer™ - Official Gameplay Trailer"
-            ]
-          },
-          "liveStreams": {
-            "count": 1,
-            "examples": [
-              "STATE OF PLAY LIVE...GET IN HERE 🔴Full Stream🔴 (2-12)"
+              "Spider-Noir",
+              "Untitled John Wick Game",
+              "Resident Evil Requiem"
             ]
           },
           "gaming": {
-            "count": 5,
+            "description": "Gaming content is prominently featured, with multiple trailers for upcoming games.",
             "examples": [
-              "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
-              "Poppy Playtime: Chapter 5 - Official Game Trailer",
-              "4 Minecraft Pros VS 2500 Players"
+              "Poppy Playtime: Chapter 5",
+              "Star Wars: Galactic Racer™"
+            ]
+          },
+          "nostalgia": {
+            "description": "Content leveraging nostalgia, such as commemorative videos and historical reflections, is also trending.",
+            "examples": [
+              "Remember the Titans",
+              "We've Lost Dale Earnhardt: 25 Years Later"
+            ]
+          }
+        },
+        "content_types": {
+          "trailers": {
+            "description": "Trailers, both film, and gaming, are a dominant content type, indicating strong audience interest in upcoming releases.",
+            "examples": [
+              "Spider-Noir",
+              "Untitled John Wick Game",
+              "Resident Evil Requiem"
+            ]
+          },
+          "reaction": {
+            "description": "Reaction videos are gaining traction, showcasing user engagement and interactive content.",
+            "examples": [
+              "Reacting To 'The Rise Of Foltyn'",
+              "I Hired A Rocket League PRO to SECRETLY Troll Streamers"
             ]
           }
         }
       },
-      "creatorPatterns": {
-        "topChannels": {
-          "Prime Video": {
-            "totalVideos": 1,
-            "categoryFocus": "Movies/TV",
-            "engagementStrategy": "Teaser Trailers"
-          },
-          "PlayStation": {
-            "totalVideos": 1,
-            "categoryFocus": "Gaming",
-            "engagementStrategy": "Live Streaming Events"
-          },
-          "IGN": {
-            "totalVideos": 1,
-            "categoryFocus": "Gaming",
-            "engagementStrategy": "Game Trailer Reveals"
-          }
-        }
-      },
-      "marketOpportunities": {
-        "expandingGenres": [
-          "Live Gaming Events",
-          "Interactive Movie Experiences"
-        ],
-        "untappedPotential": [
-          "Cross-genre Collaborations",
-          "Behind-the-Scenes Content"
-        ],
-        "engagementStrategies": {
-          "communityBuilding": "Leverage live streaming to foster real-time interactions.",
-          "cross-platform": "Utilize other social media platforms to drive traffic to YouTube."
-        }
-      },
-      "actionableInsights": {
-        "contentCreation": {
-          "focusOn": [
-            "High-quality teaser trailers for upcoming releases.",
-            "Interactive live streaming events to boost engagement."
-          ],
-          "diversifyInto": [
-            "Reaction and commentary videos to capitalize on trending topics."
+      "creator_patterns": {
+        "diverse_sources": {
+          "description": "Trending content comes from a variety of channels, indicating no single dominance in this sample.",
+          "top_channels": [
+            "Prime Video",
+            "AMC",
+            "IGN",
+            "PlayStation",
+            "Mob Entertainment"
           ]
         },
-        "channelGrowthStrategies": {
-          "collaborations": [
-            "Partner with gaming influencers for cross-promotions.",
-            "Engage with movie critics for early reviews and discussions."
-          ],
-          "audienceEngagement": [
-            "Conduct live Q&A sessions post-trailer releases.",
-            "Create episodic content that invites viewer participation."
-          ]
+        "cross-platform promotion": {
+          "description": "Channels, particularly in gaming and entertainment, are likely leveraging multi-platform strategies to promote their content."
         }
+      },
+      "market_opportunities": {
+        "engaging_trailer_content": {
+          "description": "Creating high-quality trailers and teasers can attract significant viewership, especially when tied to popular franchises or anticipated releases."
+        },
+        "nostalgia-driven_content": {
+          "description": "There is potential in creating content that taps into nostalgia, commemorating past events or popular media."
+        },
+        "interactive_content": {
+          "description": "Interactive and community-driven content, such as reaction videos or challenges, can enhance viewer engagement and broaden reach."
+        }
+      },
+      "data_summary": {
+        "total_videos": 10,
+        "total_views": 11145439,
+        "average_views_per_video": 1114543.9
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -596,7 +543,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1360968
+        "avg_views_per_video": 1114543
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
