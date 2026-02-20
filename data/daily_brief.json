@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-20T09:21:31.529960",
+  "timestamp": "2026-02-20T12:21:07.336740",
   "date": "2026-02-20",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 2244278,
-      "like_count": 93206,
-      "comment_count": 5613,
+      "view_count": 2395687,
+      "like_count": 96268,
+      "comment_count": 5725,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sB6w8oMeino/hqdefault.jpg",
       "duration": "PT4H43M11S",
       "duration_seconds": 16991,
-      "view_count": 694934,
-      "like_count": 39696,
-      "comment_count": 3441,
+      "view_count": 845336,
+      "like_count": 44712,
+      "comment_count": 3599,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 1843385,
-      "like_count": 71896,
-      "comment_count": 2807,
+      "view_count": 2079754,
+      "like_count": 78782,
+      "comment_count": 2979,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -97,6 +97,44 @@
       "url": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
     },
     {
+      "video_id": "9N0KrJkFAsc",
+      "title": "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-20T09:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
+      "duration": "PT7H18M34S",
+      "duration_seconds": 26314,
+      "view_count": 860562,
+      "like_count": 16739,
+      "comment_count": 66,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
+    },
+    {
+      "video_id": "PW22jwFNxU8",
+      "title": "Slay the Spire 2 - Early Access Trailer",
+      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
+      "channel_title": "Mega Crit",
+      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
+      "published_at": "2026-02-19T20:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 714710,
+      "like_count": 51742,
+      "comment_count": 3338,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
+    },
+    {
       "video_id": "8OGmnIru1-A",
       "title": "1v1 Me & I'll Guess Your Rank!",
       "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
@@ -106,9 +144,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
       "duration": "PT57M36S",
       "duration_seconds": 3456,
-      "view_count": 240833,
-      "like_count": 8109,
-      "comment_count": 528,
+      "view_count": 304388,
+      "like_count": 9739,
+      "comment_count": 557,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -122,48 +160,6 @@
       "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
     },
     {
-      "video_id": "PW22jwFNxU8",
-      "title": "Slay the Spire 2 - Early Access Trailer",
-      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
-      "channel_title": "Mega Crit",
-      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
-      "published_at": "2026-02-19T20:05:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 639066,
-      "like_count": 48838,
-      "comment_count": 3233,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
-    },
-    {
-      "video_id": "d-NtBVjvP6Y",
-      "title": "Sirius - The Untold Lore (Brawl Stars Animation)",
-      "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars,",
-      "channel_title": "Brawl Stars",
-      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
-      "published_at": "2026-02-19T08:12:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-NtBVjvP6Y/hqdefault.jpg",
-      "duration": "PT42S",
-      "duration_seconds": 42,
-      "view_count": 4448495,
-      "like_count": 149282,
-      "comment_count": 5093,
-      "category_id": "20",
-      "tags": [
-        "brawl stars",
-        "mobile game",
-        "mobile strategy game",
-        "mobile rpg",
-        "mobile battle royale",
-        "battle royale",
-        "supercell game"
-      ],
-      "url": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
-    },
-    {
       "video_id": "nDGEWgzcxJ4",
       "title": "PRESSURE Official Trailer (2026) Brendan Fraser",
       "description": "PRESSURE Official Trailer (2026) Brendan Fraser, Andrew Scott, Kerry Condon, Damian Lewis\n© 2026 - Focus Features",
@@ -173,9 +169,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nDGEWgzcxJ4/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 1007935,
-      "like_count": 24512,
-      "comment_count": 2668,
+      "view_count": 1183869,
+      "like_count": 28652,
+      "comment_count": 3038,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -192,23 +188,29 @@
       "url": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
     },
     {
-      "video_id": "-IFD6FcFv3Q",
-      "title": "REANIMAL IS ACTUAL CINEMA [Part 1/2]",
-      "description": "REANIMAL is out now on PC and consoles: https://thqn.net/4a58ShX\n\nTRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-19T20:03:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-IFD6FcFv3Q/hqdefault.jpg",
-      "duration": "PT2H4M15S",
-      "duration_seconds": 7455,
-      "view_count": 179469,
-      "like_count": 5842,
-      "comment_count": 337,
+      "video_id": "d-NtBVjvP6Y",
+      "title": "Sirius - The Untold Lore (Brawl Stars Animation)",
+      "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars,",
+      "channel_title": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "published_at": "2026-02-19T08:12:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d-NtBVjvP6Y/hqdefault.jpg",
+      "duration": "PT42S",
+      "duration_seconds": 42,
+      "view_count": 4589452,
+      "like_count": 151190,
+      "comment_count": 5138,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "brawl stars",
+        "mobile game",
+        "mobile strategy game",
+        "mobile rpg",
+        "mobile battle royale",
+        "battle royale",
+        "supercell game"
       ],
-      "url": "https://www.youtube.com/watch?v=-IFD6FcFv3Q"
+      "url": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
     },
     {
       "video_id": "zjlCyAibeWg",
@@ -220,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 1051383,
-      "like_count": 77919,
-      "comment_count": 2674,
+      "view_count": 1802362,
+      "like_count": 89702,
+      "comment_count": 2865,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -239,21 +241,23 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
-      "video_id": "57yo82Qc9KE",
-      "title": "#cbum",
-      "description": "🚨🔥 LIVE ROBLOX STREAM – INSANE BRAINROT CHAOS! 🔥🚨\n\nWe’re going ALL IN on Roblox today! 🎮\nSmashing Lucky Blocks, collecting BRAINROTS, and pulling off wild steals in Breaking Lucky Blocks for Brainrots mixed with Steal a Brainrot 💀🧠\n\nExpect:\n💥 Crazy Lucky Block drops\n🧠 Rare & cursed Brainrots\n😈 Steals, clutches, and betrayals\n😂 Funny moments & pure chaos\n🔥 LIVE reactions the whole time\n\nThis stream is FAST, LOUD, and UNHINGED — classic Roblox brainrot energy 😎\nIf you love Roblox live gameplay, Lucky Blocks, Steal a Brainrot, and funny Roblox streams, you’re in the right place!\n\n👇 DON’T FORGET 👇\n👍 Like the stream\n🔔 Subscribe for more Roblox chaos\n💬 Chat live & join the brysilix! squad \n#roblox #shorts #live",
-      "channel_title": "brysrilix!",
-      "channel_id": "UC9ccr9BXMImvrUmGaQ887Wg",
-      "published_at": "2026-02-19T22:52:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/57yo82Qc9KE/hqdefault.jpg",
-      "duration": "PT16S",
-      "duration_seconds": 16,
-      "view_count": 323739,
-      "like_count": 1413,
-      "comment_count": 6,
+      "video_id": "-IFD6FcFv3Q",
+      "title": "REANIMAL IS ACTUAL CINEMA [Part 1/2]",
+      "description": "REANIMAL is out now on PC and consoles: https://thqn.net/4a58ShX\n\nTRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-02-19T20:03:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-IFD6FcFv3Q/hqdefault.jpg",
+      "duration": "PT2H4M15S",
+      "duration_seconds": 7455,
+      "view_count": 223716,
+      "like_count": 6204,
+      "comment_count": 351,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=57yo82Qc9KE"
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=-IFD6FcFv3Q"
     }
   ],
   "videos_with_transcripts": [],
@@ -268,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 2244278,
-      "like_count": 93206,
-      "comment_count": 5613,
+      "view_count": 2395687,
+      "like_count": 96268,
+      "comment_count": 5725,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -296,9 +300,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sB6w8oMeino/hqdefault.jpg",
       "duration": "PT4H43M11S",
       "duration_seconds": 16991,
-      "view_count": 694934,
-      "like_count": 39696,
-      "comment_count": 3441,
+      "view_count": 845336,
+      "like_count": 44712,
+      "comment_count": 3599,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -324,9 +328,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 1843385,
-      "like_count": 71896,
-      "comment_count": 2807,
+      "view_count": 2079754,
+      "like_count": 78782,
+      "comment_count": 2979,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -343,6 +347,44 @@
       "url": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
     },
     {
+      "video_id": "9N0KrJkFAsc",
+      "title": "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-20T09:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
+      "duration": "PT7H18M34S",
+      "duration_seconds": 26314,
+      "view_count": 860562,
+      "like_count": 16739,
+      "comment_count": 66,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
+    },
+    {
+      "video_id": "PW22jwFNxU8",
+      "title": "Slay the Spire 2 - Early Access Trailer",
+      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
+      "channel_title": "Mega Crit",
+      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
+      "published_at": "2026-02-19T20:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 714710,
+      "like_count": 51742,
+      "comment_count": 3338,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
+    },
+    {
       "video_id": "8OGmnIru1-A",
       "title": "1v1 Me & I'll Guess Your Rank!",
       "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
@@ -352,9 +394,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
       "duration": "PT57M36S",
       "duration_seconds": 3456,
-      "view_count": 240833,
-      "like_count": 8109,
-      "comment_count": 528,
+      "view_count": 304388,
+      "like_count": 9739,
+      "comment_count": 557,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -368,23 +410,6 @@
       "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
     },
     {
-      "video_id": "PW22jwFNxU8",
-      "title": "Slay the Spire 2 - Early Access Trailer",
-      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
-      "channel_title": "Mega Crit",
-      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
-      "published_at": "2026-02-19T20:05:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 639066,
-      "like_count": 48838,
-      "comment_count": 3233,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
-    },
-    {
       "video_id": "nDGEWgzcxJ4",
       "title": "PRESSURE Official Trailer (2026) Brendan Fraser",
       "description": "PRESSURE Official Trailer (2026) Brendan Fraser, Andrew Scott, Kerry Condon, Damian Lewis\n© 2026 - Focus Features",
@@ -394,9 +419,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nDGEWgzcxJ4/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 1007935,
-      "like_count": 24512,
-      "comment_count": 2668,
+      "view_count": 1183869,
+      "like_count": 28652,
+      "comment_count": 3038,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -413,25 +438,6 @@
       "url": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
     },
     {
-      "video_id": "-IFD6FcFv3Q",
-      "title": "REANIMAL IS ACTUAL CINEMA [Part 1/2]",
-      "description": "REANIMAL is out now on PC and consoles: https://thqn.net/4a58ShX\n\nTRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-19T20:03:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-IFD6FcFv3Q/hqdefault.jpg",
-      "duration": "PT2H4M15S",
-      "duration_seconds": 7455,
-      "view_count": 179469,
-      "like_count": 5842,
-      "comment_count": 337,
-      "category_id": "20",
-      "tags": [
-        "joebartolozzi"
-      ],
-      "url": "https://www.youtube.com/watch?v=-IFD6FcFv3Q"
-    },
-    {
       "video_id": "zjlCyAibeWg",
       "title": "Toxic Official Telugu Teaser | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
       "description": "It’s Gonna Get Crazyyyy !!!\n\nToxic - A Fairy Tale for Grown-Ups in cinemas worldwide on 19-03-2026 in Kannada, Hindi, Telugu, Tamil, Malayalam and English\n\n#ToxicTheMovie #Toxic #ToxicTeaser\n#DaddyIsHome #ToxicTheMovie \n\nCAST: Yash, Kiara Advani, Nayanthara, Huma Qureshi, Tara Sutaria and Rukmini Vasanth\n \nCREW:\nDirector of Photography: Rajeev Ravi\nMusic: Ravi Basrur\nProduction Designer: T. P. Abid\nEditor: Ujwal Kulkarni\nSound Designer: Kunal Sharma\nAssociate Producers: Sandeep Sadashiva, Prashant Dileep Hardikar\nAction Directors: J. J. Perry, Anbariv, Kecha Khamphakdee, Amrit Singh\nArt Director (Bengaluru): Mohan B. Kere\nArt Director: Sandeep G. Sharma\nExecutive Producer: M. K. Subramanya\nKannada Dialogues: Raaghav Vinay\nDirectors of Choreography: Ganesh Acharya, Imran Sardhariya, A. Harsha\nFirst Assistant Director: Rao Suhaib Khan\nScript Supervisor: Doyel Hargunaney\nLine Producer: Akshay Mavle\nCostume Designers: Neha R. Bajaj, Saniya Sardhariya (Yash)\nHair Designer: Darshan Yewalekar",
@@ -441,9 +447,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 1051383,
-      "like_count": 77919,
-      "comment_count": 2674,
+      "view_count": 1802362,
+      "like_count": 89702,
+      "comment_count": 2865,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -460,6 +466,25 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
+      "video_id": "-IFD6FcFv3Q",
+      "title": "REANIMAL IS ACTUAL CINEMA [Part 1/2]",
+      "description": "REANIMAL is out now on PC and consoles: https://thqn.net/4a58ShX\n\nTRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-02-19T20:03:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-IFD6FcFv3Q/hqdefault.jpg",
+      "duration": "PT2H4M15S",
+      "duration_seconds": 7455,
+      "view_count": 223716,
+      "like_count": 6204,
+      "comment_count": 351,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=-IFD6FcFv3Q"
+    },
+    {
       "video_id": "d-NtBVjvP6Y",
       "title": "Sirius - The Untold Lore (Brawl Stars Animation)",
       "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars,",
@@ -469,9 +494,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/d-NtBVjvP6Y/hqdefault.jpg",
       "duration": "PT42S",
       "duration_seconds": 42,
-      "view_count": 4448495,
-      "like_count": 149282,
-      "comment_count": 5093,
+      "view_count": 4589452,
+      "like_count": 151190,
+      "comment_count": 5138,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -483,98 +508,57 @@
         "supercell game"
       ],
       "url": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
-    },
-    {
-      "video_id": "57yo82Qc9KE",
-      "title": "#cbum",
-      "description": "🚨🔥 LIVE ROBLOX STREAM – INSANE BRAINROT CHAOS! 🔥🚨\n\nWe’re going ALL IN on Roblox today! 🎮\nSmashing Lucky Blocks, collecting BRAINROTS, and pulling off wild steals in Breaking Lucky Blocks for Brainrots mixed with Steal a Brainrot 💀🧠\n\nExpect:\n💥 Crazy Lucky Block drops\n🧠 Rare & cursed Brainrots\n😈 Steals, clutches, and betrayals\n😂 Funny moments & pure chaos\n🔥 LIVE reactions the whole time\n\nThis stream is FAST, LOUD, and UNHINGED — classic Roblox brainrot energy 😎\nIf you love Roblox live gameplay, Lucky Blocks, Steal a Brainrot, and funny Roblox streams, you’re in the right place!\n\n👇 DON’T FORGET 👇\n👍 Like the stream\n🔔 Subscribe for more Roblox chaos\n💬 Chat live & join the brysilix! squad \n#roblox #shorts #live",
-      "channel_title": "brysrilix!",
-      "channel_id": "UC9ccr9BXMImvrUmGaQ887Wg",
-      "published_at": "2026-02-19T22:52:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/57yo82Qc9KE/hqdefault.jpg",
-      "duration": "PT16S",
-      "duration_seconds": 16,
-      "view_count": 323739,
-      "like_count": 1413,
-      "comment_count": 6,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=57yo82Qc9KE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 12673517,
-        "average_views_per_video": 1267351.7,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "popular_themes": [
-          "Entertainment",
-          "Gaming",
-          "Trailers",
-          "Animation"
-        ],
-        "video_type_distribution": {
-          "trailers": 4,
-          "gaming": 2,
-          "animation": 1,
-          "cinematic/creative": 1,
-          "user-generated": 2
-        },
-        "notable_series_and_games": [
-          "House of the Dragon",
-          "Poppy Playtime",
-          "Peaky Blinders",
-          "Slay the Spire",
-          "Brawl Stars"
-        ],
-        "language_and_region_focus": [
-          "English",
-          "Telugu"
-        ]
-      },
-      "creator_patterns": {
-        "top_channels": [
-          "HBO Max",
-          "Netflix",
-          "Mega Crit"
-        ],
-        "channel_diversity": 5,
-        "single_video_channels": 5
-      },
-      "market_opportunities": {
-        "emerging_themes": [
-          "Interactive Gaming Content",
-          "Cinematic Trailers",
-          "Cultural and Regional Content"
-        ],
-        "potential_collaborations": [
-          {
-            "with": "HBO Max",
-            "to_explore": "Fantasy Series Content"
-          },
-          {
-            "with": "Mega Crit",
-            "to_explore": "Game Development Insights"
-          },
-          {
-            "with": "Netflix",
-            "to_explore": "Historical Drama Promotion"
-          }
-        ],
-        "audience_engagement_strategies": [
-          "Leverage nostalgia and fan-driven content",
-          "Expand content in regional languages like Telugu",
-          "Develop interactive content formats for gaming"
-        ]
-      },
       "insights": {
-        "short_video_trend": "User-generated content such as '#cbum' suggests a potential trend in short, engaging video formats.",
-        "regional_content_opportunity": "The presence of Telugu content indicates a growing market for regional cinema trailers."
+        "view_statistics": {
+          "average_views_per_video": 1499983.6,
+          "total_views": 14999836,
+          "observation": "The high average views per video suggest that the content is highly engaging or that the channels have a strong subscriber base."
+        },
+        "content_trends": {
+          "popular_genres": [
+            "Television Series",
+            "Video Games",
+            "Movies",
+            "Live Streams",
+            "Animations"
+          ],
+          "observation": "There is a diverse range of content types with a focus on popular entertainment mediums like series, movies, and gaming."
+        },
+        "creator_patterns": {
+          "leading_channels": [
+            "HBO Max",
+            "Netflix"
+          ],
+          "observation": "Major streaming platforms like HBO Max and Netflix continue to dominate trending lists with highly anticipated series and trailers."
+        },
+        "market_opportunities": {
+          "opportunity_1": {
+            "category": "Video Games",
+            "insight": "With titles like 'POPPY PLAYTIME CHAPTER 5' and 'Slay the Spire 2' trending, there is a significant interest in game-related content, especially new releases and updates."
+          },
+          "opportunity_2": {
+            "category": "Live Streaming",
+            "insight": "The presence of a live stream titled 'NUT RAIDERS w/ HutchMF & Nickmercs' indicates a strong engagement with live interactive content, suggesting potential for growth in live streaming collaborations."
+          },
+          "opportunity_3": {
+            "category": "Regional Content",
+            "insight": "The inclusion of 'Toxic Official Telugu Teaser' shows a demand for regional language teasers, hinting at untapped markets in non-English speaking regions."
+          }
+        },
+        "recommendations": {
+          "content_strategy": {
+            "diversification": "Encourage channels to diversify their content offerings by exploring trending genres such as gaming and live streaming.",
+            "regional_focus": "Consider expanding content in regional languages to capture emerging markets with high engagement potential."
+          },
+          "collaboration_opportunity": {
+            "streaming_platforms": "Partner with major streaming platforms to co-create content that leverages the hype of upcoming series and movies like 'House of the Dragon' and 'Peaky Blinders'."
+          }
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -582,7 +566,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1267351
+        "avg_views_per_video": 1499983
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
