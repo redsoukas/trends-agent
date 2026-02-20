@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-20T18:21:36.636576",
+  "timestamp": "2026-02-20T21:10:23.821622",
   "date": "2026-02-20",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 2684344,
-      "like_count": 104005,
-      "comment_count": 6054,
+      "view_count": 2844230,
+      "like_count": 107652,
+      "comment_count": 6177,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sB6w8oMeino/hqdefault.jpg",
       "duration": "PT4H43M11S",
       "duration_seconds": 16991,
-      "view_count": 1128664,
-      "like_count": 56411,
-      "comment_count": 4178,
+      "view_count": 1266607,
+      "like_count": 60801,
+      "comment_count": 4334,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 2666744,
-      "like_count": 97459,
-      "comment_count": 3598,
+      "view_count": 3014764,
+      "like_count": 106923,
+      "comment_count": 3912,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -106,9 +106,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
       "duration": "PT7H18M34S",
       "duration_seconds": 26314,
-      "view_count": 913446,
-      "like_count": 17565,
-      "comment_count": 179,
+      "view_count": 934357,
+      "like_count": 17758,
+      "comment_count": 204,
       "category_id": "20",
       "tags": [
         "funny",
@@ -116,23 +116,6 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
-    },
-    {
-      "video_id": "PW22jwFNxU8",
-      "title": "Slay the Spire 2 - Early Access Trailer",
-      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
-      "channel_title": "Mega Crit",
-      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
-      "published_at": "2026-02-19T20:05:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 818626,
-      "like_count": 56653,
-      "comment_count": 3601,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
     },
     {
       "video_id": "k8c_C4vfUMo",
@@ -144,9 +127,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k8c_C4vfUMo/hqdefault.jpg",
       "duration": "PT1M35S",
       "duration_seconds": 95,
-      "view_count": 411659,
-      "like_count": 24023,
-      "comment_count": 4854,
+      "view_count": 476123,
+      "like_count": 25431,
+      "comment_count": 5179,
       "category_id": "20",
       "tags": [
         "#PokemonFireRed",
@@ -155,6 +138,48 @@
         "#PokemonDay"
       ],
       "url": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
+    },
+    {
+      "video_id": "PW22jwFNxU8",
+      "title": "Slay the Spire 2 - Early Access Trailer",
+      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
+      "channel_title": "Mega Crit",
+      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
+      "published_at": "2026-02-19T20:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 860807,
+      "like_count": 58742,
+      "comment_count": 3642,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
+    },
+    {
+      "video_id": "8OGmnIru1-A",
+      "title": "1v1 Me & I'll Guess Your Rank!",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-20T02:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
+      "duration": "PT57M36S",
+      "duration_seconds": 3456,
+      "view_count": 497784,
+      "like_count": 15019,
+      "comment_count": 708,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziR6",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "1v1 Me & I'll Guess Your Rank!",
+        "rainbow six siege",
+        "jynxzi rainbow six siege"
+      ],
+      "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
     },
     {
       "video_id": "zjlCyAibeWg",
@@ -166,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 4378673,
-      "like_count": 111603,
-      "comment_count": 3156,
+      "view_count": 5313128,
+      "like_count": 113561,
+      "comment_count": 3187,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -185,82 +210,32 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
-      "video_id": "8OGmnIru1-A",
-      "title": "1v1 Me & I'll Guess Your Rank!",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-20T02:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
-      "duration": "PT57M36S",
-      "duration_seconds": 3456,
-      "view_count": 430050,
-      "like_count": 13604,
-      "comment_count": 697,
+      "video_id": "eaQfR_tIbcI",
+      "title": "FireRed & LeafGreen on Switch - What You Need to Know",
+      "description": "Pokémon FireRed and LeafGreen are coming to Nintendo Switch! These classic remakes of Pokémon Red and Pokémon Green will be available to download from Nintendo eShop after the conclusion of the Pokémon Presents beginning Friday, February 27, 2026, at 6:00 a.m. PST.\n\nOfficial Playlist of the Pokemon Legends Z-A Mega Dimension DLC: https://www.youtube.com/playlist?list=PLwGyU0mZTYHVUGQKp5KUz-z8YVbNhfa6s\n\n▶ Subscribe: ​https://www.youtube.com/austinjohnplays?sub_confirmation=1​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin Jo",
+      "channel_title": "Austin John Plays",
+      "channel_id": "UCIIPl-DSCC0prKxGGnJrdGQ",
+      "published_at": "2026-02-20T13:56:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eaQfR_tIbcI/hqdefault.jpg",
+      "duration": "PT7M37S",
+      "duration_seconds": 457,
+      "view_count": 180207,
+      "like_count": 11230,
+      "comment_count": 1848,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "1v1 Me & I'll Guess Your Rank!",
-        "rainbow six siege",
-        "jynxzi rainbow six siege"
+        "austin john plays",
+        "austin john plays youtube",
+        "youtube austin john plays",
+        "nintendo",
+        "zelda",
+        "pokemon",
+        "pokemon presents 2026",
+        "pokemon presents",
+        "pokemon direct",
+        "pokemon pokemon 30 news"
       ],
-      "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
-    },
-    {
-      "video_id": "nDGEWgzcxJ4",
-      "title": "PRESSURE Official Trailer (2026) Brendan Fraser",
-      "description": "PRESSURE Official Trailer (2026) Brendan Fraser, Andrew Scott, Kerry Condon, Damian Lewis\n© 2026 - Focus Features",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-02-19T16:08:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nDGEWgzcxJ4/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1616551,
-      "like_count": 38874,
-      "comment_count": 4264,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Pressure",
-        "Pressure Trailer",
-        "Brendan Fraser",
-        "Andrew Scott",
-        "Kerry Condon"
-      ],
-      "url": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
-    },
-    {
-      "video_id": "d-NtBVjvP6Y",
-      "title": "Sirius - The Untold Lore (Brawl Stars Animation)",
-      "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars,",
-      "channel_title": "Brawl Stars",
-      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
-      "published_at": "2026-02-19T08:12:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-NtBVjvP6Y/hqdefault.jpg",
-      "duration": "PT42S",
-      "duration_seconds": 42,
-      "view_count": 5237901,
-      "like_count": 157192,
-      "comment_count": 5281,
-      "category_id": "20",
-      "tags": [
-        "brawl stars",
-        "mobile game",
-        "mobile strategy game",
-        "mobile rpg",
-        "mobile battle royale",
-        "battle royale",
-        "supercell game"
-      ],
-      "url": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
+      "url": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
     }
   ],
   "videos_with_transcripts": [],
@@ -275,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 2684344,
-      "like_count": 104005,
-      "comment_count": 6054,
+      "view_count": 2844230,
+      "like_count": 107652,
+      "comment_count": 6177,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -303,9 +278,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sB6w8oMeino/hqdefault.jpg",
       "duration": "PT4H43M11S",
       "duration_seconds": 16991,
-      "view_count": 1128664,
-      "like_count": 56411,
-      "comment_count": 4178,
+      "view_count": 1266607,
+      "like_count": 60801,
+      "comment_count": 4334,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -331,9 +306,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 2666744,
-      "like_count": 97459,
-      "comment_count": 3598,
+      "view_count": 3014764,
+      "like_count": 106923,
+      "comment_count": 3912,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -359,9 +334,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
       "duration": "PT7H18M34S",
       "duration_seconds": 26314,
-      "view_count": 913446,
-      "like_count": 17565,
-      "comment_count": 179,
+      "view_count": 934357,
+      "like_count": 17758,
+      "comment_count": 204,
       "category_id": "20",
       "tags": [
         "funny",
@@ -369,23 +344,6 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
-    },
-    {
-      "video_id": "PW22jwFNxU8",
-      "title": "Slay the Spire 2 - Early Access Trailer",
-      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
-      "channel_title": "Mega Crit",
-      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
-      "published_at": "2026-02-19T20:05:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 818626,
-      "like_count": 56653,
-      "comment_count": 3601,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
     },
     {
       "video_id": "k8c_C4vfUMo",
@@ -397,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k8c_C4vfUMo/hqdefault.jpg",
       "duration": "PT1M35S",
       "duration_seconds": 95,
-      "view_count": 411659,
-      "like_count": 24023,
-      "comment_count": 4854,
+      "view_count": 476123,
+      "like_count": 25431,
+      "comment_count": 5179,
       "category_id": "20",
       "tags": [
         "#PokemonFireRed",
@@ -408,6 +366,48 @@
         "#PokemonDay"
       ],
       "url": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
+    },
+    {
+      "video_id": "PW22jwFNxU8",
+      "title": "Slay the Spire 2 - Early Access Trailer",
+      "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
+      "channel_title": "Mega Crit",
+      "channel_id": "UCEFMIvLMz1cwKhB9GD_hAWw",
+      "published_at": "2026-02-19T20:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 860807,
+      "like_count": 58742,
+      "comment_count": 3642,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
+    },
+    {
+      "video_id": "8OGmnIru1-A",
+      "title": "1v1 Me & I'll Guess Your Rank!",
+      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
+      "channel_title": "Jynxzi",
+      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
+      "published_at": "2026-02-20T02:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
+      "duration": "PT57M36S",
+      "duration_seconds": 3456,
+      "view_count": 497784,
+      "like_count": 15019,
+      "comment_count": 708,
+      "category_id": "20",
+      "tags": [
+        "Jynxzi",
+        "JynxziR6",
+        "JynxziLive",
+        "Jynxzi Stream",
+        "1v1 Me & I'll Guess Your Rank!",
+        "rainbow six siege",
+        "jynxzi rainbow six siege"
+      ],
+      "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
     },
     {
       "video_id": "zjlCyAibeWg",
@@ -419,9 +419,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 4378673,
-      "like_count": 111603,
-      "comment_count": 3156,
+      "view_count": 5313128,
+      "like_count": 113561,
+      "comment_count": 3187,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -438,171 +438,127 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
-      "video_id": "8OGmnIru1-A",
-      "title": "1v1 Me & I'll Guess Your Rank!",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\n1v1 Me & I'll Guess Your Rank!\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-02-20T02:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8OGmnIru1-A/hqdefault.jpg",
-      "duration": "PT57M36S",
-      "duration_seconds": 3456,
-      "view_count": 430050,
-      "like_count": 13604,
-      "comment_count": 697,
+      "video_id": "eaQfR_tIbcI",
+      "title": "FireRed & LeafGreen on Switch - What You Need to Know",
+      "description": "Pokémon FireRed and LeafGreen are coming to Nintendo Switch! These classic remakes of Pokémon Red and Pokémon Green will be available to download from Nintendo eShop after the conclusion of the Pokémon Presents beginning Friday, February 27, 2026, at 6:00 a.m. PST.\n\nOfficial Playlist of the Pokemon Legends Z-A Mega Dimension DLC: https://www.youtube.com/playlist?list=PLwGyU0mZTYHVUGQKp5KUz-z8YVbNhfa6s\n\n▶ Subscribe: ​https://www.youtube.com/austinjohnplays?sub_confirmation=1​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin Jo",
+      "channel_title": "Austin John Plays",
+      "channel_id": "UCIIPl-DSCC0prKxGGnJrdGQ",
+      "published_at": "2026-02-20T13:56:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eaQfR_tIbcI/hqdefault.jpg",
+      "duration": "PT7M37S",
+      "duration_seconds": 457,
+      "view_count": 180207,
+      "like_count": 11230,
+      "comment_count": 1848,
       "category_id": "20",
       "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "1v1 Me & I'll Guess Your Rank!",
-        "rainbow six siege",
-        "jynxzi rainbow six siege"
+        "austin john plays",
+        "austin john plays youtube",
+        "youtube austin john plays",
+        "nintendo",
+        "zelda",
+        "pokemon",
+        "pokemon presents 2026",
+        "pokemon presents",
+        "pokemon direct",
+        "pokemon pokemon 30 news"
       ],
-      "url": "https://www.youtube.com/watch?v=8OGmnIru1-A"
-    },
-    {
-      "video_id": "nDGEWgzcxJ4",
-      "title": "PRESSURE Official Trailer (2026) Brendan Fraser",
-      "description": "PRESSURE Official Trailer (2026) Brendan Fraser, Andrew Scott, Kerry Condon, Damian Lewis\n© 2026 - Focus Features",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-02-19T16:08:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nDGEWgzcxJ4/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1616551,
-      "like_count": 38874,
-      "comment_count": 4264,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Pressure",
-        "Pressure Trailer",
-        "Brendan Fraser",
-        "Andrew Scott",
-        "Kerry Condon"
-      ],
-      "url": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
-    },
-    {
-      "video_id": "d-NtBVjvP6Y",
-      "title": "Sirius - The Untold Lore (Brawl Stars Animation)",
-      "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars,",
-      "channel_title": "Brawl Stars",
-      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
-      "published_at": "2026-02-19T08:12:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-NtBVjvP6Y/hqdefault.jpg",
-      "duration": "PT42S",
-      "duration_seconds": 42,
-      "view_count": 5237901,
-      "like_count": 157192,
-      "comment_count": 5281,
-      "category_id": "20",
-      "tags": [
-        "brawl stars",
-        "mobile game",
-        "mobile strategy game",
-        "mobile rpg",
-        "mobile battle royale",
-        "battle royale",
-        "supercell game"
-      ],
-      "url": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
+      "url": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "insights": {
-        "general_trends": {
-          "high_view_count": {
-            "total_videos": 10,
-            "total_views": 20286658,
-            "average_views_per_video": 2028665.8
-          },
-          "content_type": "Diverse content types ranging from game releases and movie trailers to live streams and animations."
-        },
-        "category_analysis": {
-          "entertainment_and_media": {
-            "prominent_videos": [
-              "House of the Dragon Season 3 | Official Teaser | HBO Max",
-              "Peaky Blinders: The Immortal Man | Official Trailer | Netflix",
-              "PRESSURE Official Trailer (2026) Brendan Fraser"
-            ],
-            "potential": "High potential in series and movie trailers due to established fan bases and anticipation for new releases."
-          },
-          "gaming": {
-            "prominent_videos": [
-              "POPPY PLAYTIME CHAPTER 5 (FULL GAME)",
-              "Slay the Spire 2 - Early Access Trailer",
-              "Pokémon FireRed Version and Pokémon LeafGreen Version on Nintendo Switch"
-            ],
-            "potential": "Growing interest in gaming content, especially related to updates and new releases of popular game franchises."
-          },
-          "live_streaming": {
-            "prominent_videos": [
-              "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE"
-            ],
-            "potential": "Increasing trend in live streaming, particularly in gaming, with an engaged audience."
-          },
-          "regional_content": {
-            "prominent_videos": [
-              "Toxic Official Telugu Teaser | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations"
-            ],
-            "potential": "Opportunity to tap into regional markets with localized content, indicating a niche but dedicated audience."
-          },
-          "animation": {
-            "prominent_videos": [
-              "Sirius - The Untold Lore (Brawl Stars Animation)"
-            ],
-            "potential": "Unique storytelling through animations has a dedicated following, especially in the gaming community."
+      "general_trends": {
+        "total_videos": 9,
+        "total_views": 15388007,
+        "average_views_per_video": 1709778.56,
+        "categories": "Unknown",
+        "dominant_themes": [
+          "Entertainment",
+          "Gaming",
+          "Streaming"
+        ]
+      },
+      "content_trends": {
+        "entertainment": {
+          "titles": [
+            "House of the Dragon Season 3 | Official Teaser | HBO Max",
+            "Peaky Blinders: The Immortal Man | Official Trailer | Netflix",
+            "Toxic Official Telugu Teaser | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations"
+          ],
+          "insights": {
+            "trend": "High demand for teasers and trailers, indicating strong audience interest in upcoming series and movies.",
+            "opportunity": "Creating exclusive behind-the-scenes content or interviews with cast members could capitalize on this interest."
           }
         },
-        "creator_patterns": {
-          "top_channels": {
-            "HBO Max": {
-              "video_count": 1,
-              "content_type": "TV series teaser",
-              "trend": "Focus on high-profile series with global appeal."
-            },
-            "Netflix": {
-              "video_count": 1,
-              "content_type": "TV series teaser",
-              "trend": "Aligning with popular franchises and original content."
-            },
-            "emerging_creators": [
-              "CaseOh",
-              "TheBurntPeanut",
-              "Mega Crit"
-            ],
-            "trend": "Smaller creators focusing on niche gaming content and live streams."
+        "gaming": {
+          "titles": [
+            "POPPY PLAYTIME CHAPTER 5 (FULL GAME)",
+            "Slay the Spire 2 - Early Access Trailer",
+            "Pokémon FireRed Version and Pokémon LeafGreen Version on Nintendo Switch",
+            "1v1 Me & I'll Guess Your Rank!"
+          ],
+          "insights": {
+            "trend": "Gaming content remains popular, with a mix of new game releases and classic re-releases.",
+            "opportunity": "Develop content around gameplay tips, reviews, and community engagement for new releases and remastered classics."
           }
         },
-        "market_opportunities": {
-          "cross-promotions": {
-            "opportunity": "Collaborations between streaming services and gaming companies can leverage mutual fan bases."
-          },
-          "regional_expansions": {
-            "opportunity": "Increased production of regional content can capture untapped markets with localized entertainment."
-          },
-          "animation_in_marketing": {
-            "opportunity": "Utilizing animations for storytelling in marketing campaigns can enhance engagement."
+        "live_streaming": {
+          "titles": [
+            "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE"
+          ],
+          "insights": {
+            "trend": "Live streaming with interactive elements and community involvement is gaining traction.",
+            "opportunity": "Incorporate real-time interaction features like live chat Q&A, polls, and viewer challenges to enhance engagement."
           }
+        }
+      },
+      "creator_patterns": {
+        "top_channels": [
+          {
+            "channel": "HBO Max",
+            "videos": 1
+          },
+          {
+            "channel": "CaseOh",
+            "videos": 1
+          },
+          {
+            "channel": "Netflix",
+            "videos": 1
+          },
+          {
+            "channel": "TheBurntPeanut",
+            "videos": 1
+          },
+          {
+            "channel": "The Official Pokémon YouTube channel",
+            "videos": 1
+          }
+        ],
+        "insights": {
+          "trend": "Established brands and content creators dominate the trending list, leveraging their existing audience base.",
+          "opportunity": "Emerging creators can collaborate with established brands or create niche content to tap into their audiences."
+        }
+      },
+      "market_opportunities": {
+        "cross-platform_promotions": {
+          "insight": "Promoting content across platforms (e.g., YouTube, Twitch, Netflix) could increase reach and engagement.",
+          "action": "Develop strategic partnerships across different media platforms to cross-promote content and drive traffic."
+        },
+        "cultural_relevance": {
+          "insight": "Content with cultural significance (such as regional films or popular franchises) captures wider audience interest.",
+          "action": "Focus on creating or localizing content that resonates with specific cultural or regional audiences to expand market reach."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2028665
+        "avg_views_per_video": 1709778
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
