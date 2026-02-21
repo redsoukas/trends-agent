@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T03:50:19.811228",
+  "timestamp": "2026-02-21T06:21:00.014257",
   "date": "2026-02-21",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 3092513,
-      "like_count": 111268,
-      "comment_count": 6387,
+      "view_count": 3153939,
+      "like_count": 112512,
+      "comment_count": 6468,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QO3sBFiEOpI/hqdefault.jpg",
       "duration": "PT5H16M22S",
       "duration_seconds": 18982,
-      "view_count": 971371,
-      "like_count": 61108,
-      "comment_count": 959,
+      "view_count": 1205392,
+      "like_count": 68273,
+      "comment_count": 1647,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Lpb7nNCm1Qw/hqdefault.jpg",
       "duration": "PT4H9M33S",
       "duration_seconds": 14973,
-      "view_count": 490923,
-      "like_count": 36475,
-      "comment_count": 2593,
+      "view_count": 591161,
+      "like_count": 40109,
+      "comment_count": 2830,
       "category_id": "20",
       "tags": [
         "jacksepticeye"
@@ -97,9 +97,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 3522862,
-      "like_count": 117403,
-      "comment_count": 4317,
+      "view_count": 3628701,
+      "like_count": 120127,
+      "comment_count": 4415,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -125,9 +125,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wrV70wmLHvU/hqdefault.jpg",
       "duration": "PT43M6S",
       "duration_seconds": 2586,
-      "view_count": 392095,
-      "like_count": 28335,
-      "comment_count": 1362,
+      "view_count": 573405,
+      "like_count": 35536,
+      "comment_count": 1507,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -153,9 +153,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 7660640,
-      "like_count": 116837,
-      "comment_count": 3251,
+      "view_count": 7730204,
+      "like_count": 119134,
+      "comment_count": 3308,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -172,13 +172,13 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
-      "video_id": "OwuTzEz5d4Y",
-      "title": "Star Wars: Return of the Jedi",
-      "description": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hutt and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+      "video_id": "oSp1fYJYcnU",
+      "title": "Solo: A Star Wars Story",
+      "description": "Young Han Solo finds adventure when he joins forces with a gang of galactic smugglers and a 190-year-old Wookiee named Chewbacca. Indebted to the gangster Dryden Vos, the crew devises a daring plan to travel to the mining planet Kessel to steal a batch of valuable coaxium. In need of a fast ship, Solo meets Lando Calrissian, the suave owner of the perfect vessel for the dangerous mission -- the Millennium Falcon.",
       "channel_title": "FX",
       "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-02-06T00:05:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OwuTzEz5d4Y/hqdefault.jpg",
+      "published_at": "2026-02-07T01:02:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oSp1fYJYcnU/hqdefault.jpg",
       "duration": "P0D",
       "duration_seconds": 0,
       "view_count": 0,
@@ -186,7 +186,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=OwuTzEz5d4Y"
+      "url": "https://www.youtube.com/watch?v=oSp1fYJYcnU"
     },
     {
       "video_id": "PW22jwFNxU8",
@@ -198,33 +198,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 962693,
-      "like_count": 61640,
-      "comment_count": 3847,
+      "view_count": 991245,
+      "like_count": 62535,
+      "comment_count": 3944,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
     },
     {
-      "video_id": "9N0KrJkFAsc",
-      "title": "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-20T09:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
-      "duration": "PT7H18M34S",
-      "duration_seconds": 26314,
-      "view_count": 978210,
-      "like_count": 17982,
-      "comment_count": 241,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
+      "video_id": "K37AFnqncm8",
+      "title": "Cast Away",
+      "description": "Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck learns how to survive on the island, where he remains for years, accompanied by only his handmade volleyball friend, Wilson. Will Chuck ever return to civilization and reunite with his loved ones?",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-02-07T01:07:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K37AFnqncm8/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=K37AFnqncm8"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +235,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 3092513,
-      "like_count": 111268,
-      "comment_count": 6387,
+      "view_count": 3153939,
+      "like_count": 112512,
+      "comment_count": 6468,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -267,9 +263,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QO3sBFiEOpI/hqdefault.jpg",
       "duration": "PT5H16M22S",
       "duration_seconds": 18982,
-      "view_count": 971371,
-      "like_count": 61108,
-      "comment_count": 959,
+      "view_count": 1205392,
+      "like_count": 68273,
+      "comment_count": 1647,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -295,9 +291,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Lpb7nNCm1Qw/hqdefault.jpg",
       "duration": "PT4H9M33S",
       "duration_seconds": 14973,
-      "view_count": 490923,
-      "like_count": 36475,
-      "comment_count": 2593,
+      "view_count": 591161,
+      "like_count": 40109,
+      "comment_count": 2830,
       "category_id": "20",
       "tags": [
         "jacksepticeye"
@@ -314,9 +310,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lcvUGs3xaDM/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 3522862,
-      "like_count": 117403,
-      "comment_count": 4317,
+      "view_count": 3628701,
+      "like_count": 120127,
+      "comment_count": 4415,
       "category_id": "24",
       "tags": [
         "Barry Keoghan",
@@ -342,9 +338,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wrV70wmLHvU/hqdefault.jpg",
       "duration": "PT43M6S",
       "duration_seconds": 2586,
-      "view_count": 392095,
-      "like_count": 28335,
-      "comment_count": 1362,
+      "view_count": 573405,
+      "like_count": 35536,
+      "comment_count": 1507,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -370,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zjlCyAibeWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 7660640,
-      "like_count": 116837,
-      "comment_count": 3251,
+      "view_count": 7730204,
+      "like_count": 119134,
+      "comment_count": 3308,
       "category_id": "1",
       "tags": [
         "Toxic",
@@ -389,6 +385,23 @@
       "url": "https://www.youtube.com/watch?v=zjlCyAibeWg"
     },
     {
+      "video_id": "oSp1fYJYcnU",
+      "title": "Solo: A Star Wars Story",
+      "description": "Young Han Solo finds adventure when he joins forces with a gang of galactic smugglers and a 190-year-old Wookiee named Chewbacca. Indebted to the gangster Dryden Vos, the crew devises a daring plan to travel to the mining planet Kessel to steal a batch of valuable coaxium. In need of a fast ship, Solo meets Lando Calrissian, the suave owner of the perfect vessel for the dangerous mission -- the Millennium Falcon.",
+      "channel_title": "FX",
+      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
+      "published_at": "2026-02-07T01:02:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oSp1fYJYcnU/hqdefault.jpg",
+      "duration": "P0D",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=oSp1fYJYcnU"
+    },
+    {
       "video_id": "PW22jwFNxU8",
       "title": "Slay the Spire 2 - Early Access Trailer",
       "description": "The Spire awakens once more in Steam Early Access on March 5, 2026! ⚔️\n\nNew characters, enemies, environments & more await you in Slay the Spire 2, the sequel to the iconic roguelike deckbuilder. Will you attempt the climb alone... or enlist the aid of your fellow adventurers?\n\n⚙️ Wishlist on Steam: https://s.team/a/2868840\n\nLooking for even more ways to get Slay the Spire 2 updates? Join the flock:\n🐤 Twitter: https://twitter.com/MegaCrit\n🦋 Bluesky: https://bsky.app/profile/megacrit.com\n🎵 Tiktok: https://tiktok.com/@megacritgames\n👾 Discord: https://discord.gg/slaythespire\n\nTrailer Production:\n\nExecutive Producer :  Casey Yano\nProducer :  Demi Montes\nProducer :  Marlowe Dobbe\nComposer :  Clark Aboud\nTrailer Director/Editor/Capture Artist :  Derek Lieu\nSound Designer :  Neha Patel\nSound Mixer :  Michael Cardillo\nMotion Graphics :  Josue Mancilla Ruiz\nMotion Graphics :  William Eklöf\n\nAnimation by WIZZ:\n\nDirector :  Florent Remize @flomize \nCreative Director : CRCR studio @crcrstudio (as ",
@@ -398,42 +411,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 962693,
-      "like_count": 61640,
-      "comment_count": 3847,
+      "view_count": 991245,
+      "like_count": 62535,
+      "comment_count": 3944,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PW22jwFNxU8"
     },
     {
-      "video_id": "9N0KrJkFAsc",
-      "title": "🔴LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-20T09:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9N0KrJkFAsc/hqdefault.jpg",
-      "duration": "PT7H18M34S",
-      "duration_seconds": 26314,
-      "view_count": 978210,
-      "like_count": 17982,
-      "comment_count": 241,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
-    },
-    {
-      "video_id": "OwuTzEz5d4Y",
-      "title": "Star Wars: Return of the Jedi",
-      "description": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hutt and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
-      "channel_title": "FX",
-      "channel_id": "UCP7l2eYJokMkMQVwPs8WB_A",
-      "published_at": "2026-02-06T00:05:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OwuTzEz5d4Y/hqdefault.jpg",
+      "video_id": "K37AFnqncm8",
+      "title": "Cast Away",
+      "description": "Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck learns how to survive on the island, where he remains for years, accompanied by only his handmade volleyball friend, Wilson. Will Chuck ever return to civilization and reunite with his loved ones?",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-02-07T01:07:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K37AFnqncm8/hqdefault.jpg",
       "duration": "P0D",
       "duration_seconds": 0,
       "view_count": 0,
@@ -441,68 +433,70 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=OwuTzEz5d4Y"
+      "url": "https://www.youtube.com/watch?v=K37AFnqncm8"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_focus": {
-          "description": "The majority of trending videos are entertainment-focused, spanning across popular franchises and gaming content.",
-          "examples": [
-            "House of the Dragon Season 3 | Official Teaser | HBO Max",
-            "Peaky Blinders: The Immortal Man | Official Trailer | Netflix",
-            "Star Wars: Return of the Jedi"
-          ],
-          "insight": "Content related to established franchises and anticipated sequels or teasers tends to generate significant interest."
+        "entertainment_dominance": {
+          "description": "The majority of the trending videos belong to the entertainment and gaming sectors.",
+          "data_points": {
+            "total_videos": 9,
+            "entertainment_videos": 7,
+            "gaming_videos": 2
+          }
         },
-        "gaming_trend": {
-          "description": "Gaming content is prominently featured in the trending list.",
-          "examples": [
-            "Poppy Playtime: Chapter 5",
-            "Poppy Playtime Chapter 5 (FULL GAME)",
-            "Slay the Spire 2 - Early Access Trailer"
-          ],
-          "insight": "There is a high demand for gaming content, particularly new releases and popular indie games."
+        "franchise_power": {
+          "description": "Franchises like 'House of the Dragon', 'Poppy Playtime', 'Peaky Blinders', and 'Star Wars' have strong traction.",
+          "data_points": {
+            "franchise_videos": 5,
+            "total_views": 10,
+            "average_views_per_video": 1,
+            "percentage_of_total_views": 56
+          }
         },
-        "mixed_language_content": {
-          "description": "Content in languages other than English, such as Telugu, is present.",
-          "examples": [
-            "Toxic Official Telugu Teaser | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations"
-          ],
-          "insight": "There is an opportunity to cater to non-English speaking audiences by providing subtitled or native language content."
+        "diverse_genres": {
+          "description": "Videos cover a range of genres including fantasy, horror, crime drama, and sci-fi.",
+          "impact": "This diversity suggests that audiences are interested in varied content, providing opportunities for multi-genre explorations."
         }
       },
       "creator_patterns": {
-        "diverse_sources": {
-          "description": "Trending videos originate from a variety of channels, indicating a diverse content creator base.",
-          "examples": [
+        "top_channels_focus": {
+          "description": "Top channels like HBO Max and Netflix focus on high-production-value trailers and teasers.",
+          "channels": [
             "HBO Max",
-            "Markiplier",
-            "jacksepticeye",
-            "Netflix",
-            "SMii7Y"
-          ],
-          "insight": "Brands and individual creators both have the potential to trend, suggesting collaboration opportunities between independent creators and established brands."
+            "Netflix"
+          ]
         },
-        "single_video_trend": {
-          "description": "Each top channel has only one video trending at the moment.",
-          "insight": "Content creators and brands should focus on producing high-quality, standout content to achieve trending status rather than relying on volume."
+        "influencer_impact": {
+          "description": "Influencers like Markiplier and jacksepticeye leverage gaming content to drive engagement.",
+          "channels": [
+            "Markiplier",
+            "jacksepticeye"
+          ]
+        },
+        "engagement_drivers": {
+          "description": "Gaming and entertainment content are key drivers of viewer engagement.",
+          "examples": [
+            "Poppy Playtime: Chapter 5",
+            "Slay the Spire 2 - Early Access Trailer"
+          ]
         }
       },
       "market_opportunities": {
         "franchise_expansion": {
-          "description": "Expanding existing franchises with teasers and trailers continues to be a lucrative strategy.",
-          "insight": "Brands should capitalize on their existing IPs by creating engaging and visually appealing promotional content."
+          "opportunity": "Develop sequels or spin-offs for popular franchises to capitalize on existing fanbases.",
+          "suggested_action": "Invest in marketing and production for new entries in established franchises."
         },
-        "gaming_collaborations": {
-          "description": "There is a strong appetite for gaming collaborations and live streams.",
-          "insight": "Opportunities exist for creators to partner with gaming companies to release exclusive content or host interactive live streams."
+        "multi-genre content": {
+          "opportunity": "Create content that blends multiple genres to appeal to a broader audience.",
+          "suggested_action": "Experiment with cross-genre storytelling to attract diverse viewership."
         },
-        "regional_content": {
-          "description": "Non-English content is gaining traction, especially in regional languages.",
-          "insight": "Investing in regional content production and translation services can tap into underserved markets, thereby expanding audience reach."
+        "gaming content innovation": {
+          "opportunity": "Innovative gaming content can capture significant audience interest.",
+          "suggested_action": "Focus on developing unique game narratives or gameplay mechanics."
         }
       },
       "metadata_stats": {
@@ -511,7 +505,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2007923
+        "avg_views_per_video": 1986005
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
