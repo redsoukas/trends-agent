@@ -1,18 +1,41 @@
 {
-  "timestamp": "2026-02-22T18:14:26.158788",
+  "timestamp": "2026-02-22T21:11:09.881698",
   "date": "2026-02-22",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
     {
+      "video_id": "c51ND9Hdbw0",
+      "title": "Toy Story 5 | Official Trailer | In Theaters June 19",
+      "description": "Times may change but friends are forever\n#ToyStory5 is only in theaters June 19\n\nAn all-new trailer and poster for Disney and Pixar’s highly anticipated upcoming animated adventure “Toy Story 5” debut today. The toys are back and this time, Buzz Lightyear, Woody, Jessie and the rest of the gang's jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?\n \nThe trailer also teases the anticipated reunion of Woody and Buzz following Woody’s decision to leave the gang and start helping lost toys at the end of 2019’s “Toy Story 4.” As the toys face the tech devices of today, it’s going to be all hands on deck with some familiar and all-new characters.\n \nSeveral actors have joined the incredible roster of voice talent including Craig Robinson as Atlas, a cheerful talking GPS hippo toy; Shelby Rabara as the excitable camera toy",
+      "channel_title": "Pixar",
+      "channel_id": "UC_IRYSp4auq7hKLvziWVH6w",
+      "published_at": "2026-02-19T17:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c51ND9Hdbw0/hqdefault.jpg",
+      "duration": "PT2M25S",
+      "duration_seconds": 145,
+      "view_count": 8232966,
+      "like_count": 215757,
+      "comment_count": 16994,
+      "category_id": "1",
+      "tags": [
+        "Pixar",
+        "Disney",
+        "Disney Pixar",
+        "Pixar Movie",
+        "Animation"
+      ],
+      "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0"
+    },
+    {
       "video_id": "VWLl18skl7Y",
       "title": "100th Brawler Reveal - Brawl Talk",
       "description": "Brawl Talk Freebie! https://link.brawlstars.com/voucher/da19cd17-68af-4ed9-8671-b974a3a73356\n\n🏆 Prestige - A new Trophy system!\n🌟 Sirius the 100th Brawler!\n🐍 Najia, a new member for Finx's trio?\n🐶 More BUFFIES, more Game Modes and more MORE!\n🥺 A sad farewell?!",
@@ -22,9 +45,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VWLl18skl7Y/hqdefault.jpg",
       "duration": "PT14M3S",
       "duration_seconds": 843,
-      "view_count": 7939305,
-      "like_count": 320519,
-      "comment_count": 33233,
+      "view_count": 8264876,
+      "like_count": 323962,
+      "comment_count": 33466,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -41,6 +64,51 @@
       "url": "https://www.youtube.com/watch?v=VWLl18skl7Y"
     },
     {
+      "video_id": "9ZGwI6Xg7bI",
+      "title": "YFG Fatso - Ok Teeze (Official Music Video) [Shot by @Fatboyyfilms ]",
+      "description": "YFG Fatso - Ok Teaze (Official Music Video)",
+      "channel_title": "YFG Fatso",
+      "channel_id": "UCvvSsThb7GCHzaMd2ulW72Q",
+      "published_at": "2026-02-21T21:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZGwI6Xg7bI/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "duration_seconds": 175,
+      "view_count": 120385,
+      "like_count": 10612,
+      "comment_count": 506,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9ZGwI6Xg7bI"
+    },
+    {
+      "video_id": "ZbEW9s8KwHs",
+      "title": "GOO GOO GAGA IS IN MY BED?!",
+      "description": "✨ Adopt your very own TYLER and SNOWI !  ✨ https://tylerandsnowi.store/ 👈 ⏰\nToday Tyler and Snowi are GOO GOO GAGA!?! 🎅 Can we DESTROY the GOO GOO GAGA CHOCOLATE FACTORY and FIND THE TRUTH BEHIND IT ALL!? This WEIRD GAME has SO MANY FUNNY MOMENTS! 👉Don't forget to SUBSCRIBE & leave a like 👍 if you enjoyed!\n\nJoin our Roblox Group here! https://www.roblox.com/groups/15659093/Tyler-and-Snowi\n\n#funnymoments #cartoon #mobile   \n[0909]",
+      "channel_title": "Tyler & Snowi",
+      "channel_id": "UCzzF1kdBgwv5RB6rbB6kVSA",
+      "published_at": "2026-02-22T15:42:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZbEW9s8KwHs/hqdefault.jpg",
+      "duration": "PT15M27S",
+      "duration_seconds": 927,
+      "view_count": 288450,
+      "like_count": 13229,
+      "comment_count": 220,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "funny moments",
+        "tyler and snowi",
+        "tyler",
+        "snowi",
+        "tyler & snowi",
+        "funny",
+        "moments",
+        "new",
+        "goo goo"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZbEW9s8KwHs"
+    },
+    {
       "video_id": "ZNZEhzQ8euc",
       "title": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
       "description": "There’s something out there beyond anything we can imagine, and that something is the source of the Encroachment. As calamity closes in from all angles, it’s your duty to pick up the torch and see it through.\n\nYour story begins March 13, 2026 on Nintendo Switch 2, PS5, Xbox Series X|S, and PC/Steam.\n \nPre-order Monster Hunter Stories 3: Twisted Reflection now.\nhttps://www.monsterhunter.com/stories3/en-us/products/\n \nDownload the free demo and carry your save data over to the full game.\nhttps://www.monsterhunter.com/stories3/en-us/trial/\n\nJapanese https://youtu.be/Yta75Rhpwk8\nFrench https://youtu.be/rlZRTgg3zMU\nItalian https://youtu.be/yPrKqGdvBY0\nGerman https://youtu.be/9DR88hNoEZw\nSpanish https://youtu.be/QvAQ6vOuGxk\nBrazilian Portuguese https://youtu.be/Eskldd2nuBU\nTraditional Chinese https://youtu.be/2u0qhOyb4b0\nSimplified Chinese https://youtu.be/uDAxMr8e980\nKorean https://youtu.be/LK8BWvkGcBI\n\nhttps://twitter.com/monsterhunter\nhttps://www.instagram.com/monsterhuntergame/\nhttps://w",
@@ -50,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZNZEhzQ8euc/hqdefault.jpg",
       "duration": "PT3M5S",
       "duration_seconds": 185,
-      "view_count": 67993,
-      "like_count": 5331,
-      "comment_count": 879,
+      "view_count": 72934,
+      "like_count": 5510,
+      "comment_count": 907,
       "category_id": "20",
       "tags": [
         "monster hunter",
@@ -68,49 +136,23 @@
       "url": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
     },
     {
-      "video_id": "La1zClF8jdY",
-      "title": "I Explored the World's Largest Minecraft Server",
-      "description": "truly an unstable smp\n\nI Explored the World's Largest Minecraft Server\n\nUnstable SMP:\n➜  ⁨ @FlameFragsMC \n➜   @ParrotX2 \n➜   @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (bunch of the cool minecraft ost remixes!)\nhttps://www.youtube.com/@nombra101 (FlameFrags motif right before egg shows up LOL)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder ",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-02-21T14:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/La1zClF8jdY/hqdefault.jpg",
-      "duration": "PT39M55S",
-      "duration_seconds": 2395,
-      "view_count": 3249336,
-      "like_count": 199656,
-      "comment_count": 21667,
+      "video_id": "IJXhkibXCNg",
+      "title": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-02-21T23:50:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IJXhkibXCNg/hqdefault.jpg",
+      "duration": "PT2H36M26S",
+      "duration_seconds": 9386,
+      "view_count": 292994,
+      "like_count": 7659,
+      "comment_count": 412,
       "category_id": "20",
       "tags": [
-        "wemmbu",
-        "wembu",
-        "minecraft",
-        "wemmbu minecraft",
-        "wemmbu unstable smp",
-        "unstable smp",
-        "the unstable smp experience",
-        "i joined the world's largest minecraft server",
-        "i joined unstable smp",
-        "I explored the world's largest minecraft server"
+        "joebartolozzi"
       ],
-      "url": "https://www.youtube.com/watch?v=La1zClF8jdY"
-    },
-    {
-      "video_id": "9ZGwI6Xg7bI",
-      "title": "YFG Fatso - Ok Teeze (Official Music Video) [Shot by @Fatboyyfilms ]",
-      "description": "YFG Fatso - Ok Teaze (Official Music Video)",
-      "channel_title": "YFG Fatso",
-      "channel_id": "UCvvSsThb7GCHzaMd2ulW72Q",
-      "published_at": "2026-02-21T21:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ZGwI6Xg7bI/hqdefault.jpg",
-      "duration": "PT2M55S",
-      "duration_seconds": 175,
-      "view_count": 104346,
-      "like_count": 9652,
-      "comment_count": 467,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9ZGwI6Xg7bI"
+      "url": "https://www.youtube.com/watch?v=IJXhkibXCNg"
     },
     {
       "video_id": "i6w7O1kwuBk",
@@ -122,9 +164,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 3771804,
-      "like_count": 124240,
-      "comment_count": 6987,
+      "view_count": 3813639,
+      "like_count": 124839,
+      "comment_count": 7015,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -141,23 +183,60 @@
       "url": "https://www.youtube.com/watch?v=i6w7O1kwuBk"
     },
     {
-      "video_id": "IJXhkibXCNg",
-      "title": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-21T23:50:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IJXhkibXCNg/hqdefault.jpg",
-      "duration": "PT2H36M26S",
-      "duration_seconds": 9386,
-      "view_count": 249267,
-      "like_count": 6857,
-      "comment_count": 395,
+      "video_id": "La1zClF8jdY",
+      "title": "I Explored the World's Largest Minecraft Server",
+      "description": "truly an unstable smp\n\nI Explored the World's Largest Minecraft Server\n\nUnstable SMP:\n➜  ⁨ @FlameFragsMC \n➜   @ParrotX2 \n➜   @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (bunch of the cool minecraft ost remixes!)\nhttps://www.youtube.com/@nombra101 (FlameFrags motif right before egg shows up LOL)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder ",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-02-21T14:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/La1zClF8jdY/hqdefault.jpg",
+      "duration": "PT39M55S",
+      "duration_seconds": 2395,
+      "view_count": 3362613,
+      "like_count": 202751,
+      "comment_count": 21815,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "wemmbu",
+        "wembu",
+        "minecraft",
+        "wemmbu minecraft",
+        "wemmbu unstable smp",
+        "unstable smp",
+        "the unstable smp experience",
+        "i joined the world's largest minecraft server",
+        "i joined unstable smp",
+        "I explored the world's largest minecraft server"
       ],
-      "url": "https://www.youtube.com/watch?v=IJXhkibXCNg"
+      "url": "https://www.youtube.com/watch?v=La1zClF8jdY"
+    },
+    {
+      "video_id": "i6QaYhTXwpU",
+      "title": "*NSYNC - Bye Bye Bye // Lyrics / Sub. Español",
+      "description": "🍒 CherryLady 🍒\nBienvenid@ a un viaje directo a la nostalgia ✨\nSi amás la música con historia, el estilo retro y esa sensación de “antes todo era distinto”, este canal es para vos.\n👉 Seguime para no perderte ningún video\n\n🎶*NSYNC - Bye Bye Bye // Lyrics / Sub. Español\n\n🎤 *NSYNC:\n📌 https://nsync.lnk.to/followWI\n📌 https://nsync.lnk.to/followFI\n📌 https://nsync.lnk.to/followII\n📌 https://nsync.lnk.to/followSI\n\n🔔 Activá la campanita para no perderte ningún estreno.\nLetra:\nHey, hey\nBye, bye, bye (bye, bye)\nBye, bye\n(Oh, oh)\nI, I'm doing this tonight\nYou're probably gonna start a fight\nI know this can't be right\nHey, baby, come on\nI loved you endlessly\nWhen you weren't there for me\nSo now it's time to leave and make it alone\nI know that I can't take no more\nIt ain't no lie\nI want to see you out that door\nBaby, bye, bye, bye (bye, bye)\nDon't wanna be a fool for you\nJust another player in your game for two\nYou may hate me, but it ain't no lie\nBaby, bye, bye, bye (bye, bye)\nDon't really want to ma",
+      "channel_title": "Cherry Lady",
+      "channel_id": "UCVgtvKu2_4FZQzTVn-DiIDw",
+      "published_at": "2026-02-16T22:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i6QaYhTXwpU/hqdefault.jpg",
+      "duration": "PT3M21S",
+      "duration_seconds": 201,
+      "view_count": 249124,
+      "like_count": 1546,
+      "comment_count": 10,
+      "category_id": "22",
+      "tags": [
+        "nsync bye bye bye sub espanol",
+        "nsync - bye bye bye lyrics",
+        "*nsync - bye bye bye (lyrics)",
+        "nsync bye bye bye lyrics",
+        "bye bye bye lyrics nsync",
+        "nsync bye bye bye espanol",
+        "bye bye bye sub espanol",
+        "nsync bye bye bye subtitulado en espanol",
+        "*nsync bye bye bye lyrics",
+        "lyrics nsync bye bye bye"
+      ],
+      "url": "https://www.youtube.com/watch?v=i6QaYhTXwpU"
     },
     {
       "video_id": "HgeOw1JAqdQ",
@@ -169,9 +248,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgeOw1JAqdQ/hqdefault.jpg",
       "duration": "PT38M47S",
       "duration_seconds": 2327,
-      "view_count": 715446,
-      "like_count": 23850,
-      "comment_count": 1224,
+      "view_count": 809488,
+      "like_count": 26106,
+      "comment_count": 1289,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -185,56 +264,34 @@
         "r6 clips"
       ],
       "url": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
-    },
-    {
-      "video_id": "RSbPdf3CGD8",
-      "title": "SCP:GALLIONIC | Official Trailer",
-      "description": "Check out the Kickstarter page and help us make this project a reality: https://www.kickstarter.com/projects/glnc/scp-gallionic \n\nOur goal is to make a full 20 minute long animated SCP short film, and have been preparing the groundwork for it for over two years now! Finally, we get to share this with the whole world, in the hopes to make this project a reality!",
-      "channel_title": "soem studios",
-      "channel_id": "UCkRCbnRSRJ6Sk6kwjSZQrsQ",
-      "published_at": "2026-02-21T22:49:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RSbPdf3CGD8/hqdefault.jpg",
-      "duration": "PT1M12S",
-      "duration_seconds": 72,
-      "view_count": 207389,
-      "like_count": 40391,
-      "comment_count": 1375,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RSbPdf3CGD8"
-    },
-    {
-      "video_id": "3FS3meSF-b8",
-      "title": "OWNER Gave Me ADMIN COMMANDS In Survive Lava For Brainrots..",
-      "description": "Today I played with caylus and he gave me admin commands in his new game. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-02-21T17:43:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3FS3meSF-b8/hqdefault.jpg",
-      "duration": "PT19M8S",
-      "duration_seconds": 1148,
-      "view_count": 1287976,
-      "like_count": 21473,
-      "comment_count": 2645,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=3FS3meSF-b8"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
+      "video_id": "c51ND9Hdbw0",
+      "title": "Toy Story 5 | Official Trailer | In Theaters June 19",
+      "description": "Times may change but friends are forever\n#ToyStory5 is only in theaters June 19\n\nAn all-new trailer and poster for Disney and Pixar’s highly anticipated upcoming animated adventure “Toy Story 5” debut today. The toys are back and this time, Buzz Lightyear, Woody, Jessie and the rest of the gang's jobs are challenged when they come face-to-face with Lilypad (voice of Greta Lee), a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?\n \nThe trailer also teases the anticipated reunion of Woody and Buzz following Woody’s decision to leave the gang and start helping lost toys at the end of 2019’s “Toy Story 4.” As the toys face the tech devices of today, it’s going to be all hands on deck with some familiar and all-new characters.\n \nSeveral actors have joined the incredible roster of voice talent including Craig Robinson as Atlas, a cheerful talking GPS hippo toy; Shelby Rabara as the excitable camera toy",
+      "channel_title": "Pixar",
+      "channel_id": "UC_IRYSp4auq7hKLvziWVH6w",
+      "published_at": "2026-02-19T17:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c51ND9Hdbw0/hqdefault.jpg",
+      "duration": "PT2M25S",
+      "duration_seconds": 145,
+      "view_count": 8232966,
+      "like_count": 215757,
+      "comment_count": 16994,
+      "category_id": "1",
+      "tags": [
+        "Pixar",
+        "Disney",
+        "Disney Pixar",
+        "Pixar Movie",
+        "Animation"
+      ],
+      "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0"
+    },
+    {
       "video_id": "VWLl18skl7Y",
       "title": "100th Brawler Reveal - Brawl Talk",
       "description": "Brawl Talk Freebie! https://link.brawlstars.com/voucher/da19cd17-68af-4ed9-8671-b974a3a73356\n\n🏆 Prestige - A new Trophy system!\n🌟 Sirius the 100th Brawler!\n🐍 Najia, a new member for Finx's trio?\n🐶 More BUFFIES, more Game Modes and more MORE!\n🥺 A sad farewell?!",
@@ -244,9 +301,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VWLl18skl7Y/hqdefault.jpg",
       "duration": "PT14M3S",
       "duration_seconds": 843,
-      "view_count": 7939305,
-      "like_count": 320519,
-      "comment_count": 33233,
+      "view_count": 8264876,
+      "like_count": 323962,
+      "comment_count": 33466,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -263,6 +320,34 @@
       "url": "https://www.youtube.com/watch?v=VWLl18skl7Y"
     },
     {
+      "video_id": "ZbEW9s8KwHs",
+      "title": "GOO GOO GAGA IS IN MY BED?!",
+      "description": "✨ Adopt your very own TYLER and SNOWI !  ✨ https://tylerandsnowi.store/ 👈 ⏰\nToday Tyler and Snowi are GOO GOO GAGA!?! 🎅 Can we DESTROY the GOO GOO GAGA CHOCOLATE FACTORY and FIND THE TRUTH BEHIND IT ALL!? This WEIRD GAME has SO MANY FUNNY MOMENTS! 👉Don't forget to SUBSCRIBE & leave a like 👍 if you enjoyed!\n\nJoin our Roblox Group here! https://www.roblox.com/groups/15659093/Tyler-and-Snowi\n\n#funnymoments #cartoon #mobile   \n[0909]",
+      "channel_title": "Tyler & Snowi",
+      "channel_id": "UCzzF1kdBgwv5RB6rbB6kVSA",
+      "published_at": "2026-02-22T15:42:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZbEW9s8KwHs/hqdefault.jpg",
+      "duration": "PT15M27S",
+      "duration_seconds": 927,
+      "view_count": 288450,
+      "like_count": 13229,
+      "comment_count": 220,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "funny moments",
+        "tyler and snowi",
+        "tyler",
+        "snowi",
+        "tyler & snowi",
+        "funny",
+        "moments",
+        "new",
+        "goo goo"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZbEW9s8KwHs"
+    },
+    {
       "video_id": "ZNZEhzQ8euc",
       "title": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
       "description": "There’s something out there beyond anything we can imagine, and that something is the source of the Encroachment. As calamity closes in from all angles, it’s your duty to pick up the torch and see it through.\n\nYour story begins March 13, 2026 on Nintendo Switch 2, PS5, Xbox Series X|S, and PC/Steam.\n \nPre-order Monster Hunter Stories 3: Twisted Reflection now.\nhttps://www.monsterhunter.com/stories3/en-us/products/\n \nDownload the free demo and carry your save data over to the full game.\nhttps://www.monsterhunter.com/stories3/en-us/trial/\n\nJapanese https://youtu.be/Yta75Rhpwk8\nFrench https://youtu.be/rlZRTgg3zMU\nItalian https://youtu.be/yPrKqGdvBY0\nGerman https://youtu.be/9DR88hNoEZw\nSpanish https://youtu.be/QvAQ6vOuGxk\nBrazilian Portuguese https://youtu.be/Eskldd2nuBU\nTraditional Chinese https://youtu.be/2u0qhOyb4b0\nSimplified Chinese https://youtu.be/uDAxMr8e980\nKorean https://youtu.be/LK8BWvkGcBI\n\nhttps://twitter.com/monsterhunter\nhttps://www.instagram.com/monsterhuntergame/\nhttps://w",
@@ -272,9 +357,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZNZEhzQ8euc/hqdefault.jpg",
       "duration": "PT3M5S",
       "duration_seconds": 185,
-      "view_count": 67993,
-      "like_count": 5331,
-      "comment_count": 879,
+      "view_count": 72934,
+      "like_count": 5510,
+      "comment_count": 907,
       "category_id": "20",
       "tags": [
         "monster hunter",
@@ -290,32 +375,23 @@
       "url": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
     },
     {
-      "video_id": "La1zClF8jdY",
-      "title": "I Explored the World's Largest Minecraft Server",
-      "description": "truly an unstable smp\n\nI Explored the World's Largest Minecraft Server\n\nUnstable SMP:\n➜  ⁨ @FlameFragsMC \n➜   @ParrotX2 \n➜   @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (bunch of the cool minecraft ost remixes!)\nhttps://www.youtube.com/@nombra101 (FlameFrags motif right before egg shows up LOL)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder ",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-02-21T14:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/La1zClF8jdY/hqdefault.jpg",
-      "duration": "PT39M55S",
-      "duration_seconds": 2395,
-      "view_count": 3249336,
-      "like_count": 199656,
-      "comment_count": 21667,
+      "video_id": "IJXhkibXCNg",
+      "title": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-02-21T23:50:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IJXhkibXCNg/hqdefault.jpg",
+      "duration": "PT2H36M26S",
+      "duration_seconds": 9386,
+      "view_count": 292994,
+      "like_count": 7659,
+      "comment_count": 412,
       "category_id": "20",
       "tags": [
-        "wemmbu",
-        "wembu",
-        "minecraft",
-        "wemmbu minecraft",
-        "wemmbu unstable smp",
-        "unstable smp",
-        "the unstable smp experience",
-        "i joined the world's largest minecraft server",
-        "i joined unstable smp",
-        "I explored the world's largest minecraft server"
+        "joebartolozzi"
       ],
-      "url": "https://www.youtube.com/watch?v=La1zClF8jdY"
+      "url": "https://www.youtube.com/watch?v=IJXhkibXCNg"
     },
     {
       "video_id": "i6w7O1kwuBk",
@@ -327,9 +403,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6w7O1kwuBk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 3771804,
-      "like_count": 124240,
-      "comment_count": 6987,
+      "view_count": 3813639,
+      "like_count": 124839,
+      "comment_count": 7015,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -346,23 +422,32 @@
       "url": "https://www.youtube.com/watch?v=i6w7O1kwuBk"
     },
     {
-      "video_id": "IJXhkibXCNg",
-      "title": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: https://twitter.com/KangWitK\n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-02-21T23:50:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IJXhkibXCNg/hqdefault.jpg",
-      "duration": "PT2H36M26S",
-      "duration_seconds": 9386,
-      "view_count": 249267,
-      "like_count": 6857,
-      "comment_count": 395,
+      "video_id": "La1zClF8jdY",
+      "title": "I Explored the World's Largest Minecraft Server",
+      "description": "truly an unstable smp\n\nI Explored the World's Largest Minecraft Server\n\nUnstable SMP:\n➜  ⁨ @FlameFragsMC \n➜   @ParrotX2 \n➜   @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/@andreaszoeller (bunch of the cool minecraft ost remixes!)\nhttps://www.youtube.com/@nombra101 (FlameFrags motif right before egg shows up LOL)\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder ",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-02-21T14:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/La1zClF8jdY/hqdefault.jpg",
+      "duration": "PT39M55S",
+      "duration_seconds": 2395,
+      "view_count": 3362613,
+      "like_count": 202751,
+      "comment_count": 21815,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "wemmbu",
+        "wembu",
+        "minecraft",
+        "wemmbu minecraft",
+        "wemmbu unstable smp",
+        "unstable smp",
+        "the unstable smp experience",
+        "i joined the world's largest minecraft server",
+        "i joined unstable smp",
+        "I explored the world's largest minecraft server"
       ],
-      "url": "https://www.youtube.com/watch?v=IJXhkibXCNg"
+      "url": "https://www.youtube.com/watch?v=La1zClF8jdY"
     },
     {
       "video_id": "HgeOw1JAqdQ",
@@ -374,9 +459,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HgeOw1JAqdQ/hqdefault.jpg",
       "duration": "PT38M47S",
       "duration_seconds": 2327,
-      "view_count": 715446,
-      "like_count": 23850,
-      "comment_count": 1224,
+      "view_count": 809488,
+      "like_count": 26106,
+      "comment_count": 1289,
       "category_id": "20",
       "tags": [
         "Jynxzi",
@@ -392,51 +477,6 @@
       "url": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
     },
     {
-      "video_id": "RSbPdf3CGD8",
-      "title": "SCP:GALLIONIC | Official Trailer",
-      "description": "Check out the Kickstarter page and help us make this project a reality: https://www.kickstarter.com/projects/glnc/scp-gallionic \n\nOur goal is to make a full 20 minute long animated SCP short film, and have been preparing the groundwork for it for over two years now! Finally, we get to share this with the whole world, in the hopes to make this project a reality!",
-      "channel_title": "soem studios",
-      "channel_id": "UCkRCbnRSRJ6Sk6kwjSZQrsQ",
-      "published_at": "2026-02-21T22:49:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RSbPdf3CGD8/hqdefault.jpg",
-      "duration": "PT1M12S",
-      "duration_seconds": 72,
-      "view_count": 207389,
-      "like_count": 40391,
-      "comment_count": 1375,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RSbPdf3CGD8"
-    },
-    {
-      "video_id": "3FS3meSF-b8",
-      "title": "OWNER Gave Me ADMIN COMMANDS In Survive Lava For Brainrots..",
-      "description": "Today I played with caylus and he gave me admin commands in his new game. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-02-21T17:43:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3FS3meSF-b8/hqdefault.jpg",
-      "duration": "PT19M8S",
-      "duration_seconds": 1148,
-      "view_count": 1287976,
-      "like_count": 21473,
-      "comment_count": 2645,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=3FS3meSF-b8"
-    },
-    {
       "video_id": "9ZGwI6Xg7bI",
       "title": "YFG Fatso - Ok Teeze (Official Music Video) [Shot by @Fatboyyfilms ]",
       "description": "YFG Fatso - Ok Teaze (Official Music Video)",
@@ -446,75 +486,111 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9ZGwI6Xg7bI/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 104346,
-      "like_count": 9652,
-      "comment_count": 467,
+      "view_count": 120385,
+      "like_count": 10612,
+      "comment_count": 506,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9ZGwI6Xg7bI"
+    },
+    {
+      "video_id": "i6QaYhTXwpU",
+      "title": "*NSYNC - Bye Bye Bye // Lyrics / Sub. Español",
+      "description": "🍒 CherryLady 🍒\nBienvenid@ a un viaje directo a la nostalgia ✨\nSi amás la música con historia, el estilo retro y esa sensación de “antes todo era distinto”, este canal es para vos.\n👉 Seguime para no perderte ningún video\n\n🎶*NSYNC - Bye Bye Bye // Lyrics / Sub. Español\n\n🎤 *NSYNC:\n📌 https://nsync.lnk.to/followWI\n📌 https://nsync.lnk.to/followFI\n📌 https://nsync.lnk.to/followII\n📌 https://nsync.lnk.to/followSI\n\n🔔 Activá la campanita para no perderte ningún estreno.\nLetra:\nHey, hey\nBye, bye, bye (bye, bye)\nBye, bye\n(Oh, oh)\nI, I'm doing this tonight\nYou're probably gonna start a fight\nI know this can't be right\nHey, baby, come on\nI loved you endlessly\nWhen you weren't there for me\nSo now it's time to leave and make it alone\nI know that I can't take no more\nIt ain't no lie\nI want to see you out that door\nBaby, bye, bye, bye (bye, bye)\nDon't wanna be a fool for you\nJust another player in your game for two\nYou may hate me, but it ain't no lie\nBaby, bye, bye, bye (bye, bye)\nDon't really want to ma",
+      "channel_title": "Cherry Lady",
+      "channel_id": "UCVgtvKu2_4FZQzTVn-DiIDw",
+      "published_at": "2026-02-16T22:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i6QaYhTXwpU/hqdefault.jpg",
+      "duration": "PT3M21S",
+      "duration_seconds": 201,
+      "view_count": 249124,
+      "like_count": 1546,
+      "comment_count": 10,
+      "category_id": "22",
+      "tags": [
+        "nsync bye bye bye sub espanol",
+        "nsync - bye bye bye lyrics",
+        "*nsync - bye bye bye (lyrics)",
+        "nsync bye bye bye lyrics",
+        "bye bye bye lyrics nsync",
+        "nsync bye bye bye espanol",
+        "bye bye bye sub espanol",
+        "nsync bye bye bye subtitulado en espanol",
+        "*nsync bye bye bye lyrics",
+        "lyrics nsync bye bye bye"
+      ],
+      "url": "https://www.youtube.com/watch?v=i6QaYhTXwpU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 9,
-        "totalViews": 17592862,
-        "averageViewsPerVideo": 1954762
+        "totalVideos": 10,
+        "totalViews": 25507469,
+        "averageViewsPerVideo": 2550746.9
       },
       "contentTrends": {
-        "gaming": {
-          "description": "Gaming content appears to be a significant trend, with titles related to popular games such as Brawl Stars, Monster Hunter, and Minecraft.",
-          "percentageOfTotalViews": "Estimated 30% based on typical engagement in similar categories.",
-          "insights": "Continued investment in gaming content could be beneficial. Collaborations with popular gaming channels or influencers may enhance visibility."
+        "categories": {
+          "entertainment": [
+            "Toy Story 5 | Official Trailer | In Theaters June 19",
+            "House of the Dragon Season 3 | Official Teaser | HBO Max",
+            "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer"
+          ],
+          "gaming": [
+            "100th Brawler Reveal - Brawl Talk",
+            "I Explored the World's Largest Minecraft Server"
+          ],
+          "music": [
+            "YFG Fatso - Ok Teeze (Official Music Video) [Shot by @Fatboyyfilms ]",
+            "*NSYNC - Bye Bye Bye // Lyrics / Sub. Español"
+          ],
+          "miscellaneous": [
+            "GOO GOO GAGA IS IN MY BED?!",
+            "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
+            "Your HORRENDOUS Clips..."
+          ]
         },
-        "entertainment": {
-          "description": "The presence of trailers for popular series (House of the Dragon) indicates strong interest in entertainment content.",
-          "percentageOfTotalViews": "Estimated 25% based on typical engagement for high-profile series trailers.",
-          "insights": "Leveraging upcoming show releases or trending series can drive engagement. Consider creating content around popular shows or characters."
-        },
-        "music": {
-          "description": "Music videos, like 'YFG Fatso - Ok Teeze', continue to capture a significant audience.",
-          "percentageOfTotalViews": "Estimated 20% based on typical engagement in similar categories.",
-          "insights": "Explore partnerships with emerging music artists or create playlists to capitalize on music video trends."
-        },
-        "comedy and novelty": {
-          "description": "Unique and humorous content, as seen in 'THIS IS NOT A NORMAL GROCERY STORE [Hellmart]', engages audiences.",
-          "percentageOfTotalViews": "Estimated 15% based on unique title appeal.",
-          "insights": "Invest in creative and comedic content that offers a novel perspective or parody to attract a larger audience."
+        "observations": {
+          "strongInterest": "Entertainment and gaming content are prominent, suggesting a high viewer interest in these areas.",
+          "diversity": "The variety of content types (trailer, music video, gaming) indicates a diverse audience."
         }
       },
       "creatorPatterns": {
-        "singleUploads": {
-          "description": "All top channels have uploaded only one video each, indicating a diverse range of content creators.",
-          "insights": "Focus on collaboration opportunities across different content types to expand reach."
+        "topChannels": {
+          "Pixar": {
+            "videos": 1,
+            "contentType": "Entertainment",
+            "potentialReach": "High due to brand recognition"
+          },
+          "Brawl Stars": {
+            "videos": 1,
+            "contentType": "Gaming",
+            "potentialReach": "High among gaming enthusiasts"
+          }
         },
-        "channelDiversity": {
-          "description": "Channels range from gaming to music to entertainment, showing no single category dominance.",
-          "insights": "Develop multi-category content strategies to cater to varied audience interests."
+        "observations": {
+          "brandPower": "Established brands like Pixar and HBO Max dominate in terms of viewership potential.",
+          "individualCreators": "Channels like YFG Fatso and Tyler & Snowi show potential for growth with unique content offerings."
         }
       },
       "marketOpportunities": {
-        "cross-promotion": {
-          "description": "Opportunity to link gaming and entertainment content, such as trailers with in-game promotions or events.",
-          "action": "Create hybrid content that appeals to both gaming and entertainment audiences."
+        "emergingTrends": {
+          "music": "The inclusion of a music video suggests a growing trend for music content, especially those with unique videography.",
+          "gaming": "Gaming continues to be a strong content category; further exploration into niche gaming topics could be beneficial."
         },
-        "emergingCreators": {
-          "description": "Support emerging creators like YFG Fatso by featuring them in collaborative projects or playlists.",
-          "action": "Identify and promote upcoming creators in the music and gaming sectors to attract niche audiences."
-        },
-        "trendAnalysis": {
-          "description": "Continuous monitoring of gaming and entertainment releases for timely content creation.",
-          "action": "Establish a content calendar aligned with major game releases and entertainment premieres to maximize relevance."
+        "contentSuggestions": {
+          "crossPromotion": "Collaborations between entertainment and gaming channels could capture a broader audience.",
+          "localizedContent": "Translating popular content into different languages, as seen with the *NSYNC lyrics video, could increase reach."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1954762
+        "avg_views_per_video": 2550746
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
