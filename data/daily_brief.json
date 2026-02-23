@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-23T12:24:25.694183",
+  "timestamp": "2026-02-23T15:23:37.424924",
   "date": "2026-02-23",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SArhNp6p4jM/hqdefault.jpg",
       "duration": "PT12M30S",
       "duration_seconds": 750,
-      "view_count": 169370,
-      "like_count": 5397,
-      "comment_count": 487,
+      "view_count": 194275,
+      "like_count": 5947,
+      "comment_count": 536,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SArhNp6p4jM"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i4sWgov4sWU/hqdefault.jpg",
       "duration": "PT1H14M4S",
       "duration_seconds": 4444,
-      "view_count": 504735,
-      "like_count": 17133,
-      "comment_count": 1162,
+      "view_count": 536046,
+      "like_count": 18154,
+      "comment_count": 1220,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -58,9 +58,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lDUD3omAlHA/hqdefault.jpg",
       "duration": "PT3M4S",
       "duration_seconds": 184,
-      "view_count": 82977,
-      "like_count": 21936,
-      "comment_count": 1685,
+      "view_count": 202640,
+      "like_count": 34875,
+      "comment_count": 2323,
       "category_id": "24",
       "tags": [
         "GMMTV",
@@ -103,9 +103,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c51ND9Hdbw0/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 8485713,
-      "like_count": 219721,
-      "comment_count": 17355,
+      "view_count": 8528367,
+      "like_count": 220400,
+      "comment_count": 17402,
       "category_id": "1",
       "tags": [
         "Pixar",
@@ -143,9 +143,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6QaYhTXwpU/hqdefault.jpg",
       "duration": "PT3M21S",
       "duration_seconds": 201,
-      "view_count": 429096,
-      "like_count": 2299,
-      "comment_count": 17,
+      "view_count": 475421,
+      "like_count": 2513,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "nsync bye bye bye sub espanol",
@@ -162,6 +162,34 @@
       "url": "https://www.youtube.com/watch?v=i6QaYhTXwpU"
     },
     {
+      "video_id": "zfq87oi0kGE",
+      "title": "This RE4 Remake Randomizer is insane...🔴Full Stream🔴 (2-22)",
+      "description": "Check out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-02-23T12:27:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zfq87oi0kGE/hqdefault.jpg",
+      "duration": "PT6H41M47S",
+      "duration_seconds": 24107,
+      "view_count": 149160,
+      "like_count": 2136,
+      "comment_count": 7,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=zfq87oi0kGE"
+    },
+    {
       "video_id": "K_cFkX3D9y8",
       "title": "It Watches",
       "description": "It watches... are you watching? Are you watching it watch you?\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV  \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
@@ -171,9 +199,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K_cFkX3D9y8/hqdefault.jpg",
       "duration": "PT20M28S",
       "duration_seconds": 1228,
-      "view_count": 797703,
-      "like_count": 55091,
-      "comment_count": 2449,
+      "view_count": 841247,
+      "like_count": 57225,
+      "comment_count": 2494,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -190,32 +218,30 @@
       "url": "https://www.youtube.com/watch?v=K_cFkX3D9y8"
     },
     {
-      "video_id": "Ol83Zt74I0s",
-      "title": "11900+ Knocks (Stella Montis demon)",
-      "description": "Watch me LIVE everyday on Twitch► Twitch.tv/Tfue\nFollow me on Twitter ►https://www.twitter.com/tfue\nFollow me on Instagram ► https://www.instagram.com/tfue\n\n#arcraiders  #tfue",
-      "channel_title": "Tfue",
-      "channel_id": "UC9lSZSYpDDE18hoFA7YlBpw",
-      "published_at": "2026-02-23T09:37:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ol83Zt74I0s/hqdefault.jpg",
-      "duration": "PT11H54M5S",
-      "duration_seconds": 42845,
-      "view_count": 542583,
-      "like_count": 3439,
-      "comment_count": 7,
+      "video_id": "1Dt7zqBHwgY",
+      "title": "IT'S BEEN YEARS AND BRO STILL TWEAKING | Poppy Playtime: Chapter 5",
+      "description": "Official #EEZYGANG MERCH!! - https://www.eezygang.com\n\nMy Twitch ► https://www.twitch.tv/berleezy\nMy Instagram ► https://www.instagram.com/berleezy\nMy Twitter ► https://twitter.com/berleezy\nLike me on Facebook ► https://www.facebook.com/berleezy\n\nBECOME A MEMBER and SUPPORT the #EEZYGANG today!! (Users of iOS and other unsupported devices can use this link to become members)\nhttps://www.youtube.com/channel/UCp1VWSTrt2cUBInkn4dUmDA/join\n\nIf you’re reading the description, this is Berleezy's official gaming channel! Subscribe for gaming, horror let’s play videos and fire ass content every week!",
+      "channel_title": "berleezy",
+      "channel_id": "UCp1VWSTrt2cUBInkn4dUmDA",
+      "published_at": "2026-02-22T16:08:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Dt7zqBHwgY/hqdefault.jpg",
+      "duration": "PT4H7M54S",
+      "duration_seconds": 14874,
+      "view_count": 351144,
+      "like_count": 23160,
+      "comment_count": 1541,
       "category_id": "20",
       "tags": [
-        "Tfue",
-        "Fortnite",
-        "OG Fortnite",
-        "Victory Royale",
-        "Fortnite Chapter 4",
-        "OGFOrtnite",
-        "Tfue Livestream",
-        "Tfue Full Vod",
-        "Tfue Stream Highlights",
-        "Tfue Streamhighlights"
+        "Berleezy",
+        "iBerleezy",
+        "Gameplay",
+        "Walkthrough",
+        "Lets Play",
+        "Comedy",
+        "Commentary",
+        "Hilarious"
       ],
-      "url": "https://www.youtube.com/watch?v=Ol83Zt74I0s"
+      "url": "https://www.youtube.com/watch?v=1Dt7zqBHwgY"
     }
   ],
   "videos_with_transcripts": [],
@@ -230,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SArhNp6p4jM/hqdefault.jpg",
       "duration": "PT12M30S",
       "duration_seconds": 750,
-      "view_count": 169370,
-      "like_count": 5397,
-      "comment_count": 487,
+      "view_count": 194275,
+      "like_count": 5947,
+      "comment_count": 536,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SArhNp6p4jM"
@@ -247,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i4sWgov4sWU/hqdefault.jpg",
       "duration": "PT1H14M4S",
       "duration_seconds": 4444,
-      "view_count": 504735,
-      "like_count": 17133,
-      "comment_count": 1162,
+      "view_count": 536046,
+      "like_count": 18154,
+      "comment_count": 1220,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -266,9 +292,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lDUD3omAlHA/hqdefault.jpg",
       "duration": "PT3M4S",
       "duration_seconds": 184,
-      "view_count": 82977,
-      "like_count": 21936,
-      "comment_count": 1685,
+      "view_count": 202640,
+      "like_count": 34875,
+      "comment_count": 2323,
       "category_id": "24",
       "tags": [
         "GMMTV",
@@ -311,9 +337,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c51ND9Hdbw0/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 8485713,
-      "like_count": 219721,
-      "comment_count": 17355,
+      "view_count": 8528367,
+      "like_count": 220400,
+      "comment_count": 17402,
       "category_id": "1",
       "tags": [
         "Pixar",
@@ -342,6 +368,34 @@
       "url": "https://www.youtube.com/watch?v=i1AYHz1VlRQ"
     },
     {
+      "video_id": "zfq87oi0kGE",
+      "title": "This RE4 Remake Randomizer is insane...🔴Full Stream🔴 (2-22)",
+      "description": "Check out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-02-23T12:27:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zfq87oi0kGE/hqdefault.jpg",
+      "duration": "PT6H41M47S",
+      "duration_seconds": 24107,
+      "view_count": 149160,
+      "like_count": 2136,
+      "comment_count": 7,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=zfq87oi0kGE"
+    },
+    {
       "video_id": "K_cFkX3D9y8",
       "title": "It Watches",
       "description": "It watches... are you watching? Are you watching it watch you?\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV  \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
@@ -351,9 +405,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K_cFkX3D9y8/hqdefault.jpg",
       "duration": "PT20M28S",
       "duration_seconds": 1228,
-      "view_count": 797703,
-      "like_count": 55091,
-      "comment_count": 2449,
+      "view_count": 841247,
+      "like_count": 57225,
+      "comment_count": 2494,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -370,32 +424,30 @@
       "url": "https://www.youtube.com/watch?v=K_cFkX3D9y8"
     },
     {
-      "video_id": "Ol83Zt74I0s",
-      "title": "11900+ Knocks (Stella Montis demon)",
-      "description": "Watch me LIVE everyday on Twitch► Twitch.tv/Tfue\nFollow me on Twitter ►https://www.twitter.com/tfue\nFollow me on Instagram ► https://www.instagram.com/tfue\n\n#arcraiders  #tfue",
-      "channel_title": "Tfue",
-      "channel_id": "UC9lSZSYpDDE18hoFA7YlBpw",
-      "published_at": "2026-02-23T09:37:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ol83Zt74I0s/hqdefault.jpg",
-      "duration": "PT11H54M5S",
-      "duration_seconds": 42845,
-      "view_count": 542583,
-      "like_count": 3439,
-      "comment_count": 7,
+      "video_id": "1Dt7zqBHwgY",
+      "title": "IT'S BEEN YEARS AND BRO STILL TWEAKING | Poppy Playtime: Chapter 5",
+      "description": "Official #EEZYGANG MERCH!! - https://www.eezygang.com\n\nMy Twitch ► https://www.twitch.tv/berleezy\nMy Instagram ► https://www.instagram.com/berleezy\nMy Twitter ► https://twitter.com/berleezy\nLike me on Facebook ► https://www.facebook.com/berleezy\n\nBECOME A MEMBER and SUPPORT the #EEZYGANG today!! (Users of iOS and other unsupported devices can use this link to become members)\nhttps://www.youtube.com/channel/UCp1VWSTrt2cUBInkn4dUmDA/join\n\nIf you’re reading the description, this is Berleezy's official gaming channel! Subscribe for gaming, horror let’s play videos and fire ass content every week!",
+      "channel_title": "berleezy",
+      "channel_id": "UCp1VWSTrt2cUBInkn4dUmDA",
+      "published_at": "2026-02-22T16:08:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Dt7zqBHwgY/hqdefault.jpg",
+      "duration": "PT4H7M54S",
+      "duration_seconds": 14874,
+      "view_count": 351144,
+      "like_count": 23160,
+      "comment_count": 1541,
       "category_id": "20",
       "tags": [
-        "Tfue",
-        "Fortnite",
-        "OG Fortnite",
-        "Victory Royale",
-        "Fortnite Chapter 4",
-        "OGFOrtnite",
-        "Tfue Livestream",
-        "Tfue Full Vod",
-        "Tfue Stream Highlights",
-        "Tfue Streamhighlights"
+        "Berleezy",
+        "iBerleezy",
+        "Gameplay",
+        "Walkthrough",
+        "Lets Play",
+        "Comedy",
+        "Commentary",
+        "Hilarious"
       ],
-      "url": "https://www.youtube.com/watch?v=Ol83Zt74I0s"
+      "url": "https://www.youtube.com/watch?v=1Dt7zqBHwgY"
     },
     {
       "video_id": "i6QaYhTXwpU",
@@ -407,9 +459,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i6QaYhTXwpU/hqdefault.jpg",
       "duration": "PT3M21S",
       "duration_seconds": 201,
-      "view_count": 429096,
-      "like_count": 2299,
-      "comment_count": 17,
+      "view_count": 475421,
+      "like_count": 2513,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "nsync bye bye bye sub espanol",
@@ -429,108 +481,84 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "totalVideos": 9,
-      "totalViews": 11012177,
-      "averageViewsPerVideo": 1223575.22,
-      "insights": {
-        "contentTrends": {
-          "themes": [
-            "Entertainment",
-            "Trailers",
-            "Music",
-            "Weather",
-            "Gaming"
-          ],
-          "popularGenres": [
-            "Movies",
-            "Music",
-            "Live Coverage",
-            "Gaming"
-          ],
-          "trailerDominance": {
-            "description": "A significant portion of trending content is related to movie trailers, highlighting the audience's interest in upcoming films.",
-            "percentageOfTrailerContent": 33.33,
-            "trailerVideos": [
-              "AVENGERS DOOMSDAY TRAILER & Post Credit Deleted Scene Breakdown",
-              "Toy Story 5 | Official Trailer | In Theaters June 19",
-              "[Official Trailer] Girl Rules กฎหลัก...ห้ามรักเธอ"
-            ]
+      "overview": {
+        "total_videos": 10,
+        "total_views": 11278300,
+        "average_views_per_video": 1127830
+      },
+      "content_trends": {
+        "dominant_themes": [
+          "Movies and Trailers",
+          "Gaming",
+          "Weather Live Coverage",
+          "Music and Lyrics"
+        ],
+        "meta_analysis": {
+          "movies_trailers_related": 4,
+          "gaming_related": 2,
+          "music_related": 1,
+          "weather_related": 1
+        }
+      },
+      "creator_patterns": {
+        "top_channels": [
+          {
+            "name": "Emergency Awesome",
+            "video_count": 1,
+            "content_focus": "Movie breakdowns and trailers"
           },
-          "musicContent": {
-            "description": "Music and lyric videos maintain a strong presence, indicating ongoing demand for diverse music content.",
-            "percentageOfMusicContent": 11.11,
-            "musicVideos": [
-              "*NSYNC - Bye Bye Bye // Lyrics / Sub. Español"
-            ]
+          {
+            "name": "Joe Bart Games",
+            "video_count": 1,
+            "content_focus": "Gaming"
+          },
+          {
+            "name": "GMMTV OFFICIAL",
+            "video_count": 1,
+            "content_focus": "Official Trailers"
+          },
+          {
+            "name": "Fox Weather",
+            "video_count": 1,
+            "content_focus": "Live Weather Coverage"
+          },
+          {
+            "name": "Pixar",
+            "video_count": 1,
+            "content_focus": "Animated Movies"
           }
+        ],
+        "content_diversity": {
+          "total_channels": 5,
+          "average_videos_per_channel": 2,
+          "unique_channels": 5
+        }
+      },
+      "market_opportunities": {
+        "trailer_and_breakdowns": {
+          "insight": "High interest in movie-related content, especially breakdowns and trailers.",
+          "actionable_opportunity": "Create detailed breakdowns or analysis videos of popular upcoming movies or series."
         },
-        "creatorPatterns": {
-          "topChannels": [
-            {
-              "channelName": "Emergency Awesome",
-              "videoCount": 1,
-              "contentType": "Entertainment"
-            },
-            {
-              "channelName": "Joe Bart Games",
-              "videoCount": 1,
-              "contentType": "Gaming"
-            },
-            {
-              "channelName": "GMMTV OFFICIAL",
-              "videoCount": 1,
-              "contentType": "Entertainment"
-            },
-            {
-              "channelName": "Fox Weather",
-              "videoCount": 1,
-              "contentType": "Weather"
-            },
-            {
-              "channelName": "Pixar",
-              "videoCount": 1,
-              "contentType": "Movies"
-            }
-          ],
-          "diversityInContent": {
-            "description": "A wide range of content types is present, suggesting that audiences are engaging with both niche and mainstream topics.",
-            "categoryDiversity": [
-              "Entertainment",
-              "Gaming",
-              "Weather",
-              "Movies"
-            ]
-          }
+        "gaming_content": {
+          "insight": "Engagement with gaming streams and content remains strong.",
+          "actionable_opportunity": "Explore creating niche gaming content, such as strategy guides or highlight reels."
         },
-        "marketOpportunities": {
-          "untappedCategories": [
-            "Technology",
-            "Health & Wellness",
-            "Education"
-          ],
-          "potentialStrategies": [
-            {
-              "strategy": "Leverage Movie Trailers",
-              "description": "Create content around movie trailers, such as reviews, breakdowns, and reactions to capitalize on high interest."
-            },
-            {
-              "strategy": "Expand Music Video Content",
-              "description": "Develop lyric and subtitled videos to attract multilingual audiences and fans of older music hits."
-            },
-            {
-              "strategy": "Integrate Gaming with Entertainment",
-              "description": "Combine gaming content with entertainment themes, such as game-based movie reviews, to attract crossover audiences."
-            }
-          ]
+        "live_coverage": {
+          "insight": "Live coverage for events like weather updates garners audience interest.",
+          "actionable_opportunity": "Consider live streaming for real-time engagement on trending topics or events."
+        },
+        "music_and_lyrics": {
+          "insight": "Nostalgic and subtitle content like classic music lyrics gets attention.",
+          "actionable_opportunity": "Produce lyric videos for popular or nostalgic songs, potentially with translations for wider reach."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1223575
+        "avg_views_per_video": 1127830
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
