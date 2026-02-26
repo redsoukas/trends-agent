@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-26T12:24:53.580084",
+  "timestamp": "2026-02-26T15:24:38.831798",
   "date": "2026-02-26",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 6,
-    "high_potential_videos": 7,
+    "high_potential_videos": 6,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3446591,
-      "like_count": 94271,
-      "comment_count": 5694,
+      "view_count": 3875944,
+      "like_count": 102890,
+      "comment_count": 6094,
       "category_id": "1",
       "tags": [
         "2026",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e0ii_btaNWs/hqdefault.jpg",
       "duration": "PT7H3M48S",
       "duration_seconds": 25428,
-      "view_count": 935710,
-      "like_count": 16831,
-      "comment_count": 67,
+      "view_count": 965405,
+      "like_count": 17469,
+      "comment_count": 123,
       "category_id": "20",
       "tags": [
         "funny",
@@ -71,9 +71,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qtZeYpjJHi8/hqdefault.jpg",
       "duration": "PT28S",
       "duration_seconds": 28,
-      "view_count": 87694,
-      "like_count": 3204,
-      "comment_count": 305,
+      "view_count": 101194,
+      "like_count": 3464,
+      "comment_count": 316,
       "category_id": "23",
       "tags": [
         "ti",
@@ -90,21 +90,29 @@
       "url": "https://www.youtube.com/watch?v=qtZeYpjJHi8"
     },
     {
-      "video_id": "mlH_7dkZMrc",
-      "title": "The State of the Union and Democratic Response",
-      "description": "President Donald Trump delivers the State of the Union Address, plus the Democratic response from Virginia Governor Abigail Spanberger.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-02-25T13:50:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mlH_7dkZMrc/hqdefault.jpg",
-      "duration": "PT2H21M51S",
-      "duration_seconds": 8511,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
+      "video_id": "WuwxkkSSeug",
+      "title": "Sirius - No more Brawl Stars! (Brawl Stars Animation)",
+      "description": "🫷 Sirius, The First Star of Starr Park is here! 🫸\n\n🌟 Get 20 Boxes in the Sirius Release event to unlock the Brawler\n⭐️ 99 Brawler win Quests! If you have all 99 Brawler you can also get 1 win with each of them to unlock Sirius!\n✨ Completing these Quests also rewards you with Sirius-themed cosmetics and 1 Sirius Box!\n🔥 Sirius' Hypercharge is out today as well!\n💥 New game mode: SHADOW SMASH!\n🗓️ Lucky Daily Wins today!\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gem",
+      "channel_title": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "published_at": "2026-02-26T08:06:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WuwxkkSSeug/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 1758620,
+      "like_count": 73043,
+      "comment_count": 2189,
+      "category_id": "20",
+      "tags": [
+        "brawl stars",
+        "mobile game",
+        "mobile strategy game",
+        "mobile rpg",
+        "mobile battle royale",
+        "battle royale",
+        "supercell game"
+      ],
+      "url": "https://www.youtube.com/watch?v=WuwxkkSSeug"
     },
     {
       "video_id": "BzTEykaT93U",
@@ -116,9 +124,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BzTEykaT93U/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 50534,
-      "like_count": 3951,
-      "comment_count": 146,
+      "view_count": 54524,
+      "like_count": 4310,
+      "comment_count": 161,
       "category_id": "22",
       "tags": [
         "BabyDrill",
@@ -144,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n8Er6osVDWg/hqdefault.jpg",
       "duration": "PT2M41S",
       "duration_seconds": 161,
-      "view_count": 129940,
-      "like_count": 2786,
-      "comment_count": 457,
+      "view_count": 143842,
+      "like_count": 2942,
+      "comment_count": 485,
       "category_id": "24",
       "tags": [
         "2026",
@@ -163,6 +171,34 @@
       "url": "https://www.youtube.com/watch?v=n8Er6osVDWg"
     },
     {
+      "video_id": "aCuGieFUDjE",
+      "title": "I Moved Into The Wrong Neighborhood…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-02-25T23:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aCuGieFUDjE/hqdefault.jpg",
+      "duration": "PT58M24S",
+      "duration_seconds": 3504,
+      "view_count": 325297,
+      "like_count": 12758,
+      "comment_count": 737,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=aCuGieFUDjE"
+    },
+    {
       "video_id": "6HyfFBuo0oQ",
       "title": "The Game You Cannot Escape - Half Life & Black Mesa Retrospective & History",
       "description": "Go to https://buyraycon.com/IFAVGOPEN to get 15% off. Thanks to Raycon for sponsoring!\n\nThe channel arrives late for work thanks to the Patrons - https://patreon.com/IFinishedAVideoGame\nUse code RIDICTIE for 50% off your first month!\n\nTWITCH - https://www.twitch.tv/ifinishedavideogame\nDISCORD - https://discord.gg/kghsYXfbFe\n\n=====\n\n\"Gordon Freeman in the flesh. Or rather, in the Hazard Suit\"\n\nToday we are taking on a big one - the crazed story of Valve's first masterpiece - the shooter that changed a genre and an industry - HALF LIFE\n\nWe're not only going to unpick the crazy story of it's development, explore it's incredible legacy and discuss it's highly controversial ending - but also trace it's descendants - strange expansions, baffling mods, unlikely ports and one of the most enthralling remakes ever made.\n\nIt's part critique, part retrospective, part review and part history lesson - obviously full of spoilers and obviously full of my opinions\n\n=====\n\nCredit for the fantastic thumb",
@@ -172,9 +208,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6HyfFBuo0oQ/hqdefault.jpg",
       "duration": "PT2H1M7S",
       "duration_seconds": 7267,
-      "view_count": 93243,
-      "like_count": 2255,
-      "comment_count": 231,
+      "view_count": 102465,
+      "like_count": 2433,
+      "comment_count": 244,
       "category_id": "20",
       "tags": [
         "half life",
@@ -191,49 +227,21 @@
       "url": "https://www.youtube.com/watch?v=6HyfFBuo0oQ"
     },
     {
-      "video_id": "jM3SCZo8rAE",
-      "title": "The Lost World: Jurassic Park",
-      "description": "Four years after \"Jurassic Park,\" mathematician Ian Malcolm ventures onto a second island to save his girlfriend from becoming dinosaur bait.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-02-26T09:52:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jM3SCZo8rAE/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
+      "video_id": "mlH_7dkZMrc",
+      "title": "The State of the Union and Democratic Response",
+      "description": "President Donald Trump delivers the State of the Union Address, plus the Democratic response from Virginia Governor Abigail Spanberger.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-02-25T13:50:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mlH_7dkZMrc/hqdefault.jpg",
+      "duration": "PT2H21M51S",
+      "duration_seconds": 8511,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
-    },
-    {
-      "video_id": "aCuGieFUDjE",
-      "title": "I Moved Into The Wrong Neighborhood…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-25T23:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCuGieFUDjE/hqdefault.jpg",
-      "duration": "PT58M24S",
-      "duration_seconds": 3504,
-      "view_count": 289856,
-      "like_count": 11341,
-      "comment_count": 698,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=aCuGieFUDjE"
+      "url": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
     }
   ],
   "videos_with_transcripts": [],
@@ -248,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3446591,
-      "like_count": 94271,
-      "comment_count": 5694,
+      "view_count": 3875944,
+      "like_count": 102890,
+      "comment_count": 6094,
       "category_id": "1",
       "tags": [
         "2026",
@@ -276,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e0ii_btaNWs/hqdefault.jpg",
       "duration": "PT7H3M48S",
       "duration_seconds": 25428,
-      "view_count": 935710,
-      "like_count": 16831,
-      "comment_count": 67,
+      "view_count": 965405,
+      "like_count": 17469,
+      "comment_count": 123,
       "category_id": "20",
       "tags": [
         "funny",
@@ -286,6 +294,90 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=e0ii_btaNWs"
+    },
+    {
+      "video_id": "n8Er6osVDWg",
+      "title": "MORTAL KOMBAT 2 Official Trailer 2 (2026)",
+      "description": "Official Mortal Kombat 2 Movie Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Karl Urban Movie Trailer | Cinema: 8 May 2026 | Details ➤ https://KinoCheck.com/movie/qy3/mortal-kombat-2-2026?utm_source=youtube&utm_medium=description\n'Mortal Kombat 2' intensifies the battle against Shang Tsung, hinting at an imminent showdown between Earth and Outworld. The anticipated sequel promises the return of classic characters and a deeper exploration of the tournament's lore, building up excitement for fans.\n\nMortal Kombat 2 (2026) is the new action movie by Simon McQuoid, starring Karl Urban, Hiroyuki Sanada and Chin Han.\n\nNote | #MortalKombat2 #Trailer courtesy of Warner Bros. Pictures Germany. | All Rights Reserved. #KinoCheck®",
+      "channel_title": "KinoCheck.com",
+      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
+      "published_at": "2026-02-25T18:08:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n8Er6osVDWg/hqdefault.jpg",
+      "duration": "PT2M41S",
+      "duration_seconds": 161,
+      "view_count": 143842,
+      "like_count": 2942,
+      "comment_count": 485,
+      "category_id": "24",
+      "tags": [
+        "2026",
+        "Action",
+        "Chin Han",
+        "FIght",
+        "Hiroyuki Sanada",
+        "Karl Urban",
+        "KinoCheck",
+        "Kombat",
+        "Mortal",
+        "Mortal Kombat 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=n8Er6osVDWg"
+    },
+    {
+      "video_id": "aCuGieFUDjE",
+      "title": "I Moved Into The Wrong Neighborhood…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-02-25T23:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aCuGieFUDjE/hqdefault.jpg",
+      "duration": "PT58M24S",
+      "duration_seconds": 3504,
+      "view_count": 325297,
+      "like_count": 12758,
+      "comment_count": 737,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=aCuGieFUDjE"
+    },
+    {
+      "video_id": "6HyfFBuo0oQ",
+      "title": "The Game You Cannot Escape - Half Life & Black Mesa Retrospective & History",
+      "description": "Go to https://buyraycon.com/IFAVGOPEN to get 15% off. Thanks to Raycon for sponsoring!\n\nThe channel arrives late for work thanks to the Patrons - https://patreon.com/IFinishedAVideoGame\nUse code RIDICTIE for 50% off your first month!\n\nTWITCH - https://www.twitch.tv/ifinishedavideogame\nDISCORD - https://discord.gg/kghsYXfbFe\n\n=====\n\n\"Gordon Freeman in the flesh. Or rather, in the Hazard Suit\"\n\nToday we are taking on a big one - the crazed story of Valve's first masterpiece - the shooter that changed a genre and an industry - HALF LIFE\n\nWe're not only going to unpick the crazy story of it's development, explore it's incredible legacy and discuss it's highly controversial ending - but also trace it's descendants - strange expansions, baffling mods, unlikely ports and one of the most enthralling remakes ever made.\n\nIt's part critique, part retrospective, part review and part history lesson - obviously full of spoilers and obviously full of my opinions\n\n=====\n\nCredit for the fantastic thumb",
+      "channel_title": "I Finished A Video Game",
+      "channel_id": "UCVdDUN69YsAXPxh2y71sMtQ",
+      "published_at": "2026-02-25T19:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6HyfFBuo0oQ/hqdefault.jpg",
+      "duration": "PT2H1M7S",
+      "duration_seconds": 7267,
+      "view_count": 102465,
+      "like_count": 2433,
+      "comment_count": 244,
+      "category_id": "20",
+      "tags": [
+        "half life",
+        "valve",
+        "half life 2",
+        "quake",
+        "doom",
+        "portal",
+        "counter strike",
+        "left 4 dead",
+        "video game review",
+        "video game retrospective"
+      ],
+      "url": "https://www.youtube.com/watch?v=6HyfFBuo0oQ"
     },
     {
       "video_id": "mlH_7dkZMrc",
@@ -305,107 +397,6 @@
       "url": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
     },
     {
-      "video_id": "n8Er6osVDWg",
-      "title": "MORTAL KOMBAT 2 Official Trailer 2 (2026)",
-      "description": "Official Mortal Kombat 2 Movie Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Karl Urban Movie Trailer | Cinema: 8 May 2026 | Details ➤ https://KinoCheck.com/movie/qy3/mortal-kombat-2-2026?utm_source=youtube&utm_medium=description\n'Mortal Kombat 2' intensifies the battle against Shang Tsung, hinting at an imminent showdown between Earth and Outworld. The anticipated sequel promises the return of classic characters and a deeper exploration of the tournament's lore, building up excitement for fans.\n\nMortal Kombat 2 (2026) is the new action movie by Simon McQuoid, starring Karl Urban, Hiroyuki Sanada and Chin Han.\n\nNote | #MortalKombat2 #Trailer courtesy of Warner Bros. Pictures Germany. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-02-25T18:08:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n8Er6osVDWg/hqdefault.jpg",
-      "duration": "PT2M41S",
-      "duration_seconds": 161,
-      "view_count": 129940,
-      "like_count": 2786,
-      "comment_count": 457,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Action",
-        "Chin Han",
-        "FIght",
-        "Hiroyuki Sanada",
-        "Karl Urban",
-        "KinoCheck",
-        "Kombat",
-        "Mortal",
-        "Mortal Kombat 2"
-      ],
-      "url": "https://www.youtube.com/watch?v=n8Er6osVDWg"
-    },
-    {
-      "video_id": "6HyfFBuo0oQ",
-      "title": "The Game You Cannot Escape - Half Life & Black Mesa Retrospective & History",
-      "description": "Go to https://buyraycon.com/IFAVGOPEN to get 15% off. Thanks to Raycon for sponsoring!\n\nThe channel arrives late for work thanks to the Patrons - https://patreon.com/IFinishedAVideoGame\nUse code RIDICTIE for 50% off your first month!\n\nTWITCH - https://www.twitch.tv/ifinishedavideogame\nDISCORD - https://discord.gg/kghsYXfbFe\n\n=====\n\n\"Gordon Freeman in the flesh. Or rather, in the Hazard Suit\"\n\nToday we are taking on a big one - the crazed story of Valve's first masterpiece - the shooter that changed a genre and an industry - HALF LIFE\n\nWe're not only going to unpick the crazy story of it's development, explore it's incredible legacy and discuss it's highly controversial ending - but also trace it's descendants - strange expansions, baffling mods, unlikely ports and one of the most enthralling remakes ever made.\n\nIt's part critique, part retrospective, part review and part history lesson - obviously full of spoilers and obviously full of my opinions\n\n=====\n\nCredit for the fantastic thumb",
-      "channel_title": "I Finished A Video Game",
-      "channel_id": "UCVdDUN69YsAXPxh2y71sMtQ",
-      "published_at": "2026-02-25T19:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6HyfFBuo0oQ/hqdefault.jpg",
-      "duration": "PT2H1M7S",
-      "duration_seconds": 7267,
-      "view_count": 93243,
-      "like_count": 2255,
-      "comment_count": 231,
-      "category_id": "20",
-      "tags": [
-        "half life",
-        "valve",
-        "half life 2",
-        "quake",
-        "doom",
-        "portal",
-        "counter strike",
-        "left 4 dead",
-        "video game review",
-        "video game retrospective"
-      ],
-      "url": "https://www.youtube.com/watch?v=6HyfFBuo0oQ"
-    },
-    {
-      "video_id": "jM3SCZo8rAE",
-      "title": "The Lost World: Jurassic Park",
-      "description": "Four years after \"Jurassic Park,\" mathematician Ian Malcolm ventures onto a second island to save his girlfriend from becoming dinosaur bait.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-02-26T09:52:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jM3SCZo8rAE/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
-    },
-    {
-      "video_id": "aCuGieFUDjE",
-      "title": "I Moved Into The Wrong Neighborhood…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-02-25T23:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCuGieFUDjE/hqdefault.jpg",
-      "duration": "PT58M24S",
-      "duration_seconds": 3504,
-      "view_count": 289856,
-      "like_count": 11341,
-      "comment_count": 698,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=aCuGieFUDjE"
-    },
-    {
       "video_id": "qtZeYpjJHi8",
       "title": "T.I. - “Let ‘Em Know” (Official Trailer) [Dir. Hype Williams]",
       "description": "Aight now back to some important sh*t... ✍🏽 Write dis down... We goin #1 this week and dropping da video Friday!!! Anything else is just extra sauce!!!! When my brother @Pharrell  hands me a masterpiece, we elevate the standard. Queens Legend Hype Williams architect of the video for the song the culture chose \"Let 'Em Know.\" dropping it THIS FRIDAY on BET & VEVO. U dig what I'm saying? Conduct yourselves accordingly, or accept ya consequences. 🫡👑🎬💯💪🏽\n\nSubscribe on YouTube - https://bit.ly/TIPYouTube\n\nWatch T.I.'s official music videos - https://bit.ly/TIMusicVideos\nexpediTIously full episodes - https://bit.ly/expediTIouslyEpisodes\nexpediTIously clips - https://bit.ly/expediTIouslyClips\n\nFollow T.I.:\nInstagram - https://www.instagram.com/tip/\nTwitter - https://twitter.com/tip\nFacebook - https://www.facebook.com/TI\n\n#TI #letemknow",
@@ -415,9 +406,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qtZeYpjJHi8/hqdefault.jpg",
       "duration": "PT28S",
       "duration_seconds": 28,
-      "view_count": 87694,
-      "like_count": 3204,
-      "comment_count": 305,
+      "view_count": 101194,
+      "like_count": 3464,
+      "comment_count": 316,
       "category_id": "23",
       "tags": [
         "ti",
@@ -434,6 +425,31 @@
       "url": "https://www.youtube.com/watch?v=qtZeYpjJHi8"
     },
     {
+      "video_id": "WuwxkkSSeug",
+      "title": "Sirius - No more Brawl Stars! (Brawl Stars Animation)",
+      "description": "🫷 Sirius, The First Star of Starr Park is here! 🫸\n\n🌟 Get 20 Boxes in the Sirius Release event to unlock the Brawler\n⭐️ 99 Brawler win Quests! If you have all 99 Brawler you can also get 1 win with each of them to unlock Sirius!\n✨ Completing these Quests also rewards you with Sirius-themed cosmetics and 1 Sirius Box!\n🔥 Sirius' Hypercharge is out today as well!\n💥 New game mode: SHADOW SMASH!\n🗓️ Lucky Daily Wins today!\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gem",
+      "channel_title": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "published_at": "2026-02-26T08:06:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WuwxkkSSeug/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 1758620,
+      "like_count": 73043,
+      "comment_count": 2189,
+      "category_id": "20",
+      "tags": [
+        "brawl stars",
+        "mobile game",
+        "mobile strategy game",
+        "mobile rpg",
+        "mobile battle royale",
+        "battle royale",
+        "supercell game"
+      ],
+      "url": "https://www.youtube.com/watch?v=WuwxkkSSeug"
+    },
+    {
       "video_id": "BzTEykaT93U",
       "title": "BabyDrill- Knocked Off (Official Music Video)",
       "description": "Stream BabyDrill's Single 'Knocked Off' Here:\nBabyDrill.lnk.to/knockedoff\n\nDirected By YungTacc \n\nFollow BabyDrill Here:  \nhttps://www.instagram.com/babydrill/\nhttps://www.tiktok.com/@babydrill_4l\nhttps://x.com/BabyDrill4L  \nhttps://www.facebook.com/babydrill4l\nhttps://soundcloud.com/babydrill4l",
@@ -443,9 +459,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BzTEykaT93U/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 50534,
-      "like_count": 3951,
-      "comment_count": 146,
+      "view_count": 54524,
+      "like_count": 4310,
+      "comment_count": 161,
       "category_id": "22",
       "tags": [
         "BabyDrill",
@@ -465,69 +481,88 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "total_videos": 9,
-      "total_views": 5033568,
-      "average_views_per_video": 559285,
-      "content_trends": {
-        "video_categories": {
-          "entertainment": 5,
-          "news": 1,
-          "gaming": 1,
-          "music": 2
-        },
-        "observations": [
-          {
-            "trend": "remake_and_retro_content",
-            "insight": "There is a notable presence of content related to remakes or retrospectives, such as 'Mortal Kombat' and 'Jurassic Park'. This suggests a trend where audiences are interested in nostalgic or revamped content."
-          },
-          {
-            "trend": "live_streaming",
-            "insight": "The presence of live streaming content ('🔴LIVE | RV THERE YET NEW MAP w/ Cloakzy & Gingy & Officer') indicates an ongoing trend where real-time interaction and gaming content remain popular."
-          },
-          {
-            "trend": "music_and_entertainment",
-            "insight": "Music videos and trailers ('T.I. - “Let ‘Em Know”', 'BabyDrill- Knocked Off') continue to engage audiences, showing that music and entertainment remain strong content pillars."
-          },
-          {
-            "trend": "politics_and_current_events",
-            "insight": "The inclusion of 'The State of the Union and Democratic Response' highlights that politically-oriented content still captures significant viewer interest."
-          }
-        ]
+      "overview": {
+        "totalVideos": 9,
+        "totalViews": 7327291,
+        "averageViewsPerVideo": 814,
+        "categories": "Unknown"
       },
-      "creator_patterns": {
-        "top_channels": [
+      "trendingPatterns": {
+        "contentThemes": [
           {
-            "channel": "Warner Bros.",
-            "video_count": 1,
-            "insight": "Large entertainment companies like Warner Bros. continue to leverage their brand strength to attract views, likely due to high production value and established fanbases."
+            "theme": "Entertainment",
+            "indicators": [
+              "Mortal Kombat II | Official Trailer II",
+              "T.I. - “Let ‘Em Know” (Official Trailer) [Dir. Hype Williams]",
+              "BabyDrill- Knocked Off (Official Music Video)"
+            ],
+            "insight": "High interest in trailers and music videos signals strong engagement in entertainment content."
           },
           {
-            "channel": "individual_creators",
-            "video_count": 4,
-            "insight": "Independent creators like TheBurntPeanut and BabyDrill are competing for views against major studios, indicating a growing trend where niche or unique content can carve out significant viewer bases."
+            "theme": "Gaming",
+            "indicators": [
+              "Sirius - No more Brawl Stars! (Brawl Stars Animation)",
+              "The Game You Cannot Escape - Half Life & Black Mesa Retrospective & History"
+            ],
+            "insight": "Gaming content, especially around popular franchises, continues to attract significant attention."
+          },
+          {
+            "theme": "Live Streaming",
+            "indicators": [
+              "🔴LIVE | RV THERE YET NEW MAP w/ Cloakzy & Gingy & Officer"
+            ],
+            "insight": "Live content remains a key engagement driver, with potential for real-time interaction boosting viewer involvement."
+          },
+          {
+            "theme": "Current Events",
+            "indicators": [
+              "The State of the Union and Democratic Response"
+            ],
+            "insight": "Timely content related to current events can capture audience interest, especially during major political happenings."
           }
         ],
-        "opportunities": [
+        "creatorPatterns": {
+          "topChannels": [
+            {
+              "channel": "Warner Bros.",
+              "videoCount": 1,
+              "insight": "Major production houses like Warner Bros. can leverage their established brand and fanbase to ensure high engagement."
+            },
+            {
+              "channel": "Brawl Stars",
+              "videoCount": 1,
+              "insight": "Niche gaming channels can maintain a dedicated audience by consistently producing content around popular games."
+            }
+          ],
+          "opportunities": [
+            {
+              "opportunity": "Collaboration",
+              "insight": "Creators can benefit from collaborations, as seen in live streams, which can cross-pollinate audiences."
+            }
+          ]
+        }
+      },
+      "marketOpportunities": {
+        "emergingTrends": [
           {
-            "opportunity": "collaborative_content",
-            "insight": "Creators could benefit from collaborations, as seen in live-stream events. This strategy may increase reach and visibility across diverse audience segments."
+            "trend": "Trailer and Teaser Content",
+            "insight": "There is a significant appetite for trailers and teasers, suggesting opportunities for brands to engage audiences with preview content."
           },
           {
-            "opportunity": "diversified_content",
-            "insight": "Channels could expand their content types to include more live, interactive, or retrospective content, meeting diverse viewer interests and capitalizing on trending topics."
+            "trend": "Interactive Live Sessions",
+            "insight": "Interactive live streaming has room for growth, offering creators a platform to engage with audiences in innovative ways."
+          }
+        ],
+        "strategicRecommendations": [
+          {
+            "recommendation": "Diversify Content",
+            "insight": "Creators should consider diversifying their content to include a mix of trailers, live streams, and event coverage to maximize reach."
+          },
+          {
+            "recommendation": "Capitalize on Current Events",
+            "insight": "Channels should leverage current events and trends to create timely content that resonates with viewers."
           }
         ]
-      },
-      "market_opportunities": {
-        "nostalgia_and_retro_content": {
-          "insight": "Given the success of retro and remake content, there is potential for more creators to tap into nostalgia-driven themes, leveraging franchises with established fanbases."
-        },
-        "interactive_gaming_and_livestreams": {
-          "insight": "The popularity of interactive and gaming content suggests a growing market for real-time engagement, providing opportunities for creators to explore new gaming genres and formats."
-        },
-        "political_and_current_event_coverage": {
-          "insight": "Creators offering analysis or coverage of current events may attract viewers interested in timely, insightful content, particularly around major political events."
-        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -535,7 +570,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 559285
+        "avg_views_per_video": 814143
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
