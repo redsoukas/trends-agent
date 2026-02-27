@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T09:21:31.781505",
+  "timestamp": "2026-02-27T12:20:52.333046",
   "date": "2026-02-27",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4Jhh3P9UGK0/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 1059943,
-      "like_count": 83252,
-      "comment_count": 6157,
+      "view_count": 1149144,
+      "like_count": 86958,
+      "comment_count": 6382,
       "category_id": "20",
       "tags": [
         "poppy playtime",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 7264072,
-      "like_count": 146716,
-      "comment_count": 8456,
+      "view_count": 7610706,
+      "like_count": 150818,
+      "comment_count": 8651,
       "category_id": "1",
       "tags": [
         "2026",
@@ -86,21 +86,25 @@
       "url": "https://www.youtube.com/watch?v=b24oG7qCwp4"
     },
     {
-      "video_id": "geiTg6Z7w3A",
-      "title": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
-      "description": "Here's a special video for the Stardew Valley 10 year anniversary.  \nI go over some old builds of the game w/ commentary, briefly go over the many updates, give a special message to the players, and reveal the 2 new marriage candidates in 1.7.  Thanks for watching.",
-      "channel_title": "ConcernedApe",
-      "channel_id": "UClLilfnwQ_8LoGVpjo4SP3g",
-      "published_at": "2026-02-26T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/geiTg6Z7w3A/hqdefault.jpg",
-      "duration": "PT22M45S",
-      "duration_seconds": 1365,
-      "view_count": 1350380,
-      "like_count": 182111,
-      "comment_count": 13044,
+      "video_id": "Whr2gGXHo9g",
+      "title": "🔴LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-27T09:09:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Whr2gGXHo9g/hqdefault.jpg",
+      "duration": "PT7H34M",
+      "duration_seconds": 27240,
+      "view_count": 894164,
+      "like_count": 13214,
+      "comment_count": 537,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
     },
     {
       "video_id": "K4q_0DtugOA",
@@ -112,9 +116,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K4q_0DtugOA/hqdefault.jpg",
       "duration": "PT2M37S",
       "duration_seconds": 157,
-      "view_count": 856187,
-      "like_count": 3036,
-      "comment_count": 140,
+      "view_count": 934930,
+      "like_count": 3144,
+      "comment_count": 144,
       "category_id": "24",
       "tags": [
         "company retreat official trailer",
@@ -131,23 +135,21 @@
       "url": "https://www.youtube.com/watch?v=K4q_0DtugOA"
     },
     {
-      "video_id": "FmKEQVXodVo",
-      "title": "Resident Evil 9 Requiem - Part 1",
-      "description": "I can't believe it's time for another Resident Evil game. This time it's Resident Evil 9 Requiem with Leon and Grace\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-02-26T15:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FmKEQVXodVo/hqdefault.jpg",
-      "duration": "PT2H7M3S",
-      "duration_seconds": 7623,
-      "view_count": 769280,
-      "like_count": 53537,
-      "comment_count": 4175,
+      "video_id": "geiTg6Z7w3A",
+      "title": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
+      "description": "Here's a special video for the Stardew Valley 10 year anniversary.  \nI go over some old builds of the game w/ commentary, briefly go over the many updates, give a special message to the players, and reveal the 2 new marriage candidates in 1.7.  Thanks for watching.",
+      "channel_title": "ConcernedApe",
+      "channel_id": "UClLilfnwQ_8LoGVpjo4SP3g",
+      "published_at": "2026-02-26T19:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/geiTg6Z7w3A/hqdefault.jpg",
+      "duration": "PT22M45S",
+      "duration_seconds": 1365,
+      "view_count": 1433337,
+      "like_count": 190175,
+      "comment_count": 13534,
       "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=FmKEQVXodVo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
     },
     {
       "video_id": "hrmMWJPDZ0E",
@@ -159,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hrmMWJPDZ0E/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 242461,
-      "like_count": 18457,
-      "comment_count": 2513,
+      "view_count": 258018,
+      "like_count": 19148,
+      "comment_count": 2565,
       "category_id": "20",
       "tags": [
         "war thunder",
@@ -174,6 +176,42 @@
       "url": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
     },
     {
+      "video_id": "FmKEQVXodVo",
+      "title": "Resident Evil 9 Requiem - Part 1",
+      "description": "I can't believe it's time for another Resident Evil game. This time it's Resident Evil 9 Requiem with Leon and Grace\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-02-26T15:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FmKEQVXodVo/hqdefault.jpg",
+      "duration": "PT2H7M3S",
+      "duration_seconds": 7623,
+      "view_count": 920414,
+      "like_count": 56830,
+      "comment_count": 4380,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=FmKEQVXodVo"
+    },
+    {
+      "video_id": "HRibedL6Zag",
+      "title": "SPIDER-MAN BRAND NEW DAY X-Men Announcement",
+      "description": "Spider-Man Brand New Day X-Men Announcement. Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey, New X-Men Characters, Avengers Doomsday Trailer, Classic X-Men vs Marvel Reboot X-Men Movie 2028 & Avengers Secret Wars Teaser ► https://bit.ly/AwesomeSubscribe\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nFallout Season 2 Episode 8 https://www.youtube.com/watch?v=52v_6lRR_Cw&list=PLOIeYdZ3Qczw4IKaQOuhsqjNHq34PAB-d&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=iAQB2AbwA7AIAg%3D%3D\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=11&pp=iAQB2AauBLAIAg%3D%3D\nAvengers Doomsday X-Me",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-02-26T21:16:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HRibedL6Zag/hqdefault.jpg",
+      "duration": "PT11M59S",
+      "duration_seconds": 719,
+      "view_count": 150022,
+      "like_count": 4790,
+      "comment_count": 732,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HRibedL6Zag"
+    },
+    {
       "video_id": "77Uk3Vb15Ek",
       "title": "I Worked Security At An Abandoned Mall…",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\nCheck out ⬇️\nMusic by Karl Casey @ White Bat Audio https://www.youtube.com/whitebataudio\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -183,9 +221,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/77Uk3Vb15Ek/hqdefault.jpg",
       "duration": "PT1H58M47S",
       "duration_seconds": 7127,
-      "view_count": 269119,
-      "like_count": 10521,
-      "comment_count": 758,
+      "view_count": 345300,
+      "like_count": 11713,
+      "comment_count": 803,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -200,51 +238,6 @@
         "jumpscare"
       ],
       "url": "https://www.youtube.com/watch?v=77Uk3Vb15Ek"
-    },
-    {
-      "video_id": "HRibedL6Zag",
-      "title": "SPIDER-MAN BRAND NEW DAY X-Men Announcement",
-      "description": "Spider-Man Brand New Day X-Men Announcement. Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey, New X-Men Characters, Avengers Doomsday Trailer, Classic X-Men vs Marvel Reboot X-Men Movie 2028 & Avengers Secret Wars Teaser ► https://bit.ly/AwesomeSubscribe\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nFallout Season 2 Episode 8 https://www.youtube.com/watch?v=52v_6lRR_Cw&list=PLOIeYdZ3Qczw4IKaQOuhsqjNHq34PAB-d&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=iAQB2AbwA7AIAg%3D%3D\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=11&pp=iAQB2AauBLAIAg%3D%3D\nAvengers Doomsday X-Me",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-02-26T21:16:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HRibedL6Zag/hqdefault.jpg",
-      "duration": "PT11M59S",
-      "duration_seconds": 719,
-      "view_count": 136008,
-      "like_count": 4485,
-      "comment_count": 704,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HRibedL6Zag"
-    },
-    {
-      "video_id": "ge7j6ho_jls",
-      "title": "The Best New Golf Game is Here",
-      "description": "Super Battle Golf might be game of the year\n\nGAMERSUPPS SALE 20% OFF SITEWIDE USING CODE S7... or any other creator code I guess\nhttps://gamersupps.com/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@imSovi \n@BlargMyShnoople \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nht",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-02-26T22:28:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ge7j6ho_jls/hqdefault.jpg",
-      "duration": "PT22M37S",
-      "duration_seconds": 1357,
-      "view_count": 781384,
-      "like_count": 58071,
-      "comment_count": 1495,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=ge7j6ho_jls"
     }
   ],
   "videos_with_transcripts": [],
@@ -276,9 +269,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 7264072,
-      "like_count": 146716,
-      "comment_count": 8456,
+      "view_count": 7610706,
+      "like_count": 150818,
+      "comment_count": 8651,
       "category_id": "1",
       "tags": [
         "2026",
@@ -295,21 +288,25 @@
       "url": "https://www.youtube.com/watch?v=b24oG7qCwp4"
     },
     {
-      "video_id": "geiTg6Z7w3A",
-      "title": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
-      "description": "Here's a special video for the Stardew Valley 10 year anniversary.  \nI go over some old builds of the game w/ commentary, briefly go over the many updates, give a special message to the players, and reveal the 2 new marriage candidates in 1.7.  Thanks for watching.",
-      "channel_title": "ConcernedApe",
-      "channel_id": "UClLilfnwQ_8LoGVpjo4SP3g",
-      "published_at": "2026-02-26T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/geiTg6Z7w3A/hqdefault.jpg",
-      "duration": "PT22M45S",
-      "duration_seconds": 1365,
-      "view_count": 1350380,
-      "like_count": 182111,
-      "comment_count": 13044,
+      "video_id": "Whr2gGXHo9g",
+      "title": "🔴LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-02-27T09:09:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Whr2gGXHo9g/hqdefault.jpg",
+      "duration": "PT7H34M",
+      "duration_seconds": 27240,
+      "view_count": 894164,
+      "like_count": 13214,
+      "comment_count": 537,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
     },
     {
       "video_id": "K4q_0DtugOA",
@@ -321,9 +318,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K4q_0DtugOA/hqdefault.jpg",
       "duration": "PT2M37S",
       "duration_seconds": 157,
-      "view_count": 856187,
-      "like_count": 3036,
-      "comment_count": 140,
+      "view_count": 934930,
+      "like_count": 3144,
+      "comment_count": 144,
       "category_id": "24",
       "tags": [
         "company retreat official trailer",
@@ -340,23 +337,21 @@
       "url": "https://www.youtube.com/watch?v=K4q_0DtugOA"
     },
     {
-      "video_id": "FmKEQVXodVo",
-      "title": "Resident Evil 9 Requiem - Part 1",
-      "description": "I can't believe it's time for another Resident Evil game. This time it's Resident Evil 9 Requiem with Leon and Grace\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-02-26T15:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FmKEQVXodVo/hqdefault.jpg",
-      "duration": "PT2H7M3S",
-      "duration_seconds": 7623,
-      "view_count": 769280,
-      "like_count": 53537,
-      "comment_count": 4175,
+      "video_id": "geiTg6Z7w3A",
+      "title": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
+      "description": "Here's a special video for the Stardew Valley 10 year anniversary.  \nI go over some old builds of the game w/ commentary, briefly go over the many updates, give a special message to the players, and reveal the 2 new marriage candidates in 1.7.  Thanks for watching.",
+      "channel_title": "ConcernedApe",
+      "channel_id": "UClLilfnwQ_8LoGVpjo4SP3g",
+      "published_at": "2026-02-26T19:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/geiTg6Z7w3A/hqdefault.jpg",
+      "duration": "PT22M45S",
+      "duration_seconds": 1365,
+      "view_count": 1433337,
+      "like_count": 190175,
+      "comment_count": 13534,
       "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=FmKEQVXodVo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
     },
     {
       "video_id": "hrmMWJPDZ0E",
@@ -368,9 +363,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hrmMWJPDZ0E/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 242461,
-      "like_count": 18457,
-      "comment_count": 2513,
+      "view_count": 258018,
+      "like_count": 19148,
+      "comment_count": 2565,
       "category_id": "20",
       "tags": [
         "war thunder",
@@ -383,6 +378,42 @@
       "url": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
     },
     {
+      "video_id": "FmKEQVXodVo",
+      "title": "Resident Evil 9 Requiem - Part 1",
+      "description": "I can't believe it's time for another Resident Evil game. This time it's Resident Evil 9 Requiem with Leon and Grace\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-02-26T15:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FmKEQVXodVo/hqdefault.jpg",
+      "duration": "PT2H7M3S",
+      "duration_seconds": 7623,
+      "view_count": 920414,
+      "like_count": 56830,
+      "comment_count": 4380,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=FmKEQVXodVo"
+    },
+    {
+      "video_id": "HRibedL6Zag",
+      "title": "SPIDER-MAN BRAND NEW DAY X-Men Announcement",
+      "description": "Spider-Man Brand New Day X-Men Announcement. Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey, New X-Men Characters, Avengers Doomsday Trailer, Classic X-Men vs Marvel Reboot X-Men Movie 2028 & Avengers Secret Wars Teaser ► https://bit.ly/AwesomeSubscribe\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nFallout Season 2 Episode 8 https://www.youtube.com/watch?v=52v_6lRR_Cw&list=PLOIeYdZ3Qczw4IKaQOuhsqjNHq34PAB-d&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=iAQB2AbwA7AIAg%3D%3D\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=11&pp=iAQB2AauBLAIAg%3D%3D\nAvengers Doomsday X-Me",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-02-26T21:16:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HRibedL6Zag/hqdefault.jpg",
+      "duration": "PT11M59S",
+      "duration_seconds": 719,
+      "view_count": 150022,
+      "like_count": 4790,
+      "comment_count": 732,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HRibedL6Zag"
+    },
+    {
       "video_id": "77Uk3Vb15Ek",
       "title": "I Worked Security At An Abandoned Mall…",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\nCheck out ⬇️\nMusic by Karl Casey @ White Bat Audio https://www.youtube.com/whitebataudio\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -392,9 +423,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/77Uk3Vb15Ek/hqdefault.jpg",
       "duration": "PT1H58M47S",
       "duration_seconds": 7127,
-      "view_count": 269119,
-      "like_count": 10521,
-      "comment_count": 758,
+      "view_count": 345300,
+      "like_count": 11713,
+      "comment_count": 803,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -411,51 +442,6 @@
       "url": "https://www.youtube.com/watch?v=77Uk3Vb15Ek"
     },
     {
-      "video_id": "HRibedL6Zag",
-      "title": "SPIDER-MAN BRAND NEW DAY X-Men Announcement",
-      "description": "Spider-Man Brand New Day X-Men Announcement. Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey, New X-Men Characters, Avengers Doomsday Trailer, Classic X-Men vs Marvel Reboot X-Men Movie 2028 & Avengers Secret Wars Teaser ► https://bit.ly/AwesomeSubscribe\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nFallout Season 2 Episode 8 https://www.youtube.com/watch?v=52v_6lRR_Cw&list=PLOIeYdZ3Qczw4IKaQOuhsqjNHq34PAB-d&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=2&pp=iAQB2AbwA7AIAg%3D%3D\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=YEPEM1BoBuo&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=11&pp=iAQB2AauBLAIAg%3D%3D\nAvengers Doomsday X-Me",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-02-26T21:16:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HRibedL6Zag/hqdefault.jpg",
-      "duration": "PT11M59S",
-      "duration_seconds": 719,
-      "view_count": 136008,
-      "like_count": 4485,
-      "comment_count": 704,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HRibedL6Zag"
-    },
-    {
-      "video_id": "ge7j6ho_jls",
-      "title": "The Best New Golf Game is Here",
-      "description": "Super Battle Golf might be game of the year\n\nGAMERSUPPS SALE 20% OFF SITEWIDE USING CODE S7... or any other creator code I guess\nhttps://gamersupps.com/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@imSovi \n@BlargMyShnoople \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nht",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-02-26T22:28:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ge7j6ho_jls/hqdefault.jpg",
-      "duration": "PT22M37S",
-      "duration_seconds": 1357,
-      "view_count": 781384,
-      "like_count": 58071,
-      "comment_count": 1495,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=ge7j6ho_jls"
-    },
-    {
       "video_id": "4Jhh3P9UGK0",
       "title": "Poppy Playtime Chapter 5 - Accolades Trailer",
       "description": "Face off against the deadly puppetmaster behind the horrifying events of Playtime Co.\n\nPoppy Playtime: Chapter 5 is OUT NOW on Steam and the Epic Games Store\nSteam: https://huggywug.co/4oK8fPx\nEpic Games Store: https://huggywug.co/4qswKSW\n\nGet Poppy Playtime merch: http://playtimeco.store/\n_________________________________________________________\nGet Poppy Playtime Chapter 1!\nSteam: https://huggywug.co/3A3MDcF\nNintendo Switch: https://huggywug.co/3YiTMjw\nPlayStation: https://huggywug.co/3zRrJxE\nXbox: https://huggywug.co/3y6KKeX\nEpic Games Store: https://huggywug.co/3YBP0gJ\niOS: https://huggywug.co/3SksTrC\nAndroid: https://huggywug.co/3YgaXT1\n\nGet Poppy Playtime Chapter 2!\nSteam: https://huggywug.co/3YajXZM\nNintendo Switch: https://huggywug.co/4hjDwps\nPlayStation: https://huggywug.co/3MSjMeE\nXbox: https://huggywug.co/3ZEOsb8\nEpic Games Store: https://huggywug.co/3Yk8oO3\niOS: https://huggywug.co/4cZ2TKY\nAndroid: https://huggywug.co/4dx4jw7\n\nGet Poppy Playtime Chapter 3!\nSteam: https://hu",
@@ -465,9 +451,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4Jhh3P9UGK0/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 1059943,
-      "like_count": 83252,
-      "comment_count": 6157,
+      "view_count": 1149144,
+      "like_count": 86958,
+      "comment_count": 6382,
       "category_id": "20",
       "tags": [
         "poppy playtime",
@@ -487,51 +473,40 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "gaming": {
-          "description": "A significant portion of the trending content is related to gaming, with titles such as 'Poppy Playtime Chapter 5 - Accolades Trailer', 'Mortal Kombat II | Official Trailer II', 'Resident Evil 9 Requiem - Part 1', and 'The Best New Golf Game is Here'. This indicates a strong interest in both new releases and updates in popular gaming franchises.",
-          "insights": [
-            "Opportunities exist for content creators to capitalize on new game releases and updates by creating trailers, gameplay reviews, and walkthroughs.",
-            "There is a notable interest in nostalgic gaming content, as seen with Mortal Kombat and Resident Evil."
-          ]
+      "analysis": {
+        "content_trends": {
+          "gaming_and_entertainment": {
+            "description": "A significant portion of the trending videos are related to gaming and entertainment, such as 'Poppy Playtime Chapter 5', 'Mortal Kombat II', and 'Resident Evil 9'. This indicates a strong interest in interactive and narrative-driven content.",
+            "opportunity": "Content creators can capitalize on this trend by developing content that explores both new and nostalgic gaming experiences, as well as expanding into narrative storytelling related to games."
+          },
+          "nostalgia_and_anniversaries": {
+            "description": "Videos like 'Stardew Valley 10-year Anniversary Video' indicate that content celebrating milestones or anniversaries resonates well with audiences.",
+            "opportunity": "Brands and creators can engage audiences by creating retrospective content or anniversary specials, leveraging nostalgia to drive viewership."
+          },
+          "live_events_and_collaborations": {
+            "description": "The presence of live event content such as '🔴LIVE | MARATHON SERVER SLAM' suggests a trend towards interactive and community-driven experiences.",
+            "opportunity": "There is potential for creators to enhance audience engagement by hosting live events, collaborations, and interactive streams that foster community participation."
+          }
         },
-        "entertainment": {
-          "description": "Entertainment content also features prominently, with videos from channels like FOX News and Prime Video. This includes news commentary ('The Five') and trailers for upcoming series ('Jury Duty Presents: Company Retreat').",
-          "insights": [
-            "Trailers and promotional content for upcoming TV shows and series are trending, suggesting a window for creators to focus on reaction videos and analyses of upcoming releases.",
-            "News commentary remains a staple in trending content, indicating a steady demand for political and social commentary."
-          ]
+        "creator_patterns": {
+          "diverse_creator_base": {
+            "description": "The trending channels come from a mix of entertainment companies, news outlets, and independent creators, indicating a diverse creator base making an impact on trending lists.",
+            "opportunity": "Emerging creators can gain traction by aligning with popular trends or unique niches that are not yet oversaturated."
+          },
+          "cross-platform promotion": {
+            "description": "Channels like Prime Video and Warner Bros. use their YouTube presence to promote other media formats and platforms, such as series and movies.",
+            "opportunity": "Creators and brands should explore cross-platform strategies, using YouTube to tease or promote content available on other platforms to maximize reach and engagement."
+          }
         },
-        "niche_interests": {
-          "description": "Content catering to specific interests is gaining traction, such as 'Stardew Valley 10-year Anniversary Video' and 'I Worked Security At An Abandoned Mall…'.",
-          "insights": [
-            "There is a growing audience for content that explores unique experiences or milestones, such as anniversary retrospectives or unusual job experiences.",
-            "Creators can capitalize on niche communities by producing content that resonates with dedicated fanbases, such as those of long-standing games or unique personal stories."
-          ]
-        }
-      },
-      "creator_patterns": {
-        "top_channels": {
-          "description": "The top channels contributing to the trending content include Mob Entertainment, FOX News, Warner Bros., ConcernedApe, and Prime Video.",
-          "insights": [
-            "Established channels with strong brand recognition continue to dominate the trending space, underlining the importance of brand loyalty and consistent quality content.",
-            "Collaboration opportunities may exist for smaller creators to partner with these established channels to gain visibility."
-          ]
-        }
-      },
-      "market_opportunities": {
-        "gaming_content": {
-          "description": "The high presence of gaming-related content suggests an opportunity in this market.",
-          "insights": [
-            "Developing content around gaming culture, such as player interviews or eSports coverage, could attract a dedicated audience.",
-            "Exploring underrepresented game genres or indie games could fill a niche market demand."
-          ]
-        },
-        "interactive_content": {
-          "description": "The engagement potential of interactive or experiential content, such as 'I Worked Security At An Abandoned Mall…', presents an opportunity.",
-          "insights": [
-            "There is potential for growth in content that involves viewer interaction or participation, such as live Q&A sessions or interactive storytelling."
-          ]
+        "market_opportunities": {
+          "emerging_genres": {
+            "description": "Genres such as horror ('Resident Evil 9 Requiem', 'I Worked Security At An Abandoned Mall…') and superhero narratives ('SPIDER-MAN BRAND NEW DAY X-Men Announcement') are gaining traction.",
+            "opportunity": "Investing in content creation within these emerging genres could yield significant audience interest and growth potential."
+          },
+          "news_and_current_affairs": {
+            "description": "The presence of a FOX News video in the trending list suggests that timely and relevant news content continues to attract viewers.",
+            "opportunity": "There is a market for creators to provide insightful and timely news content that offers unique perspectives or deep dives into current events."
+          }
         }
       },
       "metadata_stats": {
@@ -540,7 +515,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1272883
+        "avg_views_per_video": 1369603
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
