@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-27T21:12:42.610155",
-  "date": "2026-02-27",
+  "timestamp": "2026-02-28T00:39:16.542395",
+  "date": "2026-02-28",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xoq33mAQFlg/hqdefault.jpg",
       "duration": "PT1M47S",
       "duration_seconds": 107,
-      "view_count": 284050,
-      "like_count": 23652,
-      "comment_count": 1161,
+      "view_count": 416612,
+      "like_count": 28334,
+      "comment_count": 1359,
       "category_id": "20",
       "tags": [
         "Riot Games",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Dh2WcRJOVPU/hqdefault.jpg",
       "duration": "PT24M45S",
       "duration_seconds": 1485,
-      "view_count": 2007984,
-      "like_count": 94347,
-      "comment_count": 10212,
+      "view_count": 2318300,
+      "like_count": 102596,
+      "comment_count": 10922,
       "category_id": "20",
       "tags": [
         "Pokemon",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 8598594,
-      "like_count": 162704,
-      "comment_count": 9203,
+      "view_count": 9137949,
+      "like_count": 165864,
+      "comment_count": 9323,
       "category_id": "1",
       "tags": [
         "2026",
@@ -114,21 +114,32 @@
       "url": "https://www.youtube.com/watch?v=GL6ZhoTNDtA"
     },
     {
-      "video_id": "9lrThxCoznw",
-      "title": "Resident Evil Requiem - Launch Trailer",
-      "description": "Requiem for the dead. Nightmare for the living.\nA new era of survival horror begins now.\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games\nhttp://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games",
-      "channel_title": "Resident Evil",
-      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
-      "published_at": "2026-02-27T14:12:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lrThxCoznw/hqdefault.jpg",
-      "duration": "PT31S",
-      "duration_seconds": 31,
-      "view_count": 51253,
-      "like_count": 5068,
-      "comment_count": 442,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9lrThxCoznw"
+      "video_id": "inxXoHDr28k",
+      "title": "Power Book III: Raising Kanan | Official Teaser | Season 5",
+      "description": "No one is safe on the south side. It all comes to an end on the final season of Power Book III: Raising Kanan, premiering Friday June 6 on STARZ. \n\n#PowerNeverEnds #STARZ\n\nSubscribe to the STARZ YouTube Channel for more Power: http://bit.ly/1kalhP0\n\nLike Raising Kanan on Facebook: https://bit.ly/3aCYxuE\nFollow Raising Kanan on Instagram: https://bit.ly/3vmiVrX\n\nFacebook: http://starz.tv/STARZFacebookYT\nInstagram: http://starz.tv/STARZInstagramYT\nYouTube: https://starz.tv/STARZYouTube\nTikTok: https://starz.tv/STARZTikTokYT\n\nOver the last two seasons of “Raising Kanan,” Kanan Stark has slowly learned the truth about not only his mother, but also himself. It has been a tortuous journey for him and everyone around him. With each new revelation, Kanan has been forced to confront his family’s seemingly never-ending web of secrets and lies. He has spent much of this time in a state of denial, but now, Kanan’s blinders are finally off, and he doesn’t like what he sees. In season three, Kanan f",
+      "channel_title": "STARZ",
+      "channel_id": "UCXVxMuWK6l_pCyxEk07EIRw",
+      "published_at": "2026-02-27T20:29:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/inxXoHDr28k/hqdefault.jpg",
+      "duration": "PT53S",
+      "duration_seconds": 53,
+      "view_count": 16060,
+      "like_count": 1502,
+      "comment_count": 298,
+      "category_id": "24",
+      "tags": [
+        "Power book III",
+        "Raising Kanan",
+        "Power Kanan",
+        "Power never ends",
+        "legacy",
+        "sneak peek",
+        "preview",
+        "Starz",
+        "television",
+        "tv"
+      ],
+      "url": "https://www.youtube.com/watch?v=inxXoHDr28k"
     },
     {
       "video_id": "rV0cm5FXsCQ",
@@ -140,68 +151,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rV0cm5FXsCQ/hqdefault.jpg",
       "duration": "PT54M46S",
       "duration_seconds": 3286,
-      "view_count": 364710,
+      "view_count": 385103,
       "like_count": 0,
-      "comment_count": 1238,
+      "comment_count": 1276,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
-    },
-    {
-      "video_id": "K4q_0DtugOA",
-      "title": "Jury Duty Presents: Company Retreat – Official Trailer | Season 2 | Prime Video",
-      "description": "Anthony, a real temp, is hired at Rockin' Grandma's Hot Sauce (a fake company) for its annual retreat - the final one for the company's CEO Doug before retirement. Doug's son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nJury Duty Presents: Company ",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-02-26T14:59:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K4q_0DtugOA/hqdefault.jpg",
-      "duration": "PT2M37S",
-      "duration_seconds": 157,
-      "view_count": 1173207,
-      "like_count": 4044,
-      "comment_count": 168,
-      "category_id": "24",
-      "tags": [
-        "company retreat official trailer",
-        "company retreat trailer",
-        "trailer",
-        "official trailer 2026",
-        "prime video official trailer",
-        "new amazon trailer",
-        "company retreat prime video",
-        "prime video company retreat",
-        "tv show",
-        "prime video"
-      ],
-      "url": "https://www.youtube.com/watch?v=K4q_0DtugOA"
-    },
-    {
-      "video_id": "oi-dwqVWX_o",
-      "title": "Pokemon Presents: 30th Anniversary Livestream Watch Party & Post Show",
-      "description": "Pokemon Red and Blue just released, your parents bought you a Gameboy for your birthday, Spice Girls were playing on the radio, life was good. 1996 was 30 years ago! And now, The Pokemon Company is poised to celebrate that in a big way with a livestream ready to reveal all the ways in which they plan to do so throughout the year. Will we finally get a glimpse at Pokemon gen 10? Is Pokemon Wind and Waves a real thing? Expect to get updates across all avenues of Pokemon, including Pokopia, Pokemon TCG, the anime, Pokemon games, and more. Join IGN at 6am PT, 9am ET as we react live alongside you. Stick around after the Pokemon Presents for a live discussion with the IGN NVC crew for expert and fan discussion on all things Pokemon and Nintendo. \n\n#IGN #Gaming #Pokemon",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-02-27T15:31:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oi-dwqVWX_o/hqdefault.jpg",
-      "duration": "PT2H18M5S",
-      "duration_seconds": 8285,
-      "view_count": 577319,
-      "like_count": 4146,
-      "comment_count": 24,
-      "category_id": "20",
-      "tags": [
-        "ign",
-        "pokemon",
-        "pokemon 30",
-        "pokemon direct",
-        "nintendo direct",
-        "pokemon presents",
-        "pokemon news",
-        "pokemon day",
-        "pokémon",
-        "pokemon presents live stream"
-      ],
-      "url": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
     },
     {
       "video_id": "kkZPDipGQZU",
@@ -213,9 +168,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kkZPDipGQZU/hqdefault.jpg",
       "duration": "PT10M24S",
       "duration_seconds": 624,
-      "view_count": 18277,
-      "like_count": 1698,
-      "comment_count": 335,
+      "view_count": 38620,
+      "like_count": 2417,
+      "comment_count": 482,
       "category_id": "20",
       "tags": [
         "mrroflwaffles",
@@ -232,25 +187,72 @@
       "url": "https://www.youtube.com/watch?v=kkZPDipGQZU"
     },
     {
-      "video_id": "Whr2gGXHo9g",
-      "title": "🔴LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-27T09:09:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Whr2gGXHo9g/hqdefault.jpg",
-      "duration": "PT7H34M",
-      "duration_seconds": 27240,
-      "view_count": 959857,
-      "like_count": 14053,
-      "comment_count": 1152,
+      "video_id": "ZVrQRAf5dJg",
+      "title": "I Became a Minecraft Combat Master",
+      "description": "Combat master\n\nI Became a Minecraft Combat Master\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @TeamKalal1 @Lomedy @LettuceK @Twirps @Willsion @Spongs @4CVIT & UU EVENTS\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
+      "channel_title": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "published_at": "2026-02-27T09:58:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZVrQRAf5dJg/hqdefault.jpg",
+      "duration": "PT1H13M9S",
+      "duration_seconds": 4389,
+      "view_count": 1875826,
+      "like_count": 115507,
+      "comment_count": 18532,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "minecraft",
+        "flamefrags",
+        "flame frags",
+        "flamefrags minecraft",
+        "flame minecraft"
       ],
-      "url": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
+      "url": "https://www.youtube.com/watch?v=ZVrQRAf5dJg"
+    },
+    {
+      "video_id": "9lrThxCoznw",
+      "title": "Resident Evil Requiem - Launch Trailer",
+      "description": "Requiem for the dead. Nightmare for the living.\nA new era of survival horror begins now.\n\nFor more official news and updates, follow us on:\nhttps://www.residentevil.com/requiem\nhttps://twitter.com/re_games\nhttp://www.facebook.com/residentevil\nhttps://www.instagram.com/re_games",
+      "channel_title": "Resident Evil",
+      "channel_id": "UCS2iGSouOopNHXFBcWtBQiA",
+      "published_at": "2026-02-27T14:12:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lrThxCoznw/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 70644,
+      "like_count": 5636,
+      "comment_count": 551,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9lrThxCoznw"
+    },
+    {
+      "video_id": "j2rhxmwjvbI",
+      "title": "I wasn't expecting this. - Pokemon Presents 30",
+      "description": "Pokémon Presents 30 just happened and we got the reveal of the Generation 10 games: Pokemon Winds and Waves and a bunch more.\n\nOfficial Playlist of the Pokemon Legends Z-A\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHX_2BbWe2ldgLzUfARxmKSb\n\n​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Why I can't attend Worlds this year\n1:26 Montage\n2:07 Pokemon Game Music Collection\n2:54 Worlds 2026 and Pokemon XP\n3:55 Pokemon TCG\n4:33 Pokemon GO 10th anniversary\n5:02 Pokemon Masters EX, Cafe Remix, Sleep, Unite, TCG Pocket\n6:41 Pokemon XD Gale of Darkness\n7:08 Pokemon FireRed & LeafGreen\n7:27 Pokemon Home Update (no date announced)\n7:56 Pokemon Champions\n8:35 Pokemon legends Z-A\n10:07 Pokopia\n12:22 One More Thing…\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ ",
+      "channel_title": "Austin John Plays",
+      "channel_id": "UCIIPl-DSCC0prKxGGnJrdGQ",
+      "published_at": "2026-02-27T15:40:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j2rhxmwjvbI/hqdefault.jpg",
+      "duration": "PT16M36S",
+      "duration_seconds": 996,
+      "view_count": 291331,
+      "like_count": 17648,
+      "comment_count": 3299,
+      "category_id": "20",
+      "tags": [
+        "austin john plays",
+        "austin john plays youtube",
+        "youtube austin john plays",
+        "nintendo",
+        "zelda",
+        "pokemon",
+        "pokemon presents 2026",
+        "pokemon Winds & Waves Starter evolutions",
+        "pokemon presents",
+        "pokemon direct"
+      ],
+      "url": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
     }
   ],
   "videos_with_transcripts": [],
@@ -265,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xoq33mAQFlg/hqdefault.jpg",
       "duration": "PT1M47S",
       "duration_seconds": 107,
-      "view_count": 284050,
-      "like_count": 23652,
-      "comment_count": 1161,
+      "view_count": 416612,
+      "like_count": 28334,
+      "comment_count": 1359,
       "category_id": "20",
       "tags": [
         "Riot Games",
@@ -293,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Dh2WcRJOVPU/hqdefault.jpg",
       "duration": "PT24M45S",
       "duration_seconds": 1485,
-      "view_count": 2007984,
-      "like_count": 94347,
-      "comment_count": 10212,
+      "view_count": 2318300,
+      "like_count": 102596,
+      "comment_count": 10922,
       "category_id": "20",
       "tags": [
         "Pokemon",
@@ -321,9 +323,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b24oG7qCwp4/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 8598594,
-      "like_count": 162704,
-      "comment_count": 9203,
+      "view_count": 9137949,
+      "like_count": 165864,
+      "comment_count": 9323,
       "category_id": "1",
       "tags": [
         "2026",
@@ -366,68 +368,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rV0cm5FXsCQ/hqdefault.jpg",
       "duration": "PT54M46S",
       "duration_seconds": 3286,
-      "view_count": 364710,
+      "view_count": 385103,
       "like_count": 0,
-      "comment_count": 1238,
+      "comment_count": 1276,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
-    },
-    {
-      "video_id": "K4q_0DtugOA",
-      "title": "Jury Duty Presents: Company Retreat – Official Trailer | Season 2 | Prime Video",
-      "description": "Anthony, a real temp, is hired at Rockin' Grandma's Hot Sauce (a fake company) for its annual retreat - the final one for the company's CEO Doug before retirement. Doug's son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nJury Duty Presents: Company ",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-02-26T14:59:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K4q_0DtugOA/hqdefault.jpg",
-      "duration": "PT2M37S",
-      "duration_seconds": 157,
-      "view_count": 1173207,
-      "like_count": 4044,
-      "comment_count": 168,
-      "category_id": "24",
-      "tags": [
-        "company retreat official trailer",
-        "company retreat trailer",
-        "trailer",
-        "official trailer 2026",
-        "prime video official trailer",
-        "new amazon trailer",
-        "company retreat prime video",
-        "prime video company retreat",
-        "tv show",
-        "prime video"
-      ],
-      "url": "https://www.youtube.com/watch?v=K4q_0DtugOA"
-    },
-    {
-      "video_id": "oi-dwqVWX_o",
-      "title": "Pokemon Presents: 30th Anniversary Livestream Watch Party & Post Show",
-      "description": "Pokemon Red and Blue just released, your parents bought you a Gameboy for your birthday, Spice Girls were playing on the radio, life was good. 1996 was 30 years ago! And now, The Pokemon Company is poised to celebrate that in a big way with a livestream ready to reveal all the ways in which they plan to do so throughout the year. Will we finally get a glimpse at Pokemon gen 10? Is Pokemon Wind and Waves a real thing? Expect to get updates across all avenues of Pokemon, including Pokopia, Pokemon TCG, the anime, Pokemon games, and more. Join IGN at 6am PT, 9am ET as we react live alongside you. Stick around after the Pokemon Presents for a live discussion with the IGN NVC crew for expert and fan discussion on all things Pokemon and Nintendo. \n\n#IGN #Gaming #Pokemon",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-02-27T15:31:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oi-dwqVWX_o/hqdefault.jpg",
-      "duration": "PT2H18M5S",
-      "duration_seconds": 8285,
-      "view_count": 577319,
-      "like_count": 4146,
-      "comment_count": 24,
-      "category_id": "20",
-      "tags": [
-        "ign",
-        "pokemon",
-        "pokemon 30",
-        "pokemon direct",
-        "nintendo direct",
-        "pokemon presents",
-        "pokemon news",
-        "pokemon day",
-        "pokémon",
-        "pokemon presents live stream"
-      ],
-      "url": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
     },
     {
       "video_id": "kkZPDipGQZU",
@@ -439,9 +385,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kkZPDipGQZU/hqdefault.jpg",
       "duration": "PT10M24S",
       "duration_seconds": 624,
-      "view_count": 18277,
-      "like_count": 1698,
-      "comment_count": 335,
+      "view_count": 38620,
+      "like_count": 2417,
+      "comment_count": 482,
       "category_id": "20",
       "tags": [
         "mrroflwaffles",
@@ -458,25 +404,83 @@
       "url": "https://www.youtube.com/watch?v=kkZPDipGQZU"
     },
     {
-      "video_id": "Whr2gGXHo9g",
-      "title": "🔴LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-02-27T09:09:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Whr2gGXHo9g/hqdefault.jpg",
-      "duration": "PT7H34M",
-      "duration_seconds": 27240,
-      "view_count": 959857,
-      "like_count": 14053,
-      "comment_count": 1152,
+      "video_id": "ZVrQRAf5dJg",
+      "title": "I Became a Minecraft Combat Master",
+      "description": "Combat master\n\nI Became a Minecraft Combat Master\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @TeamKalal1 @Lomedy @LettuceK @Twirps @Willsion @Spongs @4CVIT & UU EVENTS\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
+      "channel_title": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "published_at": "2026-02-27T09:58:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZVrQRAf5dJg/hqdefault.jpg",
+      "duration": "PT1H13M9S",
+      "duration_seconds": 4389,
+      "view_count": 1875826,
+      "like_count": 115507,
+      "comment_count": 18532,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "minecraft",
+        "flamefrags",
+        "flame frags",
+        "flamefrags minecraft",
+        "flame minecraft"
       ],
-      "url": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
+      "url": "https://www.youtube.com/watch?v=ZVrQRAf5dJg"
+    },
+    {
+      "video_id": "j2rhxmwjvbI",
+      "title": "I wasn't expecting this. - Pokemon Presents 30",
+      "description": "Pokémon Presents 30 just happened and we got the reveal of the Generation 10 games: Pokemon Winds and Waves and a bunch more.\n\nOfficial Playlist of the Pokemon Legends Z-A\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHX_2BbWe2ldgLzUfARxmKSb\n\n​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Why I can't attend Worlds this year\n1:26 Montage\n2:07 Pokemon Game Music Collection\n2:54 Worlds 2026 and Pokemon XP\n3:55 Pokemon TCG\n4:33 Pokemon GO 10th anniversary\n5:02 Pokemon Masters EX, Cafe Remix, Sleep, Unite, TCG Pocket\n6:41 Pokemon XD Gale of Darkness\n7:08 Pokemon FireRed & LeafGreen\n7:27 Pokemon Home Update (no date announced)\n7:56 Pokemon Champions\n8:35 Pokemon legends Z-A\n10:07 Pokopia\n12:22 One More Thing…\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ ",
+      "channel_title": "Austin John Plays",
+      "channel_id": "UCIIPl-DSCC0prKxGGnJrdGQ",
+      "published_at": "2026-02-27T15:40:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j2rhxmwjvbI/hqdefault.jpg",
+      "duration": "PT16M36S",
+      "duration_seconds": 996,
+      "view_count": 291331,
+      "like_count": 17648,
+      "comment_count": 3299,
+      "category_id": "20",
+      "tags": [
+        "austin john plays",
+        "austin john plays youtube",
+        "youtube austin john plays",
+        "nintendo",
+        "zelda",
+        "pokemon",
+        "pokemon presents 2026",
+        "pokemon Winds & Waves Starter evolutions",
+        "pokemon presents",
+        "pokemon direct"
+      ],
+      "url": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
+    },
+    {
+      "video_id": "inxXoHDr28k",
+      "title": "Power Book III: Raising Kanan | Official Teaser | Season 5",
+      "description": "No one is safe on the south side. It all comes to an end on the final season of Power Book III: Raising Kanan, premiering Friday June 6 on STARZ. \n\n#PowerNeverEnds #STARZ\n\nSubscribe to the STARZ YouTube Channel for more Power: http://bit.ly/1kalhP0\n\nLike Raising Kanan on Facebook: https://bit.ly/3aCYxuE\nFollow Raising Kanan on Instagram: https://bit.ly/3vmiVrX\n\nFacebook: http://starz.tv/STARZFacebookYT\nInstagram: http://starz.tv/STARZInstagramYT\nYouTube: https://starz.tv/STARZYouTube\nTikTok: https://starz.tv/STARZTikTokYT\n\nOver the last two seasons of “Raising Kanan,” Kanan Stark has slowly learned the truth about not only his mother, but also himself. It has been a tortuous journey for him and everyone around him. With each new revelation, Kanan has been forced to confront his family’s seemingly never-ending web of secrets and lies. He has spent much of this time in a state of denial, but now, Kanan’s blinders are finally off, and he doesn’t like what he sees. In season three, Kanan f",
+      "channel_title": "STARZ",
+      "channel_id": "UCXVxMuWK6l_pCyxEk07EIRw",
+      "published_at": "2026-02-27T20:29:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/inxXoHDr28k/hqdefault.jpg",
+      "duration": "PT53S",
+      "duration_seconds": 53,
+      "view_count": 16060,
+      "like_count": 1502,
+      "comment_count": 298,
+      "category_id": "24",
+      "tags": [
+        "Power book III",
+        "Raising Kanan",
+        "Power Kanan",
+        "Power never ends",
+        "legacy",
+        "sneak peek",
+        "preview",
+        "Starz",
+        "television",
+        "tv"
+      ],
+      "url": "https://www.youtube.com/watch?v=inxXoHDr28k"
     },
     {
       "video_id": "9lrThxCoznw",
@@ -488,9 +492,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9lrThxCoznw/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 51253,
-      "like_count": 5068,
-      "comment_count": 442,
+      "view_count": 70644,
+      "like_count": 5636,
+      "comment_count": 551,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9lrThxCoznw"
@@ -499,78 +503,92 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "gaming_focus": {
-          "description": "The majority of the trending videos are related to gaming content.",
-          "data": {
-            "gaming_videos_count": 6,
-            "total_videos": 10,
-            "percentage": 60
-          },
-          "insights": "Gaming continues to dominate YouTube's trending section, indicating a high viewer interest in new releases, updates, and trailers."
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 14550445,
+        "averageViewsPerVideo": 1455044.5
+      },
+      "contentTrends": {
+        "gamingAndEntertainment": {
+          "description": "A significant portion of trending videos are related to gaming and entertainment, including trailers and updates for popular games like League of Legends, Pokémon, Mortal Kombat, and Resident Evil.",
+          "titles": [
+            "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
+            "Pokémon Presents | 2.27.2026",
+            "Mortal Kombat II | Official Trailer II",
+            "NEW BO7 ZOMBIES 'PARADOX JUNCTION' INTRO CUTSCENE & CHARACTER REVEAL! (DLC2 Trailer)",
+            "Resident Evil Requiem - Launch Trailer"
+          ],
+          "insights": [
+            {
+              "trend": "High interest in game updates and trailers",
+              "actionableInsight": "Content creators can capitalize on this trend by producing detailed analysis, gameplay tips, or reaction videos to these updates."
+            }
+          ]
         },
-        "franchise_strength": {
-          "description": "Established franchises like Pokémon and Resident Evil feature prominently.",
-          "data": {
-            "franchise_titles": [
-              "League of Legends",
-              "Pokémon",
-              "Mortal Kombat",
-              "Resident Evil"
-            ],
-            "franchise_video_count": 5
-          },
-          "insights": "Leveraging well-known franchises can boost visibility and engagement, suggesting opportunities for collaborations or themed content."
-        },
-        "trailer_and_update_interest": {
-          "description": "Trailers and updates are key content types in the trending list.",
-          "data": {
-            "trailer_videos_count": 5,
-            "total_videos": 10,
-            "percentage": 50
-          },
-          "insights": "Audiences are eager for new content announcements and updates, highlighting a market opportunity for teaser and behind-the-scenes content."
+        "newsAndMedia": {
+          "description": "Trending content includes media and news segments, such as 'The Five' by FOX News.",
+          "titles": [
+            "The Five"
+          ],
+          "insights": [
+            {
+              "trend": "Steady interest in current events and media analysis",
+              "actionableInsight": "Channels focusing on news can increase engagement by covering trending topics and providing unique perspectives."
+            }
+          ]
         }
       },
-      "creator_patterns": {
-        "large_channels": {
-          "description": "Top channels with large followings are more likely to trend.",
-          "data": {
-            "top_channels_list": [
-              "League of Legends",
-              "The Official Pokémon YouTube channel",
-              "Warner Bros.",
-              "FOX News",
-              "Resident Evil"
-            ],
-            "unique_channels_count": 5
+      "creatorPatterns": {
+        "topChannels": [
+          {
+            "channelName": "League of Legends",
+            "videoCount": 1,
+            "dominantCategory": "Gaming"
           },
-          "insights": "Partnering with established channels or leveraging their strategies could help smaller creators increase their chances of trending."
-        },
-        "frequency_and_variation": {
-          "description": "Multiple videos from the same genre or franchise trend concurrently.",
-          "data": {
-            "pokemon_videos_count": 3
+          {
+            "channelName": "The Official Pokémon YouTube channel",
+            "videoCount": 1,
+            "dominantCategory": "Gaming"
           },
-          "insights": "Releasing multiple related videos (e.g., different aspects of a franchise) can create a compounding effect, boosting overall visibility."
-        }
+          {
+            "channelName": "Warner Bros.",
+            "videoCount": 1,
+            "dominantCategory": "Entertainment"
+          },
+          {
+            "channelName": "FOX News",
+            "videoCount": 1,
+            "dominantCategory": "News"
+          },
+          {
+            "channelName": "STARZ",
+            "videoCount": 1,
+            "dominantCategory": "Entertainment"
+          }
+        ],
+        "insights": [
+          {
+            "trend": "Diverse content categories from top channels",
+            "actionableInsight": "New creators should consider diversifying their content to include various categories such as gaming, entertainment, and news to reach a broader audience."
+          }
+        ]
       },
-      "market_opportunities": {
-        "diverse_content_expansion": {
-          "description": "Opportunities exist to diversify content within trending categories.",
-          "data": {
-            "non-gaming_videos_count": 4
-          },
-          "insights": "While gaming dominates, non-gaming content like news and live streams also trend, suggesting potential in these areas."
+      "marketOpportunities": {
+        "gamingCommunity": {
+          "description": "With a strong presence of gaming-related content in trending videos, there is a market opportunity for gaming communities.",
+          "insights": [
+            {
+              "actionableInsight": "Develop community-driven content like forums, discussion panels, or live streams to engage this audience further."
+            }
+          ]
         },
-        "live_streaming": {
-          "description": "Live streaming content appears to be a successful trend.",
-          "data": {
-            "live_streaming_videos": [
-              "🔴LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE"
-            ]
-          },
-          "insights": "The inclusion of live content in the trending list suggests a growing audience preference for real-time engagement, offering opportunities for creators to explore live streaming formats."
+        "cross-platformExpansion": {
+          "description": "Media and entertainment companies can benefit from cross-platform content expansion.",
+          "insights": [
+            {
+              "actionableInsight": "Leverage YouTube's video platform to cross-promote content available on other platforms such as television, streaming services, or social media."
+            }
+          ]
         }
       },
       "metadata_stats": {
@@ -579,7 +597,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1403525
+        "avg_views_per_video": 1455044
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
