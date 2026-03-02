@@ -1,17 +1,85 @@
 {
-  "timestamp": "2026-03-02T03:52:59.867444",
+  "timestamp": "2026-03-02T06:29:22.966902",
   "date": "2026-03-02",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 7,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "NU6J88t4luM",
+      "title": "Sparxie Character Trailer — \"Ravings\" | Honkai: Star Rail",
+      "description": "Telling the same joke twice is no worse than murdering it!\nVocal: Sleep1st\n\nEnglish Voice:\nSparxie — Lizzie Freeman\nSparkle — Lizzie Freeman\n\nDownload the Game\nhttps://hoyo.link/bMxvUJLb7\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Sparxie",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-03-02T04:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NU6J88t4luM/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 116265,
+      "like_count": 26817,
+      "comment_count": 1407,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NU6J88t4luM"
+    },
+    {
+      "video_id": "ZTkLUVzlF_0",
+      "title": "Fox Report With Jon Scott",
+      "description": "The latest headlines, news and analysis.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-02T04:09:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZTkLUVzlF_0/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZTkLUVzlF_0"
+    },
+    {
+      "video_id": "KrIo8RDQMoo",
+      "title": "Scary Movie 6 trailer ",
+      "description": "Scary Movie 6 trailer \n\n#ScaryMovie6 #ScaryMovie6Trailer",
+      "channel_title": "ThatSoundedScary",
+      "channel_id": "UCS59x8pv6cBEsO4ZrFfI8eA",
+      "published_at": "2026-03-02T03:04:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KrIo8RDQMoo/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 6688,
+      "like_count": 1564,
+      "comment_count": 116,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
+    },
+    {
+      "video_id": "G-bCZzgHFI4",
+      "title": "Rush Hour (1998)",
+      "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
+      "channel_title": "YouTube Movies",
+      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
+      "published_at": "2026-03-01T05:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-bCZzgHFI4/hqdefault.jpg",
+      "duration": "PT1H37M46S",
+      "duration_seconds": 5866,
+      "view_count": 0,
+      "like_count": 7007,
+      "comment_count": 522,
+      "category_id": "30",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
+    },
     {
       "video_id": "ZcUXU30K68c",
       "title": "KLUH (2027) | Dwayne Johnson, Harrison Ford, Mark Ruffalo | Concept Trailer",
@@ -22,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZcUXU30K68c/hqdefault.jpg",
       "duration": "PT1M35S",
       "duration_seconds": 95,
-      "view_count": 37645,
-      "like_count": 265,
-      "comment_count": 20,
+      "view_count": 46094,
+      "like_count": 302,
+      "comment_count": 31,
       "category_id": "24",
       "tags": [
         "kluh 2027",
@@ -41,21 +109,32 @@
       "url": "https://www.youtube.com/watch?v=ZcUXU30K68c"
     },
     {
-      "video_id": "qv7ViRz6AiI",
-      "title": "Sunday Morning Futures With Maria Bartiromo",
-      "description": "Analysis of recent economic developments and interviews with business leaders and newsmakers.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-02T01:22:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qv7ViRz6AiI/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qv7ViRz6AiI"
+      "video_id": "4iaic1H4m_g",
+      "title": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
+      "description": "Today i played roblox would you rather but it actually happens. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collabora",
+      "channel_title": "Foltyn",
+      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
+      "published_at": "2026-03-01T21:17:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4iaic1H4m_g/hqdefault.jpg",
+      "duration": "PT17M25S",
+      "duration_seconds": 1045,
+      "view_count": 464184,
+      "like_count": 10432,
+      "comment_count": 3063,
+      "category_id": "20",
+      "tags": [
+        "foltyn",
+        "foltyn roblox",
+        "roblox",
+        "roblox foltyn",
+        "foltyn family",
+        "funny",
+        "no swearing",
+        "foltyn family roblox",
+        "roblox foltyn family",
+        "blade ball"
+      ],
+      "url": "https://www.youtube.com/watch?v=4iaic1H4m_g"
     },
     {
       "video_id": "xzISGAPmkAg",
@@ -67,57 +146,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xzISGAPmkAg/hqdefault.jpg",
       "duration": "PT1M53S",
       "duration_seconds": 113,
-      "view_count": 545602,
-      "like_count": 18257,
-      "comment_count": 245,
+      "view_count": 659049,
+      "like_count": 21442,
+      "comment_count": 264,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=xzISGAPmkAg"
-    },
-    {
-      "video_id": "G-bCZzgHFI4",
-      "title": "Rush Hour (1998)",
-      "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
-      "channel_title": "YouTube Movies",
-      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
-      "published_at": "2026-03-01T05:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G-bCZzgHFI4/hqdefault.jpg",
-      "duration": "PT1H37M46S",
-      "duration_seconds": 5866,
-      "view_count": 0,
-      "like_count": 5899,
-      "comment_count": 462,
-      "category_id": "30",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
-    },
-    {
-      "video_id": "iABU_qqBGDo",
-      "title": "Here’s When Every Big Trailer Will Come in 2026 | Sneak Peek",
-      "description": "But seriously, what’s taking so long with the Spider-Man Brand New Day trailer?\n\nWelcome back to THE SNEAK PEEK, the weekly show on New Rockstars that looks ahead to the future of fandom! This week, Erik Voss and Jessica Clemons break down every huge trailer we’re expecting to see this year and when we might get them, based on historical context and studio marketing patterns.\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDSonaQuest\nJustin Schoenrock\nSinCityMon5ter\nBro...\nPaulo Bianca\nRick Denmon\nJeremy Dunham\nFrederick Price\nHellrazer\n\nThis video was edited using the Adobe Creative Suite. To subscribe and help our channel, use our link:",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-03-01T16:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iABU_qqBGDo/hqdefault.jpg",
-      "duration": "PT52M1S",
-      "duration_seconds": 3121,
-      "view_count": 38854,
-      "like_count": 1562,
-      "comment_count": 100,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "spider-man trailer",
-        "spider-man brand new day trailer",
-        "doomsday trailer",
-        "lanterns trailer",
-        "vision quest trailer",
-        "avengers trailer",
-        "spiderman trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=iABU_qqBGDo"
     },
     {
       "video_id": "-IusL7Psh7Q",
@@ -137,144 +171,6 @@
       "url": "https://www.youtube.com/watch?v=-IusL7Psh7Q"
     },
     {
-      "video_id": "4iaic1H4m_g",
-      "title": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
-      "description": "Today i played roblox would you rather but it actually happens. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collabora",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-03-01T21:17:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4iaic1H4m_g/hqdefault.jpg",
-      "duration": "PT17M25S",
-      "duration_seconds": 1045,
-      "view_count": 351848,
-      "like_count": 8794,
-      "comment_count": 2738,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=4iaic1H4m_g"
-    },
-    {
-      "video_id": "TphfLyzVbqQ",
-      "title": "100 Days as King of the Unstable SMP",
-      "description": "After becoming the first King of the Unstable SMP, I promised to protect my people and my kingdom... and if I don't? Then I'll resign. These are my First 100 Days as King of the Unstable SMP.  \n\nUnstable SMP:\n➜ ‪  ‪ @wemmbumc \n➜ ‪  ‪ @FlameFragsMC \n➜ ‪   @Spokeishere \n➜ ‪  ‪ @ParrotX2  \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird @fymada @HoraceMinecraft @dragon_mc_ @lezywezy @4CVIT @LettuceK \n\nOriginal Song by @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 on other platforms! Enjoy!",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-03-01T03:50:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TphfLyzVbqQ/hqdefault.jpg",
-      "duration": "PT1H11M50S",
-      "duration_seconds": 4310,
-      "view_count": 2917995,
-      "like_count": 154544,
-      "comment_count": 29760,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
-      ],
-      "url": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
-    }
-  ],
-  "videos_with_transcripts": [],
-  "videos_without_transcripts": [
-    {
-      "video_id": "ZcUXU30K68c",
-      "title": "KLUH (2027) | Dwayne Johnson, Harrison Ford, Mark Ruffalo | Concept Trailer",
-      "description": "#kluh #blackhulk #hulk #dwaynejohnson #harrisonford \n\nWatch the KLUH (2027) Fan-Made Concept Trailer\n\nWhen burning rage finally burns itself out completely, something far colder and more terrifying takes its place. After spending years desperately trying to contain the monster living inside him, Bruce Banner finally hits an absolute breaking point—not through explosive anger, but through a total, crushing despair that fractures his gamma mutation in ways no scientist could have predicted. From that terrible silence rises KLUH. Dwayne Johnson brings to life this obsidian-skinned titan, a horrifying evolution of the Hulk born from complete hopelessness. He is taller, impossibly heavier, and genuinely unstoppable, yet what makes him truly terrifying is his lack of a roar. He doesn't scream in fury; he destroys everything in his path with a chilling, cold efficiency. As this darker transformation leaves whole cities trembling under its sheer physical weight, seismic events ripple across th",
-      "channel_title": "Ultimate Studios",
-      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
-      "published_at": "2026-03-01T12:30:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZcUXU30K68c/hqdefault.jpg",
-      "duration": "PT1M35S",
-      "duration_seconds": 95,
-      "view_count": 37645,
-      "like_count": 265,
-      "comment_count": 20,
-      "category_id": "24",
-      "tags": [
-        "kluh 2027",
-        "kluh trailer",
-        "kluh hulk",
-        "dwayne johnson kluh",
-        "black hulk",
-        "dark hulk",
-        "red hulk",
-        "harrison ford hulk",
-        "fan made trailer",
-        "concept trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZcUXU30K68c"
-    },
-    {
-      "video_id": "qv7ViRz6AiI",
-      "title": "Sunday Morning Futures With Maria Bartiromo",
-      "description": "Analysis of recent economic developments and interviews with business leaders and newsmakers.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-02T01:22:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qv7ViRz6AiI/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qv7ViRz6AiI"
-    },
-    {
-      "video_id": "xzISGAPmkAg",
-      "title": "#RĀKĀSĀ Teaser | Sangeeth Shobhan & Nayan Sarika | Manasa Sharma | Niharika Konidela | Zee Studios",
-      "description": "Watch the official #RaakaasaaTeaser now! A fantasy-comedy starring Sangeeth Shobhan & Nayan Sarika. #Rākāsā In Cinemas April 3, 2026 💥\n…………………………………………………………\nRakasa (formerly #PEP2) is a fantasy-comedy film from Pink Elephant Pictures, produced by Niharika Konidela and Zee Studios, directed by Manasa Sharma. Blending imaginative fantasy with engaging humour for audiences of all ages.\n\nFeaturing a fresh and exciting pairing of Sangeeth Shobhan and Nayan Sarika in the lead roles, Vennela Kishore, Brahmaji, Tanikella Bharani, Ashish Vidyarthi, Getup Srinu, Sukhwinder Singh, Anoop Singh, Vasu Inturi, Rohini, Rohan Roy.\n\nFilm Credits:\nA Niharika Konidela Production \nBanner: Pink Elephant Pictures & Zee Studios\nProducers: Niharika Konidela & Umesh Kumar Bansal\nWritten & Directed By: Manasa Sharma \nDOP: Edurolu Raju\nMusic: Anudeep Dev\nEditor: Anwar Ali\nExecutive Producer: Ramesh Manyam\nAdditional Screenplay: Mahesh Uppala\nProduction Designer: Ramanjaneyulu \nVFX Supervisor: Murali Manohar Redd",
-      "channel_title": "Pink Elephant Pictures",
-      "channel_id": "UC08248zN4JDWJm5wRljr_2Q",
-      "published_at": "2026-03-01T12:38:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xzISGAPmkAg/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "duration_seconds": 113,
-      "view_count": 545602,
-      "like_count": 18257,
-      "comment_count": 245,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xzISGAPmkAg"
-    },
-    {
-      "video_id": "G-bCZzgHFI4",
-      "title": "Rush Hour (1998)",
-      "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
-      "channel_title": "YouTube Movies",
-      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
-      "published_at": "2026-03-01T05:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G-bCZzgHFI4/hqdefault.jpg",
-      "duration": "PT1H37M46S",
-      "duration_seconds": 5866,
-      "view_count": 0,
-      "like_count": 5899,
-      "comment_count": 462,
-      "category_id": "30",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
-    },
-    {
       "video_id": "iABU_qqBGDo",
       "title": "Here’s When Every Big Trailer Will Come in 2026 | Sneak Peek",
       "description": "But seriously, what’s taking so long with the Spider-Man Brand New Day trailer?\n\nWelcome back to THE SNEAK PEEK, the weekly show on New Rockstars that looks ahead to the future of fandom! This week, Erik Voss and Jessica Clemons break down every huge trailer we’re expecting to see this year and when we might get them, based on historical context and studio marketing patterns.\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDSonaQuest\nJustin Schoenrock\nSinCityMon5ter\nBro...\nPaulo Bianca\nRick Denmon\nJeremy Dunham\nFrederick Price\nHellrazer\n\nThis video was edited using the Adobe Creative Suite. To subscribe and help our channel, use our link:",
@@ -284,9 +180,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iABU_qqBGDo/hqdefault.jpg",
       "duration": "PT52M1S",
       "duration_seconds": 3121,
-      "view_count": 38854,
-      "like_count": 1562,
-      "comment_count": 100,
+      "view_count": 44415,
+      "like_count": 1692,
+      "comment_count": 107,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -303,6 +199,131 @@
       "url": "https://www.youtube.com/watch?v=iABU_qqBGDo"
     },
     {
+      "video_id": "l7j_KnHlmfc",
+      "title": "MAYBE SOME RAGE... | Baby Steps - Part 2",
+      "description": "Things are getting a little harder in Baby Steps but still not anywhere near Getting Over It levels... not yet anyway.\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nIron Lung MERCH!! ► https://ironlung.com\n\nEdited By ► @Diceroll \nEdited By ► @LixianTV \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-03-01T22:51:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l7j_KnHlmfc/hqdefault.jpg",
+      "duration": "PT1H23M19S",
+      "duration_seconds": 4999,
+      "view_count": 272962,
+      "like_count": 24322,
+      "comment_count": 1693,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "baby steps",
+        "baby steps game",
+        "rage game",
+        "bennet foddy",
+        "getting over it",
+        "impossible game",
+        "part 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
+    }
+  ],
+  "videos_with_transcripts": [],
+  "videos_without_transcripts": [
+    {
+      "video_id": "NU6J88t4luM",
+      "title": "Sparxie Character Trailer — \"Ravings\" | Honkai: Star Rail",
+      "description": "Telling the same joke twice is no worse than murdering it!\nVocal: Sleep1st\n\nEnglish Voice:\nSparxie — Lizzie Freeman\nSparkle — Lizzie Freeman\n\nDownload the Game\nhttps://hoyo.link/bMxvUJLb7\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Sparxie",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-03-02T04:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NU6J88t4luM/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 116265,
+      "like_count": 26817,
+      "comment_count": 1407,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NU6J88t4luM"
+    },
+    {
+      "video_id": "ZTkLUVzlF_0",
+      "title": "Fox Report With Jon Scott",
+      "description": "The latest headlines, news and analysis.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-02T04:09:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZTkLUVzlF_0/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZTkLUVzlF_0"
+    },
+    {
+      "video_id": "KrIo8RDQMoo",
+      "title": "Scary Movie 6 trailer ",
+      "description": "Scary Movie 6 trailer \n\n#ScaryMovie6 #ScaryMovie6Trailer",
+      "channel_title": "ThatSoundedScary",
+      "channel_id": "UCS59x8pv6cBEsO4ZrFfI8eA",
+      "published_at": "2026-03-02T03:04:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KrIo8RDQMoo/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 6688,
+      "like_count": 1564,
+      "comment_count": 116,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
+    },
+    {
+      "video_id": "G-bCZzgHFI4",
+      "title": "Rush Hour (1998)",
+      "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
+      "channel_title": "YouTube Movies",
+      "channel_id": "UCuVPpxrm2VAgpH3Ktln4HXg",
+      "published_at": "2026-03-01T05:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-bCZzgHFI4/hqdefault.jpg",
+      "duration": "PT1H37M46S",
+      "duration_seconds": 5866,
+      "view_count": 0,
+      "like_count": 7007,
+      "comment_count": 522,
+      "category_id": "30",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
+    },
+    {
+      "video_id": "ZcUXU30K68c",
+      "title": "KLUH (2027) | Dwayne Johnson, Harrison Ford, Mark Ruffalo | Concept Trailer",
+      "description": "#kluh #blackhulk #hulk #dwaynejohnson #harrisonford \n\nWatch the KLUH (2027) Fan-Made Concept Trailer\n\nWhen burning rage finally burns itself out completely, something far colder and more terrifying takes its place. After spending years desperately trying to contain the monster living inside him, Bruce Banner finally hits an absolute breaking point—not through explosive anger, but through a total, crushing despair that fractures his gamma mutation in ways no scientist could have predicted. From that terrible silence rises KLUH. Dwayne Johnson brings to life this obsidian-skinned titan, a horrifying evolution of the Hulk born from complete hopelessness. He is taller, impossibly heavier, and genuinely unstoppable, yet what makes him truly terrifying is his lack of a roar. He doesn't scream in fury; he destroys everything in his path with a chilling, cold efficiency. As this darker transformation leaves whole cities trembling under its sheer physical weight, seismic events ripple across th",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-03-01T12:30:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZcUXU30K68c/hqdefault.jpg",
+      "duration": "PT1M35S",
+      "duration_seconds": 95,
+      "view_count": 46094,
+      "like_count": 302,
+      "comment_count": 31,
+      "category_id": "24",
+      "tags": [
+        "kluh 2027",
+        "kluh trailer",
+        "kluh hulk",
+        "dwayne johnson kluh",
+        "black hulk",
+        "dark hulk",
+        "red hulk",
+        "harrison ford hulk",
+        "fan made trailer",
+        "concept trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZcUXU30K68c"
+    },
+    {
       "video_id": "4iaic1H4m_g",
       "title": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
       "description": "Today i played roblox would you rather but it actually happens. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collabora",
@@ -312,9 +333,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4iaic1H4m_g/hqdefault.jpg",
       "duration": "PT17M25S",
       "duration_seconds": 1045,
-      "view_count": 351848,
-      "like_count": 8794,
-      "comment_count": 2738,
+      "view_count": 464184,
+      "like_count": 10432,
+      "comment_count": 3063,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -331,32 +352,75 @@
       "url": "https://www.youtube.com/watch?v=4iaic1H4m_g"
     },
     {
-      "video_id": "TphfLyzVbqQ",
-      "title": "100 Days as King of the Unstable SMP",
-      "description": "After becoming the first King of the Unstable SMP, I promised to protect my people and my kingdom... and if I don't? Then I'll resign. These are my First 100 Days as King of the Unstable SMP.  \n\nUnstable SMP:\n➜ ‪  ‪ @wemmbumc \n➜ ‪  ‪ @FlameFragsMC \n➜ ‪   @Spokeishere \n➜ ‪  ‪ @ParrotX2  \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird @fymada @HoraceMinecraft @dragon_mc_ @lezywezy @4CVIT @LettuceK \n\nOriginal Song by @tsynphonia \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 on other platforms! Enjoy!",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-03-01T03:50:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TphfLyzVbqQ/hqdefault.jpg",
-      "duration": "PT1H11M50S",
-      "duration_seconds": 4310,
-      "view_count": 2917995,
-      "like_count": 154544,
-      "comment_count": 29760,
+      "video_id": "xzISGAPmkAg",
+      "title": "#RĀKĀSĀ Teaser | Sangeeth Shobhan & Nayan Sarika | Manasa Sharma | Niharika Konidela | Zee Studios",
+      "description": "Watch the official #RaakaasaaTeaser now! A fantasy-comedy starring Sangeeth Shobhan & Nayan Sarika. #Rākāsā In Cinemas April 3, 2026 💥\n…………………………………………………………\nRakasa (formerly #PEP2) is a fantasy-comedy film from Pink Elephant Pictures, produced by Niharika Konidela and Zee Studios, directed by Manasa Sharma. Blending imaginative fantasy with engaging humour for audiences of all ages.\n\nFeaturing a fresh and exciting pairing of Sangeeth Shobhan and Nayan Sarika in the lead roles, Vennela Kishore, Brahmaji, Tanikella Bharani, Ashish Vidyarthi, Getup Srinu, Sukhwinder Singh, Anoop Singh, Vasu Inturi, Rohini, Rohan Roy.\n\nFilm Credits:\nA Niharika Konidela Production \nBanner: Pink Elephant Pictures & Zee Studios\nProducers: Niharika Konidela & Umesh Kumar Bansal\nWritten & Directed By: Manasa Sharma \nDOP: Edurolu Raju\nMusic: Anudeep Dev\nEditor: Anwar Ali\nExecutive Producer: Ramesh Manyam\nAdditional Screenplay: Mahesh Uppala\nProduction Designer: Ramanjaneyulu \nVFX Supervisor: Murali Manohar Redd",
+      "channel_title": "Pink Elephant Pictures",
+      "channel_id": "UC08248zN4JDWJm5wRljr_2Q",
+      "published_at": "2026-03-01T12:38:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xzISGAPmkAg/hqdefault.jpg",
+      "duration": "PT1M53S",
+      "duration_seconds": 113,
+      "view_count": 659049,
+      "like_count": 21442,
+      "comment_count": 264,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xzISGAPmkAg"
+    },
+    {
+      "video_id": "iABU_qqBGDo",
+      "title": "Here’s When Every Big Trailer Will Come in 2026 | Sneak Peek",
+      "description": "But seriously, what’s taking so long with the Spider-Man Brand New Day trailer?\n\nWelcome back to THE SNEAK PEEK, the weekly show on New Rockstars that looks ahead to the future of fandom! This week, Erik Voss and Jessica Clemons break down every huge trailer we’re expecting to see this year and when we might get them, based on historical context and studio marketing patterns.\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDSonaQuest\nJustin Schoenrock\nSinCityMon5ter\nBro...\nPaulo Bianca\nRick Denmon\nJeremy Dunham\nFrederick Price\nHellrazer\n\nThis video was edited using the Adobe Creative Suite. To subscribe and help our channel, use our link:",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-01T16:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iABU_qqBGDo/hqdefault.jpg",
+      "duration": "PT52M1S",
+      "duration_seconds": 3121,
+      "view_count": 44415,
+      "like_count": 1692,
+      "comment_count": 107,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "spider-man trailer",
+        "spider-man brand new day trailer",
+        "doomsday trailer",
+        "lanterns trailer",
+        "vision quest trailer",
+        "avengers trailer",
+        "spiderman trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=iABU_qqBGDo"
+    },
+    {
+      "video_id": "l7j_KnHlmfc",
+      "title": "MAYBE SOME RAGE... | Baby Steps - Part 2",
+      "description": "Things are getting a little harder in Baby Steps but still not anywhere near Getting Over It levels... not yet anyway.\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nIron Lung MERCH!! ► https://ironlung.com\n\nEdited By ► @Diceroll \nEdited By ► @LixianTV \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-03-01T22:51:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l7j_KnHlmfc/hqdefault.jpg",
+      "duration": "PT1H23M19S",
+      "duration_seconds": 4999,
+      "view_count": 272962,
+      "like_count": 24322,
+      "comment_count": 1693,
       "category_id": "20",
       "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
+        "markiplier",
+        "baby steps",
+        "baby steps game",
+        "rage game",
+        "bennet foddy",
+        "getting over it",
+        "impossible game",
+        "part 2"
       ],
-      "url": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
+      "url": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
     },
     {
       "video_id": "-IusL7Psh7Q",
@@ -380,73 +444,99 @@
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 8,
-        "totalViews": 3891944,
-        "averageViewsPerVideo": 486493,
+        "total_videos": 10,
+        "total_views": 1609657,
+        "average_views_per_video": 160965.7,
         "categories": "Unknown"
       },
-      "trendingPatterns": {
-        "contentThemes": [
-          {
-            "theme": "Movie Trailers and Concept Trailers",
+      "content_trends": {
+        "themes": [
+          "trailer_releases",
+          "conceptual_content",
+          "gaming",
+          "news"
+        ],
+        "observations": {
+          "trailer_content": {
+            "description": "Several videos are centered around trailers or teasers, indicating a strong viewer interest in upcoming media and entertainment releases.",
             "examples": [
-              "KLUH (2027) | Dwayne Johnson, Harrison Ford, Mark Ruffalo | Concept Trailer",
-              "Here’s When Every Big Trailer Will Come in 2026 | Sneak Peek",
+              "Sparxie Character Trailer — 'Ravings' | Honkai: Star Rail",
+              "Scary Movie 6 trailer",
+              "KLUH (2027) | Concept Trailer",
+              "#RĀKĀSĀ Teaser"
+            ]
+          },
+          "nostalgia": {
+            "description": "Classic movies or references to iconic films such as 'Rush Hour' and 'Raiders of the Lost Ark' suggest a trend towards nostalgic content.",
+            "examples": [
+              "Rush Hour (1998)",
               "Raiders of the Lost Ark"
-            ],
-            "insight": "Movie and concept trailers continue to capture significant viewer interest, indicating strong engagement with entertainment previews and nostalgia-driven content."
+            ]
           },
-          {
-            "theme": "News and Current Affairs",
-            "examples": [
-              "Sunday Morning Futures With Maria Bartiromo"
-            ],
-            "insight": "News segments from established networks like FOX News remain popular, suggesting a consistent demand for timely and authoritative news content."
-          },
-          {
-            "theme": "Gaming",
+          "gaming": {
+            "description": "The inclusion of gaming-related content, particularly with 'ROBLOX' and 'Honkai: Star Rail', reflects a significant engagement with gaming communities.",
             "examples": [
               "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
-              "100 Days as King of the Unstable SMP"
-            ],
-            "insight": "Gaming content, particularly interactive and challenge-based videos, continues to engage a large audience, reflecting the ongoing popularity of platforms like Roblox and Minecraft."
+              "Sparxie Character Trailer — 'Ravings' | Honkai: Star Rail"
+            ]
           },
-          {
-            "theme": "Teasers and Short Films",
+          "news": {
+            "description": "News content, such as 'Fox Report With Jon Scott', maintains relevance, highlighting the persistent demand for current events and updates.",
             "examples": [
-              "#RĀKĀSĀ Teaser | Sangeeth Shobhan & Nayan Sarika | Manasa Sharma | Niharika Konidela | Zee Studios"
-            ],
-            "insight": "Teasers for regional films and short productions are trending, highlighting opportunities in niche markets and regional content."
-          }
-        ],
-        "creatorPatterns": {
-          "diversityInChannels": {
-            "observation": "Each of the trending videos is from a different channel, showcasing diversity in content creators from major studios to indie creators.",
-            "insight": "There’s significant opportunity for content creators to enter the trending space by producing unique, high-quality content."
+              "Fox Report With Jon Scott"
+            ]
           }
         }
       },
-      "marketOpportunities": {
-        "nostalgia-drivenContent": {
-          "opportunity": "Create content that taps into nostalgia, such as retrospectives or remakes of classic films and franchises, to engage audiences."
+      "creator_patterns": {
+        "diversified_channels": {
+          "description": "Content is produced by a variety of channels, each specializing in different types of content, from gaming and movies to news.",
+          "top_channels": [
+            "Honkai: Star Rail",
+            "FOX News",
+            "ThatSoundedScary",
+            "YouTube Movies",
+            "Ultimate Studios"
+          ]
         },
-        "regionalFilmTeasers": {
-          "opportunity": "Invest in producing and promoting regional film teasers and short films to capture growing interest in diverse cultural narratives."
+        "engagement_strategies": {
+          "description": "Channels are utilizing teasers and trailers to generate anticipation and engagement ahead of full releases.",
+          "examples": [
+            "Concept trailers and teasers",
+            "Sneak peeks of upcoming events"
+          ]
+        }
+      },
+      "market_opportunities": {
+        "gaming_content": {
+          "description": "Increasing demand for gaming-related content, particularly those involving interactive or conceptual elements, presents opportunities for content creators.",
+          "actionable_insights": [
+            "Develop interactive or augmented reality content to engage gaming audiences.",
+            "Collaborate with gaming influencers to expand reach and engagement."
+          ]
         },
-        "interactiveGamingVideos": {
-          "opportunity": "Develop interactive gaming content, focusing on popular platforms like Roblox and Minecraft, to capitalize on the thriving gaming community."
+        "nostalgia_and_remakes": {
+          "description": "Nostalgia-driven content and remakes of classic films can attract both older audiences and new viewers, providing a dual market.",
+          "actionable_insights": [
+            "Leverage iconic characters or scenes in new projects to capture nostalgic interest.",
+            "Explore remakes or spin-offs of classic franchises."
+          ]
         },
-        "newsAndAnalysis": {
-          "opportunity": "Explore news and analysis content, especially around trending global events, to attract viewers seeking trustworthy information."
+        "trailer_and_teaser_content": {
+          "description": "The high engagement with trailers and teasers suggests a consistent interest in upcoming media releases.",
+          "actionable_insights": [
+            "Invest in high-quality production of trailers to generate buzz.",
+            "Use social media platforms to stagger teaser releases, maintaining audience interest."
+          ]
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 486493
+        "avg_views_per_video": 160965
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
