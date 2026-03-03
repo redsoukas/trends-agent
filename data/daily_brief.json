@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-02T21:17:07.076224",
-  "date": "2026-03-02",
+  "timestamp": "2026-03-03T00:45:06.934254",
+  "date": "2026-03-03",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0fZ58S-7QP0/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 914321,
-      "like_count": 83035,
-      "comment_count": 5403,
+      "view_count": 1373601,
+      "like_count": 102959,
+      "comment_count": 6554,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-sKjdYceH04/hqdefault.jpg",
       "duration": "PT1M44S",
       "duration_seconds": 104,
-      "view_count": 578271,
-      "like_count": 33059,
-      "comment_count": 2326,
+      "view_count": 808244,
+      "like_count": 38098,
+      "comment_count": 2529,
       "category_id": "24",
       "tags": [
         "Action",
@@ -75,6 +75,46 @@
       "url": "https://www.youtube.com/watch?v=-sKjdYceH04"
     },
     {
+      "video_id": "Pj3WI5kL9aM",
+      "title": "Resident Evil 9 Requiem - Part 5 (END)",
+      "description": "I can't believe we're at the end of Resident Evil 9 Requiem\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-03-02T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pj3WI5kL9aM/hqdefault.jpg",
+      "duration": "PT3H16M48S",
+      "duration_seconds": 11808,
+      "view_count": 252550,
+      "like_count": 25551,
+      "comment_count": 2863,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
+    },
+    {
+      "video_id": "orSc3zHP6-g",
+      "title": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
+      "description": "Introducing Black Ops Royale: a new Blackout-inspired mode, reimagined for Call of Duty: Warzone on Avalon 🔥\n\nOutloot. Outlast. Survive. Play for free starting March 13 🪂\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
+      "channel_title": "Call of Duty",
+      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
+      "published_at": "2026-03-02T18:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/orSc3zHP6-g/hqdefault.jpg",
+      "duration": "PT2M18S",
+      "duration_seconds": 138,
+      "view_count": 1603271,
+      "like_count": 6016,
+      "comment_count": 815,
+      "category_id": "20",
+      "tags": [
+        "call of duty",
+        "cod",
+        "activision"
+      ],
+      "url": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+    },
+    {
       "video_id": "G-bCZzgHFI4",
       "title": "Rush Hour (1998)",
       "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
@@ -85,8 +125,8 @@
       "duration": "PT1H37M46S",
       "duration_seconds": 5866,
       "view_count": 0,
-      "like_count": 9715,
-      "comment_count": 689,
+      "like_count": 10653,
+      "comment_count": 746,
       "category_id": "30",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
@@ -101,9 +141,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NU6J88t4luM/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 555703,
-      "like_count": 65179,
-      "comment_count": 2655,
+      "view_count": 612920,
+      "like_count": 68690,
+      "comment_count": 2748,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=NU6J88t4luM"
@@ -118,9 +158,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/l7j_KnHlmfc/hqdefault.jpg",
       "duration": "PT1H23M19S",
       "duration_seconds": 4999,
-      "view_count": 664536,
-      "like_count": 42839,
-      "comment_count": 2499,
+      "view_count": 745459,
+      "like_count": 46252,
+      "comment_count": 2633,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -135,25 +175,21 @@
       "url": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
     },
     {
-      "video_id": "orSc3zHP6-g",
-      "title": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
-      "description": "Introducing Black Ops Royale: a new Blackout-inspired mode, reimagined for Call of Duty: Warzone on Avalon 🔥\n\nOutloot. Outlast. Survive. Play for free starting March 13 🪂\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
-      "channel_title": "Call of Duty",
-      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
-      "published_at": "2026-03-02T18:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/orSc3zHP6-g/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 64257,
-      "like_count": 4417,
-      "comment_count": 632,
-      "category_id": "20",
-      "tags": [
-        "call of duty",
-        "cod",
-        "activision"
-      ],
-      "url": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+      "video_id": "OykDeP5P02g",
+      "title": "Every Reference In The Scary Movie 6 Trailer",
+      "description": "Scary Movie 6 Trailer Breakdown And Trailer Reaction to the Scary Movie Reboot. I point out every easter egg thing you missed for the horror movies getting parody in Scary movie 6. Scary Movie Trailer \n\n\n\n------------------------SOCIAL MEDIA ------------------------\n\nTik Tok: https://www.tiktok.com/@3cfilms?lang=en\nTwitter: https://twitter.com/3CFilmss\nTwitch: https://www.twitch.tv/3c_films\nInstagram: https://www.instagram.com/3cfilm/\n\nBusiness Inquiries:\n3cfilmreview@gmail.com\n\nThank You For Any Support!",
+      "channel_title": "3C Films",
+      "channel_id": "UCkFbAywlXz4W0BCle2eFyUw",
+      "published_at": "2026-03-02T21:10:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OykDeP5P02g/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 32131,
+      "like_count": 4243,
+      "comment_count": 567,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=OykDeP5P02g"
     },
     {
       "video_id": "4iaic1H4m_g",
@@ -165,9 +201,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4iaic1H4m_g/hqdefault.jpg",
       "duration": "PT17M25S",
       "duration_seconds": 1045,
-      "view_count": 1115208,
-      "like_count": 20329,
-      "comment_count": 4897,
+      "view_count": 1228052,
+      "like_count": 21696,
+      "comment_count": 5396,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -182,62 +218,6 @@
         "blade ball"
       ],
       "url": "https://www.youtube.com/watch?v=4iaic1H4m_g"
-    },
-    {
-      "video_id": "Y_Qay4MHC0M",
-      "title": "Scary Movie 2026 | Official Trailer | Reaction!",
-      "description": "#scarymovie2026 #scarymovie #scarymovie6 #reaction #reactions #tyronemagnus #comedy #funny #parody #spoof #marlonwayans #shawnwayans \n\nhttps://www.youtube.com/watch?v=0fZ58S-7QP0\nWe’re baaaaaack. Watch the official trailer for the new - only in theatres June 12. \n\nTwenty-six years after outrunning a suspiciously familiar masked killer (“Ghostface”), the Core Four are back in the killer’s crosshairs and no horror movie IP is safe. Marlon Wayans (“Shorty”), Shawn Wayans (“Ray”), Anna Faris (“Cindy”), and Regina Hall (“Brenda”) reunite in Scary Movie alongside returning favorites and fresh faces to slash through reboots, remakes, requels, prequels, sequels, spin-offs, elevated horror, origin stories, anything with the word legacy in it, and every “final chapter” that absolutely isn’t final. Nothing is sacred. No trope survives. ​Every line gets crossed. The Wayans are back to cancel the Cancel Culture.",
-      "channel_title": "Tyrone Magnus",
-      "channel_id": "UCs95gwav7frv5HTVqAGa7uQ",
-      "published_at": "2026-03-02T18:28:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y_Qay4MHC0M/hqdefault.jpg",
-      "duration": "PT3M12S",
-      "duration_seconds": 192,
-      "view_count": 12910,
-      "like_count": 2378,
-      "comment_count": 97,
-      "category_id": "24",
-      "tags": [
-        "scary movie 6",
-        "scary movie",
-        "2026",
-        "official trailer",
-        "marlon wayans",
-        "shawn wayans",
-        "comedy",
-        "spoof",
-        "parody",
-        "funny"
-      ],
-      "url": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
-    },
-    {
-      "video_id": "GPgev7QpHYE",
-      "title": "I Tried To Beat Burglin’ Gnomes",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-01T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GPgev7QpHYE/hqdefault.jpg",
-      "duration": "PT1H19M2S",
-      "duration_seconds": 4742,
-      "view_count": 506267,
-      "like_count": 16044,
-      "comment_count": 986,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=GPgev7QpHYE"
     }
   ],
   "videos_with_transcripts": [],
@@ -252,9 +232,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0fZ58S-7QP0/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 914321,
-      "like_count": 83035,
-      "comment_count": 5403,
+      "view_count": 1373601,
+      "like_count": 102959,
+      "comment_count": 6554,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
@@ -286,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-sKjdYceH04/hqdefault.jpg",
       "duration": "PT1M44S",
       "duration_seconds": 104,
-      "view_count": 578271,
-      "like_count": 33059,
-      "comment_count": 2326,
+      "view_count": 808244,
+      "like_count": 38098,
+      "comment_count": 2529,
       "category_id": "24",
       "tags": [
         "Action",
@@ -305,6 +285,46 @@
       "url": "https://www.youtube.com/watch?v=-sKjdYceH04"
     },
     {
+      "video_id": "Pj3WI5kL9aM",
+      "title": "Resident Evil 9 Requiem - Part 5 (END)",
+      "description": "I can't believe we're at the end of Resident Evil 9 Requiem\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-03-02T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pj3WI5kL9aM/hqdefault.jpg",
+      "duration": "PT3H16M48S",
+      "duration_seconds": 11808,
+      "view_count": 252550,
+      "like_count": 25551,
+      "comment_count": 2863,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
+    },
+    {
+      "video_id": "orSc3zHP6-g",
+      "title": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
+      "description": "Introducing Black Ops Royale: a new Blackout-inspired mode, reimagined for Call of Duty: Warzone on Avalon 🔥\n\nOutloot. Outlast. Survive. Play for free starting March 13 🪂\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
+      "channel_title": "Call of Duty",
+      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
+      "published_at": "2026-03-02T18:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/orSc3zHP6-g/hqdefault.jpg",
+      "duration": "PT2M18S",
+      "duration_seconds": 138,
+      "view_count": 1603271,
+      "like_count": 6016,
+      "comment_count": 815,
+      "category_id": "20",
+      "tags": [
+        "call of duty",
+        "cod",
+        "activision"
+      ],
+      "url": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+    },
+    {
       "video_id": "G-bCZzgHFI4",
       "title": "Rush Hour (1998)",
       "description": "The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter (Tucker) to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl.",
@@ -315,8 +335,8 @@
       "duration": "PT1H37M46S",
       "duration_seconds": 5866,
       "view_count": 0,
-      "like_count": 9715,
-      "comment_count": 689,
+      "like_count": 10653,
+      "comment_count": 746,
       "category_id": "30",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
@@ -331,9 +351,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NU6J88t4luM/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 555703,
-      "like_count": 65179,
-      "comment_count": 2655,
+      "view_count": 612920,
+      "like_count": 68690,
+      "comment_count": 2748,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=NU6J88t4luM"
@@ -348,9 +368,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/l7j_KnHlmfc/hqdefault.jpg",
       "duration": "PT1H23M19S",
       "duration_seconds": 4999,
-      "view_count": 664536,
-      "like_count": 42839,
-      "comment_count": 2499,
+      "view_count": 745459,
+      "like_count": 46252,
+      "comment_count": 2633,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -365,25 +385,21 @@
       "url": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
     },
     {
-      "video_id": "orSc3zHP6-g",
-      "title": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
-      "description": "Introducing Black Ops Royale: a new Blackout-inspired mode, reimagined for Call of Duty: Warzone on Avalon 🔥\n\nOutloot. Outlast. Survive. Play for free starting March 13 🪂\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
-      "channel_title": "Call of Duty",
-      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
-      "published_at": "2026-03-02T18:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/orSc3zHP6-g/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 64257,
-      "like_count": 4417,
-      "comment_count": 632,
-      "category_id": "20",
-      "tags": [
-        "call of duty",
-        "cod",
-        "activision"
-      ],
-      "url": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+      "video_id": "OykDeP5P02g",
+      "title": "Every Reference In The Scary Movie 6 Trailer",
+      "description": "Scary Movie 6 Trailer Breakdown And Trailer Reaction to the Scary Movie Reboot. I point out every easter egg thing you missed for the horror movies getting parody in Scary movie 6. Scary Movie Trailer \n\n\n\n------------------------SOCIAL MEDIA ------------------------\n\nTik Tok: https://www.tiktok.com/@3cfilms?lang=en\nTwitter: https://twitter.com/3CFilmss\nTwitch: https://www.twitch.tv/3c_films\nInstagram: https://www.instagram.com/3cfilm/\n\nBusiness Inquiries:\n3cfilmreview@gmail.com\n\nThank You For Any Support!",
+      "channel_title": "3C Films",
+      "channel_id": "UCkFbAywlXz4W0BCle2eFyUw",
+      "published_at": "2026-03-02T21:10:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OykDeP5P02g/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 32131,
+      "like_count": 4243,
+      "comment_count": 567,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=OykDeP5P02g"
     },
     {
       "video_id": "4iaic1H4m_g",
@@ -395,9 +411,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4iaic1H4m_g/hqdefault.jpg",
       "duration": "PT17M25S",
       "duration_seconds": 1045,
-      "view_count": 1115208,
-      "like_count": 20329,
-      "comment_count": 4897,
+      "view_count": 1228052,
+      "like_count": 21696,
+      "comment_count": 5396,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -412,135 +428,80 @@
         "blade ball"
       ],
       "url": "https://www.youtube.com/watch?v=4iaic1H4m_g"
-    },
-    {
-      "video_id": "Y_Qay4MHC0M",
-      "title": "Scary Movie 2026 | Official Trailer | Reaction!",
-      "description": "#scarymovie2026 #scarymovie #scarymovie6 #reaction #reactions #tyronemagnus #comedy #funny #parody #spoof #marlonwayans #shawnwayans \n\nhttps://www.youtube.com/watch?v=0fZ58S-7QP0\nWe’re baaaaaack. Watch the official trailer for the new - only in theatres June 12. \n\nTwenty-six years after outrunning a suspiciously familiar masked killer (“Ghostface”), the Core Four are back in the killer’s crosshairs and no horror movie IP is safe. Marlon Wayans (“Shorty”), Shawn Wayans (“Ray”), Anna Faris (“Cindy”), and Regina Hall (“Brenda”) reunite in Scary Movie alongside returning favorites and fresh faces to slash through reboots, remakes, requels, prequels, sequels, spin-offs, elevated horror, origin stories, anything with the word legacy in it, and every “final chapter” that absolutely isn’t final. Nothing is sacred. No trope survives. ​Every line gets crossed. The Wayans are back to cancel the Cancel Culture.",
-      "channel_title": "Tyrone Magnus",
-      "channel_id": "UCs95gwav7frv5HTVqAGa7uQ",
-      "published_at": "2026-03-02T18:28:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y_Qay4MHC0M/hqdefault.jpg",
-      "duration": "PT3M12S",
-      "duration_seconds": 192,
-      "view_count": 12910,
-      "like_count": 2378,
-      "comment_count": 97,
-      "category_id": "24",
-      "tags": [
-        "scary movie 6",
-        "scary movie",
-        "2026",
-        "official trailer",
-        "marlon wayans",
-        "shawn wayans",
-        "comedy",
-        "spoof",
-        "parody",
-        "funny"
-      ],
-      "url": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
-    },
-    {
-      "video_id": "GPgev7QpHYE",
-      "title": "I Tried To Beat Burglin’ Gnomes",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-01T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GPgev7QpHYE/hqdefault.jpg",
-      "duration": "PT1H19M2S",
-      "duration_seconds": 4742,
-      "view_count": 506267,
-      "like_count": 16044,
-      "comment_count": 986,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=GPgev7QpHYE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "movie_trailers": {
-          "description": "Movie trailers, particularly those for upcoming films such as 'Scary Movie 2026' and 'ONE PIECE: Season 2', are significantly represented in the trending list.",
-          "insights": [
-            "Trailers for both new and upcoming releases capture significant viewer interest, indicating a strong audience demand for sneak peeks and early content.",
-            "The inclusion of well-known franchises and sequels, such as 'Scary Movie' and 'ONE PIECE', suggests that leveraging established IPs can drive significant engagement."
-          ],
-          "opportunities": [
-            "Content creators and brands can capitalize on this trend by creating reaction videos, reviews, and breakdowns of trailers to attract viewers who are interested in these films.",
-            "Consider collaborations with movie studios for exclusive content or behind-the-scenes footage to engage audiences further."
-          ]
+      "analysis": {
+        "overview": {
+          "totalVideos": 10,
+          "totalViews": 6656228,
+          "averageViewsPerVideo": 665622.8
         },
-        "gaming_content": {
-          "description": "Gaming content, including trailers and gameplay experiences, is prominently featured in the trending list.",
-          "insights": [
-            "Trailers for new game releases like 'Black Ops Royale' and character trailers for games like 'Honkai: Star Rail' attract high viewership, reflecting a robust interest in gaming culture.",
-            "User-generated content such as 'ROBLOX WOULD YOU RATHER' videos indicates a trend towards interactive and participatory content in gaming."
+        "contentTrends": {
+          "genres": [
+            "Movies",
+            "Gaming",
+            "Television",
+            "News"
           ],
-          "opportunities": [
-            "Developing content around popular games, such as walkthroughs, tips, and live streams, can attract gaming enthusiasts.",
-            "Engage with the gaming community through competitions and challenges to enhance viewer engagement and brand loyalty."
-          ]
+          "recurringThemes": [
+            "Film Trailers",
+            "Gaming Content",
+            "Television Shows"
+          ],
+          "keyObservations": {
+            "movieTrailers": 3,
+            "gamingVideos": 3,
+            "televisionContent": 2,
+            "newsContent": 1,
+            "miscellaneous": 1
+          }
         },
-        "reaction_videos": {
-          "description": "Reaction videos, such as the 'Scary Movie 2026 | Official Trailer | Reaction!', are part of the trending content.",
-          "insights": [
-            "Reaction content provides a platform for audience engagement, as viewers often enjoy seeing others' responses to content they are also interested in.",
-            "These videos can serve as a community-building tool, fostering discussion and interaction among viewers."
+        "creatorPatterns": {
+          "notableChannels": [
+            "Paramount Pictures",
+            "Netflix",
+            "Call of Duty"
           ],
-          "opportunities": [
-            "Creators can expand their content strategy by incorporating more reaction videos, especially for trending or anticipated media releases.",
-            "Brands can encourage reactions and reviews from influencers to leverage their reach and credibility."
-          ]
-        }
-      },
-      "creator_patterns": {
-        "diverse_sources": {
-          "description": "The trending videos come from a variety of sources including major studios, news outlets, and independent creators.",
-          "insights": [
-            "Major studios and platforms like Paramount Pictures and Netflix leverage their vast resources to create high-quality content, ensuring their presence on trending lists.",
-            "Independent creators can still achieve trending status by tapping into popular formats like gaming and reactions."
-          ],
-          "opportunities": [
-            "Independent creators should focus on niche areas or unique content styles to differentiate themselves and capture audience interest.",
-            "Collaboration between big brands and independent creators can lead to innovative content that benefits both parties."
-          ]
-        }
-      },
-      "market_opportunities": {
-        "cross-platform_promotion": {
-          "description": "The convergence of different media types in trending videos suggests opportunities for cross-platform promotion.",
-          "insights": [
-            "Promoting content across platforms (e.g., launching trailers on YouTube followed by promotions on Instagram or TikTok) can maximize reach and engagement.",
-            "Cross-promotion can help capture diverse audience segments that frequent different platforms."
-          ],
-          "opportunities": [
-            "Brands and creators can explore partnerships for cross-platform campaigns, utilizing each platform's strengths to enhance visibility."
-          ]
+          "channelFocus": {
+            "Paramount Pictures": "Movie Trailers",
+            "Netflix": "Television Content",
+            "Call of Duty": "Gaming"
+          },
+          "influencerPresence": {
+            "jacksepticeye": {
+              "contentType": "Gaming",
+              "engagementPotential": "High"
+            }
+          }
         },
-        "audience_engagement": {
-          "description": "Engaging content is key to trending success, as evidenced by the highly interactive and participatory formats present in the list.",
-          "insights": [
-            "Interactive content such as gameplay videos and reaction videos not only attracts views but also encourages community interaction.",
-            "Providing opportunities for viewer participation (e.g., polls, Q&A sessions) can drive repeat engagement."
+        "marketOpportunities": {
+          "emergingTrends": [
+            {
+              "trend": "Revival of Classic Movies",
+              "opportunity": "Creating content around classic movies like 'Rush Hour' can capitalize on nostalgia."
+            },
+            {
+              "trend": "Cross-Media Content",
+              "opportunity": "Develop integrated content strategies that link popular games and movies, such as 'Resident Evil' and 'Call of Duty'."
+            },
+            {
+              "trend": "Interactive and Engaging Content",
+              "opportunity": "Focus on interactive video formats or challenges, as seen with 'ROBLOX WOULD YOU RATHER'."
+            }
           ],
-          "opportunities": [
-            "Implement interactive elements in videos, such as viewer challenges or live interactions, to increase engagement.",
-            "Utilize feedback and comments from viewers to refine content strategy and address audience preferences."
+          "strategicRecommendations": [
+            {
+              "recommendation": "Expand into new categories by merging gaming and film content, leveraging popular IPs."
+            },
+            {
+              "recommendation": "Develop partnerships with established channels like Netflix and Paramount Pictures to cross-promote content."
+            },
+            {
+              "recommendation": "Invest in influencer marketing with creators like jacksepticeye to reach dedicated gaming audiences."
+            }
           ]
         }
       },
@@ -550,7 +511,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 441147
+        "avg_views_per_video": 665622
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
