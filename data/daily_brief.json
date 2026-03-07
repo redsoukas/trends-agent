@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-07T15:10:00.878084",
+  "timestamp": "2026-03-07T18:13:29.276538",
   "date": "2026-03-07",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 4864303,
-      "like_count": 578923,
-      "comment_count": 35678,
+      "view_count": 5254536,
+      "like_count": 604891,
+      "comment_count": 36814,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
       "duration": "PT3M26S",
       "duration_seconds": 206,
-      "view_count": 15234097,
-      "like_count": 687801,
-      "comment_count": 38582,
+      "view_count": 19312164,
+      "like_count": 767399,
+      "comment_count": 41444,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -84,6 +84,51 @@
         "R. Madhavan"
       ],
       "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
+      "video_id": "QrHwPv9vn_E",
+      "title": "Arnold Palmer Invitational, Second Round",
+      "description": "From Bay Hill Club & Lodge in Orlando, Fla.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-07T16:10:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QrHwPv9vn_E/hqdefault.jpg",
+      "duration": "PT4H5M11S",
+      "duration_seconds": 14711,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QrHwPv9vn_E"
+    },
+    {
+      "video_id": "XNQbH1SDPRk",
+      "title": "The Boys – Final Season Trailer | Prime Video",
+      "description": "The final trailer for the final season. Have a watch. Have a weep. Then strap the fuck in, because we're only a month away.\n\n» Watch The Boys on Prime Video: https://amzn.to/2SQdfsv\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout The Boys:\nTHE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good. It's the powerless against the super powerful as The Boys embark on a heroic quest to expose the truth about “The Seven,” and their formidable Vought backing.\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pr",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-03-05T17:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
+      "duration": "PT2M42S",
+      "duration_seconds": 162,
+      "view_count": 5129735,
+      "like_count": 275735,
+      "comment_count": 11772,
+      "category_id": "24",
+      "tags": [
+        "the boys",
+        "the boys season 5",
+        "the boys s5",
+        "the boys season 5 trailer",
+        "the boys season 5 teaser",
+        "the boys s5 trailer",
+        "the boys s5 teaser",
+        "the boys final season",
+        "the boys final season trailer",
+        "butcher vs soldier boy"
+      ],
+      "url": "https://www.youtube.com/watch?v=XNQbH1SDPRk"
     },
     {
       "video_id": "njSZ5yrLkH8",
@@ -103,32 +148,32 @@
       "url": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
     },
     {
-      "video_id": "XNQbH1SDPRk",
-      "title": "The Boys – Final Season Trailer | Prime Video",
-      "description": "The final trailer for the final season. Have a watch. Have a weep. Then strap the fuck in, because we're only a month away.\n\n» Watch The Boys on Prime Video: https://amzn.to/2SQdfsv\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout The Boys:\nTHE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good. It's the powerless against the super powerful as The Boys embark on a heroic quest to expose the truth about “The Seven,” and their formidable Vought backing.\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pr",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-03-05T17:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
-      "duration": "PT2M42S",
-      "duration_seconds": 162,
-      "view_count": 5012236,
-      "like_count": 272332,
-      "comment_count": 11653,
+      "video_id": "MehJ4bDdicQ",
+      "title": "Ustaad Bhagat Singh Trailer Tease | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
+      "description": "Ustaad Bhagat Singh Trailer Tease on @MythriMovieMakers \n\nUstaad Bhagat Singh is an Upcoming Telugu movie ft. Pawan Kalyan, Sreeleela, Raashii Khanna & others. Music composed by Rockstar Devi Sri Prasad, Written and Directed by Harish Shankar.S. Produced by Naveen Yerneni and Y. Ravi Shankar under Mythri Movie Makers Banner.\n\nIn Cinemas March 19th, 2026.\n\nWitness PSPK at his entertaining best in Ustaad Bhagat Singh.\n\nHit ‘I’m Interested’ now for exclusive offers, updates & more only on BookMyShow.\nLink: https://bookmy.show/UBS-HI \n\n#UstaadBhagatSinghTrailerTease #UstaadBhagatSingh #PawanKalyan #HarishShankar #Sreeleela #RaashiiKhanna #DeviSriPrasad #DSP #NaveenYerneni #RaviShankar #MythriMovieMakers \n\nCast & Crew Details :\n\nCast: Pawan Kalyan, Sreeleela, RaashiiKhanna, Parthiban & Others\n\nTechnical Crew:\nWritten-Directed by: Harish Shankar.S\nProducers: Naveen Yerneni, Ravi Shankar Yalamanchili\nMusic: Devi Sri Prasad\nBackground Score:  Thaman S\nScreenplay: K Dasharath, Ramesh Reddy\nAddi",
+      "channel_title": "Mythri Movie Makers",
+      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
+      "published_at": "2026-03-07T14:09:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MehJ4bDdicQ/hqdefault.jpg",
+      "duration": "PT44S",
+      "duration_seconds": 44,
+      "view_count": 779869,
+      "like_count": 93005,
+      "comment_count": 2311,
       "category_id": "24",
       "tags": [
-        "the boys",
-        "the boys season 5",
-        "the boys s5",
-        "the boys season 5 trailer",
-        "the boys season 5 teaser",
-        "the boys s5 trailer",
-        "the boys s5 teaser",
-        "the boys final season",
-        "the boys final season trailer",
-        "butcher vs soldier boy"
+        "Ustaad Bhagat Singh Trailer Tease",
+        "Ustaad Bhagat Singh",
+        "Pawan Kalyan",
+        "Sreeleela",
+        "Harish Shankar",
+        "DSP",
+        "Devi Sri Prasad",
+        "Mythri Movie Makers",
+        "Ustaad Bhagat Singh Movie Showreel",
+        "Ustaad Bhagat Singh Telugu Movie Showreel"
       ],
-      "url": "https://www.youtube.com/watch?v=XNQbH1SDPRk"
+      "url": "https://www.youtube.com/watch?v=MehJ4bDdicQ"
     },
     {
       "video_id": "gQdQg5joUpA",
@@ -157,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0EkDELOi0zk/hqdefault.jpg",
       "duration": "PT6M40S",
       "duration_seconds": 400,
-      "view_count": 216581,
-      "like_count": 14871,
-      "comment_count": 1099,
+      "view_count": 242786,
+      "like_count": 15981,
+      "comment_count": 1162,
       "category_id": "1",
       "tags": [
         "digital circus episode 8 trailer",
@@ -176,55 +221,25 @@
       "url": "https://www.youtube.com/watch?v=0EkDELOi0zk"
     },
     {
-      "video_id": "xzaoxuzbVGE",
-      "title": "Big Ten Tournament: Illinois vs. Iowa",
-      "description": "No.9 Hawkeyes and the Fighting Illini face off in the Big Ten quarterfinals at Gainbridge Fieldhouse. Illinois is playing its third game in three days after beating No. 15 Wisconsin (82-70) and No. 7 Michigan State (71-69). No. 9 Iowa is 24-5.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-07T11:26:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xzaoxuzbVGE/hqdefault.jpg",
-      "duration": "PT1H57M45S",
-      "duration_seconds": 7065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
-    },
-    {
-      "video_id": "ATNpsZB7srw",
-      "title": "Digital Circus Ep 8 Trailer (Reaction)",
-      "description": "KreekCraft Reacts to \"Digital Circus Ep 8 Trailer\" by @GLITCH \n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🛍️ KREEKCRAFT MERCH - https://kreekcraft.store\n\nFOLLOW ME ON SOCIAL MEDIA\n🐦 TWITTER - https://x.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n\nALSO LIVE HERE\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n\nGET A VIDEO SHOUTOUT\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\nMY ROBLOX ACCOUNT\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\nBUSINESS INQUIRIES\n📧 BUSINESS EMAIL - kreekcraft@bloxmgmt.com",
-      "channel_title": "KreekCraft",
-      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
-      "published_at": "2026-03-07T02:46:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ATNpsZB7srw/hqdefault.jpg",
-      "duration": "PT12M33S",
-      "duration_seconds": 753,
-      "view_count": 543010,
-      "like_count": 5661,
-      "comment_count": 237,
+      "video_id": "E4MLisyhKHw",
+      "title": "🔴LIVE | APEX LEGENDS w/ HutchMF & Nickmercs | #ShartInMyButtWhileIFart #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-03-07T09:13:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4MLisyhKHw/hqdefault.jpg",
+      "duration": "PT6H23M28S",
+      "duration_seconds": 23008,
+      "view_count": 668091,
+      "like_count": 12232,
+      "comment_count": 146,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ATNpsZB7srw"
-    },
-    {
-      "video_id": "CnLJOS-ygqw",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-07T08:29:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CnLJOS-ygqw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=E4MLisyhKHw"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +254,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 4864303,
-      "like_count": 578923,
-      "comment_count": 35678,
+      "view_count": 5254536,
+      "like_count": 604891,
+      "comment_count": 36814,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -284,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
       "duration": "PT3M26S",
       "duration_seconds": 206,
-      "view_count": 15234097,
-      "like_count": 687801,
-      "comment_count": 38582,
+      "view_count": 19312164,
+      "like_count": 767399,
+      "comment_count": 41444,
       "category_id": "24",
       "tags": [
         "Jio Studios",
@@ -301,6 +316,51 @@
         "R. Madhavan"
       ],
       "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
+      "video_id": "QrHwPv9vn_E",
+      "title": "Arnold Palmer Invitational, Second Round",
+      "description": "From Bay Hill Club & Lodge in Orlando, Fla.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-07T16:10:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QrHwPv9vn_E/hqdefault.jpg",
+      "duration": "PT4H5M11S",
+      "duration_seconds": 14711,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QrHwPv9vn_E"
+    },
+    {
+      "video_id": "XNQbH1SDPRk",
+      "title": "The Boys – Final Season Trailer | Prime Video",
+      "description": "The final trailer for the final season. Have a watch. Have a weep. Then strap the fuck in, because we're only a month away.\n\n» Watch The Boys on Prime Video: https://amzn.to/2SQdfsv\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout The Boys:\nTHE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good. It's the powerless against the super powerful as The Boys embark on a heroic quest to expose the truth about “The Seven,” and their formidable Vought backing.\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pr",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-03-05T17:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
+      "duration": "PT2M42S",
+      "duration_seconds": 162,
+      "view_count": 5129735,
+      "like_count": 275735,
+      "comment_count": 11772,
+      "category_id": "24",
+      "tags": [
+        "the boys",
+        "the boys season 5",
+        "the boys s5",
+        "the boys season 5 trailer",
+        "the boys season 5 teaser",
+        "the boys s5 trailer",
+        "the boys s5 teaser",
+        "the boys final season",
+        "the boys final season trailer",
+        "butcher vs soldier boy"
+      ],
+      "url": "https://www.youtube.com/watch?v=XNQbH1SDPRk"
     },
     {
       "video_id": "njSZ5yrLkH8",
@@ -318,34 +378,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
-    },
-    {
-      "video_id": "XNQbH1SDPRk",
-      "title": "The Boys – Final Season Trailer | Prime Video",
-      "description": "The final trailer for the final season. Have a watch. Have a weep. Then strap the fuck in, because we're only a month away.\n\n» Watch The Boys on Prime Video: https://amzn.to/2SQdfsv\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n\nAbout The Boys:\nTHE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good. It's the powerless against the super powerful as The Boys embark on a heroic quest to expose the truth about “The Seven,” and their formidable Vought backing.\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pr",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-03-05T17:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
-      "duration": "PT2M42S",
-      "duration_seconds": 162,
-      "view_count": 5012236,
-      "like_count": 272332,
-      "comment_count": 11653,
-      "category_id": "24",
-      "tags": [
-        "the boys",
-        "the boys season 5",
-        "the boys s5",
-        "the boys season 5 trailer",
-        "the boys season 5 teaser",
-        "the boys s5 trailer",
-        "the boys s5 teaser",
-        "the boys final season",
-        "the boys final season trailer",
-        "butcher vs soldier boy"
-      ],
-      "url": "https://www.youtube.com/watch?v=XNQbH1SDPRk"
     },
     {
       "video_id": "gQdQg5joUpA",
@@ -374,9 +406,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0EkDELOi0zk/hqdefault.jpg",
       "duration": "PT6M40S",
       "duration_seconds": 400,
-      "view_count": 216581,
-      "like_count": 14871,
-      "comment_count": 1099,
+      "view_count": 242786,
+      "like_count": 15981,
+      "comment_count": 1162,
       "category_id": "1",
       "tags": [
         "digital circus episode 8 trailer",
@@ -393,142 +425,132 @@
       "url": "https://www.youtube.com/watch?v=0EkDELOi0zk"
     },
     {
-      "video_id": "xzaoxuzbVGE",
-      "title": "Big Ten Tournament: Illinois vs. Iowa",
-      "description": "No.9 Hawkeyes and the Fighting Illini face off in the Big Ten quarterfinals at Gainbridge Fieldhouse. Illinois is playing its third game in three days after beating No. 15 Wisconsin (82-70) and No. 7 Michigan State (71-69). No. 9 Iowa is 24-5.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-07T11:26:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xzaoxuzbVGE/hqdefault.jpg",
-      "duration": "PT1H57M45S",
-      "duration_seconds": 7065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
-    },
-    {
-      "video_id": "ATNpsZB7srw",
-      "title": "Digital Circus Ep 8 Trailer (Reaction)",
-      "description": "KreekCraft Reacts to \"Digital Circus Ep 8 Trailer\" by @GLITCH \n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🛍️ KREEKCRAFT MERCH - https://kreekcraft.store\n\nFOLLOW ME ON SOCIAL MEDIA\n🐦 TWITTER - https://x.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n\nALSO LIVE HERE\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n\nGET A VIDEO SHOUTOUT\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\nMY ROBLOX ACCOUNT\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\nBUSINESS INQUIRIES\n📧 BUSINESS EMAIL - kreekcraft@bloxmgmt.com",
-      "channel_title": "KreekCraft",
-      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
-      "published_at": "2026-03-07T02:46:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ATNpsZB7srw/hqdefault.jpg",
-      "duration": "PT12M33S",
-      "duration_seconds": 753,
-      "view_count": 543010,
-      "like_count": 5661,
-      "comment_count": 237,
+      "video_id": "E4MLisyhKHw",
+      "title": "🔴LIVE | APEX LEGENDS w/ HutchMF & Nickmercs | #ShartInMyButtWhileIFart #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-03-07T09:13:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4MLisyhKHw/hqdefault.jpg",
+      "duration": "PT6H23M28S",
+      "duration_seconds": 23008,
+      "view_count": 668091,
+      "like_count": 12232,
+      "comment_count": 146,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ATNpsZB7srw"
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=E4MLisyhKHw"
     },
     {
-      "video_id": "CnLJOS-ygqw",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-07T08:29:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CnLJOS-ygqw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "MehJ4bDdicQ",
+      "title": "Ustaad Bhagat Singh Trailer Tease | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
+      "description": "Ustaad Bhagat Singh Trailer Tease on @MythriMovieMakers \n\nUstaad Bhagat Singh is an Upcoming Telugu movie ft. Pawan Kalyan, Sreeleela, Raashii Khanna & others. Music composed by Rockstar Devi Sri Prasad, Written and Directed by Harish Shankar.S. Produced by Naveen Yerneni and Y. Ravi Shankar under Mythri Movie Makers Banner.\n\nIn Cinemas March 19th, 2026.\n\nWitness PSPK at his entertaining best in Ustaad Bhagat Singh.\n\nHit ‘I’m Interested’ now for exclusive offers, updates & more only on BookMyShow.\nLink: https://bookmy.show/UBS-HI \n\n#UstaadBhagatSinghTrailerTease #UstaadBhagatSingh #PawanKalyan #HarishShankar #Sreeleela #RaashiiKhanna #DeviSriPrasad #DSP #NaveenYerneni #RaviShankar #MythriMovieMakers \n\nCast & Crew Details :\n\nCast: Pawan Kalyan, Sreeleela, RaashiiKhanna, Parthiban & Others\n\nTechnical Crew:\nWritten-Directed by: Harish Shankar.S\nProducers: Naveen Yerneni, Ravi Shankar Yalamanchili\nMusic: Devi Sri Prasad\nBackground Score:  Thaman S\nScreenplay: K Dasharath, Ramesh Reddy\nAddi",
+      "channel_title": "Mythri Movie Makers",
+      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
+      "published_at": "2026-03-07T14:09:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MehJ4bDdicQ/hqdefault.jpg",
+      "duration": "PT44S",
+      "duration_seconds": 44,
+      "view_count": 779869,
+      "like_count": 93005,
+      "comment_count": 2311,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
+      "tags": [
+        "Ustaad Bhagat Singh Trailer Tease",
+        "Ustaad Bhagat Singh",
+        "Pawan Kalyan",
+        "Sreeleela",
+        "Harish Shankar",
+        "DSP",
+        "Devi Sri Prasad",
+        "Mythri Movie Makers",
+        "Ustaad Bhagat Singh Movie Showreel",
+        "Ustaad Bhagat Singh Telugu Movie Showreel"
+      ],
+      "url": "https://www.youtube.com/watch?v=MehJ4bDdicQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "totalVideos": 10,
-      "totalViews": 25870227,
-      "averageViewsPerVideo": 2587022.7,
-      "contentTrends": {
-        "trailerContent": {
-          "totalVideos": 4,
-          "examples": [
-            "Digital Circus Ep 8 Trailer.",
-            "Dhurandhar The Revenge Official Hindi Trailer",
-            "The Boys – Final Season Trailer",
-            "Digital Circus Ep 8 Trailer (Reaction)"
+      "trending_analysis": {
+        "video_patterns": {
+          "total_videos": 10,
+          "total_views": 31387181,
+          "average_views_per_video": 3138718.1,
+          "content_type": [
+            "Trailers",
+            "Sports",
+            "Live Gaming",
+            "News"
           ],
-          "insights": {
-            "popularity": "Trailers are a key content type, indicating high audience interest in upcoming episodes and movies.",
-            "engagement": "Consider creating more trailer-related content or analysis videos to capitalize on viewer interest."
+          "popular_themes": {
+            "trailers": 5,
+            "sports": 2,
+            "live_streaming": 1,
+            "news": 1,
+            "analysis": 1
+          },
+          "category_insights": {
+            "high_engagement": [
+              "trailers",
+              "sports"
+            ],
+            "potential_growth": [
+              "live streaming",
+              "analysis videos"
+            ]
           }
         },
-        "sportsContent": {
-          "totalVideos": 3,
-          "examples": [
-            "Nicaragua vs. Dominican Republic",
-            "Puerto Rico vs. Colombia",
-            "Big Ten Tournament: Illinois vs. Iowa"
+        "creator_patterns": {
+          "top_channels": 5,
+          "single_video_channels": [
+            "GLITCH",
+            "FOX News",
+            "JioStudios",
+            "Golf Channel",
+            "Prime Video"
           ],
-          "insights": {
-            "popularity": "Sports events and highlights are consistently engaging, suggesting a robust audience for sports content.",
-            "marketOpportunity": "Explore collaborations or sponsorships with sports channels or events for increased visibility."
+          "multi-channel presence": {
+            "none_detected": true
+          },
+          "opportunities": {
+            "collaborative_content": "Creators can explore collaborations across genres, especially with higher engagement categories like trailers and sports.",
+            "diversification": "Channels should diversify content to include live streams and analytical videos to capture wider audience segments."
           }
         },
-        "newsContent": {
-          "totalVideos": 2,
-          "examples": [
-            "The Five",
-            "CNN Global Report: War With Iran"
-          ],
-          "insights": {
-            "trend": "Current affairs and news remain relevant, providing opportunities for timely content creation.",
-            "recommendation": "Consider producing in-depth analysis or commentary videos to engage news-savvy audiences."
+        "market_opportunities": {
+          "trailer_content": {
+            "demand": "High",
+            "actionable_insight": "Invest in creating engaging and exclusive trailer content, partnering with popular franchises or leveraging upcoming releases."
+          },
+          "sports_content": {
+            "demand": "Moderate to High",
+            "actionable_insight": "Focus on real-time coverage and highlights to capitalize on live sports events."
+          },
+          "live_streaming": {
+            "demand": "Emerging",
+            "actionable_insight": "Expand live streaming capabilities, especially for gaming and interactive content, to engage real-time audiences."
+          },
+          "news_and_analysis": {
+            "demand": "Stable",
+            "actionable_insight": "Enhance news and analytical content with expert insights and timely coverage to attract dedicated viewership."
           }
-        }
-      },
-      "creatorPatterns": {
-        "topChannels": {
-          "GLITCH": {
-            "videos": 1,
-            "contentType": "Trailer",
-            "insights": "Specializes in trailer content, potentially focusing on animated or digital series."
+        },
+        "strategic_recommendations": {
+          "content_diversification": {
+            "strategy": "Encourage creators to explore multiple content types to mitigate risks associated with single-category focus."
           },
-          "FOX News": {
-            "videos": 1,
-            "contentType": "News",
-            "insights": "Established news provider, indicating high viewer trust and engagement."
+          "audience_engagement": {
+            "strategy": "Incorporate interactive elements like live Q&A, polls, and community posts to boost engagement."
           },
-          "JioStudios": {
-            "videos": 1,
-            "contentType": "Trailer",
-            "insights": "Focus on Hindi cinema, suggesting an opportunity to target regional audiences."
-          },
-          "FS2": {
-            "videos": 1,
-            "contentType": "Sports",
-            "insights": "Engaged in sports content, highlighting opportunities in live events and sports coverage."
-          },
-          "Prime Video": {
-            "videos": 1,
-            "contentType": "Trailer",
-            "insights": "Focus on promoting exclusive content, indicating a strong position in the streaming market."
+          "cross-promotion": {
+            "strategy": "Utilize cross-channel promotions and collaborations to increase reach and attract diverse audience groups."
           }
-        }
-      },
-      "marketOpportunities": {
-        "trailerAnalysis": {
-          "description": "Create detailed analysis and breakdown videos of popular trailers to attract engaged viewers.",
-          "targetAudience": "Fans of upcoming series and movies, particularly those interested in hidden details and Easter eggs."
-        },
-        "sportsCollaborations": {
-          "description": "Partner with sports networks or influencers to cover major tournaments and events.",
-          "targetAudience": "Sports enthusiasts looking for comprehensive coverage and expert commentary."
-        },
-        "newsCommentary": {
-          "description": "Develop opinion pieces or expert commentary on trending news topics to build authority.",
-          "targetAudience": "Viewers interested in informed perspectives and deeper insights into current events."
         }
       },
       "metadata_stats": {
@@ -537,7 +559,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2587022
+        "avg_views_per_video": 3138718
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
