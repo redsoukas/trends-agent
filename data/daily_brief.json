@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-07T03:45:57.490982",
+  "timestamp": "2026-03-07T06:18:34.614277",
   "date": "2026-03-07",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 3090612,
-      "like_count": 463658,
-      "comment_count": 30246,
+      "view_count": 3716179,
+      "like_count": 500660,
+      "comment_count": 32056,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=4lFnIlH06Sw"
     },
     {
-      "video_id": "HZNh19AEYlI",
-      "title": "The Faulkner Focus",
-      "description": "Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.",
+      "video_id": "E7bIuhGgV9g",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-07T01:01:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HZNh19AEYlI/hqdefault.jpg",
+      "published_at": "2026-03-07T03:18:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E7bIuhGgV9g/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HZNh19AEYlI"
+      "url": "https://www.youtube.com/watch?v=E7bIuhGgV9g"
     },
     {
       "video_id": "XNQbH1SDPRk",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 4590725,
-      "like_count": 260133,
-      "comment_count": 12188,
+      "view_count": 4691464,
+      "like_count": 263608,
+      "comment_count": 11339,
       "category_id": "24",
       "tags": [
         "the boys",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZpPYiIQ226A/hqdefault.jpg",
       "duration": "PT19M20S",
       "duration_seconds": 1160,
-      "view_count": 514623,
-      "like_count": 21057,
-      "comment_count": 1602,
+      "view_count": 650099,
+      "like_count": 23753,
+      "comment_count": 1747,
       "category_id": "20",
       "tags": [
         "caylusblox",
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0EkDELOi0zk/hqdefault.jpg",
       "duration": "PT6M40S",
       "duration_seconds": 400,
-      "view_count": 80267,
-      "like_count": 8327,
-      "comment_count": 660,
+      "view_count": 128656,
+      "like_count": 10103,
+      "comment_count": 789,
       "category_id": "1",
       "tags": [
         "digital circus episode 8 trailer",
@@ -142,60 +142,38 @@
       "url": "https://www.youtube.com/watch?v=0EkDELOi0zk"
     },
     {
-      "video_id": "kbhuosA7gK4",
-      "title": "Fears To Fathom: Woodbury Getaway",
-      "description": "Fears to Fathom adds another chapter in the snowy town of Woodbury! Will this be a clean getaway? Or will I rant and rave at near Poppy Playtime levels of crankiness? \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/\n\nEdited By ►  @NerdFiction \nEdited By ►  @LixianTV \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-03-05T21:11:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kbhuosA7gK4/hqdefault.jpg",
-      "duration": "PT1H26M56S",
-      "duration_seconds": 5216,
-      "view_count": 1335555,
-      "like_count": 67536,
-      "comment_count": 4982,
-      "category_id": "20",
-      "tags": [
-        "fears to fathom",
-        "markiplier",
-        "scary games",
-        "horror games",
-        "fears to fathom markiplier",
-        "scary forest",
-        "forest horror game",
-        "markiplier scary games",
-        "part 1",
-        "episode 5"
-      ],
-      "url": "https://www.youtube.com/watch?v=kbhuosA7gK4"
+      "video_id": "mGSFa2rQLx0",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-07T03:19:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mGSFa2rQLx0/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=mGSFa2rQLx0"
     },
     {
-      "video_id": "Z1jcPlGXnMo",
-      "title": "Lanterns  | Official Teaser | HBO Max",
-      "description": "You manifested it early. The official #Lanterns teaser is here. Coming this August.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-03-04T19:01:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z1jcPlGXnMo/hqdefault.jpg",
-      "duration": "PT2M21S",
-      "duration_seconds": 141,
-      "view_count": 2078124,
-      "like_count": 103707,
-      "comment_count": 10279,
-      "category_id": "24",
-      "tags": [
-        "hbo max",
-        "hbo",
-        "hbo originals",
-        "hbo original series",
-        "hbo trailer",
-        "new on hbo",
-        "max",
-        "hbo max originals",
-        "hbo max trailer",
-        "hbo max teaser"
-      ],
-      "url": "https://www.youtube.com/watch?v=Z1jcPlGXnMo"
+      "video_id": "ATNpsZB7srw",
+      "title": "Digital Circus Ep 8 Trailer (Reaction)",
+      "description": "KreekCraft Reacts to \"Digital Circus Ep 8 Trailer\" by @GLITCH \n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🛍️ KREEKCRAFT MERCH - https://kreekcraft.store\n\nFOLLOW ME ON SOCIAL MEDIA\n🐦 TWITTER - https://x.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n\nALSO LIVE HERE\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n\nGET A VIDEO SHOUTOUT\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\nMY ROBLOX ACCOUNT\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\nBUSINESS INQUIRIES\n📧 BUSINESS EMAIL - kreekcraft@bloxmgmt.com",
+      "channel_title": "KreekCraft",
+      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
+      "published_at": "2026-03-07T02:46:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ATNpsZB7srw/hqdefault.jpg",
+      "duration": "PT12M33S",
+      "duration_seconds": 753,
+      "view_count": 518054,
+      "like_count": 4867,
+      "comment_count": 109,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ATNpsZB7srw"
     },
     {
       "video_id": "-tAo-OBwz_w",
@@ -207,9 +185,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tAo-OBwz_w/hqdefault.jpg",
       "duration": "PT1H13M2S",
       "duration_seconds": 4382,
-      "view_count": 292316,
-      "like_count": 14691,
-      "comment_count": 2084,
+      "view_count": 375638,
+      "like_count": 16963,
+      "comment_count": 2349,
       "category_id": "24",
       "tags": [
         "Pirate Software Drama",
@@ -235,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bhQ-sdUCV4o/hqdefault.jpg",
       "duration": "PT11M37S",
       "duration_seconds": 697,
-      "view_count": 59941,
-      "like_count": 3189,
-      "comment_count": 300,
+      "view_count": 75631,
+      "like_count": 3605,
+      "comment_count": 329,
       "category_id": "24",
       "tags": [
         "amazing digital circus",
@@ -254,21 +232,32 @@
       "url": "https://www.youtube.com/watch?v=bhQ-sdUCV4o"
     },
     {
-      "video_id": "y1Yg8Cxf-Tk",
-      "title": "The Situation Room",
-      "description": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-06T23:57:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y1Yg8Cxf-Tk/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=y1Yg8Cxf-Tk"
+      "video_id": "kbhuosA7gK4",
+      "title": "Fears To Fathom: Woodbury Getaway",
+      "description": "Fears to Fathom adds another chapter in the snowy town of Woodbury! Will this be a clean getaway? Or will I rant and rave at near Poppy Playtime levels of crankiness? \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/\n\nEdited By ►  @NerdFiction \nEdited By ►  @LixianTV \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-03-05T21:11:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kbhuosA7gK4/hqdefault.jpg",
+      "duration": "PT1H26M56S",
+      "duration_seconds": 5216,
+      "view_count": 1397609,
+      "like_count": 69433,
+      "comment_count": 5086,
+      "category_id": "20",
+      "tags": [
+        "fears to fathom",
+        "markiplier",
+        "scary games",
+        "horror games",
+        "fears to fathom markiplier",
+        "scary forest",
+        "forest horror game",
+        "markiplier scary games",
+        "part 1",
+        "episode 5"
+      ],
+      "url": "https://www.youtube.com/watch?v=kbhuosA7gK4"
     }
   ],
   "videos_with_transcripts": [],
@@ -283,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 3090612,
-      "like_count": 463658,
-      "comment_count": 30246,
+      "view_count": 3716179,
+      "like_count": 500660,
+      "comment_count": 32056,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -302,13 +291,13 @@
       "url": "https://www.youtube.com/watch?v=4lFnIlH06Sw"
     },
     {
-      "video_id": "HZNh19AEYlI",
-      "title": "The Faulkner Focus",
-      "description": "Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.",
+      "video_id": "E7bIuhGgV9g",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-07T01:01:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HZNh19AEYlI/hqdefault.jpg",
+      "published_at": "2026-03-07T03:18:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E7bIuhGgV9g/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -316,7 +305,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HZNh19AEYlI"
+      "url": "https://www.youtube.com/watch?v=E7bIuhGgV9g"
     },
     {
       "video_id": "XNQbH1SDPRk",
@@ -328,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XNQbH1SDPRk/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 4590725,
-      "like_count": 260133,
-      "comment_count": 12188,
+      "view_count": 4691464,
+      "like_count": 263608,
+      "comment_count": 11339,
       "category_id": "24",
       "tags": [
         "the boys",
@@ -356,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZpPYiIQ226A/hqdefault.jpg",
       "duration": "PT19M20S",
       "duration_seconds": 1160,
-      "view_count": 514623,
-      "like_count": 21057,
-      "comment_count": 1602,
+      "view_count": 650099,
+      "like_count": 23753,
+      "comment_count": 1747,
       "category_id": "20",
       "tags": [
         "caylusblox",
@@ -384,9 +373,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0EkDELOi0zk/hqdefault.jpg",
       "duration": "PT6M40S",
       "duration_seconds": 400,
-      "view_count": 80267,
-      "like_count": 8327,
-      "comment_count": 660,
+      "view_count": 128656,
+      "like_count": 10103,
+      "comment_count": 789,
       "category_id": "1",
       "tags": [
         "digital circus episode 8 trailer",
@@ -403,60 +392,38 @@
       "url": "https://www.youtube.com/watch?v=0EkDELOi0zk"
     },
     {
-      "video_id": "kbhuosA7gK4",
-      "title": "Fears To Fathom: Woodbury Getaway",
-      "description": "Fears to Fathom adds another chapter in the snowy town of Woodbury! Will this be a clean getaway? Or will I rant and rave at near Poppy Playtime levels of crankiness? \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/\n\nEdited By ►  @NerdFiction \nEdited By ►  @LixianTV \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-03-05T21:11:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kbhuosA7gK4/hqdefault.jpg",
-      "duration": "PT1H26M56S",
-      "duration_seconds": 5216,
-      "view_count": 1335555,
-      "like_count": 67536,
-      "comment_count": 4982,
-      "category_id": "20",
-      "tags": [
-        "fears to fathom",
-        "markiplier",
-        "scary games",
-        "horror games",
-        "fears to fathom markiplier",
-        "scary forest",
-        "forest horror game",
-        "markiplier scary games",
-        "part 1",
-        "episode 5"
-      ],
-      "url": "https://www.youtube.com/watch?v=kbhuosA7gK4"
+      "video_id": "mGSFa2rQLx0",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-07T03:19:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mGSFa2rQLx0/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=mGSFa2rQLx0"
     },
     {
-      "video_id": "Z1jcPlGXnMo",
-      "title": "Lanterns  | Official Teaser | HBO Max",
-      "description": "You manifested it early. The official #Lanterns teaser is here. Coming this August.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-03-04T19:01:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z1jcPlGXnMo/hqdefault.jpg",
-      "duration": "PT2M21S",
-      "duration_seconds": 141,
-      "view_count": 2078124,
-      "like_count": 103707,
-      "comment_count": 10279,
-      "category_id": "24",
-      "tags": [
-        "hbo max",
-        "hbo",
-        "hbo originals",
-        "hbo original series",
-        "hbo trailer",
-        "new on hbo",
-        "max",
-        "hbo max originals",
-        "hbo max trailer",
-        "hbo max teaser"
-      ],
-      "url": "https://www.youtube.com/watch?v=Z1jcPlGXnMo"
+      "video_id": "ATNpsZB7srw",
+      "title": "Digital Circus Ep 8 Trailer (Reaction)",
+      "description": "KreekCraft Reacts to \"Digital Circus Ep 8 Trailer\" by @GLITCH \n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🛍️ KREEKCRAFT MERCH - https://kreekcraft.store\n\nFOLLOW ME ON SOCIAL MEDIA\n🐦 TWITTER - https://x.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n\nALSO LIVE HERE\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n\nGET A VIDEO SHOUTOUT\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\nMY ROBLOX ACCOUNT\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\nBUSINESS INQUIRIES\n📧 BUSINESS EMAIL - kreekcraft@bloxmgmt.com",
+      "channel_title": "KreekCraft",
+      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
+      "published_at": "2026-03-07T02:46:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ATNpsZB7srw/hqdefault.jpg",
+      "duration": "PT12M33S",
+      "duration_seconds": 753,
+      "view_count": 518054,
+      "like_count": 4867,
+      "comment_count": 109,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ATNpsZB7srw"
     },
     {
       "video_id": "-tAo-OBwz_w",
@@ -468,9 +435,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-tAo-OBwz_w/hqdefault.jpg",
       "duration": "PT1H13M2S",
       "duration_seconds": 4382,
-      "view_count": 292316,
-      "like_count": 14691,
-      "comment_count": 2084,
+      "view_count": 375638,
+      "like_count": 16963,
+      "comment_count": 2349,
       "category_id": "24",
       "tags": [
         "Pirate Software Drama",
@@ -496,9 +463,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bhQ-sdUCV4o/hqdefault.jpg",
       "duration": "PT11M37S",
       "duration_seconds": 697,
-      "view_count": 59941,
-      "like_count": 3189,
-      "comment_count": 300,
+      "view_count": 75631,
+      "like_count": 3605,
+      "comment_count": 329,
       "category_id": "24",
       "tags": [
         "amazing digital circus",
@@ -515,111 +482,99 @@
       "url": "https://www.youtube.com/watch?v=bhQ-sdUCV4o"
     },
     {
-      "video_id": "y1Yg8Cxf-Tk",
-      "title": "The Situation Room",
-      "description": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-06T23:57:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y1Yg8Cxf-Tk/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=y1Yg8Cxf-Tk"
+      "video_id": "kbhuosA7gK4",
+      "title": "Fears To Fathom: Woodbury Getaway",
+      "description": "Fears to Fathom adds another chapter in the snowy town of Woodbury! Will this be a clean getaway? Or will I rant and rave at near Poppy Playtime levels of crankiness? \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/\n\nEdited By ►  @NerdFiction \nEdited By ►  @LixianTV \n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-03-05T21:11:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kbhuosA7gK4/hqdefault.jpg",
+      "duration": "PT1H26M56S",
+      "duration_seconds": 5216,
+      "view_count": 1397609,
+      "like_count": 69433,
+      "comment_count": 5086,
+      "category_id": "20",
+      "tags": [
+        "fears to fathom",
+        "markiplier",
+        "scary games",
+        "horror games",
+        "fears to fathom markiplier",
+        "scary forest",
+        "forest horror game",
+        "markiplier scary games",
+        "part 1",
+        "episode 5"
+      ],
+      "url": "https://www.youtube.com/watch?v=kbhuosA7gK4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 12042163,
-        "average_views_per_video": 1204216.3
+      "content_trends": {
+        "trailer_and_reaction_videos": {
+          "description": "Trailer and reaction videos are dominating the trending list, particularly related to 'The Amazing Digital Circus' and 'The Boys'.",
+          "insights": [
+            {
+              "trend": "High Interest in Trailers",
+              "details": "Three out of ten videos are trailers or reactions to trailers.",
+              "actionable_insight": "Content creators can capitalize on trailer releases by producing reaction and analysis videos."
+            }
+          ]
+        },
+        "recurring_themes": {
+          "description": "The 'Digital Circus' series has multiple videos trending, indicating a strong viewer interest.",
+          "insights": [
+            {
+              "trend": "Recurring Content Theme",
+              "details": "Multiple videos related to 'The Amazing Digital Circus Episode 8' appear on the trending list.",
+              "actionable_insight": "Channels can explore creating content that delves deeper into the series, such as theories, episode breakdowns, and character analyses."
+            }
+          ]
+        }
       },
-      "content_analysis": {
-        "trending_themes": [
-          {
-            "theme": "Trailers and Teasers",
-            "videos": [
-              "Digital Circus Ep 8 Trailer.",
-              "The Boys – Final Season Trailer | Prime Video",
-              "Lanterns  | Official Teaser | HBO Max",
-              "*NEW* Episode 8 Trailer is Crazy! - The Amazing Digital Circus"
-            ],
-            "insight": "Trailers and teasers for upcoming content, whether series or games, are highly engaging and have a strong presence in the trending list."
-          },
-          {
-            "theme": "Gaming",
-            "videos": [
-              "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS!",
-              "Fears To Fathom: Woodbury Getaway"
-            ],
-            "insight": "Gaming content, especially involving popular games like Roblox, captures significant audience interest."
-          },
-          {
-            "theme": "Analysis and Commentary",
-            "videos": [
-              "Things you missed in The Amazing Digital Circus Episode 8's Trailer",
-              "Pirate Software's Lies Are Still Catching Up to Him"
-            ],
-            "insight": "Videos offering insights, analysis, or commentary on popular series or industry news attract viewers interested in deeper content engagement."
-          }
-        ]
-      },
-      "creator_insights": {
-        "top_channels": [
-          {
-            "channel_name": "GLITCH",
-            "video_count": 1,
-            "trend": "Focus on animated series and their trailers."
-          },
-          {
-            "channel_name": "FOX News",
-            "video_count": 1,
-            "trend": "News programming maintaining relevance on trending lists."
-          },
-          {
-            "channel_name": "Prime Video",
-            "video_count": 1,
-            "trend": "Promotion of upcoming series or seasons through engaging trailers."
-          },
-          {
-            "channel_name": "CaylusBlox",
-            "video_count": 1,
-            "trend": "Gaming content with interactive and hypothetical scenarios."
-          },
-          {
-            "channel_name": "Ayy Lmao",
-            "video_count": 1,
-            "trend": "Content focusing on entertainment or commentary around digital media."
-          }
-        ],
-        "insights": "Channels that produce trailers or commentary related to popular franchises or games tend to trend more, suggesting a strong audience interest in pre-release content and analyses."
+      "creator_patterns": {
+        "diverse_creators": {
+          "description": "The trending list features a variety of creators, suggesting that no single creator or channel is dominating the space.",
+          "insights": [
+            {
+              "trend": "Diverse Content Creators",
+              "details": "Each of the top channels has only one video on the trending list.",
+              "actionable_insight": "Emerging creators have opportunities to capture audience attention by aligning with trending topics early."
+            }
+          ]
+        }
       },
       "market_opportunities": {
-        "content_creation": [
-          {
-            "opportunity": "Develop series-related content, like episode breakdowns or trailer analyses, to capture an audience interested in in-depth content."
-          },
-          {
-            "opportunity": "Focus on creating engaging gaming content, especially around interactive and popular game formats."
-          },
-          {
-            "opportunity": "Leverage the popularity of trailers by producing high-quality teasers for upcoming content."
-          }
-        ],
-        "strategic_insights": [
-          {
-            "insight": "Collaborate with trending channels to feature or co-create content, enhancing reach and engagement."
-          },
-          {
-            "insight": "Invest in producing high-quality trailer content for upcoming launches to capitalize on current audience interests."
-          }
-        ]
+        "gaming_and_entertainment": {
+          "description": "Gaming and entertainment content, such as 'ROBLOX' and series trailers, are popular.",
+          "insights": [
+            {
+              "opportunity": "Gaming Content Expansion",
+              "details": "The success of 'ROBLOX WOULD YOU RATHER' shows a continued interest in engaging gaming content.",
+              "actionable_insight": "Creators can explore interactive and immersive gaming experiences, especially those that offer unique viewer participation."
+            },
+            {
+              "opportunity": "Entertainment Discussion",
+              "details": "With multiple entertainment-related videos trending, creators could expand into reviews and discussions.",
+              "actionable_insight": "Producing content that discusses upcoming releases, provides reviews, or speculates on plotlines can capture the interest of engaged viewers."
+            }
+          ]
+        }
+      },
+      "viewership_data": {
+        "total_views_analysis": {
+          "description": "The total view count of 11,553,330 across 10 videos indicates a strong engagement with the trending content.",
+          "insights": [
+            {
+              "insight": "High Engagement",
+              "details": "The average views per video is approximately 1,155,333.",
+              "actionable_insight": "Maintaining this level of engagement can be achieved by releasing timely and relevant content, particularly around global events or releases."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -627,7 +582,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1204216
+        "avg_views_per_video": 1155333
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
