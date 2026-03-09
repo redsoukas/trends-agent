@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-09T15:27:25.963746",
+  "timestamp": "2026-03-09T18:25:14.320263",
   "date": "2026-03-09",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 43843,
-      "like_count": 12317,
-      "comment_count": 808,
+      "view_count": 147900,
+      "like_count": 18259,
+      "comment_count": 1148,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -46,9 +46,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pvAJ6NnPdMA/hqdefault.jpg",
       "duration": "PT1H9M5S",
       "duration_seconds": 4145,
-      "view_count": 5820246,
-      "like_count": 392969,
-      "comment_count": 26876,
+      "view_count": 6452860,
+      "like_count": 419472,
+      "comment_count": 27922,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -56,6 +56,51 @@
         "dream minecraft"
       ],
       "url": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+    },
+    {
+      "video_id": "vPMcEabBQEU",
+      "title": "XO, Kitty: Season 3 | Official Trailer | Netflix",
+      "description": "If you need me, I’ll be replaying this XO, Kitty trailer and overanalyzing every frame.\n\nWatch on Netflix: https://www.netflix.com/title/81945936\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nXO, Kitty: Season 3 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-09T15:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
+      "duration": "PT2M11S",
+      "duration_seconds": 131,
+      "view_count": 215827,
+      "like_count": 26686,
+      "comment_count": 1393,
+      "category_id": "24",
+      "tags": [
+        "Anna Cathcart",
+        "Being Abroad",
+        "Comedy",
+        "Coming of Age",
+        "Cute",
+        "Dating",
+        "Drama",
+        "First Love",
+        "High School",
+        "Humorous"
+      ],
+      "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
+    },
+    {
+      "video_id": "bhdJRIN7Ks4",
+      "title": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
+      "description": "This is extra scenes from Dream's channel of the \"Minecraft Speedrunner VS 6 Hunters\" video.\n\nWe react to what happened during the video and talk about it.\n\nOriginal Video: https://youtu.be/pvAJ6NnPdMA\n\nThis video was crazy fun and intense. Definitely one of the hardest challenges.\n\nMinecraft challenge videos are fun to do :)",
+      "channel_title": "DreamXD",
+      "channel_id": "UChU3JRloULzdFX3aCu7BiSA",
+      "published_at": "2026-03-08T20:03:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bhdJRIN7Ks4/hqdefault.jpg",
+      "duration": "PT8M38S",
+      "duration_seconds": 518,
+      "view_count": 510236,
+      "like_count": 36150,
+      "comment_count": 1592,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
     },
     {
       "video_id": "4lFnIlH06Sw",
@@ -67,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 7408741,
-      "like_count": 709525,
-      "comment_count": 42567,
+      "view_count": 7490999,
+      "like_count": 713824,
+      "comment_count": 42747,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -86,107 +131,6 @@
       "url": "https://www.youtube.com/watch?v=4lFnIlH06Sw"
     },
     {
-      "video_id": "bhdJRIN7Ks4",
-      "title": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
-      "description": "This is extra scenes from Dream's channel of the \"Minecraft Speedrunner VS 6 Hunters\" video.\n\nWe react to what happened during the video and talk about it.\n\nOriginal Video: https://youtu.be/pvAJ6NnPdMA\n\nThis video was crazy fun and intense. Definitely one of the hardest challenges.\n\nMinecraft challenge videos are fun to do :)",
-      "channel_title": "DreamXD",
-      "channel_id": "UChU3JRloULzdFX3aCu7BiSA",
-      "published_at": "2026-03-08T20:03:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bhdJRIN7Ks4/hqdefault.jpg",
-      "duration": "PT8M38S",
-      "duration_seconds": 518,
-      "view_count": 444213,
-      "like_count": 32946,
-      "comment_count": 1459,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
-    },
-    {
-      "video_id": "NHk7scrb_9I",
-      "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026",
-      "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetishe",
-      "channel_title": "JioStudios",
-      "channel_id": "UCcXQd6kHKm0b41x8zMVMmMg",
-      "published_at": "2026-03-07T05:31:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
-      "duration": "PT3M26S",
-      "duration_seconds": 206,
-      "view_count": 41485512,
-      "like_count": 993327,
-      "comment_count": 51840,
-      "category_id": "24",
-      "tags": [
-        "Jio Studios",
-        "Jio Cinema",
-        "Jio Saavn",
-        "Jio TV",
-        "Dhurandhar",
-        "Aditya Dhar",
-        "Ranveer Singh",
-        "Sanjay Dutt",
-        "Akshaye Khanna",
-        "R. Madhavan"
-      ],
-      "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
-      "video_id": "3jpOZY-pYes",
-      "title": "This Game Knows When You Blink…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\n\n00:00 - 42:27 - Vigil \n42:27 - 1:20:37 - Forest 6174 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-08T22:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3jpOZY-pYes/hqdefault.jpg",
-      "duration": "PT1H14M57S",
-      "duration_seconds": 4497,
-      "view_count": 368481,
-      "like_count": 13595,
-      "comment_count": 970,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=3jpOZY-pYes"
-    },
-    {
-      "video_id": "BVXyut1s7OE",
-      "title": "Grey Hulk (2026) - Dwayne Johnson, Mila Kunis, Mark Ruffalo | Concept Trailer",
-      "description": "#GreyHulk #DwayneJohnson #HarrisonFord #Hulk\n\nWatch this fan-made Grey Hulk concept trailer\n\nIn the scorching desert sand, the U.S. military tries to play God and create something they can't even control. Dwayne Johnson brings unbridled power and intensity to Bruce Banner, a brilliant scientist who was involuntarily turned into the Grey Hulk, a gargantuan 9-foot monolith of slate grey rage and anger resulting from an untested dose of gamma radiation and military ambitions. The indomitable Harrison Ford takes command of the screen as General Thunderbolt Ross, a man consumed by the need to build the ultimate super-soldier; however, he also destroyed the life of his daughter's favorite person. Mila Kunis portrays Betty Ross, caught in a war of allegiance to her father and love for the monster he has created, courageous enough to stand against an entire army with just her arms stretched out and a breaking heart.\n\nWhen Ross self-injects and becomes the Red Hulk, a blazing red nightmare that",
-      "channel_title": "Ultimate Studios",
-      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
-      "published_at": "2026-03-07T17:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BVXyut1s7OE/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 214826,
-      "like_count": 814,
-      "comment_count": 131,
-      "category_id": "24",
-      "tags": [
-        "Grey Hulk",
-        "grey hulk trailer",
-        "dwayne johnson",
-        "dwayne johnson grey hulk",
-        "grey hulk release date update",
-        "grey hulk explained",
-        "hulk",
-        "Grey Hulk First look",
-        "Grey Hulk 2026",
-        "Grey Hulk Charlize Theron"
-      ],
-      "url": "https://www.youtube.com/watch?v=BVXyut1s7OE"
-    },
-    {
       "video_id": "j0sbWynEePo",
       "title": "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)",
       "description": "Outro Song: https://evanfong.lnk.to/breathe\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nWildcat - @wildcat \nH2O Delirious - @H2ODelirious \nLui Calibre - @KingLuiCalibre \nNogla - @DaithiDeNogla \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
@@ -196,9 +140,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j0sbWynEePo/hqdefault.jpg",
       "duration": "PT22M48S",
       "duration_seconds": 1368,
-      "view_count": 336684,
-      "like_count": 22745,
-      "comment_count": 880,
+      "view_count": 402800,
+      "like_count": 26019,
+      "comment_count": 921,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -224,9 +168,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
       "duration": "PT27S",
       "duration_seconds": 27,
-      "view_count": 10448,
-      "like_count": 532,
-      "comment_count": 46,
+      "view_count": 28484,
+      "like_count": 1037,
+      "comment_count": 81,
       "category_id": "20",
       "tags": [
         "Action",
@@ -243,23 +187,88 @@
       "url": "https://www.youtube.com/watch?v=5oMktVm8vPM"
     },
     {
-      "video_id": "Gs4tS30nYVk",
-      "title": "The Final Wheel of MUT Season! Ep. #48",
-      "description": "After a dominant Bears SZN, MMHandsome locks in MEGA HARD for the newest season of Wheel of Mut.. WE WINDOWS WE WINDOWS WE WINDDOOOWWWWSSSSS!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-03-09T01:35:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gs4tS30nYVk/hqdefault.jpg",
-      "duration": "PT41M16S",
-      "duration_seconds": 2476,
-      "view_count": 226710,
-      "like_count": 12050,
-      "comment_count": 1014,
-      "category_id": "17",
+      "video_id": "3jpOZY-pYes",
+      "title": "This Game Knows When You Blink…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\n\n00:00 - 42:27 - Vigil \n42:27 - 1:20:37 - Forest 6174 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-08T22:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3jpOZY-pYes/hqdefault.jpg",
+      "duration": "PT1H14M57S",
+      "duration_seconds": 4497,
+      "view_count": 405545,
+      "like_count": 14759,
+      "comment_count": 1017,
+      "category_id": "20",
       "tags": [
-        "mmg"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
+      "url": "https://www.youtube.com/watch?v=3jpOZY-pYes"
+    },
+    {
+      "video_id": "9hcRcyERuFA",
+      "title": "Dominic Fike - Babydoll (Lyrics)",
+      "description": "Dominic Fike - Babydoll\nStream/Download:\n\n(Lyrics):\n[Chorus]\nI can't move on, babydoll\nWaitin' on calls, flippin' through stations\nI'm outclassed and it's outrageous\nAnd I'll take it all, babydoll\nWhatever's been weighing you down\n\n[Verse]\nFind me on Miami concrete\nLookin' for somebody different 'cause my daddy was a pimp\nMy mama had her issues but I miss her anyway\nOh, babydoll\nPlease don't call me for the wrong reasons\nWe both know exactly what I'm thinkin'\nWeeks pass and I never grow tired\n'Cause I never said never and I barely ever lie\nI'm on the road to an original place in outer space\nI didn't make it up, but you can't find it on a phone or a globe\nAnd I can take you with me if you really wanna go\nOh, babydoll, I can't move on\n\n[Chorus]\nI can't move on, babydoll\nWaitin' on calls, flippin' through stations\nI'm outclassed and it's outrageous\nAnd I'll take it all, babydoll\nWhatever's been weighing you down\n\nTags:\nBabydoll Lyrics\nDominic Fike Babydoll\nBabydoll Dominic Fike\nI can't mo",
+      "channel_title": "R&BHype",
+      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
+      "published_at": "2026-03-07T14:02:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9hcRcyERuFA/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 122120,
+      "like_count": 1268,
+      "comment_count": 98,
+      "category_id": "22",
+      "tags": [
+        "Dominic Fike Babydoll",
+        "Babydoll Dominic Fike",
+        "I can't move on babydoll",
+        "Waitin' on calls flippin' through stations",
+        "I'm outclassed and it's outrageous",
+        "And I'll take it all babydoll",
+        "Whatever's been weighing you down",
+        "I will take it all baby doll",
+        "I can not move on baby doll",
+        "Babydoll"
+      ],
+      "url": "https://www.youtube.com/watch?v=9hcRcyERuFA"
+    },
+    {
+      "video_id": "NHk7scrb_9I",
+      "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026",
+      "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetishe",
+      "channel_title": "JioStudios",
+      "channel_id": "UCcXQd6kHKm0b41x8zMVMmMg",
+      "published_at": "2026-03-07T05:31:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
+      "duration": "PT3M26S",
+      "duration_seconds": 206,
+      "view_count": 42350375,
+      "like_count": 1004027,
+      "comment_count": 52319,
+      "category_id": "24",
+      "tags": [
+        "Jio Studios",
+        "Jio Cinema",
+        "Jio Saavn",
+        "Jio TV",
+        "Dhurandhar",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Sanjay Dutt",
+        "Akshaye Khanna",
+        "R. Madhavan"
+      ],
+      "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     }
   ],
   "videos_with_transcripts": [],
@@ -274,9 +283,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pvAJ6NnPdMA/hqdefault.jpg",
       "duration": "PT1H9M5S",
       "duration_seconds": 4145,
-      "view_count": 5820246,
-      "like_count": 392969,
-      "comment_count": 26876,
+      "view_count": 6452860,
+      "like_count": 419472,
+      "comment_count": 27922,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -284,6 +293,51 @@
         "dream minecraft"
       ],
       "url": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+    },
+    {
+      "video_id": "vPMcEabBQEU",
+      "title": "XO, Kitty: Season 3 | Official Trailer | Netflix",
+      "description": "If you need me, I’ll be replaying this XO, Kitty trailer and overanalyzing every frame.\n\nWatch on Netflix: https://www.netflix.com/title/81945936\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nXO, Kitty: Season 3 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-09T15:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
+      "duration": "PT2M11S",
+      "duration_seconds": 131,
+      "view_count": 215827,
+      "like_count": 26686,
+      "comment_count": 1393,
+      "category_id": "24",
+      "tags": [
+        "Anna Cathcart",
+        "Being Abroad",
+        "Comedy",
+        "Coming of Age",
+        "Cute",
+        "Dating",
+        "Drama",
+        "First Love",
+        "High School",
+        "Humorous"
+      ],
+      "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
+    },
+    {
+      "video_id": "bhdJRIN7Ks4",
+      "title": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
+      "description": "This is extra scenes from Dream's channel of the \"Minecraft Speedrunner VS 6 Hunters\" video.\n\nWe react to what happened during the video and talk about it.\n\nOriginal Video: https://youtu.be/pvAJ6NnPdMA\n\nThis video was crazy fun and intense. Definitely one of the hardest challenges.\n\nMinecraft challenge videos are fun to do :)",
+      "channel_title": "DreamXD",
+      "channel_id": "UChU3JRloULzdFX3aCu7BiSA",
+      "published_at": "2026-03-08T20:03:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bhdJRIN7Ks4/hqdefault.jpg",
+      "duration": "PT8M38S",
+      "duration_seconds": 518,
+      "view_count": 510236,
+      "like_count": 36150,
+      "comment_count": 1592,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
     },
     {
       "video_id": "4lFnIlH06Sw",
@@ -295,9 +349,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 7408741,
-      "like_count": 709525,
-      "comment_count": 42567,
+      "view_count": 7490999,
+      "like_count": 713824,
+      "comment_count": 42747,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -314,107 +368,6 @@
       "url": "https://www.youtube.com/watch?v=4lFnIlH06Sw"
     },
     {
-      "video_id": "bhdJRIN7Ks4",
-      "title": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
-      "description": "This is extra scenes from Dream's channel of the \"Minecraft Speedrunner VS 6 Hunters\" video.\n\nWe react to what happened during the video and talk about it.\n\nOriginal Video: https://youtu.be/pvAJ6NnPdMA\n\nThis video was crazy fun and intense. Definitely one of the hardest challenges.\n\nMinecraft challenge videos are fun to do :)",
-      "channel_title": "DreamXD",
-      "channel_id": "UChU3JRloULzdFX3aCu7BiSA",
-      "published_at": "2026-03-08T20:03:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bhdJRIN7Ks4/hqdefault.jpg",
-      "duration": "PT8M38S",
-      "duration_seconds": 518,
-      "view_count": 444213,
-      "like_count": 32946,
-      "comment_count": 1459,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
-    },
-    {
-      "video_id": "NHk7scrb_9I",
-      "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026",
-      "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetishe",
-      "channel_title": "JioStudios",
-      "channel_id": "UCcXQd6kHKm0b41x8zMVMmMg",
-      "published_at": "2026-03-07T05:31:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
-      "duration": "PT3M26S",
-      "duration_seconds": 206,
-      "view_count": 41485512,
-      "like_count": 993327,
-      "comment_count": 51840,
-      "category_id": "24",
-      "tags": [
-        "Jio Studios",
-        "Jio Cinema",
-        "Jio Saavn",
-        "Jio TV",
-        "Dhurandhar",
-        "Aditya Dhar",
-        "Ranveer Singh",
-        "Sanjay Dutt",
-        "Akshaye Khanna",
-        "R. Madhavan"
-      ],
-      "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
-      "video_id": "3jpOZY-pYes",
-      "title": "This Game Knows When You Blink…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\n\n00:00 - 42:27 - Vigil \n42:27 - 1:20:37 - Forest 6174 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-08T22:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3jpOZY-pYes/hqdefault.jpg",
-      "duration": "PT1H14M57S",
-      "duration_seconds": 4497,
-      "view_count": 368481,
-      "like_count": 13595,
-      "comment_count": 970,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=3jpOZY-pYes"
-    },
-    {
-      "video_id": "BVXyut1s7OE",
-      "title": "Grey Hulk (2026) - Dwayne Johnson, Mila Kunis, Mark Ruffalo | Concept Trailer",
-      "description": "#GreyHulk #DwayneJohnson #HarrisonFord #Hulk\n\nWatch this fan-made Grey Hulk concept trailer\n\nIn the scorching desert sand, the U.S. military tries to play God and create something they can't even control. Dwayne Johnson brings unbridled power and intensity to Bruce Banner, a brilliant scientist who was involuntarily turned into the Grey Hulk, a gargantuan 9-foot monolith of slate grey rage and anger resulting from an untested dose of gamma radiation and military ambitions. The indomitable Harrison Ford takes command of the screen as General Thunderbolt Ross, a man consumed by the need to build the ultimate super-soldier; however, he also destroyed the life of his daughter's favorite person. Mila Kunis portrays Betty Ross, caught in a war of allegiance to her father and love for the monster he has created, courageous enough to stand against an entire army with just her arms stretched out and a breaking heart.\n\nWhen Ross self-injects and becomes the Red Hulk, a blazing red nightmare that",
-      "channel_title": "Ultimate Studios",
-      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
-      "published_at": "2026-03-07T17:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BVXyut1s7OE/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 214826,
-      "like_count": 814,
-      "comment_count": 131,
-      "category_id": "24",
-      "tags": [
-        "Grey Hulk",
-        "grey hulk trailer",
-        "dwayne johnson",
-        "dwayne johnson grey hulk",
-        "grey hulk release date update",
-        "grey hulk explained",
-        "hulk",
-        "Grey Hulk First look",
-        "Grey Hulk 2026",
-        "Grey Hulk Charlize Theron"
-      ],
-      "url": "https://www.youtube.com/watch?v=BVXyut1s7OE"
-    },
-    {
       "video_id": "j0sbWynEePo",
       "title": "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)",
       "description": "Outro Song: https://evanfong.lnk.to/breathe\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nWildcat - @wildcat \nH2O Delirious - @H2ODelirious \nLui Calibre - @KingLuiCalibre \nNogla - @DaithiDeNogla \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
@@ -424,9 +377,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j0sbWynEePo/hqdefault.jpg",
       "duration": "PT22M48S",
       "duration_seconds": 1368,
-      "view_count": 336684,
-      "like_count": 22745,
-      "comment_count": 880,
+      "view_count": 402800,
+      "like_count": 26019,
+      "comment_count": 921,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -443,23 +396,60 @@
       "url": "https://www.youtube.com/watch?v=j0sbWynEePo"
     },
     {
-      "video_id": "Gs4tS30nYVk",
-      "title": "The Final Wheel of MUT Season! Ep. #48",
-      "description": "After a dominant Bears SZN, MMHandsome locks in MEGA HARD for the newest season of Wheel of Mut.. WE WINDOWS WE WINDOWS WE WINDDOOOWWWWSSSSS!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-03-09T01:35:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gs4tS30nYVk/hqdefault.jpg",
-      "duration": "PT41M16S",
-      "duration_seconds": 2476,
-      "view_count": 226710,
-      "like_count": 12050,
-      "comment_count": 1014,
-      "category_id": "17",
+      "video_id": "3jpOZY-pYes",
+      "title": "This Game Knows When You Blink…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\n\n00:00 - 42:27 - Vigil \n42:27 - 1:20:37 - Forest 6174 \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-08T22:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3jpOZY-pYes/hqdefault.jpg",
+      "duration": "PT1H14M57S",
+      "duration_seconds": 4497,
+      "view_count": 405545,
+      "like_count": 14759,
+      "comment_count": 1017,
+      "category_id": "20",
       "tags": [
-        "mmg"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
+      "url": "https://www.youtube.com/watch?v=3jpOZY-pYes"
+    },
+    {
+      "video_id": "NHk7scrb_9I",
+      "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026",
+      "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetishe",
+      "channel_title": "JioStudios",
+      "channel_id": "UCcXQd6kHKm0b41x8zMVMmMg",
+      "published_at": "2026-03-07T05:31:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
+      "duration": "PT3M26S",
+      "duration_seconds": 206,
+      "view_count": 42350375,
+      "like_count": 1004027,
+      "comment_count": 52319,
+      "category_id": "24",
+      "tags": [
+        "Jio Studios",
+        "Jio Cinema",
+        "Jio Saavn",
+        "Jio TV",
+        "Dhurandhar",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Sanjay Dutt",
+        "Akshaye Khanna",
+        "R. Madhavan"
+      ],
+      "url": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "video_id": "Z73ZROKIF5Q",
@@ -471,9 +461,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 43843,
-      "like_count": 12317,
-      "comment_count": 808,
+      "view_count": 147900,
+      "like_count": 18259,
+      "comment_count": 1148,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -495,9 +485,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
       "duration": "PT27S",
       "duration_seconds": 27,
-      "view_count": 10448,
-      "like_count": 532,
-      "comment_count": 46,
+      "view_count": 28484,
+      "like_count": 1037,
+      "comment_count": 81,
       "category_id": "20",
       "tags": [
         "Action",
@@ -512,72 +502,116 @@
         "Nintendo Switch 2"
       ],
       "url": "https://www.youtube.com/watch?v=5oMktVm8vPM"
+    },
+    {
+      "video_id": "9hcRcyERuFA",
+      "title": "Dominic Fike - Babydoll (Lyrics)",
+      "description": "Dominic Fike - Babydoll\nStream/Download:\n\n(Lyrics):\n[Chorus]\nI can't move on, babydoll\nWaitin' on calls, flippin' through stations\nI'm outclassed and it's outrageous\nAnd I'll take it all, babydoll\nWhatever's been weighing you down\n\n[Verse]\nFind me on Miami concrete\nLookin' for somebody different 'cause my daddy was a pimp\nMy mama had her issues but I miss her anyway\nOh, babydoll\nPlease don't call me for the wrong reasons\nWe both know exactly what I'm thinkin'\nWeeks pass and I never grow tired\n'Cause I never said never and I barely ever lie\nI'm on the road to an original place in outer space\nI didn't make it up, but you can't find it on a phone or a globe\nAnd I can take you with me if you really wanna go\nOh, babydoll, I can't move on\n\n[Chorus]\nI can't move on, babydoll\nWaitin' on calls, flippin' through stations\nI'm outclassed and it's outrageous\nAnd I'll take it all, babydoll\nWhatever's been weighing you down\n\nTags:\nBabydoll Lyrics\nDominic Fike Babydoll\nBabydoll Dominic Fike\nI can't mo",
+      "channel_title": "R&BHype",
+      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
+      "published_at": "2026-03-07T14:02:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9hcRcyERuFA/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 122120,
+      "like_count": 1268,
+      "comment_count": 98,
+      "category_id": "22",
+      "tags": [
+        "Dominic Fike Babydoll",
+        "Babydoll Dominic Fike",
+        "I can't move on babydoll",
+        "Waitin' on calls flippin' through stations",
+        "I'm outclassed and it's outrageous",
+        "And I'll take it all babydoll",
+        "Whatever's been weighing you down",
+        "I will take it all baby doll",
+        "I can not move on baby doll",
+        "Babydoll"
+      ],
+      "url": "https://www.youtube.com/watch?v=9hcRcyERuFA"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "gaming": {
-          "description": "Gaming-related content continues to dominate the trending section with multiple entries.",
-          "examples": [
-            "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-            "Minecraft Speedrunner VS 6 Hunters",
-            "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
-            "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)"
-          ],
-          "analysis": "The popularity of games like Fortnite and Minecraft is evident, as they maintain a strong presence in the trending section. This indicates a sustained interest in gaming content, particularly involving high-stakes gameplay and community-driven challenges."
-        },
-        "trailers": {
-          "description": "Trailers for upcoming content, both gaming and film, are highly engaging.",
-          "examples": [
-            "Dhurandhar The Revenge Official Hindi Trailer",
-            "Grey Hulk (2026) - Concept Trailer",
-            "Digital Circus Ep 8 Trailer"
-          ],
-          "analysis": "Trailers generate significant interest, showcasing a blend of video game teaser trailers and traditional film trailers. This suggests a market opportunity for content creators to focus on high-quality, engaging preview content."
-        },
-        "unique formats": {
-          "description": "Non-traditional video formats and creative concepts capture audience attention.",
-          "examples": [
-            "This Game Knows When You Blink...",
-            "The Final Wheel of MUT Season! Ep. #48"
-          ],
-          "analysis": "Videos that offer unique interactive experiences or explore niche interests (e.g., creative game mechanics or sports-related content) are trending. This highlights the value of innovative content creation that stands out from typical formats."
-        }
+      "contentTrends": {
+        "themes": [
+          {
+            "theme": "Gaming",
+            "videos": [
+              "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
+              "Minecraft Speedrunner VS 6 Hunters",
+              "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
+              "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)",
+              "Fortnite - Official Chapter 7 Season 2: Showdown Teaser Trailer"
+            ],
+            "viewCount": 0,
+            "dominant": true,
+            "insight": "Gaming continues to dominate YouTube trends with a strong presence of popular games such as Fortnite, Minecraft, and Gmod. The repetitive success of specific gaming content (like Minecraft Manhunt) indicates high viewer engagement and interest."
+          },
+          {
+            "theme": "Entertainment and Media",
+            "videos": [
+              "XO, Kitty: Season 3 | Official Trailer | Netflix",
+              "Digital Circus Ep 8 Trailer.",
+              "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026"
+            ],
+            "viewCount": 0,
+            "insight": "Trailers for upcoming series and films are trending, suggesting a strong interest in visual media previews. This is particularly relevant for platforms like Netflix and theatrical releases."
+          },
+          {
+            "theme": "Music",
+            "videos": [
+              "Dominic Fike - Babydoll (Lyrics)"
+            ],
+            "viewCount": 0,
+            "insight": "Music remains a key component of trending content, with lyric videos providing a popular format for music consumption on YouTube."
+          }
+        ]
       },
-      "creator_patterns": {
-        "diverse content": {
-          "description": "Creators are diversifying their content to engage different segments of their audience.",
-          "examples": [
-            "Dream and DreamXD contribute different Minecraft-related content",
-            "Fortnite channels focus on both gameplay and trailers"
-          ],
-          "analysis": "Successful creators, like Dream and Fortnite, leverage multiple channels and varied content styles to maintain audience interest. This diversification strategy helps maximize reach and engagement."
-        },
-        "brand power": {
-          "description": "Established brands and creators have a strong influence on trending content.",
-          "examples": [
-            "Fortnite",
-            "Dream",
-            "JioStudios"
-          ],
-          "analysis": "Channels with established brands or well-known creators have a higher likelihood of trending due to existing fanbases and brand loyalty. This suggests that collaborations with established entities or focusing on building a strong personal brand could be advantageous."
-        }
+      "creatorPatterns": {
+        "popularCreators": [
+          {
+            "name": "Fortnite",
+            "videoCount": 1,
+            "insight": "Fortnite maintains its status as a significant content driver on YouTube, likely contributing a substantial portion of the total views."
+          },
+          {
+            "name": "Dream",
+            "videoCount": 1,
+            "insight": "Dream's content continues to trend, particularly with Minecraft-related videos, highlighting the creator's influence within the gaming community."
+          },
+          {
+            "name": "Netflix",
+            "videoCount": 1,
+            "insight": "Netflix's presence with a trailer video indicates its strategy to leverage YouTube for promoting upcoming content, engaging a large audience base."
+          }
+        ]
       },
-      "market_opportunities": {
-        "cross-industry collaborations": {
-          "description": "Blend gaming elements with other entertainment mediums.",
-          "suggestions": [
-            "Collaborate on projects that merge gaming and traditional media (e.g., film and game trailers).",
-            "Explore interactive content that enhances viewer engagement, such as interactive trailers or participatory challenges."
+      "marketOpportunities": {
+        "gamingExpansion": {
+          "opportunity": "Capitalize on the gaming trend by developing content around popular games and engaging formats such as live streams and interactive videos.",
+          "actionableSteps": [
+            "Create tutorial or strategy guides for trending games.",
+            "Collaborate with popular gaming influencers for broader reach.",
+            "Utilize interactive features like live Q&A sessions during streams."
           ]
         },
-        "emerging markets": {
-          "description": "Focus on growing regions with rising digital content consumption.",
-          "suggestions": [
-            "Create content targeted at regions with growing internet penetration and digital consumption, such as India, as indicated by the presence of JioStudios.",
-            "Consider localizing popular content formats (e.g., gaming or trailers) to suit regional preferences and languages."
+        "mediaContentPromotion": {
+          "opportunity": "Develop partnerships with media companies to promote exclusive trailers and sneak peeks on YouTube.",
+          "actionableSteps": [
+            "Offer behind-the-scenes content or interviews with actors and creators.",
+            "Engage viewers with countdown events leading to release dates.",
+            "Create collaborative content with media platforms to cross-promote."
+          ]
+        },
+        "musicVideoEngagement": {
+          "opportunity": "Enhance music video engagement by implementing creative visual storytelling and interactive elements.",
+          "actionableSteps": [
+            "Incorporate user-generated content (e.g., fan-made videos) into official releases.",
+            "Leverage lyric video popularity by creating visually engaging animations.",
+            "Host live music events or virtual concerts on YouTube."
           ]
         }
       },
@@ -587,7 +621,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 5635970
+        "avg_views_per_video": 5812714
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
