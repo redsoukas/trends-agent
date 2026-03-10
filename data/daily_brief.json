@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-10T15:27:30.620906",
+  "timestamp": "2026-03-10T18:24:51.742771",
   "date": "2026-03-10",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 8,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1215869,
-      "like_count": 69723,
-      "comment_count": 4712,
+      "view_count": 1344384,
+      "like_count": 73787,
+      "comment_count": 4964,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 1898477,
-      "like_count": 92084,
-      "comment_count": 3654,
+      "view_count": 2092054,
+      "like_count": 96470,
+      "comment_count": 3766,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -84,6 +84,47 @@
         "Humorous"
       ],
       "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
+    },
+    {
+      "video_id": "K5FwbGoUc00",
+      "title": "Denver Nuggets at Oklahoma City Thunder",
+      "description": "The Thunder host the Nuggets. Shai Gilgeous-Alexander leads the powerful Oklahoma City offense against Nikola Jokic. The hosts currently command an absolute 2-0 series lead over Denver. The crowd at Paycom Center stays on their toes.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-03-10T16:45:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K5FwbGoUc00/hqdefault.jpg",
+      "duration": "PT2H37M20S",
+      "duration_seconds": 9440,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=K5FwbGoUc00"
+    },
+    {
+      "video_id": "Z73ZROKIF5Q",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
+      "description": "The Showdown begins March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-09T13:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
+      "duration": "PT26S",
+      "duration_seconds": 26,
+      "view_count": 418648,
+      "like_count": 28124,
+      "comment_count": 1649,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on",
+        "fortnite",
+        "epic games",
+        "fortnite battle royale",
+        "fortnite chapter 7",
+        "showdown"
+      ],
+      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
     },
     {
       "video_id": "m9Eek4CedR4",
@@ -103,28 +144,25 @@
       "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
     },
     {
-      "video_id": "Z73ZROKIF5Q",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-      "description": "The Showdown begins March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-09T13:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
-      "duration": "PT26S",
-      "duration_seconds": 26,
-      "view_count": 396116,
-      "like_count": 27649,
-      "comment_count": 1620,
+      "video_id": "3ntfjZGgm04",
+      "title": "Minecraft LIVE Official Trailer – March 2026",
+      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-10T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 158849,
+      "like_count": 23131,
+      "comment_count": 1966,
       "category_id": "20",
       "tags": [
-        "yt:cc=on",
-        "fortnite",
-        "epic games",
-        "fortnite battle royale",
-        "fortnite chapter 7",
-        "showdown"
+        "Minecraft",
+        "Minecraft live",
+        "Minecraft live 2026"
       ],
-      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
+      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
     },
     {
       "video_id": "rK8XgoNQdoQ",
@@ -144,32 +182,32 @@
       "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
     },
     {
-      "video_id": "_t1eVpIFE1A",
-      "title": "IN THE GREY Official Trailer (2026) Jake Gyllenhaal, Henry Cavill, Guy Ritchie",
-      "description": "IN THE GREY Official Trailer (2026) Jake Gyllenhaal, Henry Cavill, Eiza González, Rosamund Pike, Guy Ritchie\n© 2026 - Black Bear",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-09T15:09:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_t1eVpIFE1A/hqdefault.jpg",
-      "duration": "PT2M27S",
-      "duration_seconds": 147,
-      "view_count": 686922,
-      "like_count": 10917,
-      "comment_count": 695,
-      "category_id": "1",
+      "video_id": "AoBy5YGYhaM",
+      "title": "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno",
+      "description": "Created by John Griffin (Crater) and executive produced by Griffin, showrunner Jeff Pinkner (Lost, Alias, Fringe) and director Jack Bender (Lost, Game of Thrones, The Institute), the series unravels the mystery of a nightmarish town that traps all those who enter. The new season will premiere Sunday, April 19 on MGM+.\n\nIn Season Four, the closer the residents of town get to the answers they seek, the more terrifying their search becomes. Who is the Man in Yellow, and what does he want? Will Jade and Tabitha’s revelation be the key to finally going home? How much longer can Boyd hold the town together, even as his body and mind are falling apart? And what role will the town’s most recent arrival play in the events to come? Season Four will open doors that some in town will end up wishing had remained closed.\n\nThe series stars Harold Perrineau (Lost) and an ensemble cast which includes Catalina Sandino Moreno (Maria Full of Grace, The Affair), Eion Bailey (Band of Brothers), Hannah Chera",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-10T14:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 70757,
+      "like_count": 5621,
+      "comment_count": 499,
+      "category_id": "24",
       "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "In the Grey",
-        "In the Grey Trailer",
-        "Jake Gyllenhaal",
-        "Henry Cavill",
-        "Eiza González"
+        "From",
+        "Horror",
+        "MGM Plus",
+        "Sci-Fi",
+        "TV",
+        "from: season 4",
+        "from season 4 trailer",
+        "from season 4",
+        "from season 4 teaser",
+        "from season 4 announcement"
       ],
-      "url": "https://www.youtube.com/watch?v=_t1eVpIFE1A"
+      "url": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
     },
     {
       "video_id": "y1wBVu4_80c",
@@ -187,51 +225,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=y1wBVu4_80c"
-    },
-    {
-      "video_id": "5oMktVm8vPM",
-      "title": "Fortnite - Official Chapter 7 Season 2: Showdown Teaser Trailer",
-      "description": "Don't miss the Chapter 7 Season 2: Showdown Teaser Trailer for Fortnite, the hit third-person battle royale developed by Epic Games. Players will be able to access new content and skins as a new battle thaws from the frigid standstill, with The Foundation and The Ice King preparing for a showdown. Chapter 7 Season 2 for Fortnite kicks off on March 19.\n\n#Fortnite #Gaming #IGN",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-09T13:16:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
-      "duration": "PT27S",
-      "duration_seconds": 27,
-      "view_count": 131054,
-      "like_count": 2781,
-      "comment_count": 167,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Android",
-        "Battle Royale",
-        "Crafting",
-        "Fortnite",
-        "Free-to-Play",
-        "Live Service",
-        "Macintosh",
-        "Nintendo Switch",
-        "Nintendo Switch 2"
-      ],
-      "url": "https://www.youtube.com/watch?v=5oMktVm8vPM"
-    },
-    {
-      "video_id": "BZvdRlD_uDY",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T09:02:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZvdRlD_uDY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
     }
   ],
   "videos_with_transcripts": [],
@@ -246,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1215869,
-      "like_count": 69723,
-      "comment_count": 4712,
+      "view_count": 1344384,
+      "like_count": 73787,
+      "comment_count": 4964,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -291,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 1898477,
-      "like_count": 92084,
-      "comment_count": 3654,
+      "view_count": 2092054,
+      "like_count": 96470,
+      "comment_count": 3766,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -308,6 +301,23 @@
         "Humorous"
       ],
       "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
+    },
+    {
+      "video_id": "K5FwbGoUc00",
+      "title": "Denver Nuggets at Oklahoma City Thunder",
+      "description": "The Thunder host the Nuggets. Shai Gilgeous-Alexander leads the powerful Oklahoma City offense against Nikola Jokic. The hosts currently command an absolute 2-0 series lead over Denver. The crowd at Paycom Center stays on their toes.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-03-10T16:45:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K5FwbGoUc00/hqdefault.jpg",
+      "duration": "PT2H37M20S",
+      "duration_seconds": 9440,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=K5FwbGoUc00"
     },
     {
       "video_id": "m9Eek4CedR4",
@@ -327,6 +337,27 @@
       "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
     },
     {
+      "video_id": "3ntfjZGgm04",
+      "title": "Minecraft LIVE Official Trailer – March 2026",
+      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-10T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 158849,
+      "like_count": 23131,
+      "comment_count": 1966,
+      "category_id": "20",
+      "tags": [
+        "Minecraft",
+        "Minecraft live",
+        "Minecraft live 2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
+    },
+    {
       "video_id": "rK8XgoNQdoQ",
       "title": "The Rachel Maddow Show",
       "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
@@ -344,32 +375,32 @@
       "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
     },
     {
-      "video_id": "_t1eVpIFE1A",
-      "title": "IN THE GREY Official Trailer (2026) Jake Gyllenhaal, Henry Cavill, Guy Ritchie",
-      "description": "IN THE GREY Official Trailer (2026) Jake Gyllenhaal, Henry Cavill, Eiza González, Rosamund Pike, Guy Ritchie\n© 2026 - Black Bear",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-09T15:09:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_t1eVpIFE1A/hqdefault.jpg",
-      "duration": "PT2M27S",
-      "duration_seconds": 147,
-      "view_count": 686922,
-      "like_count": 10917,
-      "comment_count": 695,
-      "category_id": "1",
+      "video_id": "AoBy5YGYhaM",
+      "title": "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno",
+      "description": "Created by John Griffin (Crater) and executive produced by Griffin, showrunner Jeff Pinkner (Lost, Alias, Fringe) and director Jack Bender (Lost, Game of Thrones, The Institute), the series unravels the mystery of a nightmarish town that traps all those who enter. The new season will premiere Sunday, April 19 on MGM+.\n\nIn Season Four, the closer the residents of town get to the answers they seek, the more terrifying their search becomes. Who is the Man in Yellow, and what does he want? Will Jade and Tabitha’s revelation be the key to finally going home? How much longer can Boyd hold the town together, even as his body and mind are falling apart? And what role will the town’s most recent arrival play in the events to come? Season Four will open doors that some in town will end up wishing had remained closed.\n\nThe series stars Harold Perrineau (Lost) and an ensemble cast which includes Catalina Sandino Moreno (Maria Full of Grace, The Affair), Eion Bailey (Band of Brothers), Hannah Chera",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-10T14:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 70757,
+      "like_count": 5621,
+      "comment_count": 499,
+      "category_id": "24",
       "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "In the Grey",
-        "In the Grey Trailer",
-        "Jake Gyllenhaal",
-        "Henry Cavill",
-        "Eiza González"
+        "From",
+        "Horror",
+        "MGM Plus",
+        "Sci-Fi",
+        "TV",
+        "from: season 4",
+        "from season 4 trailer",
+        "from season 4",
+        "from season 4 teaser",
+        "from season 4 announcement"
       ],
-      "url": "https://www.youtube.com/watch?v=_t1eVpIFE1A"
+      "url": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
     },
     {
       "video_id": "y1wBVu4_80c",
@@ -389,23 +420,6 @@
       "url": "https://www.youtube.com/watch?v=y1wBVu4_80c"
     },
     {
-      "video_id": "BZvdRlD_uDY",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T09:02:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZvdRlD_uDY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
-    },
-    {
       "video_id": "Z73ZROKIF5Q",
       "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
       "description": "The Showdown begins March 19!",
@@ -415,9 +429,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 396116,
-      "like_count": 27649,
-      "comment_count": 1620,
+      "view_count": 418648,
+      "like_count": 28124,
+      "comment_count": 1649,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -428,120 +442,66 @@
         "showdown"
       ],
       "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
-    },
-    {
-      "video_id": "5oMktVm8vPM",
-      "title": "Fortnite - Official Chapter 7 Season 2: Showdown Teaser Trailer",
-      "description": "Don't miss the Chapter 7 Season 2: Showdown Teaser Trailer for Fortnite, the hit third-person battle royale developed by Epic Games. Players will be able to access new content and skins as a new battle thaws from the frigid standstill, with The Foundation and The Ice King preparing for a showdown. Chapter 7 Season 2 for Fortnite kicks off on March 19.\n\n#Fortnite #Gaming #IGN",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-09T13:16:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
-      "duration": "PT27S",
-      "duration_seconds": 27,
-      "view_count": 131054,
-      "like_count": 2781,
-      "comment_count": 167,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Android",
-        "Battle Royale",
-        "Crafting",
-        "Fortnite",
-        "Free-to-Play",
-        "Live Service",
-        "Macintosh",
-        "Nintendo Switch",
-        "Nintendo Switch 2"
-      ],
-      "url": "https://www.youtube.com/watch?v=5oMktVm8vPM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_dominance": {
-          "description": "The majority of trending videos are related to entertainment, including gaming, movies, and TV shows.",
-          "data_points": {
-            "entertainment_videos": 6,
-            "total_videos": 10,
-            "percentage": 60
-          },
-          "insights": [
-            "Content related to popular franchises like Super Mario and Fortnite continue to attract significant attention.",
-            "Trailers and teasers for upcoming shows and movies remain a strong hook for viewer engagement."
-          ]
-        },
-        "news_and_politics": {
-          "description": "News segments and political commentary maintain a presence in trending content.",
-          "data_points": {
-            "news_videos": 3,
-            "total_videos": 10,
-            "percentage": 30
-          },
-          "insights": [
-            "Established news channels like FOX News continue to drive viewership with political commentary and analysis.",
-            "The integration of recognizable news personalities like Jesse Watters and Rachel Maddow suggests a trend towards personality-driven content."
-          ]
+        "trailer_content": {
+          "description": "Trailers continue to be highly engaging, with multiple entries in the trending list. This includes movie trailers, TV series previews, and video game teasers.",
+          "data_points": [
+            "The Super Mario Galaxy Movie – Final Trailer",
+            "XO, Kitty: Season 3 | Official Trailer | Netflix",
+            "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
+            "Minecraft LIVE Official Trailer – March 2026",
+            "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno"
+          ],
+          "insight": "The presence of trailers indicates a strong viewer interest in upcoming media releases. This suggests that creating teaser content for upcoming projects can drive viewer engagement."
         },
         "sports_content": {
-          "description": "Sports events and highlights also capture viewer interest.",
-          "data_points": {
-            "sports_videos": 1,
-            "total_videos": 10,
-            "percentage": 10
-          },
-          "insights": [
-            "Coverage of significant sporting events like the WCC Tournament can boost visibility and engagement for channels."
-          ]
+          "description": "Sports content, including live games and tournaments, is a significant part of the trending content.",
+          "data_points": [
+            "Denver Nuggets at Oklahoma City Thunder",
+            "WCC Tournament: Oregon State vs. Gonzaga",
+            "Cuba vs. Puerto Rico"
+          ],
+          "insight": "Sports content remains a consistent draw for viewers, suggesting opportunities for content creators to collaborate with sports leagues or provide analysis and commentary on trending games."
+        },
+        "news_and_opinion": {
+          "description": "News shows and opinion pieces are also trending, highlighting the audience's interest in current events.",
+          "data_points": [
+            "Jesse Watters Primetime",
+            "The Rachel Maddow Show"
+          ],
+          "insight": "News and opinion content remains relevant, especially in politically charged climates. This suggests potential for growth in content focused on current events analysis and opinion."
         }
       },
       "creator_patterns": {
-        "highly_subscribed_channels": {
-          "description": "Trending videos predominantly come from well-established channels with large subscriber bases.",
-          "channels": [
+        "dominant_platforms": {
+          "description": "Major entertainment and news channels are leading the trending list.",
+          "data_points": [
             "Nintendo of America",
             "FOX News",
             "Netflix",
-            "ESPN",
+            "NBCSN",
             "Fortnite"
           ],
-          "insights": [
-            "Brands with a strong following leverage their existing audience to push new content into trending status.",
-            "Cross-promotion between official channels and associated products or events can enhance visibility."
-          ]
+          "insight": "Large, well-established channels continue to dominate trending content. This indicates that collaboration with these channels or similarly sized creators could increase visibility."
         },
-        "diverse_content_strategies": {
-          "description": "Channels employ a variety of content strategies, including teasers, official trailers, and live events.",
-          "insights": [
-            "Utilizing different content formats allows channels to engage with audiences through multiple touchpoints.",
-            "Trailers and teasers are particularly effective in generating buzz and anticipation for upcoming releases."
-          ]
+        "diverse_content": {
+          "description": "The variety in content type (trailers, news, sports) suggests a diverse audience with varied interests.",
+          "insight": "Content creators should consider diversifying their content offerings to capture a broader audience base. This could involve branching into different content genres or collaborating with creators from different niches."
         }
       },
       "market_opportunities": {
-        "gaming_and_esports": {
-          "description": "Strong interest in gaming content suggests opportunities for expansion in this area.",
-          "insights": [
-            "Collaborations with gaming influencers and streamers could enhance engagement and reach.",
-            "Creating exclusive content related to game updates or esports events could attract a dedicated audience."
-          ]
+        "emerging_trends": {
+          "description": "High engagement for trailers and sports content highlights areas for growth.",
+          "insight": "Creators can capitalize on the hype for new releases by producing related content such as reaction videos, reviews, or behind-the-scenes footage. Additionally, sports-related content, including analysis and fan interactions, presents an opportunity for increased engagement."
         },
-        "streaming_services": {
-          "description": "Continued interest in trailers for streaming content highlights opportunities for original programming.",
-          "insights": [
-            "Investing in original content and exclusive releases can differentiate streaming platforms in a crowded market.",
-            "Engagement strategies should focus on building anticipation through sneak peeks and interactive content."
-          ]
-        },
-        "news_and_analysis": {
-          "description": "The demand for news and analysis presents opportunities for new entrants with unique perspectives.",
-          "insights": [
-            "Emerging news channels can capitalize on niche topics or underserved audiences.",
-            "Leveraging personality-driven content can enhance relatability and viewer loyalty."
-          ]
+        "strategic_partnerships": {
+          "description": "Partnering with trending channels could enhance reach.",
+          "insight": "Strategic partnerships with trending channels can provide access to a larger audience and increased content visibility. Such collaborations could include co-branded content or guest appearances."
         }
       },
       "metadata_stats": {
@@ -550,7 +510,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 432843
+        "avg_views_per_video": 408469
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
