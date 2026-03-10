@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-10T09:22:28.024888",
+  "timestamp": "2026-03-10T12:22:29.325053",
   "date": "2026-03-10",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 3,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1055816,
-      "like_count": 62952,
-      "comment_count": 4318,
+      "view_count": 1135648,
+      "like_count": 65976,
+      "comment_count": 4460,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
     },
     {
-      "video_id": "478cXFufTBo",
-      "title": "The Five",
-      "description": "The Five features Dana Perino, Greg Gutfeld, Jesse Watters, Jessica Tarlov, and Harold Ford Jr. in a roundtable format. Five personalities discuss and debate hot topics from politics to pop culture. Each show ends with hosts choosing a topic for the One More Thing segment.",
+      "video_id": "_3rvTOG16NU",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-10T07:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/478cXFufTBo/hqdefault.jpg",
+      "published_at": "2026-03-10T08:52:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_3rvTOG16NU/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=478cXFufTBo"
+      "url": "https://www.youtube.com/watch?v=_3rvTOG16NU"
     },
     {
       "video_id": "vPMcEabBQEU",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 1541269,
-      "like_count": 80716,
-      "comment_count": 3320,
+      "view_count": 1743069,
+      "like_count": 86603,
+      "comment_count": 3506,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -86,21 +86,21 @@
       "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
     },
     {
-      "video_id": "V3jFF8cyjqw",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T07:51:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V3jFF8cyjqw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "m9Eek4CedR4",
+      "title": "WCC Tournament: Oregon State vs. Gonzaga",
+      "description": "The Beavers and Bulldogs collide in a high-voltage WCC semifinal. Oregon State enters following a nail-biting 78-77 escape against San Francisco, while Gonzaga looks to dominate after a long rest period at the Orleans Arena in Las Vegas.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-10T10:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m9Eek4CedR4/hqdefault.jpg",
+      "duration": "PT1H57M1S",
+      "duration_seconds": 7021,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=V3jFF8cyjqw"
+      "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
     },
     {
       "video_id": "Z73ZROKIF5Q",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 366990,
-      "like_count": 26606,
-      "comment_count": 1567,
+      "view_count": 380449,
+      "like_count": 27131,
+      "comment_count": 1601,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -127,21 +127,21 @@
       "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
     },
     {
-      "video_id": "s-dQd56vbs0",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "rK8XgoNQdoQ",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-10T07:40:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s-dQd56vbs0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "published_at": "2026-03-10T09:58:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rK8XgoNQdoQ/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=s-dQd56vbs0"
+      "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
     },
     {
       "video_id": "_t1eVpIFE1A",
@@ -153,9 +153,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_t1eVpIFE1A/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 584268,
-      "like_count": 9598,
-      "comment_count": 592,
+      "view_count": 636220,
+      "like_count": 10209,
+      "comment_count": 642,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -172,25 +172,21 @@
       "url": "https://www.youtube.com/watch?v=_t1eVpIFE1A"
     },
     {
-      "video_id": "pvAJ6NnPdMA",
-      "title": "Minecraft Speedrunner VS 6 Hunters",
-      "description": "Minecraft Speedrunner VS 6 Hunters. You asked for it. The continuation of the series. This was absolutely insane.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \nCaptainPuffy: @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water R",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-03-08T18:53:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pvAJ6NnPdMA/hqdefault.jpg",
-      "duration": "PT1H9M5S",
-      "duration_seconds": 4145,
-      "view_count": 8202157,
-      "like_count": 475348,
-      "comment_count": 29107,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+      "video_id": "BZvdRlD_uDY",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-10T09:02:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BZvdRlD_uDY/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
     },
     {
       "video_id": "5oMktVm8vPM",
@@ -202,9 +198,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
       "duration": "PT27S",
       "duration_seconds": 27,
-      "view_count": 114355,
-      "like_count": 2422,
-      "comment_count": 153,
+      "view_count": 122607,
+      "like_count": 2585,
+      "comment_count": 159,
       "category_id": "20",
       "tags": [
         "Action",
@@ -221,28 +217,21 @@
       "url": "https://www.youtube.com/watch?v=5oMktVm8vPM"
     },
     {
-      "video_id": "_GETUovoU6I",
-      "title": "Your TERRIBLE Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nYour TERRIBLE Clips...\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-03-09T21:52:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_GETUovoU6I/hqdefault.jpg",
-      "duration": "PT55M57S",
-      "duration_seconds": 3357,
-      "view_count": 498162,
-      "like_count": 14995,
-      "comment_count": 758,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "Your TERRIBLE Clips...",
-        "jynxzi clips"
-      ],
-      "url": "https://www.youtube.com/watch?v=_GETUovoU6I"
+      "video_id": "aD5jZmnCn0I",
+      "title": "Gossip Boy",
+      "description": "As Alesia scrambles to bury a regrettable text, gossip spreads faster than she can contain it; Chef Ben finds his footing in the galley until a broken oven threatens to derail the charter and push him back into crisis mode.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-10T09:43:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aD5jZmnCn0I/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=aD5jZmnCn0I"
     }
   ],
   "videos_with_transcripts": [],
@@ -257,9 +246,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1055816,
-      "like_count": 62952,
-      "comment_count": 4318,
+      "view_count": 1135648,
+      "like_count": 65976,
+      "comment_count": 4460,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -276,13 +265,13 @@
       "url": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
     },
     {
-      "video_id": "478cXFufTBo",
-      "title": "The Five",
-      "description": "The Five features Dana Perino, Greg Gutfeld, Jesse Watters, Jessica Tarlov, and Harold Ford Jr. in a roundtable format. Five personalities discuss and debate hot topics from politics to pop culture. Each show ends with hosts choosing a topic for the One More Thing segment.",
+      "video_id": "_3rvTOG16NU",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-10T07:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/478cXFufTBo/hqdefault.jpg",
+      "published_at": "2026-03-10T08:52:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_3rvTOG16NU/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -290,7 +279,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=478cXFufTBo"
+      "url": "https://www.youtube.com/watch?v=_3rvTOG16NU"
     },
     {
       "video_id": "vPMcEabBQEU",
@@ -302,9 +291,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 1541269,
-      "like_count": 80716,
-      "comment_count": 3320,
+      "view_count": 1743069,
+      "like_count": 86603,
+      "comment_count": 3506,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -321,13 +310,30 @@
       "url": "https://www.youtube.com/watch?v=vPMcEabBQEU"
     },
     {
-      "video_id": "V3jFF8cyjqw",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T07:51:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V3jFF8cyjqw/hqdefault.jpg",
+      "video_id": "m9Eek4CedR4",
+      "title": "WCC Tournament: Oregon State vs. Gonzaga",
+      "description": "The Beavers and Bulldogs collide in a high-voltage WCC semifinal. Oregon State enters following a nail-biting 78-77 escape against San Francisco, while Gonzaga looks to dominate after a long rest period at the Orleans Arena in Las Vegas.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-10T10:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m9Eek4CedR4/hqdefault.jpg",
+      "duration": "PT1H57M1S",
+      "duration_seconds": 7021,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
+    },
+    {
+      "video_id": "rK8XgoNQdoQ",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-10T09:58:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rK8XgoNQdoQ/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -335,24 +341,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=V3jFF8cyjqw"
-    },
-    {
-      "video_id": "s-dQd56vbs0",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-10T07:40:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s-dQd56vbs0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=s-dQd56vbs0"
+      "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
     },
     {
       "video_id": "_t1eVpIFE1A",
@@ -364,9 +353,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_t1eVpIFE1A/hqdefault.jpg",
       "duration": "PT2M27S",
       "duration_seconds": 147,
-      "view_count": 584268,
-      "like_count": 9598,
-      "comment_count": 592,
+      "view_count": 636220,
+      "like_count": 10209,
+      "comment_count": 642,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -383,49 +372,38 @@
       "url": "https://www.youtube.com/watch?v=_t1eVpIFE1A"
     },
     {
-      "video_id": "pvAJ6NnPdMA",
-      "title": "Minecraft Speedrunner VS 6 Hunters",
-      "description": "Minecraft Speedrunner VS 6 Hunters. You asked for it. The continuation of the series. This was absolutely insane.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo: @thesaintsofgames \nGeorge: @GeorgeNotFound \nSapnap: @Sapnap \nAntfrost: @Antfrost \nawesamdude: @awesamdude \nCaptainPuffy: @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water R",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-03-08T18:53:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pvAJ6NnPdMA/hqdefault.jpg",
-      "duration": "PT1H9M5S",
-      "duration_seconds": 4145,
-      "view_count": 8202157,
-      "like_count": 475348,
-      "comment_count": 29107,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+      "video_id": "BZvdRlD_uDY",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-10T09:02:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BZvdRlD_uDY/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
     },
     {
-      "video_id": "_GETUovoU6I",
-      "title": "Your TERRIBLE Clips...",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nYour TERRIBLE Clips...\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-03-09T21:52:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_GETUovoU6I/hqdefault.jpg",
-      "duration": "PT55M57S",
-      "duration_seconds": 3357,
-      "view_count": 498162,
-      "like_count": 14995,
-      "comment_count": 758,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "Your TERRIBLE Clips...",
-        "jynxzi clips"
-      ],
-      "url": "https://www.youtube.com/watch?v=_GETUovoU6I"
+      "video_id": "aD5jZmnCn0I",
+      "title": "Gossip Boy",
+      "description": "As Alesia scrambles to bury a regrettable text, gossip spreads faster than she can contain it; Chef Ben finds his footing in the galley until a broken oven threatens to derail the charter and push him back into crisis mode.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-10T09:43:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aD5jZmnCn0I/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=aD5jZmnCn0I"
     },
     {
       "video_id": "Z73ZROKIF5Q",
@@ -437,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 366990,
-      "like_count": 26606,
-      "comment_count": 1567,
+      "view_count": 380449,
+      "like_count": 27131,
+      "comment_count": 1601,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -461,9 +439,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5oMktVm8vPM/hqdefault.jpg",
       "duration": "PT27S",
       "duration_seconds": 27,
-      "view_count": 114355,
-      "like_count": 2422,
-      "comment_count": 153,
+      "view_count": 122607,
+      "like_count": 2585,
+      "comment_count": 159,
       "category_id": "20",
       "tags": [
         "Action",
@@ -483,48 +461,89 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "insights": {
-        "content_trends": {
-          "1": {
-            "trend": "Trailers and Teasers",
-            "description": "Out of 10 videos, 4 are related to trailers or teasers, indicating a strong audience interest in upcoming media releases.",
-            "action": "Content creators and brands should focus on creating engaging trailers and teasers for upcoming releases to capture viewer interest."
+      "overview": {
+        "total_videos": 10,
+        "total_views": 4017993,
+        "average_views_per_video": 401799.3
+      },
+      "category_analysis": {
+        "categories": [
+          "Entertainment",
+          "News",
+          "Sports",
+          "Gaming"
+        ],
+        "insights": [
+          {
+            "category": "Entertainment",
+            "observations": "High representation with trailers for movies and series, indicating a strong interest in upcoming releases."
           },
-          "2": {
-            "trend": "News and Current Events",
-            "description": "2 videos relate to news and global reports, suggesting that timely content on current events can drive significant viewership.",
-            "action": "Consider producing content that provides in-depth analysis or unique perspectives on current events to attract viewers seeking informative content."
+          {
+            "category": "News",
+            "observations": "Presence of news channels like FOX News and MSNBC shows the continuous demand for political and current events content."
           },
-          "3": {
-            "trend": "Gaming Content",
-            "description": "2 videos are related to gaming, specifically Fortnite and Minecraft, indicating strong engagement with gaming communities.",
-            "action": "Leverage the gaming trend by creating content around popular games, collaborations with gaming influencers, or behind-the-scenes gaming content."
+          {
+            "category": "Sports",
+            "observations": "Sports content, such as the WCC Tournament, captures audience interest in live events."
+          },
+          {
+            "category": "Gaming",
+            "observations": "Gaming content, especially from Fortnite, shows the ongoing popularity and engagement in the gaming community."
           }
+        ]
+      },
+      "title_analysis": {
+        "trailer_dominance": {
+          "count": 4,
+          "percentage": 40,
+          "insights": "Trailers for movies, series, and games constitute a significant portion, highlighting anticipation-driven viewership."
         },
-        "creator_patterns": {
-          "1": {
-            "pattern": "Diverse Content Creators",
-            "description": "Top channels feature a mix of entertainment, news, and gaming, showing a diverse creator landscape.",
-            "action": "Encourage content creators to explore cross-genre content to reach broader audiences and tap into multiple interest groups."
-          },
-          "2": {
-            "pattern": "High Engagement with Established Brands",
-            "description": "Channels like Nintendo, Netflix, and CNN maintain high engagement, showing strong viewer loyalty.",
-            "action": "New creators can partner with established brands for collaborations to leverage their audience reach and credibility."
-          }
-        },
-        "market_opportunities": {
-          "1": {
-            "opportunity": "Interactive Content",
-            "description": "With the rise of gaming and interactive storytelling, there is potential for interactive content that engages viewers actively.",
-            "action": "Develop content that allows audience participation, such as live Q&A sessions, interactive polls, or choose-your-own-adventure formats."
-          },
-          "2": {
-            "opportunity": "Localized News Content",
-            "description": "Given the interest in global reports, there is a market for localized news content that addresses regional issues with a global context.",
-            "action": "Create content that connects global news to local audiences by focusing on regional implications and reactions."
-          }
+        "news_shows": {
+          "count": 2,
+          "percentage": 20,
+          "insights": "Consistent interest in news content, providing opportunities for timely and contextual content creation."
         }
+      },
+      "channel_analysis": {
+        "top_channels": [
+          "Nintendo of America",
+          "FOX News",
+          "Netflix",
+          "ESPN",
+          "Fortnite"
+        ],
+        "insights": [
+          {
+            "channel": "Nintendo of America",
+            "observations": "Leverages popular franchises to generate high engagement with trailers."
+          },
+          {
+            "channel": "Fortnite",
+            "observations": "Maintains its position as a cultural phenomenon with teaser trailers that attract significant attention."
+          }
+        ]
+      },
+      "market_opportunities": {
+        "emerging_trends": [
+          {
+            "trend": "Cross-media Content",
+            "description": "The integration of gaming, movies, and series in trailers suggests opportunities for cross-promotional content."
+          },
+          {
+            "trend": "Timely News",
+            "description": "Rapidly changing political landscapes present opportunities for news channels to capitalize on fresh, timely content."
+          }
+        ],
+        "content_recommendations": [
+          {
+            "content_type": "Behind-the-scenes",
+            "justification": "Increased interest in trailers indicates potential success for behind-the-scenes content that deepens engagement."
+          },
+          {
+            "content_type": "Interactive Gaming Events",
+            "justification": "The popularity of Fortnite trailers suggests a market for live, interactive gaming experiences."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -532,7 +551,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1236301
+        "avg_views_per_video": 401799
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
