@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T18:24:51.742771",
+  "timestamp": "2026-03-10T21:15:01.317757",
   "date": "2026-03-10",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1344384,
-      "like_count": 73787,
-      "comment_count": 4964,
+      "view_count": 1460516,
+      "like_count": 77716,
+      "comment_count": 5163,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 2092054,
-      "like_count": 96470,
-      "comment_count": 3766,
+      "view_count": 2223921,
+      "like_count": 99579,
+      "comment_count": 3876,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -103,28 +103,25 @@
       "url": "https://www.youtube.com/watch?v=K5FwbGoUc00"
     },
     {
-      "video_id": "Z73ZROKIF5Q",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-      "description": "The Showdown begins March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-09T13:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
-      "duration": "PT26S",
-      "duration_seconds": 26,
-      "view_count": 418648,
-      "like_count": 28124,
-      "comment_count": 1649,
+      "video_id": "3ntfjZGgm04",
+      "title": "Minecraft LIVE Official Trailer – March 2026",
+      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-10T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 272407,
+      "like_count": 29759,
+      "comment_count": 2380,
       "category_id": "20",
       "tags": [
-        "yt:cc=on",
-        "fortnite",
-        "epic games",
-        "fortnite battle royale",
-        "fortnite chapter 7",
-        "showdown"
+        "Minecraft",
+        "Minecraft live",
+        "Minecraft live 2026"
       ],
-      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
+      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
     },
     {
       "video_id": "m9Eek4CedR4",
@@ -144,25 +141,28 @@
       "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
     },
     {
-      "video_id": "3ntfjZGgm04",
-      "title": "Minecraft LIVE Official Trailer – March 2026",
-      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-10T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
-      "duration": "PT1M2S",
-      "duration_seconds": 62,
-      "view_count": 158849,
-      "like_count": 23131,
-      "comment_count": 1966,
+      "video_id": "Z73ZROKIF5Q",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
+      "description": "The Showdown begins March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-09T13:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
+      "duration": "PT26S",
+      "duration_seconds": 26,
+      "view_count": 439058,
+      "like_count": 28628,
+      "comment_count": 1680,
       "category_id": "20",
       "tags": [
-        "Minecraft",
-        "Minecraft live",
-        "Minecraft live 2026"
+        "yt:cc=on",
+        "fortnite",
+        "epic games",
+        "fortnite battle royale",
+        "fortnite chapter 7",
+        "showdown"
       ],
-      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
+      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
     },
     {
       "video_id": "rK8XgoNQdoQ",
@@ -191,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 70757,
-      "like_count": 5621,
-      "comment_count": 499,
+      "view_count": 173278,
+      "like_count": 8940,
+      "comment_count": 761,
       "category_id": "24",
       "tags": [
         "From",
@@ -239,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1344384,
-      "like_count": 73787,
-      "comment_count": 4964,
+      "view_count": 1460516,
+      "like_count": 77716,
+      "comment_count": 5163,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -284,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vPMcEabBQEU/hqdefault.jpg",
       "duration": "PT2M11S",
       "duration_seconds": 131,
-      "view_count": 2092054,
-      "like_count": 96470,
-      "comment_count": 3766,
+      "view_count": 2223921,
+      "like_count": 99579,
+      "comment_count": 3876,
       "category_id": "24",
       "tags": [
         "Anna Cathcart",
@@ -320,6 +320,27 @@
       "url": "https://www.youtube.com/watch?v=K5FwbGoUc00"
     },
     {
+      "video_id": "3ntfjZGgm04",
+      "title": "Minecraft LIVE Official Trailer – March 2026",
+      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-10T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
+      "duration": "PT1M2S",
+      "duration_seconds": 62,
+      "view_count": 272407,
+      "like_count": 29759,
+      "comment_count": 2380,
+      "category_id": "20",
+      "tags": [
+        "Minecraft",
+        "Minecraft live",
+        "Minecraft live 2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
+    },
+    {
       "video_id": "m9Eek4CedR4",
       "title": "WCC Tournament: Oregon State vs. Gonzaga",
       "description": "The Beavers and Bulldogs collide in a high-voltage WCC semifinal. Oregon State enters following a nail-biting 78-77 escape against San Francisco, while Gonzaga looks to dominate after a long rest period at the Orleans Arena in Las Vegas.",
@@ -335,27 +356,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=m9Eek4CedR4"
-    },
-    {
-      "video_id": "3ntfjZGgm04",
-      "title": "Minecraft LIVE Official Trailer – March 2026",
-      "description": "Minecraft LIVE is coming on March 21 at 1pm EDT / 7pm CEST! Get the scoop on upcoming game drops from our developers, go behind the scenes, meet awesome guests, and discover exciting stuff to come. Grab a snack and tune in",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-10T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
-      "duration": "PT1M2S",
-      "duration_seconds": 62,
-      "view_count": 158849,
-      "like_count": 23131,
-      "comment_count": 1966,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Minecraft live",
-        "Minecraft live 2026"
-      ],
-      "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
     },
     {
       "video_id": "rK8XgoNQdoQ",
@@ -384,9 +384,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 70757,
-      "like_count": 5621,
-      "comment_count": 499,
+      "view_count": 173278,
+      "like_count": 8940,
+      "comment_count": 761,
       "category_id": "24",
       "tags": [
         "From",
@@ -429,9 +429,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 418648,
-      "like_count": 28124,
-      "comment_count": 1649,
+      "view_count": 439058,
+      "like_count": 28628,
+      "comment_count": 1680,
       "category_id": "20",
       "tags": [
         "yt:cc=on",
@@ -447,61 +447,77 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "trailer_content": {
-          "description": "Trailers continue to be highly engaging, with multiple entries in the trending list. This includes movie trailers, TV series previews, and video game teasers.",
-          "data_points": [
-            "The Super Mario Galaxy Movie – Final Trailer",
-            "XO, Kitty: Season 3 | Official Trailer | Netflix",
-            "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-            "Minecraft LIVE Official Trailer – March 2026",
-            "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno"
-          ],
-          "insight": "The presence of trailers indicates a strong viewer interest in upcoming media releases. This suggests that creating teaser content for upcoming projects can drive viewer engagement."
+      "trending_patterns_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 4569180,
+          "average_views_per_video": 456918,
+          "categories": "Unknown"
         },
-        "sports_content": {
-          "description": "Sports content, including live games and tournaments, is a significant part of the trending content.",
-          "data_points": [
-            "Denver Nuggets at Oklahoma City Thunder",
-            "WCC Tournament: Oregon State vs. Gonzaga",
-            "Cuba vs. Puerto Rico"
+        "content_trends": {
+          "dominant_video_formats": [
+            "Trailers",
+            "Sports Highlights",
+            "News Shows"
           ],
-          "insight": "Sports content remains a consistent draw for viewers, suggesting opportunities for content creators to collaborate with sports leagues or provide analysis and commentary on trending games."
+          "observations": [
+            {
+              "trend": "High interest in trailers",
+              "details": "4 out of 10 videos are trailers for movies, series, or games, indicating strong viewer interest in upcoming media content."
+            },
+            {
+              "trend": "Sports content",
+              "details": "2 videos are related to sports, highlighting the ongoing engagement with live events and sports news."
+            },
+            {
+              "trend": "News and Current Affairs",
+              "details": "2 videos in the list are news-related, suggesting consistent viewer demand for current affairs content."
+            }
+          ]
         },
-        "news_and_opinion": {
-          "description": "News shows and opinion pieces are also trending, highlighting the audience's interest in current events.",
-          "data_points": [
-            "Jesse Watters Primetime",
-            "The Rachel Maddow Show"
-          ],
-          "insight": "News and opinion content remains relevant, especially in politically charged climates. This suggests potential for growth in content focused on current events analysis and opinion."
-        }
-      },
-      "creator_patterns": {
-        "dominant_platforms": {
-          "description": "Major entertainment and news channels are leading the trending list.",
-          "data_points": [
+        "creator_patterns": {
+          "leading_channels": [
             "Nintendo of America",
             "FOX News",
             "Netflix",
             "NBCSN",
-            "Fortnite"
+            "Minecraft"
           ],
-          "insight": "Large, well-established channels continue to dominate trending content. This indicates that collaboration with these channels or similarly sized creators could increase visibility."
+          "channel_insights": [
+            {
+              "channel": "Nintendo of America",
+              "content_focus": "Gaming and Entertainment",
+              "opportunity": "Leverage the gaming community with more interactive and behind-the-scenes content."
+            },
+            {
+              "channel": "FOX News",
+              "content_focus": "News",
+              "opportunity": "Expand into digital-first news segments tailored for YouTube audiences."
+            },
+            {
+              "channel": "Netflix",
+              "content_focus": "Series and Movie Promotions",
+              "opportunity": "Enhance engagement with exclusive interviews and behind-the-scenes content."
+            }
+          ]
         },
-        "diverse_content": {
-          "description": "The variety in content type (trailers, news, sports) suggests a diverse audience with varied interests.",
-          "insight": "Content creators should consider diversifying their content offerings to capture a broader audience base. This could involve branching into different content genres or collaborating with creators from different niches."
-        }
-      },
-      "market_opportunities": {
-        "emerging_trends": {
-          "description": "High engagement for trailers and sports content highlights areas for growth.",
-          "insight": "Creators can capitalize on the hype for new releases by producing related content such as reaction videos, reviews, or behind-the-scenes footage. Additionally, sports-related content, including analysis and fan interactions, presents an opportunity for increased engagement."
-        },
-        "strategic_partnerships": {
-          "description": "Partnering with trending channels could enhance reach.",
-          "insight": "Strategic partnerships with trending channels can provide access to a larger audience and increased content visibility. Such collaborations could include co-branded content or guest appearances."
+        "market_opportunities": {
+          "untapped_potential": [
+            {
+              "opportunity": "Cross-category content",
+              "strategy": "Create content that blends popular categories, such as sports documentaries or gaming meets news."
+            },
+            {
+              "opportunity": "Interactive content",
+              "strategy": "Develop interactive content formats like polls, live discussions, and Q&A sessions to increase viewer interaction."
+            }
+          ],
+          "audience_engagement": [
+            {
+              "method": "Utilize community features",
+              "suggestion": "Encourage engagement through YouTube's community tab and live chat features to build a loyal audience base."
+            }
+          ]
         }
       },
       "metadata_stats": {
@@ -510,7 +526,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 408469
+        "avg_views_per_video": 456918
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
