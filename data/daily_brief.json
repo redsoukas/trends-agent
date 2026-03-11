@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-11T00:41:19.825279",
+  "timestamp": "2026-03-11T03:52:06.658090",
   "date": "2026-03-11",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1606753,
-      "like_count": 81874,
-      "comment_count": 5412,
+      "view_count": 1730644,
+      "like_count": 84497,
+      "comment_count": 5554,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
     },
     {
-      "video_id": "_3rvTOG16NU",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "ZU4Z5vgV2Xo",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-10T08:52:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_3rvTOG16NU/hqdefault.jpg",
+      "published_at": "2026-03-11T01:47:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZU4Z5vgV2Xo/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_3rvTOG16NU"
+      "url": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
     },
     {
       "video_id": "bth5JO94ir8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bth5JO94ir8/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 244774,
-      "like_count": 6846,
-      "comment_count": 795,
+      "view_count": 314104,
+      "like_count": 7812,
+      "comment_count": 884,
       "category_id": "24",
       "tags": [
         "Action Show",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
       "duration": "PT1M2S",
       "duration_seconds": 62,
-      "view_count": 374123,
-      "like_count": 34170,
-      "comment_count": 2629,
+      "view_count": 423661,
+      "like_count": 36005,
+      "comment_count": 2765,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -124,21 +124,32 @@
       "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
     },
     {
-      "video_id": "8E5XZUwa7xQ",
-      "title": "Get Up",
-      "description": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company's New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio's longtime \"Mike & Mike\" morning show.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-10T22:13:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8E5XZUwa7xQ/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8E5XZUwa7xQ"
+      "video_id": "IL1au4nrqD0",
+      "title": "I'M BEING WATCHED..",
+      "description": "Today in Roblox Tyler & Snowi meet THE SCARIEST MEME GIANTS! 😱 Can we survive GIANT TUNG TUNG SAHUR, SONIC.EXE, SCARY BLUEY AND MORE?! This ROBLOX OBBY GAME has so many FUNNY MOMENTS! 👉Don't forget to SUBSCRIBE & leave a like 👍 if you enjoyed!\n\nJoin our Roblox Group here! https://www.roblox.com/groups/15659093/Tyler-and-Snowi\n\n#funnymoments #cartoon #roblox  \n[0919]",
+      "channel_title": "Tyler & Snowi",
+      "channel_id": "UCzzF1kdBgwv5RB6rbB6kVSA",
+      "published_at": "2026-03-10T23:14:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IL1au4nrqD0/hqdefault.jpg",
+      "duration": "PT18M39S",
+      "duration_seconds": 1119,
+      "view_count": 181368,
+      "like_count": 7956,
+      "comment_count": 161,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "funny moments",
+        "tyler and snowi",
+        "tyler & snowi",
+        "roblox funny moments",
+        "funny",
+        "moments",
+        "roblox funny games",
+        "roblox funny videos",
+        "roblox obby"
+      ],
+      "url": "https://www.youtube.com/watch?v=IL1au4nrqD0"
     },
     {
       "video_id": "AoBy5YGYhaM",
@@ -150,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 281187,
-      "like_count": 10964,
-      "comment_count": 943,
+      "view_count": 323528,
+      "like_count": 11646,
+      "comment_count": 977,
       "category_id": "24",
       "tags": [
         "From",
@@ -169,62 +180,88 @@
       "url": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
     },
     {
-      "video_id": "rK8XgoNQdoQ",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-10T09:58:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rK8XgoNQdoQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
-    },
-    {
-      "video_id": "Z73ZROKIF5Q",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-      "description": "The Showdown begins March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-09T13:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
-      "duration": "PT26S",
-      "duration_seconds": 26,
-      "view_count": 463862,
-      "like_count": 29106,
-      "comment_count": 1713,
+      "video_id": "m0K2HV50fIM",
+      "title": "Minecraft Trapper VS Elite Bounty Hunters",
+      "description": "On the Unstable SMP, I was attacked by elite bounty hunters with unintelligible names and completely blank skins. This is how I fought back as a Minecraft Trapper...\n\nMinecraft Trapper VS Elite Bounty Hunters\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nmusic: \nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nCameron 'Caero' Munoz\nC418 / @C418\nJohan Johnson\nPeter Hont\nCrispin Hands\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nwritten, recorded, & edited by spoke",
+      "channel_title": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "published_at": "2026-03-10T19:58:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m0K2HV50fIM/hqdefault.jpg",
+      "duration": "PT1H14M5S",
+      "duration_seconds": 4445,
+      "view_count": 603339,
+      "like_count": 44647,
+      "comment_count": 9228,
       "category_id": "20",
       "tags": [
-        "yt:cc=on",
-        "fortnite",
-        "epic games",
-        "fortnite battle royale",
-        "fortnite chapter 7",
-        "showdown"
+        "spoke",
+        "spokeishere",
+        "lifesteal",
+        "minecraft",
+        "survival",
+        "wormhole",
+        "unstable",
+        "unstable universe",
+        "wemmbu",
+        "parrotx2"
       ],
-      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
+      "url": "https://www.youtube.com/watch?v=m0K2HV50fIM"
     },
     {
-      "video_id": "KrUedokFeS8",
-      "title": "CNN News Central",
-      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T21:46:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KrUedokFeS8/hqdefault.jpg",
-      "duration": "PT58M31S",
-      "duration_seconds": 3511,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=KrUedokFeS8"
+      "video_id": "IQL1AQ-j2pc",
+      "title": "Michael (2026) Early Access Event | Extended Spot - Jaafar Jackson",
+      "description": "MICHAEL – in theaters and IMAX April 24, 2026. Starring Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi, with Miles Teller, and Colman Domingo.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/michaelmovie/\nhttps://www.facebook.com/michaelmovie\nhttps://x.com/michaelmovie\nhttps://www.tiktok.com/@michaelthemovie\nhttps://www.threads.com/@michaelmovie\n\n#MichaelMovie\n\nMICHAEL is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The film tells the story of Michael Jackson’s life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world. Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film giv",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-03-10T16:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IQL1AQ-j2pc/hqdefault.jpg",
+      "duration": "PT1M16S",
+      "duration_seconds": 76,
+      "view_count": 128528,
+      "like_count": 9058,
+      "comment_count": 492,
+      "category_id": "1",
+      "tags": [
+        "Michael",
+        "Michael 2026",
+        "Michael Jackson",
+        "Antoine Fuqua",
+        "John Logan",
+        "Jaafar Jackson",
+        "Colman Domingo",
+        "Nia Long",
+        "Miles Teller",
+        "Laura Harrier"
+      ],
+      "url": "https://www.youtube.com/watch?v=IQL1AQ-j2pc"
+    },
+    {
+      "video_id": "Qnuxh0y1Yzg",
+      "title": "DO NOT Play This Golf Game with Your Friends",
+      "description": "Good thing no one in the video is my friend\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Kryoz \nhttps://www.twitch.tv/jericho\nhttps://www.twitch.tv/EliLikesRice\nhttps://www.twitch.tv/fl0m\n\n🎵 Music by:\nhttp://www.",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-03-10T21:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qnuxh0y1Yzg/hqdefault.jpg",
+      "duration": "PT35M11S",
+      "duration_seconds": 2111,
+      "view_count": 296556,
+      "like_count": 23551,
+      "comment_count": 803,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "super battle golf",
+        "super battle golf gameplay",
+        "super battle golf funny moments",
+        "super battle golf game",
+        "golf",
+        "super battle golf new"
+      ],
+      "url": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LX9kXRRJlPw/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 1606753,
-      "like_count": 81874,
-      "comment_count": 5412,
+      "view_count": 1730644,
+      "like_count": 84497,
+      "comment_count": 5554,
       "category_id": "1",
       "tags": [
         "nintendo",
@@ -258,13 +295,13 @@
       "url": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
     },
     {
-      "video_id": "_3rvTOG16NU",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "ZU4Z5vgV2Xo",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-10T08:52:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_3rvTOG16NU/hqdefault.jpg",
+      "published_at": "2026-03-11T01:47:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZU4Z5vgV2Xo/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -272,7 +309,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_3rvTOG16NU"
+      "url": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
     },
     {
       "video_id": "bth5JO94ir8",
@@ -284,9 +321,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bth5JO94ir8/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 244774,
-      "like_count": 6846,
-      "comment_count": 795,
+      "view_count": 314104,
+      "like_count": 7812,
+      "comment_count": 884,
       "category_id": "24",
       "tags": [
         "Action Show",
@@ -329,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3ntfjZGgm04/hqdefault.jpg",
       "duration": "PT1M2S",
       "duration_seconds": 62,
-      "view_count": 374123,
-      "like_count": 34170,
-      "comment_count": 2629,
+      "view_count": 423661,
+      "like_count": 36005,
+      "comment_count": 2765,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -341,21 +378,32 @@
       "url": "https://www.youtube.com/watch?v=3ntfjZGgm04"
     },
     {
-      "video_id": "8E5XZUwa7xQ",
-      "title": "Get Up",
-      "description": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company's New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio's longtime \"Mike & Mike\" morning show.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-10T22:13:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8E5XZUwa7xQ/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8E5XZUwa7xQ"
+      "video_id": "IL1au4nrqD0",
+      "title": "I'M BEING WATCHED..",
+      "description": "Today in Roblox Tyler & Snowi meet THE SCARIEST MEME GIANTS! 😱 Can we survive GIANT TUNG TUNG SAHUR, SONIC.EXE, SCARY BLUEY AND MORE?! This ROBLOX OBBY GAME has so many FUNNY MOMENTS! 👉Don't forget to SUBSCRIBE & leave a like 👍 if you enjoyed!\n\nJoin our Roblox Group here! https://www.roblox.com/groups/15659093/Tyler-and-Snowi\n\n#funnymoments #cartoon #roblox  \n[0919]",
+      "channel_title": "Tyler & Snowi",
+      "channel_id": "UCzzF1kdBgwv5RB6rbB6kVSA",
+      "published_at": "2026-03-10T23:14:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IL1au4nrqD0/hqdefault.jpg",
+      "duration": "PT18M39S",
+      "duration_seconds": 1119,
+      "view_count": 181368,
+      "like_count": 7956,
+      "comment_count": 161,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "funny moments",
+        "tyler and snowi",
+        "tyler & snowi",
+        "roblox funny moments",
+        "funny",
+        "moments",
+        "roblox funny games",
+        "roblox funny videos",
+        "roblox obby"
+      ],
+      "url": "https://www.youtube.com/watch?v=IL1au4nrqD0"
     },
     {
       "video_id": "AoBy5YGYhaM",
@@ -367,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AoBy5YGYhaM/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 281187,
-      "like_count": 10964,
-      "comment_count": 943,
+      "view_count": 323528,
+      "like_count": 11646,
+      "comment_count": 977,
       "category_id": "24",
       "tags": [
         "From",
@@ -386,97 +434,179 @@
       "url": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
     },
     {
-      "video_id": "rK8XgoNQdoQ",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-10T09:58:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rK8XgoNQdoQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
-    },
-    {
-      "video_id": "KrUedokFeS8",
-      "title": "CNN News Central",
-      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-10T21:46:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KrUedokFeS8/hqdefault.jpg",
-      "duration": "PT58M31S",
-      "duration_seconds": 3511,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=KrUedokFeS8"
-    },
-    {
-      "video_id": "Z73ZROKIF5Q",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
-      "description": "The Showdown begins March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-09T13:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z73ZROKIF5Q/hqdefault.jpg",
-      "duration": "PT26S",
-      "duration_seconds": 26,
-      "view_count": 463862,
-      "like_count": 29106,
-      "comment_count": 1713,
+      "video_id": "m0K2HV50fIM",
+      "title": "Minecraft Trapper VS Elite Bounty Hunters",
+      "description": "On the Unstable SMP, I was attacked by elite bounty hunters with unintelligible names and completely blank skins. This is how I fought back as a Minecraft Trapper...\n\nMinecraft Trapper VS Elite Bounty Hunters\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nmusic: \nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nCameron 'Caero' Munoz\nC418 / @C418\nJohan Johnson\nPeter Hont\nCrispin Hands\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nwritten, recorded, & edited by spoke",
+      "channel_title": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "published_at": "2026-03-10T19:58:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m0K2HV50fIM/hqdefault.jpg",
+      "duration": "PT1H14M5S",
+      "duration_seconds": 4445,
+      "view_count": 603339,
+      "like_count": 44647,
+      "comment_count": 9228,
       "category_id": "20",
       "tags": [
-        "yt:cc=on",
-        "fortnite",
-        "epic games",
-        "fortnite battle royale",
-        "fortnite chapter 7",
-        "showdown"
+        "spoke",
+        "spokeishere",
+        "lifesteal",
+        "minecraft",
+        "survival",
+        "wormhole",
+        "unstable",
+        "unstable universe",
+        "wemmbu",
+        "parrotx2"
       ],
-      "url": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
+      "url": "https://www.youtube.com/watch?v=m0K2HV50fIM"
+    },
+    {
+      "video_id": "IQL1AQ-j2pc",
+      "title": "Michael (2026) Early Access Event | Extended Spot - Jaafar Jackson",
+      "description": "MICHAEL – in theaters and IMAX April 24, 2026. Starring Jaafar Jackson, Nia Long, Laura Harrier, Juliano Valdi, with Miles Teller, and Colman Domingo.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/michaelmovie/\nhttps://www.facebook.com/michaelmovie\nhttps://x.com/michaelmovie\nhttps://www.tiktok.com/@michaelthemovie\nhttps://www.threads.com/@michaelmovie\n\n#MichaelMovie\n\nMICHAEL is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The film tells the story of Michael Jackson’s life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world. Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film giv",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-03-10T16:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IQL1AQ-j2pc/hqdefault.jpg",
+      "duration": "PT1M16S",
+      "duration_seconds": 76,
+      "view_count": 128528,
+      "like_count": 9058,
+      "comment_count": 492,
+      "category_id": "1",
+      "tags": [
+        "Michael",
+        "Michael 2026",
+        "Michael Jackson",
+        "Antoine Fuqua",
+        "John Logan",
+        "Jaafar Jackson",
+        "Colman Domingo",
+        "Nia Long",
+        "Miles Teller",
+        "Laura Harrier"
+      ],
+      "url": "https://www.youtube.com/watch?v=IQL1AQ-j2pc"
+    },
+    {
+      "video_id": "Qnuxh0y1Yzg",
+      "title": "DO NOT Play This Golf Game with Your Friends",
+      "description": "Good thing no one in the video is my friend\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Kryoz \nhttps://www.twitch.tv/jericho\nhttps://www.twitch.tv/EliLikesRice\nhttps://www.twitch.tv/fl0m\n\n🎵 Music by:\nhttp://www.",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-03-10T21:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qnuxh0y1Yzg/hqdefault.jpg",
+      "duration": "PT35M11S",
+      "duration_seconds": 2111,
+      "view_count": 296556,
+      "like_count": 23551,
+      "comment_count": 803,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "super battle golf",
+        "super battle golf gameplay",
+        "super battle golf funny moments",
+        "super battle golf game",
+        "golf",
+        "super battle golf new"
+      ],
+      "url": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment_and_gaming": 0.5,
-        "news_and_current_affairs": 0.3,
-        "sports": 0.2,
-        "insight": "Entertainment and gaming content dominate the trending videos, accounting for 50% of the content. This suggests a strong viewer interest in trailers and teasers for upcoming movies, series, and games."
+      "total_videos": 10,
+      "total_views": 4001728,
+      "categories": "Unknown",
+      "trending_patterns": {
+        "content_genres": [
+          {
+            "genre": "Entertainment",
+            "examples": [
+              "The Super Mario Galaxy Movie – Final Trailer",
+              "Man on Fire | Official Teaser | Netflix",
+              "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno",
+              "Michael (2026) Early Access Event | Extended Spot - Jaafar Jackson"
+            ],
+            "insights": "Entertainment content, especially movie trailers and teasers, is highly engaging and drives significant viewership. This suggests a strong market for promotional video content related to upcoming films and series."
+          },
+          {
+            "genre": "Gaming",
+            "examples": [
+              "Minecraft LIVE Official Trailer – March 2026",
+              "Minecraft Trapper VS Elite Bounty Hunters",
+              "DO NOT Play This Golf Game with Your Friends"
+            ],
+            "insights": "Gaming content remains a staple trend on YouTube. The presence of Minecraft-related videos indicates the game's ongoing popularity and the community's engagement with both official and user-generated content."
+          },
+          {
+            "genre": "News",
+            "examples": [
+              "America's Newsroom",
+              "Denver Nuggets at Oklahoma City Thunder"
+            ],
+            "insights": "News and live sports broadcasts continue to attract viewers, highlighting the importance of timely and current content. Channels offering real-time updates or live events have a consistent audience base."
+          },
+          {
+            "genre": "Thriller/Suspense",
+            "examples": [
+              "I'M BEING WATCHED.."
+            ],
+            "insights": "Unique and suspenseful content draws niche audiences, suggesting opportunities for creators to explore thriller genres for engagement."
+          }
+        ]
       },
       "creator_patterns": {
-        "established_brands": 0.5,
-        "news_outlets": 0.3,
-        "sports_channels": 0.1,
-        "insight": "Established brands and news outlets are major contributors to trending content. Channels like Nintendo of America and FOX News leverage their large followings and brand recognition to maintain viewer interest."
+        "top_channels": [
+          {
+            "channel_name": "Nintendo of America",
+            "video_count": 1,
+            "insights": "Nintendo's influence in the gaming sector is significant, and their content often trends due to a dedicated fan base."
+          },
+          {
+            "channel_name": "FOX News",
+            "video_count": 1,
+            "insights": "FOX News's presence indicates the ongoing demand for news content, especially from established and trusted sources."
+          },
+          {
+            "channel_name": "Netflix",
+            "video_count": 1,
+            "insights": "Netflix's strategy of releasing teasers and trailers for upcoming content effectively builds anticipation and maintains viewer engagement."
+          },
+          {
+            "channel_name": "NBCSN",
+            "video_count": 1,
+            "insights": "Sports channels like NBCSN benefit from live event coverage, suggesting potential growth in sports content, particularly in live streaming."
+          },
+          {
+            "channel_name": "Minecraft",
+            "video_count": 1,
+            "insights": "The official Minecraft channel trends due to its large community and the game's enduring popularity, pointing to opportunities for collaborative content."
+          }
+        ]
       },
       "market_opportunities": {
-        "cross_promotional_content": {
-          "opportunity": "Collaboration between gaming franchises and streaming services could leverage both audiences.",
-          "actionable_insight": "Creators can explore partnerships to release exclusive trailers or behind-the-scenes content on YouTube to tap into the existing fanbase of both brands."
+        "entertainment": {
+          "opportunity": "Create engaging trailers and behind-the-scenes content for upcoming films and series to capture audience interest."
         },
-        "diversified_content_formats": {
-          "opportunity": "Explore diverse content formats like live-streaming and interactive content.",
-          "actionable_insight": "Consider producing content that encourages audience interaction, such as live Q&A sessions or interactive polls during news segments to increase engagement."
+        "gaming": {
+          "opportunity": "Develop content around popular games like Minecraft, including gameplay tips, challenges, and community events."
         },
-        "sports_content_expansion": {
-          "opportunity": "Capitalize on the growing interest in sports-related content.",
-          "actionable_insight": "Create highlight reels, player interviews, and behind-the-scenes content to engage sports fans outside of live games."
+        "news": {
+          "opportunity": "Focus on timely news content with live updates to capture audiences interested in current events."
+        },
+        "sports": {
+          "opportunity": "Leverage live sports coverage and highlight reels to attract sports enthusiasts."
+        },
+        "thriller": {
+          "opportunity": "Explore thriller and suspense genres with creative storytelling to engage niche audiences."
         }
-      },
-      "viewer_engagement": {
-        "total_views": 2970699,
-        "average_views_per_video": 297070,
-        "insight": "The average view count per video indicates substantial viewer engagement, particularly for high-interest categories like gaming and entertainment."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -484,7 +614,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 297069
+        "avg_views_per_video": 400172
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
