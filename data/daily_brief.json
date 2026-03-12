@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-12T09:22:57.519855",
+  "timestamp": "2026-03-12T12:21:33.384358",
   "date": "2026-03-12",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,12 +22,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H2-COHpS7AU/hqdefault.jpg",
       "duration": "PT11M59S",
       "duration_seconds": 719,
-      "view_count": 266886,
-      "like_count": 6743,
-      "comment_count": 481,
+      "view_count": 286645,
+      "like_count": 7105,
+      "comment_count": 490,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H2-COHpS7AU"
+    },
+    {
+      "video_id": "7YJac_d8DL4",
+      "title": "Italy vs. Mexico",
+      "description": "From Daikin Park in Houston.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-12T08:59:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7YJac_d8DL4/hqdefault.jpg",
+      "duration": "PT3H34M16S",
+      "duration_seconds": 12856,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
+    },
+    {
+      "video_id": "gMC8kkwbIQQ",
+      "title": "Obsession | Official Trailer",
+      "description": "You wished for this. Official trailer for OBSESSION, only in theaters May 15.\nText 724-876-4554 🖤\n\nWritten and directed by Curry Barker\nStarring Michael Johnston, Inde Navarrette, Cooper Tomlinson, and Megan Lawless\n\n///\n\nGET IN THE VAN\n\nBlumhouse’s The Van is driven by all things horror.\n\nRide shotgun with hardcore fans as we off-road into horror’s furthest reaches with subscriber exclusives, first looks, and cool surprises.\n\nSign up now at https://bit.ly/blumhouse-get-in-the-van-YT\n\nAlso explore:\n\nBlumhouse’s Full Catalogue → https://bit.ly/blumhouse-catalog-YT\n\nBlumhouse Television → https://bit.ly/blumhouse-television-YT\n\nBlumhouse Games → https://bit.ly/blumhouse-games-YT",
+      "channel_title": "Blumhouse",
+      "channel_id": "UCCEfOHkckMXnoZQAjUZsMig",
+      "published_at": "2026-03-11T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gMC8kkwbIQQ/hqdefault.jpg",
+      "duration": "PT2M14S",
+      "duration_seconds": 134,
+      "view_count": 267643,
+      "like_count": 0,
+      "comment_count": 929,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
       "video_id": "GguNvOK05fM",
@@ -47,40 +81,6 @@
       "url": "https://www.youtube.com/watch?v=GguNvOK05fM"
     },
     {
-      "video_id": "gMC8kkwbIQQ",
-      "title": "Obsession | Official Trailer",
-      "description": "You wished for this. Official trailer for OBSESSION, only in theaters May 15.\nText 724-876-4554 🖤\n\nWritten and directed by Curry Barker\nStarring Michael Johnston, Inde Navarrette, Cooper Tomlinson, and Megan Lawless\n\n///\n\nGET IN THE VAN\n\nBlumhouse’s The Van is driven by all things horror.\n\nRide shotgun with hardcore fans as we off-road into horror’s furthest reaches with subscriber exclusives, first looks, and cool surprises.\n\nSign up now at https://bit.ly/blumhouse-get-in-the-van-YT\n\nAlso explore:\n\nBlumhouse’s Full Catalogue → https://bit.ly/blumhouse-catalog-YT\n\nBlumhouse Television → https://bit.ly/blumhouse-television-YT\n\nBlumhouse Games → https://bit.ly/blumhouse-games-YT",
-      "channel_title": "Blumhouse",
-      "channel_id": "UCCEfOHkckMXnoZQAjUZsMig",
-      "published_at": "2026-03-11T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gMC8kkwbIQQ/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 253573,
-      "like_count": 0,
-      "comment_count": 901,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
-    },
-    {
-      "video_id": "T3GYW-FJXVU",
-      "title": "Italy vs. United States",
-      "description": "From Daikin Park in Houston.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-12T02:46:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T3GYW-FJXVU/hqdefault.jpg",
-      "duration": "PT3H18M16S",
-      "duration_seconds": 11896,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T3GYW-FJXVU"
-    },
-    {
       "video_id": "bth5JO94ir8",
       "title": "Man on Fire | Official Teaser | Netflix",
       "description": "Yahya Abdul-Mateen II is Man on Fire. The action-packed new series debuts April 30th, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81645171\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMan on Fire | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
@@ -90,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bth5JO94ir8/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 713342,
-      "like_count": 13540,
-      "comment_count": 1550,
+      "view_count": 734207,
+      "like_count": 13758,
+      "comment_count": 1575,
       "category_id": "24",
       "tags": [
         "Action Show",
@@ -135,12 +135,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jP2nDyQWBOU/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 630346,
-      "like_count": 4468,
-      "comment_count": 282,
+      "view_count": 746934,
+      "like_count": 4715,
+      "comment_count": 295,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
+    },
+    {
+      "video_id": "3egiIoU5XL8",
+      "title": "Carolina Dazed",
+      "description": "Madison brings baby Teddi home from the hospital. Patricia hosts a Carolina Day party where Craig is confronted by multiple members of the group. Salley voices her feelings to Austen.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-12T11:08:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3egiIoU5XL8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3egiIoU5XL8"
     },
     {
       "video_id": "u4KTnyndXOM",
@@ -158,55 +175,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u4KTnyndXOM"
-    },
-    {
-      "video_id": "eNcTyh0sY_o",
-      "title": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
-      "description": "DOWNLOAD MY SINGING MONSTERS\nhttps://bigbl.be/PlayMySingingMonsters\n\nJOIN THE DISCORD\nhttps://discord.gg/mysingingmonsters\n\nMY SINGING MONSTERS WEB SHOP\nhttps://store.mysingingmonsters.com/\n\nFOLLOW MY SINGING MONSTERS\nhttps://www.tiktok.com/@mysingingmonsters\nhttps://www.twitter.com/SingingMonsters\nhttps://www.instagram.com/MySingingMonsters\nhttps://www.facebook.com/MySingingMonsters\nhttps://www.bigbluebubble.com/my-singing-monsters-series/\n\nCollect a cast of charming Monsters with a passion for song in the award-winning My Singing Monsters! Download for free: https://bigbl.be/PlayMySingingMonsters\nBreed and feed hundreds of quirky musical Monsters with their own unique sounds to form a furry and feathery orchestra. Then place your Monsters on beautifully decorated and fully-customizable Islands to create catchy tunes that you’ll be singing along to in no time! With so many Monsters to collect, you’ll be addicted to this monstrously fun game before you know it.\n\nFEATURES:\n• Over 200 un",
-      "channel_title": "My Singing Monsters",
-      "channel_id": "UCngRsuvI1zxHR9vwNZvpTAw",
-      "published_at": "2026-03-11T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eNcTyh0sY_o/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 122753,
-      "like_count": 6902,
-      "comment_count": 811,
-      "category_id": "20",
-      "tags": [
-        "My Singing Monsters",
-        "Mobile Gaming",
-        "Fun",
-        "iOS",
-        "Android",
-        "apps",
-        "mammott",
-        "furcorn",
-        "wublins",
-        "msm"
-      ],
-      "url": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
-    },
-    {
-      "video_id": "V_xXg5qAqXI",
-      "title": "🔴LIVE | LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-03-12T07:27:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V_xXg5qAqXI/hqdefault.jpg",
-      "duration": "PT6H58M43S",
-      "duration_seconds": 25123,
-      "view_count": 715575,
-      "like_count": 12671,
-      "comment_count": 46,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
     }
   ],
   "videos_with_transcripts": [],
@@ -221,12 +189,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H2-COHpS7AU/hqdefault.jpg",
       "duration": "PT11M59S",
       "duration_seconds": 719,
-      "view_count": 266886,
-      "like_count": 6743,
-      "comment_count": 481,
+      "view_count": 286645,
+      "like_count": 7105,
+      "comment_count": 490,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H2-COHpS7AU"
+    },
+    {
+      "video_id": "7YJac_d8DL4",
+      "title": "Italy vs. Mexico",
+      "description": "From Daikin Park in Houston.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-12T08:59:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7YJac_d8DL4/hqdefault.jpg",
+      "duration": "PT3H34M16S",
+      "duration_seconds": 12856,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
+    },
+    {
+      "video_id": "gMC8kkwbIQQ",
+      "title": "Obsession | Official Trailer",
+      "description": "You wished for this. Official trailer for OBSESSION, only in theaters May 15.\nText 724-876-4554 🖤\n\nWritten and directed by Curry Barker\nStarring Michael Johnston, Inde Navarrette, Cooper Tomlinson, and Megan Lawless\n\n///\n\nGET IN THE VAN\n\nBlumhouse’s The Van is driven by all things horror.\n\nRide shotgun with hardcore fans as we off-road into horror’s furthest reaches with subscriber exclusives, first looks, and cool surprises.\n\nSign up now at https://bit.ly/blumhouse-get-in-the-van-YT\n\nAlso explore:\n\nBlumhouse’s Full Catalogue → https://bit.ly/blumhouse-catalog-YT\n\nBlumhouse Television → https://bit.ly/blumhouse-television-YT\n\nBlumhouse Games → https://bit.ly/blumhouse-games-YT",
+      "channel_title": "Blumhouse",
+      "channel_id": "UCCEfOHkckMXnoZQAjUZsMig",
+      "published_at": "2026-03-11T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gMC8kkwbIQQ/hqdefault.jpg",
+      "duration": "PT2M14S",
+      "duration_seconds": 134,
+      "view_count": 267643,
+      "like_count": 0,
+      "comment_count": 929,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
       "video_id": "GguNvOK05fM",
@@ -246,40 +248,6 @@
       "url": "https://www.youtube.com/watch?v=GguNvOK05fM"
     },
     {
-      "video_id": "gMC8kkwbIQQ",
-      "title": "Obsession | Official Trailer",
-      "description": "You wished for this. Official trailer for OBSESSION, only in theaters May 15.\nText 724-876-4554 🖤\n\nWritten and directed by Curry Barker\nStarring Michael Johnston, Inde Navarrette, Cooper Tomlinson, and Megan Lawless\n\n///\n\nGET IN THE VAN\n\nBlumhouse’s The Van is driven by all things horror.\n\nRide shotgun with hardcore fans as we off-road into horror’s furthest reaches with subscriber exclusives, first looks, and cool surprises.\n\nSign up now at https://bit.ly/blumhouse-get-in-the-van-YT\n\nAlso explore:\n\nBlumhouse’s Full Catalogue → https://bit.ly/blumhouse-catalog-YT\n\nBlumhouse Television → https://bit.ly/blumhouse-television-YT\n\nBlumhouse Games → https://bit.ly/blumhouse-games-YT",
-      "channel_title": "Blumhouse",
-      "channel_id": "UCCEfOHkckMXnoZQAjUZsMig",
-      "published_at": "2026-03-11T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gMC8kkwbIQQ/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 253573,
-      "like_count": 0,
-      "comment_count": 901,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
-    },
-    {
-      "video_id": "T3GYW-FJXVU",
-      "title": "Italy vs. United States",
-      "description": "From Daikin Park in Houston.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-12T02:46:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T3GYW-FJXVU/hqdefault.jpg",
-      "duration": "PT3H18M16S",
-      "duration_seconds": 11896,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T3GYW-FJXVU"
-    },
-    {
       "video_id": "bth5JO94ir8",
       "title": "Man on Fire | Official Teaser | Netflix",
       "description": "Yahya Abdul-Mateen II is Man on Fire. The action-packed new series debuts April 30th, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81645171\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMan on Fire | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
@@ -289,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bth5JO94ir8/hqdefault.jpg",
       "duration": "PT1M13S",
       "duration_seconds": 73,
-      "view_count": 713342,
-      "like_count": 13540,
-      "comment_count": 1550,
+      "view_count": 734207,
+      "like_count": 13758,
+      "comment_count": 1575,
       "category_id": "24",
       "tags": [
         "Action Show",
@@ -334,12 +302,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jP2nDyQWBOU/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 630346,
-      "like_count": 4468,
-      "comment_count": 282,
+      "view_count": 746934,
+      "like_count": 4715,
+      "comment_count": 295,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
+    },
+    {
+      "video_id": "3egiIoU5XL8",
+      "title": "Carolina Dazed",
+      "description": "Madison brings baby Teddi home from the hospital. Patricia hosts a Carolina Day party where Craig is confronted by multiple members of the group. Salley voices her feelings to Austen.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-12T11:08:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3egiIoU5XL8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3egiIoU5XL8"
     },
     {
       "video_id": "u4KTnyndXOM",
@@ -357,103 +342,70 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u4KTnyndXOM"
-    },
-    {
-      "video_id": "eNcTyh0sY_o",
-      "title": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
-      "description": "DOWNLOAD MY SINGING MONSTERS\nhttps://bigbl.be/PlayMySingingMonsters\n\nJOIN THE DISCORD\nhttps://discord.gg/mysingingmonsters\n\nMY SINGING MONSTERS WEB SHOP\nhttps://store.mysingingmonsters.com/\n\nFOLLOW MY SINGING MONSTERS\nhttps://www.tiktok.com/@mysingingmonsters\nhttps://www.twitter.com/SingingMonsters\nhttps://www.instagram.com/MySingingMonsters\nhttps://www.facebook.com/MySingingMonsters\nhttps://www.bigbluebubble.com/my-singing-monsters-series/\n\nCollect a cast of charming Monsters with a passion for song in the award-winning My Singing Monsters! Download for free: https://bigbl.be/PlayMySingingMonsters\nBreed and feed hundreds of quirky musical Monsters with their own unique sounds to form a furry and feathery orchestra. Then place your Monsters on beautifully decorated and fully-customizable Islands to create catchy tunes that you’ll be singing along to in no time! With so many Monsters to collect, you’ll be addicted to this monstrously fun game before you know it.\n\nFEATURES:\n• Over 200 un",
-      "channel_title": "My Singing Monsters",
-      "channel_id": "UCngRsuvI1zxHR9vwNZvpTAw",
-      "published_at": "2026-03-11T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eNcTyh0sY_o/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 122753,
-      "like_count": 6902,
-      "comment_count": 811,
-      "category_id": "20",
-      "tags": [
-        "My Singing Monsters",
-        "Mobile Gaming",
-        "Fun",
-        "iOS",
-        "Android",
-        "apps",
-        "mammott",
-        "furcorn",
-        "wublins",
-        "msm"
-      ],
-      "url": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
-    },
-    {
-      "video_id": "V_xXg5qAqXI",
-      "title": "🔴LIVE | LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-03-12T07:27:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V_xXg5qAqXI/hqdefault.jpg",
-      "duration": "PT6H58M43S",
-      "duration_seconds": 25123,
-      "view_count": 715575,
-      "like_count": 12671,
-      "comment_count": 46,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": [
-        {
-          "trend": "Entertainment Dominance",
-          "observation": "A significant portion of the videos fall under entertainment categories, such as trailers and teasers for movies and series ('AVENGERS DOOMSDAY TEASER Breakdown', 'Man on Fire | Official Teaser | Netflix', 'HOKUM - Official Trailer').",
-          "actionable_insight": "Content creators should focus on producing entertainment-related content, especially teasers and trailers, which have a high potential for virality and engagement."
+      "content_trends": {
+        "entertainment_focus": {
+          "description": "A significant portion of the videos are related to entertainment, with a mix of teasers, trailers, and film breakdowns.",
+          "examples": [
+            "AVENGERS DOOMSDAY TEASER Breakdown",
+            "Obsession | Official Trailer",
+            "Man on Fire | Official Teaser | Netflix",
+            "HOKUM - Official Trailer - In Theaters May 1"
+          ],
+          "insight": "There is a strong interest in upcoming film and series releases, suggesting that content related to entertainment previews or breakdowns is trending."
         },
-        {
-          "trend": "Diverse Format Engagement",
-          "observation": "The list includes a mix of content formats, such as live streams ('🔴LIVE | LIARS BAR w/ Cloakzy & HutchMF') and news commentary ('The Source With Kaitlan Collins', 'Deadline: White House').",
-          "actionable_insight": "Experimenting with different content formats, including live streaming and news analysis, can capture different audience segments and enhance channel engagement."
+        "news_and_sports": {
+          "description": "Content related to current events and sports is also prevalent.",
+          "examples": [
+            "Italy vs. Mexico",
+            "The Source With Kaitlan Collins",
+            "Deadline: White House"
+          ],
+          "insight": "News and sports content remain evergreen, capturing audiences interested in real-time updates and analysis."
         }
-      ],
-      "creator_patterns": [
-        {
-          "pattern": "Single Video Representation",
-          "observation": "Each top channel only has one video in the trending list. This suggests that a wide variety of channels can achieve trending status without needing high-volume uploads.",
-          "actionable_insight": "Channels should focus on quality over quantity, ensuring that each video is optimized for engagement and discoverability to increase the chances of trending."
+      },
+      "creator_patterns": {
+        "diverse_channel_types": {
+          "description": "The top channels represent a mix of niche entertainment, sports, and news organizations.",
+          "channels": [
+            "Emergency Awesome",
+            "FS1",
+            "Blumhouse",
+            "FOX News",
+            "Netflix"
+          ],
+          "insight": "Successful channels maintain a clear focus on their respective niches, whether it be film analysis, sports coverage, or news."
         },
-        {
-          "pattern": "Established Brands",
-          "observation": "Top channels like Emergency Awesome, FOX News, and Netflix are well-established brands with existing large audiences.",
-          "actionable_insight": "New creators can leverage collaborations with established brands or use trending topics related to these brands to boost visibility and credibility."
+        "single_video_contributions": {
+          "description": "Each top channel contributed only one video to the trending list.",
+          "insight": "This suggests that diversification of content from a wide range of creators can contribute to trending status rather than multiple videos from the same creator."
         }
-      ],
-      "market_opportunities": [
-        {
-          "opportunity": "Cross-Promotional Content",
-          "observation": "Videos like 'Italy vs. United States' indicate interest in cross-cultural or international content.",
-          "actionable_insight": "Content creators can explore cross-promotional opportunities with international partners to tap into global audiences, using culturally relevant themes to enhance appeal."
+      },
+      "market_opportunities": {
+        "entertainment_analysis": {
+          "description": "Given the popularity of entertainment-related videos, there is an opportunity to create detailed analysis or commentary content.",
+          "actionable_recommendation": "Create a YouTube channel dedicated to in-depth breakdowns of upcoming films and series. Consider collaborations with film critics or experts to enhance content credibility."
         },
-        {
-          "opportunity": "Niche Live Streaming",
-          "observation": "The presence of a niche live stream ('🔴LIVE | LIARS BAR w/ Cloakzy & HutchMF') suggests opportunities in niche live streaming content.",
-          "actionable_insight": "Creating niche live streaming events around specific interests or communities can attract dedicated audiences and foster community engagement."
+        "real-time sports and news": {
+          "description": "Sports and news content continues to be relevant, indicating a demand for timely, engaging coverage.",
+          "actionable_recommendation": "Develop a format for live or rapid-response videos that cover breaking news or sports events. Utilize social media to drive traffic to YouTube content."
+        },
+        "cross-channel collaborations": {
+          "description": "Collaborations between channels in different niches can leverage diverse audiences.",
+          "actionable_recommendation": "Partner with creators from different niches to produce crossover content, such as combining sports analysis with film reviews, to attract new viewer segments."
         }
-      ],
+      },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 270247
+        "avg_views_per_video": 226158
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
