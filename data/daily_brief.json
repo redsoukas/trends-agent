@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T12:21:27.007842",
+  "timestamp": "2026-03-13T15:22:33.319321",
   "date": "2026-03-13",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2305015,
-      "like_count": 40523,
-      "comment_count": 2646,
+      "view_count": 2565194,
+      "like_count": 44394,
+      "comment_count": 2959,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -39,6 +39,23 @@
         "movies on hulu"
       ],
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+    },
+    {
+      "video_id": "0nW4Dr2JhwE",
+      "title": "ACC Tournament: Florida State vs. Duke",
+      "description": "Florida State and Duke meet in the ACC Tournament quarterfinals. Despite Duke's dominance, the teams are tied 1-1 in tournament meetings. The Blue Devils won the only regular-season matchup, a 91-87 victory in Tallahassee on Jan. 3.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T13:12:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0nW4Dr2JhwE/hqdefault.jpg",
+      "duration": "PT2H12M5S",
+      "duration_seconds": 7925,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
     },
     {
       "video_id": "5gu7LsNuPoA",
@@ -58,23 +75,6 @@
       "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
-      "video_id": "iUA5Pj4G7_w",
-      "title": "College Basketball Live Scoreboard",
-      "description": "All the latest scores and highlights from college basketball.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-13T08:06:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iUA5Pj4G7_w/hqdefault.jpg",
-      "duration": "PT24M5S",
-      "duration_seconds": 1445,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
-    },
-    {
       "video_id": "m-c_3degE60",
       "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
       "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 475591,
-      "like_count": 30649,
-      "comment_count": 2341,
+      "view_count": 492094,
+      "like_count": 31130,
+      "comment_count": 2378,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -120,29 +120,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 3276477,
-      "like_count": 30576,
-      "comment_count": 2090,
+      "view_count": 3681706,
+      "like_count": 32784,
+      "comment_count": 2200,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "brHMFTH7hPk",
-      "title": "SEC Tournament: Auburn vs. Tennessee",
-      "description": "Tennessee looks for its second win of the season over Auburn when they meet in the SEC Tournament. The Volunteers handled the Tigers, 77-69 back on Jan. 31. Auburn defeated Mississippi State, 65-57, in first round action.",
+      "video_id": "IwVMMg7ssPo",
+      "title": "SEC Tournament: Ole Miss vs. Georgia",
+      "description": "Ole Miss plays Georgia in the SEC Tournament second round. Fresh off an upset of Texas, the 15th-seeded Rebels seek a repeat of their 97-95 overtime win against the Bulldogs in January. Georgia enters with a program-record 22 regular-season wins.",
       "channel_title": "SEC Network",
       "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T10:28:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/brHMFTH7hPk/hqdefault.jpg",
-      "duration": "PT2H21M41S",
-      "duration_seconds": 8501,
+      "published_at": "2026-03-13T12:23:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IwVMMg7ssPo/hqdefault.jpg",
+      "duration": "PT2H20M26S",
+      "duration_seconds": 8426,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=brHMFTH7hPk"
+      "url": "https://www.youtube.com/watch?v=IwVMMg7ssPo"
     },
     {
       "video_id": "2MRMJUTZkbE",
@@ -154,9 +154,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
       "duration": "PT2M52S",
       "duration_seconds": 172,
-      "view_count": 1099099,
-      "like_count": 19276,
-      "comment_count": 1175,
+      "view_count": 1256443,
+      "like_count": 22338,
+      "comment_count": 1314,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -173,21 +173,21 @@
       "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
     },
     {
-      "video_id": "56euEy5rlUU",
-      "title": "Puerto Rico vs. United States",
-      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-13T09:43:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/56euEy5rlUU/hqdefault.jpg",
-      "duration": "PT1H56M3S",
-      "duration_seconds": 6963,
+      "video_id": "zPxbD8z2FNo",
+      "title": "Fab Five",
+      "description": "This film chronicles the recruitment, notorious time-out fiasco and cultural impact of the 1990s Michigan Wolverines men's basketball players known collectively as the Fab Five.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T11:56:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zPxbD8z2FNo/hqdefault.jpg",
+      "duration": "PT1H56M45S",
+      "duration_seconds": 7005,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=56euEy5rlUU"
+      "url": "https://www.youtube.com/watch?v=zPxbD8z2FNo"
     }
   ],
   "videos_with_transcripts": [],
@@ -202,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2305015,
-      "like_count": 40523,
-      "comment_count": 2646,
+      "view_count": 2565194,
+      "like_count": 44394,
+      "comment_count": 2959,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -219,6 +219,23 @@
         "movies on hulu"
       ],
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+    },
+    {
+      "video_id": "0nW4Dr2JhwE",
+      "title": "ACC Tournament: Florida State vs. Duke",
+      "description": "Florida State and Duke meet in the ACC Tournament quarterfinals. Despite Duke's dominance, the teams are tied 1-1 in tournament meetings. The Blue Devils won the only regular-season matchup, a 91-87 victory in Tallahassee on Jan. 3.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T13:12:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0nW4Dr2JhwE/hqdefault.jpg",
+      "duration": "PT2H12M5S",
+      "duration_seconds": 7925,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
     },
     {
       "video_id": "5gu7LsNuPoA",
@@ -238,23 +255,6 @@
       "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
-      "video_id": "iUA5Pj4G7_w",
-      "title": "College Basketball Live Scoreboard",
-      "description": "All the latest scores and highlights from college basketball.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-13T08:06:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iUA5Pj4G7_w/hqdefault.jpg",
-      "duration": "PT24M5S",
-      "duration_seconds": 1445,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
-    },
-    {
       "video_id": "m-c_3degE60",
       "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
       "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
@@ -264,9 +264,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 475591,
-      "like_count": 30649,
-      "comment_count": 2341,
+      "view_count": 492094,
+      "like_count": 31130,
+      "comment_count": 2378,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -300,29 +300,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 3276477,
-      "like_count": 30576,
-      "comment_count": 2090,
+      "view_count": 3681706,
+      "like_count": 32784,
+      "comment_count": 2200,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "brHMFTH7hPk",
-      "title": "SEC Tournament: Auburn vs. Tennessee",
-      "description": "Tennessee looks for its second win of the season over Auburn when they meet in the SEC Tournament. The Volunteers handled the Tigers, 77-69 back on Jan. 31. Auburn defeated Mississippi State, 65-57, in first round action.",
+      "video_id": "IwVMMg7ssPo",
+      "title": "SEC Tournament: Ole Miss vs. Georgia",
+      "description": "Ole Miss plays Georgia in the SEC Tournament second round. Fresh off an upset of Texas, the 15th-seeded Rebels seek a repeat of their 97-95 overtime win against the Bulldogs in January. Georgia enters with a program-record 22 regular-season wins.",
       "channel_title": "SEC Network",
       "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T10:28:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/brHMFTH7hPk/hqdefault.jpg",
-      "duration": "PT2H21M41S",
-      "duration_seconds": 8501,
+      "published_at": "2026-03-13T12:23:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IwVMMg7ssPo/hqdefault.jpg",
+      "duration": "PT2H20M26S",
+      "duration_seconds": 8426,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=brHMFTH7hPk"
+      "url": "https://www.youtube.com/watch?v=IwVMMg7ssPo"
     },
     {
       "video_id": "2MRMJUTZkbE",
@@ -334,9 +334,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
       "duration": "PT2M52S",
       "duration_seconds": 172,
-      "view_count": 1099099,
-      "like_count": 19276,
-      "comment_count": 1175,
+      "view_count": 1256443,
+      "like_count": 22338,
+      "comment_count": 1314,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -353,69 +353,82 @@
       "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
     },
     {
-      "video_id": "56euEy5rlUU",
-      "title": "Puerto Rico vs. United States",
-      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-13T09:43:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/56euEy5rlUU/hqdefault.jpg",
-      "duration": "PT1H56M3S",
-      "duration_seconds": 6963,
+      "video_id": "zPxbD8z2FNo",
+      "title": "Fab Five",
+      "description": "This film chronicles the recruitment, notorious time-out fiasco and cultural impact of the 1990s Michigan Wolverines men's basketball players known collectively as the Fab Five.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T11:56:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zPxbD8z2FNo/hqdefault.jpg",
+      "duration": "PT1H56M45S",
+      "duration_seconds": 7005,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=56euEy5rlUU"
+      "url": "https://www.youtube.com/watch?v=zPxbD8z2FNo"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "diversity_in_content": {
-          "observation": "The trending videos cover a wide range of topics including entertainment, sports, news, and gaming.",
-          "insight": "This diversity suggests a broad audience interest across multiple domains, indicating opportunities for creators in niche markets as well as mainstream categories."
+      "analysis": {
+        "overview": {
+          "total_videos": 9,
+          "total_views": 7995437,
+          "average_views_per_video": 888381,
+          "unknown_categories": true
         },
-        "trailer_and_teaser_effectiveness": {
-          "observation": "Trailers and teasers for future releases such as 'THE DEVIL WEARS PRADA 2' and 'Malcolm in the Middle' have made it to the trending list.",
-          "insight": "High engagement with trailers suggests that audiences are highly responsive to previews of anticipated content. Creators can capitalize on this by producing high-quality teasers for upcoming projects."
+        "content_trends": {
+          "trailer_and_entertainment": {
+            "observation": "4 out of 9 videos are trailers or entertainment-related content, indicating a strong interest in upcoming media content and entertainment.",
+            "videos": [
+              "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
+              "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+              "Disclosure Day | Official Trailer",
+              "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)"
+            ],
+            "opportunity": "Capitalize on releasing trailers and promotional content for new shows, games, and movies."
+          },
+          "sports": {
+            "observation": "3 out of 9 videos are sports-related, suggesting a high engagement in sports content.",
+            "videos": [
+              "ACC Tournament: Florida State vs. Duke",
+              "Live From THE PLAYERS",
+              "SEC Tournament: Ole Miss vs. Georgia"
+            ],
+            "opportunity": "Focus on sports highlights, live streaming, and post-game analysis to capture the sports audience."
+          },
+          "news_and_commentary": {
+            "observation": "1 video is related to news commentary, indicating an interest in current events and political commentary.",
+            "videos": [
+              "Jesse Watters Primetime"
+            ],
+            "opportunity": "Expand content offerings in news analysis and commentary to engage audiences interested in current events."
+          }
         },
-        "live_content_popularity": {
-          "observation": "Live events such as sports ('College Basketball Live Scoreboard', 'SEC Tournament', and 'Live From THE PLAYERS') and live news ('Jesse Watters Primetime') are trending.",
-          "insight": "There is a significant demand for real-time content, indicating opportunities for live streaming events, especially in sports and news categories where immediacy is crucial."
+        "creator_patterns": {
+          "diverse_sources": {
+            "observation": "Content is produced by various prominent channels like Hulu, ESPN, and FOX News.",
+            "opportunity": "Collaborate with well-known media channels to expand reach and viewership."
+          },
+          "gaming": {
+            "observation": "Fortnite's inclusion indicates gaming content's consistent popularity.",
+            "opportunity": "Explore partnerships or content creation in the gaming sector to tap into a large, engaged audience."
+          }
+        },
+        "market_opportunities": {
+          "cross-promotion": {
+            "suggestion": "Develop strategic partnerships among entertainment, sports, and news channels to create cross-promotional content that attracts diverse audiences."
+          },
+          "content_diversification": {
+            "suggestion": "Diversify content offerings by blending entertainment with educational or informational content to cater to a broader audience base."
+          },
+          "engagement_strategies": {
+            "suggestion": "Leverage live streaming and interactive content formats, such as Q&As or live commentary, to increase viewer engagement and retention."
+          }
         }
-      },
-      "creator_patterns": {
-        "platform_and_channel_diversity": {
-          "observation": "The top channels come from a variety of platforms, including streaming services (Hulu), news outlets (FOX News), sports networks (ESPN), and gaming companies (Fortnite).",
-          "insight": "Success on YouTube is not limited to individual creators but extends to large networks and companies. Establishing a strong brand presence across multiple content types can enhance visibility and reach on the platform."
-        },
-        "cross-promotion opportunities": {
-          "observation": "There are instances of cross-promotion potential, such as Hulu promoting a new series with a trailer.",
-          "insight": "Companies can benefit from leveraging their presence on YouTube to cross-promote their other media properties and platforms, maximizing their audience reach."
-        }
-      },
-      "market_opportunities": {
-        "niche_content_exploration": {
-          "observation": "With a diverse range of trending content, there is room for niche content to capture audience interest.",
-          "insight": "Emerging creators and companies can explore niche markets that align with trending themes but are underserved, such as lesser-known sports or behind-the-scenes content."
-        },
-        "engagement_with_trending_topics": {
-          "observation": "Trending topics such as popular sports events and anticipated series or movie releases draw significant attention.",
-          "insight": "Aligning content strategies with trending topics and seasonal events can boost visibility and engagement. Timely content related to popular events or releases can attract more viewers."
-        }
-      },
-      "data_overview": {
-        "total_videos": 9,
-        "total_views": 7156182,
-        "average_views_per_video": 795131.33,
-        "top_performing_content_types": [
-          "Trailers",
-          "Live sports events",
-          "News segments"
-        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -423,7 +436,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 795131
+        "avg_views_per_video": 888381
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
