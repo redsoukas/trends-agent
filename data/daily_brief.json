@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T06:26:25.439088",
+  "timestamp": "2026-03-13T09:20:51.210102",
   "date": "2026-03-13",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1869003,
-      "like_count": 33701,
-      "comment_count": 2194,
+      "view_count": 2068787,
+      "like_count": 37193,
+      "comment_count": 2402,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -41,13 +41,30 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "Frfci1buwvo",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "iUA5Pj4G7_w",
+      "title": "College Basketball Live Scoreboard",
+      "description": "All the latest scores and highlights from college basketball.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T08:06:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iUA5Pj4G7_w/hqdefault.jpg",
+      "duration": "PT24M5S",
+      "duration_seconds": 1445,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
+    },
+    {
+      "video_id": "yyk3g1jdiyc",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T03:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Frfci1buwvo/hqdefault.jpg",
+      "published_at": "2026-03-13T07:34:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yyk3g1jdiyc/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +72,60 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Frfci1buwvo"
+      "url": "https://www.youtube.com/watch?v=yyk3g1jdiyc"
+    },
+    {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 462401,
+      "like_count": 30309,
+      "comment_count": 2313,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
+      "video_id": "6Cpxdp95pwI",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-13T06:53:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Cpxdp95pwI/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+    },
+    {
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 3066970,
+      "like_count": 28862,
+      "comment_count": 2011,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "7YJac_d8DL4",
@@ -75,84 +145,6 @@
       "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 443663,
-      "like_count": 29929,
-      "comment_count": 2291,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
-    },
-    {
-      "video_id": "RzlI6mlT89k",
-      "title": "Big 12 Tournament: Iowa State vs. Texas Tech",
-      "description": "The Cyclones and Red Raiders kick off the quarterfinal round of the Big 12 Basketball Tournament. Texas Tech is coming off consecutive losses in its last two regular season games. Iowa State easily defeated Arizona State in the second round.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-13T04:57:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RzlI6mlT89k/hqdefault.jpg",
-      "duration": "PT2H6M11S",
-      "duration_seconds": 7571,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RzlI6mlT89k"
-    },
-    {
-      "video_id": "SCYT8vb2siQ",
-      "title": "Disclosure Day | Official Trailer",
-      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-03-12T15:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 2480128,
-      "like_count": 27052,
-      "comment_count": 1925,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
-    },
-    {
-      "video_id": "hGM2OHO1dsU",
-      "title": "One of These Cups Has a Spider Under it...",
-      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-12T19:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
-      "duration": "PT31M18S",
-      "duration_seconds": 1878,
-      "view_count": 651637,
-      "like_count": 39614,
-      "comment_count": 1260,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "spider roulette",
-        "spider roulette game",
-        "spider roulette gameplay"
-      ],
-      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
-    },
-    {
       "video_id": "hzyOsNyDkbM",
       "title": "Thrash | Official Trailer | Netflix",
       "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks. Directed by Tommy Wirkola and produced by Adam McKay (Don’t Look Up), the film stars Phoebe Dynevor, Djimon Hounsou and Whitney Peak. THRASH is only on Netflix, April 10.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82650122\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThrash | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nWhen a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks.",
@@ -162,9 +154,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 375903,
-      "like_count": 8886,
-      "comment_count": 819,
+      "view_count": 425509,
+      "like_count": 9515,
+      "comment_count": 843,
       "category_id": "24",
       "tags": [
         "Adam McKay",
@@ -181,21 +173,21 @@
       "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
     },
     {
-      "video_id": "El-NTHNdj2I",
-      "title": "The Mina Kimes Show Featuring Lenny",
-      "description": "A popular NFL-focused podcast hosted by Mina Kimes, an NFL analyst at ESPN. The show features Kimes and her dog Lenny, and often includes guests discussing various NFL storylines and topics.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-13T03:54:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/El-NTHNdj2I/hqdefault.jpg",
-      "duration": "PT41M5S",
-      "duration_seconds": 2465,
+      "video_id": "_v3u3DgIUPA",
+      "title": "SEC Tournament: Kentucky vs. Missouri",
+      "description": "Missouri looks to end a losing skid and Kentucky hopes to ride the momentum of its first round win in the SEC Tournament. The Tigers dropped their last two regular season games but do own a 73-68 victory over the Wildcats earlier in the season.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-03-13T07:02:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_v3u3DgIUPA/hqdefault.jpg",
+      "duration": "PT2H28M11S",
+      "duration_seconds": 8891,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=El-NTHNdj2I"
+      "url": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
     }
   ],
   "videos_with_transcripts": [],
@@ -210,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1869003,
-      "like_count": 33701,
-      "comment_count": 2194,
+      "view_count": 2068787,
+      "like_count": 37193,
+      "comment_count": 2402,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -229,13 +221,30 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "Frfci1buwvo",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "iUA5Pj4G7_w",
+      "title": "College Basketball Live Scoreboard",
+      "description": "All the latest scores and highlights from college basketball.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T08:06:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iUA5Pj4G7_w/hqdefault.jpg",
+      "duration": "PT24M5S",
+      "duration_seconds": 1445,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
+    },
+    {
+      "video_id": "yyk3g1jdiyc",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T03:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Frfci1buwvo/hqdefault.jpg",
+      "published_at": "2026-03-13T07:34:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yyk3g1jdiyc/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -243,7 +252,60 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Frfci1buwvo"
+      "url": "https://www.youtube.com/watch?v=yyk3g1jdiyc"
+    },
+    {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 462401,
+      "like_count": 30309,
+      "comment_count": 2313,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
+      "video_id": "6Cpxdp95pwI",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-13T06:53:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Cpxdp95pwI/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+    },
+    {
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 3066970,
+      "like_count": 28862,
+      "comment_count": 2011,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "7YJac_d8DL4",
@@ -263,84 +325,6 @@
       "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 443663,
-      "like_count": 29929,
-      "comment_count": 2291,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
-    },
-    {
-      "video_id": "RzlI6mlT89k",
-      "title": "Big 12 Tournament: Iowa State vs. Texas Tech",
-      "description": "The Cyclones and Red Raiders kick off the quarterfinal round of the Big 12 Basketball Tournament. Texas Tech is coming off consecutive losses in its last two regular season games. Iowa State easily defeated Arizona State in the second round.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-13T04:57:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RzlI6mlT89k/hqdefault.jpg",
-      "duration": "PT2H6M11S",
-      "duration_seconds": 7571,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=RzlI6mlT89k"
-    },
-    {
-      "video_id": "SCYT8vb2siQ",
-      "title": "Disclosure Day | Official Trailer",
-      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-03-12T15:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 2480128,
-      "like_count": 27052,
-      "comment_count": 1925,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
-    },
-    {
-      "video_id": "hGM2OHO1dsU",
-      "title": "One of These Cups Has a Spider Under it...",
-      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-12T19:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
-      "duration": "PT31M18S",
-      "duration_seconds": 1878,
-      "view_count": 651637,
-      "like_count": 39614,
-      "comment_count": 1260,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "spider roulette",
-        "spider roulette game",
-        "spider roulette gameplay"
-      ],
-      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
-    },
-    {
       "video_id": "hzyOsNyDkbM",
       "title": "Thrash | Official Trailer | Netflix",
       "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks. Directed by Tommy Wirkola and produced by Adam McKay (Don’t Look Up), the film stars Phoebe Dynevor, Djimon Hounsou and Whitney Peak. THRASH is only on Netflix, April 10.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82650122\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThrash | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nWhen a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks.",
@@ -350,9 +334,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 375903,
-      "like_count": 8886,
-      "comment_count": 819,
+      "view_count": 425509,
+      "like_count": 9515,
+      "comment_count": 843,
       "category_id": "24",
       "tags": [
         "Adam McKay",
@@ -369,101 +353,118 @@
       "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
     },
     {
-      "video_id": "El-NTHNdj2I",
-      "title": "The Mina Kimes Show Featuring Lenny",
-      "description": "A popular NFL-focused podcast hosted by Mina Kimes, an NFL analyst at ESPN. The show features Kimes and her dog Lenny, and often includes guests discussing various NFL storylines and topics.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-13T03:54:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/El-NTHNdj2I/hqdefault.jpg",
-      "duration": "PT41M5S",
-      "duration_seconds": 2465,
+      "video_id": "_v3u3DgIUPA",
+      "title": "SEC Tournament: Kentucky vs. Missouri",
+      "description": "Missouri looks to end a losing skid and Kentucky hopes to ride the momentum of its first round win in the SEC Tournament. The Tigers dropped their last two regular season games but do own a 73-68 victory over the Wildcats earlier in the season.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-03-13T07:02:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_v3u3DgIUPA/hqdefault.jpg",
+      "duration": "PT2H28M11S",
+      "duration_seconds": 8891,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=El-NTHNdj2I"
+      "url": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 9,
+        "total_views": 6023667,
+        "average_views_per_video": 669296,
+        "categories": "Unknown"
+      },
       "content_trends": {
-        "entertainment_media": {
-          "trend": "High visibility of trailers",
-          "data": {
-            "trailer_videos_count": 3,
-            "percentage_of_total_videos": 33.33
+        "type_of_content": [
+          {
+            "type": "Trailers",
+            "videos": [
+              "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
+              "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+              "Disclosure Day | Official Trailer",
+              "Thrash | Official Trailer | Netflix"
+            ],
+            "insight": "Trailers for new content, whether TV shows, video games, or films, show significant interest. These tend to generate hype and anticipation, contributing to higher view counts."
           },
-          "insights": "Trailers for upcoming shows or events (Hulu, Netflix) are gaining traction, indicating strong viewer interest in upcoming entertainment content. This suggests a market opportunity for content creators to capitalize on pre-release hype and behind-the-scenes content."
-        },
-        "sports": {
-          "trend": "Diverse interest in sports",
-          "data": {
-            "sports_videos_count": 2,
-            "percentage_of_total_videos": 22.22
+          {
+            "type": "Live Sports",
+            "videos": [
+              "College Basketball Live Scoreboard",
+              "SEC Tournament: Kentucky vs. Missouri",
+              "Italy vs. Mexico"
+            ],
+            "insight": "Live sports content is consistently trending, indicating a strong audience interest in real-time sports updates and events."
           },
-          "insights": "Sports content, ranging from live events (Iowa State vs. Texas Tech) to international matches (Italy vs. Mexico), shows a consistent viewer base. Expanding into analysis, highlights, and fan engagement content could enhance viewer retention."
-        },
-        "gaming": {
-          "trend": "Continued interest in gaming content",
-          "data": {
-            "gaming_videos_count": 1,
-            "percentage_of_total_videos": 11.11
-          },
-          "insights": "Gaming content like Fortnite trailers maintains a strong presence on trending lists, indicating an opportunity for gaming creators to explore new season updates, strategies, and player collaborations."
-        },
-        "talk_shows_and_discussions": {
-          "trend": "Interest in talk shows and discussions",
-          "data": {
-            "discussion_videos_count": 2,
-            "percentage_of_total_videos": 22.22
-          },
-          "insights": "Talk shows such as The Will Cain Show and The Mina Kimes Show Featuring Lenny highlight an interest in topical discussions and expert opinions. This indicates a potential for developing niche-specific discussion content catering to targeted audiences."
-        },
-        "miscellaneous": {
-          "trend": "Variety content gaining traction",
-          "data": {
-            "miscellaneous_videos_count": 1,
-            "percentage_of_total_videos": 11.11
-          },
-          "insights": "Unique content like 'One of These Cups Has a Spider Under it...' suggests an opportunity to explore novelty and surprise elements in content creation, potentially increasing viewer engagement."
-        }
+          {
+            "type": "News",
+            "videos": [
+              "The Five",
+              "CNN Global Report: War With Iran"
+            ],
+            "insight": "News-related content remains relevant, especially when covering significant global events. This suggests a demand for timely and informative news coverage."
+          }
+        ]
       },
       "creator_patterns": {
-        "media_and_streaming_services": {
-          "channels": [
-            "Hulu",
-            "Netflix"
-          ],
-          "insights": "Streaming services are leveraging YouTube's platform to promote their exclusive content through trailers, indicating a strategic use of social media to build anticipation and drive subscriptions."
-        },
-        "news_and_sports": {
-          "channels": [
-            "FOX News",
-            "FS1",
-            "ESPN"
-          ],
-          "insights": "News and sports channels are consistently using YouTube to broadcast highlights and expert analysis, suggesting an opportunity to expand into real-time coverage and interactive viewer segments."
-        },
-        "gaming": {
-          "channels": [
-            "Fortnite"
-          ],
-          "insights": "Gaming companies use YouTube for releasing cinematic content which not only promotes new game features but also enhances community engagement through visual storytelling."
-        }
+        "top_channels": [
+          {
+            "channel": "Hulu",
+            "number_of_videos": 1,
+            "insight": "Hulu's presence in trending content is notable, leveraging popular culture to engage audiences."
+          },
+          {
+            "channel": "ESPN",
+            "number_of_videos": 1,
+            "insight": "As a major sports broadcaster, ESPN maintains relevance through live sports coverage, tapping into a dedicated sports audience."
+          },
+          {
+            "channel": "FOX News",
+            "number_of_videos": 1,
+            "insight": "FOX News captures significant viewer interest, showcasing the platform's strength in delivering news content."
+          },
+          {
+            "channel": "Fortnite",
+            "number_of_videos": 1,
+            "insight": "Fortnite continues to captivate the gaming community, indicating the game's sustained popularity and engagement."
+          },
+          {
+            "channel": "CNN",
+            "number_of_videos": 1,
+            "insight": "CNN's coverage of global events ensures its content remains relevant, particularly during major geopolitical developments."
+          }
+        ]
       },
       "market_opportunities": {
-        "cross-platform_promotion": {
-          "insight": "With the presence of diverse content categories, there is an opportunity for cross-platform promotional strategies that integrate YouTube with other social media to amplify reach and engagement."
-        },
-        "interactive_content": {
-          "insight": "Given the varied interests, developing interactive content such as polls, live Q&A, and viewer challenges can increase engagement and retention across different viewer demographics."
-        },
-        "niche_targeting": {
-          "insight": "Targeting niche audiences with specialized content (e.g., deep dive discussions, niche sports or hobbies) could capture dedicated viewership, particularly in underrepresented areas."
-        }
+        "potential_categories": [
+          {
+            "category": "Entertainment Trailers",
+            "opportunity": "Capitalize on the demand for new entertainment content by producing engaging trailers and teasers."
+          },
+          {
+            "category": "Live Sports Coverage",
+            "opportunity": "Enhance live sports broadcasting capabilities to attract sports enthusiasts seeking real-time updates."
+          },
+          {
+            "category": "News and Current Affairs",
+            "opportunity": "Expand news coverage, especially for breaking news and global events, to capture an audience interested in timely content."
+          }
+        ],
+        "strategic_recommendations": [
+          {
+            "recommendation": "Improve content categorization to better understand and leverage trends across different genres and topics."
+          },
+          {
+            "recommendation": "Explore collaborations with popular channels to increase reach and audience engagement, particularly in the entertainment and sports sectors."
+          },
+          {
+            "recommendation": "Utilize data analytics to identify peak viewing times and optimize content release schedules for maximum impact."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -471,7 +472,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 646703
+        "avg_views_per_video": 669296
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
