@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T09:20:51.210102",
+  "timestamp": "2026-03-13T12:21:27.007842",
   "date": "2026-03-13",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2068787,
-      "like_count": 37193,
-      "comment_count": 2402,
+      "view_count": 2305015,
+      "like_count": 40523,
+      "comment_count": 2646,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -39,6 +39,23 @@
         "movies on hulu"
       ],
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+    },
+    {
+      "video_id": "5gu7LsNuPoA",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-13T09:45:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gu7LsNuPoA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
       "video_id": "iUA5Pj4G7_w",
@@ -58,23 +75,6 @@
       "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
     },
     {
-      "video_id": "yyk3g1jdiyc",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T07:34:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yyk3g1jdiyc/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yyk3g1jdiyc"
-    },
-    {
       "video_id": "m-c_3degE60",
       "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
       "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 462401,
-      "like_count": 30309,
-      "comment_count": 2313,
+      "view_count": 475591,
+      "like_count": 30649,
+      "comment_count": 2341,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -94,21 +94,21 @@
       "url": "https://www.youtube.com/watch?v=m-c_3degE60"
     },
     {
-      "video_id": "6Cpxdp95pwI",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-13T06:53:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Cpxdp95pwI/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "video_id": "OB-CRMJI7eU",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-13T08:34:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OB-CRMJI7eU/hqdefault.jpg",
+      "duration": "PT2H3M30S",
+      "duration_seconds": 7410,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+      "url": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
     },
     {
       "video_id": "SCYT8vb2siQ",
@@ -120,74 +120,74 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 3066970,
-      "like_count": 28862,
-      "comment_count": 2011,
+      "view_count": 3276477,
+      "like_count": 30576,
+      "comment_count": 2090,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "7YJac_d8DL4",
-      "title": "Italy vs. Mexico",
-      "description": "From Daikin Park in Houston.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-12T08:59:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7YJac_d8DL4/hqdefault.jpg",
-      "duration": "PT3H34M16S",
-      "duration_seconds": 12856,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
-    },
-    {
-      "video_id": "hzyOsNyDkbM",
-      "title": "Thrash | Official Trailer | Netflix",
-      "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks. Directed by Tommy Wirkola and produced by Adam McKay (Don’t Look Up), the film stars Phoebe Dynevor, Djimon Hounsou and Whitney Peak. THRASH is only on Netflix, April 10.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82650122\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThrash | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nWhen a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-12T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
-      "duration": "PT2M32S",
-      "duration_seconds": 152,
-      "view_count": 425509,
-      "like_count": 9515,
-      "comment_count": 843,
-      "category_id": "24",
-      "tags": [
-        "Adam McKay",
-        "Baby Shark",
-        "Blockbuster",
-        "Disaster",
-        "Djimon Hounsou",
-        "Flood",
-        "Hurricane",
-        "Jaws",
-        "Movie Trailers",
-        "Netflix"
-      ],
-      "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
-    },
-    {
-      "video_id": "_v3u3DgIUPA",
-      "title": "SEC Tournament: Kentucky vs. Missouri",
-      "description": "Missouri looks to end a losing skid and Kentucky hopes to ride the momentum of its first round win in the SEC Tournament. The Tigers dropped their last two regular season games but do own a 73-68 victory over the Wildcats earlier in the season.",
+      "video_id": "brHMFTH7hPk",
+      "title": "SEC Tournament: Auburn vs. Tennessee",
+      "description": "Tennessee looks for its second win of the season over Auburn when they meet in the SEC Tournament. The Volunteers handled the Tigers, 77-69 back on Jan. 31. Auburn defeated Mississippi State, 65-57, in first round action.",
       "channel_title": "SEC Network",
       "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T07:02:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_v3u3DgIUPA/hqdefault.jpg",
-      "duration": "PT2H28M11S",
-      "duration_seconds": 8891,
+      "published_at": "2026-03-13T10:28:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/brHMFTH7hPk/hqdefault.jpg",
+      "duration": "PT2H21M41S",
+      "duration_seconds": 8501,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
+      "url": "https://www.youtube.com/watch?v=brHMFTH7hPk"
+    },
+    {
+      "video_id": "2MRMJUTZkbE",
+      "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
+      "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-12T14:03:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
+      "duration": "PT2M52S",
+      "duration_seconds": 172,
+      "view_count": 1099099,
+      "like_count": 19276,
+      "comment_count": 1175,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Devil Wears Prada 2",
+        "The Devils Wears Prada 2 Trailer",
+        "The Devil Wears Prada 2 Trailer",
+        "Anne Hathaway",
+        "Meryl Streep"
+      ],
+      "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
+    },
+    {
+      "video_id": "56euEy5rlUU",
+      "title": "Puerto Rico vs. United States",
+      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-13T09:43:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/56euEy5rlUU/hqdefault.jpg",
+      "duration": "PT1H56M3S",
+      "duration_seconds": 6963,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=56euEy5rlUU"
     }
   ],
   "videos_with_transcripts": [],
@@ -202,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2068787,
-      "like_count": 37193,
-      "comment_count": 2402,
+      "view_count": 2305015,
+      "like_count": 40523,
+      "comment_count": 2646,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -219,6 +219,23 @@
         "movies on hulu"
       ],
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+    },
+    {
+      "video_id": "5gu7LsNuPoA",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-13T09:45:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gu7LsNuPoA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
       "video_id": "iUA5Pj4G7_w",
@@ -238,23 +255,6 @@
       "url": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
     },
     {
-      "video_id": "yyk3g1jdiyc",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T07:34:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yyk3g1jdiyc/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yyk3g1jdiyc"
-    },
-    {
       "video_id": "m-c_3degE60",
       "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
       "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
@@ -264,9 +264,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 462401,
-      "like_count": 30309,
-      "comment_count": 2313,
+      "view_count": 475591,
+      "like_count": 30649,
+      "comment_count": 2341,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -274,21 +274,21 @@
       "url": "https://www.youtube.com/watch?v=m-c_3degE60"
     },
     {
-      "video_id": "6Cpxdp95pwI",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-13T06:53:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Cpxdp95pwI/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "video_id": "OB-CRMJI7eU",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-13T08:34:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OB-CRMJI7eU/hqdefault.jpg",
+      "duration": "PT2H3M30S",
+      "duration_seconds": 7410,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+      "url": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
     },
     {
       "video_id": "SCYT8vb2siQ",
@@ -300,170 +300,121 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 3066970,
-      "like_count": 28862,
-      "comment_count": 2011,
+      "view_count": 3276477,
+      "like_count": 30576,
+      "comment_count": 2090,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "7YJac_d8DL4",
-      "title": "Italy vs. Mexico",
-      "description": "From Daikin Park in Houston.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-12T08:59:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7YJac_d8DL4/hqdefault.jpg",
-      "duration": "PT3H34M16S",
-      "duration_seconds": 12856,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
-    },
-    {
-      "video_id": "hzyOsNyDkbM",
-      "title": "Thrash | Official Trailer | Netflix",
-      "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks. Directed by Tommy Wirkola and produced by Adam McKay (Don’t Look Up), the film stars Phoebe Dynevor, Djimon Hounsou and Whitney Peak. THRASH is only on Netflix, April 10.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82650122\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThrash | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nWhen a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-12T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
-      "duration": "PT2M32S",
-      "duration_seconds": 152,
-      "view_count": 425509,
-      "like_count": 9515,
-      "comment_count": 843,
-      "category_id": "24",
-      "tags": [
-        "Adam McKay",
-        "Baby Shark",
-        "Blockbuster",
-        "Disaster",
-        "Djimon Hounsou",
-        "Flood",
-        "Hurricane",
-        "Jaws",
-        "Movie Trailers",
-        "Netflix"
-      ],
-      "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
-    },
-    {
-      "video_id": "_v3u3DgIUPA",
-      "title": "SEC Tournament: Kentucky vs. Missouri",
-      "description": "Missouri looks to end a losing skid and Kentucky hopes to ride the momentum of its first round win in the SEC Tournament. The Tigers dropped their last two regular season games but do own a 73-68 victory over the Wildcats earlier in the season.",
+      "video_id": "brHMFTH7hPk",
+      "title": "SEC Tournament: Auburn vs. Tennessee",
+      "description": "Tennessee looks for its second win of the season over Auburn when they meet in the SEC Tournament. The Volunteers handled the Tigers, 77-69 back on Jan. 31. Auburn defeated Mississippi State, 65-57, in first round action.",
       "channel_title": "SEC Network",
       "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T07:02:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_v3u3DgIUPA/hqdefault.jpg",
-      "duration": "PT2H28M11S",
-      "duration_seconds": 8891,
+      "published_at": "2026-03-13T10:28:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/brHMFTH7hPk/hqdefault.jpg",
+      "duration": "PT2H21M41S",
+      "duration_seconds": 8501,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
+      "url": "https://www.youtube.com/watch?v=brHMFTH7hPk"
+    },
+    {
+      "video_id": "2MRMJUTZkbE",
+      "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
+      "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-12T14:03:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
+      "duration": "PT2M52S",
+      "duration_seconds": 172,
+      "view_count": 1099099,
+      "like_count": 19276,
+      "comment_count": 1175,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Devil Wears Prada 2",
+        "The Devils Wears Prada 2 Trailer",
+        "The Devil Wears Prada 2 Trailer",
+        "Anne Hathaway",
+        "Meryl Streep"
+      ],
+      "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
+    },
+    {
+      "video_id": "56euEy5rlUU",
+      "title": "Puerto Rico vs. United States",
+      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-13T09:43:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/56euEy5rlUU/hqdefault.jpg",
+      "duration": "PT1H56M3S",
+      "duration_seconds": 6963,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=56euEy5rlUU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 9,
-        "total_views": 6023667,
-        "average_views_per_video": 669296,
-        "categories": "Unknown"
-      },
       "content_trends": {
-        "type_of_content": [
-          {
-            "type": "Trailers",
-            "videos": [
-              "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
-              "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-              "Disclosure Day | Official Trailer",
-              "Thrash | Official Trailer | Netflix"
-            ],
-            "insight": "Trailers for new content, whether TV shows, video games, or films, show significant interest. These tend to generate hype and anticipation, contributing to higher view counts."
-          },
-          {
-            "type": "Live Sports",
-            "videos": [
-              "College Basketball Live Scoreboard",
-              "SEC Tournament: Kentucky vs. Missouri",
-              "Italy vs. Mexico"
-            ],
-            "insight": "Live sports content is consistently trending, indicating a strong audience interest in real-time sports updates and events."
-          },
-          {
-            "type": "News",
-            "videos": [
-              "The Five",
-              "CNN Global Report: War With Iran"
-            ],
-            "insight": "News-related content remains relevant, especially when covering significant global events. This suggests a demand for timely and informative news coverage."
-          }
-        ]
+        "diversity_in_content": {
+          "observation": "The trending videos cover a wide range of topics including entertainment, sports, news, and gaming.",
+          "insight": "This diversity suggests a broad audience interest across multiple domains, indicating opportunities for creators in niche markets as well as mainstream categories."
+        },
+        "trailer_and_teaser_effectiveness": {
+          "observation": "Trailers and teasers for future releases such as 'THE DEVIL WEARS PRADA 2' and 'Malcolm in the Middle' have made it to the trending list.",
+          "insight": "High engagement with trailers suggests that audiences are highly responsive to previews of anticipated content. Creators can capitalize on this by producing high-quality teasers for upcoming projects."
+        },
+        "live_content_popularity": {
+          "observation": "Live events such as sports ('College Basketball Live Scoreboard', 'SEC Tournament', and 'Live From THE PLAYERS') and live news ('Jesse Watters Primetime') are trending.",
+          "insight": "There is a significant demand for real-time content, indicating opportunities for live streaming events, especially in sports and news categories where immediacy is crucial."
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel": "Hulu",
-            "number_of_videos": 1,
-            "insight": "Hulu's presence in trending content is notable, leveraging popular culture to engage audiences."
-          },
-          {
-            "channel": "ESPN",
-            "number_of_videos": 1,
-            "insight": "As a major sports broadcaster, ESPN maintains relevance through live sports coverage, tapping into a dedicated sports audience."
-          },
-          {
-            "channel": "FOX News",
-            "number_of_videos": 1,
-            "insight": "FOX News captures significant viewer interest, showcasing the platform's strength in delivering news content."
-          },
-          {
-            "channel": "Fortnite",
-            "number_of_videos": 1,
-            "insight": "Fortnite continues to captivate the gaming community, indicating the game's sustained popularity and engagement."
-          },
-          {
-            "channel": "CNN",
-            "number_of_videos": 1,
-            "insight": "CNN's coverage of global events ensures its content remains relevant, particularly during major geopolitical developments."
-          }
-        ]
+        "platform_and_channel_diversity": {
+          "observation": "The top channels come from a variety of platforms, including streaming services (Hulu), news outlets (FOX News), sports networks (ESPN), and gaming companies (Fortnite).",
+          "insight": "Success on YouTube is not limited to individual creators but extends to large networks and companies. Establishing a strong brand presence across multiple content types can enhance visibility and reach on the platform."
+        },
+        "cross-promotion opportunities": {
+          "observation": "There are instances of cross-promotion potential, such as Hulu promoting a new series with a trailer.",
+          "insight": "Companies can benefit from leveraging their presence on YouTube to cross-promote their other media properties and platforms, maximizing their audience reach."
+        }
       },
       "market_opportunities": {
-        "potential_categories": [
-          {
-            "category": "Entertainment Trailers",
-            "opportunity": "Capitalize on the demand for new entertainment content by producing engaging trailers and teasers."
-          },
-          {
-            "category": "Live Sports Coverage",
-            "opportunity": "Enhance live sports broadcasting capabilities to attract sports enthusiasts seeking real-time updates."
-          },
-          {
-            "category": "News and Current Affairs",
-            "opportunity": "Expand news coverage, especially for breaking news and global events, to capture an audience interested in timely content."
-          }
-        ],
-        "strategic_recommendations": [
-          {
-            "recommendation": "Improve content categorization to better understand and leverage trends across different genres and topics."
-          },
-          {
-            "recommendation": "Explore collaborations with popular channels to increase reach and audience engagement, particularly in the entertainment and sports sectors."
-          },
-          {
-            "recommendation": "Utilize data analytics to identify peak viewing times and optimize content release schedules for maximum impact."
-          }
+        "niche_content_exploration": {
+          "observation": "With a diverse range of trending content, there is room for niche content to capture audience interest.",
+          "insight": "Emerging creators and companies can explore niche markets that align with trending themes but are underserved, such as lesser-known sports or behind-the-scenes content."
+        },
+        "engagement_with_trending_topics": {
+          "observation": "Trending topics such as popular sports events and anticipated series or movie releases draw significant attention.",
+          "insight": "Aligning content strategies with trending topics and seasonal events can boost visibility and engagement. Timely content related to popular events or releases can attract more viewers."
+        }
+      },
+      "data_overview": {
+        "total_videos": 9,
+        "total_views": 7156182,
+        "average_views_per_video": 795131.33,
+        "top_performing_content_types": [
+          "Trailers",
+          "Live sports events",
+          "News segments"
         ]
       },
       "metadata_stats": {
@@ -472,7 +423,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 669296
+        "avg_views_per_video": 795131
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
