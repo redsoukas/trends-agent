@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-13T03:52:10.401910",
+  "timestamp": "2026-03-13T06:26:25.439088",
   "date": "2026-03-13",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1603238,
-      "like_count": 30224,
-      "comment_count": 2010,
+      "view_count": 1869003,
+      "like_count": 33701,
+      "comment_count": 2194,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "ETrRe9vwXTI",
-      "title": "America Reports",
-      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "video_id": "Frfci1buwvo",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T02:31:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETrRe9vwXTI/hqdefault.jpg",
+      "published_at": "2026-03-13T03:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Frfci1buwvo/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,26 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ETrRe9vwXTI"
-    },
-    {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 422640,
-      "like_count": 29472,
-      "comment_count": 2247,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "url": "https://www.youtube.com/watch?v=Frfci1buwvo"
     },
     {
       "video_id": "7YJac_d8DL4",
@@ -94,6 +75,42 @@
       "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
     },
     {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 443663,
+      "like_count": 29929,
+      "comment_count": 2291,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
+      "video_id": "RzlI6mlT89k",
+      "title": "Big 12 Tournament: Iowa State vs. Texas Tech",
+      "description": "The Cyclones and Red Raiders kick off the quarterfinal round of the Big 12 Basketball Tournament. Texas Tech is coming off consecutive losses in its last two regular season games. Iowa State easily defeated Arizona State in the second round.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T04:57:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RzlI6mlT89k/hqdefault.jpg",
+      "duration": "PT2H6M11S",
+      "duration_seconds": 7571,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RzlI6mlT89k"
+    },
+    {
       "video_id": "SCYT8vb2siQ",
       "title": "Disclosure Day | Official Trailer",
       "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
@@ -103,29 +120,37 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 2307026,
-      "like_count": 25122,
-      "comment_count": 1833,
+      "view_count": 2480128,
+      "like_count": 27052,
+      "comment_count": 1925,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "E__k2Ra3jGI",
-      "title": "Live From THE PLAYERS",
-      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-13T02:28:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E__k2Ra3jGI/hqdefault.jpg",
-      "duration": "PT3H2M26S",
-      "duration_seconds": 10946,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=E__k2Ra3jGI"
+      "video_id": "hGM2OHO1dsU",
+      "title": "One of These Cups Has a Spider Under it...",
+      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-03-12T19:43:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
+      "duration": "PT31M18S",
+      "duration_seconds": 1878,
+      "view_count": 651637,
+      "like_count": 39614,
+      "comment_count": 1260,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "spider roulette",
+        "spider roulette game",
+        "spider roulette gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
     },
     {
       "video_id": "hzyOsNyDkbM",
@@ -137,9 +162,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 328898,
-      "like_count": 8252,
-      "comment_count": 779,
+      "view_count": 375903,
+      "like_count": 8886,
+      "comment_count": 819,
       "category_id": "24",
       "tags": [
         "Adam McKay",
@@ -156,74 +181,21 @@
       "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
     },
     {
-      "video_id": "hGM2OHO1dsU",
-      "title": "One of These Cups Has a Spider Under it...",
-      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-12T19:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
-      "duration": "PT31M18S",
-      "duration_seconds": 1878,
-      "view_count": 518475,
-      "like_count": 34874,
-      "comment_count": 1167,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "spider roulette",
-        "spider roulette game",
-        "spider roulette gameplay"
-      ],
-      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
-    },
-    {
-      "video_id": "2MRMJUTZkbE",
-      "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
-      "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-12T14:03:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
-      "duration": "PT2M52S",
-      "duration_seconds": 172,
-      "view_count": 641513,
-      "like_count": 12599,
-      "comment_count": 847,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "The Devil Wears Prada 2",
-        "The Devils Wears Prada 2 Trailer",
-        "The Devil Wears Prada 2 Trailer",
-        "Anne Hathaway",
-        "Meryl Streep"
-      ],
-      "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
-    },
-    {
-      "video_id": "AcHsH9OHiMA",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-13T00:52:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcHsH9OHiMA/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "video_id": "El-NTHNdj2I",
+      "title": "The Mina Kimes Show Featuring Lenny",
+      "description": "A popular NFL-focused podcast hosted by Mina Kimes, an NFL analyst at ESPN. The show features Kimes and her dog Lenny, and often includes guests discussing various NFL storylines and topics.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T03:54:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/El-NTHNdj2I/hqdefault.jpg",
+      "duration": "PT41M5S",
+      "duration_seconds": 2465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=AcHsH9OHiMA"
+      "url": "https://www.youtube.com/watch?v=El-NTHNdj2I"
     }
   ],
   "videos_with_transcripts": [],
@@ -238,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 1603238,
-      "like_count": 30224,
-      "comment_count": 2010,
+      "view_count": 1869003,
+      "like_count": 33701,
+      "comment_count": 2194,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -257,13 +229,13 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "ETrRe9vwXTI",
-      "title": "America Reports",
-      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "video_id": "Frfci1buwvo",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T02:31:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETrRe9vwXTI/hqdefault.jpg",
+      "published_at": "2026-03-13T03:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Frfci1buwvo/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -271,26 +243,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ETrRe9vwXTI"
-    },
-    {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 422640,
-      "like_count": 29472,
-      "comment_count": 2247,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "url": "https://www.youtube.com/watch?v=Frfci1buwvo"
     },
     {
       "video_id": "7YJac_d8DL4",
@@ -310,6 +263,42 @@
       "url": "https://www.youtube.com/watch?v=7YJac_d8DL4"
     },
     {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 443663,
+      "like_count": 29929,
+      "comment_count": 2291,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
+      "video_id": "RzlI6mlT89k",
+      "title": "Big 12 Tournament: Iowa State vs. Texas Tech",
+      "description": "The Cyclones and Red Raiders kick off the quarterfinal round of the Big 12 Basketball Tournament. Texas Tech is coming off consecutive losses in its last two regular season games. Iowa State easily defeated Arizona State in the second round.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-13T04:57:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RzlI6mlT89k/hqdefault.jpg",
+      "duration": "PT2H6M11S",
+      "duration_seconds": 7571,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RzlI6mlT89k"
+    },
+    {
       "video_id": "SCYT8vb2siQ",
       "title": "Disclosure Day | Official Trailer",
       "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
@@ -319,29 +308,37 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 2307026,
-      "like_count": 25122,
-      "comment_count": 1833,
+      "view_count": 2480128,
+      "like_count": 27052,
+      "comment_count": 1925,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
-      "video_id": "E__k2Ra3jGI",
-      "title": "Live From THE PLAYERS",
-      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-13T02:28:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E__k2Ra3jGI/hqdefault.jpg",
-      "duration": "PT3H2M26S",
-      "duration_seconds": 10946,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=E__k2Ra3jGI"
+      "video_id": "hGM2OHO1dsU",
+      "title": "One of These Cups Has a Spider Under it...",
+      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-03-12T19:43:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
+      "duration": "PT31M18S",
+      "duration_seconds": 1878,
+      "view_count": 651637,
+      "like_count": 39614,
+      "comment_count": 1260,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "spider roulette",
+        "spider roulette game",
+        "spider roulette gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
     },
     {
       "video_id": "hzyOsNyDkbM",
@@ -353,9 +350,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hzyOsNyDkbM/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 328898,
-      "like_count": 8252,
-      "comment_count": 779,
+      "view_count": 375903,
+      "like_count": 8886,
+      "comment_count": 819,
       "category_id": "24",
       "tags": [
         "Adam McKay",
@@ -372,158 +369,109 @@
       "url": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
     },
     {
-      "video_id": "hGM2OHO1dsU",
-      "title": "One of These Cups Has a Spider Under it...",
-      "description": "Spider Roulette was a horrible idea.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://99sou",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-12T19:43:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hGM2OHO1dsU/hqdefault.jpg",
-      "duration": "PT31M18S",
-      "duration_seconds": 1878,
-      "view_count": 518475,
-      "like_count": 34874,
-      "comment_count": 1167,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "spider roulette",
-        "spider roulette game",
-        "spider roulette gameplay"
-      ],
-      "url": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
-    },
-    {
-      "video_id": "2MRMJUTZkbE",
-      "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
-      "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-12T14:03:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
-      "duration": "PT2M52S",
-      "duration_seconds": 172,
-      "view_count": 641513,
-      "like_count": 12599,
-      "comment_count": 847,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "The Devil Wears Prada 2",
-        "The Devils Wears Prada 2 Trailer",
-        "The Devil Wears Prada 2 Trailer",
-        "Anne Hathaway",
-        "Meryl Streep"
-      ],
-      "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
-    },
-    {
-      "video_id": "AcHsH9OHiMA",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-13T00:52:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcHsH9OHiMA/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "video_id": "El-NTHNdj2I",
+      "title": "The Mina Kimes Show Featuring Lenny",
+      "description": "A popular NFL-focused podcast hosted by Mina Kimes, an NFL analyst at ESPN. The show features Kimes and her dog Lenny, and often includes guests discussing various NFL storylines and topics.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T03:54:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/El-NTHNdj2I/hqdefault.jpg",
+      "duration": "PT41M5S",
+      "duration_seconds": 2465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=AcHsH9OHiMA"
+      "url": "https://www.youtube.com/watch?v=El-NTHNdj2I"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "total_videos": 10,
-        "total_views": 5821790,
-        "average_views_per_video": 582179,
-        "content_category_analysis": {
-          "observations": "The categories of the videos are not explicitly known, but inferred categories include entertainment, news, sports, and gaming based on video titles and channel names.",
-          "potential_categories": [
-            "Entertainment",
-            "News",
-            "Gaming",
-            "Sports"
-          ]
+      "content_trends": {
+        "entertainment_media": {
+          "trend": "High visibility of trailers",
+          "data": {
+            "trailer_videos_count": 3,
+            "percentage_of_total_videos": 33.33
+          },
+          "insights": "Trailers for upcoming shows or events (Hulu, Netflix) are gaining traction, indicating strong viewer interest in upcoming entertainment content. This suggests a market opportunity for content creators to capitalize on pre-release hype and behind-the-scenes content."
         },
-        "video_title_analysis": {
-          "trailer_dominance": {
-            "count": 4,
-            "percentage": 40,
-            "insight": "Trailers, both for movies and TV shows, are a significant portion of the trending content, indicating strong viewer interest in upcoming entertainment releases."
+        "sports": {
+          "trend": "Diverse interest in sports",
+          "data": {
+            "sports_videos_count": 2,
+            "percentage_of_total_videos": 22.22
           },
-          "news_and_current_events": {
-            "count": 2,
-            "percentage": 20,
-            "insight": "News content also appears frequently, reflecting ongoing viewer interest in current events and political discussions."
-          },
-          "gaming_content": {
-            "count": 1,
-            "percentage": 10,
-            "insight": "The presence of a gaming-related video, specifically Fortnite, highlights the continued popularity of gaming content on YouTube."
-          },
-          "miscellaneous": {
-            "count": 3,
-            "percentage": 30,
-            "insight": "Diverse content (e.g., sports, unique challenges) suggests that unique and varied content can also capture viewer attention and trend."
-          }
+          "insights": "Sports content, ranging from live events (Iowa State vs. Texas Tech) to international matches (Italy vs. Mexico), shows a consistent viewer base. Expanding into analysis, highlights, and fan engagement content could enhance viewer retention."
         },
-        "top_channels_analysis": {
-          "entertainment_leaders": {
-            "channels": [
-              "Hulu",
-              "Universal Pictures",
-              "Netflix"
-            ],
-            "insight": "Channels associated with major entertainment platforms are prominent, underscoring the influence and reach of established media companies in driving trending content."
+        "gaming": {
+          "trend": "Continued interest in gaming content",
+          "data": {
+            "gaming_videos_count": 1,
+            "percentage_of_total_videos": 11.11
           },
-          "news_presence": {
-            "channels": [
-              "FOX News"
-            ],
-            "insight": "Established news outlets maintain a strong presence, suggesting a consistent demand for news coverage and analysis."
-          },
-          "gaming_influence": {
-            "channels": [
-              "Fortnite"
-            ],
-            "insight": "Gaming remains a powerful content category, with popular games like Fortnite regularly surfacing in trending lists."
-          }
+          "insights": "Gaming content like Fortnite trailers maintains a strong presence on trending lists, indicating an opportunity for gaming creators to explore new season updates, strategies, and player collaborations."
         },
-        "market_opportunities": {
-          "increased_trailer_content": {
-            "opportunity": "Create more engaging trailer content to capitalize on viewer interest in upcoming entertainment releases."
+        "talk_shows_and_discussions": {
+          "trend": "Interest in talk shows and discussions",
+          "data": {
+            "discussion_videos_count": 2,
+            "percentage_of_total_videos": 22.22
           },
-          "diversification_of_news_content": {
-            "opportunity": "Expand news content offerings to cater to diverse audience interests and capitalize on the sustained demand for current events coverage."
+          "insights": "Talk shows such as The Will Cain Show and The Mina Kimes Show Featuring Lenny highlight an interest in topical discussions and expert opinions. This indicates a potential for developing niche-specific discussion content catering to targeted audiences."
+        },
+        "miscellaneous": {
+          "trend": "Variety content gaining traction",
+          "data": {
+            "miscellaneous_videos_count": 1,
+            "percentage_of_total_videos": 11.11
           },
-          "enhanced_gaming_experiences": {
-            "opportunity": "Develop interactive and immersive gaming content to tap into the gaming community's engagement."
-          },
-          "unique_and_interactive_content": {
-            "opportunity": "Produce innovative and interactive content that challenges traditional formats, such as unique challenges or live events, to capture viewer interest."
-          }
+          "insights": "Unique content like 'One of These Cups Has a Spider Under it...' suggests an opportunity to explore novelty and surprise elements in content creation, potentially increasing viewer engagement."
+        }
+      },
+      "creator_patterns": {
+        "media_and_streaming_services": {
+          "channels": [
+            "Hulu",
+            "Netflix"
+          ],
+          "insights": "Streaming services are leveraging YouTube's platform to promote their exclusive content through trailers, indicating a strategic use of social media to build anticipation and drive subscriptions."
+        },
+        "news_and_sports": {
+          "channels": [
+            "FOX News",
+            "FS1",
+            "ESPN"
+          ],
+          "insights": "News and sports channels are consistently using YouTube to broadcast highlights and expert analysis, suggesting an opportunity to expand into real-time coverage and interactive viewer segments."
+        },
+        "gaming": {
+          "channels": [
+            "Fortnite"
+          ],
+          "insights": "Gaming companies use YouTube for releasing cinematic content which not only promotes new game features but also enhances community engagement through visual storytelling."
+        }
+      },
+      "market_opportunities": {
+        "cross-platform_promotion": {
+          "insight": "With the presence of diverse content categories, there is an opportunity for cross-platform promotional strategies that integrate YouTube with other social media to amplify reach and engagement."
+        },
+        "interactive_content": {
+          "insight": "Given the varied interests, developing interactive content such as polls, live Q&A, and viewer challenges can increase engagement and retention across different viewer demographics."
+        },
+        "niche_targeting": {
+          "insight": "Targeting niche audiences with specialized content (e.g., deep dive discussions, niche sports or hobbies) could capture dedicated viewership, particularly in underrepresented areas."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 582179
+        "avg_views_per_video": 646703
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
