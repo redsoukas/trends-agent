@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T15:22:33.319321",
+  "timestamp": "2026-03-13T18:18:57.199191",
   "date": "2026-03-13",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2565194,
-      "like_count": 44394,
-      "comment_count": 2959,
+      "view_count": 2870541,
+      "like_count": 48185,
+      "comment_count": 3286,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -58,6 +58,42 @@
       "url": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
     },
     {
+      "video_id": "PAEEQybW240",
+      "title": "Big 12 Tournament: TCU vs. Kansas",
+      "description": "The T-Mobile Center hosts the TCU Horned Frogs and the Kansas Jayhawks for a Big 12 Tournament quarterfinal. TCU rides a six-game win streak after a 95-88 victory over Oklahoma State. Kansas just snapped a two-game slide by beating KSU 104-85.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T16:39:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PAEEQybW240/hqdefault.jpg",
+      "duration": "PT2H21M26S",
+      "duration_seconds": 8486,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PAEEQybW240"
+    },
+    {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 513206,
+      "like_count": 31487,
+      "comment_count": 2404,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
       "video_id": "5gu7LsNuPoA",
       "title": "Jesse Watters Primetime",
       "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
@@ -75,23 +111,21 @@
       "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 492094,
-      "like_count": 31130,
-      "comment_count": 2378,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 4067826,
+      "like_count": 34890,
+      "comment_count": 2361,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "OB-CRMJI7eU",
@@ -111,40 +145,6 @@
       "url": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
     },
     {
-      "video_id": "SCYT8vb2siQ",
-      "title": "Disclosure Day | Official Trailer",
-      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-03-12T15:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 3681706,
-      "like_count": 32784,
-      "comment_count": 2200,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
-    },
-    {
-      "video_id": "IwVMMg7ssPo",
-      "title": "SEC Tournament: Ole Miss vs. Georgia",
-      "description": "Ole Miss plays Georgia in the SEC Tournament second round. Fresh off an upset of Texas, the 15th-seeded Rebels seek a repeat of their 97-95 overtime win against the Bulldogs in January. Georgia enters with a program-record 22 regular-season wins.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T12:23:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IwVMMg7ssPo/hqdefault.jpg",
-      "duration": "PT2H20M26S",
-      "duration_seconds": 8426,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=IwVMMg7ssPo"
-    },
-    {
       "video_id": "2MRMJUTZkbE",
       "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
       "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
@@ -154,9 +154,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
       "duration": "PT2M52S",
       "duration_seconds": 172,
-      "view_count": 1256443,
-      "like_count": 22338,
-      "comment_count": 1314,
+      "view_count": 1424408,
+      "like_count": 25218,
+      "comment_count": 1479,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -173,21 +173,21 @@
       "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
     },
     {
-      "video_id": "zPxbD8z2FNo",
-      "title": "Fab Five",
-      "description": "This film chronicles the recruitment, notorious time-out fiasco and cultural impact of the 1990s Michigan Wolverines men's basketball players known collectively as the Fab Five.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-13T11:56:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zPxbD8z2FNo/hqdefault.jpg",
-      "duration": "PT1H56M45S",
-      "duration_seconds": 7005,
+      "video_id": "S98qrHqwXZ4",
+      "title": "SEC Tournament: Oklahoma vs. Texas A&M",
+      "description": "Bridgestone Arena welcomes the Oklahoma Sooners and the Texas A&M Aggies for an SEC Tournament second round battle. Oklahoma advances after an 86-74 victory against South Carolina. Texas A&M enters following a thrilling 94-91 3OT win over LSU.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-03-13T15:46:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S98qrHqwXZ4/hqdefault.jpg",
+      "duration": "PT2H15M30S",
+      "duration_seconds": 8130,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zPxbD8z2FNo"
+      "url": "https://www.youtube.com/watch?v=S98qrHqwXZ4"
     }
   ],
   "videos_with_transcripts": [],
@@ -202,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2565194,
-      "like_count": 44394,
-      "comment_count": 2959,
+      "view_count": 2870541,
+      "like_count": 48185,
+      "comment_count": 3286,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -238,6 +238,42 @@
       "url": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
     },
     {
+      "video_id": "PAEEQybW240",
+      "title": "Big 12 Tournament: TCU vs. Kansas",
+      "description": "The T-Mobile Center hosts the TCU Horned Frogs and the Kansas Jayhawks for a Big 12 Tournament quarterfinal. TCU rides a six-game win streak after a 95-88 victory over Oklahoma State. Kansas just snapped a two-game slide by beating KSU 104-85.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-13T16:39:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PAEEQybW240/hqdefault.jpg",
+      "duration": "PT2H21M26S",
+      "duration_seconds": 8486,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PAEEQybW240"
+    },
+    {
+      "video_id": "m-c_3degE60",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
+      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-12T13:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
+      "duration": "PT1M17S",
+      "duration_seconds": 77,
+      "view_count": 513206,
+      "like_count": 31487,
+      "comment_count": 2404,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+    },
+    {
       "video_id": "5gu7LsNuPoA",
       "title": "Jesse Watters Primetime",
       "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
@@ -255,23 +291,21 @@
       "url": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 492094,
-      "like_count": 31130,
-      "comment_count": 2378,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 4067826,
+      "like_count": 34890,
+      "comment_count": 2361,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "OB-CRMJI7eU",
@@ -291,40 +325,6 @@
       "url": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
     },
     {
-      "video_id": "SCYT8vb2siQ",
-      "title": "Disclosure Day | Official Trailer",
-      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-03-12T15:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 3681706,
-      "like_count": 32784,
-      "comment_count": 2200,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
-    },
-    {
-      "video_id": "IwVMMg7ssPo",
-      "title": "SEC Tournament: Ole Miss vs. Georgia",
-      "description": "Ole Miss plays Georgia in the SEC Tournament second round. Fresh off an upset of Texas, the 15th-seeded Rebels seek a repeat of their 97-95 overtime win against the Bulldogs in January. Georgia enters with a program-record 22 regular-season wins.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-13T12:23:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IwVMMg7ssPo/hqdefault.jpg",
-      "duration": "PT2H20M26S",
-      "duration_seconds": 8426,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=IwVMMg7ssPo"
-    },
-    {
       "video_id": "2MRMJUTZkbE",
       "title": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
       "description": "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026) Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci\n© 2025 - 20th Century Studios",
@@ -334,9 +334,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2MRMJUTZkbE/hqdefault.jpg",
       "duration": "PT2M52S",
       "duration_seconds": 172,
-      "view_count": 1256443,
-      "like_count": 22338,
-      "comment_count": 1314,
+      "view_count": 1424408,
+      "like_count": 25218,
+      "comment_count": 1479,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -353,81 +353,123 @@
       "url": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
     },
     {
-      "video_id": "zPxbD8z2FNo",
-      "title": "Fab Five",
-      "description": "This film chronicles the recruitment, notorious time-out fiasco and cultural impact of the 1990s Michigan Wolverines men's basketball players known collectively as the Fab Five.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-13T11:56:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zPxbD8z2FNo/hqdefault.jpg",
-      "duration": "PT1H56M45S",
-      "duration_seconds": 7005,
+      "video_id": "S98qrHqwXZ4",
+      "title": "SEC Tournament: Oklahoma vs. Texas A&M",
+      "description": "Bridgestone Arena welcomes the Oklahoma Sooners and the Texas A&M Aggies for an SEC Tournament second round battle. Oklahoma advances after an 86-74 victory against South Carolina. Texas A&M enters following a thrilling 94-91 3OT win over LSU.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-03-13T15:46:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S98qrHqwXZ4/hqdefault.jpg",
+      "duration": "PT2H15M30S",
+      "duration_seconds": 8130,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zPxbD8z2FNo"
+      "url": "https://www.youtube.com/watch?v=S98qrHqwXZ4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "analysis": {
-        "overview": {
-          "total_videos": 9,
-          "total_views": 7995437,
-          "average_views_per_video": 888381,
-          "unknown_categories": true
+      "overview": {
+        "total_videos": 9,
+        "total_views": 8875981,
+        "average_views_per_video": 985109
+      },
+      "content_trends": {
+        "dominant_themes": [
+          "Sports",
+          "Entertainment",
+          "Gaming"
+        ],
+        "sports": {
+          "description": "Three out of nine videos are related to major sports tournaments, indicating high viewer interest in live sports content.",
+          "videos": [
+            "ACC Tournament: Florida State vs. Duke",
+            "Big 12 Tournament: TCU vs. Kansas",
+            "SEC Tournament: Oklahoma vs. Texas A&M"
+          ],
+          "channels": [
+            "ESPN",
+            "ESPN2"
+          ]
         },
-        "content_trends": {
-          "trailer_and_entertainment": {
-            "observation": "4 out of 9 videos are trailers or entertainment-related content, indicating a strong interest in upcoming media content and entertainment.",
-            "videos": [
-              "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
-              "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-              "Disclosure Day | Official Trailer",
-              "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)"
-            ],
-            "opportunity": "Capitalize on releasing trailers and promotional content for new shows, games, and movies."
-          },
-          "sports": {
-            "observation": "3 out of 9 videos are sports-related, suggesting a high engagement in sports content.",
-            "videos": [
-              "ACC Tournament: Florida State vs. Duke",
-              "Live From THE PLAYERS",
-              "SEC Tournament: Ole Miss vs. Georgia"
-            ],
-            "opportunity": "Focus on sports highlights, live streaming, and post-game analysis to capture the sports audience."
-          },
-          "news_and_commentary": {
-            "observation": "1 video is related to news commentary, indicating an interest in current events and political commentary.",
-            "videos": [
-              "Jesse Watters Primetime"
-            ],
-            "opportunity": "Expand content offerings in news analysis and commentary to engage audiences interested in current events."
-          }
+        "entertainment": {
+          "description": "Entertainment trailers, including upcoming movies and TV shows, attract significant attention, highlighting audience interest in fresh content releases.",
+          "videos": [
+            "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
+            "THE DEVIL WEARS PRADA 2 Official Final Trailer (2026)",
+            "Disclosure Day | Official Trailer"
+          ],
+          "channels": [
+            "Hulu"
+          ]
         },
-        "creator_patterns": {
-          "diverse_sources": {
-            "observation": "Content is produced by various prominent channels like Hulu, ESPN, and FOX News.",
-            "opportunity": "Collaborate with well-known media channels to expand reach and viewership."
+        "gaming": {
+          "description": "Gaming content, particularly new season trailers, remains popular, showcasing the gaming community's anticipation for updates.",
+          "videos": [
+            "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer"
+          ],
+          "channels": [
+            "Fortnite"
+          ]
+        }
+      },
+      "creator_patterns": {
+        "top_creators": [
+          {
+            "channel": "Hulu",
+            "video_count": 1,
+            "notable_video": "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu"
           },
-          "gaming": {
-            "observation": "Fortnite's inclusion indicates gaming content's consistent popularity.",
-            "opportunity": "Explore partnerships or content creation in the gaming sector to tap into a large, engaged audience."
+          {
+            "channel": "ESPN",
+            "video_count": 1,
+            "notable_video": "ACC Tournament: Florida State vs. Duke"
+          },
+          {
+            "channel": "ESPN2",
+            "video_count": 1,
+            "notable_video": "Big 12 Tournament: TCU vs. Kansas"
+          },
+          {
+            "channel": "Fortnite",
+            "video_count": 1,
+            "notable_video": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer"
+          },
+          {
+            "channel": "FOX News",
+            "video_count": 1,
+            "notable_video": "Jesse Watters Primetime"
           }
+        ],
+        "channel_overlap": {
+          "description": "Channels are highly specialized with no overlap in video topics, suggesting a focused content strategy tailored to specific audiences."
+        }
+      },
+      "market_opportunities": {
+        "live_sports": {
+          "insight": "Capitalize on the growing demand for live sports content by offering comprehensive coverage and in-depth analysis.",
+          "suggestions": [
+            "Develop more interactive sports content, such as live discussions and expert analyses.",
+            "Explore partnerships with popular sports leagues to provide exclusive behind-the-scenes content."
+          ]
         },
-        "market_opportunities": {
-          "cross-promotion": {
-            "suggestion": "Develop strategic partnerships among entertainment, sports, and news channels to create cross-promotional content that attracts diverse audiences."
-          },
-          "content_diversification": {
-            "suggestion": "Diversify content offerings by blending entertainment with educational or informational content to cater to a broader audience base."
-          },
-          "engagement_strategies": {
-            "suggestion": "Leverage live streaming and interactive content formats, such as Q&As or live commentary, to increase viewer engagement and retention."
-          }
+        "entertainment_trailers": {
+          "insight": "The success of entertainment trailers points to an opportunity to engage audiences with behind-the-scenes content and exclusive interviews.",
+          "suggestions": [
+            "Create mini-documentaries or featurettes about the making of upcoming shows and movies.",
+            "Leverage social media to build anticipation through short teasers and interactive fan engagement."
+          ]
+        },
+        "gaming_updates": {
+          "insight": "High engagement with gaming trailers indicates a market for gaming news and update channels.",
+          "suggestions": [
+            "Launch a dedicated channel for gaming news, updates, and fan theories.",
+            "Host live-stream events to discuss new game features and updates with developers and community influencers."
+          ]
         }
       },
       "metadata_stats": {
@@ -436,7 +478,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 888381
+        "avg_views_per_video": 986220
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
