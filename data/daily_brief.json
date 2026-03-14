@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T00:42:08.769483",
+  "timestamp": "2026-03-14T03:51:25.299337",
   "date": "2026-03-14",
   "summary": {
     "total_videos_analyzed": 9,
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 3662803,
-      "like_count": 55752,
-      "comment_count": 3621,
+      "view_count": 4007687,
+      "like_count": 57957,
+      "comment_count": 3780,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -58,13 +58,13 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "-QrBqirWfvs",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "GciYeVpt_r4",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T21:39:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-QrBqirWfvs/hqdefault.jpg",
+      "published_at": "2026-03-14T01:57:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GciYeVpt_r4/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -72,7 +72,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=-QrBqirWfvs"
+      "url": "https://www.youtube.com/watch?v=GciYeVpt_r4"
     },
     {
       "video_id": "vMc_pWm7G7o",
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
       "duration": "PT2M35S",
       "duration_seconds": 155,
-      "view_count": 328890,
-      "like_count": 7289,
-      "comment_count": 464,
+      "view_count": 381328,
+      "like_count": 8129,
+      "comment_count": 499,
       "category_id": "24",
       "tags": [
         "Adam DiMarco",
@@ -103,40 +103,49 @@
       "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
     },
     {
-      "video_id": "TOkUZaRUwAI",
-      "title": "The Players Championship: First Round",
-      "description": "From TPC Sawgrass in Ponte Vedra Beach, Fla.",
+      "video_id": "0M_TCIOuBo8",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
       "channel_title": "Golf Channel",
       "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-13T17:47:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TOkUZaRUwAI/hqdefault.jpg",
-      "duration": "PT6H47M1S",
-      "duration_seconds": 24421,
+      "published_at": "2026-03-14T02:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0M_TCIOuBo8/hqdefault.jpg",
+      "duration": "PT3H16S",
+      "duration_seconds": 10816,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TOkUZaRUwAI"
+      "url": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 559041,
-      "like_count": 32387,
-      "comment_count": 2466,
-      "category_id": "20",
+      "video_id": "_mh0bgWazEM",
+      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
+      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-13T16:31:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "duration_seconds": 136,
+      "view_count": 220763,
+      "like_count": 3718,
+      "comment_count": 562,
+      "category_id": "1",
       "tags": [
-        "yt:cc=on"
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "Street Fighter",
+        "Street Fighter Trailer",
+        "Jason Momoa",
+        "Roman Reigns",
+        "Cody Rhodes"
       ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
     },
     {
       "video_id": "PAEEQybW240",
@@ -156,32 +165,21 @@
       "url": "https://www.youtube.com/watch?v=PAEEQybW240"
     },
     {
-      "video_id": "_mh0bgWazEM",
-      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
-      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-13T16:31:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "duration_seconds": 136,
-      "view_count": 173730,
-      "like_count": 3167,
-      "comment_count": 461,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Street Fighter",
-        "Street Fighter Trailer",
-        "Jason Momoa",
-        "Roman Reigns",
-        "Cody Rhodes"
-      ],
-      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 7408864,
+      "like_count": 40382,
+      "comment_count": 2791,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "uNzOmLhmU1k",
@@ -193,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uNzOmLhmU1k/hqdefault.jpg",
       "duration": "PT37M38S",
       "duration_seconds": 2258,
-      "view_count": 1088177,
-      "like_count": 42456,
-      "comment_count": 12639,
+      "view_count": 1337566,
+      "like_count": 46944,
+      "comment_count": 13762,
       "category_id": "24",
       "tags": [
         "fnaf",
@@ -241,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 3662803,
-      "like_count": 55752,
-      "comment_count": 3621,
+      "view_count": 4007687,
+      "like_count": 57957,
+      "comment_count": 3780,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -260,13 +258,13 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "-QrBqirWfvs",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "GciYeVpt_r4",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-13T21:39:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-QrBqirWfvs/hqdefault.jpg",
+      "published_at": "2026-03-14T01:57:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GciYeVpt_r4/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -274,7 +272,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=-QrBqirWfvs"
+      "url": "https://www.youtube.com/watch?v=GciYeVpt_r4"
     },
     {
       "video_id": "vMc_pWm7G7o",
@@ -286,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
       "duration": "PT2M35S",
       "duration_seconds": 155,
-      "view_count": 328890,
-      "like_count": 7289,
-      "comment_count": 464,
+      "view_count": 381328,
+      "like_count": 8129,
+      "comment_count": 499,
       "category_id": "24",
       "tags": [
         "Adam DiMarco",
@@ -305,40 +303,49 @@
       "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
     },
     {
-      "video_id": "TOkUZaRUwAI",
-      "title": "The Players Championship: First Round",
-      "description": "From TPC Sawgrass in Ponte Vedra Beach, Fla.",
+      "video_id": "0M_TCIOuBo8",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
       "channel_title": "Golf Channel",
       "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-13T17:47:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TOkUZaRUwAI/hqdefault.jpg",
-      "duration": "PT6H47M1S",
-      "duration_seconds": 24421,
+      "published_at": "2026-03-14T02:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0M_TCIOuBo8/hqdefault.jpg",
+      "duration": "PT3H16S",
+      "duration_seconds": 10816,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TOkUZaRUwAI"
+      "url": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
     },
     {
-      "video_id": "m-c_3degE60",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-      "description": "The Dark Voyager's plan is set in motion. Fortnite: Showdown starts March 19!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-12T13:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-c_3degE60/hqdefault.jpg",
-      "duration": "PT1M17S",
-      "duration_seconds": 77,
-      "view_count": 559041,
-      "like_count": 32387,
-      "comment_count": 2466,
-      "category_id": "20",
+      "video_id": "_mh0bgWazEM",
+      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
+      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-13T16:31:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "duration_seconds": 136,
+      "view_count": 220763,
+      "like_count": 3718,
+      "comment_count": 562,
+      "category_id": "1",
       "tags": [
-        "yt:cc=on"
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "Street Fighter",
+        "Street Fighter Trailer",
+        "Jason Momoa",
+        "Roman Reigns",
+        "Cody Rhodes"
       ],
-      "url": "https://www.youtube.com/watch?v=m-c_3degE60"
+      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
     },
     {
       "video_id": "PAEEQybW240",
@@ -358,32 +365,21 @@
       "url": "https://www.youtube.com/watch?v=PAEEQybW240"
     },
     {
-      "video_id": "_mh0bgWazEM",
-      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
-      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-13T16:31:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "duration_seconds": 136,
-      "view_count": 173730,
-      "like_count": 3167,
-      "comment_count": 461,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Street Fighter",
-        "Street Fighter Trailer",
-        "Jason Momoa",
-        "Roman Reigns",
-        "Cody Rhodes"
-      ],
-      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+      "video_id": "SCYT8vb2siQ",
+      "title": "Disclosure Day | Official Trailer",
+      "description": "This summer everything will become clear. Disclosure Day in theaters 06.12.26.\n\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to seven billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those films earned more",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-12T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYT8vb2siQ/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 7408864,
+      "like_count": 40382,
+      "comment_count": 2791,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
     },
     {
       "video_id": "uNzOmLhmU1k",
@@ -395,9 +391,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uNzOmLhmU1k/hqdefault.jpg",
       "duration": "PT37M38S",
       "duration_seconds": 2258,
-      "view_count": 1088177,
-      "like_count": 42456,
-      "comment_count": 12639,
+      "view_count": 1337566,
+      "like_count": 46944,
+      "comment_count": 13762,
       "category_id": "24",
       "tags": [
         "fnaf",
@@ -419,106 +415,89 @@
     "metadata_based": {
       "overview": {
         "total_videos": 9,
-        "total_views": 5812641,
-        "average_views_per_video": 645849
+        "total_views": 13356208,
+        "average_views_per_video": 1484023.11
       },
       "content_trends": {
-        "categories": [
-          "Sports",
-          "Entertainment",
-          "News",
-          "Gaming"
-        ],
-        "insights": [
-          {
-            "category": "Sports",
-            "percentage": 33,
-            "videos": [
-              "ACC Tournament: Florida State vs. Duke",
-              "The Players Championship: First Round",
-              "Big 12 Tournament: TCU vs. Kansas"
-            ],
-            "trend": "High interest in live sports events and tournaments, particularly college sports and major golf tournaments."
-          },
-          {
-            "category": "Entertainment",
-            "percentage": 44,
-            "videos": [
-              "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
-              "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
-              "STREET FIGHTER Official Teaser Trailer (2026) Guile"
-            ],
-            "trend": "Strong engagement with trailers for both nostalgic series and upcoming movies or games."
-          },
-          {
-            "category": "News",
-            "percentage": 11,
-            "videos": [
-              "America's Newsroom"
-            ],
-            "trend": "Consistent viewership for current affairs and news analysis."
-          },
-          {
-            "category": "Gaming",
-            "percentage": 22,
-            "videos": [
-              "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
-              "Five Nights At Freddy's 2 In Real Life"
-            ],
-            "trend": "Continued interest in popular gaming franchises, with a focus on new content releases and creative adaptations."
-          }
-        ]
+        "sports": {
+          "description": "Sports-related content appears twice, indicating sustained viewer interest in live events and tournaments.",
+          "videos": [
+            "ACC Tournament: Florida State vs. Duke",
+            "Big 12 Tournament: TCU vs. Kansas"
+          ],
+          "viewership_implication": "Leverage live sports events and highlight reels to attract viewers."
+        },
+        "trailers_and_teasers": {
+          "description": "A significant portion of trending content is in the form of trailers or teasers, including both movies and video games.",
+          "videos": [
+            "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
+            "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
+            "STREET FIGHTER Official Teaser Trailer (2026) Guile",
+            "Disclosure Day | Official Trailer"
+          ],
+          "viewership_implication": "Promotional content for upcoming releases is highly engaging. Consider creating or partnering for exclusive trailer releases."
+        },
+        "gaming": {
+          "description": "The gaming sector is represented by video game related content.",
+          "videos": [
+            "Five Nights At Freddy's 2 In Real Life"
+          ],
+          "viewership_implication": "Capitalize on gaming content by creating walkthroughs, real-life adaptations, or fan theories."
+        },
+        "news_and_reports": {
+          "description": "News content, particularly from reputable channels, maintains a presence in trending videos.",
+          "videos": [
+            "America Reports"
+          ],
+          "viewership_implication": "Timely and relevant news coverage can attract significant views."
+        }
       },
       "creator_patterns": {
-        "dominant_channels": [
-          "ESPN",
-          "Hulu",
-          "FOX News",
-          "Netflix",
-          "Golf Channel"
-        ],
-        "insights": [
-          {
-            "channel": "ESPN",
-            "content_focus": "Sports",
-            "opportunity": "Leverage live event coverage and highlight reels to increase engagement."
+        "top_channels": {
+          "ESPN": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Sports networks like ESPN can consistently leverage live event coverage to trend."
           },
-          {
-            "channel": "Hulu",
-            "content_focus": "Entertainment",
-            "opportunity": "Capitalize on nostalgia and series revivals to attract diverse audiences."
+          "Hulu": {
+            "video_count": 1,
+            "category": "Entertainment",
+            "insight": "Streaming services effectively use platform-exclusive trailers to generate buzz."
           },
-          {
-            "channel": "Netflix",
-            "content_focus": "Entertainment",
-            "opportunity": "Promote exclusive trailers and behind-the-scenes content to boost anticipation."
+          "FOX News": {
+            "video_count": 1,
+            "category": "News",
+            "insight": "Established news channels can maintain viewer interest with timely reports."
           },
-          {
-            "channel": "FOX News",
-            "content_focus": "News",
-            "opportunity": "Maintain regular, up-to-date news segments to retain viewer loyalty."
+          "Netflix": {
+            "video_count": 1,
+            "category": "Entertainment",
+            "insight": "Netflix's promotional content for new releases is a strong engagement driver."
+          },
+          "Golf Channel": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Niche sports content can trend, suggesting opportunities for specialized sports coverage."
           }
-        ]
+        }
       },
       "market_opportunities": {
-        "insights": [
-          {
-            "trend": "Sports",
-            "opportunity": "Develop exclusive partnerships with sports leagues for behind-the-scenes content."
-          },
-          {
-            "trend": "Entertainment",
-            "opportunity": "Invest in original content creation and early teasers to capture early audience interest."
-          },
-          {
-            "trend": "Gaming",
-            "opportunity": "Collaborate with game developers for exclusive first-look trailers and gameplay previews."
-          },
-          {
-            "trend": "News",
-            "opportunity": "Expand digital news presence with interactive and personalized news summaries."
-          }
-        ]
+        "cross-platform promotions": {
+          "description": "Collaborations between streaming platforms and video creators can enhance visibility and engagement.",
+          "strategy": "Engage with platforms like Hulu and Netflix for exclusive content launches."
+        },
+        "live event coverage": {
+          "description": "Live sports and event coverage consistently draw high viewership.",
+          "strategy": "Develop partnerships with sports leagues for exclusive behind-the-scenes content."
+        },
+        "gaming industry": {
+          "description": "Gaming content, especially related to popular franchises, remains a strong area for growth.",
+          "strategy": "Create immersive or interactive content for newly released or popular games."
+        },
+        "news content": {
+          "description": "Timely and relevant news can capture significant viewership.",
+          "strategy": "Focus on real-time reporting and analysis of current events to engage audiences."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -526,7 +505,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 645849
+        "avg_views_per_video": 1484023
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
