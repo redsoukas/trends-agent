@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-14T18:15:26.514655",
+  "timestamp": "2026-03-14T21:11:53.445961",
   "date": "2026-03-14",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 2130485,
-      "like_count": 321594,
-      "comment_count": 8816,
+      "view_count": 2876955,
+      "like_count": 424247,
+      "comment_count": 9218,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 428724,
-      "like_count": 6018,
-      "comment_count": 968,
+      "view_count": 491905,
+      "like_count": 6644,
+      "comment_count": 1075,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -84,6 +84,68 @@
         "Cody Rhodes"
       ],
       "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+    },
+    {
+      "video_id": "IF-zyzrE6Yw",
+      "title": "The Players Championship: Second Round",
+      "description": "From TPC Sawgrass in Ponte Vedra Beach, Fla.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-14T17:53:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IF-zyzrE6Yw/hqdefault.jpg",
+      "duration": "PT6H18M50S",
+      "duration_seconds": 22730,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
+    },
+    {
+      "video_id": "vMc_pWm7G7o",
+      "title": "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
+      "description": "What makes two people soulmates? From the Executive Producers of Stranger Things, and the Director of Baby Reindeer, Camila Morrone and Adam DiMarco star in SOMETHING VERY BAD IS GOING TO HAPPEN, coming to Netflix March 26th.\n\nWatch on Netflix: https://www.netflix.com/title/81667464\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSomething Very Bad Is Going to Happen | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-13T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
+      "duration": "PT2M35S",
+      "duration_seconds": 155,
+      "view_count": 782801,
+      "like_count": 13520,
+      "comment_count": 748,
+      "category_id": "24",
+      "tags": [
+        "Adam DiMarco",
+        "Are You Sure He’s the One",
+        "Baby Reindeer",
+        "Camila Morrone",
+        "Don’t Marry Him",
+        "Duffer Brothers",
+        "Gus Birney",
+        "Haley Z. Boston",
+        "Jeff Wilbusch",
+        "Jennifer Jason Leigh"
+      ],
+      "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
+    },
+    {
+      "video_id": "2Ya_IqSMalw",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-14T19:41:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Ya_IqSMalw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -103,66 +165,32 @@
       "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
     },
     {
-      "video_id": "0dqqJnNvNv8",
-      "title": "SEC Tournament: Oklahoma vs. Arkansas",
-      "description": "The Oklahoma Sooners face the Arkansas Razorbacks in the quarterfinals of the SEC Men's Basketball Tournament. Darius Acuff Jr. leads the Razorbacks with 22.2 points and 6.4 assists. Nijel Pack leads the Sooners with 16.5 points and 3.1 assists.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-14T11:21:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0dqqJnNvNv8/hqdefault.jpg",
-      "duration": "PT2H28M6S",
-      "duration_seconds": 8886,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
-    },
-    {
-      "video_id": "vMc_pWm7G7o",
-      "title": "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
-      "description": "What makes two people soulmates? From the Executive Producers of Stranger Things, and the Director of Baby Reindeer, Camila Morrone and Adam DiMarco star in SOMETHING VERY BAD IS GOING TO HAPPEN, coming to Netflix March 26th.\n\nWatch on Netflix: https://www.netflix.com/title/81667464\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSomething Very Bad Is Going to Happen | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-13T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
-      "duration": "PT2M35S",
-      "duration_seconds": 155,
-      "view_count": 688919,
-      "like_count": 12592,
-      "comment_count": 697,
-      "category_id": "24",
+      "video_id": "WY5IihTW7Os",
+      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
+      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
+      "channel_title": "R&BHype",
+      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
+      "published_at": "2026-03-11T15:21:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 82562,
+      "like_count": 561,
+      "comment_count": 21,
+      "category_id": "22",
       "tags": [
-        "Adam DiMarco",
-        "Are You Sure He’s the One",
-        "Baby Reindeer",
-        "Camila Morrone",
-        "Don’t Marry Him",
-        "Duffer Brothers",
-        "Gus Birney",
-        "Haley Z. Boston",
-        "Jeff Wilbusch",
-        "Jennifer Jason Leigh"
+        "Lil Uzi Vert What You Saying",
+        "What You Saying Lil Uzi Vert",
+        "Il il n'est pas fou il l'aime c'est tout",
+        "Dans sa love story",
+        "Sa love story",
+        "I don't even know what she said 'cause she foreign",
+        "Yeah she foreign and she got endurance",
+        "Like the way she 'forms",
+        "And she gon' perform it",
+        "Look the same in morning"
       ],
-      "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
-    },
-    {
-      "video_id": "ivGXFcsdXK4",
-      "title": "Big Ten Tournament: Purdue vs. Nebraska",
-      "description": "No.18 Purdue Boilermakers face No.11 Nebraska Cornhuskers in the quarterfinals of the Big Ten Men's Basketball Tournament at United Center. Nebraska sits in second place in the conference standings, with Pryce Sandfort leading the team with 17.9 PPG.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-14T09:04:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivGXFcsdXK4/hqdefault.jpg",
-      "duration": "PT2H5M46S",
-      "duration_seconds": 7546,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
+      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     },
     {
       "video_id": "ABol0H2n_rc",
@@ -174,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 5035711,
-      "like_count": 64335,
-      "comment_count": 4347,
+      "view_count": 5267726,
+      "like_count": 65520,
+      "comment_count": 4469,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -193,21 +221,21 @@
       "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
     },
     {
-      "video_id": "SeWq2FswcGY",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T08:31:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SeWq2FswcGY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "0dqqJnNvNv8",
+      "title": "SEC Tournament: Oklahoma vs. Arkansas",
+      "description": "The Oklahoma Sooners face the Arkansas Razorbacks in the quarterfinals of the SEC Men's Basketball Tournament. Darius Acuff Jr. leads the Razorbacks with 22.2 points and 6.4 assists. Nijel Pack leads the Sooners with 16.5 points and 3.1 assists.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-03-14T11:21:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0dqqJnNvNv8/hqdefault.jpg",
+      "duration": "PT2H28M6S",
+      "duration_seconds": 8886,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SeWq2FswcGY"
+      "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
     }
   ],
   "videos_with_transcripts": [],
@@ -222,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 2130485,
-      "like_count": 321594,
-      "comment_count": 8816,
+      "view_count": 2876955,
+      "like_count": 424247,
+      "comment_count": 9218,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -267,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 428724,
-      "like_count": 6018,
-      "comment_count": 968,
+      "view_count": 491905,
+      "like_count": 6644,
+      "comment_count": 1075,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -284,6 +312,68 @@
         "Cody Rhodes"
       ],
       "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+    },
+    {
+      "video_id": "IF-zyzrE6Yw",
+      "title": "The Players Championship: Second Round",
+      "description": "From TPC Sawgrass in Ponte Vedra Beach, Fla.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-14T17:53:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IF-zyzrE6Yw/hqdefault.jpg",
+      "duration": "PT6H18M50S",
+      "duration_seconds": 22730,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
+    },
+    {
+      "video_id": "vMc_pWm7G7o",
+      "title": "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
+      "description": "What makes two people soulmates? From the Executive Producers of Stranger Things, and the Director of Baby Reindeer, Camila Morrone and Adam DiMarco star in SOMETHING VERY BAD IS GOING TO HAPPEN, coming to Netflix March 26th.\n\nWatch on Netflix: https://www.netflix.com/title/81667464\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSomething Very Bad Is Going to Happen | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-13T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
+      "duration": "PT2M35S",
+      "duration_seconds": 155,
+      "view_count": 782801,
+      "like_count": 13520,
+      "comment_count": 748,
+      "category_id": "24",
+      "tags": [
+        "Adam DiMarco",
+        "Are You Sure He’s the One",
+        "Baby Reindeer",
+        "Camila Morrone",
+        "Don’t Marry Him",
+        "Duffer Brothers",
+        "Gus Birney",
+        "Haley Z. Boston",
+        "Jeff Wilbusch",
+        "Jennifer Jason Leigh"
+      ],
+      "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
+    },
+    {
+      "video_id": "2Ya_IqSMalw",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-14T19:41:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Ya_IqSMalw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -303,6 +393,34 @@
       "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
     },
     {
+      "video_id": "ABol0H2n_rc",
+      "title": "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
+      "description": "Welcome (back) to the family. #MalcolmInTheMiddle Life’s Still Unfair, a special four-part event, streams on Hulu and Hulu on Disney+ April 10. \n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confirmation=1\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit https://Hulu.com to subscribe now.\n\nMalcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu\nhttps://yo",
+      "channel_title": "Hulu",
+      "channel_id": "UCE5mQnNl8Q4H2qcv4ikaXeA",
+      "published_at": "2026-03-12T16:40:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
+      "duration": "PT1M46S",
+      "duration_seconds": 106,
+      "view_count": 5267726,
+      "like_count": 65520,
+      "comment_count": 4469,
+      "category_id": "24",
+      "tags": [
+        "hulu",
+        "disney",
+        "hulu movies",
+        "hulu shows",
+        "hulu tv",
+        "hulu tv shows",
+        "disney streaming",
+        "disney hulu",
+        "tv on hulu",
+        "movies on hulu"
+      ],
+      "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+    },
+    {
       "video_id": "0dqqJnNvNv8",
       "title": "SEC Tournament: Oklahoma vs. Arkansas",
       "description": "The Oklahoma Sooners face the Arkansas Razorbacks in the quarterfinals of the SEC Men's Basketball Tournament. Darius Acuff Jr. leads the Razorbacks with 22.2 points and 6.4 assists. Nijel Pack leads the Sooners with 16.5 points and 3.1 assists.",
@@ -320,165 +438,106 @@
       "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
     },
     {
-      "video_id": "vMc_pWm7G7o",
-      "title": "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
-      "description": "What makes two people soulmates? From the Executive Producers of Stranger Things, and the Director of Baby Reindeer, Camila Morrone and Adam DiMarco star in SOMETHING VERY BAD IS GOING TO HAPPEN, coming to Netflix March 26th.\n\nWatch on Netflix: https://www.netflix.com/title/81667464\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSomething Very Bad Is Going to Happen | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-13T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
-      "duration": "PT2M35S",
-      "duration_seconds": 155,
-      "view_count": 688919,
-      "like_count": 12592,
-      "comment_count": 697,
-      "category_id": "24",
+      "video_id": "WY5IihTW7Os",
+      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
+      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
+      "channel_title": "R&BHype",
+      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
+      "published_at": "2026-03-11T15:21:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 82562,
+      "like_count": 561,
+      "comment_count": 21,
+      "category_id": "22",
       "tags": [
-        "Adam DiMarco",
-        "Are You Sure He’s the One",
-        "Baby Reindeer",
-        "Camila Morrone",
-        "Don’t Marry Him",
-        "Duffer Brothers",
-        "Gus Birney",
-        "Haley Z. Boston",
-        "Jeff Wilbusch",
-        "Jennifer Jason Leigh"
+        "Lil Uzi Vert What You Saying",
+        "What You Saying Lil Uzi Vert",
+        "Il il n'est pas fou il l'aime c'est tout",
+        "Dans sa love story",
+        "Sa love story",
+        "I don't even know what she said 'cause she foreign",
+        "Yeah she foreign and she got endurance",
+        "Like the way she 'forms",
+        "And she gon' perform it",
+        "Look the same in morning"
       ],
-      "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
-    },
-    {
-      "video_id": "ivGXFcsdXK4",
-      "title": "Big Ten Tournament: Purdue vs. Nebraska",
-      "description": "No.18 Purdue Boilermakers face No.11 Nebraska Cornhuskers in the quarterfinals of the Big Ten Men's Basketball Tournament at United Center. Nebraska sits in second place in the conference standings, with Pryce Sandfort leading the team with 17.9 PPG.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-14T09:04:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivGXFcsdXK4/hqdefault.jpg",
-      "duration": "PT2H5M46S",
-      "duration_seconds": 7546,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
-    },
-    {
-      "video_id": "ABol0H2n_rc",
-      "title": "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
-      "description": "Welcome (back) to the family. #MalcolmInTheMiddle Life’s Still Unfair, a special four-part event, streams on Hulu and Hulu on Disney+ April 10. \n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confirmation=1\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit https://Hulu.com to subscribe now.\n\nMalcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu\nhttps://yo",
-      "channel_title": "Hulu",
-      "channel_id": "UCE5mQnNl8Q4H2qcv4ikaXeA",
-      "published_at": "2026-03-12T16:40:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
-      "duration": "PT1M46S",
-      "duration_seconds": 106,
-      "view_count": 5035711,
-      "like_count": 64335,
-      "comment_count": 4347,
-      "category_id": "24",
-      "tags": [
-        "hulu",
-        "disney",
-        "hulu movies",
-        "hulu shows",
-        "hulu tv",
-        "hulu tv shows",
-        "disney streaming",
-        "disney hulu",
-        "tv on hulu",
-        "movies on hulu"
-      ],
-      "url": "https://www.youtube.com/watch?v=ABol0H2n_rc"
-    },
-    {
-      "video_id": "SeWq2FswcGY",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T08:31:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SeWq2FswcGY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SeWq2FswcGY"
+      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "categories": {
-          "sports": {
-            "description": "A significant portion of the trending videos relates to sports, specifically collegiate tournaments.",
-            "videos_count": 5,
-            "channels_involved": [
-              "ESPN",
-              "ESPN2",
-              "SEC Network"
-            ],
-            "market_opportunities": "Capitalize on live sports coverage, highlights, and analysis videos to attract sports enthusiasts. Collaborations with sports analysts or athletes can increase engagement."
+        "entertainment_and_sports": {
+          "description": "There is a significant presence of both entertainment and sports content within the top trending videos.",
+          "data": {
+            "entertainment_videos": 5,
+            "sports_videos": 4,
+            "other_videos": 1
           },
-          "entertainment": {
-            "description": "Entertainment trailers, particularly for upcoming films and series, also feature prominently.",
-            "videos_count": 3,
-            "channels_involved": [
-              "Mythri Movie Makers",
-              "ONE Media"
-            ],
-            "market_opportunities": "Focus on creating content around film and series reviews, fan theories, and behind-the-scenes footage to engage a broader audience."
+          "insights": [
+            "Entertainment and sports together make up 90% of the trending content, indicating their dominance in viewer interest.",
+            "Trailers and teasers (both movies and shows) are particularly popular, suggesting a strong engagement with upcoming releases."
+          ]
+        },
+        "trailer_popularity": {
+          "description": "Trailers for movies, shows, and games are trending.",
+          "data": {
+            "total_trailers": 4
           },
-          "news": {
-            "description": "Political commentary or news-related content is represented.",
-            "videos_count": 1,
-            "channels_involved": [
-              "Jesse Watters Primetime"
-            ],
-            "market_opportunities": "Develop content that provides in-depth analysis of current events or political developments to capture viewers interested in news."
-          }
+          "insights": [
+            "Trailers for both mainstream (e.g., Netflix) and niche (e.g., Hulu) platforms are generating high interest.",
+            "Game trailers like 'STREET FIGHTER' alongside TV and movie trailers indicate a diverse interest in visual entertainment."
+          ]
         }
       },
       "creator_patterns": {
-        "diversity_of_channels": {
-          "description": "Each video in the trending list is produced by a different channel.",
-          "insight": "This indicates a diversified interest among viewers, with no single channel dominating the trending list.",
-          "actionable_insight": "Smaller or niche channels have a chance to trend if they strategically release content in popular categories."
-        },
-        "collaboration_opportunities": {
-          "description": "Most videos fall into sports or entertainment, suggesting potential for cross-promotion between channels in these categories.",
-          "actionable_insight": "Channels can collaborate with others in similar or complementary niches to tap into each other's audiences and increase viewership."
-        }
-      },
-      "viewer_engagement": {
-        "total_views_analysis": {
-          "average_views_per_video": 920,
-          "426.56,  ": "Trending videos average 920,426 views, suggesting high engagement with popular topics.",
-          "actionable_insight": "To reach similar levels of engagement, focus on trending topics, optimize video titles and thumbnails, and leverage SEO practices to increase discoverability."
+        "single_video_channels": {
+          "description": "Top channels are represented by a single trending video each.",
+          "data": {
+            "single_video_channels": 5
+          },
+          "insights": [
+            "Channels like Mythri Movie Makers, ESPN, and Netflix have managed to capture attention with just one video, reflecting strong brand influence.",
+            "There is an opportunity for these channels to increase their video output to capitalize on their trending potential."
+          ]
         }
       },
       "market_opportunities": {
-        "emerging_trends": {
-          "description": "Sports and entertainment content are currently dominating the YouTube trending list.",
-          "actionable_insight": "Content creators should consider aligning their production schedules with major sports events and entertainment release calendars to maximize viewership."
+        "cross-category_potential": {
+          "description": "Potential for content creators to leverage cross-category interests.",
+          "data": {
+            "trending_categories": [
+              "Entertainment",
+              "Sports",
+              "Music"
+            ]
+          },
+          "insights": [
+            "Creators could explore content that blends entertainment with sports, such as athlete documentaries or sports-themed series, to tap into combined audience interests.",
+            "Given the popularity of music lyrics videos like 'Lil Uzi Vert - What You Saying', there is a potential market for music-related content in collaboration with sports and entertainment."
+          ]
         },
-        "untapped_audiences": {
-          "description": "There is potential to explore other niches such as technology, lifestyle, or education, which are currently underrepresented in this trending list.",
-          "actionable_insight": "Identify and produce content that appeals to these underrepresented niches to capture a different segment of the YouTube audience."
+        "regional_content_expansion": {
+          "description": "Opportunities for regional content expansion.",
+          "data": {
+            "regional_focus": "Indian cinema and culture"
+          },
+          "insights": [
+            "The presence of the 'Ustaad Bhagat Singh Trailer' indicates a strong interest in regional Indian cinema, suggesting that non-English content has significant potential for growth.",
+            "Channels can consider targeting regional content to engage local audiences and expand their global reach."
+          ]
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 920426
+        "avg_views_per_video": 950194
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
