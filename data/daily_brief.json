@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-15T04:03:03.482714",
+  "timestamp": "2026-03-15T06:30:00.092035",
   "date": "2026-03-15",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 8443623,
-      "like_count": 444603,
-      "comment_count": 9828,
+      "view_count": 10304560,
+      "like_count": 454831,
+      "comment_count": 10251,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 592036,
-      "like_count": 7662,
-      "comment_count": 1239,
+      "view_count": 619452,
+      "like_count": 7916,
+      "comment_count": 1279,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 109301,
-      "like_count": 685,
-      "comment_count": 22,
+      "view_count": 115604,
+      "like_count": 716,
+      "comment_count": 24,
       "category_id": "22",
       "tags": [
         "Lil Uzi Vert What You Saying",
@@ -131,21 +131,38 @@
       "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     },
     {
-      "video_id": "R4NPUGFSKTs",
-      "title": "Saturday in America",
-      "description": "",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T21:44:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R4NPUGFSKTs/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "qEmacuSQoag",
+      "title": "Quarterfinal: Puerto Rico vs. Italy",
+      "description": "Daikin Park in Houston hosts this World Baseball Classic quarterfinal between Italy and Puerto Rico. The winner advances to take on either Venezuela or defending champion Japan in a Monday semifinal.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-15T05:14:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qEmacuSQoag/hqdefault.jpg",
+      "duration": "PT3H49M51S",
+      "duration_seconds": 13791,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
+      "url": "https://www.youtube.com/watch?v=qEmacuSQoag"
+    },
+    {
+      "video_id": "5SSmTYJYENI",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-15T05:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5SSmTYJYENI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5SSmTYJYENI"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -182,21 +199,21 @@
       "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
     },
     {
-      "video_id": "ivGXFcsdXK4",
-      "title": "Big Ten Tournament: Purdue vs. Nebraska",
-      "description": "No.18 Purdue Boilermakers face No.11 Nebraska Cornhuskers in the quarterfinals of the Big Ten Men's Basketball Tournament at United Center. Nebraska sits in second place in the conference standings, with Pryce Sandfort leading the team with 17.9 PPG.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-14T09:04:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivGXFcsdXK4/hqdefault.jpg",
-      "duration": "PT2H5M46S",
-      "duration_seconds": 7546,
+      "video_id": "JYof_AcEfNw",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-15T04:34:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JYof_AcEfNw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
+      "url": "https://www.youtube.com/watch?v=JYof_AcEfNw"
     }
   ],
   "videos_with_transcripts": [],
@@ -211,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 8443623,
-      "like_count": 444603,
-      "comment_count": 9828,
+      "view_count": 10304560,
+      "like_count": 454831,
+      "comment_count": 10251,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -256,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 592036,
-      "like_count": 7662,
-      "comment_count": 1239,
+      "view_count": 619452,
+      "like_count": 7916,
+      "comment_count": 1279,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -292,21 +309,38 @@
       "url": "https://www.youtube.com/watch?v=kD8lABg8hsE"
     },
     {
-      "video_id": "R4NPUGFSKTs",
-      "title": "Saturday in America",
-      "description": "",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T21:44:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R4NPUGFSKTs/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "qEmacuSQoag",
+      "title": "Quarterfinal: Puerto Rico vs. Italy",
+      "description": "Daikin Park in Houston hosts this World Baseball Classic quarterfinal between Italy and Puerto Rico. The winner advances to take on either Venezuela or defending champion Japan in a Monday semifinal.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-15T05:14:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qEmacuSQoag/hqdefault.jpg",
+      "duration": "PT3H49M51S",
+      "duration_seconds": 13791,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
+      "url": "https://www.youtube.com/watch?v=qEmacuSQoag"
+    },
+    {
+      "video_id": "5SSmTYJYENI",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-15T05:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5SSmTYJYENI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5SSmTYJYENI"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -343,21 +377,21 @@
       "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
     },
     {
-      "video_id": "ivGXFcsdXK4",
-      "title": "Big Ten Tournament: Purdue vs. Nebraska",
-      "description": "No.18 Purdue Boilermakers face No.11 Nebraska Cornhuskers in the quarterfinals of the Big Ten Men's Basketball Tournament at United Center. Nebraska sits in second place in the conference standings, with Pryce Sandfort leading the team with 17.9 PPG.",
-      "channel_title": "BTN",
-      "channel_id": "UCmBskGxtl-7At_lMzyLJYKA",
-      "published_at": "2026-03-14T09:04:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivGXFcsdXK4/hqdefault.jpg",
-      "duration": "PT2H5M46S",
-      "duration_seconds": 7546,
+      "video_id": "JYof_AcEfNw",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-15T04:34:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JYof_AcEfNw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
+      "url": "https://www.youtube.com/watch?v=JYof_AcEfNw"
     },
     {
       "video_id": "WY5IihTW7Os",
@@ -369,9 +403,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 109301,
-      "like_count": 685,
-      "comment_count": 22,
+      "view_count": 115604,
+      "like_count": 716,
+      "comment_count": 24,
       "category_id": "22",
       "tags": [
         "Lil Uzi Vert What You Saying",
@@ -391,49 +425,75 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 11039616,
+        "average_views_per_video": 1103961.6,
+        "categories_identified": [
+          "Entertainment",
+          "Sports",
+          "News",
+          "Music"
+        ]
+      },
       "content_trends": {
-        "sports_dominance": {
-          "description": "A significant portion of trending content is sports-related, with 4 out of 9 videos (44.44%) focused on live sports events or tournaments.",
-          "opportunity": "Capitalize on the high engagement and interest in live sports by creating related content such as highlights, analysis, or player interviews."
+        "entertainment": {
+          "video_titles": [
+            "Ustaad Bhagat Singh Trailer",
+            "STREET FIGHTER Official Teaser Trailer (2026) Guile"
+          ],
+          "insights": "Movie trailers and video game teasers are holding strong appeal, suggesting continued interest in visual media previews. This indicates a high engagement potential for upcoming movie and game releases."
         },
-        "entertainment_traction": {
-          "description": "Entertainment content, such as movie trailers and music videos, accounts for 3 out of 9 videos (33.33%).",
-          "opportunity": "Develop behind-the-scenes content, fan theories, or reaction videos to leverage the existing interest in these entertainment topics."
+        "sports": {
+          "video_titles": [
+            "SEC Tournament: Vanderbilt vs. Florida",
+            "Quarterfinal: Puerto Rico vs. Italy",
+            "ACC Tournament: Clemson vs. Duke",
+            "SEC Tournament: Oklahoma vs. Arkansas"
+          ],
+          "insights": "Live sports events and tournament highlights are trending, indicating a strong audience interest in real-time sports content and competitive events. Opportunities exist for live streaming partnerships and post-event analysis content."
+        },
+        "music": {
+          "video_titles": [
+            "Lil Uzi Vert - What You Saying (Lyrics)"
+          ],
+          "insights": "Music content, particularly lyric videos, continues to attract viewers, signifying opportunities for artists to engage audiences through creative video formats that complement audio tracks."
+        },
+        "news": {
+          "video_titles": [
+            "CNN Newsroom"
+          ],
+          "insights": "News content remains a staple in trending videos, suggesting a consistent demand for timely and reliable news coverage. Channels can capitalize on this by providing in-depth analysis and breaking news segments."
         }
       },
       "creator_patterns": {
-        "diversified_channel_presence": {
-          "description": "Each top channel has one video in the trending list, indicating a broad range of content types capturing audience interest.",
-          "strategy": "Maintain a diverse content portfolio to appeal to different audience segments and increase chances of trending."
-        },
-        "cross-category appeal": {
-          "description": "Channels such as ESPN and Golf Channel blend sports with entertainment elements, broadening their audience reach.",
-          "strategy": "Integrate crossover content that combines different genres to attract a wider viewer base, such as sports documentaries or celebrity sports challenges."
-        }
+        "top_channels": [
+          "Mythri Movie Makers",
+          "ESPN",
+          "ONE Media",
+          "Golf Channel",
+          "R&BHype"
+        ],
+        "insights": "Diverse content creators are achieving trending status, from major media companies to niche channels. This diversity highlights the potential for both large and small-scale creators to reach significant audiences, particularly if they tap into trending topics and formats."
       },
       "market_opportunities": {
-        "emerging_interests": {
-          "description": "The presence of both traditional sports and esports (e.g., Street Fighter teaser) indicates a growing interest in competitive gaming.",
-          "action": "Invest in esports content, such as game commentary, player profiles, and tournament coverage, to capture this emerging audience."
+        "cross-category": {
+          "insights": "There is potential for cross-category collaborations, such as music artists working with filmmakers for soundtrack placements, or sports channels integrating entertainment content for a broader appeal."
         },
-        "regional_content potential": {
-          "description": "The trending trailer from Mythri Movie Makers suggests a strong demand for regional or localized content.",
-          "action": "Explore opportunities in regional content creation, including translations, cultural insights, or collaborations with local influencers."
-        }
-      },
-      "data-driven_insights": {
-        "high_viewership": {
-          "description": "The average views per video are approximately 1,016,107, indicating high engagement and successful content strategies.",
-          "recommendation": "Analyze high-performing videos for elements that resonate with audiences, such as storytelling, production quality, or engagement techniques, and apply these insights to future content."
+        "content_format": {
+          "insights": "Short-form content, such as teasers and highlights, is performing well. Channels should consider producing more bite-sized content to cater to viewers with limited time."
+        },
+        "target_audience": {
+          "insights": "Given the varied interest in entertainment, sports, music, and news, there is an opportunity to target specific demographics with specialized content, enhancing engagement through tailored delivery."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1016106
+        "avg_views_per_video": 1103961
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
