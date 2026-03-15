@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-15T06:30:00.092035",
+  "timestamp": "2026-03-15T09:17:05.347193",
   "date": "2026-03-15",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 10304560,
-      "like_count": 454831,
-      "comment_count": 10251,
+      "view_count": 10674534,
+      "like_count": 464663,
+      "comment_count": 10600,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -41,49 +41,21 @@
       "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
     },
     {
-      "video_id": "0WTS3uXgb0I",
-      "title": "SEC Tournament: Vanderbilt vs. Florida",
-      "description": "The Commodores and Gators collide in an SEC Tournament semifinal after grabbing quarterfinal wins. Vanderbilt defeated Tennessee behind 30 points from Duke Miles while Florida beat Kentucky, thanks in part to a double-double from Alex Condon.",
+      "video_id": "1GP9yTanS4M",
+      "title": "Big 12 Tournament: Houston vs. Arizona",
+      "description": "The Cougars face the Wildcats in a heavyweight Big 12 Men's Basketball Championship final at T-Mobile Center. Both teams are currently ranked high in the Big 12 Conference standings. The winner secures the Big 12 automatic bid in the NCAA Tournament.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T02:02:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0WTS3uXgb0I/hqdefault.jpg",
-      "duration": "PT2H15M46S",
-      "duration_seconds": 8146,
+      "published_at": "2026-03-15T08:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1GP9yTanS4M/hqdefault.jpg",
+      "duration": "PT2H25M15S",
+      "duration_seconds": 8715,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0WTS3uXgb0I"
-    },
-    {
-      "video_id": "_mh0bgWazEM",
-      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
-      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-13T16:31:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "duration_seconds": 136,
-      "view_count": 619452,
-      "like_count": 7916,
-      "comment_count": 1279,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Street Fighter",
-        "Street Fighter Trailer",
-        "Jason Momoa",
-        "Roman Reigns",
-        "Cody Rhodes"
-      ],
-      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+      "url": "https://www.youtube.com/watch?v=1GP9yTanS4M"
     },
     {
       "video_id": "kD8lABg8hsE",
@@ -112,8 +84,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 115604,
-      "like_count": 716,
+      "view_count": 121732,
+      "like_count": 746,
       "comment_count": 24,
       "category_id": "22",
       "tags": [
@@ -148,13 +120,13 @@
       "url": "https://www.youtube.com/watch?v=qEmacuSQoag"
     },
     {
-      "video_id": "5SSmTYJYENI",
+      "video_id": "BOqkhozhLfQ",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-15T05:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5SSmTYJYENI/hqdefault.jpg",
+      "published_at": "2026-03-15T06:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOqkhozhLfQ/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -162,7 +134,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5SSmTYJYENI"
+      "url": "https://www.youtube.com/watch?v=BOqkhozhLfQ"
+    },
+    {
+      "video_id": "RDLdTV0zfaU",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-15T07:43:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RDLdTV0zfaU/hqdefault.jpg",
+      "duration": "PT1H1M8S",
+      "duration_seconds": 3668,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -182,38 +171,55 @@
       "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
     },
     {
-      "video_id": "0dqqJnNvNv8",
-      "title": "SEC Tournament: Oklahoma vs. Arkansas",
-      "description": "The Oklahoma Sooners face the Arkansas Razorbacks in the quarterfinals of the SEC Men's Basketball Tournament. Darius Acuff Jr. leads the Razorbacks with 22.2 points and 6.4 assists. Nijel Pack leads the Sooners with 16.5 points and 3.1 assists.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-14T11:21:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0dqqJnNvNv8/hqdefault.jpg",
-      "duration": "PT2H28M6S",
-      "duration_seconds": 8886,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
+      "video_id": "ECun7O7MGuk",
+      "title": "Uncle Joe’s Motel…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-14T22:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
+      "duration": "PT2H23M20S",
+      "duration_seconds": 8600,
+      "view_count": 238904,
+      "like_count": 9179,
+      "comment_count": 670,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
     },
     {
-      "video_id": "JYof_AcEfNw",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-15T04:34:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JYof_AcEfNw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=JYof_AcEfNw"
+      "video_id": "F1awawd96H8",
+      "title": "I Survived 100 Days on a Hardcore Minecraft Server",
+      "description": "100 days as law with lomedy & spong\n\nI Survived 100 Days on a Hardcore Minecraft Server\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @Twirps @LettuceK @Spongs @wemmbumc @Lomedy @TeamKalal1 & UU EVENT SERVER\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
+      "channel_title": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "published_at": "2026-03-14T20:38:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F1awawd96H8/hqdefault.jpg",
+      "duration": "PT1H10M57S",
+      "duration_seconds": 4257,
+      "view_count": 1370883,
+      "like_count": 82897,
+      "comment_count": 15166,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "flamefrags",
+        "flame frags",
+        "flamefrags minecraft",
+        "flame minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=F1awawd96H8"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 10304560,
-      "like_count": 454831,
-      "comment_count": 10251,
+      "view_count": 10674534,
+      "like_count": 464663,
+      "comment_count": 10600,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -247,49 +253,21 @@
       "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
     },
     {
-      "video_id": "0WTS3uXgb0I",
-      "title": "SEC Tournament: Vanderbilt vs. Florida",
-      "description": "The Commodores and Gators collide in an SEC Tournament semifinal after grabbing quarterfinal wins. Vanderbilt defeated Tennessee behind 30 points from Duke Miles while Florida beat Kentucky, thanks in part to a double-double from Alex Condon.",
+      "video_id": "1GP9yTanS4M",
+      "title": "Big 12 Tournament: Houston vs. Arizona",
+      "description": "The Cougars face the Wildcats in a heavyweight Big 12 Men's Basketball Championship final at T-Mobile Center. Both teams are currently ranked high in the Big 12 Conference standings. The winner secures the Big 12 automatic bid in the NCAA Tournament.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T02:02:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0WTS3uXgb0I/hqdefault.jpg",
-      "duration": "PT2H15M46S",
-      "duration_seconds": 8146,
+      "published_at": "2026-03-15T08:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1GP9yTanS4M/hqdefault.jpg",
+      "duration": "PT2H25M15S",
+      "duration_seconds": 8715,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0WTS3uXgb0I"
-    },
-    {
-      "video_id": "_mh0bgWazEM",
-      "title": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
-      "description": "STREET FIGHTER Official Teaser Trailer (2026) Jason Momoa, Roman Reigns, Cody Rhodes\n© 2026 - Paramount Pictures",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-03-13T16:31:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "duration_seconds": 136,
-      "view_count": 619452,
-      "like_count": 7916,
-      "comment_count": 1279,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Street Fighter",
-        "Street Fighter Trailer",
-        "Jason Momoa",
-        "Roman Reigns",
-        "Cody Rhodes"
-      ],
-      "url": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+      "url": "https://www.youtube.com/watch?v=1GP9yTanS4M"
     },
     {
       "video_id": "kD8lABg8hsE",
@@ -326,13 +304,13 @@
       "url": "https://www.youtube.com/watch?v=qEmacuSQoag"
     },
     {
-      "video_id": "5SSmTYJYENI",
+      "video_id": "BOqkhozhLfQ",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-15T05:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5SSmTYJYENI/hqdefault.jpg",
+      "published_at": "2026-03-15T06:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOqkhozhLfQ/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -340,7 +318,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5SSmTYJYENI"
+      "url": "https://www.youtube.com/watch?v=BOqkhozhLfQ"
+    },
+    {
+      "video_id": "RDLdTV0zfaU",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-15T07:43:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RDLdTV0zfaU/hqdefault.jpg",
+      "duration": "PT1H1M8S",
+      "duration_seconds": 3668,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -360,38 +355,55 @@
       "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
     },
     {
-      "video_id": "0dqqJnNvNv8",
-      "title": "SEC Tournament: Oklahoma vs. Arkansas",
-      "description": "The Oklahoma Sooners face the Arkansas Razorbacks in the quarterfinals of the SEC Men's Basketball Tournament. Darius Acuff Jr. leads the Razorbacks with 22.2 points and 6.4 assists. Nijel Pack leads the Sooners with 16.5 points and 3.1 assists.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-03-14T11:21:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0dqqJnNvNv8/hqdefault.jpg",
-      "duration": "PT2H28M6S",
-      "duration_seconds": 8886,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
+      "video_id": "ECun7O7MGuk",
+      "title": "Uncle Joe’s Motel…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-14T22:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
+      "duration": "PT2H23M20S",
+      "duration_seconds": 8600,
+      "view_count": 238904,
+      "like_count": 9179,
+      "comment_count": 670,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
     },
     {
-      "video_id": "JYof_AcEfNw",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-15T04:34:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JYof_AcEfNw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=JYof_AcEfNw"
+      "video_id": "F1awawd96H8",
+      "title": "I Survived 100 Days on a Hardcore Minecraft Server",
+      "description": "100 days as law with lomedy & spong\n\nI Survived 100 Days on a Hardcore Minecraft Server\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @Twirps @LettuceK @Spongs @wemmbumc @Lomedy @TeamKalal1 & UU EVENT SERVER\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
+      "channel_title": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "published_at": "2026-03-14T20:38:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F1awawd96H8/hqdefault.jpg",
+      "duration": "PT1H10M57S",
+      "duration_seconds": 4257,
+      "view_count": 1370883,
+      "like_count": 82897,
+      "comment_count": 15166,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "flamefrags",
+        "flame frags",
+        "flamefrags minecraft",
+        "flame minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=F1awawd96H8"
     },
     {
       "video_id": "WY5IihTW7Os",
@@ -403,8 +415,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 115604,
-      "like_count": 716,
+      "view_count": 121732,
+      "like_count": 746,
       "comment_count": 24,
       "category_id": "22",
       "tags": [
@@ -427,65 +439,75 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 11039616,
-        "average_views_per_video": 1103961.6,
-        "categories_identified": [
-          "Entertainment",
-          "Sports",
-          "News",
-          "Music"
-        ]
+        "total_views": 12406053,
+        "average_views_per_video": 1240605.3,
+        "categories": "Unknown"
       },
       "content_trends": {
-        "entertainment": {
-          "video_titles": [
-            "Ustaad Bhagat Singh Trailer",
-            "STREET FIGHTER Official Teaser Trailer (2026) Guile"
-          ],
-          "insights": "Movie trailers and video game teasers are holding strong appeal, suggesting continued interest in visual media previews. This indicates a high engagement potential for upcoming movie and game releases."
-        },
-        "sports": {
-          "video_titles": [
-            "SEC Tournament: Vanderbilt vs. Florida",
-            "Quarterfinal: Puerto Rico vs. Italy",
-            "ACC Tournament: Clemson vs. Duke",
-            "SEC Tournament: Oklahoma vs. Arkansas"
-          ],
-          "insights": "Live sports events and tournament highlights are trending, indicating a strong audience interest in real-time sports content and competitive events. Opportunities exist for live streaming partnerships and post-event analysis content."
-        },
-        "music": {
-          "video_titles": [
-            "Lil Uzi Vert - What You Saying (Lyrics)"
-          ],
-          "insights": "Music content, particularly lyric videos, continues to attract viewers, signifying opportunities for artists to engage audiences through creative video formats that complement audio tracks."
-        },
-        "news": {
-          "video_titles": [
-            "CNN Newsroom"
-          ],
-          "insights": "News content remains a staple in trending videos, suggesting a consistent demand for timely and reliable news coverage. Channels can capitalize on this by providing in-depth analysis and breaking news segments."
-        }
+        "general_observations": [
+          "The list comprises a diverse range of content, including sports, entertainment, music, news, and gaming.",
+          "Sports content is prominent, with multiple entries related to tournaments and matches (e.g., Big 12 Tournament, ACC Tournament, and Puerto Rico vs. Italy).",
+          "Entertainment and movie trailers, such as 'Ustaad Bhagat Singh Trailer', are drawing significant attention, indicating a high interest in film-related content."
+        ],
+        "music_trends": [
+          "The presence of a music video 'Lil Uzi Vert - What You Saying (Lyrics)' suggests continued high engagement with popular music content."
+        ],
+        "news_trends": [
+          "News content like 'CNN Newsroom' remains relevant, underscoring the audience's interest in staying informed on current events."
+        ],
+        "gaming_trends": [
+          "Gaming content, such as 'I Survived 100 Days on a Hardcore Minecraft Server,' highlights the ongoing popularity of gaming and survival challenges."
+        ]
       },
       "creator_patterns": {
         "top_channels": [
-          "Mythri Movie Makers",
-          "ESPN",
-          "ONE Media",
-          "Golf Channel",
-          "R&BHype"
+          {
+            "name": "Mythri Movie Makers",
+            "videos_count": 1,
+            "content_focus": "Movie trailers and film-related content"
+          },
+          {
+            "name": "ESPN",
+            "videos_count": 1,
+            "content_focus": "Sports events and analysis"
+          },
+          {
+            "name": "Golf Channel",
+            "videos_count": 1,
+            "content_focus": "Golf tournaments and live coverage"
+          },
+          {
+            "name": "R&BHype",
+            "videos_count": 1,
+            "content_focus": "Music and lyrical content"
+          },
+          {
+            "name": "FS1",
+            "videos_count": 1,
+            "content_focus": "Sports and talk shows"
+          }
         ],
-        "insights": "Diverse content creators are achieving trending status, from major media companies to niche channels. This diversity highlights the potential for both large and small-scale creators to reach significant audiences, particularly if they tap into trending topics and formats."
+        "observations": [
+          "Each top channel contributed a single trending video, indicating a broad distribution of popular content across different creators.",
+          "Channels that provide live coverage or timely updates (e.g., ESPN, Golf Channel) are likely to trend during major sporting events."
+        ]
       },
       "market_opportunities": {
-        "cross-category": {
-          "insights": "There is potential for cross-category collaborations, such as music artists working with filmmakers for soundtrack placements, or sports channels integrating entertainment content for a broader appeal."
-        },
-        "content_format": {
-          "insights": "Short-form content, such as teasers and highlights, is performing well. Channels should consider producing more bite-sized content to cater to viewers with limited time."
-        },
-        "target_audience": {
-          "insights": "Given the varied interest in entertainment, sports, music, and news, there is an opportunity to target specific demographics with specialized content, enhancing engagement through tailored delivery."
-        }
+        "sports_content": [
+          "Leverage major sports events to create complementary content, such as pre-event analyses or post-event highlights."
+        ],
+        "movie_and_entertainment": [
+          "Capitalize on the popularity of movie trailers by offering behind-the-scenes content or interviews with cast and crew."
+        ],
+        "music": [
+          "Explore collaborations with popular musicians to release exclusive content or lyric breakdowns."
+        ],
+        "gaming": [
+          "Develop unique gaming challenges or collaborate with popular gaming influencers to engage the gaming community."
+        ],
+        "news_and_information": [
+          "Create timely, in-depth analyses of current events to cater to audiences seeking more detailed news coverage."
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -493,7 +515,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1103961
+        "avg_views_per_video": 1240605
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
