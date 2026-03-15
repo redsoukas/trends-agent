@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-15T09:17:05.347193",
+  "timestamp": "2026-03-15T12:19:04.674537",
   "date": "2026-03-15",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 2,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 10674534,
-      "like_count": 464663,
-      "comment_count": 10600,
+      "view_count": 11763651,
+      "like_count": 469716,
+      "comment_count": 10881,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
     },
     {
-      "video_id": "1GP9yTanS4M",
-      "title": "Big 12 Tournament: Houston vs. Arizona",
-      "description": "The Cougars face the Wildcats in a heavyweight Big 12 Men's Basketball Championship final at T-Mobile Center. Both teams are currently ranked high in the Big 12 Conference standings. The winner secures the Big 12 automatic bid in the NCAA Tournament.",
+      "video_id": "tJ4GTMTWP-k",
+      "title": "ACC Tournament: Virginia vs. Duke",
+      "description": "T. Rowe Price ACC Tournament concludes as No.1 Duke and No.10 Virginia fight for the title. The Blue Devils won the regular-season meeting, but the Cavaliers have won four straight games. A spot in the NCAA Tournament as a top seed is on the line.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T08:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1GP9yTanS4M/hqdefault.jpg",
-      "duration": "PT2H25M15S",
-      "duration_seconds": 8715,
+      "published_at": "2026-03-15T10:57:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tJ4GTMTWP-k/hqdefault.jpg",
+      "duration": "PT2H21M",
+      "duration_seconds": 8460,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1GP9yTanS4M"
+      "url": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
     },
     {
       "video_id": "kD8lABg8hsE",
@@ -73,34 +73,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kD8lABg8hsE"
-    },
-    {
-      "video_id": "WY5IihTW7Os",
-      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
-      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
-      "channel_title": "R&BHype",
-      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
-      "published_at": "2026-03-11T15:21:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
-      "duration": "PT2M12S",
-      "duration_seconds": 132,
-      "view_count": 121732,
-      "like_count": 746,
-      "comment_count": 24,
-      "category_id": "22",
-      "tags": [
-        "Lil Uzi Vert What You Saying",
-        "What You Saying Lil Uzi Vert",
-        "Il il n'est pas fou il l'aime c'est tout",
-        "Dans sa love story",
-        "Sa love story",
-        "I don't even know what she said 'cause she foreign",
-        "Yeah she foreign and she got endurance",
-        "Like the way she 'forms",
-        "And she gon' perform it",
-        "Look the same in morning"
-      ],
-      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     },
     {
       "video_id": "qEmacuSQoag",
@@ -137,6 +109,68 @@
       "url": "https://www.youtube.com/watch?v=BOqkhozhLfQ"
     },
     {
+      "video_id": "PXxWawbtevU",
+      "title": "Top Gun: Maverick",
+      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "channel_title": "Paramount",
+      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
+      "published_at": "2026-03-15T09:22:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PXxWawbtevU/hqdefault.jpg",
+      "duration": "PT3H16M6S",
+      "duration_seconds": 11766,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PXxWawbtevU"
+    },
+    {
+      "video_id": "QmhWbfA1brQ",
+      "title": "MAC Tournament: Toledo vs. Akron",
+      "description": "Akron faces Toledo in the Mid-American Conference Championship game. Toledo's Sean Craig is coming off a double-double (15 points, 11 rebounds) from a recent game against Massachusetts. Akron's Tavari Johnson leads the team in scoring (20.3 PPG).",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-15T09:52:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QmhWbfA1brQ/hqdefault.jpg",
+      "duration": "PT2H6M56S",
+      "duration_seconds": 7616,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QmhWbfA1brQ"
+    },
+    {
+      "video_id": "ECun7O7MGuk",
+      "title": "Uncle Joe’s Motel…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-14T22:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
+      "duration": "PT2H23M20S",
+      "duration_seconds": 8600,
+      "view_count": 314423,
+      "like_count": 10231,
+      "comment_count": 701,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
+    },
+    {
       "video_id": "RDLdTV0zfaU",
       "title": "CNN Newsroom",
       "description": "Updates of news from around the world.",
@@ -154,51 +188,6 @@
       "url": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
     },
     {
-      "video_id": "1DfluRBjAm4",
-      "title": "ACC Tournament: Clemson vs. Duke",
-      "description": "The Duke Blue Devils face the Clemson Tigers in the semifinals of the ACC Men's Basketball Tournament. The winner of this matchup will advance to the ACC Championship game. Cameron Boozer leads No. 1 seed Duke in scoring, rebounds, and assists.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-14T12:50:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1DfluRBjAm4/hqdefault.jpg",
-      "duration": "PT2H14M30S",
-      "duration_seconds": 8070,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
-    },
-    {
-      "video_id": "ECun7O7MGuk",
-      "title": "Uncle Joe’s Motel…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-14T22:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
-      "duration": "PT2H23M20S",
-      "duration_seconds": 8600,
-      "view_count": 238904,
-      "like_count": 9179,
-      "comment_count": 670,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
-    },
-    {
       "video_id": "F1awawd96H8",
       "title": "I Survived 100 Days on a Hardcore Minecraft Server",
       "description": "100 days as law with lomedy & spong\n\nI Survived 100 Days on a Hardcore Minecraft Server\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @Twirps @LettuceK @Spongs @wemmbumc @Lomedy @TeamKalal1 & UU EVENT SERVER\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
@@ -208,9 +197,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F1awawd96H8/hqdefault.jpg",
       "duration": "PT1H10M57S",
       "duration_seconds": 4257,
-      "view_count": 1370883,
-      "like_count": 82897,
-      "comment_count": 15166,
+      "view_count": 1651963,
+      "like_count": 91836,
+      "comment_count": 16014,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -234,9 +223,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 10674534,
-      "like_count": 464663,
-      "comment_count": 10600,
+      "view_count": 11763651,
+      "like_count": 469716,
+      "comment_count": 10881,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -253,21 +242,21 @@
       "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
     },
     {
-      "video_id": "1GP9yTanS4M",
-      "title": "Big 12 Tournament: Houston vs. Arizona",
-      "description": "The Cougars face the Wildcats in a heavyweight Big 12 Men's Basketball Championship final at T-Mobile Center. Both teams are currently ranked high in the Big 12 Conference standings. The winner secures the Big 12 automatic bid in the NCAA Tournament.",
+      "video_id": "tJ4GTMTWP-k",
+      "title": "ACC Tournament: Virginia vs. Duke",
+      "description": "T. Rowe Price ACC Tournament concludes as No.1 Duke and No.10 Virginia fight for the title. The Blue Devils won the regular-season meeting, but the Cavaliers have won four straight games. A spot in the NCAA Tournament as a top seed is on the line.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T08:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1GP9yTanS4M/hqdefault.jpg",
-      "duration": "PT2H25M15S",
-      "duration_seconds": 8715,
+      "published_at": "2026-03-15T10:57:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tJ4GTMTWP-k/hqdefault.jpg",
+      "duration": "PT2H21M",
+      "duration_seconds": 8460,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1GP9yTanS4M"
+      "url": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
     },
     {
       "video_id": "kD8lABg8hsE",
@@ -321,6 +310,68 @@
       "url": "https://www.youtube.com/watch?v=BOqkhozhLfQ"
     },
     {
+      "video_id": "PXxWawbtevU",
+      "title": "Top Gun: Maverick",
+      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "channel_title": "Paramount",
+      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
+      "published_at": "2026-03-15T09:22:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PXxWawbtevU/hqdefault.jpg",
+      "duration": "PT3H16M6S",
+      "duration_seconds": 11766,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PXxWawbtevU"
+    },
+    {
+      "video_id": "QmhWbfA1brQ",
+      "title": "MAC Tournament: Toledo vs. Akron",
+      "description": "Akron faces Toledo in the Mid-American Conference Championship game. Toledo's Sean Craig is coming off a double-double (15 points, 11 rebounds) from a recent game against Massachusetts. Akron's Tavari Johnson leads the team in scoring (20.3 PPG).",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-15T09:52:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QmhWbfA1brQ/hqdefault.jpg",
+      "duration": "PT2H6M56S",
+      "duration_seconds": 7616,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=QmhWbfA1brQ"
+    },
+    {
+      "video_id": "ECun7O7MGuk",
+      "title": "Uncle Joe’s Motel…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-03-14T22:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
+      "duration": "PT2H23M20S",
+      "duration_seconds": 8600,
+      "view_count": 314423,
+      "like_count": 10231,
+      "comment_count": 701,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
+    },
+    {
       "video_id": "RDLdTV0zfaU",
       "title": "CNN Newsroom",
       "description": "Updates of news from around the world.",
@@ -338,51 +389,6 @@
       "url": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
     },
     {
-      "video_id": "1DfluRBjAm4",
-      "title": "ACC Tournament: Clemson vs. Duke",
-      "description": "The Duke Blue Devils face the Clemson Tigers in the semifinals of the ACC Men's Basketball Tournament. The winner of this matchup will advance to the ACC Championship game. Cameron Boozer leads No. 1 seed Duke in scoring, rebounds, and assists.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-14T12:50:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1DfluRBjAm4/hqdefault.jpg",
-      "duration": "PT2H14M30S",
-      "duration_seconds": 8070,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
-    },
-    {
-      "video_id": "ECun7O7MGuk",
-      "title": "Uncle Joe’s Motel…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-03-14T22:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ECun7O7MGuk/hqdefault.jpg",
-      "duration": "PT2H23M20S",
-      "duration_seconds": 8600,
-      "view_count": 238904,
-      "like_count": 9179,
-      "comment_count": 670,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=ECun7O7MGuk"
-    },
-    {
       "video_id": "F1awawd96H8",
       "title": "I Survived 100 Days on a Hardcore Minecraft Server",
       "description": "100 days as law with lomedy & spong\n\nI Survived 100 Days on a Hardcore Minecraft Server\n\nUnstable SMP:\n➜ @wemmbumc \n➜ @ParrotX2 \n➜ @Spokeishere \n➜ @FlameFragsMC \n\nMusic from: \nMinecraft (Creator Safe Music, used courtesy of Mojang Studios), Nombra101, NourOSTs, Epidemic Sound, Storyblocks, Artlist, Envato, and Soundstripe.\n\nThank you: @Twirps @LettuceK @Spongs @wemmbumc @Lomedy @TeamKalal1 & UU EVENT SERVER\n\nThis video takes place on the Unstable Universe / Unstable SMP: a staged Minecraft server created by FlameFrags, Parrot, Wemmbu, and Spoke to tell cinematic stories in Minecraft.\nAny future staged content will include a disclaimer in the description.\n\nAffiliates!\nJoin My Minecraft Server!\nIP: play.flamefrags.com\nPort: 19132\nFlameFragsSMP Discord ➜ https://discord.gg/flamefragsmc\nFeather Cosmetics ➜ https://feathermc.com/flamefrags\nMerch ➜ https://creatormerch.com/flamefrags\n\n#flamefrags #minecraft",
@@ -392,9 +398,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/F1awawd96H8/hqdefault.jpg",
       "duration": "PT1H10M57S",
       "duration_seconds": 4257,
-      "view_count": 1370883,
-      "like_count": 82897,
-      "comment_count": 15166,
+      "view_count": 1651963,
+      "like_count": 91836,
+      "comment_count": 16014,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -404,34 +410,6 @@
         "flame minecraft"
       ],
       "url": "https://www.youtube.com/watch?v=F1awawd96H8"
-    },
-    {
-      "video_id": "WY5IihTW7Os",
-      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
-      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
-      "channel_title": "R&BHype",
-      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
-      "published_at": "2026-03-11T15:21:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
-      "duration": "PT2M12S",
-      "duration_seconds": 132,
-      "view_count": 121732,
-      "like_count": 746,
-      "comment_count": 24,
-      "category_id": "22",
-      "tags": [
-        "Lil Uzi Vert What You Saying",
-        "What You Saying Lil Uzi Vert",
-        "Il il n'est pas fou il l'aime c'est tout",
-        "Dans sa love story",
-        "Sa love story",
-        "I don't even know what she said 'cause she foreign",
-        "Yeah she foreign and she got endurance",
-        "Like the way she 'forms",
-        "And she gon' perform it",
-        "Look the same in morning"
-      ],
-      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     }
   ],
   "analysis": {
@@ -439,75 +417,88 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 12406053,
-        "average_views_per_video": 1240605.3,
-        "categories": "Unknown"
+        "total_views": 13730037,
+        "average_views_per_video": 1373003.7,
+        "unclassified_categories": true
       },
       "content_trends": {
-        "general_observations": [
-          "The list comprises a diverse range of content, including sports, entertainment, music, news, and gaming.",
-          "Sports content is prominent, with multiple entries related to tournaments and matches (e.g., Big 12 Tournament, ACC Tournament, and Puerto Rico vs. Italy).",
-          "Entertainment and movie trailers, such as 'Ustaad Bhagat Singh Trailer', are drawing significant attention, indicating a high interest in film-related content."
-        ],
-        "music_trends": [
-          "The presence of a music video 'Lil Uzi Vert - What You Saying (Lyrics)' suggests continued high engagement with popular music content."
-        ],
-        "news_trends": [
-          "News content like 'CNN Newsroom' remains relevant, underscoring the audience's interest in staying informed on current events."
-        ],
-        "gaming_trends": [
-          "Gaming content, such as 'I Survived 100 Days on a Hardcore Minecraft Server,' highlights the ongoing popularity of gaming and survival challenges."
-        ]
+        "entertainment_and_movies": {
+          "description": "High interest in movie trailers and popular movie content.",
+          "videos": [
+            "Ustaad Bhagat Singh Trailer",
+            "Top Gun: Maverick"
+          ],
+          "insights": {
+            "popularity_of_film_trailers": "The presence of a movie trailer suggests a strong interest in upcoming films and sequels.",
+            "content_strategy": "Consider creating behind-the-scenes content or interviews with cast and crew to leverage this interest."
+          }
+        },
+        "sports": {
+          "description": "Significant interest in live sports events and tournaments.",
+          "videos": [
+            "ACC Tournament: Virginia vs. Duke",
+            "Live From THE PLAYERS",
+            "Quarterfinal: Puerto Rico vs. Italy",
+            "MAC Tournament: Toledo vs. Akron"
+          ],
+          "insights": {
+            "live_sports_demand": "Live coverage of sports events attracts significant viewership.",
+            "content_strategy": "Explore partnerships with sports leagues for exclusive highlights or in-depth analysis."
+          }
+        },
+        "news_and_politics": {
+          "description": "Consistent viewership for news and political content.",
+          "videos": [
+            "The Big Weekend Show",
+            "CNN Newsroom"
+          ],
+          "insights": {
+            "news_consumption": "News analysis and political commentary remain relevant, especially during significant events.",
+            "content_strategy": "Develop timely content that aligns with current events to maintain relevance."
+          }
+        },
+        "gaming": {
+          "description": "Engagement with gaming content, specifically Minecraft.",
+          "videos": [
+            "I Survived 100 Days on a Hardcore Minecraft Server"
+          ],
+          "insights": {
+            "gaming_community_interest": "Niche gaming challenges and survival stories are popular.",
+            "content_strategy": "Create interactive series or gaming challenges to engage the gaming community."
+          }
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "Mythri Movie Makers",
-            "videos_count": 1,
-            "content_focus": "Movie trailers and film-related content"
-          },
-          {
-            "name": "ESPN",
-            "videos_count": 1,
-            "content_focus": "Sports events and analysis"
-          },
-          {
-            "name": "Golf Channel",
-            "videos_count": 1,
-            "content_focus": "Golf tournaments and live coverage"
-          },
-          {
-            "name": "R&BHype",
-            "videos_count": 1,
-            "content_focus": "Music and lyrical content"
-          },
-          {
-            "name": "FS1",
-            "videos_count": 1,
-            "content_focus": "Sports and talk shows"
+        "diverse_channel_presence": {
+          "description": "A range of channels with varied content types.",
+          "channels": [
+            "Mythri Movie Makers",
+            "ESPN",
+            "Golf Channel",
+            "FS1",
+            "FOX News"
+          ],
+          "insights": {
+            "multi-genre_interest": "Viewership spans across different content genres, indicating a diverse audience base.",
+            "content_strategy": "Identify niche audiences within these genres for targeted content production."
           }
-        ],
-        "observations": [
-          "Each top channel contributed a single trending video, indicating a broad distribution of popular content across different creators.",
-          "Channels that provide live coverage or timely updates (e.g., ESPN, Golf Channel) are likely to trend during major sporting events."
-        ]
+        }
       },
       "market_opportunities": {
-        "sports_content": [
-          "Leverage major sports events to create complementary content, such as pre-event analyses or post-event highlights."
-        ],
-        "movie_and_entertainment": [
-          "Capitalize on the popularity of movie trailers by offering behind-the-scenes content or interviews with cast and crew."
-        ],
-        "music": [
-          "Explore collaborations with popular musicians to release exclusive content or lyric breakdowns."
-        ],
-        "gaming": [
-          "Develop unique gaming challenges or collaborate with popular gaming influencers to engage the gaming community."
-        ],
-        "news_and_information": [
-          "Create timely, in-depth analyses of current events to cater to audiences seeking more detailed news coverage."
-        ]
+        "cross-promotion": {
+          "description": "Opportunity to leverage existing popular channels for cross-promotion.",
+          "strategies": [
+            "Collaborate with channels like ESPN and FOX News for broader reach.",
+            "Utilize movie and sports event hype to cross-promote related content."
+          ]
+        },
+        "content_diversification": {
+          "description": "Expand content offerings to cater to varied interests.",
+          "strategies": [
+            "Introduce content series across trending genres such as sports and gaming.",
+            "Explore multilingual content to capture wider demographics, particularly in entertainment."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -515,7 +506,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1240605
+        "avg_views_per_video": 1373003
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
