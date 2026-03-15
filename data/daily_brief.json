@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-14T21:11:53.445961",
-  "date": "2026-03-14",
+  "timestamp": "2026-03-15T00:51:22.735713",
+  "date": "2026-03-15",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 2876955,
-      "like_count": 424247,
-      "comment_count": 9218,
+      "view_count": 4077630,
+      "like_count": 427798,
+      "comment_count": 9378,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 491905,
-      "like_count": 6644,
-      "comment_count": 1075,
+      "view_count": 551814,
+      "like_count": 7255,
+      "comment_count": 1169,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
       "duration": "PT2M35S",
       "duration_seconds": 155,
-      "view_count": 782801,
-      "like_count": 13520,
-      "comment_count": 748,
+      "view_count": 871093,
+      "like_count": 14263,
+      "comment_count": 815,
       "category_id": "24",
       "tags": [
         "Adam DiMarco",
@@ -131,21 +131,49 @@
       "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
     },
     {
-      "video_id": "2Ya_IqSMalw",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "video_id": "R4NPUGFSKTs",
+      "title": "Saturday in America",
+      "description": "",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T19:41:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Ya_IqSMalw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-03-14T21:44:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R4NPUGFSKTs/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
+      "url": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
+    },
+    {
+      "video_id": "WY5IihTW7Os",
+      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
+      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
+      "channel_title": "R&BHype",
+      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
+      "published_at": "2026-03-11T15:21:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 97526,
+      "like_count": 625,
+      "comment_count": 22,
+      "category_id": "22",
+      "tags": [
+        "Lil Uzi Vert What You Saying",
+        "What You Saying Lil Uzi Vert",
+        "Il il n'est pas fou il l'aime c'est tout",
+        "Dans sa love story",
+        "Sa love story",
+        "I don't even know what she said 'cause she foreign",
+        "Yeah she foreign and she got endurance",
+        "Like the way she 'forms",
+        "And she gon' perform it",
+        "Look the same in morning"
+      ],
+      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -165,34 +193,6 @@
       "url": "https://www.youtube.com/watch?v=1DfluRBjAm4"
     },
     {
-      "video_id": "WY5IihTW7Os",
-      "title": "Lil Uzi Vert - What You Saying (Lyrics)",
-      "description": "Lil Uzi Vert - What You Saying\nStream/Download:\n\n(Lyrics):\n[Intro]\n(MC, make another hit)\n\n[Chorus: Lil Uzi Vert]\nI don't even know what she said 'cause she foreign (Let's go)\nYeah, she foreign\nAnd she got endurance\nLike the way she 'forms\nAnd she gon' perform it\nLook the same in morning (Woah)\nShe don't stop, keep going (Keep going)\nI don't even know what she said, but this what I hear in my head\n\n[Refrain: Lil Uzi Vert & Indila]\nIl, il n'est pas fou (Huh?), il l'aime c'est tout (What?)\nIl la voit partout (Wait), il l'attend debout (What she say?)\nDebout une rose à la main (Yes), non, non plus rien ne le retient (Oh, and she start breathin' like)\nDans sa love story (Woah)\nDans sa love story (Let's go)\nDans sa love story\nSa love story (Then she switch the pace up)\n\n[Verse: Lil Uzi Vert]\nOkay, I really do get you\nWhat I make in a day, what they make in a life\nIs it 'cause that I'm paid, you tryna stay the night?\nYou keep rubbing all on my face, make me feel I'm your type\nI guess that we",
-      "channel_title": "R&BHype",
-      "channel_id": "UCZ-8PpoBeoiw4xZRm0W9jGg",
-      "published_at": "2026-03-11T15:21:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
-      "duration": "PT2M12S",
-      "duration_seconds": 132,
-      "view_count": 82562,
-      "like_count": 561,
-      "comment_count": 21,
-      "category_id": "22",
-      "tags": [
-        "Lil Uzi Vert What You Saying",
-        "What You Saying Lil Uzi Vert",
-        "Il il n'est pas fou il l'aime c'est tout",
-        "Dans sa love story",
-        "Sa love story",
-        "I don't even know what she said 'cause she foreign",
-        "Yeah she foreign and she got endurance",
-        "Like the way she 'forms",
-        "And she gon' perform it",
-        "Look the same in morning"
-      ],
-      "url": "https://www.youtube.com/watch?v=WY5IihTW7Os"
-    },
-    {
       "video_id": "ABol0H2n_rc",
       "title": "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
       "description": "Welcome (back) to the family. #MalcolmInTheMiddle Life’s Still Unfair, a special four-part event, streams on Hulu and Hulu on Disney+ April 10. \n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confirmation=1\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit https://Hulu.com to subscribe now.\n\nMalcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu\nhttps://yo",
@@ -202,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 5267726,
-      "like_count": 65520,
-      "comment_count": 4469,
+      "view_count": 5656309,
+      "like_count": 66822,
+      "comment_count": 4567,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -250,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 2876955,
-      "like_count": 424247,
-      "comment_count": 9218,
+      "view_count": 4077630,
+      "like_count": 427798,
+      "comment_count": 9378,
       "category_id": "24",
       "tags": [
         "Ustaad Bhagat Singh Trailer",
@@ -295,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_mh0bgWazEM/hqdefault.jpg",
       "duration": "PT2M16S",
       "duration_seconds": 136,
-      "view_count": 491905,
-      "like_count": 6644,
-      "comment_count": 1075,
+      "view_count": 551814,
+      "like_count": 7255,
+      "comment_count": 1169,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -340,9 +340,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vMc_pWm7G7o/hqdefault.jpg",
       "duration": "PT2M35S",
       "duration_seconds": 155,
-      "view_count": 782801,
-      "like_count": 13520,
-      "comment_count": 748,
+      "view_count": 871093,
+      "like_count": 14263,
+      "comment_count": 815,
       "category_id": "24",
       "tags": [
         "Adam DiMarco",
@@ -359,21 +359,21 @@
       "url": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
     },
     {
-      "video_id": "2Ya_IqSMalw",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "video_id": "R4NPUGFSKTs",
+      "title": "Saturday in America",
+      "description": "",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-14T19:41:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Ya_IqSMalw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-03-14T21:44:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R4NPUGFSKTs/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
+      "url": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
     },
     {
       "video_id": "1DfluRBjAm4",
@@ -402,9 +402,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ABol0H2n_rc/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 5267726,
-      "like_count": 65520,
-      "comment_count": 4469,
+      "view_count": 5656309,
+      "like_count": 66822,
+      "comment_count": 4567,
       "category_id": "24",
       "tags": [
         "hulu",
@@ -447,9 +447,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WY5IihTW7Os/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 82562,
-      "like_count": 561,
-      "comment_count": 21,
+      "view_count": 97526,
+      "like_count": 625,
+      "comment_count": 22,
       "category_id": "22",
       "tags": [
         "Lil Uzi Vert What You Saying",
@@ -469,66 +469,73 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment_and_sports": {
-          "description": "There is a significant presence of both entertainment and sports content within the top trending videos.",
-          "data": {
-            "entertainment_videos": 5,
-            "sports_videos": 4,
-            "other_videos": 1
-          },
-          "insights": [
-            "Entertainment and sports together make up 90% of the trending content, indicating their dominance in viewer interest.",
-            "Trailers and teasers (both movies and shows) are particularly popular, suggesting a strong engagement with upcoming releases."
-          ]
+      "trending_patterns_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 11254372,
+          "average_views_per_video": 1125437.2
         },
-        "trailer_popularity": {
-          "description": "Trailers for movies, shows, and games are trending.",
-          "data": {
-            "total_trailers": 4
+        "content_trends": {
+          "trailers_and_entertainment": {
+            "observation": "A significant portion of trending videos includes trailers and entertainment content.",
+            "videos": [
+              "Ustaad Bhagat Singh Trailer",
+              "STREET FIGHTER Official Teaser Trailer",
+              "Something Very Bad Is Going to Happen",
+              "Malcolm in the Middle: Life's Still Unfair"
+            ],
+            "insights": "Trailers for upcoming movies, TV shows, and games are highly engaging and continue to attract large viewership. Content creators should focus on timely releases of trailers and teasers to capture audience interest."
           },
-          "insights": [
-            "Trailers for both mainstream (e.g., Netflix) and niche (e.g., Hulu) platforms are generating high interest.",
-            "Game trailers like 'STREET FIGHTER' alongside TV and movie trailers indicate a diverse interest in visual entertainment."
-          ]
-        }
-      },
-      "creator_patterns": {
-        "single_video_channels": {
-          "description": "Top channels are represented by a single trending video each.",
-          "data": {
-            "single_video_channels": 5
+          "sports_content": {
+            "observation": "Sports-related content is prominently featured in the trending list.",
+            "videos": [
+              "Big 12 Tournament: Iowa State vs. Arizona",
+              "The Players Championship: Second Round",
+              "ACC Tournament: Clemson vs. Duke",
+              "SEC Tournament: Oklahoma vs. Arkansas"
+            ],
+            "insights": "Live sports events and highlights are major drivers of viewership. Channels should capitalize on real-time and post-event content to engage sports fans."
           },
-          "insights": [
-            "Channels like Mythri Movie Makers, ESPN, and Netflix have managed to capture attention with just one video, reflecting strong brand influence.",
-            "There is an opportunity for these channels to increase their video output to capitalize on their trending potential."
-          ]
-        }
-      },
-      "market_opportunities": {
-        "cross-category_potential": {
-          "description": "Potential for content creators to leverage cross-category interests.",
-          "data": {
-            "trending_categories": [
-              "Entertainment",
-              "Sports",
-              "Music"
-            ]
-          },
-          "insights": [
-            "Creators could explore content that blends entertainment with sports, such as athlete documentaries or sports-themed series, to tap into combined audience interests.",
-            "Given the popularity of music lyrics videos like 'Lil Uzi Vert - What You Saying', there is a potential market for music-related content in collaboration with sports and entertainment."
-          ]
+          "music_and_lyrics": {
+            "observation": "Music content remains a strong contender in trending sections.",
+            "videos": [
+              "Lil Uzi Vert - What You Saying (Lyrics)"
+            ],
+            "insights": "Lyrics videos and music releases are consistently popular. Artists and labels should ensure regular releases and leverage platforms like YouTube for maximizing reach."
+          }
         },
-        "regional_content_expansion": {
-          "description": "Opportunities for regional content expansion.",
-          "data": {
-            "regional_focus": "Indian cinema and culture"
-          },
-          "insights": [
-            "The presence of the 'Ustaad Bhagat Singh Trailer' indicates a strong interest in regional Indian cinema, suggesting that non-English content has significant potential for growth.",
-            "Channels can consider targeting regional content to engage local audiences and expand their global reach."
-          ]
+        "creator_patterns": {
+          "single_video_channels": {
+            "observation": "Most top channels have only one video in the trending list.",
+            "channels": [
+              "Mythri Movie Makers",
+              "ESPN",
+              "ONE Media",
+              "Golf Channel",
+              "Netflix"
+            ],
+            "insights": "Channels can benefit from diversifying content and regularly uploading new content to maintain audience engagement and presence on trending lists."
+          }
+        },
+        "market_opportunities": {
+          "emerging_themes": [
+            {
+              "theme": "Entertainment and Trailers",
+              "opportunity": "Collaborate with content producers to create exclusive teaser trailers and behind-the-scenes content."
+            },
+            {
+              "theme": "Live Sports Coverage",
+              "opportunity": "Invest in real-time streaming and highlight packages that can be quickly turned around for post-event consumption."
+            },
+            {
+              "theme": "Music and Lyrics Videos",
+              "opportunity": "Develop partnerships with emerging artists for exclusive releases and innovative lyric video formats."
+            }
+          ],
+          "platform_utilization": {
+            "recommendation": "Channels should optimize their video titles and descriptions with relevant keywords to enhance discoverability.",
+            "strategy": "Utilize analytics to identify peak viewing times and schedule uploads accordingly to maximize initial viewership."
+          }
         }
       },
       "metadata_stats": {
@@ -537,7 +544,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 950194
+        "avg_views_per_video": 1125437
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
