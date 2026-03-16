@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-16T18:29:22.973659",
+  "timestamp": "2026-03-16T21:19:41.334746",
   "date": "2026-03-16",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 0,
-    "high_potential_videos": 10,
+    "music_videos_filtered": 1,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,32 +13,38 @@
   },
   "trending_videos": [
     {
-      "video_id": "SEVbq2DvsEQ",
-      "title": "Busboys | Official Trailer | Theo Von & David Spade",
-      "description": "TICKETS ON SALE NOW AT https://www.BUSBOYSMOVIE.COM\n\nA pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren’t entirely wrong, but they aren’t entirely right.\n\nOUT IN THEATERS NATIONWIDE APRIL 17\n\nStarring Theo Von and David Spade\nDirected by Jonah Feingold\n\nFollow BUSBOYS on IG: https://www.instagram.com/busboysmovie/ \nFollow BUSBOYS on TikTok: https://www.tiktok.com/@busboysmovie \nLike BUSBOYS on X: https://x.com/BusboysMovie",
-      "channel_title": "Theo Von",
-      "channel_id": "UC5AQEUAwCh1sGDvkQtkDWUQ",
-      "published_at": "2026-03-16T13:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
-      "duration": "PT1M37S",
-      "duration_seconds": 97,
-      "view_count": 109037,
-      "like_count": 8589,
-      "comment_count": 1153,
-      "category_id": "23",
-      "tags": [
-        "Theo Von",
-        "This Past Weekend",
-        "TPW",
-        "comedy",
-        "podcast",
-        "comedian",
-        "interview",
-        "talk show",
-        "stand-up",
-        "stand-up comedy"
-      ],
-      "url": "https://www.youtube.com/watch?v=SEVbq2DvsEQ"
+      "video_id": "8WieZQHWa7U",
+      "title": "Gotas De Lluvia - Grupo Niche (Letra)",
+      "description": "🎶 Gotas De Lluvia - Álbum: Huellas del pasado 🎶 Artista: Grupo Niche 🎶❤️\nLetra hecha por: La Cueva Fiestera https://www.youtube.com/@LaCuevaFiestera\n\nVídeo oficial: https://www.youtube.com/watch?v=BlCiQbxMxlc\n\nConoce más de Grupo Niche:\nYoutube: https://www.youtube.com/@GrupoNicheOficial\nInstagram: https://www.instagram.com/gruponicheoficial  \nFacebook: https://www.facebook.com/elgruponiche\nTwitter: https://x.com/gruponiche\nSitio web oficial: https://gruponiche.com/\n\nLyrics:\nGotas de lluvia no es el rocío\nLágrimas que vienen del corazón\nGotas de lluvia, no es el rocío\nLágrimas que brotan porque ya no hay amor\n\nPudiste haberme dicho que no\nQue no sentías nada por mí\nQue lo nuestro nunca fue algo especial\nLa vida cambia y todo tiene final\n\nUna aventura fui para ti\nY fácilmente yo en tus redes caí\nUn trago amargo que de ti recibí\nAhora no sé, no sé qué será de mí\n\nGotas de lluvia no es el rocío\nLágrimas que vienen del corazón\nGotas de lluvia, no es el rocío\nLágrimas que brotan porque ya n",
+      "channel_title": "La Cueva Fiestera",
+      "channel_id": "UChwbWfL_QkzKIWdWcuJBdhg",
+      "published_at": "2026-03-14T13:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8WieZQHWa7U/hqdefault.jpg",
+      "duration": "PT5M58S",
+      "duration_seconds": 358,
+      "view_count": 171376,
+      "like_count": 203,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8WieZQHWa7U"
+    },
+    {
+      "video_id": "DkVepshZhGc",
+      "title": "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
+      "description": "Let us have our revenge.\n\nThe all-new series Star Wars: Maul - Shadow Lord streams April 6 only on @disneyplus.\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\nYouTube.com/@Disney\nYouTube.com/@Lucasfilm\nYouTube.com/@marvel\nYouTube.com/@pixar\nYouTube.com/@disneyplus",
+      "channel_title": "Star Wars",
+      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
+      "published_at": "2026-03-16T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
+      "duration": "PT2M5S",
+      "duration_seconds": 125,
+      "view_count": 283027,
+      "like_count": 25731,
+      "comment_count": 1764,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
     },
     {
       "video_id": "jFveES7tufo",
@@ -58,6 +64,51 @@
       "url": "https://www.youtube.com/watch?v=jFveES7tufo"
     },
     {
+      "video_id": "SEVbq2DvsEQ",
+      "title": "Busboys | Official Trailer | Theo Von & David Spade",
+      "description": "TICKETS ON SALE NOW AT https://www.BUSBOYSMOVIE.COM\n\nA pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren’t entirely wrong, but they aren’t entirely right.\n\nOUT IN THEATERS NATIONWIDE APRIL 17\n\nStarring Theo Von and David Spade\nDirected by Jonah Feingold\n\nFollow BUSBOYS on IG: https://www.instagram.com/busboysmovie/ \nFollow BUSBOYS on TikTok: https://www.tiktok.com/@busboysmovie \nLike BUSBOYS on X: https://x.com/BusboysMovie",
+      "channel_title": "Theo Von",
+      "channel_id": "UC5AQEUAwCh1sGDvkQtkDWUQ",
+      "published_at": "2026-03-16T13:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
+      "duration": "PT1M37S",
+      "duration_seconds": 97,
+      "view_count": 160391,
+      "like_count": 10716,
+      "comment_count": 1363,
+      "category_id": "23",
+      "tags": [
+        "Theo Von",
+        "This Past Weekend",
+        "TPW",
+        "comedy",
+        "podcast",
+        "comedian",
+        "interview",
+        "talk show",
+        "stand-up",
+        "stand-up comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=SEVbq2DvsEQ"
+    },
+    {
+      "video_id": "sTnt5myRL3o",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-16T20:27:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sTnt5myRL3o/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sTnt5myRL3o"
+    },
+    {
       "video_id": "gictwC-KlTk",
       "title": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
       "description": "VALORANT’s new Croatian Controller Miks amplifies the vibes, equalizes the playing field, and always keeps your team on the right tempo.\n\nAvailable in Season 26 // ACT II.\n__\n\nMusic:\nLISTEN NOW: https://valorant.ffm.to/clarityremix\n\nZedd - Clarity (VALORANT x BUNT. Remix)\nRemix Produced by: BUNT.\nMixed by: Jay Reynolds\nMastered by: Jay Reynolds\nAdditional Production: The Crystal Creative\nMusic Supervision: Riot Games Music Team\n\nMade in Partnership with Massive Assembly https://massive.work\n—\nCharacter Animation by Little Zoo Studio\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #MIKS #AGENTREVEAL",
@@ -67,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gictwC-KlTk/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 824058,
-      "like_count": 55365,
-      "comment_count": 2578,
+      "view_count": 884401,
+      "like_count": 57612,
+      "comment_count": 2662,
       "category_id": "20",
       "tags": [
         "Miks",
@@ -103,21 +154,32 @@
       "url": "https://www.youtube.com/watch?v=JZu-9d_-dHA"
     },
     {
-      "video_id": "DkVepshZhGc",
-      "title": "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
-      "description": "Let us have our revenge.\n\nThe all-new series Star Wars: Maul - Shadow Lord streams April 6 only on @disneyplus.\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\nYouTube.com/@Disney\nYouTube.com/@Lucasfilm\nYouTube.com/@marvel\nYouTube.com/@pixar\nYouTube.com/@disneyplus",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-03-16T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 109306,
-      "like_count": 15807,
-      "comment_count": 1130,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
+      "video_id": "PIuI8k0QDXc",
+      "title": "LEGO Batman: Legacy of the Dark Knight - Official New Release Date Trailer",
+      "description": "Don't miss the New Release Date Trailer for LEGO Batman: Legacy of the Dark Knight, an upcoming third-person action-adventure game developed by TT Games. Players will relive the multiple iconic eras of the Dark Knight across comics, animation, and movies to celebrate all things Batman. LEGO Batman: Legacy of the Dark Knight is launching on May 22 for PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch 2, and PC (Steam).",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-16T16:17:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PIuI8k0QDXc/hqdefault.jpg",
+      "duration": "PT17S",
+      "duration_seconds": 17,
+      "view_count": 25922,
+      "like_count": 1073,
+      "comment_count": 103,
+      "category_id": "20",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Batman",
+        "DC Comics",
+        "LEGO",
+        "LEGO Batman: Legacy of the Dark Knight",
+        "Nintendo Switch 2",
+        "PC",
+        "PlayStation 5",
+        "TT Games"
+      ],
+      "url": "https://www.youtube.com/watch?v=PIuI8k0QDXc"
     },
     {
       "video_id": "0kUelESVbfo",
@@ -137,23 +199,6 @@
       "url": "https://www.youtube.com/watch?v=0kUelESVbfo"
     },
     {
-      "video_id": "uCnidMMA4bI",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-16T10:56:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uCnidMMA4bI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=uCnidMMA4bI"
-    },
-    {
       "video_id": "llpP6E3om6M",
       "title": "Live From THE PLAYERS",
       "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
@@ -169,71 +214,43 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=llpP6E3om6M"
-    },
-    {
-      "video_id": "XWR7yaQo9A0",
-      "title": "Just Win",
-      "description": "Guy Fieri continues the first-round battles as James Beard nominee Dale Talde faces off against House of Knives winner Shirley Chung. In the final battle of the night, the third mystery culinary icon is revealed to take on qualifier winner Viet Pham.",
-      "channel_title": "Food Network",
-      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
-      "published_at": "2026-03-16T09:07:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XWR7yaQo9A0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XWR7yaQo9A0"
-    },
-    {
-      "video_id": "Coa9zG2U634",
-      "title": "NCAA March Madness Bracket Breakdown",
-      "description": "College basketball experts examine the bracket matchups, and predict the possible outcomes, for the 2026 NCAA \"March Madness\" Tournament.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-03-16T09:29:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Coa9zG2U634/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Coa9zG2U634"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "SEVbq2DvsEQ",
-      "title": "Busboys | Official Trailer | Theo Von & David Spade",
-      "description": "TICKETS ON SALE NOW AT https://www.BUSBOYSMOVIE.COM\n\nA pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren’t entirely wrong, but they aren’t entirely right.\n\nOUT IN THEATERS NATIONWIDE APRIL 17\n\nStarring Theo Von and David Spade\nDirected by Jonah Feingold\n\nFollow BUSBOYS on IG: https://www.instagram.com/busboysmovie/ \nFollow BUSBOYS on TikTok: https://www.tiktok.com/@busboysmovie \nLike BUSBOYS on X: https://x.com/BusboysMovie",
-      "channel_title": "Theo Von",
-      "channel_id": "UC5AQEUAwCh1sGDvkQtkDWUQ",
-      "published_at": "2026-03-16T13:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
-      "duration": "PT1M37S",
-      "duration_seconds": 97,
-      "view_count": 109037,
-      "like_count": 8589,
-      "comment_count": 1153,
-      "category_id": "23",
-      "tags": [
-        "Theo Von",
-        "This Past Weekend",
-        "TPW",
-        "comedy",
-        "podcast",
-        "comedian",
-        "interview",
-        "talk show",
-        "stand-up",
-        "stand-up comedy"
-      ],
-      "url": "https://www.youtube.com/watch?v=SEVbq2DvsEQ"
+      "video_id": "8WieZQHWa7U",
+      "title": "Gotas De Lluvia - Grupo Niche (Letra)",
+      "description": "🎶 Gotas De Lluvia - Álbum: Huellas del pasado 🎶 Artista: Grupo Niche 🎶❤️\nLetra hecha por: La Cueva Fiestera https://www.youtube.com/@LaCuevaFiestera\n\nVídeo oficial: https://www.youtube.com/watch?v=BlCiQbxMxlc\n\nConoce más de Grupo Niche:\nYoutube: https://www.youtube.com/@GrupoNicheOficial\nInstagram: https://www.instagram.com/gruponicheoficial  \nFacebook: https://www.facebook.com/elgruponiche\nTwitter: https://x.com/gruponiche\nSitio web oficial: https://gruponiche.com/\n\nLyrics:\nGotas de lluvia no es el rocío\nLágrimas que vienen del corazón\nGotas de lluvia, no es el rocío\nLágrimas que brotan porque ya no hay amor\n\nPudiste haberme dicho que no\nQue no sentías nada por mí\nQue lo nuestro nunca fue algo especial\nLa vida cambia y todo tiene final\n\nUna aventura fui para ti\nY fácilmente yo en tus redes caí\nUn trago amargo que de ti recibí\nAhora no sé, no sé qué será de mí\n\nGotas de lluvia no es el rocío\nLágrimas que vienen del corazón\nGotas de lluvia, no es el rocío\nLágrimas que brotan porque ya n",
+      "channel_title": "La Cueva Fiestera",
+      "channel_id": "UChwbWfL_QkzKIWdWcuJBdhg",
+      "published_at": "2026-03-14T13:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8WieZQHWa7U/hqdefault.jpg",
+      "duration": "PT5M58S",
+      "duration_seconds": 358,
+      "view_count": 171376,
+      "like_count": 203,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8WieZQHWa7U"
+    },
+    {
+      "video_id": "DkVepshZhGc",
+      "title": "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
+      "description": "Let us have our revenge.\n\nThe all-new series Star Wars: Maul - Shadow Lord streams April 6 only on @disneyplus.\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\nYouTube.com/@Disney\nYouTube.com/@Lucasfilm\nYouTube.com/@marvel\nYouTube.com/@pixar\nYouTube.com/@disneyplus",
+      "channel_title": "Star Wars",
+      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
+      "published_at": "2026-03-16T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
+      "duration": "PT2M5S",
+      "duration_seconds": 125,
+      "view_count": 283027,
+      "like_count": 25731,
+      "comment_count": 1764,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
     },
     {
       "video_id": "jFveES7tufo",
@@ -253,6 +270,51 @@
       "url": "https://www.youtube.com/watch?v=jFveES7tufo"
     },
     {
+      "video_id": "SEVbq2DvsEQ",
+      "title": "Busboys | Official Trailer | Theo Von & David Spade",
+      "description": "TICKETS ON SALE NOW AT https://www.BUSBOYSMOVIE.COM\n\nA pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren’t entirely wrong, but they aren’t entirely right.\n\nOUT IN THEATERS NATIONWIDE APRIL 17\n\nStarring Theo Von and David Spade\nDirected by Jonah Feingold\n\nFollow BUSBOYS on IG: https://www.instagram.com/busboysmovie/ \nFollow BUSBOYS on TikTok: https://www.tiktok.com/@busboysmovie \nLike BUSBOYS on X: https://x.com/BusboysMovie",
+      "channel_title": "Theo Von",
+      "channel_id": "UC5AQEUAwCh1sGDvkQtkDWUQ",
+      "published_at": "2026-03-16T13:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
+      "duration": "PT1M37S",
+      "duration_seconds": 97,
+      "view_count": 160391,
+      "like_count": 10716,
+      "comment_count": 1363,
+      "category_id": "23",
+      "tags": [
+        "Theo Von",
+        "This Past Weekend",
+        "TPW",
+        "comedy",
+        "podcast",
+        "comedian",
+        "interview",
+        "talk show",
+        "stand-up",
+        "stand-up comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=SEVbq2DvsEQ"
+    },
+    {
+      "video_id": "sTnt5myRL3o",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-16T20:27:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sTnt5myRL3o/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sTnt5myRL3o"
+    },
+    {
       "video_id": "gictwC-KlTk",
       "title": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
       "description": "VALORANT’s new Croatian Controller Miks amplifies the vibes, equalizes the playing field, and always keeps your team on the right tempo.\n\nAvailable in Season 26 // ACT II.\n__\n\nMusic:\nLISTEN NOW: https://valorant.ffm.to/clarityremix\n\nZedd - Clarity (VALORANT x BUNT. Remix)\nRemix Produced by: BUNT.\nMixed by: Jay Reynolds\nMastered by: Jay Reynolds\nAdditional Production: The Crystal Creative\nMusic Supervision: Riot Games Music Team\n\nMade in Partnership with Massive Assembly https://massive.work\n—\nCharacter Animation by Little Zoo Studio\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #MIKS #AGENTREVEAL",
@@ -262,9 +324,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gictwC-KlTk/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 824058,
-      "like_count": 55365,
-      "comment_count": 2578,
+      "view_count": 884401,
+      "like_count": 57612,
+      "comment_count": 2662,
       "category_id": "20",
       "tags": [
         "Miks",
@@ -298,23 +360,6 @@
       "url": "https://www.youtube.com/watch?v=JZu-9d_-dHA"
     },
     {
-      "video_id": "DkVepshZhGc",
-      "title": "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
-      "description": "Let us have our revenge.\n\nThe all-new series Star Wars: Maul - Shadow Lord streams April 6 only on @disneyplus.\n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\nYouTube.com/@Disney\nYouTube.com/@Lucasfilm\nYouTube.com/@marvel\nYouTube.com/@pixar\nYouTube.com/@disneyplus",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-03-16T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 109306,
-      "like_count": 15807,
-      "comment_count": 1130,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
-    },
-    {
       "video_id": "0kUelESVbfo",
       "title": "The Oscars",
       "description": "Conan O'Brien hosts honors for achievements in film at the Dolby Theatre at Ovation Hollywood; scheduled performers include EJAE, Audrey Nuna and Rei Ami, Miles Caton and Raphael Saadiq.",
@@ -330,23 +375,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0kUelESVbfo"
-    },
-    {
-      "video_id": "uCnidMMA4bI",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-16T10:56:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uCnidMMA4bI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=uCnidMMA4bI"
     },
     {
       "video_id": "llpP6E3om6M",
@@ -366,123 +394,96 @@
       "url": "https://www.youtube.com/watch?v=llpP6E3om6M"
     },
     {
-      "video_id": "XWR7yaQo9A0",
-      "title": "Just Win",
-      "description": "Guy Fieri continues the first-round battles as James Beard nominee Dale Talde faces off against House of Knives winner Shirley Chung. In the final battle of the night, the third mystery culinary icon is revealed to take on qualifier winner Viet Pham.",
-      "channel_title": "Food Network",
-      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
-      "published_at": "2026-03-16T09:07:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XWR7yaQo9A0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XWR7yaQo9A0"
-    },
-    {
-      "video_id": "Coa9zG2U634",
-      "title": "NCAA March Madness Bracket Breakdown",
-      "description": "College basketball experts examine the bracket matchups, and predict the possible outcomes, for the 2026 NCAA \"March Madness\" Tournament.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-03-16T09:29:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Coa9zG2U634/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Coa9zG2U634"
+      "video_id": "PIuI8k0QDXc",
+      "title": "LEGO Batman: Legacy of the Dark Knight - Official New Release Date Trailer",
+      "description": "Don't miss the New Release Date Trailer for LEGO Batman: Legacy of the Dark Knight, an upcoming third-person action-adventure game developed by TT Games. Players will relive the multiple iconic eras of the Dark Knight across comics, animation, and movies to celebrate all things Batman. LEGO Batman: Legacy of the Dark Knight is launching on May 22 for PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch 2, and PC (Steam).",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-16T16:17:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PIuI8k0QDXc/hqdefault.jpg",
+      "duration": "PT17S",
+      "duration_seconds": 17,
+      "view_count": 25922,
+      "like_count": 1073,
+      "comment_count": 103,
+      "category_id": "20",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Batman",
+        "DC Comics",
+        "LEGO",
+        "LEGO Batman: Legacy of the Dark Knight",
+        "Nintendo Switch 2",
+        "PC",
+        "PlayStation 5",
+        "TT Games"
+      ],
+      "url": "https://www.youtube.com/watch?v=PIuI8k0QDXc"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 1042401,
-        "average_views_per_video": 104240.1
-      },
       "content_trends": {
-        "categories_inferred": [
-          "Entertainment",
-          "Sports",
-          "Gaming",
-          "Movies",
-          "News"
-        ],
-        "popular_themes": [
-          "Sports Events",
-          "Entertainment Trailers",
-          "Award Shows"
-        ],
-        "noteworthy_patterns": [
-          "High interest in sports content, with multiple videos related to tournaments and matches.",
-          "Strong presence of entertainment-related content, including trailers and award shows.",
-          "Gaming content maintains a presence with high engagement through trailers."
+        "genres": [
+          {
+            "type": "Music",
+            "example": "Gotas De Lluvia - Grupo Niche (Letra)",
+            "insight": "Music content, particularly with lyrics, continues to attract significant viewership, suggesting an opportunity for lyric videos or music analysis content."
+          },
+          {
+            "type": "Entertainment/Trailers",
+            "examples": [
+              "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
+              "Busboys | Official Trailer | Theo Von & David Spade",
+              "LEGO Batman: Legacy of the Dark Knight - Official New Release Date Trailer"
+            ],
+            "insight": "High interest in entertainment trailers indicates a robust market for upcoming media releases, with potential for content around reviews, breakdowns, and fan theories."
+          },
+          {
+            "type": "Sports",
+            "examples": [
+              "First Semifinal: United States vs. Dominican Republic",
+              "SEC Tournament: Vanderbilt vs. Arkansas",
+              "Live From THE PLAYERS"
+            ],
+            "insight": "Sports events generate substantial engagement, indicating potential for highlight reels, analysis, and predictions content."
+          },
+          {
+            "type": "News/Politics",
+            "example": "FOX and Friends",
+            "insight": "News segments remain relevant, providing opportunities for commentary, opinion pieces, and in-depth analysis."
+          }
         ]
       },
       "creator_patterns": {
-        "top_channels": [
-          "Theo Von",
-          "FS1",
-          "VALORANT",
-          "ESPN",
-          "Star Wars"
-        ],
-        "creator_insights": [
-          {
-            "channel": "Theo Von",
-            "content_focus": "Comedy and Entertainment",
-            "engagement_trend": "Leveraging celebrity collaborations (David Spade) to boost views."
-          },
-          {
-            "channel": "FS1",
-            "content_focus": "Sports",
-            "engagement_trend": "High engagement during live sports events and tournaments."
-          },
-          {
-            "channel": "VALORANT",
-            "content_focus": "Gaming",
-            "engagement_trend": "Effective use of trailers to maintain audience interest."
-          },
-          {
-            "channel": "ESPN",
-            "content_focus": "Sports",
-            "engagement_trend": "Consistent viewership during significant sports events."
-          },
-          {
-            "channel": "Star Wars",
-            "content_focus": "Movies/Franchise Content",
-            "engagement_trend": "Capitalizing on established franchise popularity with new releases."
-          }
-        ]
+        "multi-genre presence": {
+          "channels": [
+            "Star Wars",
+            "FOX News",
+            "Theo Von"
+          ],
+          "insight": "Channels that diversify content across different genres or formats (e.g., trailers, news, comedy) can appeal to a broader audience and maximize engagement."
+        },
+        "single video presence": {
+          "channels": [
+            "La Cueva Fiestera",
+            "FS1"
+          ],
+          "insight": "Channels with a single video presence in trending lists could benefit from increasing their content frequency or exploring collaborations to maintain visibility."
+        }
       },
       "market_opportunities": {
-        "potential_areas_for_growth": [
-          {
-            "category": "Sports",
-            "opportunity": "Develop comprehensive post-event analysis content to capitalize on ongoing viewer interest."
-          },
-          {
-            "category": "Entertainment",
-            "opportunity": "Create behind-the-scenes content and interviews to engage fans beyond trailers."
-          },
-          {
-            "category": "Gaming",
-            "opportunity": "Expand content offerings to include gameplay tutorials and strategy sessions."
-          }
-        ],
-        "audience_engagement_strategies": [
-          "Utilize cross-promotions with popular channels to reach wider audiences.",
-          "Incorporate interactive elements such as polls and live Q&A sessions to boost engagement.",
-          "Leverage social media platforms to build anticipation for upcoming content releases."
-        ]
+        "niche content": {
+          "insight": "There is a growing opportunity in niche content areas like specific music genres (e.g., Latin music) and specialized sports commentary, which can capture dedicated audience segments."
+        },
+        "cross-platform promotion": {
+          "insight": "Channels should leverage cross-platform promotion, especially for entertainment trailers and sports events, to drive traffic to their YouTube content and increase engagement."
+        },
+        "interactive content": {
+          "insight": "Interactive content, such as live discussions or Q&A sessions following premieres or sports events, can enhance viewer engagement and foster community interaction."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -490,7 +491,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 104240
+        "avg_views_per_video": 152511
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
