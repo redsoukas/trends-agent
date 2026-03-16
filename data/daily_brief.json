@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-16T04:06:23.814106",
+  "timestamp": "2026-03-16T06:42:55.510683",
   "date": "2026-03-16",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 0,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pKDY5KlgXdo/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 367352,
-      "like_count": 675,
-      "comment_count": 5,
+      "view_count": 401417,
+      "like_count": 738,
+      "comment_count": 6,
       "category_id": "22",
       "tags": [
         "Elvira",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gictwC-KlTk/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 558951,
-      "like_count": 42888,
-      "comment_count": 2048,
+      "view_count": 614984,
+      "like_count": 45766,
+      "comment_count": 2171,
       "category_id": "20",
       "tags": [
         "Miks",
@@ -69,21 +69,21 @@
       "url": "https://www.youtube.com/watch?v=gictwC-KlTk"
     },
     {
-      "video_id": "tJ4GTMTWP-k",
-      "title": "ACC Tournament: Virginia vs. Duke",
-      "description": "T. Rowe Price ACC Tournament concludes as No.1 Duke and No.10 Virginia fight for the title. The Blue Devils won the regular-season meeting, but the Cavaliers have won four straight games. A spot in the NCAA Tournament as a top seed is on the line.",
+      "video_id": "JZu-9d_-dHA",
+      "title": "SEC Tournament: Vanderbilt vs. Arkansas",
+      "description": "The Vanderbilt Commodores and the Arkansas Razorbacks go head to head in the SEC Men's Basketball Tournament Championship final. Darius Acuff Jr. leads Arkansas with 22.7 PPG and 6.4 APG, while Tyler Tanner leads Vanderbilt with 19.2 PPG and 5.2 APG.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T10:57:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tJ4GTMTWP-k/hqdefault.jpg",
-      "duration": "PT2H21M",
-      "duration_seconds": 8460,
+      "published_at": "2026-03-16T03:48:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JZu-9d_-dHA/hqdefault.jpg",
+      "duration": "PT2H25M16S",
+      "duration_seconds": 8716,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
+      "url": "https://www.youtube.com/watch?v=JZu-9d_-dHA"
     },
     {
       "video_id": "j_mCf8R_kII",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j_mCf8R_kII/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 105657,
-      "like_count": 366,
-      "comment_count": 67,
+      "view_count": 122845,
+      "like_count": 384,
+      "comment_count": 70,
       "category_id": "24",
       "tags": [
         "equalizer 4",
@@ -114,13 +114,30 @@
       "url": "https://www.youtube.com/watch?v=j_mCf8R_kII"
     },
     {
-      "video_id": "1k8WmNpOE90",
-      "title": "Fox News Live",
-      "description": "Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.",
+      "video_id": "llpP6E3om6M",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-16T03:25:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/llpP6E3om6M/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=llpP6E3om6M"
+    },
+    {
+      "video_id": "iTaANUwnrHs",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-15T23:15:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1k8WmNpOE90/hqdefault.jpg",
+      "published_at": "2026-03-16T05:12:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iTaANUwnrHs/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -128,35 +145,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1k8WmNpOE90"
+      "url": "https://www.youtube.com/watch?v=iTaANUwnrHs"
     },
     {
-      "video_id": "MLU5ZEp9YDo",
-      "title": "Ustaad Bhagat Singh Trailer | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
-      "description": "Ustaad Bhagat Singh Trailer on @MythriMovieMakers \n\nUstaad Bhagat Singh is an Upcoming Telugu movie ft. Pawan Kalyan, Sreeleela, Raashii Khanna & others. Music composed by Rockstar Devi Sri Prasad, Written and Directed by Harish Shankar.S. Produced by Naveen Yerneni and Y. Ravi Shankar under Mythri Movie Makers Banner.\n\nIn Cinemas March 19th, 2026.\n\n#UstaadBhagatSinghTrailer #UstaadBhagatSingh #PawanKalyan #HarishShankar #Sreeleela #RaashiiKhanna #DeviSriPrasad #DSP #NaveenYerneni #RaviShankar #MythriMovieMakers\n\nCast & Crew Details :\n\nCast: Pawan Kalyan, Sreeleela, Raashii Khanna, Parthiban & Others\n\nTechnical Crew:\nWritten & Directed by: Harish Shankar.S\nProducers: Naveen Yerneni, Ravi Shankar Yalamanchili\nMusic: Devi Sri Prasad\nBackground Score: Thaman S\nScreenplay: K Dasharath, Ramesh Reddy\nAdditional writing: Praveen Varma and Chandramohan.\nEditing: Karthika Srinivas \nProduction Designer: Anand Sai \nCEO: Cherry\nExecutive Producers: R Chandrasekhar, Dinesh Narasimhan \nCreative Prod",
-      "channel_title": "Mythri Movie Makers",
-      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
-      "published_at": "2026-03-14T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 13203475,
-      "like_count": 488164,
-      "comment_count": 11577,
+      "video_id": "ZqmMVe-s-2s",
+      "title": "Las Vegas",
+      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-16T02:52:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZqmMVe-s-2s/hqdefault.jpg",
+      "duration": "PT1H28M25S",
+      "duration_seconds": 5305,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
-      "tags": [
-        "Ustaad Bhagat Singh Trailer",
-        "Ustaad Bhagat Singh",
-        "Pawan Kalyan",
-        "Sreeleela",
-        "Harish Shankar",
-        "DSP",
-        "Devi Sri Prasad",
-        "Raashii Khanna",
-        "Thaman S",
-        "Mythri Movie Makers"
-      ],
-      "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZqmMVe-s-2s"
+    },
+    {
+      "video_id": "u5vOOM8N8OI",
+      "title": "Ivy League Tournament: Pennsylvania vs. Yale",
+      "description": "The Yale Bulldogs face the Pennsylvania Quakers in the Ivy League Men's Basketball Championship at Newman Arena. This matchup, known as 'Ivy Madness', is where the winner will earn the Ivy League's automatic bid to the 2026 NCAA Tournament.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-16T01:49:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u5vOOM8N8OI/hqdefault.jpg",
+      "duration": "PT2H22M41S",
+      "duration_seconds": 8561,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=u5vOOM8N8OI"
     },
     {
       "video_id": "qkXpSSmDKXw",
@@ -168,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qkXpSSmDKXw/hqdefault.jpg",
       "duration": "PT44M57S",
       "duration_seconds": 2697,
-      "view_count": 2136016,
-      "like_count": 124318,
-      "comment_count": 18355,
+      "view_count": 2285246,
+      "like_count": 128588,
+      "comment_count": 18795,
       "category_id": "20",
       "tags": [
         "minecraft civilisation",
@@ -187,55 +210,21 @@
       "url": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
     },
     {
-      "video_id": "LR5MjrxDRnI",
-      "title": "State of the Union With Jake Tapper and Dana Bash",
-      "description": "Sen. Cory Booker (D-N.J.); former U.S. sec. of transportation Pete Buttigieg; U.S. Ambassador to the U.N. Mike Waltz; commentator Brad Todd; commentator Karen Finney; Rep. Adam Kinzinger; author Nazila Fathi.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-15T23:34:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LR5MjrxDRnI/hqdefault.jpg",
-      "duration": "PT1H1M8S",
-      "duration_seconds": 3668,
+      "video_id": "16_DjoFI7Wk",
+      "title": "New Zealand vs. United States",
+      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-16T01:40:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/16_DjoFI7Wk/hqdefault.jpg",
+      "duration": "PT1H56M30S",
+      "duration_seconds": 6990,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LR5MjrxDRnI"
-    },
-    {
-      "video_id": "26lvOXV2Sj0",
-      "title": "Manchester United vs. Aston Villa",
-      "description": "The Red Devils host Aston Villa seeking revenge for a previous loss fueled by Morgan Rogers' brace. While Villa enters on short rest following European action, United looks to exploit home advantage and slow down clinical finishing of Ollie Watkins.",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-03-15T22:44:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/26lvOXV2Sj0/hqdefault.jpg",
-      "duration": "PT1H59M56S",
-      "duration_seconds": 7196,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=26lvOXV2Sj0"
-    },
-    {
-      "video_id": "9KmWsf2_cvE",
-      "title": "Ask Rory",
-      "description": "Rory McIlroy joins Chris Como to answer questions covering how to get more distance, the keys to hitting fairway woods, how to play shots from the rough and much more.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-16T00:08:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9KmWsf2_cvE/hqdefault.jpg",
-      "duration": "PT31M5S",
-      "duration_seconds": 1865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9KmWsf2_cvE"
+      "url": "https://www.youtube.com/watch?v=16_DjoFI7Wk"
     }
   ],
   "videos_with_transcripts": [],
@@ -250,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pKDY5KlgXdo/hqdefault.jpg",
       "duration": "PT3M17S",
       "duration_seconds": 197,
-      "view_count": 367352,
-      "like_count": 675,
-      "comment_count": 5,
+      "view_count": 401417,
+      "like_count": 738,
+      "comment_count": 6,
       "category_id": "22",
       "tags": [
         "Elvira",
@@ -278,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gictwC-KlTk/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 558951,
-      "like_count": 42888,
-      "comment_count": 2048,
+      "view_count": 614984,
+      "like_count": 45766,
+      "comment_count": 2171,
       "category_id": "20",
       "tags": [
         "Miks",
@@ -297,21 +286,21 @@
       "url": "https://www.youtube.com/watch?v=gictwC-KlTk"
     },
     {
-      "video_id": "tJ4GTMTWP-k",
-      "title": "ACC Tournament: Virginia vs. Duke",
-      "description": "T. Rowe Price ACC Tournament concludes as No.1 Duke and No.10 Virginia fight for the title. The Blue Devils won the regular-season meeting, but the Cavaliers have won four straight games. A spot in the NCAA Tournament as a top seed is on the line.",
+      "video_id": "JZu-9d_-dHA",
+      "title": "SEC Tournament: Vanderbilt vs. Arkansas",
+      "description": "The Vanderbilt Commodores and the Arkansas Razorbacks go head to head in the SEC Men's Basketball Tournament Championship final. Darius Acuff Jr. leads Arkansas with 22.7 PPG and 6.4 APG, while Tyler Tanner leads Vanderbilt with 19.2 PPG and 5.2 APG.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-15T10:57:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tJ4GTMTWP-k/hqdefault.jpg",
-      "duration": "PT2H21M",
-      "duration_seconds": 8460,
+      "published_at": "2026-03-16T03:48:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JZu-9d_-dHA/hqdefault.jpg",
+      "duration": "PT2H25M16S",
+      "duration_seconds": 8716,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
+      "url": "https://www.youtube.com/watch?v=JZu-9d_-dHA"
     },
     {
       "video_id": "j_mCf8R_kII",
@@ -323,9 +312,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j_mCf8R_kII/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 105657,
-      "like_count": 366,
-      "comment_count": 67,
+      "view_count": 122845,
+      "like_count": 384,
+      "comment_count": 70,
       "category_id": "24",
       "tags": [
         "equalizer 4",
@@ -342,13 +331,30 @@
       "url": "https://www.youtube.com/watch?v=j_mCf8R_kII"
     },
     {
-      "video_id": "1k8WmNpOE90",
-      "title": "Fox News Live",
-      "description": "Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.",
+      "video_id": "llpP6E3om6M",
+      "title": "Live From THE PLAYERS",
+      "description": "Comprehensive news coverage surrounding THE PLAYERS Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-03-16T03:25:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/llpP6E3om6M/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=llpP6E3om6M"
+    },
+    {
+      "video_id": "iTaANUwnrHs",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-15T23:15:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1k8WmNpOE90/hqdefault.jpg",
+      "published_at": "2026-03-16T05:12:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iTaANUwnrHs/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -356,35 +362,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1k8WmNpOE90"
+      "url": "https://www.youtube.com/watch?v=iTaANUwnrHs"
     },
     {
-      "video_id": "MLU5ZEp9YDo",
-      "title": "Ustaad Bhagat Singh Trailer | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
-      "description": "Ustaad Bhagat Singh Trailer on @MythriMovieMakers \n\nUstaad Bhagat Singh is an Upcoming Telugu movie ft. Pawan Kalyan, Sreeleela, Raashii Khanna & others. Music composed by Rockstar Devi Sri Prasad, Written and Directed by Harish Shankar.S. Produced by Naveen Yerneni and Y. Ravi Shankar under Mythri Movie Makers Banner.\n\nIn Cinemas March 19th, 2026.\n\n#UstaadBhagatSinghTrailer #UstaadBhagatSingh #PawanKalyan #HarishShankar #Sreeleela #RaashiiKhanna #DeviSriPrasad #DSP #NaveenYerneni #RaviShankar #MythriMovieMakers\n\nCast & Crew Details :\n\nCast: Pawan Kalyan, Sreeleela, Raashii Khanna, Parthiban & Others\n\nTechnical Crew:\nWritten & Directed by: Harish Shankar.S\nProducers: Naveen Yerneni, Ravi Shankar Yalamanchili\nMusic: Devi Sri Prasad\nBackground Score: Thaman S\nScreenplay: K Dasharath, Ramesh Reddy\nAdditional writing: Praveen Varma and Chandramohan.\nEditing: Karthika Srinivas \nProduction Designer: Anand Sai \nCEO: Cherry\nExecutive Producers: R Chandrasekhar, Dinesh Narasimhan \nCreative Prod",
-      "channel_title": "Mythri Movie Makers",
-      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
-      "published_at": "2026-03-14T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MLU5ZEp9YDo/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 13203475,
-      "like_count": 488164,
-      "comment_count": 11577,
+      "video_id": "ZqmMVe-s-2s",
+      "title": "Las Vegas",
+      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-03-16T02:52:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZqmMVe-s-2s/hqdefault.jpg",
+      "duration": "PT1H28M25S",
+      "duration_seconds": 5305,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
-      "tags": [
-        "Ustaad Bhagat Singh Trailer",
-        "Ustaad Bhagat Singh",
-        "Pawan Kalyan",
-        "Sreeleela",
-        "Harish Shankar",
-        "DSP",
-        "Devi Sri Prasad",
-        "Raashii Khanna",
-        "Thaman S",
-        "Mythri Movie Makers"
-      ],
-      "url": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZqmMVe-s-2s"
+    },
+    {
+      "video_id": "u5vOOM8N8OI",
+      "title": "Ivy League Tournament: Pennsylvania vs. Yale",
+      "description": "The Yale Bulldogs face the Pennsylvania Quakers in the Ivy League Men's Basketball Championship at Newman Arena. This matchup, known as 'Ivy Madness', is where the winner will earn the Ivy League's automatic bid to the 2026 NCAA Tournament.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-16T01:49:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u5vOOM8N8OI/hqdefault.jpg",
+      "duration": "PT2H22M41S",
+      "duration_seconds": 8561,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=u5vOOM8N8OI"
     },
     {
       "video_id": "qkXpSSmDKXw",
@@ -396,9 +408,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qkXpSSmDKXw/hqdefault.jpg",
       "duration": "PT44M57S",
       "duration_seconds": 2697,
-      "view_count": 2136016,
-      "like_count": 124318,
-      "comment_count": 18355,
+      "view_count": 2285246,
+      "like_count": 128588,
+      "comment_count": 18795,
       "category_id": "20",
       "tags": [
         "minecraft civilisation",
@@ -415,123 +427,93 @@
       "url": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
     },
     {
-      "video_id": "LR5MjrxDRnI",
-      "title": "State of the Union With Jake Tapper and Dana Bash",
-      "description": "Sen. Cory Booker (D-N.J.); former U.S. sec. of transportation Pete Buttigieg; U.S. Ambassador to the U.N. Mike Waltz; commentator Brad Todd; commentator Karen Finney; Rep. Adam Kinzinger; author Nazila Fathi.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-15T23:34:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LR5MjrxDRnI/hqdefault.jpg",
-      "duration": "PT1H1M8S",
-      "duration_seconds": 3668,
+      "video_id": "16_DjoFI7Wk",
+      "title": "New Zealand vs. United States",
+      "description": "From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-16T01:40:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/16_DjoFI7Wk/hqdefault.jpg",
+      "duration": "PT1H56M30S",
+      "duration_seconds": 6990,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LR5MjrxDRnI"
-    },
-    {
-      "video_id": "26lvOXV2Sj0",
-      "title": "Manchester United vs. Aston Villa",
-      "description": "The Red Devils host Aston Villa seeking revenge for a previous loss fueled by Morgan Rogers' brace. While Villa enters on short rest following European action, United looks to exploit home advantage and slow down clinical finishing of Ollie Watkins.",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-03-15T22:44:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/26lvOXV2Sj0/hqdefault.jpg",
-      "duration": "PT1H59M56S",
-      "duration_seconds": 7196,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=26lvOXV2Sj0"
-    },
-    {
-      "video_id": "9KmWsf2_cvE",
-      "title": "Ask Rory",
-      "description": "Rory McIlroy joins Chris Como to answer questions covering how to get more distance, the keys to hitting fairway woods, how to play shots from the rough and much more.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-16T00:08:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9KmWsf2_cvE/hqdefault.jpg",
-      "duration": "PT31M5S",
-      "duration_seconds": 1865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9KmWsf2_cvE"
+      "url": "https://www.youtube.com/watch?v=16_DjoFI7Wk"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 16371451,
-        "averageViewsPerVideo": 1637145.1,
-        "unknownCategories": true
-      },
-      "contentTrends": {
-        "musicAndEntertainment": {
-          "videoTitles": [
-            "Óscar Maydon, Gabito Ballesteros & Chino Pacas - Elvira (LETRA)",
-            "The Equalizer 4 (2026) | Denzel Washington, Arnold Schwarzenegger, Jason Statham | Concept Trailer",
-            "Ustaad Bhagat Singh Trailer | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna"
-          ],
-          "insights": "Music and entertainment continue to dominate, with concept trailers and music lyrics videos capturing audience interest."
+      "content_trends": {
+        "music_and_entertainment": {
+          "description": "Music and entertainment content, such as the song 'Óscar Maydon, Gabito Ballesteros & Chino Pacas - Elvira (LETRA)' and concept trailers for popular franchises, are consistently trending. This indicates a strong viewer interest in both music and speculative content related to popular movie franchises.",
+          "opportunities": [
+            {
+              "content_type": "Music Videos & Lyric Videos",
+              "recommendation": "Invest in producing more music and lyric videos, especially in collaboration with trending artists to capture an audience that is keen on new releases and popular tracks."
+            },
+            {
+              "content_type": "Concept Trailers",
+              "recommendation": "Explore creating concept trailers for upcoming or speculative films to engage audiences interested in future film releases and crossovers."
+            }
+          ]
         },
         "gaming": {
-          "videoTitles": [
-            "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
-            "Minecraft Pro VS 1000 Player Civilization"
-          ],
-          "insights": "Gaming content, particularly related to popular games like VALORANT and Minecraft, shows strong engagement. This highlights ongoing interest in competitive gaming and creative gameplay."
+          "description": "Gaming content, such as the 'NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT', continues to trend, demonstrating the strong demand for game-related content among YouTube viewers.",
+          "opportunities": [
+            {
+              "content_type": "Game Trailers & Gameplay Highlights",
+              "recommendation": "Focus on producing high-quality trailers and gameplay highlights that cater to fans of specific games, particularly popular eSports titles."
+            }
+          ]
         },
         "sports": {
-          "videoTitles": [
-            "ACC Tournament: Virginia vs. Duke",
-            "Manchester United vs. Aston Villa"
-          ],
-          "insights": "Live and recent sports events generate high viewership, suggesting sustained interest in both American and international sports."
-        },
-        "newsAndPolitics": {
-          "videoTitles": [
-            "Fox News Live",
-            "State of the Union With Jake Tapper and Dana Bash"
-          ],
-          "insights": "News content maintains relevance, particularly with live broadcasts and political discussions."
-        },
-        "other": {
-          "videoTitles": [
-            "Ask Rory"
-          ],
-          "insights": "Niche content, such as Q&A or personal interest videos, provides diversity in viewer engagement."
+          "description": "Sports content, including highlights and live coverage, remains popular, as seen with videos like 'SEC Tournament: Vanderbilt vs. Arkansas' and 'Live From THE PLAYERS'.",
+          "opportunities": [
+            {
+              "content_type": "Live Sports Coverage",
+              "recommendation": "Develop partnerships with sports leagues or tournaments to provide exclusive live coverage and highlight reels to capture the sports enthusiast demographic."
+            },
+            {
+              "content_type": "Sports Analysis & Commentary",
+              "recommendation": "Create analysis and commentary content that offers insights into ongoing sports events to engage viewers who are interested in deeper sports narratives."
+            }
+          ]
         }
       },
-      "creatorPatterns": {
-        "topChannels": [
-          "Pisteo y Compas",
-          "VALORANT",
-          "ESPN",
-          "Ultimate Studios",
-          "FOX News"
-        ],
-        "insights": "Channels with specific niches (e.g., gaming, music, sports) are trending, indicating a preference for specialized content."
+      "creator_patterns": {
+        "diverse_source_channels": {
+          "description": "The trending list includes videos from a range of channels, each contributing one video. This suggests that no single channel dominates the trending space, indicating a diverse content ecosystem.",
+          "opportunities": [
+            {
+              "strategy": "Collaborative Content",
+              "recommendation": "Encourage collaborations between channels to cross-promote content and reach wider audiences."
+            }
+          ]
+        }
       },
-      "marketOpportunities": {
-        "emergingTrends": [
-          "Concept trailers and speculative content are gaining traction and offer opportunities for creators to capitalize on future-oriented entertainment.",
-          "Gaming content remains a strong area for growth, particularly in innovative formats like tournaments or large-scale player interactions.",
-          "Cross-category content, such as integrating music and gaming or sports and entertainment, could attract broader audiences."
-        ],
-        "recommendations": [
-          "Develop content that taps into current popular games or sports events to leverage existing audience interests.",
-          "Explore collaborations with news channels to create hybrid content that informs and entertains."
-        ]
+      "market_opportunities": {
+        "emerging_markets": {
+          "description": "The presence of international themes, such as 'Las Vegas' and 'New Zealand vs. United States', indicates a potential interest in global content.",
+          "opportunities": [
+            {
+              "strategy": "International Content Expansion",
+              "recommendation": "Expand content production to include more international topics and events to capture a global audience interested in diverse cultural and regional narratives."
+            }
+          ]
+        },
+        "content_format_innovation": {
+          "description": "The variety in content types—from music and gaming to sports—suggests an opportunity to innovate with content formats.",
+          "opportunities": [
+            {
+              "strategy": "Interactive Content Experiences",
+              "recommendation": "Explore interactive content formats, such as live Q&As or interactive storytelling, to engage audiences in new and immersive ways."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -539,7 +521,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1637145
+        "avg_views_per_video": 342449
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
