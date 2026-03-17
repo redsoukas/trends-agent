@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-17T09:26:07.442772",
+  "timestamp": "2026-03-17T12:26:53.682573",
   "date": "2026-03-17",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 2,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 666564,
-      "like_count": 43497,
-      "comment_count": 2462,
+      "view_count": 703203,
+      "like_count": 45378,
+      "comment_count": 2571,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 339488,
-      "like_count": 17206,
-      "comment_count": 1994,
+      "view_count": 353513,
+      "like_count": 17650,
+      "comment_count": 2058,
       "category_id": "23",
       "tags": [
         "Theo Von",
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IanqpvZsp_s/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 493541,
-      "like_count": 52185,
-      "comment_count": 2338,
+      "view_count": 611760,
+      "like_count": 61078,
+      "comment_count": 2716,
       "category_id": "1",
       "tags": [
         "sekiro",
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jRig7JvOpWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 458699,
-      "like_count": 120721,
-      "comment_count": 8551,
+      "view_count": 550104,
+      "like_count": 134982,
+      "comment_count": 9239,
       "category_id": "24",
       "tags": [
         "Arirang",
@@ -165,66 +165,55 @@
       "url": "https://www.youtube.com/watch?v=jRig7JvOpWg"
     },
     {
-      "video_id": "k1CkfVOcVOQ",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "MxbC8YaCwJI",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-17T07:47:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k1CkfVOcVOQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "published_at": "2026-03-17T09:20:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MxbC8YaCwJI/hqdefault.jpg",
+      "duration": "PT1H2M6S",
+      "duration_seconds": 3726,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=k1CkfVOcVOQ"
+      "url": "https://www.youtube.com/watch?v=MxbC8YaCwJI"
     },
     {
-      "video_id": "Kvop6vy0NU8",
-      "title": "Spider-Man Brand New Day Trailer Leak Breakdown",
-      "description": "Spider-Man Brand New Day Trailer 2026. Tom Holland Spider-Man, Sadie Sink, The Punisher, Mark Ruffalo Hulk, Avengers Doomsday Connection, New X-Men in the MCU & X-Men Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=0qPeNpdeIo0&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=5&pp=gAQBiAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nThe Boys Season 5 Trailer https://www.youtube.com/watch?v=Duk6_UmW6AQ&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxy",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-03-16T19:39:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kvop6vy0NU8/hqdefault.jpg",
-      "duration": "PT11M53S",
-      "duration_seconds": 713,
-      "view_count": 112787,
-      "like_count": 3540,
-      "comment_count": 265,
+      "video_id": "49N_ZJBj9-8",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-17T08:24:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/49N_ZJBj9-8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Kvop6vy0NU8"
+      "url": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
     },
     {
-      "video_id": "5MR5BmeNnSs",
-      "title": "We played with the Super Battle Golf Developers...",
-      "description": "We challenged the Developers of Super Battle Golf at their own game... This was a bad idea...\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \nSuper Battle Golf Developers\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attri",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-16T21:28:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5MR5BmeNnSs/hqdefault.jpg",
-      "duration": "PT35M11S",
-      "duration_seconds": 2111,
-      "view_count": 681194,
-      "like_count": 46656,
-      "comment_count": 1162,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=5MR5BmeNnSs"
+      "video_id": "cDeTw5pdaeY",
+      "title": "Burnt Bridges",
+      "description": "A broken oven forces Chef Ben to attempt a seven-course dinner under extreme pressure; cracks spread across the boat as Mike goes missing when he's needed most.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-17T08:52:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cDeTw5pdaeY/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cDeTw5pdaeY"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 666564,
-      "like_count": 43497,
-      "comment_count": 2462,
+      "view_count": 703203,
+      "like_count": 45378,
+      "comment_count": 2571,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
@@ -273,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 339488,
-      "like_count": 17206,
-      "comment_count": 1994,
+      "view_count": 353513,
+      "like_count": 17650,
+      "comment_count": 2058,
       "category_id": "23",
       "tags": [
         "Theo Von",
@@ -318,9 +307,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IanqpvZsp_s/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 493541,
-      "like_count": 52185,
-      "comment_count": 2338,
+      "view_count": 611760,
+      "like_count": 61078,
+      "comment_count": 2716,
       "category_id": "1",
       "tags": [
         "sekiro",
@@ -363,9 +352,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jRig7JvOpWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 458699,
-      "like_count": 120721,
-      "comment_count": 8551,
+      "view_count": 550104,
+      "like_count": 134982,
+      "comment_count": 9239,
       "category_id": "24",
       "tags": [
         "Arirang",
@@ -382,184 +371,107 @@
       "url": "https://www.youtube.com/watch?v=jRig7JvOpWg"
     },
     {
-      "video_id": "k1CkfVOcVOQ",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "MxbC8YaCwJI",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-17T07:47:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k1CkfVOcVOQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "published_at": "2026-03-17T09:20:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MxbC8YaCwJI/hqdefault.jpg",
+      "duration": "PT1H2M6S",
+      "duration_seconds": 3726,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=k1CkfVOcVOQ"
+      "url": "https://www.youtube.com/watch?v=MxbC8YaCwJI"
     },
     {
-      "video_id": "Kvop6vy0NU8",
-      "title": "Spider-Man Brand New Day Trailer Leak Breakdown",
-      "description": "Spider-Man Brand New Day Trailer 2026. Tom Holland Spider-Man, Sadie Sink, The Punisher, Mark Ruffalo Hulk, Avengers Doomsday Connection, New X-Men in the MCU & X-Men Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=0qPeNpdeIo0&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=5&pp=gAQBiAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nKnight Of The Seven Kingdoms Episode 6 https://www.youtube.com/watch?v=tG779rR3sVM&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nThe Boys Season 5 Trailer https://www.youtube.com/watch?v=Duk6_UmW6AQ&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch?v=MKhod_ziM0s&list=PLOIeYdZ3QczxQXxy",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-03-16T19:39:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kvop6vy0NU8/hqdefault.jpg",
-      "duration": "PT11M53S",
-      "duration_seconds": 713,
-      "view_count": 112787,
-      "like_count": 3540,
-      "comment_count": 265,
+      "video_id": "49N_ZJBj9-8",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-17T08:24:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/49N_ZJBj9-8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Kvop6vy0NU8"
+      "url": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
     },
     {
-      "video_id": "5MR5BmeNnSs",
-      "title": "We played with the Super Battle Golf Developers...",
-      "description": "We challenged the Developers of Super Battle Golf at their own game... This was a bad idea...\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \nSuper Battle Golf Developers\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attri",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-03-16T21:28:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5MR5BmeNnSs/hqdefault.jpg",
-      "duration": "PT35M11S",
-      "duration_seconds": 2111,
-      "view_count": 681194,
-      "like_count": 46656,
-      "comment_count": 1162,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=5MR5BmeNnSs"
+      "video_id": "cDeTw5pdaeY",
+      "title": "Burnt Bridges",
+      "description": "A broken oven forces Chef Ben to attempt a seven-course dinner under extreme pressure; cracks spread across the boat as Mike goes missing when he's needed most.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-17T08:52:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cDeTw5pdaeY/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cDeTw5pdaeY"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trendingPatternsAnalysis": {
-        "overview": {
-          "totalVideos": 10,
-          "totalViews": 2752273,
-          "averageViewsPerVideo": 275227.3,
-          "categories": "Unknown"
+      "trending_analysis": {
+        "total_videos": 10,
+        "total_views": 2218580,
+        "average_views_per_video": 221858,
+        "categories_inference": [
+          "Entertainment",
+          "Sports",
+          "News",
+          "Documentary"
+        ],
+        "content_trends": {
+          "entertainment_dominance": {
+            "description": "Entertainment-related content such as official trailers and documentaries appear to capture significant attention, evidenced by titles like 'Star Wars: Maul - Shadow Lord' and 'BTS: THE RETURN'.",
+            "impact": "High potential for viewer engagement."
+          },
+          "sports_interest": {
+            "description": "Sporting events like 'First Semifinal: United States vs. Dominican Republic' and 'Boston Bruins at New Jersey Devils' suggest a strong audience interest in live sports content.",
+            "impact": "Opportunity to leverage live sports events for real-time engagement."
+          },
+          "political_and_global_news": {
+            "description": "Titles such as 'Jesse Watters Primetime', 'The Rachel Maddow Show', and 'CNN Global Report: War With Iran' indicate a significant interest in current affairs and political content.",
+            "impact": "Consistent demand for news and analysis."
+          }
         },
-        "contentTrends": {
-          "genres": [
-            "Entertainment",
-            "Sports",
-            "News",
-            "Anime",
-            "Documentary",
-            "Gaming"
-          ],
-          "keyFindings": [
-            {
-              "genre": "Entertainment",
-              "videos": [
-                "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
-                "Busboys | Official Trailer | Theo Von & David Spade",
-                "BTS: THE RETURN | Documentary | Official Trailer | Netflix",
-                "Spider-Man Brand New Day Trailer Leak Breakdown"
-              ],
-              "insight": "High interest in trailers and entertainment content, especially related to well-known franchises such as Star Wars and Spider-Man, as well as popular figures like BTS."
-            },
-            {
-              "genre": "Sports",
-              "videos": [
-                "First Semifinal: United States vs. Dominican Republic",
-                "Boston Bruins at New Jersey Devils"
-              ],
-              "insight": "Sports content remains popular, with a focus on both international events and domestic leagues."
-            },
-            {
-              "genre": "News",
-              "videos": [
-                "Jesse Watters Primetime",
-                "Deadline: White House"
-              ],
-              "insight": "News programming continues to capture viewer interest, indicating a stable demand for current events coverage."
-            },
-            {
-              "genre": "Anime",
-              "videos": [
-                "Sekiro: No Defeat | Official Trailer 2 | Crunchyroll"
-              ],
-              "insight": "Anime-related content is trending, suggesting a growing audience for anime trailers and related media."
-            },
-            {
-              "genre": "Gaming",
-              "videos": [
-                "We played with the Super Battle Golf Developers..."
-              ],
-              "insight": "Gaming content, particularly involving direct interaction with game developers, is engaging audiences."
-            }
-          ]
+        "creator_patterns": {
+          "brand_affiliation": {
+            "description": "Known brands like Disney+, Crunchyroll, and Netflix are leveraging their platforms to release exclusive content, gaining traction.",
+            "opportunity": "Content creators can partner with these platforms for co-branded content."
+          },
+          "individual_creators": {
+            "description": "Personalities like Theo Von are successfully utilizing YouTube for promotional purposes, as seen with 'Busboys | Official Trailer'.",
+            "opportunity": "Emerging creators can build audiences by collaborating with established personalities."
+          }
         },
-        "creatorPatterns": {
-          "topChannels": [
-            "Star Wars",
-            "FS1",
-            "Theo Von",
-            "FOX News",
-            "Crunchyroll"
-          ],
-          "insights": [
-            {
-              "channel": "Star Wars",
-              "insight": "Continues to leverage its franchise strength to maintain high visibility on trending lists."
-            },
-            {
-              "channel": "FS1",
-              "insight": "Sports channels capitalize on live events and competitions to drive viewership."
-            },
-            {
-              "channel": "Theo Von",
-              "insight": "Comedians and entertainment figures draw audiences with collaborative content."
-            },
-            {
-              "channel": "FOX News",
-              "insight": "Mainstream news outlets benefit from consistent viewer interest in political and current affairs."
-            },
-            {
-              "channel": "Crunchyroll",
-              "insight": "Anime-focused platforms are successfully attracting a dedicated fanbase with exclusive content."
-            }
-          ]
-        },
-        "marketOpportunities": {
-          "insights": [
-            {
-              "opportunity": "Capitalize on Franchises",
-              "actionableInsight": "Invest in content related to popular franchises such as Star Wars and Spider-Man to attract large viewership."
-            },
-            {
-              "opportunity": "Sports Coverage",
-              "actionableInsight": "Develop content around trending sports events and leverage social media to boost visibility."
-            },
-            {
-              "opportunity": "Anime Expansion",
-              "actionableInsight": "Explore partnerships with anime distributors like Crunchyroll to tap into the anime trend."
-            },
-            {
-              "opportunity": "Interactive Gaming Content",
-              "actionableInsight": "Create interactive experiences in gaming content, potentially collaborating with game developers for unique insights."
-            },
-            {
-              "opportunity": "News and Current Affairs",
-              "actionableInsight": "Focus on timely and in-depth news coverage to engage viewers seeking current events updates."
-            }
-          ]
+        "market_opportunities": {
+          "cross-platform synergy": {
+            "description": "Streaming services are using YouTube as a marketing tool to drive subscriptions, e.g., Disney+ and Crunchyroll.",
+            "suggestion": "Develop a strategy to create teaser content that redirects to full-length features on subscription platforms."
+          },
+          "news and analysis expansion": {
+            "description": "The consistent presence of news-related content highlights an opportunity to develop in-depth analysis segments.",
+            "suggestion": "Focus on creating engaging, timely content that provides unique insights into current events."
+          },
+          "cultural phenomenons": {
+            "description": "Content like 'BTS: THE RETURN' shows the power of cultural icons and fan communities.",
+            "suggestion": "Tap into fanbases of popular cultural figures to create engaging, community-driven content."
+          }
         }
       },
       "metadata_stats": {
@@ -568,7 +480,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 275227
+        "avg_views_per_video": 221858
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
