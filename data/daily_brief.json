@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-17T12:26:53.682573",
+  "timestamp": "2026-03-17T15:31:27.657210",
   "date": "2026-03-17",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 3,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 703203,
-      "like_count": 45378,
-      "comment_count": 2571,
+      "view_count": 750785,
+      "like_count": 48123,
+      "comment_count": 2683,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 353513,
-      "like_count": 17650,
-      "comment_count": 2058,
+      "view_count": 373454,
+      "like_count": 18709,
+      "comment_count": 2197,
       "category_id": "23",
       "tags": [
         "Theo Von",
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IanqpvZsp_s/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 611760,
-      "like_count": 61078,
-      "comment_count": 2716,
+      "view_count": 738032,
+      "like_count": 70834,
+      "comment_count": 3067,
       "category_id": "1",
       "tags": [
         "sekiro",
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jRig7JvOpWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 550104,
-      "like_count": 134982,
-      "comment_count": 9239,
+      "view_count": 627948,
+      "like_count": 163177,
+      "comment_count": 10516,
       "category_id": "24",
       "tags": [
         "Arirang",
@@ -182,38 +182,38 @@
       "url": "https://www.youtube.com/watch?v=MxbC8YaCwJI"
     },
     {
-      "video_id": "49N_ZJBj9-8",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-17T08:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/49N_ZJBj9-8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "ZxJowXfp8XE",
+      "title": "Orlando Magic at Atlanta Hawks",
+      "description": "The Orlando Magic face the Atlanta Hawks in an Eastern Conference game at State Farm Arena. Atlanta has dominated the season series, winning both earlier meetings. The Magic look to Paolo Banchero to lead them to redemption in the third matchup.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-03-17T13:22:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZxJowXfp8XE/hqdefault.jpg",
+      "duration": "PT2H35M10S",
+      "duration_seconds": 9310,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
+      "url": "https://www.youtube.com/watch?v=ZxJowXfp8XE"
     },
     {
-      "video_id": "cDeTw5pdaeY",
-      "title": "Burnt Bridges",
-      "description": "A broken oven forces Chef Ben to attempt a seven-course dinner under extreme pressure; cracks spread across the boat as Mike goes missing when he's needed most.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-03-17T08:52:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cDeTw5pdaeY/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
+      "video_id": "eLVpt53wrqQ",
+      "title": "Jack Reacher",
+      "description": "A defense attorney hires an enigmatic ex-Army investigator to tackle the case of a highly trained sniper who apparently murdered five people at random.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-03-17T12:43:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eLVpt53wrqQ/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cDeTw5pdaeY"
+      "url": "https://www.youtube.com/watch?v=eLVpt53wrqQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DkVepshZhGc/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 703203,
-      "like_count": 45378,
-      "comment_count": 2571,
+      "view_count": 750785,
+      "like_count": 48123,
+      "comment_count": 2683,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DkVepshZhGc"
@@ -262,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SEVbq2DvsEQ/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 353513,
-      "like_count": 17650,
-      "comment_count": 2058,
+      "view_count": 373454,
+      "like_count": 18709,
+      "comment_count": 2197,
       "category_id": "23",
       "tags": [
         "Theo Von",
@@ -307,9 +307,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IanqpvZsp_s/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 611760,
-      "like_count": 61078,
-      "comment_count": 2716,
+      "view_count": 738032,
+      "like_count": 70834,
+      "comment_count": 3067,
       "category_id": "1",
       "tags": [
         "sekiro",
@@ -352,9 +352,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jRig7JvOpWg/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 550104,
-      "like_count": 134982,
-      "comment_count": 9239,
+      "view_count": 627948,
+      "like_count": 163177,
+      "comment_count": 10516,
       "category_id": "24",
       "tags": [
         "Arirang",
@@ -388,90 +388,87 @@
       "url": "https://www.youtube.com/watch?v=MxbC8YaCwJI"
     },
     {
-      "video_id": "49N_ZJBj9-8",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-17T08:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/49N_ZJBj9-8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "ZxJowXfp8XE",
+      "title": "Orlando Magic at Atlanta Hawks",
+      "description": "The Orlando Magic face the Atlanta Hawks in an Eastern Conference game at State Farm Arena. Atlanta has dominated the season series, winning both earlier meetings. The Magic look to Paolo Banchero to lead them to redemption in the third matchup.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-03-17T13:22:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZxJowXfp8XE/hqdefault.jpg",
+      "duration": "PT2H35M10S",
+      "duration_seconds": 9310,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
+      "url": "https://www.youtube.com/watch?v=ZxJowXfp8XE"
     },
     {
-      "video_id": "cDeTw5pdaeY",
-      "title": "Burnt Bridges",
-      "description": "A broken oven forces Chef Ben to attempt a seven-course dinner under extreme pressure; cracks spread across the boat as Mike goes missing when he's needed most.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-03-17T08:52:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cDeTw5pdaeY/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
+      "video_id": "eLVpt53wrqQ",
+      "title": "Jack Reacher",
+      "description": "A defense attorney hires an enigmatic ex-Army investigator to tackle the case of a highly trained sniper who apparently murdered five people at random.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-03-17T12:43:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eLVpt53wrqQ/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cDeTw5pdaeY"
+      "url": "https://www.youtube.com/watch?v=eLVpt53wrqQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "total_videos": 10,
-        "total_views": 2218580,
-        "average_views_per_video": 221858,
-        "categories_inference": [
-          "Entertainment",
-          "Sports",
-          "News",
-          "Documentary"
-        ],
-        "content_trends": {
-          "entertainment_dominance": {
-            "description": "Entertainment-related content such as official trailers and documentaries appear to capture significant attention, evidenced by titles like 'Star Wars: Maul - Shadow Lord' and 'BTS: THE RETURN'.",
-            "impact": "High potential for viewer engagement."
-          },
-          "sports_interest": {
-            "description": "Sporting events like 'First Semifinal: United States vs. Dominican Republic' and 'Boston Bruins at New Jersey Devils' suggest a strong audience interest in live sports content.",
-            "impact": "Opportunity to leverage live sports events for real-time engagement."
-          },
-          "political_and_global_news": {
-            "description": "Titles such as 'Jesse Watters Primetime', 'The Rachel Maddow Show', and 'CNN Global Report: War With Iran' indicate a significant interest in current affairs and political content.",
-            "impact": "Consistent demand for news and analysis."
-          }
+      "content_trends": {
+        "genre_diversity": {
+          "description": "The videos cover a wide range of genres including entertainment, sports, gaming, news, and documentaries.",
+          "implication": "Diverse content suggests a wide audience reach and varied viewer interests, providing opportunities for cross-promotion and targeting multiple demographics."
         },
-        "creator_patterns": {
-          "brand_affiliation": {
-            "description": "Known brands like Disney+, Crunchyroll, and Netflix are leveraging their platforms to release exclusive content, gaining traction.",
-            "opportunity": "Content creators can partner with these platforms for co-branded content."
-          },
-          "individual_creators": {
-            "description": "Personalities like Theo Von are successfully utilizing YouTube for promotional purposes, as seen with 'Busboys | Official Trailer'.",
-            "opportunity": "Emerging creators can build audiences by collaborating with established personalities."
-          }
+        "trailer_dominance": {
+          "description": "Three out of ten videos are trailers for upcoming releases ('Star Wars: Maul - Shadow Lord', 'Busboys', 'Sekiro: No Defeat').",
+          "implication": "There is a strong interest in upcoming content, indicating that promotional trailers are effective in generating viewer interest and should be prioritized in content strategy."
         },
-        "market_opportunities": {
-          "cross-platform synergy": {
-            "description": "Streaming services are using YouTube as a marketing tool to drive subscriptions, e.g., Disney+ and Crunchyroll.",
-            "suggestion": "Develop a strategy to create teaser content that redirects to full-length features on subscription platforms."
-          },
-          "news and analysis expansion": {
-            "description": "The consistent presence of news-related content highlights an opportunity to develop in-depth analysis segments.",
-            "suggestion": "Focus on creating engaging, timely content that provides unique insights into current events."
-          },
-          "cultural phenomenons": {
-            "description": "Content like 'BTS: THE RETURN' shows the power of cultural icons and fan communities.",
-            "suggestion": "Tap into fanbases of popular cultural figures to create engaging, community-driven content."
-          }
+        "live_sports_and_news": {
+          "description": "Two videos focus on sports events ('First Semifinal: United States vs. Dominican Republic', 'Boston Bruins at New Jersey Devils'), and two focus on news ('Jesse Watters Primetime', 'The Rachel Maddow Show').",
+          "implication": "Live sports and news content continue to attract significant viewership, suggesting opportunities for real-time engagement and advertising."
+        }
+      },
+      "creator_patterns": {
+        "top_channels": {
+          "description": "Channels like Star Wars, FS1, Theo Von, FOX News, and Crunchyroll are leading in content views.",
+          "implication": "Channels associated with established brands and personalities tend to dominate, suggesting that collaborations or guest appearances could enhance visibility for emerging creators."
+        },
+        "platforms_and_partnerships": {
+          "description": "Streaming platforms such as Disney+ and Netflix are prominently featured.",
+          "implication": "Partnerships with major streaming platforms can enhance content reach and credibility, making them valuable allies in content distribution strategies."
+        }
+      },
+      "market_opportunities": {
+        "content_collaborations": {
+          "description": "The presence of diverse content creators and genres indicates potential for cross-industry collaborations.",
+          "recommendation": "Seek partnerships between entertainment, sports, and news creators to capitalize on shared audiences and diverse viewership."
+        },
+        "focus_on_trailers": {
+          "description": "The popularity of trailers suggests a strong market for sneak peeks and early content releases.",
+          "recommendation": "Produce engaging trailers and teasers to build anticipation and drive early interest in upcoming releases."
+        },
+        "leveraging_trending_events": {
+          "description": "Sports events and news shows are consistently trending.",
+          "recommendation": "Align content releases with major sports events and news cycles to capture timely engagement and increase visibility."
+        }
+      },
+      "data_driven_insights": {
+        "average_views_per_video": {
+          "calculation": 2490219,
+          "total_videos": 10,
+          "result": 249021.9,
+          "implication": "High average views per video indicate robust viewer engagement, suggesting that the current content strategy is effectively capturing audience interest."
         }
       },
       "metadata_stats": {
@@ -480,7 +477,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 221858
+        "avg_views_per_video": 249021
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
