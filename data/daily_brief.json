@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-18T12:28:37.083331",
+  "timestamp": "2026-03-18T15:35:00.751392",
   "date": "2026-03-18",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 3,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -13,32 +13,27 @@
   },
   "trending_videos": [
     {
-      "video_id": "3_9vCamtuPY",
-      "title": "Dune: Part Three | Official Teaser Trailer",
-      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-17T16:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 10059545,
-      "like_count": 409672,
-      "comment_count": 21593,
-      "category_id": "1",
+      "video_id": "aBlsrtxuwss",
+      "title": "Spider-Man: Brand New Day - Official Trailer",
+      "description": "A Brand New Day starts now.\nWatch the official trailer for #SpiderManBrandNewDay, exclusively in theatres July 31. Play Marvel’s Spider-Man 2, available now in the PlayStation Plus Game Catalog.",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-03-18T11:17:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 2556440,
+      "like_count": 288459,
+      "comment_count": 13282,
+      "category_id": "20",
       "tags": [
-        "Action",
-        "Anya Taylor-Joy",
-        "Brian K Vaughan",
-        "Charlotte Rampling",
-        "Coming Soon",
-        "Denis Villeneuve",
-        "Dune",
-        "Dune Messiah",
-        "Dune: Part Three",
-        "Florence Pugh"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony"
       ],
-      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+      "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
     },
     {
       "video_id": "mqcBKfsSeoQ",
@@ -58,21 +53,32 @@
       "url": "https://www.youtube.com/watch?v=mqcBKfsSeoQ"
     },
     {
-      "video_id": "8TZMtslA3UY",
-      "title": "SPIDER-MAN: BRAND NEW DAY – Official Trailer (HD)",
-      "description": "A Brand New Day starts now.\n\nWatch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31.\n\nAfter the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.\n\nDirected by:   \nDestin Daniel Cretton   \n \nWritten by:     \nChris McKenna & Erik Sommers\n   \nBased on the MARVEL Comic Book by: \nStan Lee and Steve Ditko\n\nProduced by:     ",
-      "channel_title": "Spider-Man",
-      "channel_id": "UCP8AC-LXl5Jmp64IRIsdacg",
-      "published_at": "2026-03-18T11:05:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8TZMtslA3UY/hqdefault.jpg",
-      "duration": "PT2M41S",
-      "duration_seconds": 161,
-      "view_count": 8500,
-      "like_count": 95131,
-      "comment_count": 7207,
+      "video_id": "3_9vCamtuPY",
+      "title": "Dune: Part Three | Official Teaser Trailer",
+      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2026-03-17T16:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 10775419,
+      "like_count": 426996,
+      "comment_count": 22311,
       "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8TZMtslA3UY"
+      "tags": [
+        "Action",
+        "Anya Taylor-Joy",
+        "Brian K Vaughan",
+        "Charlotte Rampling",
+        "Coming Soon",
+        "Denis Villeneuve",
+        "Dune",
+        "Dune Messiah",
+        "Dune: Part Three",
+        "Florence Pugh"
+      ],
+      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
     },
     {
       "video_id": "5j1UPxvyRwA",
@@ -101,8 +107,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RR8NrL8K-Ns/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 407606,
-      "like_count": 407,
+      "view_count": 459876,
+      "like_count": 469,
       "comment_count": 4,
       "category_id": "22",
       "tags": [
@@ -129,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/esb1CBW2WK8/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 1624349,
-      "like_count": 41891,
-      "comment_count": 2840,
+      "view_count": 1748746,
+      "like_count": 42684,
+      "comment_count": 2893,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -159,6 +165,51 @@
       "url": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
     },
     {
+      "video_id": "zgIiOqUCI0E",
+      "title": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
+      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8thUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being dir",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-03-18T12:17:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zgIiOqUCI0E/hqdefault.jpg",
+      "duration": "PT21M44S",
+      "duration_seconds": 1304,
+      "view_count": 47189,
+      "like_count": 6642,
+      "comment_count": 670,
+      "category_id": "24",
+      "tags": [
+        "spiderman",
+        "brand new day",
+        "spiderman brand new day trailer",
+        "spiderman brand new day trailer breakdown",
+        "spider-man brand new day",
+        "spider man brand new day",
+        "spiderman brand new day",
+        "spiderman brand new day trailer leak",
+        "spiderman brand new day trailer description",
+        "spider man brand new day trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
+    },
+    {
+      "video_id": "1rfqzVOZLpM",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-18T08:59:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rfqzVOZLpM/hqdefault.jpg",
+      "duration": "PT1H1M9S",
+      "duration_seconds": 3669,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
+    },
+    {
       "video_id": "Wek6DztgaXo",
       "title": "Romeo Santos, Drake - Odio (Letra/Lyrics)",
       "description": "Romeo Santos, Drake - Odio (Letra/Lyrics)\nRomeo Santos, Drake - Odio\n\nSíguenos en nuestras redes sociales:  \n📸 Instagram: https://www.instagram.com/ultimobailongo/\n🎥 TikTok: https://www.tiktok.com/@ultimobailongo\n📺 YouTube: https://www.youtube.com/@UltimoBailongo\n\n\n#RomeoSantos\n#Drake\n#latin\n#latin\n#ultimobailongo",
@@ -168,9 +219,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Wek6DztgaXo/hqdefault.jpg",
       "duration": "PT3M46S",
       "duration_seconds": 226,
-      "view_count": 332272,
-      "like_count": 438,
-      "comment_count": 4,
+      "view_count": 364031,
+      "like_count": 499,
+      "comment_count": 6,
       "category_id": "22",
       "tags": [
         "Romeo Santos Drake Odio",
@@ -185,82 +236,32 @@
         "Drake"
       ],
       "url": "https://www.youtube.com/watch?v=Wek6DztgaXo"
-    },
-    {
-      "video_id": "h4EwKwlAbqM",
-      "title": "SPIDER-MAN 4: BRAND NEW DAY All Official Trailer Clips So Far (2026)",
-      "description": "Official Spider-Man 4: Brand New Day Movie Teaser Trailer Clips 2026 | More ➤ https://KinoCheck.com/App | Tom Holland Movie Trailer | Cinema: 31 Jul 2026 | Details ➤ https://KinoCheck.com/movie/fgb/spider-man-4-brand-new-day-2026?utm_source=youtube&utm_medium=description\nFour years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of crimes pulls Spider-Man into a web of mystery larger than he's ever faced before. In order to take on what's ahead, Spider-Man not only needs to be at the top of his physical and mental game, but he must also be prepared to face the repercussions of his past!\n\nSpider-Man 4: Brand New Day (2026) is the new superhero movie by Destin Daniel Cretton, starring Tom Holland, Zendaya and Jon Bernthal.\n\nNote | #SpiderManBrandNewDay #SpiderMan4 #Teaser Trailer courtesy of Sony Pictures. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-03-17T22:44:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h4EwKwlAbqM/hqdefault.jpg",
-      "duration": "PT1M16S",
-      "duration_seconds": 76,
-      "view_count": 804439,
-      "like_count": 10651,
-      "comment_count": 515,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Jon Bernthal",
-        "KinoCheck",
-        "Movie",
-        "Spider-Man 4: Brand New Day",
-        "Spider-Man 4: Brand New Day trailer",
-        "Superhero",
-        "Tom Holland",
-        "Zendaya",
-        "man"
-      ],
-      "url": "https://www.youtube.com/watch?v=h4EwKwlAbqM"
-    },
-    {
-      "video_id": "1rfqzVOZLpM",
-      "title": "The Last Word With Lawrence O'Donnell",
-      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-18T08:59:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1rfqzVOZLpM/hqdefault.jpg",
-      "duration": "PT1H1M9S",
-      "duration_seconds": 3669,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "3_9vCamtuPY",
-      "title": "Dune: Part Three | Official Teaser Trailer",
-      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-17T16:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 10059545,
-      "like_count": 409672,
-      "comment_count": 21593,
-      "category_id": "1",
+      "video_id": "aBlsrtxuwss",
+      "title": "Spider-Man: Brand New Day - Official Trailer",
+      "description": "A Brand New Day starts now.\nWatch the official trailer for #SpiderManBrandNewDay, exclusively in theatres July 31. Play Marvel’s Spider-Man 2, available now in the PlayStation Plus Game Catalog.",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-03-18T11:17:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 2556440,
+      "like_count": 288459,
+      "comment_count": 13282,
+      "category_id": "20",
       "tags": [
-        "Action",
-        "Anya Taylor-Joy",
-        "Brian K Vaughan",
-        "Charlotte Rampling",
-        "Coming Soon",
-        "Denis Villeneuve",
-        "Dune",
-        "Dune Messiah",
-        "Dune: Part Three",
-        "Florence Pugh"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony"
       ],
-      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+      "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
     },
     {
       "video_id": "mqcBKfsSeoQ",
@@ -280,21 +281,32 @@
       "url": "https://www.youtube.com/watch?v=mqcBKfsSeoQ"
     },
     {
-      "video_id": "8TZMtslA3UY",
-      "title": "SPIDER-MAN: BRAND NEW DAY – Official Trailer (HD)",
-      "description": "A Brand New Day starts now.\n\nWatch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31.\n\nAfter the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.\n\nDirected by:   \nDestin Daniel Cretton   \n \nWritten by:     \nChris McKenna & Erik Sommers\n   \nBased on the MARVEL Comic Book by: \nStan Lee and Steve Ditko\n\nProduced by:     ",
-      "channel_title": "Spider-Man",
-      "channel_id": "UCP8AC-LXl5Jmp64IRIsdacg",
-      "published_at": "2026-03-18T11:05:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8TZMtslA3UY/hqdefault.jpg",
-      "duration": "PT2M41S",
-      "duration_seconds": 161,
-      "view_count": 8500,
-      "like_count": 95131,
-      "comment_count": 7207,
+      "video_id": "3_9vCamtuPY",
+      "title": "Dune: Part Three | Official Teaser Trailer",
+      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2026-03-17T16:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 10775419,
+      "like_count": 426996,
+      "comment_count": 22311,
       "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8TZMtslA3UY"
+      "tags": [
+        "Action",
+        "Anya Taylor-Joy",
+        "Brian K Vaughan",
+        "Charlotte Rampling",
+        "Coming Soon",
+        "Denis Villeneuve",
+        "Dune",
+        "Dune Messiah",
+        "Dune: Part Three",
+        "Florence Pugh"
+      ],
+      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
     },
     {
       "video_id": "5j1UPxvyRwA",
@@ -323,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/esb1CBW2WK8/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 1624349,
-      "like_count": 41891,
-      "comment_count": 2840,
+      "view_count": 1748746,
+      "like_count": 42684,
+      "comment_count": 2893,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -353,32 +365,32 @@
       "url": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
     },
     {
-      "video_id": "h4EwKwlAbqM",
-      "title": "SPIDER-MAN 4: BRAND NEW DAY All Official Trailer Clips So Far (2026)",
-      "description": "Official Spider-Man 4: Brand New Day Movie Teaser Trailer Clips 2026 | More ➤ https://KinoCheck.com/App | Tom Holland Movie Trailer | Cinema: 31 Jul 2026 | Details ➤ https://KinoCheck.com/movie/fgb/spider-man-4-brand-new-day-2026?utm_source=youtube&utm_medium=description\nFour years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of crimes pulls Spider-Man into a web of mystery larger than he's ever faced before. In order to take on what's ahead, Spider-Man not only needs to be at the top of his physical and mental game, but he must also be prepared to face the repercussions of his past!\n\nSpider-Man 4: Brand New Day (2026) is the new superhero movie by Destin Daniel Cretton, starring Tom Holland, Zendaya and Jon Bernthal.\n\nNote | #SpiderManBrandNewDay #SpiderMan4 #Teaser Trailer courtesy of Sony Pictures. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-03-17T22:44:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h4EwKwlAbqM/hqdefault.jpg",
-      "duration": "PT1M16S",
-      "duration_seconds": 76,
-      "view_count": 804439,
-      "like_count": 10651,
-      "comment_count": 515,
+      "video_id": "zgIiOqUCI0E",
+      "title": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
+      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8thUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being dir",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-03-18T12:17:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zgIiOqUCI0E/hqdefault.jpg",
+      "duration": "PT21M44S",
+      "duration_seconds": 1304,
+      "view_count": 47189,
+      "like_count": 6642,
+      "comment_count": 670,
       "category_id": "24",
       "tags": [
-        "2026",
-        "Jon Bernthal",
-        "KinoCheck",
-        "Movie",
-        "Spider-Man 4: Brand New Day",
-        "Spider-Man 4: Brand New Day trailer",
-        "Superhero",
-        "Tom Holland",
-        "Zendaya",
-        "man"
+        "spiderman",
+        "brand new day",
+        "spiderman brand new day trailer",
+        "spiderman brand new day trailer breakdown",
+        "spider-man brand new day",
+        "spider man brand new day",
+        "spiderman brand new day",
+        "spiderman brand new day trailer leak",
+        "spiderman brand new day trailer description",
+        "spider man brand new day trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=h4EwKwlAbqM"
+      "url": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
     },
     {
       "video_id": "1rfqzVOZLpM",
@@ -407,8 +419,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RR8NrL8K-Ns/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 407606,
-      "like_count": 407,
+      "view_count": 459876,
+      "like_count": 469,
       "comment_count": 4,
       "category_id": "22",
       "tags": [
@@ -435,9 +447,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Wek6DztgaXo/hqdefault.jpg",
       "duration": "PT3M46S",
       "duration_seconds": 226,
-      "view_count": 332272,
-      "like_count": 438,
-      "comment_count": 4,
+      "view_count": 364031,
+      "like_count": 499,
+      "comment_count": 6,
       "category_id": "22",
       "tags": [
         "Romeo Santos Drake Odio",
@@ -457,71 +469,91 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "total_videos": 10,
-        "total_views": 13236711,
-        "average_views_per_video": 1323671.1,
-        "categories": "Unknown",
-        "video_title_analysis": {
-          "movie_related_content": {
-            "count": 4,
-            "titles": [
-              "Dune: Part Three | Official Teaser Trailer",
-              "SPIDER-MAN: BRAND NEW DAY – Official Trailer (HD)",
-              "SPIDER-MAN 4: BRAND NEW DAY All Official Trailer Clips So Far (2026)",
-              "White Fox: The Kumiho Strikes Back | Character Reveal Trailer | Marvel Rivals"
-            ],
-            "insight": "High interest in blockbuster films and trailers, especially franchise movies like Spider-Man and Dune."
-          },
-          "music_content": {
-            "count": 2,
-            "titles": [
-              "J balvin, Bad Bunny - La Canción (Letra/Lyrics) | Pensaba que te había olvidado, pero pusieron",
-              "Romeo Santos, Drake - Odio (Letra/Lyrics)"
-            ],
-            "insight": "Music content, particularly collaborations between popular artists, continue to attract significant viewership."
-          },
-          "sports_content": {
-            "count": 2,
-            "titles": [
-              "First Four: Maryland-Baltimore County vs. Howard",
-              "Jupiter Links GC vs. Boston Common Golf"
-            ],
-            "insight": "Sports content, both in traditional sports like basketball and niche sports like golf, maintains a dedicated audience."
-          },
-          "news_and_political_content": {
-            "count": 2,
-            "titles": [
-              "Gutfeld!",
-              "The Last Word With Lawrence O'Donnell"
-            ],
-            "insight": "Political commentary and news analysis programs remain relevant, suggesting a stable demand for news content."
-          }
+      "content_trends": {
+        "movie_trailers_and_analysis": {
+          "description": "Videos related to movie trailers and breakdowns are prominent.",
+          "videos": [
+            "Spider-Man: Brand New Day - Official Trailer",
+            "Dune: Part Three | Official Teaser Trailer",
+            "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details"
+          ],
+          "insights": [
+            "High interest in upcoming movies and detailed breakdowns.",
+            "Opportunity for creators to delve deeper into movie analysis and predictions."
+          ]
+        },
+        "music_and_lyrics": {
+          "description": "Music videos with lyrics are trending.",
+          "videos": [
+            "J balvin, Bad Bunny - La Canción (Letra/Lyrics)",
+            "Romeo Santos, Drake - Odio (Letra/Lyrics)"
+          ],
+          "insights": [
+            "Lyric videos remain popular, especially for international artists.",
+            "Potential for collaboration with lyric-focused content creators."
+          ]
+        },
+        "sports_and_entertainment": {
+          "description": "Sports events and entertainment shows are featured.",
+          "videos": [
+            "First Four: Maryland-Baltimore County vs. Howard",
+            "Jupiter Links GC vs. Boston Common Golf",
+            "Gutfeld!",
+            "The Last Word With Lawrence O'Donnell"
+          ],
+          "insights": [
+            "Diverse interest in both traditional sports and political commentary.",
+            "Opportunity to create cross-content that merges sports and entertainment."
+          ]
+        },
+        "gaming": {
+          "description": "Gaming content related to character reveals and trailers.",
+          "videos": [
+            "White Fox: The Kumiho Strikes Back | Character Reveal Trailer | Marvel Rivals"
+          ],
+          "insights": [
+            "Interest in character reveals and new game content.",
+            "Creators can explore in-depth game analysis and predictions."
+          ]
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Warner Bros.",
-          "truTV",
-          "Spider-Man",
-          "FOX News",
-          "Love Trip"
-        ],
-        "insight": "Channels with diverse content portfolios, such as those specializing in entertainment, news, and sports, achieve higher visibility.",
-        "strategic_recommendation": "Emerging creators should focus on niche content within popular genres or collaborate with well-established channels to increase exposure."
+        "top_channels": {
+          "description": "Content from a mix of official and entertainment channels.",
+          "channels": [
+            "PlayStation",
+            "truTV",
+            "Warner Bros.",
+            "FOX News",
+            "Love Trip"
+          ],
+          "insights": [
+            "Channels with established brands have high viewership potential.",
+            "Emerging channels should focus on niche areas within these categories."
+          ]
+        }
       },
       "market_opportunities": {
-        "franchise_expansion": {
-          "insight": "Franchise-related content, especially in film, has a proven track record for engagement. Opportunities exist in creating spin-off series or exclusive behind-the-scenes content."
+        "cross-content_creation": {
+          "description": "Creating content that bridges multiple trending categories.",
+          "potential": [
+            "Combine movie trailer analysis with gaming content.",
+            "Integrate music with sports highlights or commentary."
+          ]
         },
-        "music_collaborations": {
-          "insight": "Cross-genre and international artist collaborations attract diverse audiences. There's potential for new music video formats or interactive lyric videos."
+        "international_collaborations": {
+          "description": "Leveraging international music and entertainment trends.",
+          "potential": [
+            "Collaboration with international artists for lyric videos.",
+            "Focus on subtitled content to reach wider audiences."
+          ]
         },
-        "sports_highlights_and_analysis": {
-          "insight": "Creating engaging highlight reels and in-depth analysis for sporting events can capture both casual and dedicated sports fans."
-        },
-        "political_and_news_commentary": {
-          "insight": "As audiences seek diverse perspectives, there's a growing space for independent, unbiased news commentary and analysis."
+        "interactive_and_engagement-focused_content": {
+          "description": "Engaging viewers with interactive content.",
+          "potential": [
+            "Create quizzes or polls related to trending trailers and shows.",
+            "Use live streams to discuss trending topics with real-time audience interaction."
+          ]
         }
       },
       "metadata_stats": {
@@ -530,7 +562,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1323671
+        "avg_views_per_video": 1595170
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
