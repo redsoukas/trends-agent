@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-19T12:22:51.744935",
+  "timestamp": "2026-03-19T15:26:33.898376",
   "date": "2026-03-19",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 3,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 10150873,
-      "like_count": 516276,
-      "comment_count": 22273,
+      "view_count": 10513044,
+      "like_count": 524053,
+      "comment_count": 22696,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -62,9 +62,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 14508230,
-      "like_count": 498207,
-      "comment_count": 25147,
+      "view_count": 14801253,
+      "like_count": 504450,
+      "comment_count": 25437,
       "category_id": "1",
       "tags": [
         "Action",
@@ -79,6 +79,59 @@
         "Florence Pugh"
       ],
       "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+    },
+    {
+      "video_id": "UI7oyjd6PYk",
+      "title": "Los Angeles Lakers at Houston Rockets",
+      "description": "The Los Angeles Lakers travel to face the Houston Rockets for a high-stakes Western Conference clash at the Toyota Center. The Rockets lead the season series 1-0 when they 119-96 in Los Angeles. Luka Dončić leads the Lakers with nearly 33 PPG.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-19T12:40:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UI7oyjd6PYk/hqdefault.jpg",
+      "duration": "PT2H36M45S",
+      "duration_seconds": 9405,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
+    },
+    {
+      "video_id": "HI2CTxOhLHw",
+      "title": "Chuckyy - Lamb Chop (Official Music Video)",
+      "description": "Chuckyy - Lamb Chop (Official Music Video)\nStream/Download: https://santa-anna.ffm.to/lambchop\n\nFollow Chuckyy\nInstagram -  https://www.instagram.com/chuckywackemm\nTikTok - https://www.tiktok.com/@chuckywackem\nX (Twitter) -  https://x.com/ChuckyyWackemmm\n#chuckyy #chuckyywackem #newmusic",
+      "channel_title": "Chuckyy ",
+      "channel_id": "UC0tQtUYt1DR27c-uqyYvbgg",
+      "published_at": "2026-03-18T22:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HI2CTxOhLHw/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 50267,
+      "like_count": 5304,
+      "comment_count": 290,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
+    },
+    {
+      "video_id": "e4sCLYMSokg",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
+      "description": "It’s time to make your choice and take out your rivals… will you side with The Foundation or The Ice King? Fortnite: Showdown begins tomorrow!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-18T16:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e4sCLYMSokg/hqdefault.jpg",
+      "duration": "PT1M44S",
+      "duration_seconds": 104,
+      "view_count": 713071,
+      "like_count": 39241,
+      "comment_count": 2644,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=e4sCLYMSokg"
     },
     {
       "video_id": "ZtWKWInVRL4",
@@ -98,40 +151,32 @@
       "url": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
     },
     {
-      "video_id": "HI2CTxOhLHw",
-      "title": "Chuckyy - Lamb Chop (Official Music Video)",
-      "description": "Chuckyy - Lamb Chop (Official Music Video)\nStream/Download: https://santa-anna.ffm.to/lambchop\n\nFollow Chuckyy\nInstagram -  https://www.instagram.com/chuckywackemm\nTikTok - https://www.tiktok.com/@chuckywackem\nX (Twitter) -  https://x.com/ChuckyyWackemmm\n#chuckyy #chuckyywackem #newmusic",
-      "channel_title": "Chuckyy ",
-      "channel_id": "UC0tQtUYt1DR27c-uqyYvbgg",
-      "published_at": "2026-03-18T22:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HI2CTxOhLHw/hqdefault.jpg",
-      "duration": "PT2M10S",
-      "duration_seconds": 130,
-      "view_count": 45548,
-      "like_count": 4865,
-      "comment_count": 271,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
-    },
-    {
-      "video_id": "e4sCLYMSokg",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
-      "description": "It’s time to make your choice and take out your rivals… will you side with The Foundation or The Ice King? Fortnite: Showdown begins tomorrow!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-18T16:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e4sCLYMSokg/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 683706,
-      "like_count": 38693,
-      "comment_count": 2622,
-      "category_id": "20",
+      "video_id": "Sk-rmoYMixE",
+      "title": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
+      "description": "Spider-Man Brand New Day Official Trailer Reaction & First Thoughts by New Rockstars’ Erik Voss! Book your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nA Brand New Day starts now. Watch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he’s devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strang",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-18T18:54:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sk-rmoYMixE/hqdefault.jpg",
+      "duration": "PT23M22S",
+      "duration_seconds": 1402,
+      "view_count": 386981,
+      "like_count": 15994,
+      "comment_count": 809,
+      "category_id": "24",
       "tags": [
-        "yt:cc=on"
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "spiderman",
+        "spider-man brand new day",
+        "spider-man trailer",
+        "brand new day trailer",
+        "spiderman trailer",
+        "spiderman trailer new rockstars",
+        "trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=e4sCLYMSokg"
+      "url": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
     },
     {
       "video_id": "Eowybracbx0",
@@ -151,74 +196,18 @@
       "url": "https://www.youtube.com/watch?v=Eowybracbx0"
     },
     {
-      "video_id": "Sk-rmoYMixE",
-      "title": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
-      "description": "Spider-Man Brand New Day Official Trailer Reaction & First Thoughts by New Rockstars’ Erik Voss! Book your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nA Brand New Day starts now. Watch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he’s devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strang",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-03-18T18:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sk-rmoYMixE/hqdefault.jpg",
-      "duration": "PT23M22S",
-      "duration_seconds": 1402,
-      "view_count": 357302,
-      "like_count": 15094,
-      "comment_count": 770,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "spiderman",
-        "spider-man brand new day",
-        "spider-man trailer",
-        "brand new day trailer",
-        "spiderman trailer",
-        "spiderman trailer new rockstars",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
-    },
-    {
-      "video_id": "n86REnOtF6A",
-      "title": "Spending $8,592,732 Building An ISLAND In Roblox..",
-      "description": "Today I spent alot of robux trying to make a private island. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaboratin",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-03-18T19:42:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n86REnOtF6A/hqdefault.jpg",
-      "duration": "PT38M24S",
-      "duration_seconds": 2304,
-      "view_count": 1305359,
-      "like_count": 33779,
-      "comment_count": 3250,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=n86REnOtF6A"
-    },
-    {
       "video_id": "zgIiOqUCI0E",
       "title": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
-      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8thUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being dir",
+      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8th\nUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being di",
       "channel_title": "Heavy Spoilers",
       "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
       "published_at": "2026-03-18T12:17:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zgIiOqUCI0E/hqdefault.jpg",
       "duration": "PT21M44S",
       "duration_seconds": 1304,
-      "view_count": 335360,
-      "like_count": 13158,
-      "comment_count": 1215,
+      "view_count": 343133,
+      "like_count": 13401,
+      "comment_count": 1233,
       "category_id": "24",
       "tags": [
         "spiderman",
@@ -247,9 +236,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 10150873,
-      "like_count": 516276,
-      "comment_count": 22273,
+      "view_count": 10513044,
+      "like_count": 524053,
+      "comment_count": 22696,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -287,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 14508230,
-      "like_count": 498207,
-      "comment_count": 25147,
+      "view_count": 14801253,
+      "like_count": 504450,
+      "comment_count": 25437,
       "category_id": "1",
       "tags": [
         "Action",
@@ -304,6 +293,42 @@
         "Florence Pugh"
       ],
       "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+    },
+    {
+      "video_id": "UI7oyjd6PYk",
+      "title": "Los Angeles Lakers at Houston Rockets",
+      "description": "The Los Angeles Lakers travel to face the Houston Rockets for a high-stakes Western Conference clash at the Toyota Center. The Rockets lead the season series 1-0 when they 119-96 in Los Angeles. Luka Dončić leads the Lakers with nearly 33 PPG.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-19T12:40:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UI7oyjd6PYk/hqdefault.jpg",
+      "duration": "PT2H36M45S",
+      "duration_seconds": 9405,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
+    },
+    {
+      "video_id": "e4sCLYMSokg",
+      "title": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
+      "description": "It’s time to make your choice and take out your rivals… will you side with The Foundation or The Ice King? Fortnite: Showdown begins tomorrow!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-03-18T16:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e4sCLYMSokg/hqdefault.jpg",
+      "duration": "PT1M44S",
+      "duration_seconds": 104,
+      "view_count": 713071,
+      "like_count": 39241,
+      "comment_count": 2644,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=e4sCLYMSokg"
     },
     {
       "video_id": "ZtWKWInVRL4",
@@ -323,23 +348,32 @@
       "url": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
     },
     {
-      "video_id": "e4sCLYMSokg",
-      "title": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
-      "description": "It’s time to make your choice and take out your rivals… will you side with The Foundation or The Ice King? Fortnite: Showdown begins tomorrow!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-03-18T16:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e4sCLYMSokg/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 683706,
-      "like_count": 38693,
-      "comment_count": 2622,
-      "category_id": "20",
+      "video_id": "Sk-rmoYMixE",
+      "title": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
+      "description": "Spider-Man Brand New Day Official Trailer Reaction & First Thoughts by New Rockstars’ Erik Voss! Book your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nA Brand New Day starts now. Watch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he’s devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strang",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-18T18:54:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sk-rmoYMixE/hqdefault.jpg",
+      "duration": "PT23M22S",
+      "duration_seconds": 1402,
+      "view_count": 386981,
+      "like_count": 15994,
+      "comment_count": 809,
+      "category_id": "24",
       "tags": [
-        "yt:cc=on"
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "spiderman",
+        "spider-man brand new day",
+        "spider-man trailer",
+        "brand new day trailer",
+        "spiderman trailer",
+        "spiderman trailer new rockstars",
+        "trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=e4sCLYMSokg"
+      "url": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
     },
     {
       "video_id": "Eowybracbx0",
@@ -359,74 +393,18 @@
       "url": "https://www.youtube.com/watch?v=Eowybracbx0"
     },
     {
-      "video_id": "Sk-rmoYMixE",
-      "title": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
-      "description": "Spider-Man Brand New Day Official Trailer Reaction & First Thoughts by New Rockstars’ Erik Voss! Book your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nA Brand New Day starts now. Watch the official trailer for #SpiderManBrandNewDay - exclusively in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he’s devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strang",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-03-18T18:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sk-rmoYMixE/hqdefault.jpg",
-      "duration": "PT23M22S",
-      "duration_seconds": 1402,
-      "view_count": 357302,
-      "like_count": 15094,
-      "comment_count": 770,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "spiderman",
-        "spider-man brand new day",
-        "spider-man trailer",
-        "brand new day trailer",
-        "spiderman trailer",
-        "spiderman trailer new rockstars",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
-    },
-    {
-      "video_id": "n86REnOtF6A",
-      "title": "Spending $8,592,732 Building An ISLAND In Roblox..",
-      "description": "Today I spent alot of robux trying to make a private island. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaboratin",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-03-18T19:42:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n86REnOtF6A/hqdefault.jpg",
-      "duration": "PT38M24S",
-      "duration_seconds": 2304,
-      "view_count": 1305359,
-      "like_count": 33779,
-      "comment_count": 3250,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=n86REnOtF6A"
-    },
-    {
       "video_id": "zgIiOqUCI0E",
       "title": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
-      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8thUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being dir",
+      "description": "UGREEN NAS on Official Store(20% off, 3/25-4/5): https://nas.us.ugreen.com/jnb8th\nUGREEN NAS DH4300 Plus(20% off, 3/25-4/5): https://amzn.to/4sS2PUS  Buy on Amazon (20% off, 3/25-4/5): https://amzn.to/4uvdKFp  #UGREENNAS #ugreenfx \n\nSPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Things You Missed. We breakdown the Spider-Man Brand New Day Trailer. This discusses the story, Hulk, Punisher, Sadie Sinks character, MJ, the comics and more.\n\n#Spiderman #BrandNewDay #Trailer #SpidermanBrandNewDay #Marvel #MCU #PlotDetails #PlotLeak #MovieTrailer\n\nSpider-Man: Brand New Day is an upcoming American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is intended to be the 38th film in the Marvel Cinematic Universe (MCU) and the fourth film in the MCU Spider-Man film series following Spider-Man: No Way Home (2021). The film is being di",
       "channel_title": "Heavy Spoilers",
       "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
       "published_at": "2026-03-18T12:17:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zgIiOqUCI0E/hqdefault.jpg",
       "duration": "PT21M44S",
       "duration_seconds": 1304,
-      "view_count": 335360,
-      "like_count": 13158,
-      "comment_count": 1215,
+      "view_count": 343133,
+      "like_count": 13401,
+      "comment_count": 1233,
       "category_id": "24",
       "tags": [
         "spiderman",
@@ -452,9 +430,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HI2CTxOhLHw/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 45548,
-      "like_count": 4865,
-      "comment_count": 271,
+      "view_count": 50267,
+      "like_count": 5304,
+      "comment_count": 290,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
@@ -463,57 +441,78 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "analysis": {
-        "content_trends": {
-          "trailer_videos": {
-            "observation": "Trailer and teaser videos are popular on YouTube, as evidenced by the presence of multiple Spider-Man and Dune trailers.",
-            "actionable_insight": "Consider creating content that aligns with upcoming movie releases or popular franchises to leverage audience interest."
-          },
-          "gaming_content": {
-            "observation": "Gaming-related content, such as the Fortnite trailer, indicates ongoing interest in the gaming community.",
-            "actionable_insight": "Brands and creators can capitalize on this trend by producing game-related content, such as gameplay, reviews, or launch events."
-          },
-          "music_videos": {
-            "observation": "Music videos like 'Chuckyy - Lamb Chop' remain a staple in trending content.",
-            "actionable_insight": "Artists and labels should focus on unique and engaging music video production to capture audience attention."
-          },
-          "reaction_and_breakdown_videos": {
-            "observation": "Reaction and breakdown videos, particularly related to popular trailers, are also trending.",
-            "actionable_insight": "Creators can generate content discussing new releases and providing detailed breakdowns to engage fans who seek deeper analysis."
-          }
-        },
-        "creator_patterns": {
-          "cross-promotion": {
-            "observation": "Creators like New Rockstars are producing reaction and breakdown content, indicating cross-promotion potential.",
-            "actionable_insight": "Collaborate with larger channels or influencers to expand reach and engage their audience with related content."
-          },
-          "diverse_content_strategies": {
-            "observation": "Channels like truTV and FOX News are diversifying content beyond their traditional formats.",
-            "actionable_insight": "Media companies should explore diverse content strategies, including digital-first and audience-specific content, to capture new demographics."
-          }
-        },
-        "market_opportunities": {
-          "entertainment_franchises": {
-            "observation": "The prominence of Spider-Man and Dune content suggests a strong appetite for entertainment franchise-related content.",
-            "actionable_insight": "Develop partnerships with movie studios or leverage popular franchises in content creation for increased engagement."
-          },
-          "live_events_and_sports": {
-            "observation": "Sports-related content like 'First Four' indicates interest in live events and sports coverage.",
-            "actionable_insight": "Consider hosting live streams, commentary, or highlight reels of sports events to attract sports enthusiasts."
-          },
-          "virtual_and_digital_experiences": {
-            "observation": "Content like 'Spending $8,592,732 Building An ISLAND In Roblox' highlights interest in virtual experiences.",
-            "actionable_insight": "Brands can explore virtual worlds and digital experiences as new avenues for engagement, particularly targeting younger audiences."
-          }
-        }
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 26807749,
+        "averageViewsPerVideo": 2680774.9,
+        "categories": "Unknown"
       },
+      "trendingPatterns": [
+        {
+          "pattern": "Franchise/Sequel Content",
+          "description": "Videos related to popular franchises or sequels are trending. This includes content related to Spider-Man, Dune, and Fortnite.",
+          "examples": [
+            "Spider-Man: Brand New Day - Official Trailer",
+            "Dune: Part Three | Official Teaser Trailer",
+            "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer"
+          ]
+        },
+        {
+          "pattern": "Sports Events",
+          "description": "Sports-related content is popular, particularly videos featuring live or highlight clips of games.",
+          "examples": [
+            "First Four: Lehigh vs. Prairie View A&M",
+            "Los Angeles Lakers at Houston Rockets",
+            "First Four: Richmond vs. Nebraska"
+          ]
+        },
+        {
+          "pattern": "Reaction/Analysis Content",
+          "description": "Reaction and analysis videos related to trailers or popular content are gaining traction.",
+          "examples": [
+            "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
+            "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details"
+          ]
+        }
+      ],
+      "creatorPatterns": [
+        {
+          "creator": "PlayStation",
+          "videoCount": 1,
+          "focus": "Video game-related content with high engagement potential."
+        },
+        {
+          "creator": "Warner Bros.",
+          "videoCount": 1,
+          "focus": "Movie trailers and teasers, appealing to fans of upcoming releases."
+        },
+        {
+          "creator": "truTV",
+          "videoCount": 1,
+          "focus": "Sports content, possibly related to live events or highlights."
+        }
+      ],
+      "marketOpportunities": [
+        {
+          "opportunity": "Capitalize on Franchise Popularity",
+          "actionableInsight": "Create content that taps into existing fanbases of popular franchises such as Spider-Man, Dune, and Fortnite. This can be through analysis, reaction, or fan theory videos."
+        },
+        {
+          "opportunity": "Expand Sports Coverage",
+          "actionableInsight": "Focus on creating or collaborating on content surrounding sports events, leveraging the excitement of live games or major tournaments."
+        },
+        {
+          "opportunity": "Engage with Reaction Content",
+          "actionableInsight": "Invest in producing high-quality reaction or breakdown videos, especially for newly released trailers or major announcements, as this type of content attracts attention and engagement."
+        }
+      ],
       "metadata_stats": {
         "analysis_method": "metadata_only",
         "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2738637
+        "avg_views_per_video": 2680774
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
