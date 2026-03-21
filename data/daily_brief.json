@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-21T03:48:57.062718",
+  "timestamp": "2026-03-21T06:21:35.771907",
   "date": "2026-03-21",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1017604,
-      "like_count": 40814,
-      "comment_count": 2337,
+      "view_count": 1068000,
+      "like_count": 42050,
+      "comment_count": 2399,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 12776249,
-      "like_count": 573385,
-      "comment_count": 24500,
+      "view_count": 12900287,
+      "like_count": 575994,
+      "comment_count": 24576,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -107,8 +107,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 2310828,
-      "like_count": 107324,
+      "view_count": 2349405,
+      "like_count": 107826,
       "comment_count": 0,
       "category_id": "1",
       "tags": [
@@ -121,21 +121,21 @@
       "url": "https://www.youtube.com/watch?v=YShjCIA9aXk"
     },
     {
-      "video_id": "ZYwwlYcIFPA",
-      "title": "First Round: Texas A&M vs. Saint Mary's (Calif.)",
-      "description": "No. 10 Aggies and No. 7 Gaels play in round one of the NCAA Men's Basketball Tournament. Texas A&M enters the postseason focused on a deep run. Saint Mary's counters with precision half-court execution in this highly anticipated tournament showdown.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-20T13:08:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZYwwlYcIFPA/hqdefault.jpg",
-      "duration": "PT2H40M1S",
-      "duration_seconds": 9601,
+      "video_id": "VIt8Y-45Fos",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-21T04:11:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VIt8Y-45Fos/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ZYwwlYcIFPA"
+      "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
     },
     {
       "video_id": "3_9vCamtuPY",
@@ -147,9 +147,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 17991770,
-      "like_count": 546612,
-      "comment_count": 26426,
+      "view_count": 18134515,
+      "like_count": 548152,
+      "comment_count": 26508,
       "category_id": "1",
       "tags": [
         "Action",
@@ -166,66 +166,38 @@
       "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
     },
     {
-      "video_id": "RXEC6HuE0FY",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T02:18:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RXEC6HuE0FY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "mXpyqeoMGdA",
+      "title": "First Round: Missouri State vs. Texas",
+      "description": "This Regional 3 in Fort Worth first round tie brings the Missouri State Lady Bears and Texas Longhorns to the Moody Center in Austin, Texas. Both highly ambitious college programs aim to dominate the hardwood and secure a ticket to advance on.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-21T03:59:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mXpyqeoMGdA/hqdefault.jpg",
+      "duration": "PT1H40M50S",
+      "duration_seconds": 6050,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=RXEC6HuE0FY"
+      "url": "https://www.youtube.com/watch?v=mXpyqeoMGdA"
     },
     {
-      "video_id": "qhhfIk99HdQ",
-      "title": "Off Campus - Official Teaser Trailer | Prime Video",
-      "description": "A college soap based on Elle Kennedy’s bestselling book series, the first season of OFF CAMPUS follows the unlikely romance between wry, hockey-hating music major Hannah Wells and Briar U’s womanizing star center Garrett Graham as they strike a deal to help each other out. But will their deal unfold as expected?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nOff Campus - Offi",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-03-19T15:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qhhfIk99HdQ/hqdefault.jpg",
-      "duration": "PT1M3S",
-      "duration_seconds": 63,
-      "view_count": 438078,
-      "like_count": 12222,
-      "comment_count": 452,
-      "category_id": "24",
-      "tags": [
-        "off campus official trailer",
-        "off campus trailer",
-        "official trailer",
-        "trailer",
-        "official trailer 2026",
-        "trailer 2026",
-        "off campus prime video",
-        "prime video off campus",
-        "drama series",
-        "drama show"
-      ],
-      "url": "https://www.youtube.com/watch?v=qhhfIk99HdQ"
-    },
-    {
-      "video_id": "cQQClKkL0MU",
-      "title": "First Round: Virginia Tech vs. Oregon",
-      "description": "The Virginia Tech Hokies face the Oregon Ducks in the Fort Worth Regional 3 first round. After a dominant run in the Big Ten, guard Katie Fiso leads Oregon with 15.3 points per game. Virginia Tech enters as a dangerous seed from the ACC.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-21T01:40:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cQQClKkL0MU/hqdefault.jpg",
-      "duration": "PT1H56M30S",
-      "duration_seconds": 6990,
+      "video_id": "QLfH0uvfTfk",
+      "title": "4.7 Seconds: For the Championship",
+      "description": "The riveting, pressure packed final moments of what many have described as the greatest ending in Final Four history.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-21T04:33:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QLfH0uvfTfk/hqdefault.jpg",
+      "duration": "PT28M21S",
+      "duration_seconds": 1701,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cQQClKkL0MU"
+      "url": "https://www.youtube.com/watch?v=QLfH0uvfTfk"
     }
   ],
   "videos_with_transcripts": [],
@@ -240,9 +212,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1017604,
-      "like_count": 40814,
-      "comment_count": 2337,
+      "view_count": 1068000,
+      "like_count": 42050,
+      "comment_count": 2399,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -285,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 12776249,
-      "like_count": 573385,
-      "comment_count": 24500,
+      "view_count": 12900287,
+      "like_count": 575994,
+      "comment_count": 24576,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -316,21 +288,21 @@
       "url": "https://www.youtube.com/watch?v=L2snou1DpA0"
     },
     {
-      "video_id": "ZYwwlYcIFPA",
-      "title": "First Round: Texas A&M vs. Saint Mary's (Calif.)",
-      "description": "No. 10 Aggies and No. 7 Gaels play in round one of the NCAA Men's Basketball Tournament. Texas A&M enters the postseason focused on a deep run. Saint Mary's counters with precision half-court execution in this highly anticipated tournament showdown.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-20T13:08:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZYwwlYcIFPA/hqdefault.jpg",
-      "duration": "PT2H40M1S",
-      "duration_seconds": 9601,
+      "video_id": "VIt8Y-45Fos",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-21T04:11:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VIt8Y-45Fos/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ZYwwlYcIFPA"
+      "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
     },
     {
       "video_id": "3_9vCamtuPY",
@@ -342,9 +314,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 17991770,
-      "like_count": 546612,
-      "comment_count": 26426,
+      "view_count": 18134515,
+      "like_count": 548152,
+      "comment_count": 26508,
       "category_id": "1",
       "tags": [
         "Action",
@@ -361,66 +333,38 @@
       "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
     },
     {
-      "video_id": "RXEC6HuE0FY",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T02:18:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RXEC6HuE0FY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "mXpyqeoMGdA",
+      "title": "First Round: Missouri State vs. Texas",
+      "description": "This Regional 3 in Fort Worth first round tie brings the Missouri State Lady Bears and Texas Longhorns to the Moody Center in Austin, Texas. Both highly ambitious college programs aim to dominate the hardwood and secure a ticket to advance on.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-21T03:59:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mXpyqeoMGdA/hqdefault.jpg",
+      "duration": "PT1H40M50S",
+      "duration_seconds": 6050,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=RXEC6HuE0FY"
+      "url": "https://www.youtube.com/watch?v=mXpyqeoMGdA"
     },
     {
-      "video_id": "qhhfIk99HdQ",
-      "title": "Off Campus - Official Teaser Trailer | Prime Video",
-      "description": "A college soap based on Elle Kennedy’s bestselling book series, the first season of OFF CAMPUS follows the unlikely romance between wry, hockey-hating music major Hannah Wells and Briar U’s womanizing star center Garrett Graham as they strike a deal to help each other out. But will their deal unfold as expected?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nOff Campus - Offi",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-03-19T15:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qhhfIk99HdQ/hqdefault.jpg",
-      "duration": "PT1M3S",
-      "duration_seconds": 63,
-      "view_count": 438078,
-      "like_count": 12222,
-      "comment_count": 452,
-      "category_id": "24",
-      "tags": [
-        "off campus official trailer",
-        "off campus trailer",
-        "official trailer",
-        "trailer",
-        "official trailer 2026",
-        "trailer 2026",
-        "off campus prime video",
-        "prime video off campus",
-        "drama series",
-        "drama show"
-      ],
-      "url": "https://www.youtube.com/watch?v=qhhfIk99HdQ"
-    },
-    {
-      "video_id": "cQQClKkL0MU",
-      "title": "First Round: Virginia Tech vs. Oregon",
-      "description": "The Virginia Tech Hokies face the Oregon Ducks in the Fort Worth Regional 3 first round. After a dominant run in the Big Ten, guard Katie Fiso leads Oregon with 15.3 points per game. Virginia Tech enters as a dangerous seed from the ACC.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-21T01:40:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cQQClKkL0MU/hqdefault.jpg",
-      "duration": "PT1H56M30S",
-      "duration_seconds": 6990,
+      "video_id": "QLfH0uvfTfk",
+      "title": "4.7 Seconds: For the Championship",
+      "description": "The riveting, pressure packed final moments of what many have described as the greatest ending in Final Four history.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-21T04:33:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QLfH0uvfTfk/hqdefault.jpg",
+      "duration": "PT28M21S",
+      "duration_seconds": 1701,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cQQClKkL0MU"
+      "url": "https://www.youtube.com/watch?v=QLfH0uvfTfk"
     },
     {
       "video_id": "YShjCIA9aXk",
@@ -432,8 +376,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 2310828,
-      "like_count": 107324,
+      "view_count": 2349405,
+      "like_count": 107826,
       "comment_count": 0,
       "category_id": "1",
       "tags": [
@@ -449,95 +393,75 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "video_trends": {
-        "total_videos": 10,
-        "total_views": 34534529,
-        "average_views_per_video": 3453452.9,
-        "high_engagement_categories": [
-          "Movie Trailers",
-          "Sports",
-          "Entertainment Analysis"
-        ],
-        "notable_patterns": [
-          {
-            "pattern": "Multiple videos related to Spider-Man",
-            "insight": "Spider-Man content is highly engaging, suggesting a strong viewer interest in superhero and franchise-related content."
+      "trending_patterns_analysis": {
+        "overview": {
+          "total_videos": 9,
+          "total_views": 34452207,
+          "average_views_per_video": 3828023
+        },
+        "content_trends": {
+          "superhero_and_comic_book_content": {
+            "description": "Videos related to superhero content, particularly Spider-Man, show significant interest. Two videos focus on Spider-Man, one being a trailer breakdown and the other an official trailer.",
+            "insights": [
+              "Leverage the popularity of superhero content by creating breakdowns, reviews, or predictions related to upcoming superhero films.",
+              "Consider collaborations with known comic book analysts or enthusiasts to enhance content credibility and reach."
+            ]
           },
-          {
-            "pattern": "Significant presence of sports content",
-            "insight": "Sports matchups, especially during tournament seasons, have a consistent viewership."
+          "sports_and_competitions": {
+            "description": "Three videos focus on competitive sports matchups, indicating a consistent interest in sports-related content.",
+            "insights": [
+              "Capitalize on sporting events by offering live commentary, analysis, and post-match discussions.",
+              "Explore niche sports or lesser-known matchups to cater to underserved audiences."
+            ]
           },
-          {
-            "pattern": "Trailer releases for upcoming movies",
-            "insight": "Teaser and trailer content for anticipated movies like 'Dune: Part Three' and 'Sonic the Hedgehog 4' is popular, indicating strong interest in upcoming cinematic releases."
-          }
-        ]
-      },
-      "creator_patterns": {
-        "diverse_channel_types": [
-          "Entertainment Analysis",
-          "Broadcast Networks",
-          "Gaming",
-          "Movie Studios"
-        ],
-        "top_channels": {
-          "New Rockstars": {
-            "genre": "Entertainment Analysis",
-            "content": "Trailer Breakdown"
-          },
-          "TNT": {
-            "genre": "Sports Broadcasting",
-            "content": "Sports Match"
-          },
-          "PlayStation": {
-            "genre": "Gaming",
-            "content": "Game Trailer"
-          },
-          "TBS": {
-            "genre": "Sports Broadcasting",
-            "content": "Sports Match"
-          },
-          "Paramount Pictures": {
-            "genre": "Film Studio",
-            "content": "Movie Trailer"
+          "movie_and_entertainment_content": {
+            "description": "The presence of teaser trailers and title reveals, such as 'Dune: Part Three' and 'Sonic the Hedgehog 4', indicate strong engagement with upcoming movie content.",
+            "insights": [
+              "Create anticipation through speculative content or fan theories about upcoming movie releases.",
+              "Offer exclusive interviews or behind-the-scenes content to attract movie enthusiasts."
+            ]
           }
         },
-        "insight": "Channels with a focus on specific niches, such as movie analysis and sports broadcasting, are consistently reaching the trending list."
-      },
-      "market_opportunities": {
-        "emerging_trends": [
-          {
-            "trend": "Superhero and Franchise Content",
-            "opportunity": "Develop content around superhero franchises and analyze upcoming releases to capture audience interest."
+        "creator_patterns": {
+          "diversity_of_channels": {
+            "description": "The trending videos come from a variety of channels, each contributing one video to the trending list.",
+            "insights": [
+              "Encourage content diversification by exploring various genres and styles to attract a broader audience.",
+              "Consider cross-promotion with channels in different categories to increase visibility."
+            ]
           },
-          {
-            "trend": "Sports Content",
-            "opportunity": "Create engaging sports commentary or highlight reels, especially around major tournaments or popular matchups."
-          },
-          {
-            "trend": "Trailer and Teaser Releases",
-            "opportunity": "Capitalize on the excitement for upcoming movie releases by producing analysis, reviews, or reaction videos."
+          "notable_channels": {
+            "description": "Channels such as New Rockstars and PlayStation appear in the trending list, indicating their influence in entertainment and gaming niches.",
+            "insights": [
+              "Analyze successful content strategies employed by these channels, such as video format, length, and engagement tactics.",
+              "Identify potential collaboration opportunities or content partnerships with these influential channels to expand reach."
+            ]
           }
-        ],
-        "growth_recommendations": [
-          {
-            "recommendation": "Collaborate with popular analysis channels like New Rockstars to enhance visibility in entertainment content."
+        },
+        "market_opportunities": {
+          "untapped_categories": {
+            "description": "With categories unspecified in the trends, there is an opportunity to explore and define trending categories that could further engage audiences.",
+            "insights": [
+              "Conduct audience surveys or use analytics tools to identify emerging interests and tailor content accordingly.",
+              "Experiment with emerging trends such as virtual reality content or interactive storytelling to capture early adopters."
+            ]
           },
-          {
-            "recommendation": "Engage with sports audiences by producing content that complements live sports broadcasts, such as pre-game analyses or post-game discussions."
-          },
-          {
-            "recommendation": "Leverage the interest in new movie trailers by creating exclusive first-look content or behind-the-scenes features."
+          "engagement_strategies": {
+            "description": "Given the high average views, there is potential to enhance viewer engagement and retention.",
+            "insights": [
+              "Implement interactive elements such as polls, Q&A sessions, or live streams to increase viewer participation.",
+              "Utilize data analytics to refine content strategies, focusing on peak engagement times and preferred content formats."
+            ]
           }
-        ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3453452
+        "avg_views_per_video": 3828023
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
