@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T06:21:35.771907",
+  "timestamp": "2026-03-21T09:14:20.404031",
   "date": "2026-03-21",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1068000,
-      "like_count": 42050,
-      "comment_count": 2399,
+      "view_count": 1115793,
+      "like_count": 42944,
+      "comment_count": 2437,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=LbTo7I9M6kM"
     },
     {
-      "video_id": "lfRbwpgYGXc",
-      "title": "First Round: Pennsylvania vs. Illinois",
-      "description": "The No. 3 Illinois Fighting Illini and the No. 14 Pennsylvania Quakers meet in the first round of the 2026 NCAA Tournament. This South Region matchup takes place at the Bon Secours Wellness Arena and the winner will advance to the second round.",
+      "video_id": "iXe3dJR5yb0",
+      "title": "First Round: Utah State vs. Villanova",
+      "description": "West Region first-round action begins as the Utah State Aggies face the Villanova Wildcats at Viejas Arena. MJ Collins Jr. leads Utah State, averaging 17.6 points per game, while Villanova looks to Tyler Perkins, who averages 13.7 points.",
       "channel_title": "TNT",
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-03-20T14:11:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lfRbwpgYGXc/hqdefault.jpg",
-      "duration": "PT2H13M39S",
-      "duration_seconds": 8019,
+      "published_at": "2026-03-21T08:22:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iXe3dJR5yb0/hqdefault.jpg",
+      "duration": "PT2H36M39S",
+      "duration_seconds": 9399,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=lfRbwpgYGXc"
+      "url": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
     },
     {
       "video_id": "aBlsrtxuwss",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 12900287,
-      "like_count": 575994,
-      "comment_count": 24576,
+      "view_count": 13036601,
+      "like_count": 578821,
+      "comment_count": 24672,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -81,21 +81,21 @@
       "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
     },
     {
-      "video_id": "L2snou1DpA0",
-      "title": "First Round: Texas vs. BYU",
-      "description": "The Cougars face the Longhorns in the NCAA West Region first round at the Moda Center. BYU has a strong non-conference record and looks to beat Texas. Texas enters fresh off a 68-66 win against NC State in the First Four on Mar. 17.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-20T15:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L2snou1DpA0/hqdefault.jpg",
-      "duration": "PT2H54M33S",
-      "duration_seconds": 10473,
+      "video_id": "feC0EOlmMMQ",
+      "title": "First Round: Hofstra vs. Alabama",
+      "description": "Benchmark International Arena hosts the Hofstra Pride and the Alabama Crimson Tide in a fiercely competitive NCAA Tournament first round game. This magnificent showdown features outstanding college basketball strategies and superb athleticism.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-21T07:57:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/feC0EOlmMMQ/hqdefault.jpg",
+      "duration": "PT2H12M50S",
+      "duration_seconds": 7970,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L2snou1DpA0"
+      "url": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
     },
     {
       "video_id": "YShjCIA9aXk",
@@ -107,8 +107,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 2349405,
-      "like_count": 107826,
+      "view_count": 2382357,
+      "like_count": 108335,
       "comment_count": 0,
       "category_id": "1",
       "tags": [
@@ -119,6 +119,23 @@
         "Sega"
       ],
       "url": "https://www.youtube.com/watch?v=YShjCIA9aXk"
+    },
+    {
+      "video_id": "rzGbEfqxiJI",
+      "title": "First Round: Wright State vs. Virginia",
+      "description": "The Xfinity Mobile Arena beautifully frames the Wright State Raiders and the Virginia Cavaliers for this NCAA Men's Basketball Championship match. These marvelous programs look forward to deploying deeply analytical approaches to earn a triumph.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-03-21T05:27:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rzGbEfqxiJI/hqdefault.jpg",
+      "duration": "PT2H42M5S",
+      "duration_seconds": 9725,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rzGbEfqxiJI"
     },
     {
       "video_id": "VIt8Y-45Fos",
@@ -138,66 +155,38 @@
       "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
     },
     {
-      "video_id": "3_9vCamtuPY",
-      "title": "Dune: Part Three | Official Teaser Trailer",
-      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-17T16:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 18134515,
-      "like_count": 548152,
-      "comment_count": 26508,
-      "category_id": "1",
-      "tags": [
-        "Action",
-        "Anya Taylor-Joy",
-        "Brian K Vaughan",
-        "Charlotte Rampling",
-        "Coming Soon",
-        "Denis Villeneuve",
-        "Dune",
-        "Dune Messiah",
-        "Dune: Part Three",
-        "Florence Pugh"
-      ],
-      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
-    },
-    {
-      "video_id": "mXpyqeoMGdA",
-      "title": "First Round: Missouri State vs. Texas",
-      "description": "This Regional 3 in Fort Worth first round tie brings the Missouri State Lady Bears and Texas Longhorns to the Moody Center in Austin, Texas. Both highly ambitious college programs aim to dominate the hardwood and secure a ticket to advance on.",
+      "video_id": "vP2qc_yrP8I",
+      "title": "First Round: Jacksonville vs. LSU",
+      "description": "The Pete Maravich Assembly Center stages the Jacksonville Dolphins and the LSU Tigers in a crucial NCAA Tournament opening round matchup. These competitive athletic institutions hope to secure a vital victory to continue their magical journey.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-21T03:59:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mXpyqeoMGdA/hqdefault.jpg",
-      "duration": "PT1H40M50S",
-      "duration_seconds": 6050,
+      "published_at": "2026-03-21T06:24:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vP2qc_yrP8I/hqdefault.jpg",
+      "duration": "PT1H58M35S",
+      "duration_seconds": 7115,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=mXpyqeoMGdA"
+      "url": "https://www.youtube.com/watch?v=vP2qc_yrP8I"
     },
     {
-      "video_id": "QLfH0uvfTfk",
-      "title": "4.7 Seconds: For the Championship",
-      "description": "The riveting, pressure packed final moments of what many have described as the greatest ending in Final Four history.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-21T04:33:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QLfH0uvfTfk/hqdefault.jpg",
-      "duration": "PT28M21S",
-      "duration_seconds": 1701,
+      "video_id": "TxOr339s_-c",
+      "title": "First Round: Holy Cross vs. Michigan",
+      "description": "The glorious Crisler Center gracefully illuminates the Holy Cross Crusaders and the Michigan Wolverines for an NCAA Women's Basketball Championship first round contest. These highly intellectual collegiate programs plan to demonstrate mastery.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-21T06:27:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TxOr339s_-c/hqdefault.jpg",
+      "duration": "PT1H45M6S",
+      "duration_seconds": 6306,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=QLfH0uvfTfk"
+      "url": "https://www.youtube.com/watch?v=TxOr339s_-c"
     }
   ],
   "videos_with_transcripts": [],
@@ -212,9 +201,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1068000,
-      "like_count": 42050,
-      "comment_count": 2399,
+      "view_count": 1115793,
+      "like_count": 42944,
+      "comment_count": 2437,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -231,21 +220,21 @@
       "url": "https://www.youtube.com/watch?v=LbTo7I9M6kM"
     },
     {
-      "video_id": "lfRbwpgYGXc",
-      "title": "First Round: Pennsylvania vs. Illinois",
-      "description": "The No. 3 Illinois Fighting Illini and the No. 14 Pennsylvania Quakers meet in the first round of the 2026 NCAA Tournament. This South Region matchup takes place at the Bon Secours Wellness Arena and the winner will advance to the second round.",
+      "video_id": "iXe3dJR5yb0",
+      "title": "First Round: Utah State vs. Villanova",
+      "description": "West Region first-round action begins as the Utah State Aggies face the Villanova Wildcats at Viejas Arena. MJ Collins Jr. leads Utah State, averaging 17.6 points per game, while Villanova looks to Tyler Perkins, who averages 13.7 points.",
       "channel_title": "TNT",
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-03-20T14:11:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lfRbwpgYGXc/hqdefault.jpg",
-      "duration": "PT2H13M39S",
-      "duration_seconds": 8019,
+      "published_at": "2026-03-21T08:22:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iXe3dJR5yb0/hqdefault.jpg",
+      "duration": "PT2H36M39S",
+      "duration_seconds": 9399,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=lfRbwpgYGXc"
+      "url": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
     },
     {
       "video_id": "aBlsrtxuwss",
@@ -257,9 +246,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 12900287,
-      "like_count": 575994,
-      "comment_count": 24576,
+      "view_count": 13036601,
+      "like_count": 578821,
+      "comment_count": 24672,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -271,21 +260,38 @@
       "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
     },
     {
-      "video_id": "L2snou1DpA0",
-      "title": "First Round: Texas vs. BYU",
-      "description": "The Cougars face the Longhorns in the NCAA West Region first round at the Moda Center. BYU has a strong non-conference record and looks to beat Texas. Texas enters fresh off a 68-66 win against NC State in the First Four on Mar. 17.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-20T15:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L2snou1DpA0/hqdefault.jpg",
-      "duration": "PT2H54M33S",
-      "duration_seconds": 10473,
+      "video_id": "feC0EOlmMMQ",
+      "title": "First Round: Hofstra vs. Alabama",
+      "description": "Benchmark International Arena hosts the Hofstra Pride and the Alabama Crimson Tide in a fiercely competitive NCAA Tournament first round game. This magnificent showdown features outstanding college basketball strategies and superb athleticism.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-03-21T07:57:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/feC0EOlmMMQ/hqdefault.jpg",
+      "duration": "PT2H12M50S",
+      "duration_seconds": 7970,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L2snou1DpA0"
+      "url": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
+    },
+    {
+      "video_id": "rzGbEfqxiJI",
+      "title": "First Round: Wright State vs. Virginia",
+      "description": "The Xfinity Mobile Arena beautifully frames the Wright State Raiders and the Virginia Cavaliers for this NCAA Men's Basketball Championship match. These marvelous programs look forward to deploying deeply analytical approaches to earn a triumph.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-03-21T05:27:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rzGbEfqxiJI/hqdefault.jpg",
+      "duration": "PT2H42M5S",
+      "duration_seconds": 9725,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rzGbEfqxiJI"
     },
     {
       "video_id": "VIt8Y-45Fos",
@@ -305,66 +311,38 @@
       "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
     },
     {
-      "video_id": "3_9vCamtuPY",
-      "title": "Dune: Part Three | Official Teaser Trailer",
-      "description": "Experience the epic conclusion. Dune: Part Three only in theaters December 18 #DuneMovie #FilmedforIMAX\n\nDirected by Denis Villeneuve and written by Villeneuve and Brian K. Vaughan, Dune: Part Three is based on the novel Dune Messiah by Frank Herbert and delivers the epic conclusion to Villeneuve’s trilogy. The film stars Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, with Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Javier Bardem, and features newcomers Nakoa-Wolf Momoa and Ida Brooke.",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-17T16:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 18134515,
-      "like_count": 548152,
-      "comment_count": 26508,
-      "category_id": "1",
-      "tags": [
-        "Action",
-        "Anya Taylor-Joy",
-        "Brian K Vaughan",
-        "Charlotte Rampling",
-        "Coming Soon",
-        "Denis Villeneuve",
-        "Dune",
-        "Dune Messiah",
-        "Dune: Part Three",
-        "Florence Pugh"
-      ],
-      "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
-    },
-    {
-      "video_id": "mXpyqeoMGdA",
-      "title": "First Round: Missouri State vs. Texas",
-      "description": "This Regional 3 in Fort Worth first round tie brings the Missouri State Lady Bears and Texas Longhorns to the Moody Center in Austin, Texas. Both highly ambitious college programs aim to dominate the hardwood and secure a ticket to advance on.",
+      "video_id": "vP2qc_yrP8I",
+      "title": "First Round: Jacksonville vs. LSU",
+      "description": "The Pete Maravich Assembly Center stages the Jacksonville Dolphins and the LSU Tigers in a crucial NCAA Tournament opening round matchup. These competitive athletic institutions hope to secure a vital victory to continue their magical journey.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-21T03:59:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mXpyqeoMGdA/hqdefault.jpg",
-      "duration": "PT1H40M50S",
-      "duration_seconds": 6050,
+      "published_at": "2026-03-21T06:24:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vP2qc_yrP8I/hqdefault.jpg",
+      "duration": "PT1H58M35S",
+      "duration_seconds": 7115,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=mXpyqeoMGdA"
+      "url": "https://www.youtube.com/watch?v=vP2qc_yrP8I"
     },
     {
-      "video_id": "QLfH0uvfTfk",
-      "title": "4.7 Seconds: For the Championship",
-      "description": "The riveting, pressure packed final moments of what many have described as the greatest ending in Final Four history.",
-      "channel_title": "truTV",
-      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
-      "published_at": "2026-03-21T04:33:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QLfH0uvfTfk/hqdefault.jpg",
-      "duration": "PT28M21S",
-      "duration_seconds": 1701,
+      "video_id": "TxOr339s_-c",
+      "title": "First Round: Holy Cross vs. Michigan",
+      "description": "The glorious Crisler Center gracefully illuminates the Holy Cross Crusaders and the Michigan Wolverines for an NCAA Women's Basketball Championship first round contest. These highly intellectual collegiate programs plan to demonstrate mastery.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-21T06:27:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TxOr339s_-c/hqdefault.jpg",
+      "duration": "PT1H45M6S",
+      "duration_seconds": 6306,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=QLfH0uvfTfk"
+      "url": "https://www.youtube.com/watch?v=TxOr339s_-c"
     },
     {
       "video_id": "YShjCIA9aXk",
@@ -376,8 +354,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 2349405,
-      "like_count": 107826,
+      "view_count": 2382357,
+      "like_count": 108335,
       "comment_count": 0,
       "category_id": "1",
       "tags": [
@@ -393,67 +371,96 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "overview": {
-          "total_videos": 9,
-          "total_views": 34452207,
-          "average_views_per_video": 3828023
-        },
-        "content_trends": {
-          "superhero_and_comic_book_content": {
-            "description": "Videos related to superhero content, particularly Spider-Man, show significant interest. Two videos focus on Spider-Man, one being a trailer breakdown and the other an official trailer.",
-            "insights": [
-              "Leverage the popularity of superhero content by creating breakdowns, reviews, or predictions related to upcoming superhero films.",
-              "Consider collaborations with known comic book analysts or enthusiasts to enhance content credibility and reach."
-            ]
+      "content_trends": {
+        "categories": [
+          {
+            "category": "Movie Trailers and Breakdowns",
+            "video_titles": [
+              "SPIDERMAN BRAND NEW DAY TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
+              "Spider-Man: Brand New Day - Official Trailer",
+              "Sonic the Hedgehog 4 | Title Reveal (2027 Movie) - Jim Carrey, Ben Schwartz, Kristen Bell"
+            ],
+            "insights": {
+              "trend": "High interest in movie-related content, particularly superhero and popular franchise trailers.",
+              "opportunity": "Increased engagement by creating deep-dive analyses or 'easter egg' breakdowns of popular trailers."
+            }
           },
-          "sports_and_competitions": {
-            "description": "Three videos focus on competitive sports matchups, indicating a consistent interest in sports-related content.",
-            "insights": [
-              "Capitalize on sporting events by offering live commentary, analysis, and post-match discussions.",
-              "Explore niche sports or lesser-known matchups to cater to underserved audiences."
-            ]
+          {
+            "category": "Sports Highlights",
+            "video_titles": [
+              "First Round: Utah State vs. Villanova",
+              "First Round: Hofstra vs. Alabama",
+              "First Round: Wright State vs. Virginia",
+              "First Round: Jacksonville vs. LSU",
+              "First Round: Holy Cross vs. Michigan"
+            ],
+            "insights": {
+              "trend": "Notable interest in sports highlights, specifically college basketball.",
+              "opportunity": "Potential to create highlight reels, player interviews, and game analysis content around college tournaments."
+            }
           },
-          "movie_and_entertainment_content": {
-            "description": "The presence of teaser trailers and title reveals, such as 'Dune: Part Three' and 'Sonic the Hedgehog 4', indicate strong engagement with upcoming movie content.",
-            "insights": [
-              "Create anticipation through speculative content or fan theories about upcoming movie releases.",
-              "Offer exclusive interviews or behind-the-scenes content to attract movie enthusiasts."
-            ]
+          {
+            "category": "General Entertainment",
+            "video_titles": [
+              "The Five"
+            ],
+            "insights": {
+              "trend": "Less clarity on this video's specific appeal without further metadata.",
+              "opportunity": "Investigate viewer demographics and engagement to tailor content strategies."
+            }
           }
-        },
-        "creator_patterns": {
-          "diversity_of_channels": {
-            "description": "The trending videos come from a variety of channels, each contributing one video to the trending list.",
-            "insights": [
-              "Encourage content diversification by exploring various genres and styles to attract a broader audience.",
-              "Consider cross-promotion with channels in different categories to increase visibility."
-            ]
+        ]
+      },
+      "creator_patterns": {
+        "top_channels": [
+          {
+            "channel_name": "New Rockstars",
+            "content_focus": "In-depth trailer breakdowns and analysis.",
+            "strategy": "Capitalize on detailed breakdowns of popular media."
           },
-          "notable_channels": {
-            "description": "Channels such as New Rockstars and PlayStation appear in the trending list, indicating their influence in entertainment and gaming niches.",
-            "insights": [
-              "Analyze successful content strategies employed by these channels, such as video format, length, and engagement tactics.",
-              "Identify potential collaboration opportunities or content partnerships with these influential channels to expand reach."
-            ]
-          }
-        },
-        "market_opportunities": {
-          "untapped_categories": {
-            "description": "With categories unspecified in the trends, there is an opportunity to explore and define trending categories that could further engage audiences.",
-            "insights": [
-              "Conduct audience surveys or use analytics tools to identify emerging interests and tailor content accordingly.",
-              "Experiment with emerging trends such as virtual reality content or interactive storytelling to capture early adopters."
-            ]
+          {
+            "channel_name": "TNT",
+            "content_focus": "Sports broadcasting.",
+            "strategy": "Leverage live event coverage and post-game highlights."
           },
-          "engagement_strategies": {
-            "description": "Given the high average views, there is potential to enhance viewer engagement and retention.",
-            "insights": [
-              "Implement interactive elements such as polls, Q&A sessions, or live streams to increase viewer participation.",
-              "Utilize data analytics to refine content strategies, focusing on peak engagement times and preferred content formats."
-            ]
+          {
+            "channel_name": "PlayStation",
+            "content_focus": "Gaming and entertainment.",
+            "strategy": "Utilize cross-promotional content with gaming and movie franchises."
+          },
+          {
+            "channel_name": "truTV",
+            "content_focus": "Variety entertainment.",
+            "strategy": "Broaden content offerings to include reality TV, comedy, and sports."
+          },
+          {
+            "channel_name": "Paramount Pictures",
+            "content_focus": "Film promotion.",
+            "strategy": "Engage audiences with exclusive trailers and behind-the-scenes content."
           }
-        }
+        ]
+      },
+      "market_opportunities": {
+        "emerging_trends": [
+          {
+            "trend": "Superhero and franchise films.",
+            "opportunity": "Develop partnerships with studios for exclusive content and early access previews."
+          },
+          {
+            "trend": "College sports.",
+            "opportunity": "Create dedicated sports analysis channels with a focus on college sports tournaments."
+          }
+        ],
+        "content_recommendations": [
+          {
+            "recommendation": "Expand into podcast-style content discussing trailers and sports events.",
+            "rationale": "Increased engagement through long-form discussions and analyses."
+          },
+          {
+            "recommendation": "Utilize interactive content formats such as polls and Q&A sessions related to trending videos.",
+            "rationale": "Enhance viewer engagement and foster community interaction."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -461,7 +468,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3828023
+        "avg_views_per_video": 1837194
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
