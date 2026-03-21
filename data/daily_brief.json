@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T09:14:20.404031",
+  "timestamp": "2026-03-21T12:16:44.033819",
   "date": "2026-03-21",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1115793,
-      "like_count": 42944,
-      "comment_count": 2437,
+      "view_count": 1148800,
+      "like_count": 43565,
+      "comment_count": 2476,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 13036601,
-      "like_count": 578821,
-      "comment_count": 24672,
+      "view_count": 13170610,
+      "like_count": 581364,
+      "comment_count": 24751,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -79,6 +79,23 @@
         "Sony"
       ],
       "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
+    },
+    {
+      "video_id": "NwazijLSpQ4",
+      "title": "First Round: Miami (Ohio) vs. Tennessee",
+      "description": "This Midwest Region first round battle features the Miami (OH) RedHawks and the Tennessee Volunteers colliding at the Xfinity Mobile Arena in Philadelphia, Pennsylvania. Both squads are eager to execute sharp plays and boldly advance onward.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-03-21T10:35:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NwazijLSpQ4/hqdefault.jpg",
+      "duration": "PT2H59M",
+      "duration_seconds": 10740,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NwazijLSpQ4"
     },
     {
       "video_id": "feC0EOlmMMQ",
@@ -98,53 +115,13 @@
       "url": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
     },
     {
-      "video_id": "YShjCIA9aXk",
-      "title": "Sonic the Hedgehog 4 | Title Reveal (2027 Movie) - Jim Carrey, Ben Schwartz, Kristen Bell",
-      "description": "The countdown to chaos has begun. 💎 #SonicMovie4 - only in theatres March 19, 2027.\n\nConnect with #SonicMovie4 online:\nOfficial Site: https://www.sonicthehedgehogmovie.com/\nInstagram: https://www.instagram.com/sonicmovie/\nTikTok: https://www.tiktok.com/@sonicmovie\nFacebook: https://www.facebook.com/sonicmovie/\nX: https://x.com/SonicMovie\nSnapchat: https://www.snapchat.com/@sonic3movie\n\nParamount Pictures Corporation (PPC), a global producer and distributor of filmed entertainment, is a unit of Paramount, a Skydance Corporation (NASDAQ: PSKY), a leading next-generation global media and entertainment company comprised of three business segments: Filmed Entertainment, Direct-to-Consumer, and TV Media. Paramount Pictures has some of the most powerful brands in filmed entertainment, including Paramount Pictures and Paramount Animation. PPC operations also include Paramount Home Entertainment, Paramount Pictures International, Paramount Licensing Inc., and Paramount Studio Group.\n\nConnect wi",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-03-19T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
-      "duration": "PT37S",
-      "duration_seconds": 37,
-      "view_count": 2382357,
-      "like_count": 108335,
-      "comment_count": 0,
-      "category_id": "1",
-      "tags": [
-        "sonic",
-        "sonic the hedgehog 4",
-        "sonic the hedgehog",
-        "Paramount pictures",
-        "Sega"
-      ],
-      "url": "https://www.youtube.com/watch?v=YShjCIA9aXk"
-    },
-    {
-      "video_id": "rzGbEfqxiJI",
-      "title": "First Round: Wright State vs. Virginia",
-      "description": "The Xfinity Mobile Arena beautifully frames the Wright State Raiders and the Virginia Cavaliers for this NCAA Men's Basketball Championship match. These marvelous programs look forward to deploying deeply analytical approaches to earn a triumph.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-21T05:27:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rzGbEfqxiJI/hqdefault.jpg",
-      "duration": "PT2H42M5S",
-      "duration_seconds": 9725,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rzGbEfqxiJI"
-    },
-    {
-      "video_id": "VIt8Y-45Fos",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "H2IJKn3oa74",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T04:11:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VIt8Y-45Fos/hqdefault.jpg",
+      "published_at": "2026-03-21T09:48:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H2IJKn3oa74/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -152,41 +129,58 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
+      "url": "https://www.youtube.com/watch?v=H2IJKn3oa74"
     },
     {
-      "video_id": "vP2qc_yrP8I",
-      "title": "First Round: Jacksonville vs. LSU",
-      "description": "The Pete Maravich Assembly Center stages the Jacksonville Dolphins and the LSU Tigers in a crucial NCAA Tournament opening round matchup. These competitive athletic institutions hope to secure a vital victory to continue their magical journey.",
+      "video_id": "fHBG618mVCQ",
+      "title": "First Round: Tennessee vs. NC State",
+      "description": "The glorious Crisler Center highlights the Tennessee Lady Volunteers and the NC State Wolfpack in this captivating NCAA Women's Basketball Championship opener. Both proud programs promise to display truly remarkable resilience and intelligence.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-21T06:24:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vP2qc_yrP8I/hqdefault.jpg",
-      "duration": "PT1H58M35S",
-      "duration_seconds": 7115,
+      "published_at": "2026-03-21T08:52:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fHBG618mVCQ/hqdefault.jpg",
+      "duration": "PT2H10M50S",
+      "duration_seconds": 7850,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vP2qc_yrP8I"
+      "url": "https://www.youtube.com/watch?v=fHBG618mVCQ"
     },
     {
-      "video_id": "TxOr339s_-c",
-      "title": "First Round: Holy Cross vs. Michigan",
-      "description": "The glorious Crisler Center gracefully illuminates the Holy Cross Crusaders and the Michigan Wolverines for an NCAA Women's Basketball Championship first round contest. These highly intellectual collegiate programs plan to demonstrate mastery.",
+      "video_id": "aTYuCHzcfj8",
+      "title": "NCAA Championships: Semifinals",
+      "description": "From Rocket Arena in Cleveland.",
       "channel_title": "ESPN2",
       "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-21T06:27:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TxOr339s_-c/hqdefault.jpg",
-      "duration": "PT1H45M6S",
-      "duration_seconds": 6306,
+      "published_at": "2026-03-21T09:45:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTYuCHzcfj8/hqdefault.jpg",
+      "duration": "PT3H30M5S",
+      "duration_seconds": 12605,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TxOr339s_-c"
+      "url": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
+    },
+    {
+      "video_id": "u64NgDuis6g",
+      "title": "Trim - Boat Remix (Feat. Pooh Shiesty) [Official Music Video]",
+      "description": "Boat Remix (Feat. Pooh Shiesty) out now: https://itsmstrim.lnk.to/boatremix",
+      "channel_title": "TrimOfficial",
+      "channel_id": "UC2W9lo4U_GirlhRnkKp4Gog",
+      "published_at": "2026-03-20T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u64NgDuis6g/hqdefault.jpg",
+      "duration": "PT2M56S",
+      "duration_seconds": 176,
+      "view_count": 122075,
+      "like_count": 4659,
+      "comment_count": 282,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=u64NgDuis6g"
     }
   ],
   "videos_with_transcripts": [],
@@ -201,9 +195,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1115793,
-      "like_count": 42944,
-      "comment_count": 2437,
+      "view_count": 1148800,
+      "like_count": 43565,
+      "comment_count": 2476,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -246,9 +240,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 13036601,
-      "like_count": 578821,
-      "comment_count": 24672,
+      "view_count": 13170610,
+      "like_count": 581364,
+      "comment_count": 24751,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -258,6 +252,23 @@
         "Sony"
       ],
       "url": "https://www.youtube.com/watch?v=aBlsrtxuwss"
+    },
+    {
+      "video_id": "NwazijLSpQ4",
+      "title": "First Round: Miami (Ohio) vs. Tennessee",
+      "description": "This Midwest Region first round battle features the Miami (OH) RedHawks and the Tennessee Volunteers colliding at the Xfinity Mobile Arena in Philadelphia, Pennsylvania. Both squads are eager to execute sharp plays and boldly advance onward.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-03-21T10:35:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NwazijLSpQ4/hqdefault.jpg",
+      "duration": "PT2H59M",
+      "duration_seconds": 10740,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NwazijLSpQ4"
     },
     {
       "video_id": "feC0EOlmMMQ",
@@ -277,30 +288,13 @@
       "url": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
     },
     {
-      "video_id": "rzGbEfqxiJI",
-      "title": "First Round: Wright State vs. Virginia",
-      "description": "The Xfinity Mobile Arena beautifully frames the Wright State Raiders and the Virginia Cavaliers for this NCAA Men's Basketball Championship match. These marvelous programs look forward to deploying deeply analytical approaches to earn a triumph.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-21T05:27:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rzGbEfqxiJI/hqdefault.jpg",
-      "duration": "PT2H42M5S",
-      "duration_seconds": 9725,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rzGbEfqxiJI"
-    },
-    {
-      "video_id": "VIt8Y-45Fos",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "H2IJKn3oa74",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T04:11:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VIt8Y-45Fos/hqdefault.jpg",
+      "published_at": "2026-03-21T09:48:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H2IJKn3oa74/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -308,159 +302,139 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=VIt8Y-45Fos"
+      "url": "https://www.youtube.com/watch?v=H2IJKn3oa74"
     },
     {
-      "video_id": "vP2qc_yrP8I",
-      "title": "First Round: Jacksonville vs. LSU",
-      "description": "The Pete Maravich Assembly Center stages the Jacksonville Dolphins and the LSU Tigers in a crucial NCAA Tournament opening round matchup. These competitive athletic institutions hope to secure a vital victory to continue their magical journey.",
+      "video_id": "fHBG618mVCQ",
+      "title": "First Round: Tennessee vs. NC State",
+      "description": "The glorious Crisler Center highlights the Tennessee Lady Volunteers and the NC State Wolfpack in this captivating NCAA Women's Basketball Championship opener. Both proud programs promise to display truly remarkable resilience and intelligence.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-21T06:24:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vP2qc_yrP8I/hqdefault.jpg",
-      "duration": "PT1H58M35S",
-      "duration_seconds": 7115,
+      "published_at": "2026-03-21T08:52:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fHBG618mVCQ/hqdefault.jpg",
+      "duration": "PT2H10M50S",
+      "duration_seconds": 7850,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vP2qc_yrP8I"
+      "url": "https://www.youtube.com/watch?v=fHBG618mVCQ"
     },
     {
-      "video_id": "TxOr339s_-c",
-      "title": "First Round: Holy Cross vs. Michigan",
-      "description": "The glorious Crisler Center gracefully illuminates the Holy Cross Crusaders and the Michigan Wolverines for an NCAA Women's Basketball Championship first round contest. These highly intellectual collegiate programs plan to demonstrate mastery.",
+      "video_id": "aTYuCHzcfj8",
+      "title": "NCAA Championships: Semifinals",
+      "description": "From Rocket Arena in Cleveland.",
       "channel_title": "ESPN2",
       "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-21T06:27:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TxOr339s_-c/hqdefault.jpg",
-      "duration": "PT1H45M6S",
-      "duration_seconds": 6306,
+      "published_at": "2026-03-21T09:45:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTYuCHzcfj8/hqdefault.jpg",
+      "duration": "PT3H30M5S",
+      "duration_seconds": 12605,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TxOr339s_-c"
+      "url": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
     },
     {
-      "video_id": "YShjCIA9aXk",
-      "title": "Sonic the Hedgehog 4 | Title Reveal (2027 Movie) - Jim Carrey, Ben Schwartz, Kristen Bell",
-      "description": "The countdown to chaos has begun. 💎 #SonicMovie4 - only in theatres March 19, 2027.\n\nConnect with #SonicMovie4 online:\nOfficial Site: https://www.sonicthehedgehogmovie.com/\nInstagram: https://www.instagram.com/sonicmovie/\nTikTok: https://www.tiktok.com/@sonicmovie\nFacebook: https://www.facebook.com/sonicmovie/\nX: https://x.com/SonicMovie\nSnapchat: https://www.snapchat.com/@sonic3movie\n\nParamount Pictures Corporation (PPC), a global producer and distributor of filmed entertainment, is a unit of Paramount, a Skydance Corporation (NASDAQ: PSKY), a leading next-generation global media and entertainment company comprised of three business segments: Filmed Entertainment, Direct-to-Consumer, and TV Media. Paramount Pictures has some of the most powerful brands in filmed entertainment, including Paramount Pictures and Paramount Animation. PPC operations also include Paramount Home Entertainment, Paramount Pictures International, Paramount Licensing Inc., and Paramount Studio Group.\n\nConnect wi",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-03-19T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YShjCIA9aXk/hqdefault.jpg",
-      "duration": "PT37S",
-      "duration_seconds": 37,
-      "view_count": 2382357,
-      "like_count": 108335,
-      "comment_count": 0,
-      "category_id": "1",
-      "tags": [
-        "sonic",
-        "sonic the hedgehog 4",
-        "sonic the hedgehog",
-        "Paramount pictures",
-        "Sega"
-      ],
-      "url": "https://www.youtube.com/watch?v=YShjCIA9aXk"
+      "video_id": "u64NgDuis6g",
+      "title": "Trim - Boat Remix (Feat. Pooh Shiesty) [Official Music Video]",
+      "description": "Boat Remix (Feat. Pooh Shiesty) out now: https://itsmstrim.lnk.to/boatremix",
+      "channel_title": "TrimOfficial",
+      "channel_id": "UC2W9lo4U_GirlhRnkKp4Gog",
+      "published_at": "2026-03-20T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u64NgDuis6g/hqdefault.jpg",
+      "duration": "PT2M56S",
+      "duration_seconds": 176,
+      "view_count": 122075,
+      "like_count": 4659,
+      "comment_count": 282,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=u64NgDuis6g"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "categories": [
-          {
-            "category": "Movie Trailers and Breakdowns",
-            "video_titles": [
-              "SPIDERMAN BRAND NEW DAY TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
-              "Spider-Man: Brand New Day - Official Trailer",
-              "Sonic the Hedgehog 4 | Title Reveal (2027 Movie) - Jim Carrey, Ben Schwartz, Kristen Bell"
-            ],
-            "insights": {
-              "trend": "High interest in movie-related content, particularly superhero and popular franchise trailers.",
-              "opportunity": "Increased engagement by creating deep-dive analyses or 'easter egg' breakdowns of popular trailers."
-            }
+        "sports_dominance": {
+          "description": "A significant portion of the trending videos are sports-related, specifically focusing on NCAA tournament matchups.",
+          "data": {
+            "sports_videos": 5,
+            "total_videos": 9,
+            "percentage": 55.56
           },
-          {
-            "category": "Sports Highlights",
-            "video_titles": [
-              "First Round: Utah State vs. Villanova",
-              "First Round: Hofstra vs. Alabama",
-              "First Round: Wright State vs. Virginia",
-              "First Round: Jacksonville vs. LSU",
-              "First Round: Holy Cross vs. Michigan"
-            ],
-            "insights": {
-              "trend": "Notable interest in sports highlights, specifically college basketball.",
-              "opportunity": "Potential to create highlight reels, player interviews, and game analysis content around college tournaments."
-            }
+          "insight": "There is a strong interest in sports content, particularly NCAA basketball tournaments, indicating a high demand for sports highlights, analyses, and related content during tournament seasons."
+        },
+        "entertainment_and_analysis": {
+          "description": "Entertainment content, particularly focused on popular franchises like Spider-Man, is also trending.",
+          "data": {
+            "entertainment_videos": 3,
+            "total_videos": 9,
+            "percentage": 33.33
           },
-          {
-            "category": "General Entertainment",
-            "video_titles": [
-              "The Five"
-            ],
-            "insights": {
-              "trend": "Less clarity on this video's specific appeal without further metadata.",
-              "opportunity": "Investigate viewer demographics and engagement to tailor content strategies."
-            }
-          }
-        ]
+          "insight": "Breakdowns and analyses of popular movie trailers, such as Spider-Man, attract significant viewership, suggesting an opportunity for detailed content that explores popular culture in depth."
+        },
+        "music_trend": {
+          "description": "Music content is also present, though less dominant.",
+          "data": {
+            "music_videos": 1,
+            "total_videos": 9,
+            "percentage": 11.11
+          },
+          "insight": "While music content is not the majority, the presence of a music video in the trending list suggests potential for niche musical content to capture audience interest if creatively marketed."
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "New Rockstars",
-            "content_focus": "In-depth trailer breakdowns and analysis.",
-            "strategy": "Capitalize on detailed breakdowns of popular media."
+        "diverse_channel_sources": {
+          "description": "The trending videos are sourced from a variety of channels, each contributing one video.",
+          "data": {
+            "unique_channels": 5,
+            "total_videos": 9
           },
-          {
-            "channel_name": "TNT",
-            "content_focus": "Sports broadcasting.",
-            "strategy": "Leverage live event coverage and post-game highlights."
+          "insight": "Content from multiple channels is trending, indicating no single dominant creator. This suggests an opportunity for new creators to enter the trending space if they can produce high-quality and timely content."
+        },
+        "channel_specialization": {
+          "description": "Channels appear to focus on specific niches, such as sports, entertainment analysis, or music.",
+          "data": {
+            "sports_channels": [
+              "TNT",
+              "TBS",
+              "truTV"
+            ],
+            "entertainment_channels": [
+              "New Rockstars",
+              "PlayStation"
+            ]
           },
-          {
-            "channel_name": "PlayStation",
-            "content_focus": "Gaming and entertainment.",
-            "strategy": "Utilize cross-promotional content with gaming and movie franchises."
-          },
-          {
-            "channel_name": "truTV",
-            "content_focus": "Variety entertainment.",
-            "strategy": "Broaden content offerings to include reality TV, comedy, and sports."
-          },
-          {
-            "channel_name": "Paramount Pictures",
-            "content_focus": "Film promotion.",
-            "strategy": "Engage audiences with exclusive trailers and behind-the-scenes content."
-          }
-        ]
+          "insight": "Specialization in specific content niches can help channels attract a dedicated audience and achieve trending status."
+        }
       },
       "market_opportunities": {
-        "emerging_trends": [
-          {
-            "trend": "Superhero and franchise films.",
-            "opportunity": "Develop partnerships with studios for exclusive content and early access previews."
-          },
-          {
-            "trend": "College sports.",
-            "opportunity": "Create dedicated sports analysis channels with a focus on college sports tournaments."
-          }
-        ],
-        "content_recommendations": [
-          {
-            "recommendation": "Expand into podcast-style content discussing trailers and sports events.",
-            "rationale": "Increased engagement through long-form discussions and analyses."
-          },
-          {
-            "recommendation": "Utilize interactive content formats such as polls and Q&A sessions related to trending videos.",
-            "rationale": "Enhance viewer engagement and foster community interaction."
-          }
-        ]
+        "sports_event_coverage": {
+          "opportunity": "Capitalize on high engagement during sports seasons by providing live coverage, highlights, and expert analyses.",
+          "actionable_steps": [
+            "Create content calendars aligned with major sports events.",
+            "Collaborate with sports analysts to provide in-depth game analyses."
+          ]
+        },
+        "pop_culture_analysis": {
+          "opportunity": "Develop detailed analyses and Easter egg breakdowns for popular movies and games to attract fans seeking deeper insights.",
+          "actionable_steps": [
+            "Focus on upcoming blockbuster releases and create content around teasers and trailers.",
+            "Engage with communities on social media to promote content."
+          ]
+        },
+        "music video innovation": {
+          "opportunity": "Explore creative and unique music video productions to stand out in a competitive market.",
+          "actionable_steps": [
+            "Collaborate with emerging artists to produce visually innovative music videos.",
+            "Utilize social media platforms to build anticipation and release teasers."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -468,7 +442,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1837194
+        "avg_views_per_video": 1604609
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
