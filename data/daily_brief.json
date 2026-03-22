@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-21T21:11:11.207274",
-  "date": "2026-03-21",
+  "timestamp": "2026-03-22T00:47:59.873570",
+  "date": "2026-03-22",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 6,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1284277,
-      "like_count": 47282,
-      "comment_count": 2613,
+      "view_count": 1337654,
+      "like_count": 48449,
+      "comment_count": 2666,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W5f2gGSPJPs/hqdefault.jpg",
       "duration": "PT16M43S",
       "duration_seconds": 1003,
-      "view_count": 118836,
-      "like_count": 4230,
-      "comment_count": 483,
+      "view_count": 164665,
+      "like_count": 5268,
+      "comment_count": 595,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 13624227,
-      "like_count": 590398,
-      "comment_count": 25103,
+      "view_count": 13769182,
+      "like_count": 592738,
+      "comment_count": 25186,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -133,8 +133,8 @@
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
       "published_at": "2026-03-21T13:53:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ExyhanSH2ow/hqdefault.jpg",
-      "duration": "PT2H14M14S",
-      "duration_seconds": 8054,
+      "duration": "PT2H14M9S",
+      "duration_seconds": 8049,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -152,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Is5IswM87EQ/hqdefault.jpg",
       "duration": "PT21M22S",
       "duration_seconds": 1282,
-      "view_count": 1729473,
-      "like_count": 121836,
-      "comment_count": 4239,
+      "view_count": 2252565,
+      "like_count": 136172,
+      "comment_count": 5725,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -171,38 +171,38 @@
       "url": "https://www.youtube.com/watch?v=Is5IswM87EQ"
     },
     {
-      "video_id": "mVe5lSEwkuc",
+      "video_id": "Ed7YYofvKCw",
+      "title": "College GameDay",
+      "description": "ESPN's top College Basketball analysts cover all the angles in men's college basketball with game previews, exclusive interviews, analysis, behind-the-scenes features and daring predictions.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-21T22:11:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ed7YYofvKCw/hqdefault.jpg",
+      "duration": "PT1H11S",
+      "duration_seconds": 3611,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Ed7YYofvKCw"
+    },
+    {
+      "video_id": "JlH4lt0Ma44",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T18:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mVe5lSEwkuc/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-03-21T21:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JlH4lt0Ma44/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=mVe5lSEwkuc"
-    },
-    {
-      "video_id": "8m-LZyRBwNg",
-      "title": "First Round: Iowa vs. Clemson",
-      "description": "Benchmark International Arena sets a pristine stage for the Iowa Hawkeyes and the Clemson Tigers in the NCAA Men's Basketball Championship. These two heavily prepared squads promise to orchestrate highly complex actions throughout the game.",
-      "channel_title": "TNT",
-      "channel_id": "UC-9kbVVBMGAJTcmxKEUanAg",
-      "published_at": "2026-03-21T12:19:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8m-LZyRBwNg/hqdefault.jpg",
-      "duration": "PT2H53M2S",
-      "duration_seconds": 10382,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
+      "url": "https://www.youtube.com/watch?v=JlH4lt0Ma44"
     }
   ],
   "videos_with_transcripts": [],
@@ -217,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbTo7I9M6kM/hqdefault.jpg",
       "duration": "PT48M24S",
       "duration_seconds": 2904,
-      "view_count": 1284277,
-      "like_count": 47282,
-      "comment_count": 2613,
+      "view_count": 1337654,
+      "like_count": 48449,
+      "comment_count": 2666,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -262,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W5f2gGSPJPs/hqdefault.jpg",
       "duration": "PT16M43S",
       "duration_seconds": 1003,
-      "view_count": 118836,
-      "like_count": 4230,
-      "comment_count": 483,
+      "view_count": 164665,
+      "like_count": 5268,
+      "comment_count": 595,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -307,9 +307,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
       "duration": "PT2M38S",
       "duration_seconds": 158,
-      "view_count": 13624227,
-      "like_count": 590398,
-      "comment_count": 25103,
+      "view_count": 13769182,
+      "like_count": 592738,
+      "comment_count": 25186,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -328,8 +328,8 @@
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
       "published_at": "2026-03-21T13:53:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ExyhanSH2ow/hqdefault.jpg",
-      "duration": "PT2H14M14S",
-      "duration_seconds": 8054,
+      "duration": "PT2H14M9S",
+      "duration_seconds": 8049,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -347,9 +347,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Is5IswM87EQ/hqdefault.jpg",
       "duration": "PT21M22S",
       "duration_seconds": 1282,
-      "view_count": 1729473,
-      "like_count": 121836,
-      "comment_count": 4239,
+      "view_count": 2252565,
+      "like_count": 136172,
+      "comment_count": 5725,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -366,121 +366,123 @@
       "url": "https://www.youtube.com/watch?v=Is5IswM87EQ"
     },
     {
-      "video_id": "mVe5lSEwkuc",
+      "video_id": "Ed7YYofvKCw",
+      "title": "College GameDay",
+      "description": "ESPN's top College Basketball analysts cover all the angles in men's college basketball with game previews, exclusive interviews, analysis, behind-the-scenes features and daring predictions.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-21T22:11:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ed7YYofvKCw/hqdefault.jpg",
+      "duration": "PT1H11S",
+      "duration_seconds": 3611,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Ed7YYofvKCw"
+    },
+    {
+      "video_id": "JlH4lt0Ma44",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-21T18:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mVe5lSEwkuc/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-03-21T21:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JlH4lt0Ma44/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=mVe5lSEwkuc"
-    },
-    {
-      "video_id": "8m-LZyRBwNg",
-      "title": "First Round: Iowa vs. Clemson",
-      "description": "Benchmark International Arena sets a pristine stage for the Iowa Hawkeyes and the Clemson Tigers in the NCAA Men's Basketball Championship. These two heavily prepared squads promise to orchestrate highly complex actions throughout the game.",
-      "channel_title": "TNT",
-      "channel_id": "UC-9kbVVBMGAJTcmxKEUanAg",
-      "published_at": "2026-03-21T12:19:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8m-LZyRBwNg/hqdefault.jpg",
-      "duration": "PT2H53M2S",
-      "duration_seconds": 10382,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
+      "url": "https://www.youtube.com/watch?v=JlH4lt0Ma44"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "theme_analysis": {
-          "superhero_content": {
-            "description": "Superhero-themed content, particularly related to Spider-Man, is prominent.",
-            "videos": [
-              "SPIDERMAN BRAND NEW DAY TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
-              "The Hulk Just Doomed All Mutants - Spider-Man Trailer Missed Easter Egg",
-              "Spider-Man: Brand New Day - Official Trailer"
-            ],
-            "insights": "Content related to superhero trailers and analysis, especially involving Easter eggs, is popular and engages a large audience."
+      "overview": {
+        "total_videos": 9,
+        "total_views": 17524066,
+        "average_views_per_video": 1947118
+      },
+      "trending_patterns": {
+        "video_themes": [
+          {
+            "theme": "Spider-Man",
+            "count": 3,
+            "likely_interest": "High interest in Spider-Man related content, especially around new trailers and Easter eggs."
           },
-          "sports_content": {
-            "description": "Sports-related content, especially focused on basketball first-round games, is trending.",
-            "videos": [
-              "First Round: Furman vs. UConn",
-              "First Round: Missouri vs. Miami",
-              "First Round: Prairie View A&M vs. Florida",
-              "First Round: Iowa vs. Clemson"
-            ],
-            "insights": "There is a significant interest in basketball games, indicating a spike in viewership during tournament times."
+          {
+            "theme": "Sports",
+            "count": 3,
+            "likely_interest": "Significant interest in college sports, particularly first round matches."
+          },
+          {
+            "theme": "Gaming",
+            "count": 1,
+            "likely_interest": "Interest in gaming events, such as Minecraft LIVE."
+          },
+          {
+            "theme": "News/Entertainment",
+            "count": 2,
+            "likely_interest": "Ongoing interest in current events and entertainment news."
           }
-        },
-        "live_streaming": {
-          "description": "Live streaming events continue to attract viewers.",
-          "videos": [
-            "Minecraft LIVE - March 2026"
-          ],
-          "insights": "Live streaming events, particularly for popular games like Minecraft, draw significant attention and can be leveraged for real-time engagement."
-        },
-        "news_and_talk_shows": {
-          "description": "News and talk shows maintain a steady viewership.",
-          "videos": [
-            "Fox & Friends Weekend"
-          ],
-          "insights": "Regular programming such as news and talk shows have a consistent audience, which can be tapped into for steady engagement."
-        }
+        ],
+        "most_viewed_category": "Spider-Man themed videos are likely to have higher viewership due to multiple entries and the average view count."
       },
       "creator_patterns": {
-        "top_channels_analysis": {
-          "TNT": {
+        "top_channels": [
+          {
+            "channel": "New Rockstars",
+            "video_count": 1,
+            "focus": "Easter eggs and trailer breakdowns, particularly for popular franchises like Spider-Man."
+          },
+          {
+            "channel": "ScreenCrush",
+            "video_count": 1,
+            "focus": "Similar to New Rockstars, with a focus on missed details in popular media."
+          },
+          {
+            "channel": "Sports Channels (TBS, truTV)",
             "video_count": 2,
-            "insights": "TNT's presence with multiple videos indicates a strong engagement in sports content, likely leveraging its broadcasting rights."
+            "focus": "Broadcasting and analysis of college sports events."
           },
-          "New Rockstars": {
+          {
+            "channel": "PlayStation",
             "video_count": 1,
-            "insights": "Known for in-depth analysis, New Rockstars' focus on trailer breakdowns aligns with the trend of detailed superhero content."
-          },
-          "TBS": {
-            "video_count": 1,
-            "insights": "TBS's involvement suggests a strategy towards diversifying content along with sports, possibly to capture a varied audience."
-          },
-          "ScreenCrush": {
-            "video_count": 1,
-            "insights": "ScreenCrush's content aligns with the growing trend of superhero analysis, targeting fans interested in detailed Easter egg explorations."
-          },
-          "truTV": {
-            "video_count": 1,
-            "insights": "truTV's participation in trending content indicates a strategy to capitalize on sports-related viewership during peak basketball seasons."
+            "focus": "Gaming events like Minecraft LIVE, likely targeting gamer audiences."
           }
-        }
+        ],
+        "content_strategy": "Focusing on niche but popular themes (e.g., superhero content, sports events) can lead to higher engagement."
       },
       "market_opportunities": {
-        "superhero_content": {
-          "opportunity": "Create detailed analysis and Easter egg content around upcoming superhero movies and trailers.",
-          "rationale": "The high engagement with superhero content suggests a strong viewer base interested in deep dives and hidden details."
-        },
-        "sports_broadcasting": {
-          "opportunity": "Expand live coverage and highlights of sports events, particularly during major tournaments.",
-          "rationale": "The consistent trend of sports content indicates robust viewer interest during tournament times, presenting opportunities for advertising and engagement."
-        },
-        "live_streaming_events": {
-          "opportunity": "Host live streaming events for popular games and interactive sessions with creators.",
-          "rationale": "The success of Minecraft LIVE suggests a market for real-time engagement and interactive content."
-        },
-        "cross-channel collaborations": {
-          "opportunity": "Channels can collaborate on crossover content to capture diverse audience segments.",
-          "rationale": "Collaborations can leverage the strengths of different channels (e.g., sports, superhero analysis) to create unique content appealing to broader audiences."
-        }
+        "emerging_trends": [
+          {
+            "trend": "Superhero Content",
+            "opportunity": "Create more in-depth analysis and Easter egg content for superhero movies and trailers."
+          },
+          {
+            "trend": "College Sports",
+            "opportunity": "Develop content around college sports, focusing on analysis, predictions, and highlights."
+          },
+          {
+            "trend": "Gaming Events",
+            "opportunity": "Produce content around major gaming events, with live reactions, gameplay analysis, and expert commentary."
+          }
+        ],
+        "untapped_areas": [
+          {
+            "area": "Cross-category Content",
+            "suggestion": "Explore crossovers between popular themes, like sports and gaming or superheroes and current events."
+          },
+          {
+            "area": "Personalized Content",
+            "suggestion": "Create personalized content strategies targeting niche audiences within these popular themes for engagement."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -488,7 +490,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1861868
+        "avg_views_per_video": 1947118
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
