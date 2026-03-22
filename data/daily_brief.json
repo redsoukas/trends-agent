@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-22T18:15:26.096586",
+  "timestamp": "2026-03-22T21:12:15.470266",
   "date": "2026-03-22",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/krh98HsMk5c/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 210429,
-      "like_count": 14842,
-      "comment_count": 1342,
+      "view_count": 333497,
+      "like_count": 17524,
+      "comment_count": 1549,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
       "duration": "PT7M52S",
       "duration_seconds": 472,
-      "view_count": 78024,
-      "like_count": 6156,
-      "comment_count": 568,
+      "view_count": 117223,
+      "like_count": 7468,
+      "comment_count": 671,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mLGruVR6VkM/hqdefault.jpg",
       "duration": "PT1M35S",
       "duration_seconds": 95,
-      "view_count": 59169,
-      "like_count": 4731,
-      "comment_count": 430,
+      "view_count": 75752,
+      "like_count": 5264,
+      "comment_count": 451,
       "category_id": "20",
       "tags": [
         "Arc System Works",
@@ -129,6 +129,40 @@
         "RWBY"
       ],
       "url": "https://www.youtube.com/watch?v=mLGruVR6VkM"
+    },
+    {
+      "video_id": "dx_w95zlwv8",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-22T19:14:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dx_w95zlwv8/hqdefault.jpg",
+      "duration": "PT1H1M10S",
+      "duration_seconds": 3670,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=dx_w95zlwv8"
+    },
+    {
+      "video_id": "LzldFURrz1I",
+      "title": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #1 [Jam] Trailer",
+      "description": "■Official website: https://www.guiltygear.com/ggst/en/\nGUILTY GEAR : the next entry to the series\n\n■GUILTY GEAR Official X\nhttps://x.com/GUILTYGEAR_PR\n\n■The fate of the universe will be determined...\nThe story of Guilty Gear, spanning over 25 years, will finally come to a conclusion in “GUILTY GEAR -STRIVE-.\" The trials and tribulations of the series’ heroes and villains will finally be resolved. Discover the astonishing truth awaiting at the end of all things.\n\nCheck out the play style of the first character in Season Pass 5, Jam, in this trailer.\n\n■Buy now!\nhttps://www.guiltygear.com/ggst/en/buynow/\n\n© ARC SYSTEM WORKS\n\n#GGST #GUILTYGEAR #Jam",
+      "channel_title": "arcsystemworks",
+      "channel_id": "UClqUSY9SshvuFja6yNXp4nQ",
+      "published_at": "2026-03-22T11:31:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LzldFURrz1I/hqdefault.jpg",
+      "duration": "PT1M44S",
+      "duration_seconds": 104,
+      "view_count": 202472,
+      "like_count": 13713,
+      "comment_count": 1033,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LzldFURrz1I"
     },
     {
       "video_id": "fgZrlDNWb5g",
@@ -148,21 +182,31 @@
       "url": "https://www.youtube.com/watch?v=fgZrlDNWb5g"
     },
     {
-      "video_id": "LzldFURrz1I",
-      "title": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #1 [Jam] Trailer",
-      "description": "■Official website: https://www.guiltygear.com/ggst/en/\nGUILTY GEAR : the next entry to the series\n\n■GUILTY GEAR Official X\nhttps://x.com/GUILTYGEAR_PR\n\n■The fate of the universe will be determined...\nThe story of Guilty Gear, spanning over 25 years, will finally come to a conclusion in “GUILTY GEAR -STRIVE-.\" The trials and tribulations of the series’ heroes and villains will finally be resolved. Discover the astonishing truth awaiting at the end of all things.\n\nCheck out the play style of the first character in Season Pass 5, Jam, in this trailer.\n\n■Buy now!\nhttps://www.guiltygear.com/ggst/en/buynow/\n\n© ARC SYSTEM WORKS\n\n#GGST #GUILTYGEAR #Jam",
-      "channel_title": "arcsystemworks",
-      "channel_id": "UClqUSY9SshvuFja6yNXp4nQ",
-      "published_at": "2026-03-22T11:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LzldFURrz1I/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 145886,
-      "like_count": 11506,
-      "comment_count": 867,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LzldFURrz1I"
+      "video_id": "yg2VYUUw44U",
+      "title": "We’re Pretty Sure DAREDEVIL Is In Spider-Man Brand New Day | Sneak Peek",
+      "description": "Spider-Man Brand New Day Trailer… WHERE WAS DAREDEVIL? (He was hiding.) Get up to 10 FREE meals and a free item for life at https://HelloFresh.com/newrockstars10fm !\nGo to https://www.zocdoc.com/SNEAK to find and instantly book a doctor you love today!\nBook your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nWelcome back to the Sneak Peek! This week, no duh, we’re talking about the Spider-Man Brand New Day trailer, and why we’re pretty sure Charlie Cox IS gonna be in the movie as Matt Murdock Daredevil. Erik Voss and Jessica Clemons react to Charlie Cox’s interview with Jimmy Kimmel and play a fun game of actor werewolf!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@Deep",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-22T15:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yg2VYUUw44U/hqdefault.jpg",
+      "duration": "PT53M20S",
+      "duration_seconds": 3200,
+      "view_count": 44421,
+      "like_count": 2351,
+      "comment_count": 285,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "spider-man brand new day",
+        "daredevil",
+        "charlie cox",
+        "matt murdock",
+        "daredevil born again",
+        "spider-man daredevil"
+      ],
+      "url": "https://www.youtube.com/watch?v=yg2VYUUw44U"
     },
     {
       "video_id": "e8HrHe6lDSk",
@@ -180,23 +224,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e8HrHe6lDSk"
-    },
-    {
-      "video_id": "1M2MhLNVudU",
-      "title": "First Round: Syracuse vs. Iowa State",
-      "description": "The No. 8 Iowa State Cyclones play the No. 9 Syracuse Orange in the first round of the 2026 NCAA Women's Basketball Tournament. This Round of 64 matchup in the Fort Worth Regional 1 takes place at Gampel Pavilion in Storrs, Connecticut.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-22T05:36:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1M2MhLNVudU/hqdefault.jpg",
-      "duration": "PT1H38M1S",
-      "duration_seconds": 5881,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1M2MhLNVudU"
     }
   ],
   "videos_with_transcripts": [],
@@ -211,9 +238,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/krh98HsMk5c/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 210429,
-      "like_count": 14842,
-      "comment_count": 1342,
+      "view_count": 333497,
+      "like_count": 17524,
+      "comment_count": 1549,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -256,9 +283,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
       "duration": "PT7M52S",
       "duration_seconds": 472,
-      "view_count": 78024,
-      "like_count": 6156,
-      "comment_count": 568,
+      "view_count": 117223,
+      "like_count": 7468,
+      "comment_count": 671,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -301,9 +328,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mLGruVR6VkM/hqdefault.jpg",
       "duration": "PT1M35S",
       "duration_seconds": 95,
-      "view_count": 59169,
-      "like_count": 4731,
-      "comment_count": 430,
+      "view_count": 75752,
+      "like_count": 5264,
+      "comment_count": 451,
       "category_id": "20",
       "tags": [
         "Arc System Works",
@@ -318,6 +345,40 @@
         "RWBY"
       ],
       "url": "https://www.youtube.com/watch?v=mLGruVR6VkM"
+    },
+    {
+      "video_id": "dx_w95zlwv8",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-22T19:14:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dx_w95zlwv8/hqdefault.jpg",
+      "duration": "PT1H1M10S",
+      "duration_seconds": 3670,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=dx_w95zlwv8"
+    },
+    {
+      "video_id": "LzldFURrz1I",
+      "title": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #1 [Jam] Trailer",
+      "description": "■Official website: https://www.guiltygear.com/ggst/en/\nGUILTY GEAR : the next entry to the series\n\n■GUILTY GEAR Official X\nhttps://x.com/GUILTYGEAR_PR\n\n■The fate of the universe will be determined...\nThe story of Guilty Gear, spanning over 25 years, will finally come to a conclusion in “GUILTY GEAR -STRIVE-.\" The trials and tribulations of the series’ heroes and villains will finally be resolved. Discover the astonishing truth awaiting at the end of all things.\n\nCheck out the play style of the first character in Season Pass 5, Jam, in this trailer.\n\n■Buy now!\nhttps://www.guiltygear.com/ggst/en/buynow/\n\n© ARC SYSTEM WORKS\n\n#GGST #GUILTYGEAR #Jam",
+      "channel_title": "arcsystemworks",
+      "channel_id": "UClqUSY9SshvuFja6yNXp4nQ",
+      "published_at": "2026-03-22T11:31:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LzldFURrz1I/hqdefault.jpg",
+      "duration": "PT1M44S",
+      "duration_seconds": 104,
+      "view_count": 202472,
+      "like_count": 13713,
+      "comment_count": 1033,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LzldFURrz1I"
     },
     {
       "video_id": "fgZrlDNWb5g",
@@ -337,21 +398,31 @@
       "url": "https://www.youtube.com/watch?v=fgZrlDNWb5g"
     },
     {
-      "video_id": "LzldFURrz1I",
-      "title": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #1 [Jam] Trailer",
-      "description": "■Official website: https://www.guiltygear.com/ggst/en/\nGUILTY GEAR : the next entry to the series\n\n■GUILTY GEAR Official X\nhttps://x.com/GUILTYGEAR_PR\n\n■The fate of the universe will be determined...\nThe story of Guilty Gear, spanning over 25 years, will finally come to a conclusion in “GUILTY GEAR -STRIVE-.\" The trials and tribulations of the series’ heroes and villains will finally be resolved. Discover the astonishing truth awaiting at the end of all things.\n\nCheck out the play style of the first character in Season Pass 5, Jam, in this trailer.\n\n■Buy now!\nhttps://www.guiltygear.com/ggst/en/buynow/\n\n© ARC SYSTEM WORKS\n\n#GGST #GUILTYGEAR #Jam",
-      "channel_title": "arcsystemworks",
-      "channel_id": "UClqUSY9SshvuFja6yNXp4nQ",
-      "published_at": "2026-03-22T11:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LzldFURrz1I/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 145886,
-      "like_count": 11506,
-      "comment_count": 867,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LzldFURrz1I"
+      "video_id": "yg2VYUUw44U",
+      "title": "We’re Pretty Sure DAREDEVIL Is In Spider-Man Brand New Day | Sneak Peek",
+      "description": "Spider-Man Brand New Day Trailer… WHERE WAS DAREDEVIL? (He was hiding.) Get up to 10 FREE meals and a free item for life at https://HelloFresh.com/newrockstars10fm !\nGo to https://www.zocdoc.com/SNEAK to find and instantly book a doctor you love today!\nBook your trip to Yaamava’ Resort & Casino (and find out how to win a sealed copy of a rare NES Mario Cartridge worth $160k) at https://www.Yaamava.com/NewRockstars !\n\nWelcome back to the Sneak Peek! This week, no duh, we’re talking about the Spider-Man Brand New Day trailer, and why we’re pretty sure Charlie Cox IS gonna be in the movie as Matt Murdock Daredevil. Erik Voss and Jessica Clemons react to Charlie Cox’s interview with Jimmy Kimmel and play a fun game of actor werewolf!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@Deep",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-22T15:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yg2VYUUw44U/hqdefault.jpg",
+      "duration": "PT53M20S",
+      "duration_seconds": 3200,
+      "view_count": 44421,
+      "like_count": 2351,
+      "comment_count": 285,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "spider-man brand new day",
+        "daredevil",
+        "charlie cox",
+        "matt murdock",
+        "daredevil born again",
+        "spider-man daredevil"
+      ],
+      "url": "https://www.youtube.com/watch?v=yg2VYUUw44U"
     },
     {
       "video_id": "e8HrHe6lDSk",
@@ -369,69 +440,74 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e8HrHe6lDSk"
-    },
-    {
-      "video_id": "1M2MhLNVudU",
-      "title": "First Round: Syracuse vs. Iowa State",
-      "description": "The No. 8 Iowa State Cyclones play the No. 9 Syracuse Orange in the first round of the 2026 NCAA Women's Basketball Tournament. This Round of 64 matchup in the Fort Worth Regional 1 takes place at Gampel Pavilion in Storrs, Connecticut.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-22T05:36:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1M2MhLNVudU/hqdefault.jpg",
-      "duration": "PT1H38M1S",
-      "duration_seconds": 5881,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1M2MhLNVudU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 773365,
+        "average_views_per_video": 77336.5
+      },
       "content_trends": {
-        "gaming_focus": {
-          "observation": "The presence of multiple gaming-related videos, including trailers and game updates, suggests a strong interest in gaming content.",
-          "insight": "Gaming content, especially related to popular franchises like Marvel and Guilty Gear, is trending. This indicates a robust audience for gaming trailers and updates."
+        "gaming": {
+          "description": "Gaming-related content, specifically trailers and updates for popular games (e.g., Marvel, Guilty Gear), is prominent.",
+          "number_of_videos": 4,
+          "percentage_of_total_videos": 40,
+          "key_audience": "Gamers, PlayStation and PC users, fighting game enthusiasts"
         },
-        "sports_content": {
-          "observation": "Several videos pertain to sports events, particularly NCAA games, indicating an interest in sports content.",
-          "insight": "Sports-related content, especially collegiate events, remains a significant draw. Channels focusing on sports highlights and recaps can capitalize on this trend."
+        "sports": {
+          "description": "Sports events, particularly focusing on college sports championships.",
+          "number_of_videos": 4,
+          "percentage_of_total_videos": 40,
+          "key_audience": "College sports fans, NCAA followers"
+        },
+        "general_entertainment": {
+          "description": "General entertainment content including news and television show sneak peeks.",
+          "number_of_videos": 2,
+          "percentage_of_total_videos": 20,
+          "key_audience": "General audience, fans of Marvel and TV shows"
         }
       },
       "creator_patterns": {
-        "diverse_channels": {
-          "observation": "Top channels include PlayStation, TBS, Maximilian Dood, TNT, and Arc System Works America, indicating a mix of gaming and sports content.",
-          "insight": "There is a diverse range of content from different channels, suggesting that both niche and mainstream content creators can find success by tapping into trending themes like gaming and sports."
+        "diversity_of_channels": {
+          "description": "The trending videos are spread across a variety of channels, each contributing uniquely to the trending list.",
+          "total_channels": 5,
+          "average_videos_per_channel": 2
         },
-        "single_upload": {
-          "observation": "Each top channel is represented by a single video in the trending list.",
-          "insight": "Consistency and quality over quantity may be key to achieving trending status, as channels with fewer but impactful uploads are trending."
+        "notable_channels": {
+          "PlayStation": {
+            "impact": "Leveraging popular gaming titles to capture audience interest.",
+            "strategy": "Focus on high-quality trailer releases for upcoming games."
+          },
+          "Maximilian Dood": {
+            "impact": "Personal reactions to gaming updates, engaging with niche gaming communities.",
+            "strategy": "Reacting to game updates and sharing insights, targeting engaged gaming fans."
+          }
         }
       },
       "market_opportunities": {
-        "cross-promotion": {
-          "opportunity": "Channels could explore cross-promotional opportunities between gaming and sports content, leveraging shared audiences.",
-          "actionable_step": "Create collaborative content or partnerships between gaming influencers and sports channels to expand audience reach and engagement."
+        "gaming_expansion": {
+          "description": "There is a strong interest in gaming content, especially around updates and new releases.",
+          "strategy": "Develop content around game reviews, walkthroughs, and competitive play to engage this audience."
         },
-        "niche_expansion": {
-          "opportunity": "Given the interest in specific gaming franchises and sports events, there is room to expand content within these niches.",
-          "actionable_step": "Develop specialized content series focusing on in-depth game reviews, esports tournaments, or sports analytics to capture niche audiences."
+        "college_sports_content": {
+          "description": "College sports content is trending, indicating a dedicated audience.",
+          "strategy": "Capitalize on live coverage, highlights, and analysis videos for future NCAA events."
         },
-        "engagement-driven content": {
-          "opportunity": "High engagement trailers and event highlights suggest a demand for interactive and engaging content formats.",
-          "actionable_step": "Implement viewer interaction strategies like live commentary, Q&A sessions, and community polls to increase engagement and retention."
+        "cross-category opportunities": {
+          "description": "Blend entertainment with gaming or sports to create hybrid content for broader appeal.",
+          "strategy": "Produce content like 'Top 10 Marvel Characters in Sports' or 'Gaming Influences in TV Shows' to capture both entertainment and niche audiences."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 54834
+        "avg_views_per_video": 77336
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
