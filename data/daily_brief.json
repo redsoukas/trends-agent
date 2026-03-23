@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-23T12:26:58.038599",
+  "timestamp": "2026-03-23T15:29:40.670037",
   "date": "2026-03-23",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/krh98HsMk5c/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 487204,
-      "like_count": 20907,
-      "comment_count": 1809,
+      "view_count": 501926,
+      "like_count": 21178,
+      "comment_count": 1828,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -39,6 +39,51 @@
         "Star-Lord"
       ],
       "url": "https://www.youtube.com/watch?v=krh98HsMk5c"
+    },
+    {
+      "video_id": "peeVHadh4fI",
+      "title": "Second Round: Tennessee vs. Virginia",
+      "description": "Midwest Region round two gets underway as the Volunteers face the Cavaliers at Xfinity Mobile Arena. The two programs face off after a hard-fought battle in the first round. They enter this contest with one purpose, to qualify for the next round.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-03-23T12:12:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/peeVHadh4fI/hqdefault.jpg",
+      "duration": "PT3H4M1S",
+      "duration_seconds": 11041,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=peeVHadh4fI"
+    },
+    {
+      "video_id": "JK-8JDyd-g8",
+      "title": "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer",
+      "description": "#GuiltyGear #Strive #Jam\nJoin this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-03-22T12:28:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
+      "duration": "PT7M52S",
+      "duration_seconds": 472,
+      "view_count": 185723,
+      "like_count": 9534,
+      "comment_count": 844,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
     },
     {
       "video_id": "F3B1C06QJic",
@@ -58,34 +103,6 @@
       "url": "https://www.youtube.com/watch?v=F3B1C06QJic"
     },
     {
-      "video_id": "JK-8JDyd-g8",
-      "title": "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer",
-      "description": "#GuiltyGear #Strive #Jam\nJoin this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-03-22T12:28:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
-      "duration": "PT7M52S",
-      "duration_seconds": 472,
-      "view_count": 181883,
-      "like_count": 9425,
-      "comment_count": 827,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
-    },
-    {
       "video_id": "HcdDeTsZyOI",
       "title": "Second Round: High Point vs. Arkansas",
       "description": "No.12 High Point travels to take on the No.4 Arkansas in this NCAA Tournament at the Moda Center. Panthers guard Rob Martin leads an athletic unit against a Razorbacks squad that averages 89.9 points. Winners of this matchup advance to the Sweet 16.",
@@ -101,23 +118,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HcdDeTsZyOI"
-    },
-    {
-      "video_id": "aMQiM0m9YpA",
-      "title": "Second Round: Vanderbilt vs. Nebraska",
-      "description": "No. 4 Nebraska takes on No. 5 Vanderbilt in this South Region second-round tilt. Fred Hoiberg\"s Huskers set a school record with 27 wins this season. Mark Byington\"s Commodores feature a top-10 offense that averages 86.4 points per game.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-03-22T16:15:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aMQiM0m9YpA/hqdefault.jpg",
-      "duration": "PT2H25M16S",
-      "duration_seconds": 8716,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=aMQiM0m9YpA"
     },
     {
       "video_id": "PLG_aFHWjP8",
@@ -217,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/krh98HsMk5c/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 487204,
-      "like_count": 20907,
-      "comment_count": 1809,
+      "view_count": 501926,
+      "like_count": 21178,
+      "comment_count": 1828,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -234,6 +234,51 @@
         "Star-Lord"
       ],
       "url": "https://www.youtube.com/watch?v=krh98HsMk5c"
+    },
+    {
+      "video_id": "peeVHadh4fI",
+      "title": "Second Round: Tennessee vs. Virginia",
+      "description": "Midwest Region round two gets underway as the Volunteers face the Cavaliers at Xfinity Mobile Arena. The two programs face off after a hard-fought battle in the first round. They enter this contest with one purpose, to qualify for the next round.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-03-23T12:12:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/peeVHadh4fI/hqdefault.jpg",
+      "duration": "PT3H4M1S",
+      "duration_seconds": 11041,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=peeVHadh4fI"
+    },
+    {
+      "video_id": "JK-8JDyd-g8",
+      "title": "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer",
+      "description": "#GuiltyGear #Strive #Jam\nJoin this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-03-22T12:28:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
+      "duration": "PT7M52S",
+      "duration_seconds": 472,
+      "view_count": 185723,
+      "like_count": 9534,
+      "comment_count": 844,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
     },
     {
       "video_id": "F3B1C06QJic",
@@ -253,34 +298,6 @@
       "url": "https://www.youtube.com/watch?v=F3B1C06QJic"
     },
     {
-      "video_id": "JK-8JDyd-g8",
-      "title": "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer",
-      "description": "#GuiltyGear #Strive #Jam\nJoin this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-03-22T12:28:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JK-8JDyd-g8/hqdefault.jpg",
-      "duration": "PT7M52S",
-      "duration_seconds": 472,
-      "view_count": 181883,
-      "like_count": 9425,
-      "comment_count": 827,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
-    },
-    {
       "video_id": "HcdDeTsZyOI",
       "title": "Second Round: High Point vs. Arkansas",
       "description": "No.12 High Point travels to take on the No.4 Arkansas in this NCAA Tournament at the Moda Center. Panthers guard Rob Martin leads an athletic unit against a Razorbacks squad that averages 89.9 points. Winners of this matchup advance to the Sweet 16.",
@@ -296,23 +313,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HcdDeTsZyOI"
-    },
-    {
-      "video_id": "aMQiM0m9YpA",
-      "title": "Second Round: Vanderbilt vs. Nebraska",
-      "description": "No. 4 Nebraska takes on No. 5 Vanderbilt in this South Region second-round tilt. Fred Hoiberg\"s Huskers set a school record with 27 wins this season. Mark Byington\"s Commodores feature a top-10 offense that averages 86.4 points per game.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-03-22T16:15:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aMQiM0m9YpA/hqdefault.jpg",
-      "duration": "PT2H25M16S",
-      "duration_seconds": 8716,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=aMQiM0m9YpA"
     },
     {
       "video_id": "PLG_aFHWjP8",
@@ -403,86 +403,77 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 669087,
-        "average_views_per_video": 66908.7,
-        "categories": "Unknown"
-      },
       "content_trends": {
-        "gaming_trailers": {
-          "videos": [
-            "Marvel Tōkon: Fighting Souls - Amazing Guardians Trailer | PS5 & PC Games",
-            "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer"
-          ],
-          "insights": "Gaming trailers and reaction videos are popular, suggesting high engagement in video game updates and new releases. The presence of PS5 and PC indicates a focus on current-gen gaming platforms."
-        },
-        "sports_content": {
-          "videos": [
+        "sports_and_esports": {
+          "description": "A significant portion of the trending videos are related to sports events and esports.",
+          "examples": [
+            "Second Round: Tennessee vs. Virginia",
             "Goodyear 400",
             "Second Round: High Point vs. Arkansas",
-            "Second Round: Vanderbilt vs. Nebraska",
             "Valspar Championship, Final Round",
             "Second Round: Michigan State vs. Oklahoma",
             "Slam Dunk Sunday 2026"
           ],
-          "insights": "There is a strong trend in sports content, particularly focusing on live events or highlights, indicating a market opportunity for live sports coverage and event recaps."
+          "insight": "Sports content, especially involving competitive events and highlights, is a dominant trend. Channels focusing on live sports coverage or sports analysis have a high potential for engagement."
         },
-        "news_and_talk_shows": {
-          "videos": [
-            "One Nation With Brian Kilmeade"
+        "gaming": {
+          "description": "Gaming content is prominently featured in the trending list.",
+          "examples": [
+            "Marvel Tōkon: Fighting Souls - Amazing Guardians Trailer | PS5 & PC Games",
+            "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer"
           ],
-          "insights": "News and talk show content have a presence, which suggests a potential interest in current events and political commentary."
+          "insight": "Gaming trailers and reaction videos are popular, indicating a strong interest in upcoming releases and updates in the gaming community. Channels can capitalize on this by providing in-depth analysis or reviews of new game releases."
         },
-        "mystery_and_reveal": {
-          "videos": [
+        "entertainment_and_talk_shows": {
+          "description": "Entertainment content, including talk shows, also appears in the trending list.",
+          "examples": [
+            "One Nation With Brian Kilmeade",
             "The Final Icon Is Revealed"
           ],
-          "insights": "Content related to reveals and mysteries garners attention, which may hint at audience interest in suspense and announcement-driven content."
+          "insight": "Entertainment shows and discussions around cultural phenomena are trending. Content creators can explore talk shows or collaborative discussions on trending topics to capture audience interest."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "TNT",
-            "total_videos": 2,
-            "focus": "Likely sports or drama-related content, given the channel's typical programming."
+        "dominant_channels": {
+          "TNT": {
+            "videos_count": 2,
+            "description": "TNT is leading with two trending videos, indicating strong content in sports broadcasting."
           },
-          {
-            "channel_name": "PlayStation",
-            "total_videos": 1,
-            "focus": "Gaming, specifically promoting PlayStation releases."
-          },
-          {
-            "channel_name": "FS1",
-            "total_videos": 1,
-            "focus": "Sports content, aligning with the channel's focus on sports broadcasting."
-          },
-          {
-            "channel_name": "Maximilian Dood",
-            "total_videos": 1,
-            "focus": "Gaming, particularly reactions and commentary, indicating a strong community-driven approach."
-          },
-          {
-            "channel_name": "TBS",
-            "total_videos": 1,
-            "focus": "Likely entertainment or comedy, based on TBS's typical content offerings."
-          }
-        ],
-        "insights": "Channels with established reputations in specific niches (gaming, sports, entertainment) leverage their brand authority to capture audience attention. Collaborations or cross-promotion with these channels can be strategic."
+          "single_video_channels": [
+            "PlayStation",
+            "Maximilian Dood",
+            "FS1",
+            "TBS"
+          ],
+          "insight": "Channels with diverse content, especially those covering sports and gaming, have a higher potential to trend. Channels should consider diversifying their content to include both live events and entertainment."
+        }
       },
       "market_opportunities": {
-        "gaming": {
-          "opportunity": "Develop content around upcoming game releases, updates, and reviews. Engage with gaming influencers for broader reach."
+        "emerging_interests": {
+          "description": "Audiences show interest in both live events and entertainment, with a particular focus on real-time coverage and gaming updates.",
+          "opportunity": "Develop content strategies that combine live coverage with in-depth commentary and analysis. Collaborate with influencers in the gaming and sports sectors to expand reach."
         },
-        "sports": {
-          "opportunity": "Create highlight reels, live commentary, or fan engagement segments around major sports events and tournaments."
+        "cross-category_content": {
+          "description": "Opportunities exist in blending categories, such as sports with entertainment or gaming with live reactions.",
+          "opportunity": "Create hybrid content that offers a unique perspective, such as athlete interviews in gaming contexts or interactive sports analyses."
+        }
+      },
+      "actionable_recommendations": {
+        "content_creation": {
+          "focus_areas": [
+            "Live sports broadcasts and analyses",
+            "Gaming trailers and reaction videos",
+            "Talk shows on trending cultural topics"
+          ],
+          "strategy": "Leverage real-time events to create timely and relevant content. Utilize multi-platform strategies to engage both YouTube and streaming audiences."
         },
-        "news_and_talk": {
-          "opportunity": "Leverage current events and political discussions to create engaging and informative content. Consider partnerships with news-oriented channels."
-        },
-        "reveal_and_mystery": {
-          "opportunity": "Incorporate suspenseful or reveal-based content strategies, such as sneak peeks or behind-the-scenes looks, to engage audiences."
+        "collaboration": {
+          "potential_partners": [
+            "Sports networks",
+            "Gaming influencers",
+            "Entertainment personalities"
+          ],
+          "strategy": "Engage with partners for co-hosted events or dual-content releases to maximize visibility and audience engagement."
         }
       },
       "metadata_stats": {
@@ -491,7 +482,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 66908
+        "avg_views_per_video": 68764
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
