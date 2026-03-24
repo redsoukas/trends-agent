@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-24T09:26:16.930292",
+  "timestamp": "2026-03-24T12:28:05.246195",
   "date": "2026-03-24",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 3,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 1806900,
-      "like_count": 30245,
-      "comment_count": 7213,
+      "view_count": 2011421,
+      "like_count": 32031,
+      "comment_count": 7579,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 786886,
-      "like_count": 5178,
-      "comment_count": 520,
+      "view_count": 850222,
+      "like_count": 6222,
+      "comment_count": 604,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -93,9 +93,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
       "duration": "PT56S",
       "duration_seconds": 56,
-      "view_count": 936678,
-      "like_count": 49869,
-      "comment_count": 1830,
+      "view_count": 1075110,
+      "like_count": 55231,
+      "comment_count": 2028,
       "category_id": "1",
       "tags": [
         "jujutsu kaisen",
@@ -138,9 +138,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AYM6CDLsMHc/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 35277,
-      "like_count": 3001,
-      "comment_count": 117,
+      "view_count": 37271,
+      "like_count": 3144,
+      "comment_count": 119,
       "category_id": "22",
       "tags": [
         "Fox BD",
@@ -161,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kwT9_sUBdKM/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 283350,
-      "like_count": 31029,
-      "comment_count": 3531,
+      "view_count": 308499,
+      "like_count": 33351,
+      "comment_count": 3731,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kwT9_sUBdKM"
@@ -195,9 +195,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nLyxSDHjbHY/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 453895,
-      "like_count": 16432,
-      "comment_count": 886,
+      "view_count": 471556,
+      "like_count": 16738,
+      "comment_count": 898,
       "category_id": "1",
       "tags": [
         "Dune: Part Three",
@@ -226,9 +226,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 1806900,
-      "like_count": 30245,
-      "comment_count": 7213,
+      "view_count": 2011421,
+      "like_count": 32031,
+      "comment_count": 7579,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -260,9 +260,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 786886,
-      "like_count": 5178,
-      "comment_count": 520,
+      "view_count": 850222,
+      "like_count": 6222,
+      "comment_count": 604,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -314,9 +314,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kwT9_sUBdKM/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 283350,
-      "like_count": 31029,
-      "comment_count": 3531,
+      "view_count": 308499,
+      "like_count": 33351,
+      "comment_count": 3731,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kwT9_sUBdKM"
@@ -348,9 +348,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nLyxSDHjbHY/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 453895,
-      "like_count": 16432,
-      "comment_count": 886,
+      "view_count": 471556,
+      "like_count": 16738,
+      "comment_count": 898,
       "category_id": "1",
       "tags": [
         "Dune: Part Three",
@@ -376,9 +376,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
       "duration": "PT56S",
       "duration_seconds": 56,
-      "view_count": 936678,
-      "like_count": 49869,
-      "comment_count": 1830,
+      "view_count": 1075110,
+      "like_count": 55231,
+      "comment_count": 2028,
       "category_id": "1",
       "tags": [
         "jujutsu kaisen",
@@ -404,9 +404,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AYM6CDLsMHc/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 35277,
-      "like_count": 3001,
-      "comment_count": 117,
+      "view_count": 37271,
+      "like_count": 3144,
+      "comment_count": 119,
       "category_id": "22",
       "tags": [
         "Fox BD",
@@ -421,88 +421,75 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "total_videos": 10,
-      "total_views": 4302986,
-      "average_views_per_video": 430298.6,
-      "trending_content_types": [
-        {
-          "type": "Official Trailers/Teasers",
-          "count": 5,
-          "examples": [
-            "Moana | 'Official Trailer' | In Theaters July 10",
-            "Dutton Ranch | Official Teaser | Paramount+",
-            "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
-            "Bite By Night - Official Trailer",
-            "Dune: Part Three | Official Teaser Trailer"
-          ],
-          "insight": "Trailers and teasers for upcoming movies and series are popular, indicating strong audience interest in new media releases."
-        },
-        {
-          "type": "Sports",
-          "count": 3,
-          "examples": [
-            "Second Round: Iowa vs. Florida",
-            "Second Round: UCLA vs. UConn",
-            "Second Round: USC vs. South Carolina"
-          ],
-          "insight": "Sports content, specifically related to college tournaments, is trending, suggesting high engagement during sports seasons."
-        },
-        {
-          "type": "Music Video",
-          "count": 1,
-          "examples": [
-            "Fox BD - Where Yo Booster Seat? (Official Music Video)"
-          ],
-          "insight": "Music videos continue to maintain a presence on trending lists, highlighting their consistent popularity."
-        },
-        {
-          "type": "News/Commentary",
-          "count": 1,
-          "examples": [
-            "Jesse Watters Primetime"
-          ],
-          "insight": "News and commentary content is also drawing significant attention, likely due to current events or polarizing topics."
-        }
-      ],
-      "top_channels": {
-        "Disney": {
-          "video_count": 1,
-          "insight": "Content from major studios like Disney consistently trends due to their widespread brand recognition and marketing reach."
-        },
-        "TBS": {
-          "video_count": 1,
-          "insight": "Television networks are leveraging YouTube for additional viewership, indicating a shift towards digital platforms for traditional TV content."
-        },
-        "Paramount Plus": {
-          "video_count": 1,
-          "insight": "Streaming services are using YouTube to promote exclusive content, driving anticipation and subscriptions."
-        },
-        "TNT": {
-          "video_count": 1,
-          "insight": "Sports networks are capitalizing on YouTube to extend their reach and engage with a digital audience."
-        },
-        "Crunchyroll": {
-          "video_count": 1,
-          "insight": "Niche content providers like Crunchyroll are effectively reaching targeted audiences, demonstrating the power of specialized streaming services."
-        }
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 4754079,
+        "averageViewsPerVideo": 475407.9
       },
-      "market_opportunities": {
-        "emerging_trends": [
+      "contentTrends": {
+        "videoTypes": {
+          "trailer": 5,
+          "sports": 3,
+          "musicVideo": 1,
+          "news": 1
+        },
+        "trailerDominance": 50,
+        "sportsContent": 30,
+        "emergingPatterns": [
+          "High interest in upcoming entertainment releases (trailers)",
+          "Significant interest in sports events"
+        ]
+      },
+      "creatorPatterns": {
+        "topChannels": [
           {
-            "trend": "Increased demand for trailer content",
-            "opportunity": "Creators can capitalize on fan anticipation by producing reaction videos and analysis of upcoming media releases."
+            "name": "Disney",
+            "videoCount": 1,
+            "category": "Entertainment"
           },
           {
-            "trend": "High engagement in sports content",
-            "opportunity": "Develop content around sports commentary, analysis, and fan interactions to capture engaged sports viewership."
+            "name": "TBS",
+            "videoCount": 1,
+            "category": "Sports"
+          },
+          {
+            "name": "Paramount Plus",
+            "videoCount": 1,
+            "category": "Entertainment"
+          },
+          {
+            "name": "TNT",
+            "videoCount": 1,
+            "category": "Sports"
+          },
+          {
+            "name": "Crunchyroll",
+            "videoCount": 1,
+            "category": "Anime"
           }
         ],
-        "untapped_potential": [
-          {
-            "potential": "Diverse Content Categories",
-            "opportunity": "Explore underrepresented categories such as educational content or niche hobbies to tap into less saturated markets."
-          }
-        ]
+        "entertainmentContent": 3,
+        "sportsContent": 2,
+        "contentDiversity": "High",
+        "strategicInsight": "Channels focusing on popular entertainment franchises and sports events are achieving significant viewer engagement."
+      },
+      "marketOpportunities": {
+        "entertainment": {
+          "opportunity": "Leverage popular franchises with teasers and trailers to capture audience interest.",
+          "actionableStep": "Collaborate with studios to release exclusive content or behind-the-scenes footage."
+        },
+        "sports": {
+          "opportunity": "Capitalize on high viewer interest during major sports tournaments.",
+          "actionableStep": "Provide in-depth analyses or highlights to engage sports fans."
+        },
+        "music": {
+          "opportunity": "Explore collaborations with trending music artists for cross-promotional content.",
+          "actionableStep": "Produce music video content and partner with popular channels for wider reach."
+        },
+        "anime": {
+          "opportunity": "Anime trailers have a dedicated audience; explore more in-depth content such as fan theories and episode breakdowns.",
+          "actionableStep": "Engage with anime communities and provide exclusive previews or discussions."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -510,7 +497,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 430298
+        "avg_views_per_video": 475407
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
