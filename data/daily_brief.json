@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T09:25:25.456283",
+  "timestamp": "2026-03-25T12:26:45.037406",
   "date": "2026-03-25",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 942421,
-      "like_count": 45512,
-      "comment_count": 5065,
+      "view_count": 997043,
+      "like_count": 47386,
+      "comment_count": 5255,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 235198,
-      "like_count": 16601,
-      "comment_count": 10865,
+      "view_count": 258303,
+      "like_count": 19315,
+      "comment_count": 11667,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -84,29 +84,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 3207241,
-      "like_count": 41134,
-      "comment_count": 10349,
+      "view_count": 3277731,
+      "like_count": 41795,
+      "comment_count": 10534,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
     },
     {
-      "video_id": "1ayVT0bpKrQ",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "video_id": "mdTtJqgQCaM",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-25T07:32:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ayVT0bpKrQ/hqdefault.jpg",
-      "duration": "PT1H1M1S",
-      "duration_seconds": 3661,
+      "published_at": "2026-03-25T09:51:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mdTtJqgQCaM/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1ayVT0bpKrQ"
+      "url": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
     },
     {
       "video_id": "2-fu2H3ZvD8",
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1574091,
-      "like_count": 11642,
-      "comment_count": 997,
+      "view_count": 1608113,
+      "like_count": 12078,
+      "comment_count": 1023,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -129,21 +129,21 @@
       "url": "https://www.youtube.com/watch?v=2-fu2H3ZvD8"
     },
     {
-      "video_id": "ijKKOXH1kR4",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "Kpxzw4FQmRM",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-25T05:19:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ijKKOXH1kR4/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "published_at": "2026-03-25T08:45:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kpxzw4FQmRM/hqdefault.jpg",
+      "duration": "PT1H1M2S",
+      "duration_seconds": 3662,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ijKKOXH1kR4"
+      "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
     },
     {
       "video_id": "Avky8dVaqAI",
@@ -155,9 +155,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 204760,
-      "like_count": 12731,
-      "comment_count": 1046,
+      "view_count": 259080,
+      "like_count": 15202,
+      "comment_count": 1219,
       "category_id": "1",
       "tags": [
         "The Furious 2025",
@@ -174,21 +174,21 @@
       "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
     },
     {
-      "video_id": "Nj4caJLGiLM",
-      "title": "Second Round: Iowa vs. Florida",
-      "description": "Iowa faces Florida in the South Region second round at Benchmark International Arena. After a hard-fought battle with the Tigers, Iowa meets the Gators. Florida beat Prairie View 114-55 to qualify. Both teams aim for the tournament's next round.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-23T16:09:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nj4caJLGiLM/hqdefault.jpg",
-      "duration": "PT3H7M4S",
-      "duration_seconds": 11224,
+      "video_id": "rf89TCs3WgA",
+      "title": "First Quarterfinal: Wichita State at Tulsa",
+      "description": "The Wichita State Shockers and the Tulsa Golden Hurricane battle in an intense NIT Quarterfinal clash today. This pivotal college basketball matchup brings the electric atmosphere directly onto the playing court at the iconic Reynolds Center.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-25T09:07:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rf89TCs3WgA/hqdefault.jpg",
+      "duration": "PT2H17M56S",
+      "duration_seconds": 8276,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Nj4caJLGiLM"
+      "url": "https://www.youtube.com/watch?v=rf89TCs3WgA"
     },
     {
       "video_id": "7A5YWn33eps",
@@ -200,9 +200,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
       "duration": "PT43S",
       "duration_seconds": 43,
-      "view_count": 261384,
-      "like_count": 18927,
-      "comment_count": 1383,
+      "view_count": 285155,
+      "like_count": 19631,
+      "comment_count": 1431,
       "category_id": "20",
       "tags": [
         "Minecraft"
@@ -222,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 942421,
-      "like_count": 45512,
-      "comment_count": 5065,
+      "view_count": 997043,
+      "like_count": 47386,
+      "comment_count": 5255,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -267,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 235198,
-      "like_count": 16601,
-      "comment_count": 10865,
+      "view_count": 258303,
+      "like_count": 19315,
+      "comment_count": 11667,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -284,29 +284,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 3207241,
-      "like_count": 41134,
-      "comment_count": 10349,
+      "view_count": 3277731,
+      "like_count": 41795,
+      "comment_count": 10534,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
     },
     {
-      "video_id": "1ayVT0bpKrQ",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "video_id": "mdTtJqgQCaM",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-25T07:32:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ayVT0bpKrQ/hqdefault.jpg",
-      "duration": "PT1H1M1S",
-      "duration_seconds": 3661,
+      "published_at": "2026-03-25T09:51:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mdTtJqgQCaM/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1ayVT0bpKrQ"
+      "url": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
     },
     {
       "video_id": "2-fu2H3ZvD8",
@@ -318,9 +318,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1574091,
-      "like_count": 11642,
-      "comment_count": 997,
+      "view_count": 1608113,
+      "like_count": 12078,
+      "comment_count": 1023,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -329,21 +329,21 @@
       "url": "https://www.youtube.com/watch?v=2-fu2H3ZvD8"
     },
     {
-      "video_id": "ijKKOXH1kR4",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "Kpxzw4FQmRM",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-25T05:19:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ijKKOXH1kR4/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "published_at": "2026-03-25T08:45:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kpxzw4FQmRM/hqdefault.jpg",
+      "duration": "PT1H1M2S",
+      "duration_seconds": 3662,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ijKKOXH1kR4"
+      "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
     },
     {
       "video_id": "Avky8dVaqAI",
@@ -355,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 204760,
-      "like_count": 12731,
-      "comment_count": 1046,
+      "view_count": 259080,
+      "like_count": 15202,
+      "comment_count": 1219,
       "category_id": "1",
       "tags": [
         "The Furious 2025",
@@ -374,21 +374,21 @@
       "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
     },
     {
-      "video_id": "Nj4caJLGiLM",
-      "title": "Second Round: Iowa vs. Florida",
-      "description": "Iowa faces Florida in the South Region second round at Benchmark International Arena. After a hard-fought battle with the Tigers, Iowa meets the Gators. Florida beat Prairie View 114-55 to qualify. Both teams aim for the tournament's next round.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-23T16:09:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nj4caJLGiLM/hqdefault.jpg",
-      "duration": "PT3H7M4S",
-      "duration_seconds": 11224,
+      "video_id": "rf89TCs3WgA",
+      "title": "First Quarterfinal: Wichita State at Tulsa",
+      "description": "The Wichita State Shockers and the Tulsa Golden Hurricane battle in an intense NIT Quarterfinal clash today. This pivotal college basketball matchup brings the electric atmosphere directly onto the playing court at the iconic Reynolds Center.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-25T09:07:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rf89TCs3WgA/hqdefault.jpg",
+      "duration": "PT2H17M56S",
+      "duration_seconds": 8276,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Nj4caJLGiLM"
+      "url": "https://www.youtube.com/watch?v=rf89TCs3WgA"
     },
     {
       "video_id": "7A5YWn33eps",
@@ -400,9 +400,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
       "duration": "PT43S",
       "duration_seconds": 43,
-      "view_count": 261384,
-      "like_count": 18927,
-      "comment_count": 1383,
+      "view_count": 285155,
+      "like_count": 19631,
+      "comment_count": 1431,
       "category_id": "20",
       "tags": [
         "Minecraft"
@@ -415,40 +415,47 @@
     "metadata_based": {
       "content_trends": {
         "diverse_content": {
-          "description": "The trending videos showcase diverse content from gaming, news, sports, to movies.",
-          "insight": "This diversity indicates that audiences are interested in a wide range of topics, suggesting a potential for varied content creation across different sectors."
+          "observation": "The trending videos cover a wide range of genres including entertainment, news, music, and sports.",
+          "actionable_insight": "Content creators should consider diversifying their portfolio to include various genres to capture a broader audience base."
         },
-        "trailer_dominance": {
-          "description": "Three out of the ten trending videos are movie or game trailers.",
-          "insight": "Trailers consistently draw attention, highlighting their importance in marketing strategies for entertainment industries. Brands should consider leveraging trailers as a key promotional tool."
+        "trailer_and_teaser_popularity": {
+          "observation": "There are multiple trailers and teasers in the trending list, indicating a strong interest in upcoming media releases.",
+          "actionable_insight": "Brands and creators should maximize engagement by releasing high-quality trailers and teasers, potentially introducing exclusive first looks to garner attention."
         },
-        "news_and_current_affairs": {
-          "description": "Two videos from major news networks - FOX News and CNN - are trending.",
-          "insight": "News content remains relevant, suggesting opportunities for channels to focus on current issues to engage viewers."
+        "news_and_current_events": {
+          "observation": "Videos from news channels like FOX News and CNN are trending, highlighting continued interest in current affairs.",
+          "actionable_insight": "News outlets and content creators can leverage timely news cycles and trending topics to enhance viewer engagement."
         }
       },
       "creator_patterns": {
-        "major_brands": {
-          "description": "Top channels include well-known brands like Nintendo, FOX News, and Disney.",
-          "insight": "Established brands have a consistent presence in trending videos, indicating their strong audience base and effective content strategies."
+        "brand_channel_influence": {
+          "observation": "Well-established brand channels such as Nintendo of America and Disney have a presence in the trending list.",
+          "actionable_insight": "Emerging creators can collaborate with larger brands or participate in trending themes to increase visibility."
         },
-        "music_influence": {
-          "description": "The presence of a music video (BEDJINE - FOLI RENMEN) indicates the influence of music content.",
-          "insight": "Music continues to be a significant draw for audiences, suggesting creators in this genre should focus on high-quality production and unique offerings."
+        "music_video_trends": {
+          "observation": "Music video 'BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)' indicates global music's appeal.",
+          "actionable_insight": "Music creators should tap into cross-cultural trends and collaborations to expand their reach and appeal."
         }
       },
       "market_opportunities": {
-        "cross-promotion": {
-          "description": "Opportunities exist for cross-promotional strategies between different content types, such as gaming and entertainment.",
-          "insight": "Creators can explore collaborations or partnerships across sectors to tap into diverse audience interests and expand reach."
+        "cross-platform promotion": {
+          "observation": "Trending videos span various interests, suggesting potential for cross-promotional opportunities.",
+          "actionable_insight": "Creators should explore partnerships across different content types (e.g., gaming channels promoting movie trailers) to leverage audiences from multiple segments."
         },
-        "localized_content": {
-          "description": "The diversity of content types suggests a potential for localized content targeting specific audience interests.",
-          "insight": "Creators can focus on specific cultural or regional content to cater to niche audiences, potentially increasing engagement."
+        "emerging content genres": {
+          "observation": "The presence of sports and niche interest trailers (e.g., 'TINY TAKEOVER') suggests opportunities in less saturated genres.",
+          "actionable_insight": "Exploring niche content genres or subcultures can provide competitive advantages and capture dedicated audiences."
+        }
+      },
+      "viewership_analysis": {
+        "average_views_per_video": {
+          "calculation": "6685425 total views / 10 total videos",
+          "result": 668542.5,
+          "insight": "The average views per video suggest high engagement levels, especially for trending topics."
         },
-        "emerging_platforms": {
-          "description": "Platforms like Paramount+ are featured in trending videos, indicating the rise of streaming services.",
-          "insight": "Content creators could explore partnerships with emerging platforms to access new distribution channels and audiences."
+        "potential_for_viral_content": {
+          "observation": "Given the high average views, there is potential for content to go viral if it aligns with trending topics or current events.",
+          "actionable_insight": "Creators should monitor trending topics and optimize content release timing to capitalize on viral potential."
         }
       },
       "metadata_stats": {
@@ -457,7 +464,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 642509
+        "avg_views_per_video": 668542
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
