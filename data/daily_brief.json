@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T12:26:45.037406",
+  "timestamp": "2026-03-25T15:34:04.400178",
   "date": "2026-03-25",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 997043,
-      "like_count": 47386,
-      "comment_count": 5255,
+      "view_count": 1065704,
+      "like_count": 49915,
+      "comment_count": 5646,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 258303,
-      "like_count": 19315,
-      "comment_count": 11667,
+      "view_count": 322196,
+      "like_count": 22871,
+      "comment_count": 13856,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 3277731,
-      "like_count": 41795,
-      "comment_count": 10534,
+      "view_count": 3350238,
+      "like_count": 42601,
+      "comment_count": 10807,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -118,15 +118,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1608113,
-      "like_count": 12078,
-      "comment_count": 1023,
+      "view_count": 1667989,
+      "like_count": 12678,
+      "comment_count": 1072,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
         "Yellowstone"
       ],
       "url": "https://www.youtube.com/watch?v=2-fu2H3ZvD8"
+    },
+    {
+      "video_id": "XI-RsTXS9Zo",
+      "title": "SportsCenter With Scott Van Pelt",
+      "description": "Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his \"One Big Thing\" commentary.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-25T11:43:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XI-RsTXS9Zo/hqdefault.jpg",
+      "duration": "PT3H3M55S",
+      "duration_seconds": 11035,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
+    },
+    {
+      "video_id": "Avky8dVaqAI",
+      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
+      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-03-24T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 315772,
+      "like_count": 18006,
+      "comment_count": 1426,
+      "category_id": "1",
+      "tags": [
+        "The Furious 2025",
+        "Kenji Tanigaki",
+        "Mak Tin Shu",
+        "Frank Hui Hok Man",
+        "Mo Tse",
+        "Joe Taslim",
+        "Yayan Ruhian",
+        "Yanin Vismitananda",
+        "Furious movie 2025",
+        "action movie 2025"
+      ],
+      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
     },
     {
       "video_id": "Kpxzw4FQmRM",
@@ -146,68 +191,27 @@
       "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
     },
     {
-      "video_id": "Avky8dVaqAI",
-      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
-      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
-      "channel_title": "Lionsgate Movies",
-      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-      "published_at": "2026-03-24T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
-      "duration": "PT2M7S",
-      "duration_seconds": 127,
-      "view_count": 259080,
-      "like_count": 15202,
-      "comment_count": 1219,
-      "category_id": "1",
-      "tags": [
-        "The Furious 2025",
-        "Kenji Tanigaki",
-        "Mak Tin Shu",
-        "Frank Hui Hok Man",
-        "Mo Tse",
-        "Joe Taslim",
-        "Yayan Ruhian",
-        "Yanin Vismitananda",
-        "Furious movie 2025",
-        "action movie 2025"
-      ],
-      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
-    },
-    {
-      "video_id": "rf89TCs3WgA",
-      "title": "First Quarterfinal: Wichita State at Tulsa",
-      "description": "The Wichita State Shockers and the Tulsa Golden Hurricane battle in an intense NIT Quarterfinal clash today. This pivotal college basketball matchup brings the electric atmosphere directly onto the playing court at the iconic Reynolds Center.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-25T09:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rf89TCs3WgA/hqdefault.jpg",
-      "duration": "PT2H17M56S",
-      "duration_seconds": 8276,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "YO5RXaC4hdQ",
+      "title": "Drifter - Official Teaser Trailer (2026) Sung Kang, Tamara Braun, Gregory Cruz",
+      "description": "Check out the teaser for Drifter, an upcoming movie starring Sung Kang. \n\nIn a forgotten desert town, a solitary racetrack janitor with a gift for drifting is haunted by his tragic past. Given a single chance to compete at a pro drifting event, he discovers his raw talent is useless without the one thing he's always avoided: connection with others. Under a hardened mentor, he must learn to trust his found family and transform his untamed, lonely art into a dangerous dance of partnership, or be consumed and controlled by the past he's desperate to escape.\n\nDrifter, written and directed by Sung Kang, is coming soon.\n\n#Drifter #Movies #IGN",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-24T15:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YO5RXaC4hdQ/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 480541,
+      "like_count": 20527,
+      "comment_count": 1008,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rf89TCs3WgA"
-    },
-    {
-      "video_id": "7A5YWn33eps",
-      "title": "TINY TAKEOVER | Official Trailer",
-      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-24T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 285155,
-      "like_count": 19631,
-      "comment_count": 1431,
-      "category_id": "20",
       "tags": [
-        "Minecraft"
+        "Drifter",
+        "Drifter movie",
+        "Drifter trailer",
+        "drifter sung kang",
+        "drifter sung kang movie trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
+      "url": "https://www.youtube.com/watch?v=YO5RXaC4hdQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -222,9 +226,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 997043,
-      "like_count": 47386,
-      "comment_count": 5255,
+      "view_count": 1065704,
+      "like_count": 49915,
+      "comment_count": 5646,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -267,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 258303,
-      "like_count": 19315,
-      "comment_count": 11667,
+      "view_count": 322196,
+      "like_count": 22871,
+      "comment_count": 13856,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -284,9 +288,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 3277731,
-      "like_count": 41795,
-      "comment_count": 10534,
+      "view_count": 3350238,
+      "like_count": 42601,
+      "comment_count": 10807,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -318,15 +322,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1608113,
-      "like_count": 12078,
-      "comment_count": 1023,
+      "view_count": 1667989,
+      "like_count": 12678,
+      "comment_count": 1072,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
         "Yellowstone"
       ],
       "url": "https://www.youtube.com/watch?v=2-fu2H3ZvD8"
+    },
+    {
+      "video_id": "XI-RsTXS9Zo",
+      "title": "SportsCenter With Scott Van Pelt",
+      "description": "Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his \"One Big Thing\" commentary.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-25T11:43:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XI-RsTXS9Zo/hqdefault.jpg",
+      "duration": "PT3H3M55S",
+      "duration_seconds": 11035,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
+    },
+    {
+      "video_id": "Avky8dVaqAI",
+      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
+      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-03-24T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
+      "duration": "PT2M7S",
+      "duration_seconds": 127,
+      "view_count": 315772,
+      "like_count": 18006,
+      "comment_count": 1426,
+      "category_id": "1",
+      "tags": [
+        "The Furious 2025",
+        "Kenji Tanigaki",
+        "Mak Tin Shu",
+        "Frank Hui Hok Man",
+        "Mo Tse",
+        "Joe Taslim",
+        "Yayan Ruhian",
+        "Yanin Vismitananda",
+        "Furious movie 2025",
+        "action movie 2025"
+      ],
+      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
     },
     {
       "video_id": "Kpxzw4FQmRM",
@@ -346,116 +395,112 @@
       "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
     },
     {
-      "video_id": "Avky8dVaqAI",
-      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
-      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
-      "channel_title": "Lionsgate Movies",
-      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-      "published_at": "2026-03-24T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
-      "duration": "PT2M7S",
-      "duration_seconds": 127,
-      "view_count": 259080,
-      "like_count": 15202,
-      "comment_count": 1219,
-      "category_id": "1",
-      "tags": [
-        "The Furious 2025",
-        "Kenji Tanigaki",
-        "Mak Tin Shu",
-        "Frank Hui Hok Man",
-        "Mo Tse",
-        "Joe Taslim",
-        "Yayan Ruhian",
-        "Yanin Vismitananda",
-        "Furious movie 2025",
-        "action movie 2025"
-      ],
-      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
-    },
-    {
-      "video_id": "rf89TCs3WgA",
-      "title": "First Quarterfinal: Wichita State at Tulsa",
-      "description": "The Wichita State Shockers and the Tulsa Golden Hurricane battle in an intense NIT Quarterfinal clash today. This pivotal college basketball matchup brings the electric atmosphere directly onto the playing court at the iconic Reynolds Center.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-25T09:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rf89TCs3WgA/hqdefault.jpg",
-      "duration": "PT2H17M56S",
-      "duration_seconds": 8276,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "YO5RXaC4hdQ",
+      "title": "Drifter - Official Teaser Trailer (2026) Sung Kang, Tamara Braun, Gregory Cruz",
+      "description": "Check out the teaser for Drifter, an upcoming movie starring Sung Kang. \n\nIn a forgotten desert town, a solitary racetrack janitor with a gift for drifting is haunted by his tragic past. Given a single chance to compete at a pro drifting event, he discovers his raw talent is useless without the one thing he's always avoided: connection with others. Under a hardened mentor, he must learn to trust his found family and transform his untamed, lonely art into a dangerous dance of partnership, or be consumed and controlled by the past he's desperate to escape.\n\nDrifter, written and directed by Sung Kang, is coming soon.\n\n#Drifter #Movies #IGN",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-24T15:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YO5RXaC4hdQ/hqdefault.jpg",
+      "duration": "PT31S",
+      "duration_seconds": 31,
+      "view_count": 480541,
+      "like_count": 20527,
+      "comment_count": 1008,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rf89TCs3WgA"
-    },
-    {
-      "video_id": "7A5YWn33eps",
-      "title": "TINY TAKEOVER | Official Trailer",
-      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-24T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 285155,
-      "like_count": 19631,
-      "comment_count": 1431,
-      "category_id": "20",
       "tags": [
-        "Minecraft"
+        "Drifter",
+        "Drifter movie",
+        "Drifter trailer",
+        "drifter sung kang",
+        "drifter sung kang movie trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
+      "url": "https://www.youtube.com/watch?v=YO5RXaC4hdQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "diverse_content": {
-          "observation": "The trending videos cover a wide range of genres including entertainment, news, music, and sports.",
-          "actionable_insight": "Content creators should consider diversifying their portfolio to include various genres to capture a broader audience base."
+      "trending_patterns_analysis": {
+        "total_videos": 10,
+        "total_views": 7202440,
+        "average_views_per_video": 720244,
+        "categories_analysis": {
+          "entertainment": {
+            "video_count": 4,
+            "examples": [
+              "Pokémon Champions – Overview Trailer – Nintendo Switch",
+              "Moana | 'Official Trailer' | In Theaters July 10",
+              "Dutton Ranch | Official Teaser | Paramount+",
+              "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim"
+            ],
+            "insights": "Trailers and teasers for upcoming films and games are highly popular, suggesting a strong audience interest in upcoming entertainment releases."
+          },
+          "news_and_politics": {
+            "video_count": 4,
+            "examples": [
+              "Jesse Watters Primetime",
+              "The Source With Kaitlan Collins",
+              "SportsCenter With Scott Van Pelt",
+              "The Last Word With Lawrence O'Donnell"
+            ],
+            "insights": "News commentary and political analysis continue to draw significant viewership, indicating a demand for current events content."
+          },
+          "music": {
+            "video_count": 1,
+            "examples": [
+              "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)"
+            ],
+            "insights": "Music videos remain a staple of YouTube content, though they represent a smaller portion of currently trending videos."
+          },
+          "mixed_genre": {
+            "video_count": 1,
+            "examples": [
+              "Drifter - Official Teaser Trailer (2026) Sung Kang, Tamara Braun, Gregory Cruz"
+            ],
+            "insights": "Cross-genre content, such as action films with diverse casting, appeals to a broad audience base."
+          }
         },
-        "trailer_and_teaser_popularity": {
-          "observation": "There are multiple trailers and teasers in the trending list, indicating a strong interest in upcoming media releases.",
-          "actionable_insight": "Brands and creators should maximize engagement by releasing high-quality trailers and teasers, potentially introducing exclusive first looks to garner attention."
+        "creator_patterns": {
+          "top_channels": [
+            {
+              "channel": "Nintendo of America",
+              "video_count": 1,
+              "insight": "Gaming content, especially from top gaming brands, continues to capture significant attention on YouTube."
+            },
+            {
+              "channel": "FOX News",
+              "video_count": 1,
+              "insight": "Established news networks maintain strong viewership, reflecting their credibility and audience trust."
+            },
+            {
+              "channel": "Bedjine officiel",
+              "video_count": 1,
+              "insight": "Niche music creators can break into trending lists, highlighting opportunities for viral growth in specific music genres."
+            },
+            {
+              "channel": "Disney",
+              "video_count": 1,
+              "insight": "Major entertainment companies consistently generate high interest, underlining their influence in the entertainment industry."
+            },
+            {
+              "channel": "CNN",
+              "video_count": 1,
+              "insight": "Established media brands can leverage their reputation to attract viewers interested in political and societal issues."
+            }
+          ]
         },
-        "news_and_current_events": {
-          "observation": "Videos from news channels like FOX News and CNN are trending, highlighting continued interest in current affairs.",
-          "actionable_insight": "News outlets and content creators can leverage timely news cycles and trending topics to enhance viewer engagement."
-        }
-      },
-      "creator_patterns": {
-        "brand_channel_influence": {
-          "observation": "Well-established brand channels such as Nintendo of America and Disney have a presence in the trending list.",
-          "actionable_insight": "Emerging creators can collaborate with larger brands or participate in trending themes to increase visibility."
-        },
-        "music_video_trends": {
-          "observation": "Music video 'BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)' indicates global music's appeal.",
-          "actionable_insight": "Music creators should tap into cross-cultural trends and collaborations to expand their reach and appeal."
-        }
-      },
-      "market_opportunities": {
-        "cross-platform promotion": {
-          "observation": "Trending videos span various interests, suggesting potential for cross-promotional opportunities.",
-          "actionable_insight": "Creators should explore partnerships across different content types (e.g., gaming channels promoting movie trailers) to leverage audiences from multiple segments."
-        },
-        "emerging content genres": {
-          "observation": "The presence of sports and niche interest trailers (e.g., 'TINY TAKEOVER') suggests opportunities in less saturated genres.",
-          "actionable_insight": "Exploring niche content genres or subcultures can provide competitive advantages and capture dedicated audiences."
-        }
-      },
-      "viewership_analysis": {
-        "average_views_per_video": {
-          "calculation": "6685425 total views / 10 total videos",
-          "result": 668542.5,
-          "insight": "The average views per video suggest high engagement levels, especially for trending topics."
-        },
-        "potential_for_viral_content": {
-          "observation": "Given the high average views, there is potential for content to go viral if it aligns with trending topics or current events.",
-          "actionable_insight": "Creators should monitor trending topics and optimize content release timing to capitalize on viral potential."
+        "market_opportunities": {
+          "emerging_trends": [
+            "Increase in the popularity of trailers and teasers for upcoming releases, suggesting opportunities for content creators in entertainment to capitalize on promotional content.",
+            "Continued interest in news and political analysis content, offering opportunities for emerging creators to provide unique perspectives on current events.",
+            "Potential for growth in niche music markets, especially if targeting specific cultural or regional audiences."
+          ],
+          "recommended_actions": [
+            "Develop more content around upcoming entertainment releases, possibly collaborating with popular franchises or studios to attract broader viewership.",
+            "Create engaging and insightful commentary videos on current events to tap into the large news consumer base.",
+            "Explore cross-genre content creation to appeal to diverse audience demographics, such as combining elements of popular genres like action and drama."
+          ]
         }
       },
       "metadata_stats": {
@@ -464,7 +509,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 668542
+        "avg_views_per_video": 720244
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
