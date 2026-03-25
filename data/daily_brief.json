@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T18:28:13.066962",
+  "timestamp": "2026-03-25T21:18:29.194354",
   "date": "2026-03-25",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -13,6 +13,57 @@
   },
   "trending_videos": [
     {
+      "video_id": "9g0UKRT7cbI",
+      "title": "Harry Potter and the Philosopher's Stone | Official Teaser | HBO Max",
+      "description": "A new era of Hogwarts begins. The HBO Original series Harry Potter and the Philosopher’s Stone premieres this Christmas. #HarryPotterHBO\n\nHBO Max, streaming in the UK and Ireland from March 26.\n\nFacebook: https://www.facebook.com/HBOMaxUK\nInstagram: https://www.instagram.com/HBOMaxUK\nTikTok: https://www.tiktok.com/@HBOMaxUK\nX: https://x.com/HBOMax_UK",
+      "channel_title": "HBO Max UK & Ireland",
+      "channel_id": "UCh7Xjisj6m8Hxcvg1HK9Dqg",
+      "published_at": "2026-03-25T19:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9g0UKRT7cbI/hqdefault.jpg",
+      "duration": "PT2M4S",
+      "duration_seconds": 124,
+      "view_count": 23291,
+      "like_count": 9044,
+      "comment_count": 1268,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9g0UKRT7cbI"
+    },
+    {
+      "video_id": "Nk4Mf3SaXvk",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-25T19:02:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nk4Mf3SaXvk/hqdefault.jpg",
+      "duration": "PT59M55S",
+      "duration_seconds": 3595,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Nk4Mf3SaXvk"
+    },
+    {
+      "video_id": "e__YaECyqTI",
+      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
+      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
+      "channel_title": "Bedjine officiel",
+      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
+      "published_at": "2026-03-24T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
+      "duration": "PT4M3S",
+      "duration_seconds": 243,
+      "view_count": 468307,
+      "like_count": 27549,
+      "comment_count": 15688,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
+    },
+    {
       "video_id": "pOfW-qdsvpU",
       "title": "Pokémon Champions – Overview Trailer – Nintendo Switch",
       "description": "The Pokémon Champions game launches April 8, 2026 on the Nintendo Switch system. https://www.nintendo.com/us/store/products/pokemon-champions-switch/\n\nPokémon battles for everyone! Recruit Pokémon in-game or transfer them from Pokémon HOME, then gear up for thrilling battles with Trainers near and far! Compete in three different modes of Pokémon battles: Ranked Battles, Casual Battles, and Private Battles. You can challenge these modes in both Single Battle and Double Battle formats. Plus, use in-game Victory Points (VP) you’ve earned to improve a Pokémon’s stats, acquire new looks for your Trainer, and more!\n\nThe game is also compatible with the Nintendo Switch 2 system. \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.",
@@ -22,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 1138731,
-      "like_count": 50746,
-      "comment_count": 5804,
+      "view_count": 1177037,
+      "like_count": 51663,
+      "comment_count": 5903,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -41,72 +92,21 @@
       "url": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
     },
     {
-      "video_id": "S9kCobX_01c",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-25T08:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S9kCobX_01c/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "ha7l703yw5c",
+      "title": "Get Up",
+      "description": "Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Hudson Square in Lower Manhattan.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-25T20:08:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ha7l703yw5c/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=S9kCobX_01c"
-    },
-    {
-      "video_id": "e__YaECyqTI",
-      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
-      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
-      "channel_title": "Bedjine officiel",
-      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
-      "published_at": "2026-03-24T23:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
-      "duration": "PT4M3S",
-      "duration_seconds": 243,
-      "view_count": 399053,
-      "like_count": 25143,
-      "comment_count": 14826,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
-    },
-    {
-      "video_id": "n7f6hlKsxxo",
-      "title": "Moana | \"Official Trailer\" | In Theaters July 10",
-      "description": "The ocean chose her for a reason. 🌊\nExperience Disney's #Moana, only in theaters July 10.\n\nIn “Moana,” Disney’s live action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated films “Moana” and “Moana 2.” “Moana” features original songs by Lin-Manuel Miranda, Opetaia Foaʻi and Mark Mancina, and an original score composed by Mancina. Audiences can experience the brilliant cinematic sights, sounds and songs of “Moana” exclusively in theaters on July 10, 2026.\n\n",
-      "channel_title": "Disney",
-      "channel_id": "UC_5niPa-d35gg88HaS7RrIw",
-      "published_at": "2026-03-23T16:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
-      "duration": "PT2M20S",
-      "duration_seconds": 140,
-      "view_count": 3426231,
-      "like_count": 43172,
-      "comment_count": 11006,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
-    },
-    {
-      "video_id": "mdTtJqgQCaM",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-25T09:51:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mdTtJqgQCaM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
+      "url": "https://www.youtube.com/watch?v=ha7l703yw5c"
     },
     {
       "video_id": "kgv8jf_8dm0",
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 103292,
-      "like_count": 4106,
-      "comment_count": 301,
+      "view_count": 287079,
+      "like_count": 6163,
+      "comment_count": 440,
       "category_id": "24",
       "tags": [
         "Action",
@@ -137,99 +137,139 @@
       "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
     },
     {
-      "video_id": "XI-RsTXS9Zo",
-      "title": "SportsCenter With Scott Van Pelt",
-      "description": "Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his \"One Big Thing\" commentary.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-25T11:43:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XI-RsTXS9Zo/hqdefault.jpg",
-      "duration": "PT3H3M55S",
-      "duration_seconds": 11035,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
-    },
-    {
-      "video_id": "Avky8dVaqAI",
-      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
-      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
-      "channel_title": "Lionsgate Movies",
-      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-      "published_at": "2026-03-24T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
-      "duration": "PT2M7S",
-      "duration_seconds": 127,
-      "view_count": 374951,
-      "like_count": 20023,
-      "comment_count": 1567,
-      "category_id": "1",
-      "tags": [
-        "The Furious 2025",
-        "Kenji Tanigaki",
-        "Mak Tin Shu",
-        "Frank Hui Hok Man",
-        "Mo Tse",
-        "Joe Taslim",
-        "Yayan Ruhian",
-        "Yanin Vismitananda",
-        "Furious movie 2025",
-        "action movie 2025"
-      ],
-      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
-    },
-    {
-      "video_id": "Kpxzw4FQmRM",
-      "title": "The Last Word With Lawrence O'Donnell",
-      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-25T08:45:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kpxzw4FQmRM/hqdefault.jpg",
-      "duration": "PT1H1M2S",
-      "duration_seconds": 3662,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
-    },
-    {
-      "video_id": "AT9ZlL1vImM",
-      "title": "Resident Evil Requiem - Official Path Tracing Trailer",
-      "description": "Check out the Path Tracing Trailer for Resident Evil Requiem, the latest installment in the survival action horror franchise developed by Capcom. Players with supported NVIDIA hardware can now leverage path tracing and NVIDIA DLSS 4 with Multi Frame Generation in Leon and Grace's latest adventure to bring high-fidelity visuals courtesy of NVIDIA technology. Resident Evil Requiem is available now for PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch, and PC.\n\n#ResidentEvilRequiem #Gaming #IGN \n\nSource: https://youtube.com/nvidia",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-25T13:47:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AT9ZlL1vImM/hqdefault.jpg",
-      "duration": "PT50S",
-      "duration_seconds": 50,
-      "view_count": 50553,
-      "like_count": 1800,
-      "comment_count": 235,
+      "video_id": "ezv1TyAodrs",
+      "title": "I Played Pokemon Champions Early",
+      "description": "I have a lot of thoughts.\n\nCheck out all my Scarlet and Violet videos here: https://youtube.com/playlist?list=PLb_5fF_O3FvjEglm1tAGgGVuJo4YTzrV4\n\n#Pokemon #ScarletViolet #WolfeyVGC\nStore►: https://wolfeystore.com/\nPatreon►: https://www.patreon.com/WolfeyVGC\nTiktok►: https://www.tiktok.com/@wolfeyvgc\nTwitter►: https://twitter.com/WolfeyGlick\nInstagram►: https://www.instagram.com/wolfeyglick/\n\nProducer/Lead Editor: https://bsky.app/profile/whitedit.bsky.social",
+      "channel_title": "WolfeyVGC",
+      "channel_id": "UC9OZkS1Mhl5UvKSiPrYqsxg",
+      "published_at": "2026-03-25T14:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ezv1TyAodrs/hqdefault.jpg",
+      "duration": "PT19M37S",
+      "duration_seconds": 1177,
+      "view_count": 592108,
+      "like_count": 42470,
+      "comment_count": 2945,
       "category_id": "20",
       "tags": [
-        "Amiibo",
-        "Capcom",
-        "Downloadable Content",
-        "Horror",
-        "Nintendo Switch 2",
-        "PC",
-        "PlayStation 5",
-        "Resident Evil",
-        "Resident Evil Requiem",
-        "Survival"
+        "Wolfey",
+        "Pokemon",
+        "VGC",
+        "Wolfe Glick",
+        "Competitive Pokemon",
+        "Pokemon VGC",
+        "pokemon nuzlocke",
+        "nuzlocke",
+        "pokemon challenge",
+        "alpharad"
       ],
-      "url": "https://www.youtube.com/watch?v=AT9ZlL1vImM"
+      "url": "https://www.youtube.com/watch?v=ezv1TyAodrs"
+    },
+    {
+      "video_id": "n7f6hlKsxxo",
+      "title": "Moana | \"Official Trailer\" | In Theaters July 10",
+      "description": "The ocean chose her for a reason. 🌊\nExperience Disney's #Moana, only in theaters July 10.\n\nIn “Moana,” Disney’s live action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated films “Moana” and “Moana 2.” “Moana” features original songs by Lin-Manuel Miranda, Opetaia Foaʻi and Mark Mancina, and an original score composed by Mancina. Audiences can experience the brilliant cinematic sights, sounds and songs of “Moana” exclusively in theaters on July 10, 2026.\n\n",
+      "channel_title": "Disney",
+      "channel_id": "UC_5niPa-d35gg88HaS7RrIw",
+      "published_at": "2026-03-23T16:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
+      "duration": "PT2M20S",
+      "duration_seconds": 140,
+      "view_count": 3502847,
+      "like_count": 43783,
+      "comment_count": 11189,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
+    },
+    {
+      "video_id": "C1g7UqhYBig",
+      "title": "CNN News Central",
+      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-25T18:56:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C1g7UqhYBig/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C1g7UqhYBig"
+    },
+    {
+      "video_id": "a8RHqN93qfo",
+      "title": "FORGOTTEN ISLAND | Official Trailer",
+      "description": "Forgotten Island - In Theaters September 25\n\nYour best friendship is worth fighting for.\n\nDreamWorks Animation, the studio that brought you unforgettable bonds between a boy and a dragon in How to Train Your Dragon, an ogre and a donkey in Shrek, and a robot and a gosling in The Wild Robot, now welcomes a dazzling and emotional story about two lifelong best friends who must come together before they drift apart in Forgotten Island. \n\nThe new original film is written and directed by Academy Award® nominee Joel Crawford and Januel Mercado and is produced by Academy Award® nominee Mark Swift, the filmmaking team behind Puss in Boots: The Last Wish. \n\nGrammy and Academy Award® winning supernova H.E.R. and Liza Soberano (Lisa Frankenstein, Alone/Together) star as high school graduates Jo and Raissa, who have been best friends since grade school but are now about to embark on separate life paths. \n\nWhile celebrating their last night together, Jo and Raissa stumble upon a mysterious portal th",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-25T15:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a8RHqN93qfo/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 635173,
+      "like_count": 31237,
+      "comment_count": 2115,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=a8RHqN93qfo"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
+      "video_id": "9g0UKRT7cbI",
+      "title": "Harry Potter and the Philosopher's Stone | Official Teaser | HBO Max",
+      "description": "A new era of Hogwarts begins. The HBO Original series Harry Potter and the Philosopher’s Stone premieres this Christmas. #HarryPotterHBO\n\nHBO Max, streaming in the UK and Ireland from March 26.\n\nFacebook: https://www.facebook.com/HBOMaxUK\nInstagram: https://www.instagram.com/HBOMaxUK\nTikTok: https://www.tiktok.com/@HBOMaxUK\nX: https://x.com/HBOMax_UK",
+      "channel_title": "HBO Max UK & Ireland",
+      "channel_id": "UCh7Xjisj6m8Hxcvg1HK9Dqg",
+      "published_at": "2026-03-25T19:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9g0UKRT7cbI/hqdefault.jpg",
+      "duration": "PT2M4S",
+      "duration_seconds": 124,
+      "view_count": 23291,
+      "like_count": 9044,
+      "comment_count": 1268,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9g0UKRT7cbI"
+    },
+    {
+      "video_id": "Nk4Mf3SaXvk",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-25T19:02:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nk4Mf3SaXvk/hqdefault.jpg",
+      "duration": "PT59M55S",
+      "duration_seconds": 3595,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Nk4Mf3SaXvk"
+    },
+    {
+      "video_id": "e__YaECyqTI",
+      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
+      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
+      "channel_title": "Bedjine officiel",
+      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
+      "published_at": "2026-03-24T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
+      "duration": "PT4M3S",
+      "duration_seconds": 243,
+      "view_count": 468307,
+      "like_count": 27549,
+      "comment_count": 15688,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
+    },
+    {
       "video_id": "pOfW-qdsvpU",
       "title": "Pokémon Champions – Overview Trailer – Nintendo Switch",
       "description": "The Pokémon Champions game launches April 8, 2026 on the Nintendo Switch system. https://www.nintendo.com/us/store/products/pokemon-champions-switch/\n\nPokémon battles for everyone! Recruit Pokémon in-game or transfer them from Pokémon HOME, then gear up for thrilling battles with Trainers near and far! Compete in three different modes of Pokémon battles: Ranked Battles, Casual Battles, and Private Battles. You can challenge these modes in both Single Battle and Double Battle formats. Plus, use in-game Victory Points (VP) you’ve earned to improve a Pokémon’s stats, acquire new looks for your Trainer, and more!\n\nThe game is also compatible with the Nintendo Switch 2 system. \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.",
@@ -239,9 +279,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 1138731,
-      "like_count": 50746,
-      "comment_count": 5804,
+      "view_count": 1177037,
+      "like_count": 51663,
+      "comment_count": 5903,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -258,72 +298,21 @@
       "url": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
     },
     {
-      "video_id": "S9kCobX_01c",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-25T08:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S9kCobX_01c/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "ha7l703yw5c",
+      "title": "Get Up",
+      "description": "Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Hudson Square in Lower Manhattan.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-25T20:08:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ha7l703yw5c/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=S9kCobX_01c"
-    },
-    {
-      "video_id": "e__YaECyqTI",
-      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
-      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
-      "channel_title": "Bedjine officiel",
-      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
-      "published_at": "2026-03-24T23:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
-      "duration": "PT4M3S",
-      "duration_seconds": 243,
-      "view_count": 399053,
-      "like_count": 25143,
-      "comment_count": 14826,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
-    },
-    {
-      "video_id": "n7f6hlKsxxo",
-      "title": "Moana | \"Official Trailer\" | In Theaters July 10",
-      "description": "The ocean chose her for a reason. 🌊\nExperience Disney's #Moana, only in theaters July 10.\n\nIn “Moana,” Disney’s live action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated films “Moana” and “Moana 2.” “Moana” features original songs by Lin-Manuel Miranda, Opetaia Foaʻi and Mark Mancina, and an original score composed by Mancina. Audiences can experience the brilliant cinematic sights, sounds and songs of “Moana” exclusively in theaters on July 10, 2026.\n\n",
-      "channel_title": "Disney",
-      "channel_id": "UC_5niPa-d35gg88HaS7RrIw",
-      "published_at": "2026-03-23T16:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
-      "duration": "PT2M20S",
-      "duration_seconds": 140,
-      "view_count": 3426231,
-      "like_count": 43172,
-      "comment_count": 11006,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
-    },
-    {
-      "video_id": "mdTtJqgQCaM",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-25T09:51:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mdTtJqgQCaM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
+      "url": "https://www.youtube.com/watch?v=ha7l703yw5c"
     },
     {
       "video_id": "kgv8jf_8dm0",
@@ -335,9 +324,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 103292,
-      "like_count": 4106,
-      "comment_count": 301,
+      "view_count": 287079,
+      "like_count": 6163,
+      "comment_count": 440,
       "category_id": "24",
       "tags": [
         "Action",
@@ -354,94 +343,83 @@
       "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
     },
     {
-      "video_id": "XI-RsTXS9Zo",
-      "title": "SportsCenter With Scott Van Pelt",
-      "description": "Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his \"One Big Thing\" commentary.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-03-25T11:43:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XI-RsTXS9Zo/hqdefault.jpg",
-      "duration": "PT3H3M55S",
-      "duration_seconds": 11035,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
-    },
-    {
-      "video_id": "Avky8dVaqAI",
-      "title": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
-      "description": "The Furious - Watch the trailer now! In Theaters on May 29. Starring Xie Miao, Joe Taslim, and Yang Enyou. Co-starring Brian Le, Joey Iwanaga, Sahajak Boonthanakit, Manatsanun Phanlerdwongsakul, Guo Junqing, and Winai Wiangyangkung. Special appearances by Yayan Ruhian and Jija Yanin. Directed by Kenji Tanigaki.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#TheFurious\n\nAfter the daughter of Wang Wei (Xie Miao) is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin (Joe Taslim) – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive mar",
-      "channel_title": "Lionsgate Movies",
-      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-      "published_at": "2026-03-24T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
-      "duration": "PT2M7S",
-      "duration_seconds": 127,
-      "view_count": 374951,
-      "like_count": 20023,
-      "comment_count": 1567,
-      "category_id": "1",
-      "tags": [
-        "The Furious 2025",
-        "Kenji Tanigaki",
-        "Mak Tin Shu",
-        "Frank Hui Hok Man",
-        "Mo Tse",
-        "Joe Taslim",
-        "Yayan Ruhian",
-        "Yanin Vismitananda",
-        "Furious movie 2025",
-        "action movie 2025"
-      ],
-      "url": "https://www.youtube.com/watch?v=Avky8dVaqAI"
-    },
-    {
-      "video_id": "Kpxzw4FQmRM",
-      "title": "The Last Word With Lawrence O'Donnell",
-      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-25T08:45:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kpxzw4FQmRM/hqdefault.jpg",
-      "duration": "PT1H1M2S",
-      "duration_seconds": 3662,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
-    },
-    {
-      "video_id": "AT9ZlL1vImM",
-      "title": "Resident Evil Requiem - Official Path Tracing Trailer",
-      "description": "Check out the Path Tracing Trailer for Resident Evil Requiem, the latest installment in the survival action horror franchise developed by Capcom. Players with supported NVIDIA hardware can now leverage path tracing and NVIDIA DLSS 4 with Multi Frame Generation in Leon and Grace's latest adventure to bring high-fidelity visuals courtesy of NVIDIA technology. Resident Evil Requiem is available now for PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch, and PC.\n\n#ResidentEvilRequiem #Gaming #IGN \n\nSource: https://youtube.com/nvidia",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-25T13:47:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AT9ZlL1vImM/hqdefault.jpg",
-      "duration": "PT50S",
-      "duration_seconds": 50,
-      "view_count": 50553,
-      "like_count": 1800,
-      "comment_count": 235,
+      "video_id": "ezv1TyAodrs",
+      "title": "I Played Pokemon Champions Early",
+      "description": "I have a lot of thoughts.\n\nCheck out all my Scarlet and Violet videos here: https://youtube.com/playlist?list=PLb_5fF_O3FvjEglm1tAGgGVuJo4YTzrV4\n\n#Pokemon #ScarletViolet #WolfeyVGC\nStore►: https://wolfeystore.com/\nPatreon►: https://www.patreon.com/WolfeyVGC\nTiktok►: https://www.tiktok.com/@wolfeyvgc\nTwitter►: https://twitter.com/WolfeyGlick\nInstagram►: https://www.instagram.com/wolfeyglick/\n\nProducer/Lead Editor: https://bsky.app/profile/whitedit.bsky.social",
+      "channel_title": "WolfeyVGC",
+      "channel_id": "UC9OZkS1Mhl5UvKSiPrYqsxg",
+      "published_at": "2026-03-25T14:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ezv1TyAodrs/hqdefault.jpg",
+      "duration": "PT19M37S",
+      "duration_seconds": 1177,
+      "view_count": 592108,
+      "like_count": 42470,
+      "comment_count": 2945,
       "category_id": "20",
       "tags": [
-        "Amiibo",
-        "Capcom",
-        "Downloadable Content",
-        "Horror",
-        "Nintendo Switch 2",
-        "PC",
-        "PlayStation 5",
-        "Resident Evil",
-        "Resident Evil Requiem",
-        "Survival"
+        "Wolfey",
+        "Pokemon",
+        "VGC",
+        "Wolfe Glick",
+        "Competitive Pokemon",
+        "Pokemon VGC",
+        "pokemon nuzlocke",
+        "nuzlocke",
+        "pokemon challenge",
+        "alpharad"
       ],
-      "url": "https://www.youtube.com/watch?v=AT9ZlL1vImM"
+      "url": "https://www.youtube.com/watch?v=ezv1TyAodrs"
+    },
+    {
+      "video_id": "n7f6hlKsxxo",
+      "title": "Moana | \"Official Trailer\" | In Theaters July 10",
+      "description": "The ocean chose her for a reason. 🌊\nExperience Disney's #Moana, only in theaters July 10.\n\nIn “Moana,” Disney’s live action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated films “Moana” and “Moana 2.” “Moana” features original songs by Lin-Manuel Miranda, Opetaia Foaʻi and Mark Mancina, and an original score composed by Mancina. Audiences can experience the brilliant cinematic sights, sounds and songs of “Moana” exclusively in theaters on July 10, 2026.\n\n",
+      "channel_title": "Disney",
+      "channel_id": "UC_5niPa-d35gg88HaS7RrIw",
+      "published_at": "2026-03-23T16:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
+      "duration": "PT2M20S",
+      "duration_seconds": 140,
+      "view_count": 3502847,
+      "like_count": 43783,
+      "comment_count": 11189,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
+    },
+    {
+      "video_id": "C1g7UqhYBig",
+      "title": "CNN News Central",
+      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-25T18:56:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C1g7UqhYBig/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C1g7UqhYBig"
+    },
+    {
+      "video_id": "a8RHqN93qfo",
+      "title": "FORGOTTEN ISLAND | Official Trailer",
+      "description": "Forgotten Island - In Theaters September 25\n\nYour best friendship is worth fighting for.\n\nDreamWorks Animation, the studio that brought you unforgettable bonds between a boy and a dragon in How to Train Your Dragon, an ogre and a donkey in Shrek, and a robot and a gosling in The Wild Robot, now welcomes a dazzling and emotional story about two lifelong best friends who must come together before they drift apart in Forgotten Island. \n\nThe new original film is written and directed by Academy Award® nominee Joel Crawford and Januel Mercado and is produced by Academy Award® nominee Mark Swift, the filmmaking team behind Puss in Boots: The Last Wish. \n\nGrammy and Academy Award® winning supernova H.E.R. and Liza Soberano (Lisa Frankenstein, Alone/Together) star as high school graduates Jo and Raissa, who have been best friends since grade school but are now about to embark on separate life paths. \n\nWhile celebrating their last night together, Jo and Raissa stumble upon a mysterious portal th",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-03-25T15:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a8RHqN93qfo/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 635173,
+      "like_count": 31237,
+      "comment_count": 2115,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=a8RHqN93qfo"
     }
   ],
   "analysis": {
@@ -449,59 +427,60 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 5492811,
-        "average_views_per_video": 549281.1
+        "total_views": 6685842,
+        "average_views_per_video": 668584.2
       },
       "content_trends": {
-        "categories": "Unknown",
-        "prevalent_content_types": [
-          "Trailers",
-          "News",
-          "Music"
-        ],
-        "trend_analysis": {
-          "trailers": {
-            "observation": "Trailers for upcoming movies and games appear frequently, indicating a high user interest in entertainment previews.",
-            "implication": "Creators should consider launching preview content around major releases to capture audience interest."
-          },
-          "news": {
-            "observation": "News content from major networks like FOX News and CNN is trending, showing a continuous demand for current events and analysis.",
-            "implication": "There is an opportunity for creators to explore niche news segments or provide unique insights to capture audience attention."
-          },
-          "music": {
-            "observation": "Music videos, such as the one from Bedjine, are popular, highlighting the platform's strong music audience.",
-            "implication": "Musicians and producers should optimize video releases for trending topics or collaborate with popular channels to increase reach."
-          }
+        "trailer_and_teaser_videos": {
+          "count": 4,
+          "examples": [
+            "Harry Potter and the Philosopher's Stone | Official Teaser | HBO Max",
+            "Apex | Official Trailer | Netflix",
+            "Moana | 'Official Trailer' | In Theaters July 10",
+            "FORGOTTEN ISLAND | Official Trailer"
+          ],
+          "insight": "Trailers and teasers for upcoming releases are highly popular. Producing high-quality trailers can significantly drive engagement and views."
+        },
+        "gaming_content": {
+          "count": 2,
+          "examples": [
+            "Pokémon Champions – Overview Trailer – Nintendo Switch",
+            "I Played Pokemon Champions Early"
+          ],
+          "insight": "Gaming content, especially around popular franchises like Pokémon, continues to attract significant attention and can be a lucrative niche for content creators."
+        },
+        "news_and_current_affairs": {
+          "count": 3,
+          "examples": [
+            "FOX and Friends",
+            "Get Up",
+            "CNN News Central"
+          ],
+          "insight": "News and current affairs channels maintain a strong presence, suggesting that timely and insightful news content can capitalize on audience interest."
+        },
+        "music_content": {
+          "count": 1,
+          "example": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
+          "insight": "Music videos remain a staple on YouTube with potential for viral success, especially when leveraging unique styles or tapping into niche markets."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Nintendo of America",
-          "FOX News",
-          "Bedjine officiel",
-          "Disney",
-          "CNN"
-        ],
-        "creator_diversification": {
-          "observation": "The top channels are diverse, ranging from entertainment and gaming to news and music.",
-          "implication": "Cross-collaboration between different content types and channels could lead to increased exposure and audience growth."
+        "diverse_channel_representation": {
+          "insight": "The top channels represent a variety of content types (media companies, music artists, gaming companies), indicating diverse content consumption on YouTube."
         }
       },
       "market_opportunities": {
-        "emerging_trends": {
-          "gaming": {
-            "opportunity": "With gaming trailers like 'Pokémon Champions' trending, there is a potential market for gaming-related content such as reviews, gameplay tips, and live streams."
-          },
-          "film": {
-            "opportunity": "The presence of multiple film trailers suggests a strong interest in cinematic content. Developing content around film analysis, behind-the-scenes, and fan theories could be beneficial."
-          },
-          "news": {
-            "opportunity": "The high viewership for news content indicates a market for specialized news segments, potentially focusing on underreported areas or global perspectives."
-          }
+        "enhanced_trailer_content": {
+          "opportunity": "Invest in developing engaging trailers and teasers for upcoming products, media, and events to capture audience interest."
         },
-        "strategic_recommendations": {
-          "content_scheduling": "Release content in alignment with major events, film releases, or news cycles to maximize potential exposure.",
-          "engagement": "Enhance audience engagement through interactive content such as polls, Q&A sessions, and live streams."
+        "gaming_focused_channels": {
+          "opportunity": "Capitalize on the gaming trend by creating content that explores new releases, gameplay strategies, and reviews to engage with the gaming community."
+        },
+        "news_analysis_and_opinion": {
+          "opportunity": "Offer in-depth analysis and opinion pieces on trending news topics to attract viewers seeking more than just headline news."
+        },
+        "cross-promotional_content": {
+          "opportunity": "Leverage collaborations between different types of content creators (e.g., media and gaming) to expand audience reach and drive engagement."
         }
       },
       "metadata_stats": {
@@ -510,7 +489,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 549281
+        "avg_views_per_video": 668584
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
