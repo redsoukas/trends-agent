@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-24T21:19:01.645698",
-  "date": "2026-03-24",
+  "timestamp": "2026-03-25T00:46:23.882093",
+  "date": "2026-03-25",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 499895,
-      "like_count": 32030,
-      "comment_count": 3776,
+      "view_count": 660004,
+      "like_count": 37877,
+      "comment_count": 4313,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -41,21 +41,38 @@
       "url": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
     },
     {
-      "video_id": "SiqRtYDgPmU",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "pHjepdMad4w",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-24T18:44:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SiqRtYDgPmU/hqdefault.jpg",
-      "duration": "PT1H1M10S",
-      "duration_seconds": 3670,
+      "published_at": "2026-03-24T20:42:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pHjepdMad4w/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SiqRtYDgPmU"
+      "url": "https://www.youtube.com/watch?v=pHjepdMad4w"
+    },
+    {
+      "video_id": "e__YaECyqTI",
+      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
+      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
+      "channel_title": "Bedjine officiel",
+      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
+      "published_at": "2026-03-24T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
+      "duration": "PT4M3S",
+      "duration_seconds": 243,
+      "view_count": 6665,
+      "like_count": 14811,
+      "comment_count": 7143,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
     },
     {
       "video_id": "n7f6hlKsxxo",
@@ -67,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 2817703,
-      "like_count": 37207,
-      "comment_count": 9046,
+      "view_count": 2903688,
+      "like_count": 38630,
+      "comment_count": 9599,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -101,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1181181,
-      "like_count": 9597,
-      "comment_count": 855,
+      "view_count": 1279609,
+      "like_count": 10508,
+      "comment_count": 928,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -129,32 +146,23 @@
       "url": "https://www.youtube.com/watch?v=GtWVE4-vOqw"
     },
     {
-      "video_id": "ztO4Bk0ALGI",
-      "title": "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
-      "description": "Watch JUJUTSU KAISEN on Crunchyroll! http://got.cr/cc-jjkpv\n\nABOUT JUJUTSU KAISEN\nYuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n▶ WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n🔶 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n",
-      "channel_title": "Crunchyroll",
-      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
-      "published_at": "2026-03-23T22:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
-      "duration": "PT56S",
-      "duration_seconds": 56,
-      "view_count": 1500077,
-      "like_count": 68933,
-      "comment_count": 2451,
-      "category_id": "1",
+      "video_id": "7A5YWn33eps",
+      "title": "TINY TAKEOVER | Official Trailer",
+      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-24T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 173016,
+      "like_count": 16222,
+      "comment_count": 1227,
+      "category_id": "20",
       "tags": [
-        "jujutsu kaisen",
-        "jujutsu kaisen anime",
-        "jjk",
-        "jjk anime",
-        "jujutsu kaisen season 3",
-        "jujutsu kaisen s3",
-        "jjk s3",
-        "jujutsu kaisen sendai colony",
-        "jjk sendai colony",
-        "crunchyroll"
+        "Minecraft"
       ],
-      "url": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
+      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
     },
     {
       "video_id": "RnYdnm24Efs",
@@ -174,40 +182,32 @@
       "url": "https://www.youtube.com/watch?v=RnYdnm24Efs"
     },
     {
-      "video_id": "7A5YWn33eps",
-      "title": "TINY TAKEOVER | Official Trailer",
-      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-24T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 111869,
-      "like_count": 13619,
-      "comment_count": 1068,
-      "category_id": "20",
+      "video_id": "ztO4Bk0ALGI",
+      "title": "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
+      "description": "Watch JUJUTSU KAISEN on Crunchyroll! http://got.cr/cc-jjkpv\n\nABOUT JUJUTSU KAISEN\nYuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n▶ WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n🔶 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n",
+      "channel_title": "Crunchyroll",
+      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+      "published_at": "2026-03-23T22:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
+      "duration": "PT56S",
+      "duration_seconds": 56,
+      "view_count": 1596640,
+      "like_count": 72078,
+      "comment_count": 2519,
+      "category_id": "1",
       "tags": [
-        "Minecraft"
+        "jujutsu kaisen",
+        "jujutsu kaisen anime",
+        "jjk",
+        "jjk anime",
+        "jujutsu kaisen season 3",
+        "jujutsu kaisen s3",
+        "jjk s3",
+        "jujutsu kaisen sendai colony",
+        "jjk sendai colony",
+        "crunchyroll"
       ],
-      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
-    },
-    {
-      "video_id": "-dWhN0yF-10",
-      "title": "Second Round: Illinois vs. Vanderbilt",
-      "description": "This Regional 1 Fort Worth second round clash brings the Illinois Fighting Illini and Vanderbilt Commodores inside Memorial Gymnasium. Illinois fought to defeat COLO 66-57, and Vanderbilt routed HPU 102-61. Both teams desperately want to win.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-24T08:20:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-dWhN0yF-10/hqdefault.jpg",
-      "duration": "PT1H46M11S",
-      "duration_seconds": 6371,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=-dWhN0yF-10"
+      "url": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
     }
   ],
   "videos_with_transcripts": [],
@@ -222,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pOfW-qdsvpU/hqdefault.jpg",
       "duration": "PT6M9S",
       "duration_seconds": 369,
-      "view_count": 499895,
-      "like_count": 32030,
-      "comment_count": 3776,
+      "view_count": 660004,
+      "like_count": 37877,
+      "comment_count": 4313,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -241,21 +241,38 @@
       "url": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
     },
     {
-      "video_id": "SiqRtYDgPmU",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "pHjepdMad4w",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-24T18:44:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SiqRtYDgPmU/hqdefault.jpg",
-      "duration": "PT1H1M10S",
-      "duration_seconds": 3670,
+      "published_at": "2026-03-24T20:42:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pHjepdMad4w/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SiqRtYDgPmU"
+      "url": "https://www.youtube.com/watch?v=pHjepdMad4w"
+    },
+    {
+      "video_id": "e__YaECyqTI",
+      "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
+      "description": "LISTEN TO \"FOLI RENMEN\" BY BEDJINE \navailable on all platforms:\nSpotify: \nhttps://open.spotify.com/artist/\nFacebook:\nhttps://www.facebook.com/bedjinehaiti\nTiktok:\nhttps://www.tiktok.com/@bedjineofficiel\nInstagram:\nhttps://www.instagram.com/bedjineofficiel\n\nBEAT BY: MAGICO BEAT( AUGUSTIN MANES)\nTEXT BY: K-DILAK ( JOUBITE DESSALINES)\nMELODIE BY: BEDJINE ( MARIE BEDJINE LOVE DAVID)\nMIXING BY: K-DILAK  ( JOUBITE DESSALINES)\nMASTERING BY: K-DILAK ( JOUBITE DESSALINES)\nCHORUS BY: BEBY JOE AND BEDJINE\nDIRECTOR: SMITH ETIENNE IPRODUCE\nSTYLED BY: TYGEE\nMAKEUP BYE : CHIKI",
+      "channel_title": "Bedjine officiel",
+      "channel_id": "UCHMCkZ2mAMhX072UDPjaWDA",
+      "published_at": "2026-03-24T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
+      "duration": "PT4M3S",
+      "duration_seconds": 243,
+      "view_count": 6665,
+      "like_count": 14811,
+      "comment_count": 7143,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
     },
     {
       "video_id": "n7f6hlKsxxo",
@@ -267,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n7f6hlKsxxo/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 2817703,
-      "like_count": 37207,
-      "comment_count": 9046,
+      "view_count": 2903688,
+      "like_count": 38630,
+      "comment_count": 9599,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo"
@@ -301,9 +318,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-fu2H3ZvD8/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1181181,
-      "like_count": 9597,
-      "comment_count": 855,
+      "view_count": 1279609,
+      "like_count": 10508,
+      "comment_count": 928,
       "category_id": "24",
       "tags": [
         "Dutton Ranch",
@@ -346,21 +363,23 @@
       "url": "https://www.youtube.com/watch?v=RnYdnm24Efs"
     },
     {
-      "video_id": "-dWhN0yF-10",
-      "title": "Second Round: Illinois vs. Vanderbilt",
-      "description": "This Regional 1 Fort Worth second round clash brings the Illinois Fighting Illini and Vanderbilt Commodores inside Memorial Gymnasium. Illinois fought to defeat COLO 66-57, and Vanderbilt routed HPU 102-61. Both teams desperately want to win.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-03-24T08:20:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-dWhN0yF-10/hqdefault.jpg",
-      "duration": "PT1H46M11S",
-      "duration_seconds": 6371,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=-dWhN0yF-10"
+      "video_id": "7A5YWn33eps",
+      "title": "TINY TAKEOVER | Official Trailer",
+      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-03-24T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
+      "duration": "PT43S",
+      "duration_seconds": 43,
+      "view_count": 173016,
+      "like_count": 16222,
+      "comment_count": 1227,
+      "category_id": "20",
+      "tags": [
+        "Minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
     },
     {
       "video_id": "ztO4Bk0ALGI",
@@ -372,9 +391,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ztO4Bk0ALGI/hqdefault.jpg",
       "duration": "PT56S",
       "duration_seconds": 56,
-      "view_count": 1500077,
-      "like_count": 68933,
-      "comment_count": 2451,
+      "view_count": 1596640,
+      "like_count": 72078,
+      "comment_count": 2519,
       "category_id": "1",
       "tags": [
         "jujutsu kaisen",
@@ -389,69 +408,85 @@
         "crunchyroll"
       ],
       "url": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
-    },
-    {
-      "video_id": "7A5YWn33eps",
-      "title": "TINY TAKEOVER | Official Trailer",
-      "description": "Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have\nstormed Minecraft, causing cuteness overload across biomes and builds. Listen out for\nheart-melting sounds, craft name tags for your pets, and keep babies forever young with the\ngolden dandelion. The babies are officially on the loose, so get ready to collect, coo over,\nand create chaos with these tiny rascals!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-03-24T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7A5YWn33eps/hqdefault.jpg",
-      "duration": "PT43S",
-      "duration_seconds": 43,
-      "view_count": 111869,
-      "like_count": 13619,
-      "comment_count": 1068,
-      "category_id": "20",
-      "tags": [
-        "Minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=7A5YWn33eps"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 6619622,
+        "average_views_per_video": 661962.2,
+        "categories": "Unknown"
+      },
       "content_trends": {
-        "diversity_in_content": {
-          "description": "The trending videos encompass a wide range of content, including trailers, sports, news, and anime.",
-          "insights": [
-            "Trailers and teasers account for 40% of the trending videos, indicating strong viewer interest in upcoming media releases.",
-            "Sports content, particularly college basketball, represents 40% of the videos, suggesting high engagement during tournament periods.",
-            "News content appears in the list with notable presence through a major channel, FOX News."
-          ]
+        "trailer_and_promotional_content": {
+          "count": 6,
+          "examples": [
+            "Pokémon Champions – Overview Trailer – Nintendo Switch",
+            "Moana | 'Official Trailer' | In Theaters July 10",
+            "Dutton Ranch | Official Teaser | Paramount+",
+            "TINY TAKEOVER | Official Trailer",
+            "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll"
+          ],
+          "insight": "Trailer and promotional content for movies, games, and series dominate the trending list, indicating a strong viewer interest in entertainment previews."
+        },
+        "sports_content": {
+          "count": 3,
+          "examples": [
+            "Second Round: Iowa vs. Florida",
+            "Second Round: UCLA vs. UConn",
+            "Second Round: USC vs. South Carolina"
+          ],
+          "insight": "Sports content, specifically related to specific matchups, is a significant portion of trending videos, reflecting viewer interest in live or recent sports events."
+        },
+        "news_and_music": {
+          "count": 2,
+          "examples": [
+            "America's Newsroom",
+            "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)"
+          ],
+          "insight": "News and music continue to be relevant, with a single representative video each, indicating niche yet impactful engagement."
         }
       },
       "creator_patterns": {
-        "channel_influence": {
-          "description": "Influential channels with significant followings tend to have their content trending.",
-          "insights": [
-            "Major entertainment and news channels like Nintendo of America, Disney, and FOX News have a high likelihood of their content trending, demonstrating the power of established brands.",
-            "Each top channel has only one video trending, showing that diverse content from different categories can trend simultaneously."
-          ]
-        },
-        "engagement_strategies": {
-          "description": "Successful engagement strategies observed in the trending videos.",
-          "insights": [
-            "Leveraging popular franchises (e.g., Pokémon, Moana, JUJUTSU KAISEN) can significantly boost viewership.",
-            "Releasing content tied to current events or seasonal interests (e.g., sports tournaments, movie releases) is effective in capturing audience attention."
-          ]
+        "top_channels": {
+          "Nintendo of America": {
+            "video_count": 1,
+            "focus": "Gaming and Entertainment",
+            "insight": "Continues to engage audience with trailers for new releases."
+          },
+          "FOX News": {
+            "video_count": 1,
+            "focus": "News",
+            "insight": "Maintains audience interest with current affairs content."
+          },
+          "Bedjine officiel": {
+            "video_count": 1,
+            "focus": "Music",
+            "insight": "Successfully engages with music content, contributing to cultural diversity in trends."
+          },
+          "Disney": {
+            "video_count": 1,
+            "focus": "Entertainment",
+            "insight": "Leverages popular franchise releases to maintain engagement."
+          },
+          "TBS": {
+            "video_count": 1,
+            "focus": "Sports",
+            "insight": "Capitalizes on live sports events to drive viewership."
+          }
         }
       },
       "market_opportunities": {
-        "potential_growth_areas": {
-          "description": "Identifying areas with growth potential based on current trends.",
-          "insights": [
-            "There is an opportunity to create content around upcoming events or releases, given the high engagement seen in trailers and sports.",
-            "Channels that can leverage multiple popular franchises or current events might increase their chances of trending."
-          ]
+        "enhanced_category_tagging": {
+          "insight": "The current lack of category data suggests an opportunity to improve metadata for better audience targeting and engagement analysis."
         },
-        "category_expansion": {
-          "description": "Opportunities to expand into less represented categories among trending content.",
-          "insights": [
-            "While sports and entertainment trailers are well-represented, other categories like educational content or tech reviews might be underrepresented, presenting a growth opportunity."
-          ]
+        "cross-platform promotions": {
+          "insight": "Promotional and trailer content could benefit from integrated campaigns across YouTube, social media, and streaming platforms to maximize reach."
+        },
+        "niche content expansion": {
+          "insight": "Given the success of fewer-represented categories like music and news, there is potential to explore and expand niche content areas to diversify engagement."
         }
       },
       "metadata_stats": {
@@ -460,7 +495,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 611072
+        "avg_views_per_video": 661962
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
