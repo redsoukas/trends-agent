@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T06:36:12.929231",
+  "timestamp": "2026-03-26T09:29:18.792478",
   "date": "2026-03-26",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et-jiZePGII/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 63037,
-      "like_count": 1955,
-      "comment_count": 504,
+      "view_count": 150342,
+      "like_count": 3231,
+      "comment_count": 884,
       "category_id": "24",
       "tags": [
         "harry potter",
@@ -38,13 +38,13 @@
       "url": "https://www.youtube.com/watch?v=Et-jiZePGII"
     },
     {
-      "video_id": "sjtWr1eQxqQ",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "6GNLa77eOCA",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-26T03:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sjtWr1eQxqQ/hqdefault.jpg",
+      "published_at": "2026-03-26T07:26:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6GNLa77eOCA/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -52,7 +52,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=sjtWr1eQxqQ"
+      "url": "https://www.youtube.com/watch?v=6GNLa77eOCA"
     },
     {
       "video_id": "e__YaECyqTI",
@@ -64,9 +64,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 636428,
-      "like_count": 31600,
-      "comment_count": 16778,
+      "view_count": 646929,
+      "like_count": 31741,
+      "comment_count": 17792,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -81,40 +81,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/a8RHqN93qfo/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 2370627,
-      "like_count": 56276,
-      "comment_count": 3582,
+      "view_count": 2727517,
+      "like_count": 61698,
+      "comment_count": 3885,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=a8RHqN93qfo"
     },
     {
-      "video_id": "cVm98BBkQRY",
-      "title": "Searching for 100 Players Who Went Missing",
-      "description": "Thousands of players have joined the Unstable SMP, but a small portion of those players have mysteriously disappeared, including my best friend. After finding out no one else was willing to solve this, I along with my teammate, JumperWho, made it our mission to find the missing players and hopefully reunite with my long lost friend...\n\nSearching for 100 Players Who Went Missing\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nmusic: \nChristopher Larkin\nIvory /  @ivoryfrill  &  @MythrodakTV  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\nCameron 'Caero' Munoz\nJohan Johnson\nPeter Hont\nCrispin Hands\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are",
-      "channel_title": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "published_at": "2026-03-25T21:49:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cVm98BBkQRY/hqdefault.jpg",
-      "duration": "PT1H18M21S",
-      "duration_seconds": 4701,
-      "view_count": 648927,
-      "like_count": 43412,
-      "comment_count": 9497,
-      "category_id": "20",
-      "tags": [
-        "spoke",
-        "spokeishere",
-        "lifesteal",
-        "minecraft",
-        "survival",
-        "wormhole",
-        "unstable",
-        "unstable universe",
-        "wemmbu",
-        "parrotx2"
-      ],
-      "url": "https://www.youtube.com/watch?v=cVm98BBkQRY"
+      "video_id": "edJUiUf3eP4",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-26T07:14:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/edJUiUf3eP4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=edJUiUf3eP4"
     },
     {
       "video_id": "sHQukSJLjoc",
@@ -126,9 +115,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sHQukSJLjoc/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 121599,
-      "like_count": 2203,
-      "comment_count": 846,
+      "view_count": 160641,
+      "like_count": 2668,
+      "comment_count": 1067,
       "category_id": "24",
       "tags": [
         "2026",
@@ -145,58 +134,13 @@
       "url": "https://www.youtube.com/watch?v=sHQukSJLjoc"
     },
     {
-      "video_id": "0ObnVtXHDfg",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-26T01:02:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0ObnVtXHDfg/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0ObnVtXHDfg"
-    },
-    {
-      "video_id": "kgv8jf_8dm0",
-      "title": "Apex | Official Trailer | Netflix",
-      "description": "Testing her limits in the remote and unforgiving Australian wilderness, Sasha (Charlize Theron) suddenly finds herself not only up against the elements, but also facing off against a ruthless and lethal predator (Taron Egerton). Watch Apex – only on Netflix April 24.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81763251\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nApex | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-25T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 1661494,
-      "like_count": 11890,
-      "comment_count": 768,
-      "category_id": "24",
-      "tags": [
-        "Action",
-        "Adrenaline",
-        "Adventure",
-        "Apex",
-        "April",
-        "Baltasar Kormakur",
-        "Binge",
-        "Charlize Theron",
-        "Crime",
-        "Dark"
-      ],
-      "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
-    },
-    {
-      "video_id": "YjN1WSrLkyo",
-      "title": "The Lead With Jake Tapper",
-      "description": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-26T04:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YjN1WSrLkyo/hqdefault.jpg",
+      "video_id": "DMgUg2yKyKk",
+      "title": "Reunion",
+      "description": "Craig faces the wrath of those he wronged at his holiday party. Venita faces the reality of her failing friendships. Leva gives us a peek into her new show. A scorned Taylor reveals the truth.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-26T08:06:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DMgUg2yKyKk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -204,7 +148,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=YjN1WSrLkyo"
+      "url": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
     },
     {
       "video_id": "nHE6-XpUd74",
@@ -216,9 +160,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nHE6-XpUd74/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 133783,
-      "like_count": 16377,
-      "comment_count": 1007,
+      "view_count": 338673,
+      "like_count": 24220,
+      "comment_count": 1346,
       "category_id": "20",
       "tags": [
         "Games Workshop",
@@ -233,6 +177,51 @@
         "Astartes"
       ],
       "url": "https://www.youtube.com/watch?v=nHE6-XpUd74"
+    },
+    {
+      "video_id": "XHhqVfvqGwA",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-26T05:47:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XHhqVfvqGwA/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=XHhqVfvqGwA"
+    },
+    {
+      "video_id": "kgv8jf_8dm0",
+      "title": "Apex | Official Trailer | Netflix",
+      "description": "Testing her limits in the remote and unforgiving Australian wilderness, Sasha (Charlize Theron) suddenly finds herself not only up against the elements, but also facing off against a ruthless and lethal predator (Taron Egerton). Watch Apex – only on Netflix April 24.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81763251\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nApex | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-25T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
+      "duration": "PT2M14S",
+      "duration_seconds": 134,
+      "view_count": 2917190,
+      "like_count": 14011,
+      "comment_count": 862,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Adrenaline",
+        "Adventure",
+        "Apex",
+        "April",
+        "Baltasar Kormakur",
+        "Binge",
+        "Charlize Theron",
+        "Crime",
+        "Dark"
+      ],
+      "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
     }
   ],
   "videos_with_transcripts": [],
@@ -247,9 +236,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et-jiZePGII/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 63037,
-      "like_count": 1955,
-      "comment_count": 504,
+      "view_count": 150342,
+      "like_count": 3231,
+      "comment_count": 884,
       "category_id": "24",
       "tags": [
         "harry potter",
@@ -263,13 +252,13 @@
       "url": "https://www.youtube.com/watch?v=Et-jiZePGII"
     },
     {
-      "video_id": "sjtWr1eQxqQ",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "6GNLa77eOCA",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-26T03:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sjtWr1eQxqQ/hqdefault.jpg",
+      "published_at": "2026-03-26T07:26:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6GNLa77eOCA/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -277,7 +266,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=sjtWr1eQxqQ"
+      "url": "https://www.youtube.com/watch?v=6GNLa77eOCA"
     },
     {
       "video_id": "e__YaECyqTI",
@@ -289,9 +278,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/e__YaECyqTI/hqdefault.jpg",
       "duration": "PT4M3S",
       "duration_seconds": 243,
-      "view_count": 636428,
-      "like_count": 31600,
-      "comment_count": 16778,
+      "view_count": 646929,
+      "like_count": 31741,
+      "comment_count": 17792,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=e__YaECyqTI"
@@ -306,40 +295,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/a8RHqN93qfo/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 2370627,
-      "like_count": 56276,
-      "comment_count": 3582,
+      "view_count": 2727517,
+      "like_count": 61698,
+      "comment_count": 3885,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=a8RHqN93qfo"
     },
     {
-      "video_id": "cVm98BBkQRY",
-      "title": "Searching for 100 Players Who Went Missing",
-      "description": "Thousands of players have joined the Unstable SMP, but a small portion of those players have mysteriously disappeared, including my best friend. After finding out no one else was willing to solve this, I along with my teammate, JumperWho, made it our mission to find the missing players and hopefully reunite with my long lost friend...\n\nSearching for 100 Players Who Went Missing\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nmusic: \nChristopher Larkin\nIvory /  @ivoryfrill  &  @MythrodakTV  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\nCameron 'Caero' Munoz\nJohan Johnson\nPeter Hont\nCrispin Hands\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible. btw a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are",
-      "channel_title": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "published_at": "2026-03-25T21:49:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cVm98BBkQRY/hqdefault.jpg",
-      "duration": "PT1H18M21S",
-      "duration_seconds": 4701,
-      "view_count": 648927,
-      "like_count": 43412,
-      "comment_count": 9497,
-      "category_id": "20",
-      "tags": [
-        "spoke",
-        "spokeishere",
-        "lifesteal",
-        "minecraft",
-        "survival",
-        "wormhole",
-        "unstable",
-        "unstable universe",
-        "wemmbu",
-        "parrotx2"
-      ],
-      "url": "https://www.youtube.com/watch?v=cVm98BBkQRY"
+      "video_id": "edJUiUf3eP4",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-03-26T07:14:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/edJUiUf3eP4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=edJUiUf3eP4"
     },
     {
       "video_id": "sHQukSJLjoc",
@@ -351,9 +329,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sHQukSJLjoc/hqdefault.jpg",
       "duration": "PT2M28S",
       "duration_seconds": 148,
-      "view_count": 121599,
-      "like_count": 2203,
-      "comment_count": 846,
+      "view_count": 160641,
+      "like_count": 2668,
+      "comment_count": 1067,
       "category_id": "24",
       "tags": [
         "2026",
@@ -370,58 +348,13 @@
       "url": "https://www.youtube.com/watch?v=sHQukSJLjoc"
     },
     {
-      "video_id": "0ObnVtXHDfg",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-26T01:02:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0ObnVtXHDfg/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0ObnVtXHDfg"
-    },
-    {
-      "video_id": "kgv8jf_8dm0",
-      "title": "Apex | Official Trailer | Netflix",
-      "description": "Testing her limits in the remote and unforgiving Australian wilderness, Sasha (Charlize Theron) suddenly finds herself not only up against the elements, but also facing off against a ruthless and lethal predator (Taron Egerton). Watch Apex – only on Netflix April 24.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81763251\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nApex | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-25T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "duration_seconds": 134,
-      "view_count": 1661494,
-      "like_count": 11890,
-      "comment_count": 768,
-      "category_id": "24",
-      "tags": [
-        "Action",
-        "Adrenaline",
-        "Adventure",
-        "Apex",
-        "April",
-        "Baltasar Kormakur",
-        "Binge",
-        "Charlize Theron",
-        "Crime",
-        "Dark"
-      ],
-      "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
-    },
-    {
-      "video_id": "YjN1WSrLkyo",
-      "title": "The Lead With Jake Tapper",
-      "description": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-26T04:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YjN1WSrLkyo/hqdefault.jpg",
+      "video_id": "DMgUg2yKyKk",
+      "title": "Reunion",
+      "description": "Craig faces the wrath of those he wronged at his holiday party. Venita faces the reality of her failing friendships. Leva gives us a peek into her new show. A scorned Taylor reveals the truth.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-03-26T08:06:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DMgUg2yKyKk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -429,7 +362,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=YjN1WSrLkyo"
+      "url": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
     },
     {
       "video_id": "nHE6-XpUd74",
@@ -441,9 +374,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nHE6-XpUd74/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 133783,
-      "like_count": 16377,
-      "comment_count": 1007,
+      "view_count": 338673,
+      "like_count": 24220,
+      "comment_count": 1346,
       "category_id": "20",
       "tags": [
         "Games Workshop",
@@ -458,60 +391,132 @@
         "Astartes"
       ],
       "url": "https://www.youtube.com/watch?v=nHE6-XpUd74"
+    },
+    {
+      "video_id": "XHhqVfvqGwA",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-26T05:47:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XHhqVfvqGwA/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=XHhqVfvqGwA"
+    },
+    {
+      "video_id": "kgv8jf_8dm0",
+      "title": "Apex | Official Trailer | Netflix",
+      "description": "Testing her limits in the remote and unforgiving Australian wilderness, Sasha (Charlize Theron) suddenly finds herself not only up against the elements, but also facing off against a ruthless and lethal predator (Taron Egerton). Watch Apex – only on Netflix April 24.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81763251\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nApex | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-03-25T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
+      "duration": "PT2M14S",
+      "duration_seconds": 134,
+      "view_count": 2917190,
+      "like_count": 14011,
+      "comment_count": 862,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Adrenaline",
+        "Adventure",
+        "Apex",
+        "April",
+        "Baltasar Kormakur",
+        "Binge",
+        "Charlize Theron",
+        "Crime",
+        "Dark"
+      ],
+      "url": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "trailer_and_teaser_videos": {
-          "count": 4,
-          "titles": [
-            "‘Harry Potter’: See The 1st Trailer For The New Series!",
-            "FORGOTTEN ISLAND | Official Trailer",
-            "HARRY POTTER AND THE PHILOSOPHER'S STONE Official Teaser Trailer (2026)",
-            "Apex | Official Trailer | Netflix"
-          ],
-          "insight": "Trailer and teaser videos are a prominent trend, indicating strong viewer interest in upcoming media releases. This suggests a strategic focus on creating engaging previews for new series, movies, and games."
-        },
-        "news_and_commentary": {
-          "count": 3,
-          "titles": [
-            "The Will Cain Show",
-            "Morning Joe",
-            "The Lead With Jake Tapper"
-          ],
-          "insight": "News and commentary content is also trending, reflecting ongoing audience engagement with timely and opinion-driven content. This presents opportunities for creators in the news space to leverage current events to capture viewership."
-        },
-        "music_video": {
-          "count": 1,
-          "title": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
-          "insight": "Music videos have a presence, though less dominant. There is potential for growth in this category by targeting niche audiences and leveraging current music trends."
-        },
-        "gaming": {
-          "count": 1,
-          "title": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
-          "insight": "Gaming content, particularly cinematic trailers, shows interest in immersive storytelling and franchise development. This suggests opportunities for collaborations between game developers and cinematic creators."
-        }
+        "categories": [
+          "Entertainment",
+          "News",
+          "Music",
+          "Gaming"
+        ],
+        "insights": [
+          {
+            "category": "Entertainment",
+            "observations": [
+              "Harry Potter series and related content are highly popular, as evidenced by two separate trending videos.",
+              "Trailers and teasers for new series or movies (e.g., Apex | Official Trailer | Netflix) are significant drivers of views."
+            ]
+          },
+          {
+            "category": "News",
+            "observations": [
+              "Current global events, such as potential conflicts (e.g., CNN Global Report: War With Iran), attract significant viewer interest.",
+              "Political commentary shows like Deadline: White House and Jesse Watters Primetime maintain steady viewership."
+            ]
+          },
+          {
+            "category": "Music",
+            "observations": [
+              "Official music videos continue to trend, indicating strong engagement in the music category."
+            ]
+          },
+          {
+            "category": "Gaming",
+            "observations": [
+              "Cinematic trailers for new editions of popular games (e.g., Armageddon: Warhammer 40,000) generate significant interest."
+            ]
+          }
+        ]
       },
       "creator_patterns": {
-        "diverse_channels": {
-          "insight": "The top channels are diverse, featuring entertainment, news, and music. This variety in channel types highlights the multifaceted nature of trending content and the importance of cross-genre strategies for creators."
-        },
-        "single_video_contributions": {
-          "insight": "Each top channel contributed only a single video to the trending list, indicating that multiple creators are achieving viral success with individual pieces of content, rather than sustained output from a few dominant channels."
-        }
+        "channel_diversity": "Each of the top channels has only one video in the trending list, suggesting diverse content appealed across different audiences.",
+        "content_strategy": [
+          {
+            "channel": "Access Hollywood",
+            "strategy": "Capitalizing on popular franchises (e.g., Harry Potter) to engage audiences."
+          },
+          {
+            "channel": "FOX News",
+            "strategy": "Leveraging political and current events to capture viewer interest."
+          },
+          {
+            "channel": "Universal Pictures",
+            "strategy": "Releasing teasers and trailers to build anticipation for upcoming releases."
+          },
+          {
+            "channel": "Bedjine officiel",
+            "strategy": "Engaging music audiences with official music video releases."
+          }
+        ]
       },
       "market_opportunities": {
-        "cross-promotional_content": {
-          "insight": "Opportunities exist for cross-promotional content between news, entertainment, and gaming sectors to maximize audience crossover and engagement."
-        },
-        "localized_music_content": {
-          "insight": "The presence of a music video suggests potential for localized or niche music content to trend, especially when combined with innovative video production."
-        },
-        "trailer_and_teaser_engagement": {
-          "insight": "Investing in high-quality production of trailers and teasers is a viable strategy due to their high engagement potential. Collaborations with influencers in entertainment can amplify reach."
-        }
+        "insights": [
+          {
+            "opportunity": "Franchise Content",
+            "recommendation": "Develop content related to popular franchises or universes, such as Harry Potter, to leverage existing fan bases."
+          },
+          {
+            "opportunity": "Current Events",
+            "recommendation": "Create timely content around significant global events or political happenings to capture immediate interest."
+          },
+          {
+            "opportunity": "Music Collaborations",
+            "recommendation": "Collaborate with emerging artists for music video releases to tap into diverse music audiences."
+          },
+          {
+            "opportunity": "Gaming Trailers",
+            "recommendation": "Invest in high-quality cinematic trailers for game releases to engage the gaming community effectively."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -519,7 +524,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 563589
+        "avg_views_per_video": 694129
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
