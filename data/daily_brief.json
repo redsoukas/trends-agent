@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T04:02:25.567184",
+  "timestamp": "2026-03-27T06:36:29.717463",
   "date": "2026-03-27",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 1521353,
-      "like_count": 26000,
-      "comment_count": 1877,
+      "view_count": 1747106,
+      "like_count": 27932,
+      "comment_count": 2033,
       "category_id": "1",
       "tags": [
         "2026",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
     },
     {
-      "video_id": "0JaxjpSbTJ8",
-      "title": "America Reports",
-      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "video_id": "yUjiRErGoN0",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-27T00:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0JaxjpSbTJ8/hqdefault.jpg",
+      "published_at": "2026-03-27T05:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUjiRErGoN0/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0JaxjpSbTJ8"
+      "url": "https://www.youtube.com/watch?v=yUjiRErGoN0"
     },
     {
       "video_id": "Et-jiZePGII",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et-jiZePGII/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 589831,
-      "like_count": 8445,
-      "comment_count": 2837,
+      "view_count": 611412,
+      "like_count": 8659,
+      "comment_count": 2919,
       "category_id": "24",
       "tags": [
         "harry potter",
@@ -86,21 +86,21 @@
       "url": "https://www.youtube.com/watch?v=Et-jiZePGII"
     },
     {
-      "video_id": "KcCXcbnnyrk",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "video_id": "nSkhR4YnTHQ",
+      "title": "The Beat With Ari Melber",
+      "description": "Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-26T21:16:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KcCXcbnnyrk/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "published_at": "2026-03-27T04:45:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nSkhR4YnTHQ/hqdefault.jpg",
+      "duration": "PT1H1M9S",
+      "duration_seconds": 3669,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=KcCXcbnnyrk"
+      "url": "https://www.youtube.com/watch?v=nSkhR4YnTHQ"
     },
     {
       "video_id": "Yse0H0mXEuQ",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Yse0H0mXEuQ/hqdefault.jpg",
       "duration": "PT3M42S",
       "duration_seconds": 222,
-      "view_count": 2469233,
-      "like_count": 352335,
-      "comment_count": 38324,
+      "view_count": 2900779,
+      "like_count": 392551,
+      "comment_count": 40267,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Yse0H0mXEuQ"
@@ -129,9 +129,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kajCUhg36R0/hqdefault.jpg",
       "duration": "PT2M43S",
       "duration_seconds": 163,
-      "view_count": 512046,
-      "like_count": 23752,
-      "comment_count": 2448,
+      "view_count": 567906,
+      "like_count": 25070,
+      "comment_count": 2574,
       "category_id": "24",
       "tags": [
         "Animation",
@@ -146,6 +146,51 @@
         "Nancy Wheeler"
       ],
       "url": "https://www.youtube.com/watch?v=kajCUhg36R0"
+    },
+    {
+      "video_id": "ozlhySZ8KOc",
+      "title": "Brazil vs. France",
+      "description": "From Gillette Stadium in Foxboro, Mass.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-27T05:23:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ozlhySZ8KOc/hqdefault.jpg",
+      "duration": "PT1H44M41S",
+      "duration_seconds": 6281,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ozlhySZ8KOc"
+    },
+    {
+      "video_id": "DvdFI-NTcGg",
+      "title": "Halloween - Official Multiplayer Overview Trailer",
+      "description": "Check out the Multiplayer Overview Trailer for Halloween, an upcoming asymmetrical action horror co-op game developed by Illfonic. Players will get the rundown on the features, gameplay loop, and key details on how Multiplayer works in Michael Myers' latest outing. As Survivors attempt to rescue their neighbors and themselves, Michael Myers is on the hunt across a suite of maps to lay waste to anyone in his way through stalking and slaying. Take a look at the Multiplayer suite of Halloween, launching on September 8 for PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-26T14:43:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DvdFI-NTcGg/hqdefault.jpg",
+      "duration": "PT7M35S",
+      "duration_seconds": 455,
+      "view_count": 189911,
+      "like_count": 11798,
+      "comment_count": 1469,
+      "category_id": "20",
+      "tags": [
+        "Action",
+        "Asymmetrical Multiplayer",
+        "Further Front",
+        "Gun Media",
+        "Halloween",
+        "Halloween [2026]",
+        "Horror",
+        "Illfonic",
+        "Online Co-Op Multiplayer",
+        "Online Versus Multiplayer"
+      ],
+      "url": "https://www.youtube.com/watch?v=DvdFI-NTcGg"
     },
     {
       "video_id": "YCTCmFx1HTM",
@@ -165,51 +210,6 @@
       "url": "https://www.youtube.com/watch?v=YCTCmFx1HTM"
     },
     {
-      "video_id": "DvdFI-NTcGg",
-      "title": "Halloween - Official Multiplayer Overview Trailer",
-      "description": "Check out the Multiplayer Overview Trailer for Halloween, an upcoming asymmetrical action horror co-op game developed by Illfonic. Players will get the rundown on the features, gameplay loop, and key details on how Multiplayer works in Michael Myers' latest outing. As Survivors attempt to rescue their neighbors and themselves, Michael Myers is on the hunt across a suite of maps to lay waste to anyone in his way through stalking and slaying. Take a look at the Multiplayer suite of Halloween, launching on September 8 for PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-26T14:43:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DvdFI-NTcGg/hqdefault.jpg",
-      "duration": "PT7M35S",
-      "duration_seconds": 455,
-      "view_count": 155972,
-      "like_count": 10508,
-      "comment_count": 1296,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Asymmetrical Multiplayer",
-        "Further Front",
-        "Gun Media",
-        "Halloween",
-        "Halloween [2026]",
-        "Horror",
-        "Illfonic",
-        "Online Co-Op Multiplayer",
-        "Online Versus Multiplayer"
-      ],
-      "url": "https://www.youtube.com/watch?v=DvdFI-NTcGg"
-    },
-    {
-      "video_id": "_JDNLX-yR5c",
-      "title": "CNN News Central",
-      "description": "News from around the world with Brianna Keilar and Boris Sanchez.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-27T02:48:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_JDNLX-yR5c/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=_JDNLX-yR5c"
-    },
-    {
       "video_id": "nHE6-XpUd74",
       "title": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
       "description": "Armageddon burns. The green tide will not be stemmed. Old heroes and fresh menaces fight tooth and claw for every inch of blood-soaked ground. \n\nThere Is Only War.\n\nA new edition of Warhammer 40,000 has been announced. Check out the full reveal now: https://www.warhammer-community.com/en-gb/articles/ctdexme4/warhammer-40000-the-new-edition-is-revealed-at-adepticon-preview-2026/\n\nFollow for more Warhammer, more often:\n\n- Sign up for Warhammer+: https://www.warhammerplus.com/\n- Warhammer 40,000 on YouTube: https://www.youtube.com/@OfficialWarhammer40000\n- Instagram: https://www.instagram.com/warhammerofficial/\n- Threads: https://www.threads.net/@warhammerofficial\n- Facebook: https://www.facebook.com/WarhammerOfficial/\n- Warhammer Community: https://www.warhammer-community.com/\n- Get Warhammer in your inbox: https://ow.ly/6SJq50T3NL1",
@@ -219,9 +219,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nHE6-XpUd74/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 888742,
-      "like_count": 47931,
-      "comment_count": 2361,
+      "view_count": 912749,
+      "like_count": 48620,
+      "comment_count": 2382,
       "category_id": "20",
       "tags": [
         "Games Workshop",
@@ -250,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 1521353,
-      "like_count": 26000,
-      "comment_count": 1877,
+      "view_count": 1747106,
+      "like_count": 27932,
+      "comment_count": 2033,
       "category_id": "1",
       "tags": [
         "2026",
@@ -269,13 +269,13 @@
       "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
     },
     {
-      "video_id": "0JaxjpSbTJ8",
-      "title": "America Reports",
-      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "video_id": "yUjiRErGoN0",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-27T00:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0JaxjpSbTJ8/hqdefault.jpg",
+      "published_at": "2026-03-27T05:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUjiRErGoN0/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -283,7 +283,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0JaxjpSbTJ8"
+      "url": "https://www.youtube.com/watch?v=yUjiRErGoN0"
     },
     {
       "video_id": "Et-jiZePGII",
@@ -295,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Et-jiZePGII/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 589831,
-      "like_count": 8445,
-      "comment_count": 2837,
+      "view_count": 611412,
+      "like_count": 8659,
+      "comment_count": 2919,
       "category_id": "24",
       "tags": [
         "harry potter",
@@ -314,21 +314,21 @@
       "url": "https://www.youtube.com/watch?v=Et-jiZePGII"
     },
     {
-      "video_id": "KcCXcbnnyrk",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "video_id": "nSkhR4YnTHQ",
+      "title": "The Beat With Ari Melber",
+      "description": "Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-26T21:16:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KcCXcbnnyrk/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "published_at": "2026-03-27T04:45:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nSkhR4YnTHQ/hqdefault.jpg",
+      "duration": "PT1H1M9S",
+      "duration_seconds": 3669,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=KcCXcbnnyrk"
+      "url": "https://www.youtube.com/watch?v=nSkhR4YnTHQ"
     },
     {
       "video_id": "kajCUhg36R0",
@@ -340,9 +340,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kajCUhg36R0/hqdefault.jpg",
       "duration": "PT2M43S",
       "duration_seconds": 163,
-      "view_count": 512046,
-      "like_count": 23752,
-      "comment_count": 2448,
+      "view_count": 567906,
+      "like_count": 25070,
+      "comment_count": 2574,
       "category_id": "24",
       "tags": [
         "Animation",
@@ -357,6 +357,51 @@
         "Nancy Wheeler"
       ],
       "url": "https://www.youtube.com/watch?v=kajCUhg36R0"
+    },
+    {
+      "video_id": "ozlhySZ8KOc",
+      "title": "Brazil vs. France",
+      "description": "From Gillette Stadium in Foxboro, Mass.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-03-27T05:23:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ozlhySZ8KOc/hqdefault.jpg",
+      "duration": "PT1H44M41S",
+      "duration_seconds": 6281,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ozlhySZ8KOc"
+    },
+    {
+      "video_id": "DvdFI-NTcGg",
+      "title": "Halloween - Official Multiplayer Overview Trailer",
+      "description": "Check out the Multiplayer Overview Trailer for Halloween, an upcoming asymmetrical action horror co-op game developed by Illfonic. Players will get the rundown on the features, gameplay loop, and key details on how Multiplayer works in Michael Myers' latest outing. As Survivors attempt to rescue their neighbors and themselves, Michael Myers is on the hunt across a suite of maps to lay waste to anyone in his way through stalking and slaying. Take a look at the Multiplayer suite of Halloween, launching on September 8 for PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-03-26T14:43:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DvdFI-NTcGg/hqdefault.jpg",
+      "duration": "PT7M35S",
+      "duration_seconds": 455,
+      "view_count": 189911,
+      "like_count": 11798,
+      "comment_count": 1469,
+      "category_id": "20",
+      "tags": [
+        "Action",
+        "Asymmetrical Multiplayer",
+        "Further Front",
+        "Gun Media",
+        "Halloween",
+        "Halloween [2026]",
+        "Horror",
+        "Illfonic",
+        "Online Co-Op Multiplayer",
+        "Online Versus Multiplayer"
+      ],
+      "url": "https://www.youtube.com/watch?v=DvdFI-NTcGg"
     },
     {
       "video_id": "YCTCmFx1HTM",
@@ -376,51 +421,6 @@
       "url": "https://www.youtube.com/watch?v=YCTCmFx1HTM"
     },
     {
-      "video_id": "DvdFI-NTcGg",
-      "title": "Halloween - Official Multiplayer Overview Trailer",
-      "description": "Check out the Multiplayer Overview Trailer for Halloween, an upcoming asymmetrical action horror co-op game developed by Illfonic. Players will get the rundown on the features, gameplay loop, and key details on how Multiplayer works in Michael Myers' latest outing. As Survivors attempt to rescue their neighbors and themselves, Michael Myers is on the hunt across a suite of maps to lay waste to anyone in his way through stalking and slaying. Take a look at the Multiplayer suite of Halloween, launching on September 8 for PlayStation 5 (PS5), Xbox Series X|S, and PC (Steam).",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-03-26T14:43:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DvdFI-NTcGg/hqdefault.jpg",
-      "duration": "PT7M35S",
-      "duration_seconds": 455,
-      "view_count": 155972,
-      "like_count": 10508,
-      "comment_count": 1296,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Asymmetrical Multiplayer",
-        "Further Front",
-        "Gun Media",
-        "Halloween",
-        "Halloween [2026]",
-        "Horror",
-        "Illfonic",
-        "Online Co-Op Multiplayer",
-        "Online Versus Multiplayer"
-      ],
-      "url": "https://www.youtube.com/watch?v=DvdFI-NTcGg"
-    },
-    {
-      "video_id": "_JDNLX-yR5c",
-      "title": "CNN News Central",
-      "description": "News from around the world with Brianna Keilar and Boris Sanchez.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-03-27T02:48:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_JDNLX-yR5c/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=_JDNLX-yR5c"
-    },
-    {
       "video_id": "nHE6-XpUd74",
       "title": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
       "description": "Armageddon burns. The green tide will not be stemmed. Old heroes and fresh menaces fight tooth and claw for every inch of blood-soaked ground. \n\nThere Is Only War.\n\nA new edition of Warhammer 40,000 has been announced. Check out the full reveal now: https://www.warhammer-community.com/en-gb/articles/ctdexme4/warhammer-40000-the-new-edition-is-revealed-at-adepticon-preview-2026/\n\nFollow for more Warhammer, more often:\n\n- Sign up for Warhammer+: https://www.warhammerplus.com/\n- Warhammer 40,000 on YouTube: https://www.youtube.com/@OfficialWarhammer40000\n- Instagram: https://www.instagram.com/warhammerofficial/\n- Threads: https://www.threads.net/@warhammerofficial\n- Facebook: https://www.facebook.com/WarhammerOfficial/\n- Warhammer Community: https://www.warhammer-community.com/\n- Get Warhammer in your inbox: https://ow.ly/6SJq50T3NL1",
@@ -430,9 +430,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nHE6-XpUd74/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 888742,
-      "like_count": 47931,
-      "comment_count": 2361,
+      "view_count": 912749,
+      "like_count": 48620,
+      "comment_count": 2382,
       "category_id": "20",
       "tags": [
         "Games Workshop",
@@ -458,9 +458,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Yse0H0mXEuQ/hqdefault.jpg",
       "duration": "PT3M42S",
       "duration_seconds": 222,
-      "view_count": 2469233,
-      "like_count": 352335,
-      "comment_count": 38324,
+      "view_count": 2900779,
+      "like_count": 392551,
+      "comment_count": 40267,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Yse0H0mXEuQ"
@@ -469,64 +469,121 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "genre": {
-          "entertainment": {
-            "count": 5,
-            "examples": [
-              "The End of Oak Street | Official Teaser Trailer",
-              "‘Harry Potter’: See The 1st Trailer For The New Series!",
-              "Stranger Things: Tales From ‘85 | Official Trailer | Netflix",
-              "Halloween - Official Multiplayer Overview Trailer",
-              "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer"
-            ],
-            "insight": "Entertainment, particularly trailers and teasers for upcoming series or movies, is a dominant genre. This suggests a strong viewer interest in new and upcoming entertainment content."
-          },
-          "news": {
-            "count": 3,
-            "examples": [
-              "America Reports",
-              "Morning Joe",
-              "CNN News Central"
-            ],
-            "insight": "News content remains a staple, indicating a consistent demand for current events and updates. Channels like FOX News and CNN continue to attract significant viewership."
-          },
-          "music": {
-            "count": 1,
-            "examples": [
-              "BALEN - JAY MAHAKAALI (Swapnil, Chronic Beatz, Foeseal)"
-            ],
-            "insight": "Music-related content also features, although less prominently in this dataset, suggesting niche but dedicated audience segments."
-          },
-          "uncategorized": {
-            "count": 1,
-            "examples": [
-              "No Program Available"
-            ],
-            "insight": "This could indicate experimental titles or placeholders, which could be optimized for better audience engagement."
-          }
+      "overview": {
+        "total_videos": 10,
+        "total_views": 6929863,
+        "average_views_per_video": 692986.3
+      },
+      "categories_analysis": {
+        "entertainment_and_media": {
+          "count": 5,
+          "examples": [
+            "The End of Oak Street | Official Teaser Trailer",
+            "‘Harry Potter’: See The 1st Trailer For The New Series!",
+            "Stranger Things: Tales From ‘85 | Official Trailer | Netflix",
+            "Halloween - Official Multiplayer Overview Trailer",
+            "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer"
+          ]
+        },
+        "news_and_events": {
+          "count": 2,
+          "examples": [
+            "The Five",
+            "The Beat With Ari Melber"
+          ]
+        },
+        "sports": {
+          "count": 1,
+          "examples": [
+            "Brazil vs. France"
+          ]
+        },
+        "music": {
+          "count": 1,
+          "examples": [
+            "BALEN - JAY MAHAKAALI (Swapnil, Chronic Beatz, Foeseal)"
+          ]
+        },
+        "unknown": {
+          "count": 1,
+          "examples": [
+            "No Program Available"
+          ]
         }
       },
       "creator_patterns": {
-        "dominant_channels": {
-          "diversity": {
-            "insight": "Top channels like Warner Bros., FOX News, and Access Hollywood indicate a diverse range of content from entertainment to news, appealing to varied audience interests."
+        "top_channels": {
+          "Warner Bros.": {
+            "video_count": 1,
+            "examples": [
+              "The End of Oak Street | Official Teaser Trailer"
+            ]
           },
-          "single_video_contributors": {
-            "insight": "All listed top channels contributed a single video to the trending list, suggesting that individual high-quality content can trend without the need for multiple videos from the same creator."
+          "FOX News": {
+            "video_count": 1,
+            "examples": [
+              "The Five"
+            ]
+          },
+          "Access Hollywood": {
+            "video_count": 1,
+            "examples": [
+              "‘Harry Potter’: See The 1st Trailer For The New Series!"
+            ]
+          },
+          "MSNBC": {
+            "video_count": 1,
+            "examples": [
+              "The Beat With Ari Melber"
+            ]
+          },
+          "Balen": {
+            "video_count": 1,
+            "examples": [
+              "BALEN - JAY MAHAKAALI (Swapnil, Chronic Beatz, Foeseal)"
+            ]
           }
-        }
+        },
+        "diversity_of_content": "High",
+        "cross-category_engagement": "Moderate"
       },
       "market_opportunities": {
-        "content_creation": {
-          "insight": "Creators can capitalize on producing high-quality trailers and teasers for entertainment content, leveraging the established viewer interest in upcoming shows and movies."
-        },
-        "news and updates": {
-          "insight": "There is a consistent appetite for news content, providing opportunities for creators to offer unique perspectives or deeper analyses on current events."
-        },
-        "cross-category content": {
-          "insight": "Merging elements from entertainment, news, and music could appeal to broader audiences, creating hybrid content that leverages trends from multiple categories."
-        }
+        "emerging_trends": [
+          {
+            "trend": "Nostalgia in Entertainment",
+            "description": "Revivals and sequels such as new series for ‘Harry Potter’ and ‘Stranger Things’ indicate a strong market for nostalgic content.",
+            "actionable_insights": [
+              "Develop content that taps into popular franchises from the late 20th and early 21st centuries.",
+              "Collaborate with brands to create merchandise related to nostalgic series."
+            ]
+          },
+          {
+            "trend": "Trailer Launch Impact",
+            "description": "Trailers for upcoming shows and games are generating substantial views, highlighting consumer interest in previews.",
+            "actionable_insights": [
+              "Invest in creating high-quality teasers and trailers to build anticipation.",
+              "Use trailers as a primary tool for audience retention and engagement."
+            ]
+          },
+          {
+            "trend": "Music and Cultural Influence",
+            "description": "Unique music tracks such as ‘BALEN - JAY MAHAKAALI’ are gaining traction, indicating a growing interest in diverse music genres.",
+            "actionable_insights": [
+              "Promote cross-cultural music collaborations to reach wider audiences.",
+              "Utilize platforms like TikTok for viral music challenges to increase visibility."
+            ]
+          }
+        ],
+        "untapped_content_areas": [
+          {
+            "area": "Educational Content",
+            "description": "No videos in the trending list were categorized under education, suggesting a market gap.",
+            "actionable_insights": [
+              "Develop engaging educational series or tutorials that can capture a wide audience.",
+              "Leverage partnerships with educational institutions for credibility and reach."
+            ]
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -534,7 +591,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 613717
+        "avg_views_per_video": 692986
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
