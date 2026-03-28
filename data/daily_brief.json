@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-28T18:16:32.121043",
+  "timestamp": "2026-03-28T21:13:18.485565",
   "date": "2026-03-28",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 303625,
-      "like_count": 24464,
-      "comment_count": 2203,
+      "view_count": 462726,
+      "like_count": 30302,
+      "comment_count": 2603,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 286462,
-      "like_count": 24278,
-      "comment_count": 4635,
+      "view_count": 355273,
+      "like_count": 26704,
+      "comment_count": 5129,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
@@ -75,9 +75,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 415371,
-      "like_count": 26819,
-      "comment_count": 1700,
+      "view_count": 587476,
+      "like_count": 31053,
+      "comment_count": 1940,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -90,6 +90,47 @@
         "#onepieceanime"
       ],
       "url": "https://www.youtube.com/watch?v=YnczpEoeaDM"
+    },
+    {
+      "video_id": "CTnBmQboK5E",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-28T18:55:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CTnBmQboK5E/hqdefault.jpg",
+      "duration": "PT59M55S",
+      "duration_seconds": 3595,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CTnBmQboK5E"
+    },
+    {
+      "video_id": "hIZlkMJ6H0w",
+      "title": "Calling All Villains - Announcement Trailer",
+      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
+      "channel_title": "ZAMination",
+      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
+      "published_at": "2026-03-28T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
+      "duration": "PT3M12S",
+      "duration_seconds": 192,
+      "view_count": 355343,
+      "like_count": 41154,
+      "comment_count": 5510,
+      "category_id": "1",
+      "tags": [
+        "zamination",
+        "mr puzzles",
+        "smg4",
+        "glitch",
+        "trailer",
+        "calling all villains"
+      ],
+      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
     },
     {
       "video_id": "nK61tJ4F1No",
@@ -109,73 +150,29 @@
       "url": "https://www.youtube.com/watch?v=nK61tJ4F1No"
     },
     {
-      "video_id": "hIZlkMJ6H0w",
-      "title": "Calling All Villains - Announcement Trailer",
-      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
-      "channel_title": "ZAMination",
-      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
-      "published_at": "2026-03-28T15:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
-      "duration": "PT3M12S",
-      "duration_seconds": 192,
-      "view_count": 161137,
-      "like_count": 30578,
-      "comment_count": 4428,
-      "category_id": "1",
+      "video_id": "R-EeF-wcYAU",
+      "title": "ONE PIECE l Elbaph Arc | Official Trailer",
+      "description": "THE ACCURSED PRINCE AWAKENS.\n\nWatch the new official trailer for the Elbaph Arc of ONE PIECE. The anime resumes in Japan as the Straw Hat Crew sets sail for a new adventure.\n\nPremieres April 5, 2026 at 11:15 PM JST\n♪OPENING THEME: “Luminous” by AiNA THE END\n\nDon’t miss the beginning of the next chapter.\n\n☑️ Subscribe to Toei Animation on Youtube: https://www.youtube.com/@ToeiAnimationOfficial\n\n👍 If you liked this video, make sure to hit a LIKE on this page. \n\nFollow Toei Animation on Social Media: \n▶X: https://www.x.com/ToeiAnimation \n▶Instagram: https://www.instagram.com/toei_animation\n▶Facebook: https://www.facebook.com/ToeiAnimationOfficial \n▶TikTok: https://www.tiktok.com/@toeianimationofficial \n\n▶X LATAM: https://www.x.com/ToeiAnimationLA\n▶Instagram LATAM: https://www.instagram.com/toeianimationlatam\n▶Facebook LATAM: https://www.facebook.com/ToeiAnimationLATAM\n\nVisit http://www.toei-animation-usa.com/ & https://toei-animation-la.com/ for complete show catalogs, recent news, announ",
+      "channel_title": "Toei Animation",
+      "channel_id": "UCQYYekTKCb1y12sas08T6gQ",
+      "published_at": "2026-03-28T11:33:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R-EeF-wcYAU/hqdefault.jpg",
+      "duration": "PT40S",
+      "duration_seconds": 40,
+      "view_count": 99641,
+      "like_count": 6938,
+      "comment_count": 254,
+      "category_id": "24",
       "tags": [
-        "zamination",
-        "mr puzzles",
-        "smg4",
-        "glitch",
+        "anime",
+        "toei animation",
+        "animation",
+        "onepiece",
+        "elbaph",
         "trailer",
-        "calling all villains"
+        "new"
       ],
-      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
-    },
-    {
-      "video_id": "8prjU8mLTX8",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-28T08:56:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8prjU8mLTX8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8prjU8mLTX8"
-    },
-    {
-      "video_id": "hDfkBaYOtgs",
-      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
-      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
-      "channel_title": "Nerdrotic",
-      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
-      "published_at": "2026-03-27T16:48:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
-      "duration": "PT12M39S",
-      "duration_seconds": 759,
-      "view_count": 333235,
-      "like_count": 29541,
-      "comment_count": 5718,
-      "category_id": "24",
-      "tags": [
-        "Nerdrotic",
-        "Gary Buechler",
-        "Pop-culture",
-        "TV",
-        "Movies",
-        "Comic Books",
-        "Nerd",
-        "Culture",
-        "Commentary",
-        "Opinion"
-      ],
-      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
+      "url": "https://www.youtube.com/watch?v=R-EeF-wcYAU"
     },
     {
       "video_id": "vNKSkcBR-lY",
@@ -195,32 +192,32 @@
       "url": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
     },
     {
-      "video_id": "IoHWPAN6FPg",
-      "title": "The End of Oak Street | Official Teaser Trailer",
-      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-26T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
-      "duration": "PT1M33S",
-      "duration_seconds": 93,
-      "view_count": 5233647,
-      "like_count": 40736,
-      "comment_count": 2757,
-      "category_id": "1",
+      "video_id": "nzvMQLvB4Ac",
+      "title": "Piggy: Intercity - Official Overview Trailer",
+      "description": "Looking for a multiplayer, open-world RPG where your choices actually make a difference? Well, look no further!\nIn Piggy: Intercity, every choice you make will impact your relationships with other characters and the world around you!\n\nIn this video, we talk about the concepts and features shown in the trailer in more detail.\n\nLink to the Official Piggy: Intercity Trailer ➜ https://www.youtube.com/watch?v=i6E2qYuiIVA\n\nGet Piggy merch here! ➜ https://playpiggy.net/\nFollow me on Twitter! ➜ https://twitter.com/DaRealMiniToon\nJoin the Discord! ➜ https://discord.gg/Piggy",
+      "channel_title": "MiniToon",
+      "channel_id": "UCH0XlD8n-3txL0JmosG2FnA",
+      "published_at": "2026-03-28T19:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nzvMQLvB4Ac/hqdefault.jpg",
+      "duration": "PT9M11S",
+      "duration_seconds": 551,
+      "view_count": 32879,
+      "like_count": 14784,
+      "comment_count": 2106,
+      "category_id": "24",
       "tags": [
-        "2026",
-        "Anne Hathaway",
-        "August 2026",
-        "Bad Robot",
-        "Christian Convery",
-        "Coming Soon",
-        "David Robert Mitchell",
-        "End Of Oak Street",
-        "Ewan McGregor",
-        "J.J. Abrams"
+        "MiniToon",
+        "Roblox",
+        "Piggy",
+        "roblox",
+        "roblox piggy",
+        "roblox piggy chapter 12",
+        "piggy chapter 13",
+        "piggy chapter 13 predictions",
+        "piggy",
+        "piggy predictions"
       ],
-      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
+      "url": "https://www.youtube.com/watch?v=nzvMQLvB4Ac"
     }
   ],
   "videos_with_transcripts": [],
@@ -235,9 +232,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 303625,
-      "like_count": 24464,
-      "comment_count": 2203,
+      "view_count": 462726,
+      "like_count": 30302,
+      "comment_count": 2603,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -252,9 +249,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 286462,
-      "like_count": 24278,
-      "comment_count": 4635,
+      "view_count": 355273,
+      "like_count": 26704,
+      "comment_count": 5129,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
@@ -279,6 +276,47 @@
       "url": "https://www.youtube.com/watch?v=bQ9WmkQCUQs"
     },
     {
+      "video_id": "CTnBmQboK5E",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-28T18:55:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CTnBmQboK5E/hqdefault.jpg",
+      "duration": "PT59M55S",
+      "duration_seconds": 3595,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CTnBmQboK5E"
+    },
+    {
+      "video_id": "hIZlkMJ6H0w",
+      "title": "Calling All Villains - Announcement Trailer",
+      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
+      "channel_title": "ZAMination",
+      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
+      "published_at": "2026-03-28T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
+      "duration": "PT3M12S",
+      "duration_seconds": 192,
+      "view_count": 355343,
+      "like_count": 41154,
+      "comment_count": 5510,
+      "category_id": "1",
+      "tags": [
+        "zamination",
+        "mr puzzles",
+        "smg4",
+        "glitch",
+        "trailer",
+        "calling all villains"
+      ],
+      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
+    },
+    {
       "video_id": "nK61tJ4F1No",
       "title": "NCAAW Sweet 16: Duke vs. LSU",
       "description": "The Duke Blue Devils and the LSU Tigers battle in a Women's Basketball Championship Sweet 16 contest. This high stakes college basketball matchup brings all the vibrant tournament energy directly onto the shiny hardwood at the Golden 1 Center.",
@@ -294,75 +332,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nK61tJ4F1No"
-    },
-    {
-      "video_id": "hIZlkMJ6H0w",
-      "title": "Calling All Villains - Announcement Trailer",
-      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
-      "channel_title": "ZAMination",
-      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
-      "published_at": "2026-03-28T15:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
-      "duration": "PT3M12S",
-      "duration_seconds": 192,
-      "view_count": 161137,
-      "like_count": 30578,
-      "comment_count": 4428,
-      "category_id": "1",
-      "tags": [
-        "zamination",
-        "mr puzzles",
-        "smg4",
-        "glitch",
-        "trailer",
-        "calling all villains"
-      ],
-      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
-    },
-    {
-      "video_id": "8prjU8mLTX8",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-28T08:56:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8prjU8mLTX8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=8prjU8mLTX8"
-    },
-    {
-      "video_id": "hDfkBaYOtgs",
-      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
-      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
-      "channel_title": "Nerdrotic",
-      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
-      "published_at": "2026-03-27T16:48:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
-      "duration": "PT12M39S",
-      "duration_seconds": 759,
-      "view_count": 333235,
-      "like_count": 29541,
-      "comment_count": 5718,
-      "category_id": "24",
-      "tags": [
-        "Nerdrotic",
-        "Gary Buechler",
-        "Pop-culture",
-        "TV",
-        "Movies",
-        "Comic Books",
-        "Nerd",
-        "Culture",
-        "Commentary",
-        "Opinion"
-      ],
-      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
     },
     {
       "video_id": "vNKSkcBR-lY",
@@ -382,32 +351,32 @@
       "url": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
     },
     {
-      "video_id": "IoHWPAN6FPg",
-      "title": "The End of Oak Street | Official Teaser Trailer",
-      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-26T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
-      "duration": "PT1M33S",
-      "duration_seconds": 93,
-      "view_count": 5233647,
-      "like_count": 40736,
-      "comment_count": 2757,
-      "category_id": "1",
+      "video_id": "nzvMQLvB4Ac",
+      "title": "Piggy: Intercity - Official Overview Trailer",
+      "description": "Looking for a multiplayer, open-world RPG where your choices actually make a difference? Well, look no further!\nIn Piggy: Intercity, every choice you make will impact your relationships with other characters and the world around you!\n\nIn this video, we talk about the concepts and features shown in the trailer in more detail.\n\nLink to the Official Piggy: Intercity Trailer ➜ https://www.youtube.com/watch?v=i6E2qYuiIVA\n\nGet Piggy merch here! ➜ https://playpiggy.net/\nFollow me on Twitter! ➜ https://twitter.com/DaRealMiniToon\nJoin the Discord! ➜ https://discord.gg/Piggy",
+      "channel_title": "MiniToon",
+      "channel_id": "UCH0XlD8n-3txL0JmosG2FnA",
+      "published_at": "2026-03-28T19:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nzvMQLvB4Ac/hqdefault.jpg",
+      "duration": "PT9M11S",
+      "duration_seconds": 551,
+      "view_count": 32879,
+      "like_count": 14784,
+      "comment_count": 2106,
+      "category_id": "24",
       "tags": [
-        "2026",
-        "Anne Hathaway",
-        "August 2026",
-        "Bad Robot",
-        "Christian Convery",
-        "Coming Soon",
-        "David Robert Mitchell",
-        "End Of Oak Street",
-        "Ewan McGregor",
-        "J.J. Abrams"
+        "MiniToon",
+        "Roblox",
+        "Piggy",
+        "roblox",
+        "roblox piggy",
+        "roblox piggy chapter 12",
+        "piggy chapter 13",
+        "piggy chapter 13 predictions",
+        "piggy",
+        "piggy predictions"
       ],
-      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
+      "url": "https://www.youtube.com/watch?v=nzvMQLvB4Ac"
     },
     {
       "video_id": "YnczpEoeaDM",
@@ -419,9 +388,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 415371,
-      "like_count": 26819,
-      "comment_count": 1700,
+      "view_count": 587476,
+      "like_count": 31053,
+      "comment_count": 1940,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -434,70 +403,78 @@
         "#onepieceanime"
       ],
       "url": "https://www.youtube.com/watch?v=YnczpEoeaDM"
+    },
+    {
+      "video_id": "R-EeF-wcYAU",
+      "title": "ONE PIECE l Elbaph Arc | Official Trailer",
+      "description": "THE ACCURSED PRINCE AWAKENS.\n\nWatch the new official trailer for the Elbaph Arc of ONE PIECE. The anime resumes in Japan as the Straw Hat Crew sets sail for a new adventure.\n\nPremieres April 5, 2026 at 11:15 PM JST\n♪OPENING THEME: “Luminous” by AiNA THE END\n\nDon’t miss the beginning of the next chapter.\n\n☑️ Subscribe to Toei Animation on Youtube: https://www.youtube.com/@ToeiAnimationOfficial\n\n👍 If you liked this video, make sure to hit a LIKE on this page. \n\nFollow Toei Animation on Social Media: \n▶X: https://www.x.com/ToeiAnimation \n▶Instagram: https://www.instagram.com/toei_animation\n▶Facebook: https://www.facebook.com/ToeiAnimationOfficial \n▶TikTok: https://www.tiktok.com/@toeianimationofficial \n\n▶X LATAM: https://www.x.com/ToeiAnimationLA\n▶Instagram LATAM: https://www.instagram.com/toeianimationlatam\n▶Facebook LATAM: https://www.facebook.com/ToeiAnimationLATAM\n\nVisit http://www.toei-animation-usa.com/ & https://toei-animation-la.com/ for complete show catalogs, recent news, announ",
+      "channel_title": "Toei Animation",
+      "channel_id": "UCQYYekTKCb1y12sas08T6gQ",
+      "published_at": "2026-03-28T11:33:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R-EeF-wcYAU/hqdefault.jpg",
+      "duration": "PT40S",
+      "duration_seconds": 40,
+      "view_count": 99641,
+      "like_count": 6938,
+      "comment_count": 254,
+      "category_id": "24",
+      "tags": [
+        "anime",
+        "toei animation",
+        "animation",
+        "onepiece",
+        "elbaph",
+        "trailer",
+        "new"
+      ],
+      "url": "https://www.youtube.com/watch?v=R-EeF-wcYAU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 6733477,
-        "average_views_per_video": 673348,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "music_and_entertainment": {
-          "description": "Music and entertainment content, including official trailers and music releases, dominate the trending list.",
-          "examples": [
-            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-            "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
-            "Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE"
+      "trending_patterns_analysis": {
+        "viewership": {
+          "average_views_per_video": 189333.8,
+          "insight": "The average view count indicates a moderate engagement level across the trending videos, suggesting a potential audience size that is significant but not overwhelmingly large."
+        },
+        "content_categories": {
+          "identified_trends": [
+            "Music",
+            "Anime",
+            "Sports",
+            "News",
+            "Gaming"
           ],
-          "insights": "There is a strong audience interest in music collaborations and upcoming series or movie trailers, particularly well-known franchises like JoJo's Bizarre Adventure and ONE PIECE."
+          "insight": "The trending videos cover a diverse range of categories, indicating a varied interest among viewers. Music and Anime appear to have significant traction based on the presence of popular franchises and artists."
         },
-        "sports": {
-          "description": "Sports content is prominently featured, indicating a high engagement level.",
-          "examples": [
-            "NCAAM Sweet 16: Alabama vs. Michigan",
-            "NCAAW Sweet 16: Duke vs. LSU",
-            "Texas Children's Houston Open, Second Round"
+        "creator_influence": {
+          "key_channels": [
+            "Kanye West",
+            "Netflix Anime",
+            "ONE PIECE Official - ENG"
           ],
-          "insights": "The appearance of NCAA basketball highlights and golf events suggests that sports-related content, especially during tournament seasons, garners significant viewer interest."
+          "insight": "Channels associated with well-known personalities and popular franchises are driving trends. This suggests that brand recognition and existing fan bases are critical for achieving trending status."
         },
-        "controversial_and_commentary_content": {
-          "description": "Commentary on cultural and entertainment topics is trending.",
-          "examples": [
-            "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
-            "Gutfeld!"
-          ],
-          "insights": "Content that provides commentary or critiques on popular media, such as TV shows or cultural phenomena, is likely to attract viewers who are interested in discussions around current pop culture events."
-        }
-      },
-      "creator_patterns": {
-        "top_channels": [
-          "Kanye West",
-          "Netflix Anime",
-          "TBS",
-          "ONE PIECE Official - ENG",
-          "ESPN"
-        ],
-        "engagement_strategies": {
-          "celebrity_and_brand_collaborations": "Channels associated with well-known personalities or brands, like Kanye West and Netflix, tend to attract more views.",
-          "official_trailers_and_exclusives": "Channels that release exclusive content or official trailers, such as Netflix Anime and ONE PIECE Official, are more likely to trend due to high anticipation among fans."
-        }
-      },
-      "market_opportunities": {
-        "music_collaborations": {
-          "description": "Given the success of music videos featuring collaborations, there is potential to explore more cross-genre or cross-artist partnerships.",
-          "actionable_insights": "Music artists and producers should consider leveraging collaborations with other popular artists to maximize reach and engage diverse audiences."
+        "market_opportunities": {
+          "cross-promotion": {
+            "strategy": "Leverage collaborations between music artists and anime creators for joint promotional campaigns.",
+            "justification": "The intersection of music and anime audiences can be tapped into by utilizing the fan bases of both industries to create cross-promotional content that appeals to both demographics."
+          },
+          "sports and gaming overlap": {
+            "strategy": "Develop content that merges sports highlights with gaming elements, such as interactive simulations of sports events.",
+            "justification": "The presence of sports and gaming videos suggests an opportunity to engage audiences interested in competitive and dynamic content formats."
+          }
         },
-        "sports_highlight_reels": {
-          "description": "Sports highlight reels and analysis videos have high engagement potential, particularly during major sports events.",
-          "actionable_insights": "Sports channels and content creators should focus on creating timely highlight reels and engaging commentary around ongoing tournaments to capitalize on viewer interest."
-        },
-        "cultural_commentary": {
-          "description": "There is a growing demand for content that provides unique perspectives on pop culture phenomena.",
-          "actionable_insights": "Content creators should aim to produce insightful and entertaining commentary videos that explore popular media topics, appealing to audiences interested in nuanced discussions."
+        "content strategy recommendations": {
+          "release timing": {
+            "strategy": "Optimize video releases to coincide with significant events, such as sports tournaments and new anime seasons.",
+            "justification": "Videos related to timely events like sports matches and anime releases tend to trend, benefiting from increased search and engagement during these periods."
+          },
+          "engagement tactics": {
+            "strategy": "Utilize cliffhangers and teasers in video content to drive curiosity and repeat viewership.",
+            "justification": "The success of teasers and trailers indicates that maintaining suspense can enhance viewer engagement and anticipation for full releases."
+          }
         }
       },
       "metadata_stats": {
@@ -506,7 +483,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 673347
+        "avg_views_per_video": 189333
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
