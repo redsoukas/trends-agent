@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-28T15:14:13.907254",
+  "timestamp": "2026-03-28T18:16:32.121043",
   "date": "2026-03-28",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -12,6 +12,23 @@
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 303625,
+      "like_count": 24464,
+      "comment_count": 2203,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
     {
       "video_id": "__GPPKA7Uww",
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
@@ -22,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 171235,
-      "like_count": 18737,
-      "comment_count": 3699,
+      "view_count": 286462,
+      "like_count": 24278,
+      "comment_count": 4635,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
@@ -58,9 +75,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 148070,
-      "like_count": 17633,
-      "comment_count": 1250,
+      "view_count": 415371,
+      "like_count": 26819,
+      "comment_count": 1700,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -92,32 +109,28 @@
       "url": "https://www.youtube.com/watch?v=nK61tJ4F1No"
     },
     {
-      "video_id": "hDfkBaYOtgs",
-      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
-      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
-      "channel_title": "Nerdrotic",
-      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
-      "published_at": "2026-03-27T16:48:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
-      "duration": "PT12M39S",
-      "duration_seconds": 759,
-      "view_count": 310826,
-      "like_count": 28238,
-      "comment_count": 5067,
-      "category_id": "24",
+      "video_id": "hIZlkMJ6H0w",
+      "title": "Calling All Villains - Announcement Trailer",
+      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
+      "channel_title": "ZAMination",
+      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
+      "published_at": "2026-03-28T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
+      "duration": "PT3M12S",
+      "duration_seconds": 192,
+      "view_count": 161137,
+      "like_count": 30578,
+      "comment_count": 4428,
+      "category_id": "1",
       "tags": [
-        "Nerdrotic",
-        "Gary Buechler",
-        "Pop-culture",
-        "TV",
-        "Movies",
-        "Comic Books",
-        "Nerd",
-        "Culture",
-        "Commentary",
-        "Opinion"
+        "zamination",
+        "mr puzzles",
+        "smg4",
+        "glitch",
+        "trailer",
+        "calling all villains"
       ],
-      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
+      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
     },
     {
       "video_id": "8prjU8mLTX8",
@@ -137,32 +150,32 @@
       "url": "https://www.youtube.com/watch?v=8prjU8mLTX8"
     },
     {
-      "video_id": "IoHWPAN6FPg",
-      "title": "The End of Oak Street | Official Teaser Trailer",
-      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-26T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
-      "duration": "PT1M33S",
-      "duration_seconds": 93,
-      "view_count": 4976429,
-      "like_count": 39840,
-      "comment_count": 2698,
-      "category_id": "1",
+      "video_id": "hDfkBaYOtgs",
+      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
+      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
+      "channel_title": "Nerdrotic",
+      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
+      "published_at": "2026-03-27T16:48:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
+      "duration": "PT12M39S",
+      "duration_seconds": 759,
+      "view_count": 333235,
+      "like_count": 29541,
+      "comment_count": 5718,
+      "category_id": "24",
       "tags": [
-        "2026",
-        "Anne Hathaway",
-        "August 2026",
-        "Bad Robot",
-        "Christian Convery",
-        "Coming Soon",
-        "David Robert Mitchell",
-        "End Of Oak Street",
-        "Ewan McGregor",
-        "J.J. Abrams"
+        "Nerdrotic",
+        "Gary Buechler",
+        "Pop-culture",
+        "TV",
+        "Movies",
+        "Comic Books",
+        "Nerd",
+        "Culture",
+        "Commentary",
+        "Opinion"
       ],
-      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
+      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
     },
     {
       "video_id": "vNKSkcBR-lY",
@@ -182,53 +195,53 @@
       "url": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
     },
     {
-      "video_id": "CizDIrZu56g",
-      "title": "Spider-Man Brand New Day MAJOR CLUE We Missed!",
-      "description": "This is why Keith David’s voice is in the Spider-Man Brand New Day trailer! 🌎 Get an exclusive 15% discount on Saily data plans! Use code rockstars at checkout. Download Saily app or go to https://saily.com/rockstars ⛵\n\nOK, let’s talk about why we hear Keith David spout some nonsense about spider life cycles in the Spider-Man Brand New Day trailer, and how it all connects to the mutant saga and Daredevil Born Again!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDS on a Que",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-03-27T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CizDIrZu56g/hqdefault.jpg",
-      "duration": "PT12M48S",
-      "duration_seconds": 768,
-      "view_count": 222783,
-      "like_count": 8265,
-      "comment_count": 741,
-      "category_id": "24",
+      "video_id": "IoHWPAN6FPg",
+      "title": "The End of Oak Street | Official Teaser Trailer",
+      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2026-03-26T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
+      "duration": "PT1M33S",
+      "duration_seconds": 93,
+      "view_count": 5233647,
+      "like_count": 40736,
+      "comment_count": 2757,
+      "category_id": "1",
       "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "spiderman",
-        "spider-man",
-        "brand new day",
-        "brand new day trailer",
-        "keith david",
-        "jackal",
-        "peter parker"
+        "2026",
+        "Anne Hathaway",
+        "August 2026",
+        "Bad Robot",
+        "Christian Convery",
+        "Coming Soon",
+        "David Robert Mitchell",
+        "End Of Oak Street",
+        "Ewan McGregor",
+        "J.J. Abrams"
       ],
-      "url": "https://www.youtube.com/watch?v=CizDIrZu56g"
-    },
-    {
-      "video_id": "zkiH5BtlKIs",
-      "title": "WWE Friday Night SmackDown",
-      "description": "Grammy-winning musician Jelly Roll faces Kit Wilson! What's next for Randy Orton?",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-03-28T11:50:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zkiH5BtlKIs/hqdefault.jpg",
-      "duration": "PT3H1S",
-      "duration_seconds": 10801,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
+      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
+    {
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 303625,
+      "like_count": 24464,
+      "comment_count": 2203,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
     {
       "video_id": "__GPPKA7Uww",
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
@@ -239,9 +252,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 171235,
-      "like_count": 18737,
-      "comment_count": 3699,
+      "view_count": 286462,
+      "like_count": 24278,
+      "comment_count": 4635,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
@@ -283,32 +296,28 @@
       "url": "https://www.youtube.com/watch?v=nK61tJ4F1No"
     },
     {
-      "video_id": "hDfkBaYOtgs",
-      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
-      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
-      "channel_title": "Nerdrotic",
-      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
-      "published_at": "2026-03-27T16:48:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
-      "duration": "PT12M39S",
-      "duration_seconds": 759,
-      "view_count": 310826,
-      "like_count": 28238,
-      "comment_count": 5067,
-      "category_id": "24",
+      "video_id": "hIZlkMJ6H0w",
+      "title": "Calling All Villains - Announcement Trailer",
+      "description": "Calling All Villains is a 3D animated sci-fi/action/comedy series produced and creatively helmed by ZAMination, starring Mr. Puzzles--originally from SMG4.\n\nThis isn’t a direct continuation of SMG4. Set years later, the series follows Mr. Puzzles as he’s evolved--for better or worse... roping him into all-new adventures with a brand new cast of characters. Haven't seen SMG4? No problem! Calling All Villains is built as a fresh starting point, so you can jump right in and enjoy the ride. And for longtime fans, there are plenty of hidden nods and juicy Easter eggs waiting for you... \n\nWith full blessing from SMG4, we've been given the rights to continue Mr. Puzzles’ story and bring this series to life. The pilot episode is currently in production, with the full release planned for later this year. More updates are coming soon, so remember... \n\nSTAY TUNED...\n___________________________\n🔊 JOIN OUR DISCORD! \n▶ https://discord.gg/zamination\n-\nFollow us on social media!\n▶ https://linktr.ee/za",
+      "channel_title": "ZAMination",
+      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
+      "published_at": "2026-03-28T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
+      "duration": "PT3M12S",
+      "duration_seconds": 192,
+      "view_count": 161137,
+      "like_count": 30578,
+      "comment_count": 4428,
+      "category_id": "1",
       "tags": [
-        "Nerdrotic",
-        "Gary Buechler",
-        "Pop-culture",
-        "TV",
-        "Movies",
-        "Comic Books",
-        "Nerd",
-        "Culture",
-        "Commentary",
-        "Opinion"
+        "zamination",
+        "mr puzzles",
+        "smg4",
+        "glitch",
+        "trailer",
+        "calling all villains"
       ],
-      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
+      "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
     },
     {
       "video_id": "8prjU8mLTX8",
@@ -328,32 +337,32 @@
       "url": "https://www.youtube.com/watch?v=8prjU8mLTX8"
     },
     {
-      "video_id": "IoHWPAN6FPg",
-      "title": "The End of Oak Street | Official Teaser Trailer",
-      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
-      "channel_title": "Warner Bros.",
-      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
-      "published_at": "2026-03-26T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
-      "duration": "PT1M33S",
-      "duration_seconds": 93,
-      "view_count": 4976429,
-      "like_count": 39840,
-      "comment_count": 2698,
-      "category_id": "1",
+      "video_id": "hDfkBaYOtgs",
+      "title": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
+      "description": "HBO's Harry Potter trailer finally dropped and Black Snape is getting roasted by the internet. Well, who could have seen this coming?\nEdited by @QTRBlackGarrett",
+      "channel_title": "Nerdrotic",
+      "channel_id": "UC5T0tXJN5CrMZUEJuz4oovw",
+      "published_at": "2026-03-27T16:48:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hDfkBaYOtgs/hqdefault.jpg",
+      "duration": "PT12M39S",
+      "duration_seconds": 759,
+      "view_count": 333235,
+      "like_count": 29541,
+      "comment_count": 5718,
+      "category_id": "24",
       "tags": [
-        "2026",
-        "Anne Hathaway",
-        "August 2026",
-        "Bad Robot",
-        "Christian Convery",
-        "Coming Soon",
-        "David Robert Mitchell",
-        "End Of Oak Street",
-        "Ewan McGregor",
-        "J.J. Abrams"
+        "Nerdrotic",
+        "Gary Buechler",
+        "Pop-culture",
+        "TV",
+        "Movies",
+        "Comic Books",
+        "Nerd",
+        "Culture",
+        "Commentary",
+        "Opinion"
       ],
-      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
+      "url": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
     },
     {
       "video_id": "vNKSkcBR-lY",
@@ -373,49 +382,32 @@
       "url": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
     },
     {
-      "video_id": "CizDIrZu56g",
-      "title": "Spider-Man Brand New Day MAJOR CLUE We Missed!",
-      "description": "This is why Keith David’s voice is in the Spider-Man Brand New Day trailer! 🌎 Get an exclusive 15% discount on Saily data plans! Use code rockstars at checkout. Download Saily app or go to https://saily.com/rockstars ⛵\n\nOK, let’s talk about why we hear Keith David spout some nonsense about spider life cycles in the Spider-Man Brand New Day trailer, and how it all connects to the mutant saga and Daredevil Born Again!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nEXECUTIVE PRODUCERS\nTDS on a Que",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-03-27T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CizDIrZu56g/hqdefault.jpg",
-      "duration": "PT12M48S",
-      "duration_seconds": 768,
-      "view_count": 222783,
-      "like_count": 8265,
-      "comment_count": 741,
-      "category_id": "24",
+      "video_id": "IoHWPAN6FPg",
+      "title": "The End of Oak Street | Official Teaser Trailer",
+      "description": "“Our house, our neighborhood, our whole street has moved.\" The End of Oak Street only in theaters and IMAX August 14. #EndofOakStreet #FilmedforIMAX\n\nAfter a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.\n\nStarring Anne Hathaway and Ewan McGregor, THE END OF OAK STREET also stars Maisy Stella and Christian Convery. The film is written and directed by David Robert Mitchell and produced by J.J. Abrams, Hannah Minghella, Jon Cohen, David Robert Mitchell, Matt Jackson and Tommy Harper. The executive producers are Chris Bender, Jake Weiner, Joanne Lee and Leeann Stonebreaker.\n\nMitchell’s team behind the camera includes director of photography Michael Gioulakis, production designer Maya Shimoguchi, editor John Axelrad, composer Michael Giacchino and costume designer Erin Benach. \nWarne",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2026-03-26T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IoHWPAN6FPg/hqdefault.jpg",
+      "duration": "PT1M33S",
+      "duration_seconds": 93,
+      "view_count": 5233647,
+      "like_count": 40736,
+      "comment_count": 2757,
+      "category_id": "1",
       "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "spiderman",
-        "spider-man",
-        "brand new day",
-        "brand new day trailer",
-        "keith david",
-        "jackal",
-        "peter parker"
+        "2026",
+        "Anne Hathaway",
+        "August 2026",
+        "Bad Robot",
+        "Christian Convery",
+        "Coming Soon",
+        "David Robert Mitchell",
+        "End Of Oak Street",
+        "Ewan McGregor",
+        "J.J. Abrams"
       ],
-      "url": "https://www.youtube.com/watch?v=CizDIrZu56g"
-    },
-    {
-      "video_id": "zkiH5BtlKIs",
-      "title": "WWE Friday Night SmackDown",
-      "description": "Grammy-winning musician Jelly Roll faces Kit Wilson! What's next for Randy Orton?",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-03-28T11:50:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zkiH5BtlKIs/hqdefault.jpg",
-      "duration": "PT3H1S",
-      "duration_seconds": 10801,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
+      "url": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
     },
     {
       "video_id": "YnczpEoeaDM",
@@ -427,9 +419,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 148070,
-      "like_count": 17633,
-      "comment_count": 1250,
+      "view_count": 415371,
+      "like_count": 26819,
+      "comment_count": 1700,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -449,61 +441,63 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 5829343,
-        "average_views_per_video": 582934.3
+        "total_views": 6733477,
+        "average_views_per_video": 673348,
+        "categories": "Unknown"
       },
       "content_trends": {
-        "entertainment_dominance": {
-          "observation": "Entertainment content, particularly anime and sports, dominates the trending list.",
-          "evidence": [
-            "JoJo's Bizarre Adventure and ONE PIECE trailers are trending.",
-            "NCAAM and NCAAW sports events feature prominently."
+        "music_and_entertainment": {
+          "description": "Music and entertainment content, including official trailers and music releases, dominate the trending list.",
+          "examples": [
+            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+            "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
+            "Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE"
           ],
-          "actionable_insight": "Invest in creating engaging trailers and sports-related content to capture audience interest."
+          "insights": "There is a strong audience interest in music collaborations and upcoming series or movie trailers, particularly well-known franchises like JoJo's Bizarre Adventure and ONE PIECE."
         },
-        "varied_genres": {
-          "observation": "Trending videos encompass a range of genres from anime to sports to drama.",
-          "evidence": [
-            "Videos include anime (JoJo's Bizarre Adventure, ONE PIECE), sports (NCAAM, NCAAW), and drama (The End of Oak Street)."
+        "sports": {
+          "description": "Sports content is prominently featured, indicating a high engagement level.",
+          "examples": [
+            "NCAAM Sweet 16: Alabama vs. Michigan",
+            "NCAAW Sweet 16: Duke vs. LSU",
+            "Texas Children's Houston Open, Second Round"
           ],
-          "actionable_insight": "Diversify content offerings to appeal to a broader audience base."
+          "insights": "The appearance of NCAA basketball highlights and golf events suggests that sports-related content, especially during tournament seasons, garners significant viewer interest."
         },
-        "platform_utilization": {
-          "observation": "Netflix and official channels utilize YouTube effectively for teasers and trailers.",
-          "evidence": [
-            "Netflix Anime and ONE PIECE Official channels feature prominently in the trending list."
+        "controversial_and_commentary_content": {
+          "description": "Commentary on cultural and entertainment topics is trending.",
+          "examples": [
+            "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
+            "Gutfeld!"
           ],
-          "actionable_insight": "Leverage YouTube for exclusive teasers and engage audiences with sneak peeks of upcoming releases."
+          "insights": "Content that provides commentary or critiques on popular media, such as TV shows or cultural phenomena, is likely to attract viewers who are interested in discussions around current pop culture events."
         }
       },
       "creator_patterns": {
-        "top_channels": {
-          "observation": "Top channels leverage strong brand presence and fanbase.",
-          "evidence": [
-            "Netflix Anime and ONE PIECE Official - ENG have strong brand recognition and dedicated audiences."
-          ],
-          "actionable_insight": "Build strong brand identity and cultivate a dedicated fanbase through consistent content release."
-        },
-        "engagement_drivers": {
-          "observation": "High engagement driven by popular franchises and live events.",
-          "evidence": [
-            "JoJo's Bizarre Adventure and sports events have high viewership."
-          ],
-          "actionable_insight": "Create content around popular franchises and live events to drive higher engagement."
+        "top_channels": [
+          "Kanye West",
+          "Netflix Anime",
+          "TBS",
+          "ONE PIECE Official - ENG",
+          "ESPN"
+        ],
+        "engagement_strategies": {
+          "celebrity_and_brand_collaborations": "Channels associated with well-known personalities or brands, like Kanye West and Netflix, tend to attract more views.",
+          "official_trailers_and_exclusives": "Channels that release exclusive content or official trailers, such as Netflix Anime and ONE PIECE Official, are more likely to trend due to high anticipation among fans."
         }
       },
       "market_opportunities": {
-        "anime_and_sports": {
-          "opportunity": "High demand for anime and sports content suggests potential for growth in these sectors.",
-          "recommendation": "Expand partnerships with anime creators and sports leagues to tap into growing audiences."
+        "music_collaborations": {
+          "description": "Given the success of music videos featuring collaborations, there is potential to explore more cross-genre or cross-artist partnerships.",
+          "actionable_insights": "Music artists and producers should consider leveraging collaborations with other popular artists to maximize reach and engage diverse audiences."
         },
-        "trailer_release_timing": {
-          "opportunity": "Releasing trailers and teasers at strategic times can maximize visibility and engagement.",
-          "recommendation": "Analyze peak viewing times and align release schedules to optimize reach."
+        "sports_highlight_reels": {
+          "description": "Sports highlight reels and analysis videos have high engagement potential, particularly during major sports events.",
+          "actionable_insights": "Sports channels and content creators should focus on creating timely highlight reels and engaging commentary around ongoing tournaments to capitalize on viewer interest."
         },
-        "cross-promotion": {
-          "opportunity": "Utilize trending platforms for cross-promotion to increase visibility.",
-          "recommendation": "Collaborate with top channels for cross-promotional campaigns to expand audience reach."
+        "cultural_commentary": {
+          "description": "There is a growing demand for content that provides unique perspectives on pop culture phenomena.",
+          "actionable_insights": "Content creators should aim to produce insightful and entertaining commentary videos that explore popular media topics, appealing to audiences interested in nuanced discussions."
         }
       },
       "metadata_stats": {
@@ -512,7 +506,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 582934
+        "avg_views_per_video": 673347
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
