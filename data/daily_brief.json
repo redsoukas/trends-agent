@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T12:20:01.804753",
+  "timestamp": "2026-03-29T15:14:24.571827",
   "date": "2026-03-29",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 977726,
-      "like_count": 47960,
-      "comment_count": 3667,
+      "view_count": 1053686,
+      "like_count": 51082,
+      "comment_count": 3854,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
       "duration": "PT3M12S",
       "duration_seconds": 192,
-      "view_count": 708100,
-      "like_count": 61243,
-      "comment_count": 7532,
+      "view_count": 743785,
+      "like_count": 63861,
+      "comment_count": 7807,
       "category_id": "1",
       "tags": [
         "zamination",
@@ -54,21 +54,21 @@
       "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
     },
     {
-      "video_id": "bQ9WmkQCUQs",
-      "title": "NCAAM Sweet 16: Alabama vs. Michigan",
-      "description": "The Alabama Crimson Tide and the Michigan Wolverines battle in a crucial Sweet 16 contest today. This thrilling tournament brings the postseason tension directly to the hardwood at the United Center. The Wolverines boast overall shooting efficiency.",
+      "video_id": "daHsTyp4ZVU",
+      "title": "NCAAM Elite Eight: Purdue vs. Arizona",
+      "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-28T13:24:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bQ9WmkQCUQs/hqdefault.jpg",
-      "duration": "PT2H45M6S",
-      "duration_seconds": 9906,
+      "published_at": "2026-03-29T13:08:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/daHsTyp4ZVU/hqdefault.jpg",
+      "duration": "PT2H41M",
+      "duration_seconds": 9660,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=bQ9WmkQCUQs"
+      "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
       "video_id": "YnczpEoeaDM",
@@ -80,9 +80,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 985337,
-      "like_count": 42364,
-      "comment_count": 2515,
+      "view_count": 1044204,
+      "like_count": 44242,
+      "comment_count": 2603,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -123,31 +123,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 462817,
-      "like_count": 30080,
-      "comment_count": 5973,
+      "view_count": 474330,
+      "like_count": 30513,
+      "comment_count": 6087,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
       ],
       "url": "https://www.youtube.com/watch?v=__GPPKA7Uww"
-    },
-    {
-      "video_id": "6bKoSw__gSk",
-      "title": "NCAAM Elite Eight: Iowa vs. Illinois",
-      "description": "The Iowa Hawkeyes battle the Illinois Fighting Illini at Toyota Center. Iowa enters after a 77-71 victory over Nebraska, and Illinois beat Houston 65-55. This March Elite Eight clash will test these talented squads today right in Houston, Texas.",
-      "channel_title": "TBS",
-      "channel_id": "UCAgRNPzEZdMzsCQlH0L6gyQ",
-      "published_at": "2026-03-29T10:55:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6bKoSw__gSk/hqdefault.jpg",
-      "duration": "PT2H35M8S",
-      "duration_seconds": 9308,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6bKoSw__gSk"
     },
     {
       "video_id": "GhV7ii-SzOQ",
@@ -182,6 +165,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H5iWmZT4exc"
+    },
+    {
+      "video_id": "21MUj_WtxCY",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-29T09:13:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/21MUj_WtxCY/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=21MUj_WtxCY"
     },
     {
       "video_id": "z036h3W1CUs",
@@ -213,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 977726,
-      "like_count": 47960,
-      "comment_count": 3667,
+      "view_count": 1053686,
+      "like_count": 51082,
+      "comment_count": 3854,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -230,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hIZlkMJ6H0w/hqdefault.jpg",
       "duration": "PT3M12S",
       "duration_seconds": 192,
-      "view_count": 708100,
-      "like_count": 61243,
-      "comment_count": 7532,
+      "view_count": 743785,
+      "like_count": 63861,
+      "comment_count": 7807,
       "category_id": "1",
       "tags": [
         "zamination",
@@ -245,21 +245,21 @@
       "url": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
     },
     {
-      "video_id": "bQ9WmkQCUQs",
-      "title": "NCAAM Sweet 16: Alabama vs. Michigan",
-      "description": "The Alabama Crimson Tide and the Michigan Wolverines battle in a crucial Sweet 16 contest today. This thrilling tournament brings the postseason tension directly to the hardwood at the United Center. The Wolverines boast overall shooting efficiency.",
+      "video_id": "daHsTyp4ZVU",
+      "title": "NCAAM Elite Eight: Purdue vs. Arizona",
+      "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-28T13:24:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bQ9WmkQCUQs/hqdefault.jpg",
-      "duration": "PT2H45M6S",
-      "duration_seconds": 9906,
+      "published_at": "2026-03-29T13:08:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/daHsTyp4ZVU/hqdefault.jpg",
+      "duration": "PT2H41M",
+      "duration_seconds": 9660,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=bQ9WmkQCUQs"
+      "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
       "video_id": "5icsxBhPQHM",
@@ -288,31 +288,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/__GPPKA7Uww/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 462817,
-      "like_count": 30080,
-      "comment_count": 5973,
+      "view_count": 474330,
+      "like_count": 30513,
+      "comment_count": 6087,
       "category_id": "1",
       "tags": [
         "JoJo_anime"
       ],
       "url": "https://www.youtube.com/watch?v=__GPPKA7Uww"
-    },
-    {
-      "video_id": "6bKoSw__gSk",
-      "title": "NCAAM Elite Eight: Iowa vs. Illinois",
-      "description": "The Iowa Hawkeyes battle the Illinois Fighting Illini at Toyota Center. Iowa enters after a 77-71 victory over Nebraska, and Illinois beat Houston 65-55. This March Elite Eight clash will test these talented squads today right in Houston, Texas.",
-      "channel_title": "TBS",
-      "channel_id": "UCAgRNPzEZdMzsCQlH0L6gyQ",
-      "published_at": "2026-03-29T10:55:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6bKoSw__gSk/hqdefault.jpg",
-      "duration": "PT2H35M8S",
-      "duration_seconds": 9308,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6bKoSw__gSk"
     },
     {
       "video_id": "GhV7ii-SzOQ",
@@ -349,6 +332,23 @@
       "url": "https://www.youtube.com/watch?v=H5iWmZT4exc"
     },
     {
+      "video_id": "21MUj_WtxCY",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-29T09:13:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/21MUj_WtxCY/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=21MUj_WtxCY"
+    },
+    {
       "video_id": "z036h3W1CUs",
       "title": "The Weekend: Primetime",
       "description": "Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.",
@@ -375,9 +375,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YnczpEoeaDM/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 985337,
-      "like_count": 42364,
-      "comment_count": 2515,
+      "view_count": 1044204,
+      "like_count": 44242,
+      "comment_count": 2603,
       "category_id": "1",
       "tags": [
         "#ONEPIECE",
@@ -395,45 +395,56 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 3316005,
+        "average_views_per_video": 331600.5
+      },
       "content_trends": {
-        "music_and_entertainment": {
-          "observation": "Music and entertainment content, such as 'YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)' and 'The Weekend: Primetime', are prominent on the trending list.",
-          "insight": "Music collaborations and exclusive performances continue to draw significant attention. Leveraging celebrity partnerships can enhance reach and engagement.",
-          "opportunity": "Creators and brands should consider collaborations with artists or creating content around popular music events."
+        "music": {
+          "description": "Music content is represented by 'YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)'",
+          "insight": "Music videos tend to attract large audiences and can benefit from featuring well-known artists.",
+          "market_opportunity": "Collaborations with popular artists can significantly boost viewership."
         },
-        "sports_content": {
-          "observation": "Sports content, including NCAA games and golf tournaments, is well-represented with titles like 'NCAAM Sweet 16: Alabama vs. Michigan' and 'Texas Children's Houston Open, Third Round'.",
-          "insight": "Live sports events and highlight reels have strong potential for trending, indicating high viewer engagement during sports seasons.",
-          "opportunity": "Channels can capitalize on timely sports content, providing pre-game analyses, live commentary, and post-game highlights to capture audience interest."
+        "gaming_and_animation": {
+          "description": "Includes 'Calling All Villains - Announcement Trailer' and 'STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix'.",
+          "insight": "Trailers and teasers in gaming and animation generate buzz, especially when tied to popular franchises.",
+          "market_opportunity": "Leverage popular franchises or create compelling new content within these genres to capture audience interest."
         },
-        "anime_and_culture": {
-          "observation": "Anime-related content, such as 'Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE' and 'STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix', is trending.",
-          "insight": "Anime culture and dedicated fanbases are driving strong engagement, particularly around new releases and announcements.",
-          "opportunity": "Creators can benefit from producing content that discusses upcoming anime releases, reviews, or speculative content to engage this passionate audience."
+        "sports": {
+          "description": "Includes 'NCAAM Elite Eight: Purdue vs. Arizona', 'NCAAW Sweet 16: Virginia vs. TCU', and 'Texas Children's Houston Open, Third Round'.",
+          "insight": "Sports content is consistently popular, particularly big events or games.",
+          "market_opportunity": "Live sports coverage or highlight reels can attract significant viewership."
+        },
+        "entertainment": {
+          "description": "Includes 'FOX News Saturday Night With Jimmy Failla' and 'The Weekend: Primetime'.",
+          "insight": "Talk shows and news-related entertainment have steady appeal, often driven by current events.",
+          "market_opportunity": "Timely and engaging content can capture attention, especially if it resonates with ongoing public interests."
+        },
+        "anime": {
+          "description": "Represented by 'Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE'.",
+          "insight": "Anime trailers, particularly for well-loved series like ONE PIECE, generate significant interest.",
+          "market_opportunity": "Expanding into anime content, particularly for established series, can draw dedicated fanbases."
         }
       },
       "creator_patterns": {
-        "diversification": {
-          "observation": "Channels like TBS are diversifying content, with two videos in different genres (sports and entertainment).",
-          "insight": "Diversifying content across multiple genres can increase a channel's reach and appeal to broader audiences.",
-          "opportunity": "Channels should explore creating varied content to attract different viewer segments and reduce reliance on a single content type."
+        "diversity": {
+          "description": "Content spans multiple genres including music, sports, gaming, anime, and entertainment.",
+          "insight": "Creators are diversifying into various content genres to capture different audience segments."
         },
-        "single_video_channels": {
-          "observation": "Most channels on the trending list have a single video featured, suggesting specialization.",
-          "insight": "Specialized content that aligns with a channel's core focus can achieve strong engagement and trend frequently.",
-          "opportunity": "Channels should focus on their niche and ensure high-quality, specialized content to maintain audience interest and trend potential."
+        "single_video_per_channel": {
+          "description": "Each top channel is represented by a single video in the trending list.",
+          "insight": "Trending is not dominated by a single creator, indicating opportunities for multiple creators to break into trending topics if content quality and relevance are high."
         }
       },
       "market_opportunities": {
-        "emerging_trends": {
-          "observation": "The presence of both traditional and digital-first media (e.g., Netflix) indicates a blend of media consumption habits.",
-          "insight": "There is a growing opportunity for digital platforms to create original content that competes with traditional media.",
-          "opportunity": "Brands should consider investing in digital-first content strategies, leveraging platforms like YouTube to distribute unique content that appeals to both traditional media consumers and digital audiences."
+        "collaborations": {
+          "insight": "Collaborating with well-known personalities across different genres can expand reach and audience engagement.",
+          "actionable_strategy": "Identify influencers or creators within trending genres for potential collaborations."
         },
-        "data_driven_decisions": {
-          "observation": "With 3,133,980 total views across 10 videos, average views per video are approximately 313,398.",
-          "insight": "Achieving high average views requires understanding trending topics and viewer preferences.",
-          "opportunity": "Creators should use data analytics to identify successful content patterns and replicate strategies that maximize viewer engagement and trends."
+        "content_expansion": {
+          "insight": "Expanding content offerings in high-interest areas like anime, sports, and music can capitalize on existing audience interests.",
+          "actionable_strategy": "Develop content that aligns with trending themes, focusing on quality production and strategic release timing."
         }
       },
       "metadata_stats": {
@@ -442,7 +453,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 313398
+        "avg_views_per_video": 331600
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
