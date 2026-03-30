@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-30T09:41:37.631209",
+  "timestamp": "2026-03-30T12:30:34.958038",
   "date": "2026-03-30",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 2,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 1555562,
-      "like_count": 65825,
-      "comment_count": 4749,
+      "view_count": 1624903,
+      "like_count": 67392,
+      "comment_count": 4859,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 138347,
-      "like_count": 1157,
-      "comment_count": 215,
+      "view_count": 147088,
+      "like_count": 1259,
+      "comment_count": 227,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -92,6 +92,30 @@
       "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 2102455,
+      "like_count": 259679,
+      "comment_count": 48283,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
       "video_id": "WW8GCMDbLz4",
       "title": "Texas Children's Houston Open, Final Round",
       "description": "From Memorial Park in Houston.",
@@ -109,37 +133,30 @@
       "url": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
     },
     {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 1561231,
-      "like_count": 210244,
-      "comment_count": 41321,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+      "video_id": "FVZJjAYw1Aw",
+      "title": "Columbus Aviators at Orlando Storm",
+      "description": "The Columbus Aviators face the Orlando Storm in the UFL opener Sunday at Inter&Co Stadium. Anthony Becht leads Orlando after a 22-8 run in St. Louis, while former Ohio State star Ted Ginn Jr. debuts as the head coach for the expansion Aviators.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-30T10:33:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVZJjAYw1Aw/hqdefault.jpg",
+      "duration": "PT2H49M21S",
+      "duration_seconds": 10161,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
     },
     {
-      "video_id": "S18VjMKy0xI",
-      "title": "Sunday Night in America With Trey Gowdy",
-      "description": "Insightful analysis and a new outlook on the issues facing the country; the former South Carolina Congressman breaks down the legal and political news.",
+      "video_id": "TwSJNO01PWc",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-30T07:41:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S18VjMKy0xI/hqdefault.jpg",
+      "published_at": "2026-03-30T09:34:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TwSJNO01PWc/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -147,7 +164,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=S18VjMKy0xI"
+      "url": "https://www.youtube.com/watch?v=TwSJNO01PWc"
+    },
+    {
+      "video_id": "Xg3PAPVVy-A",
+      "title": "Mile High Club",
+      "description": "Forrest and Sheena get a little freaky; Elise confronts Nat; Lisa seeks a cleansing from a Nigerian priest; Stig's grand gesture catches Aviva off guard; Trisha's family issues Rick an ultimatum; Emma says goodbye to Morocco.",
+      "channel_title": "TLC",
+      "channel_id": "UC4WzX4rjxyOavZENjRCHEaw",
+      "published_at": "2026-03-30T09:08:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xg3PAPVVy-A/hqdefault.jpg",
+      "duration": "PT2H2M5S",
+      "duration_seconds": 7325,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
     },
     {
       "video_id": "PRcc7ccdbGk",
@@ -165,23 +199,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
-    },
-    {
-      "video_id": "pRvk5DAOZ1I",
-      "title": "Rolling the Dice on Laurel",
-      "description": "After a life-changing accident as a teen, a homebuyer considers purchasing a Laurel home he's wanted for years. He calls on Ben and Erin to see if a fully accessible renovation with an elevator is possible before buying it.",
-      "channel_title": "HGTV",
-      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
-      "published_at": "2026-03-30T08:03:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pRvk5DAOZ1I/hqdefault.jpg",
-      "duration": "PT1H20S",
-      "duration_seconds": 3620,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=pRvk5DAOZ1I"
     }
   ],
   "videos_with_transcripts": [],
@@ -196,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
       "duration": "PT3M50S",
       "duration_seconds": 230,
-      "view_count": 1555562,
-      "like_count": 65825,
-      "comment_count": 4749,
+      "view_count": 1624903,
+      "like_count": 67392,
+      "comment_count": 4859,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
@@ -213,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 138347,
-      "like_count": 1157,
-      "comment_count": 215,
+      "view_count": 147088,
+      "like_count": 1259,
+      "comment_count": 227,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -266,6 +283,30 @@
       "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 2102455,
+      "like_count": 259679,
+      "comment_count": 48283,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
       "video_id": "WW8GCMDbLz4",
       "title": "Texas Children's Houston Open, Final Round",
       "description": "From Memorial Park in Houston.",
@@ -283,37 +324,30 @@
       "url": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
     },
     {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 1561231,
-      "like_count": 210244,
-      "comment_count": 41321,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+      "video_id": "FVZJjAYw1Aw",
+      "title": "Columbus Aviators at Orlando Storm",
+      "description": "The Columbus Aviators face the Orlando Storm in the UFL opener Sunday at Inter&Co Stadium. Anthony Becht leads Orlando after a 22-8 run in St. Louis, while former Ohio State star Ted Ginn Jr. debuts as the head coach for the expansion Aviators.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-03-30T10:33:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVZJjAYw1Aw/hqdefault.jpg",
+      "duration": "PT2H49M21S",
+      "duration_seconds": 10161,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
     },
     {
-      "video_id": "S18VjMKy0xI",
-      "title": "Sunday Night in America With Trey Gowdy",
-      "description": "Insightful analysis and a new outlook on the issues facing the country; the former South Carolina Congressman breaks down the legal and political news.",
+      "video_id": "TwSJNO01PWc",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-30T07:41:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S18VjMKy0xI/hqdefault.jpg",
+      "published_at": "2026-03-30T09:34:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TwSJNO01PWc/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -321,7 +355,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=S18VjMKy0xI"
+      "url": "https://www.youtube.com/watch?v=TwSJNO01PWc"
+    },
+    {
+      "video_id": "Xg3PAPVVy-A",
+      "title": "Mile High Club",
+      "description": "Forrest and Sheena get a little freaky; Elise confronts Nat; Lisa seeks a cleansing from a Nigerian priest; Stig's grand gesture catches Aviva off guard; Trisha's family issues Rick an ultimatum; Emma says goodbye to Morocco.",
+      "channel_title": "TLC",
+      "channel_id": "UC4WzX4rjxyOavZENjRCHEaw",
+      "published_at": "2026-03-30T09:08:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xg3PAPVVy-A/hqdefault.jpg",
+      "duration": "PT2H2M5S",
+      "duration_seconds": 7325,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
     },
     {
       "video_id": "PRcc7ccdbGk",
@@ -339,124 +390,69 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
-    },
-    {
-      "video_id": "pRvk5DAOZ1I",
-      "title": "Rolling the Dice on Laurel",
-      "description": "After a life-changing accident as a teen, a homebuyer considers purchasing a Laurel home he's wanted for years. He calls on Ben and Erin to see if a fully accessible renovation with an elevator is possible before buying it.",
-      "channel_title": "HGTV",
-      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
-      "published_at": "2026-03-30T08:03:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pRvk5DAOZ1I/hqdefault.jpg",
-      "duration": "PT1H20S",
-      "duration_seconds": 3620,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=pRvk5DAOZ1I"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 9,
-        "total_views": 3255140,
-        "average_views_per_video": 361682.22
-      },
       "content_trends": {
         "music_and_entertainment": {
-          "description": "Music and entertainment-related content, such as music videos and concept trailers, are prominent in the trending list.",
-          "videos": [
-            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-            "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer"
-          ],
-          "insights": {
-            "opportunities": [
-              "Capitalize on celebrity involvement in content to boost viewership.",
-              "Create engaging music and entertainment content that taps into popular culture and upcoming trends."
-            ]
-          }
+          "description": "Music and entertainment content continue to be a strong trend, as evidenced by the presence of a music video by Kanye West and a concept trailer featuring popular actors.",
+          "videos": 2,
+          "potential": "High engagement potential due to the strong fanbase of featured artists and actors."
         },
         "sports": {
-          "description": "Sports-related content is a significant component, with various sporting events and commentary shows trending.",
-          "videos": [
-            "NCAAM Elite Eight: Purdue vs. Arizona",
-            "Texas Children's Houston Open, Final Round",
-            "NCAA March Madness 360"
-          ],
-          "insights": {
-            "opportunities": [
-              "Leverage major sports events and tournaments to create timely content.",
-              "Develop content that offers analysis, highlights, or unique insights into ongoing sports events."
-            ]
-          }
+          "description": "Sports-related content is prominently featured, with videos covering basketball, golf, and baseball events.",
+          "videos": 5,
+          "potential": "Capitalizing on live sports events and highlights can drive significant viewership, especially during peak sports seasons."
         },
-        "news_and_talk_shows": {
-          "description": "Content related to news and commentary is also trending.",
-          "videos": [
-            "Sunday Night in America With Trey Gowdy"
-          ],
-          "insights": {
-            "opportunities": [
-              "Focus on current events and political commentary to attract viewers interested in news analysis.",
-              "Collaborate with prominent figures in the news industry to expand reach and credibility."
-            ]
-          }
+        "niche_interests": {
+          "description": "A video titled 'Destroying A World That Doesn't Exist' suggests interest in unique or unconventional content, potentially targeting niche audiences.",
+          "videos": 1,
+          "potential": "Opportunity to explore creative and alternative content themes that appeal to curious and niche audiences."
         },
-        "miscellaneous": {
-          "description": "Unique or unconventional content finds a place among trending videos.",
-          "videos": [
-            "Destroying A World That Doesn't Exist",
-            "Rolling the Dice on Laurel"
-          ],
-          "insights": {
-            "opportunities": [
-              "Explore niche topics or innovative content concepts that stand out from mainstream trends.",
-              "Experiment with creative storytelling and visual effects to capture audience attention."
-            ]
-          }
+        "news_and_politics": {
+          "description": "Content related to news and political commentary is present, which may indicate an audience interested in current events.",
+          "videos": 1,
+          "potential": "Timely and controversial topics can attract viewers, especially if they provide unique insights or perspectives."
         }
       },
       "creator_patterns": {
-        "diversity_of_content_creators": {
-          "channels": [
-            "Kanye West",
-            "Ultimate Studios",
-            "FS1",
-            "TBS",
-            "Golf Channel"
-          ],
-          "insights": {
-            "observation": "A diverse range of content creators, from individual artists to major sports networks, are represented.",
-            "opportunities": [
-              "Collaborate across different content niches to reach wider audiences.",
-              "Consider partnerships with both independent creators and established networks to leverage varied audience bases."
-            ]
-          }
+        "diverse_sources": {
+          "description": "Content comes from a diverse set of creators, including musicians, entertainment studios, sports networks, and individual creators.",
+          "channels": 5,
+          "strategy": "Encouraging collaboration between different types of creators can result in cross-pollination of audiences and broaden reach."
+        },
+        "single_video_contributions": {
+          "description": "Each of the top channels contributed only one video to the trending list, suggesting a variety of content is being consumed.",
+          "strategy": "Focus on quality over quantity for content production, ensuring each video is highly engaging and optimized for trending."
         }
       },
       "market_opportunities": {
-        "growth_areas": [
-          "Developing content that integrates trending celebrities and cultural phenomena.",
-          "Targeting major sports events and leveraging their widespread appeal.",
-          "Creating innovative and unique content that capitalizes on curiosity and unconventional themes."
-        ],
-        "strategic_recommendations": [
-          "Invest in quality production values and storytelling to enhance viewer engagement.",
-          "Utilize data analytics to tailor content strategies to audience preferences and trending topics.",
-          "Embrace multi-platform promotion to maximize content visibility and audience reach."
-        ]
+        "music_and_pop_culture": {
+          "description": "Invest in partnerships with popular musicians and actors to create content that captures the attention of large fanbases.",
+          "opportunity": "High potential for sponsored content or exclusive releases to drive engagement."
+        },
+        "live_sports_and_event_coverage": {
+          "description": "Leverage live sports events and exclusive sports content to attract viewers and advertisers.",
+          "opportunity": "Consider producing behind-the-scenes content or expert analysis to differentiate offerings."
+        },
+        "alternative_and_creative_content": {
+          "description": "Explore unconventional content themes to capture niche audiences and foster community engagement.",
+          "opportunity": "Develop series or one-off videos that experiment with unique storytelling or concepts."
+        },
+        "current_events_and_commentary": {
+          "description": "Capitalize on news and political discussion by offering commentary or in-depth analysis of trending topics.",
+          "opportunity": "Create timely content that addresses current events, potentially collaborating with journalists or experts."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 361682
+        "avg_views_per_video": 387444
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
