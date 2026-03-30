@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-30T12:30:34.958038",
+  "timestamp": "2026-03-30T15:36:49.410033",
   "date": "2026-03-30",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -13,23 +13,6 @@
   },
   "trending_videos": [
     {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1624903,
-      "like_count": 67392,
-      "comment_count": 4859,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
       "video_id": "_L_o2JrcyHg",
       "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
       "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
@@ -39,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 147088,
-      "like_count": 1259,
-      "comment_count": 227,
+      "view_count": 160834,
+      "like_count": 1537,
+      "comment_count": 285,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -75,6 +58,23 @@
       "url": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
     },
     {
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 1696716,
+      "like_count": 69623,
+      "comment_count": 4978,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
+    {
       "video_id": "daHsTyp4ZVU",
       "title": "NCAAM Elite Eight: Purdue vs. Arizona",
       "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
       "duration": "PT2H2M35S",
       "duration_seconds": 7355,
-      "view_count": 2102455,
-      "like_count": 259679,
-      "comment_count": 48283,
+      "view_count": 2785907,
+      "like_count": 324680,
+      "comment_count": 56636,
       "category_id": "20",
       "tags": [
         "wifies",
@@ -167,6 +167,23 @@
       "url": "https://www.youtube.com/watch?v=TwSJNO01PWc"
     },
     {
+      "video_id": "pyGT4ECFhfc",
+      "title": "The Super 16 Show Out",
+      "description": "Guy Fieri welcomes 16 chefs back to the arena for four second-round matchups; the randomizer determines the requirements for the competition as four chefs move toward the championship and the $150,000 prize.",
+      "channel_title": "Food Network",
+      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
+      "published_at": "2026-03-30T11:55:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pyGT4ECFhfc/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pyGT4ECFhfc"
+    },
+    {
       "video_id": "Xg3PAPVVy-A",
       "title": "Mile High Club",
       "description": "Forrest and Sheena get a little freaky; Elise confronts Nat; Lisa seeks a cleansing from a Nigerian priest; Stig's grand gesture catches Aviva off guard; Trisha's family issues Rick an ultimatum; Emma says goodbye to Morocco.",
@@ -182,45 +199,11 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
-    },
-    {
-      "video_id": "PRcc7ccdbGk",
-      "title": "NCAA March Madness 360",
-      "description": "A look at action from the 2026 NCAA Basketball Championship.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-03-30T08:16:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PRcc7ccdbGk/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1624903,
-      "like_count": 67392,
-      "comment_count": 4859,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
       "video_id": "_L_o2JrcyHg",
       "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
       "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
@@ -230,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 147088,
-      "like_count": 1259,
-      "comment_count": 227,
+      "view_count": 160834,
+      "like_count": 1537,
+      "comment_count": 285,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -266,6 +249,23 @@
       "url": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
     },
     {
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 1696716,
+      "like_count": 69623,
+      "comment_count": 4978,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
+    {
       "video_id": "daHsTyp4ZVU",
       "title": "NCAAM Elite Eight: Purdue vs. Arizona",
       "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
@@ -292,9 +292,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
       "duration": "PT2H2M35S",
       "duration_seconds": 7355,
-      "view_count": 2102455,
-      "like_count": 259679,
-      "comment_count": 48283,
+      "view_count": 2785907,
+      "like_count": 324680,
+      "comment_count": 56636,
       "category_id": "20",
       "tags": [
         "wifies",
@@ -358,6 +358,23 @@
       "url": "https://www.youtube.com/watch?v=TwSJNO01PWc"
     },
     {
+      "video_id": "pyGT4ECFhfc",
+      "title": "The Super 16 Show Out",
+      "description": "Guy Fieri welcomes 16 chefs back to the arena for four second-round matchups; the randomizer determines the requirements for the competition as four chefs move toward the championship and the $150,000 prize.",
+      "channel_title": "Food Network",
+      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
+      "published_at": "2026-03-30T11:55:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pyGT4ECFhfc/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pyGT4ECFhfc"
+    },
+    {
       "video_id": "Xg3PAPVVy-A",
       "title": "Mile High Club",
       "description": "Forrest and Sheena get a little freaky; Elise confronts Nat; Lisa seeks a cleansing from a Nigerian priest; Stig's grand gesture catches Aviva off guard; Trisha's family issues Rick an ultimatum; Emma says goodbye to Morocco.",
@@ -373,78 +390,68 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
-    },
-    {
-      "video_id": "PRcc7ccdbGk",
-      "title": "NCAA March Madness 360",
-      "description": "A look at action from the 2026 NCAA Basketball Championship.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-03-30T08:16:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PRcc7ccdbGk/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "music_and_entertainment": {
-          "description": "Music and entertainment content continue to be a strong trend, as evidenced by the presence of a music video by Kanye West and a concept trailer featuring popular actors.",
-          "videos": 2,
-          "potential": "High engagement potential due to the strong fanbase of featured artists and actors."
-        },
-        "sports": {
-          "description": "Sports-related content is prominently featured, with videos covering basketball, golf, and baseball events.",
-          "videos": 5,
-          "potential": "Capitalizing on live sports events and highlights can drive significant viewership, especially during peak sports seasons."
-        },
-        "niche_interests": {
-          "description": "A video titled 'Destroying A World That Doesn't Exist' suggests interest in unique or unconventional content, potentially targeting niche audiences.",
-          "videos": 1,
-          "potential": "Opportunity to explore creative and alternative content themes that appeal to curious and niche audiences."
-        },
-        "news_and_politics": {
-          "description": "Content related to news and political commentary is present, which may indicate an audience interested in current events.",
-          "videos": 1,
-          "potential": "Timely and controversial topics can attract viewers, especially if they provide unique insights or perspectives."
+        "categories": {
+          "entertainment": {
+            "titles": [
+              "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer"
+            ],
+            "insights": "The presence of a concept trailer featuring major celebrities suggests a strong interest in entertainment and celebrity-driven content. Concept trailers often garner significant views as fans are eager for new developments in popular franchises."
+          },
+          "music": {
+            "titles": [
+              "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)"
+            ],
+            "insights": "Music videos or tracks from well-known artists like Kanye West indicate a consistent trend in music content popularity. Collaborations with other artists can drive additional interest and viewership."
+          },
+          "sports": {
+            "titles": [
+              "NCAAM Elite Eight: Purdue vs. Arizona",
+              "Texas Children's Houston Open, Final Round",
+              "Columbus Aviators at Orlando Storm"
+            ],
+            "insights": "Sports events, especially major tournaments or finals, attract significant viewership. This indicates a strong audience base for sports-related content, particularly live events or highlights."
+          },
+          "news_and_politics": {
+            "titles": [
+              "One Nation With Brian Kilmeade"
+            ],
+            "insights": "News and political content continue to engage viewers, especially when related to current events or hosted by prominent media figures."
+          },
+          "miscellaneous": {
+            "titles": [
+              "Cook Out 400",
+              "Destroying A World That Doesn't Exist",
+              "The Super 16 Show Out",
+              "Mile High Club"
+            ],
+            "insights": "Titles that are less specific or possibly related to niche interests indicate a diverse range of viewer interests. These could represent lifestyle or experiential content."
+          }
         }
       },
       "creator_patterns": {
-        "diverse_sources": {
-          "description": "Content comes from a diverse set of creators, including musicians, entertainment studios, sports networks, and individual creators.",
-          "channels": 5,
-          "strategy": "Encouraging collaboration between different types of creators can result in cross-pollination of audiences and broaden reach."
-        },
-        "single_video_contributions": {
-          "description": "Each of the top channels contributed only one video to the trending list, suggesting a variety of content is being consumed.",
-          "strategy": "Focus on quality over quantity for content production, ensuring each video is highly engaging and optimized for trending."
+        "diversity_in_channels": {
+          "observation": "Each top channel only has one video in the trending list, indicating a diverse range of creators contributing to trending content.",
+          "insights": "This suggests opportunities for new creators to trend, as the platform does not seem dominated by any single creator or channel."
         }
       },
       "market_opportunities": {
-        "music_and_pop_culture": {
-          "description": "Invest in partnerships with popular musicians and actors to create content that captures the attention of large fanbases.",
-          "opportunity": "High potential for sponsored content or exclusive releases to drive engagement."
-        },
-        "live_sports_and_event_coverage": {
-          "description": "Leverage live sports events and exclusive sports content to attract viewers and advertisers.",
-          "opportunity": "Consider producing behind-the-scenes content or expert analysis to differentiate offerings."
-        },
-        "alternative_and_creative_content": {
-          "description": "Explore unconventional content themes to capture niche audiences and foster community engagement.",
-          "opportunity": "Develop series or one-off videos that experiment with unique storytelling or concepts."
-        },
-        "current_events_and_commentary": {
-          "description": "Capitalize on news and political discussion by offering commentary or in-depth analysis of trending topics.",
-          "opportunity": "Create timely content that addresses current events, potentially collaborating with journalists or experts."
+        "potential_growth_areas": {
+          "entertainment": "With strong interest in concept trailers and celebrity-driven content, creators can tap into fandoms and speculative content around popular franchises.",
+          "music_collaborations": "Collaborations in music can be a strategic move to reach wider audiences, leveraging fan bases from multiple artists.",
+          "sports_highlights": "Creating content around sports highlights, analysis, and commentary can capitalize on the consistent interest in sports events.",
+          "news_and_opinion": "Providing in-depth analysis or unique perspectives on current events can attract an audience interested in news and political content."
         }
+      },
+      "recommendations": {
+        "diversify_content_types": "Creators should explore multiple content formats, such as trailers, music, and event highlights, to capture diverse audience interests.",
+        "leverage_current_trends": "Staying updated on current events and trending topics can help creators produce timely and relevant content that resonates with viewers.",
+        "collaborative_projects": "Partnering with other creators or influencers can help expand reach and engage with different audience segments."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -452,7 +459,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 387444
+        "avg_views_per_video": 464345
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
