@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-30T18:28:55.296244",
+  "timestamp": "2026-03-30T21:21:25.458527",
   "date": "2026-03-30",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1Q-mpnZbqGk/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 70782,
-      "like_count": 11589,
-      "comment_count": 524,
+      "view_count": 158097,
+      "like_count": 16504,
+      "comment_count": 736,
       "category_id": "1",
       "tags": [
         "2026",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 199715,
-      "like_count": 1879,
-      "comment_count": 336,
+      "view_count": 237415,
+      "like_count": 2079,
+      "comment_count": 375,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -84,6 +84,58 @@
         "Grey Hulk Charlize Theron"
       ],
       "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
+    },
+    {
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 4089969,
+      "like_count": 412238,
+      "comment_count": 67787,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
+      "video_id": "xMR3GAwL0fs",
+      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
+      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
+      "channel_title": "Action Society",
+      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
+      "published_at": "2026-03-29T13:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
+      "duration": "PT1M19S",
+      "duration_seconds": 79,
+      "view_count": 38288,
+      "like_count": 539,
+      "comment_count": 54,
+      "category_id": "24",
+      "tags": [
+        "2026",
+        "Cole Hauser",
+        "Dutton Ranch",
+        "Dutton Ranch Trailer",
+        "Finn Little",
+        "Kelly Reilly",
+        "action society",
+        "drama",
+        "film",
+        "movie"
+      ],
+      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
     },
     {
       "video_id": "o4K7dKY4gQY",
@@ -103,32 +155,49 @@
       "url": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
     },
     {
-      "video_id": "xMR3GAwL0fs",
-      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
-      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
-      "channel_title": "Action Society",
-      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
-      "published_at": "2026-03-29T13:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 29437,
-      "like_count": 447,
-      "comment_count": 44,
-      "category_id": "24",
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 1876110,
+      "like_count": 73896,
+      "comment_count": 5192,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
+    {
+      "video_id": "jAsxf1gaxGs",
+      "title": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman",
+      "description": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman, Lobo, Crypto, DC\n© 2026 - Warner Bros",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-30T16:09:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jAsxf1gaxGs/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 68484,
+      "like_count": 2045,
+      "comment_count": 193,
+      "category_id": "1",
       "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
         "2026",
-        "Cole Hauser",
-        "Dutton Ranch",
-        "Dutton Ranch Trailer",
-        "Finn Little",
-        "Kelly Reilly",
-        "action society",
-        "drama",
-        "film",
-        "movie"
+        "Supergirl",
+        "Supergirl Trailer",
+        "DC",
+        "Superman",
+        "Lobo"
       ],
-      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
+      "url": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
     },
     {
       "video_id": "daHsTyp4ZVU",
@@ -148,83 +217,32 @@
       "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1785080,
-      "like_count": 71736,
-      "comment_count": 5080,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 3522196,
-      "like_count": 372052,
-      "comment_count": 62719,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
-    },
-    {
-      "video_id": "WW8GCMDbLz4",
-      "title": "Texas Children's Houston Open, Final Round",
-      "description": "From Memorial Park in Houston.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-30T02:26:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WW8GCMDbLz4/hqdefault.jpg",
-      "duration": "PT1H54M5S",
-      "duration_seconds": 6845,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "rlH0Q-nQ4w8",
+      "title": "Don't Trust HBO's Harry Potter Series",
+      "description": "Harry Potter is back on the menu.\nOn March 25, 2026, HBO released the first teaser trailer for Harry Potter and the Philosopher's Stone. Within 48 hours, it became the most-watched trailer in HBO and HBO Max’s history with 277 million views. The premiere date is Christmas Day 2026, and the whole season will span over eight episodes to cover the first book.\nThis is meant to be a ten-year plan to adapt all seven novels. On paper, this is the biggest entertainment event of the decade and certainly meant to be the television replacement for something as large as Stranger Things.\nBut beneath the record-breaking numbers, something else is happening. The internet’s reaction hasn’t been unified excitement. The reaction has been fractured and defensive. Fans are not asking, \"How good will this be?\" They are asking how badly they will ruin this.\nThat question tells you everything you need to know about where we are in the entertainment zeitgeist. Many people see this Harry Potter show as just an",
+      "channel_title": "Real Life Fake Wizard",
+      "channel_id": "UCLCOaNcR6kSbI1OXu83uipg",
+      "published_at": "2026-03-30T15:13:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rlH0Q-nQ4w8/hqdefault.jpg",
+      "duration": "PT21M32S",
+      "duration_seconds": 1292,
+      "view_count": 35563,
+      "like_count": 3749,
+      "comment_count": 1148,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
-    },
-    {
-      "video_id": "10OJhIc_-vw",
-      "title": "Minecraft Speedrunner VS 6 Hunters REMATCH",
-      "description": "Minecraft Speedrunner VS 6 Hunters REMATCH. You asked for it. This was absolutely INSANE.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo:  @thesaintsofgames \nGeorge:  @GeorgeNotFound \nSapnap:  @Sapnap \nAntfrost:  @Antfrost \nawesamdude:  @awesamdude \nCaptainPuffy:  @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water Rises or Minecraft,",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-03-30T03:52:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/10OJhIc_-vw/hqdefault.jpg",
-      "duration": "PT52M9S",
-      "duration_seconds": 3129,
-      "view_count": 2950448,
-      "like_count": 208496,
-      "comment_count": 17435,
-      "category_id": "20",
       "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
+        "harry potter hbo",
+        "harry potter series",
+        "harry potter reboot",
+        "hbo max harry potter",
+        "philosopher's stone series",
+        "sorcerer's stone",
+        "hogwarts reboot",
+        "harry potter trailer",
+        "harry potter casting",
+        "snape casting"
       ],
-      "url": "https://www.youtube.com/watch?v=10OJhIc_-vw"
+      "url": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
     }
   ],
   "videos_with_transcripts": [],
@@ -256,9 +274,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 199715,
-      "like_count": 1879,
-      "comment_count": 336,
+      "view_count": 237415,
+      "like_count": 2079,
+      "comment_count": 375,
       "category_id": "24",
       "tags": [
         "Grey Hulk",
@@ -273,6 +291,58 @@
         "Grey Hulk Charlize Theron"
       ],
       "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
+    },
+    {
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 4089969,
+      "like_count": 412238,
+      "comment_count": 67787,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
+      "video_id": "xMR3GAwL0fs",
+      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
+      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
+      "channel_title": "Action Society",
+      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
+      "published_at": "2026-03-29T13:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
+      "duration": "PT1M19S",
+      "duration_seconds": 79,
+      "view_count": 38288,
+      "like_count": 539,
+      "comment_count": 54,
+      "category_id": "24",
+      "tags": [
+        "2026",
+        "Cole Hauser",
+        "Dutton Ranch",
+        "Dutton Ranch Trailer",
+        "Finn Little",
+        "Kelly Reilly",
+        "action society",
+        "drama",
+        "film",
+        "movie"
+      ],
+      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
     },
     {
       "video_id": "o4K7dKY4gQY",
@@ -292,32 +362,49 @@
       "url": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
     },
     {
-      "video_id": "xMR3GAwL0fs",
-      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
-      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
-      "channel_title": "Action Society",
-      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
-      "published_at": "2026-03-29T13:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 29437,
-      "like_count": 447,
-      "comment_count": 44,
-      "category_id": "24",
+      "video_id": "U2beixNMeWA",
+      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
+      "channel_title": "Kanye West",
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "published_at": "2026-03-28T10:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
+      "duration": "PT3M50S",
+      "duration_seconds": 230,
+      "view_count": 1876110,
+      "like_count": 73896,
+      "comment_count": 5192,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
+    },
+    {
+      "video_id": "jAsxf1gaxGs",
+      "title": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman",
+      "description": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman, Lobo, Crypto, DC\n© 2026 - Warner Bros",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-03-30T16:09:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jAsxf1gaxGs/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 68484,
+      "like_count": 2045,
+      "comment_count": 193,
+      "category_id": "1",
       "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
         "2026",
-        "Cole Hauser",
-        "Dutton Ranch",
-        "Dutton Ranch Trailer",
-        "Finn Little",
-        "Kelly Reilly",
-        "action society",
-        "drama",
-        "film",
-        "movie"
+        "Supergirl",
+        "Supergirl Trailer",
+        "DC",
+        "Superman",
+        "Lobo"
       ],
-      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
+      "url": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
     },
     {
       "video_id": "daHsTyp4ZVU",
@@ -337,83 +424,32 @@
       "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
     },
     {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1785080,
-      "like_count": 71736,
-      "comment_count": 5080,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 3522196,
-      "like_count": 372052,
-      "comment_count": 62719,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
-    },
-    {
-      "video_id": "WW8GCMDbLz4",
-      "title": "Texas Children's Houston Open, Final Round",
-      "description": "From Memorial Park in Houston.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-03-30T02:26:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WW8GCMDbLz4/hqdefault.jpg",
-      "duration": "PT1H54M5S",
-      "duration_seconds": 6845,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "rlH0Q-nQ4w8",
+      "title": "Don't Trust HBO's Harry Potter Series",
+      "description": "Harry Potter is back on the menu.\nOn March 25, 2026, HBO released the first teaser trailer for Harry Potter and the Philosopher's Stone. Within 48 hours, it became the most-watched trailer in HBO and HBO Max’s history with 277 million views. The premiere date is Christmas Day 2026, and the whole season will span over eight episodes to cover the first book.\nThis is meant to be a ten-year plan to adapt all seven novels. On paper, this is the biggest entertainment event of the decade and certainly meant to be the television replacement for something as large as Stranger Things.\nBut beneath the record-breaking numbers, something else is happening. The internet’s reaction hasn’t been unified excitement. The reaction has been fractured and defensive. Fans are not asking, \"How good will this be?\" They are asking how badly they will ruin this.\nThat question tells you everything you need to know about where we are in the entertainment zeitgeist. Many people see this Harry Potter show as just an",
+      "channel_title": "Real Life Fake Wizard",
+      "channel_id": "UCLCOaNcR6kSbI1OXu83uipg",
+      "published_at": "2026-03-30T15:13:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rlH0Q-nQ4w8/hqdefault.jpg",
+      "duration": "PT21M32S",
+      "duration_seconds": 1292,
+      "view_count": 35563,
+      "like_count": 3749,
+      "comment_count": 1148,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
-    },
-    {
-      "video_id": "10OJhIc_-vw",
-      "title": "Minecraft Speedrunner VS 6 Hunters REMATCH",
-      "description": "Minecraft Speedrunner VS 6 Hunters REMATCH. You asked for it. This was absolutely INSANE.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo:  @thesaintsofgames \nGeorge:  @GeorgeNotFound \nSapnap:  @Sapnap \nAntfrost:  @Antfrost \nawesamdude:  @awesamdude \nCaptainPuffy:  @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water Rises or Minecraft,",
-      "channel_title": "Dream",
-      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-      "published_at": "2026-03-30T03:52:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/10OJhIc_-vw/hqdefault.jpg",
-      "duration": "PT52M9S",
-      "duration_seconds": 3129,
-      "view_count": 2950448,
-      "like_count": 208496,
-      "comment_count": 17435,
-      "category_id": "20",
       "tags": [
-        "minecraft",
-        "dream",
-        "dream minecraft"
+        "harry potter hbo",
+        "harry potter series",
+        "harry potter reboot",
+        "hbo max harry potter",
+        "philosopher's stone series",
+        "sorcerer's stone",
+        "hogwarts reboot",
+        "harry potter trailer",
+        "harry potter casting",
+        "snape casting"
       ],
-      "url": "https://www.youtube.com/watch?v=10OJhIc_-vw"
+      "url": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
     },
     {
       "video_id": "1Q-mpnZbqGk",
@@ -425,9 +461,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1Q-mpnZbqGk/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 70782,
-      "like_count": 11589,
-      "comment_count": 524,
+      "view_count": 158097,
+      "like_count": 16504,
+      "comment_count": 736,
       "category_id": "1",
       "tags": [
         "2026",
@@ -447,62 +483,69 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 8557658,
-        "averageViewsPerVideo": 855765.8,
-        "categories": "Unknown"
-      },
-      "contentTrends": {
-        "trailerHype": {
-          "description": "Trailers and concept videos account for a significant portion of trending content, capturing audience interest in upcoming media releases.",
-          "examples": [
+      "content_trends": {
+        "superhero_and_trailers": {
+          "description": "Trailers and teasers for superhero movies and series, particularly related to 'Supergirl' and 'Grey Hulk', are a significant trend.",
+          "evidence": [
             "Supergirl | Trailer Tomorrow",
             "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
+            "SUPERGIRL Official Trailer 2 TEASER (2026) Superman"
+          ],
+          "insights": "Leverage the popularity of superhero content by creating related discussions, reviews, or reaction videos."
+        },
+        "sports_and_events": {
+          "description": "Sports content, particularly involving major events like NCAAM Elite Eight, is trending.",
+          "evidence": [
+            "Cook Out 400",
+            "NCAAM Elite Eight: Purdue vs. Arizona"
+          ],
+          "insights": "Capitalize on sports events by providing analysis, live commentary, or highlight reels to engage sports fans."
+        },
+        "music_and_entertainment": {
+          "description": "Music and entertainment content, including concept trailers and music features, are drawing attention.",
+          "evidence": [
+            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
+            "Don't Trust HBO's Harry Potter Series"
+          ],
+          "insights": "Explore collaborations with musicians and entertainment creators to tap into their audience base."
+        }
+      },
+      "creator_patterns": {
+        "diverse_content_creation": {
+          "description": "Channels are diversifying their content with a mix of trailers, sports, and music.",
+          "evidence": [
+            "DC producing superhero trailers",
+            "FS1 focusing on sports content",
+            "Ultimate Studios creating concept trailers"
+          ],
+          "insights": "Encourage creators to explore multiple genres and niches to broaden their audience reach."
+        },
+        "strategic_releases": {
+          "description": "Creators are strategically releasing teasers and trailers to generate buzz for future content.",
+          "evidence": [
             "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off"
           ],
-          "insight": "Releasing high-quality, engaging trailers and teasers can capture large audiences, especially when featuring well-known franchises or personalities."
-        },
-        "sportsContent": {
-          "description": "Sports-related videos, including event highlights and analysis, are consistently popular.",
-          "examples": [
-            "Cook Out 400",
-            "NCAAM Elite Eight: Purdue vs. Arizona",
-            "Texas Children's Houston Open, Final Round"
-          ],
-          "insight": "Capitalizing on current sports events by producing timely and insightful content can attract sports enthusiasts and drive viewership."
-        },
-        "musicAndEntertainment": {
-          "description": "Music and entertainment videos remain a staple of trending content, with collaborations and unique concepts drawing attention.",
-          "examples": [
-            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-            "Destroying A World That Doesn't Exist",
-            "Minecraft Speedrunner VS 6 Hunters REMATCH"
-          ],
-          "insight": "Innovative music collaborations and engaging entertainment formats, such as challenges or rematches, can capture diverse audiences."
+          "insights": "Utilize teaser content to build anticipation and engage audiences ahead of major releases."
         }
       },
-      "creatorPatterns": {
-        "diverseChannels": {
-          "observation": "There is a variety of channels contributing to the trending list, each with a single video entry, indicating diverse content appeal.",
-          "examples": [
-            "DC",
-            "FS1",
-            "Ultimate Studios",
-            "FOX News",
-            "Action Society"
-          ],
-          "insight": "Channels can achieve trending status with unique, high-quality content, regardless of frequency or volume. Maintaining a distinct brand identity is crucial."
+      "market_opportunities": {
+        "cross-genre_collaborations": {
+          "description": "Opportunities exist in cross-genre collaborations, especially between music and film or sports.",
+          "insights": "Facilitate partnerships between music artists and film creators to create unique content experiences."
+        },
+        "community_engagement": {
+          "description": "Engage with fan communities around popular franchises and sports events.",
+          "insights": "Develop community-driven content like fan theories, live discussions, and Q&A sessions to enhance viewer engagement."
         }
       },
-      "marketOpportunities": {
-        "cross-promotion": {
-          "opportunity": "Leverage crossover content between established franchises and emerging creators to expand reach.",
-          "strategy": "Collaborate with trending channels to create hybrid content that merges different entertainment forms, like combining sports analysis with cultural commentary."
+      "recommendations": {
+        "data_driven_strategy": {
+          "description": "Utilize viewership data to identify and focus on trending categories and content types.",
+          "insights": "Analyze audience demographics and interests to tailor content strategy and maximize viewership."
         },
-        "real-time engagement": {
-          "opportunity": "Engage with live events and trending topics to capture timely audience interest.",
-          "strategy": "Develop content rapidly in response to live events or breaking news to remain relevant and take advantage of peak interest periods."
+        "platform_utilization": {
+          "description": "Maximize use of YouTube's features like polls, community posts, and premieres to enhance content visibility.",
+          "insights": "Engage audiences with interactive features to increase channel engagement and subscriber growth."
         }
       },
       "metadata_stats": {
@@ -511,7 +554,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 855765
+        "avg_views_per_video": 650392
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
