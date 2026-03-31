@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-30T21:21:25.458527",
-  "date": "2026-03-30",
+  "timestamp": "2026-03-31T00:49:24.159510",
+  "date": "2026-03-31",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1Q-mpnZbqGk/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 158097,
-      "like_count": 16504,
-      "comment_count": 736,
+      "view_count": 236904,
+      "like_count": 19689,
+      "comment_count": 844,
       "category_id": "1",
       "tags": [
         "2026",
@@ -41,6 +41,51 @@
       "url": "https://www.youtube.com/watch?v=1Q-mpnZbqGk"
     },
     {
+      "video_id": "D-3cum_Gqv8",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-30T21:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D-3cum_Gqv8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=D-3cum_Gqv8"
+    },
+    {
+      "video_id": "_L_o2JrcyHg",
+      "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
+      "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-03-29T12:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 260777,
+      "like_count": 2316,
+      "comment_count": 435,
+      "category_id": "24",
+      "tags": [
+        "Grey Hulk",
+        "grey hulk trailer",
+        "dwayne johnson",
+        "dwayne johnson grey hulk",
+        "grey hulk release date update",
+        "grey hulk explained",
+        "hulk",
+        "Grey Hulk First look",
+        "Grey Hulk 2026",
+        "Grey Hulk Charlize Theron"
+      ],
+      "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
+    },
+    {
       "video_id": "eRTxNs0eyHI",
       "title": "Cook Out 400",
       "description": "The seventh race of the 2026 NASCAR Cup Series season takes place at Martinsville Speedway in Ridgeway, Virginia. The series is coming off a dominant performance by Tyler Reddick, who already secured four wins in the first six races of the season.",
@@ -58,120 +103,6 @@
       "url": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
     },
     {
-      "video_id": "_L_o2JrcyHg",
-      "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
-      "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
-      "channel_title": "Ultimate Studios",
-      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
-      "published_at": "2026-03-29T12:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 237415,
-      "like_count": 2079,
-      "comment_count": 375,
-      "category_id": "24",
-      "tags": [
-        "Grey Hulk",
-        "grey hulk trailer",
-        "dwayne johnson",
-        "dwayne johnson grey hulk",
-        "grey hulk release date update",
-        "grey hulk explained",
-        "hulk",
-        "Grey Hulk First look",
-        "Grey Hulk 2026",
-        "Grey Hulk Charlize Theron"
-      ],
-      "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
-    },
-    {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 4089969,
-      "like_count": 412238,
-      "comment_count": 67787,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
-    },
-    {
-      "video_id": "xMR3GAwL0fs",
-      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
-      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
-      "channel_title": "Action Society",
-      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
-      "published_at": "2026-03-29T13:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 38288,
-      "like_count": 539,
-      "comment_count": 54,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Cole Hauser",
-        "Dutton Ranch",
-        "Dutton Ranch Trailer",
-        "Finn Little",
-        "Kelly Reilly",
-        "action society",
-        "drama",
-        "film",
-        "movie"
-      ],
-      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
-    },
-    {
-      "video_id": "o4K7dKY4gQY",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-30T17:37:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o4K7dKY4gQY/hqdefault.jpg",
-      "duration": "PT59M30S",
-      "duration_seconds": 3570,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
-    },
-    {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1876110,
-      "like_count": 73896,
-      "comment_count": 5192,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
       "video_id": "jAsxf1gaxGs",
       "title": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman",
       "description": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman, Lobo, Crypto, DC\n© 2026 - Warner Bros",
@@ -181,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jAsxf1gaxGs/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 68484,
-      "like_count": 2045,
-      "comment_count": 193,
+      "view_count": 124403,
+      "like_count": 2875,
+      "comment_count": 273,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -200,54 +131,161 @@
       "url": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
     },
     {
-      "video_id": "daHsTyp4ZVU",
-      "title": "NCAAM Elite Eight: Purdue vs. Arizona",
-      "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-29T13:08:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/daHsTyp4ZVU/hqdefault.jpg",
-      "duration": "PT2H41M",
-      "duration_seconds": 9660,
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 4711738,
+      "like_count": 449338,
+      "comment_count": 72844,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
+      "video_id": "WdBWisJn26g",
+      "title": "Avengers Doomsday X-Men Trailer Wolverine Breakdown",
+      "description": "Avengers Doomsday X-Men Trailer 2026. Wolverine & Deadpool Explained, Spider-Man Brand New Day Trailer Sadie Sink Jean Grey X-Men changes, Avengers Secret Wars Teaser, other X-Men characters & Daredevil Born Again Season 2 Episode 2 - 3 ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=wDJqxUI0H9Y&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nAvengers Doomsday X-Men Trailer https://www.youtube.com/watch?v=hz5IpqEri2s&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nThe Boys Season 5 Trailer https://www.youtube.com/watch?v=Duk6_UmW6AQ&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-03-30T21:36:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WdBWisJn26g/hqdefault.jpg",
+      "duration": "PT12M46S",
+      "duration_seconds": 766,
+      "view_count": 64676,
+      "like_count": 2938,
+      "comment_count": 292,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=WdBWisJn26g"
+    },
+    {
+      "video_id": "Pe7zmsr4IG8",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-30T21:56:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pe7zmsr4IG8/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
+      "url": "https://www.youtube.com/watch?v=Pe7zmsr4IG8"
     },
     {
-      "video_id": "rlH0Q-nQ4w8",
-      "title": "Don't Trust HBO's Harry Potter Series",
-      "description": "Harry Potter is back on the menu.\nOn March 25, 2026, HBO released the first teaser trailer for Harry Potter and the Philosopher's Stone. Within 48 hours, it became the most-watched trailer in HBO and HBO Max’s history with 277 million views. The premiere date is Christmas Day 2026, and the whole season will span over eight episodes to cover the first book.\nThis is meant to be a ten-year plan to adapt all seven novels. On paper, this is the biggest entertainment event of the decade and certainly meant to be the television replacement for something as large as Stranger Things.\nBut beneath the record-breaking numbers, something else is happening. The internet’s reaction hasn’t been unified excitement. The reaction has been fractured and defensive. Fans are not asking, \"How good will this be?\" They are asking how badly they will ruin this.\nThat question tells you everything you need to know about where we are in the entertainment zeitgeist. Many people see this Harry Potter show as just an",
-      "channel_title": "Real Life Fake Wizard",
-      "channel_id": "UCLCOaNcR6kSbI1OXu83uipg",
-      "published_at": "2026-03-30T15:13:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rlH0Q-nQ4w8/hqdefault.jpg",
-      "duration": "PT21M32S",
-      "duration_seconds": 1292,
-      "view_count": 35563,
-      "like_count": 3749,
-      "comment_count": 1148,
-      "category_id": "24",
+      "video_id": "UDSmVJYggqs",
+      "title": "Euphoria Season 3 Trailer 2",
+      "description": "Check out the new Euphoria Season 3 Trailer 2 starring Zendaya!\n► Learn more: https://www.rottentomatoes.com/tv/euphoria?cmp=RTTV_YouTube_Desc \n \nSubscribe to the channel and click the bell icon to be notified of all the latest TV & streaming series: http://bit.ly/2qTF6ZY  \n\n► Shop Rotten Tomatoes: http://bit.ly/3m59uhu\n► Download the app: https://bit.ly/4lcQqHs\n \nUS Air Date: April 12, 2026\nStarring: Zendaya, Sydney Sweeney, Jacob Elordi\nNetwork: HBO & HBO Max\nSynopsis: Have we finally gone too far? \n\nA group of childhood friends wrestle with the virtue of faith, the possibility of redemption, and the problem of evil.\n\nWatch More:  \n► Rotten Tomatoes Originals: http://bit.ly/2D3sipV  \n► What to Watch: https://bit.ly/3x6Q01d\n► Fresh New Clips: https://bit.ly/3mJePrv    \n► Hot New Trailers: http://bit.ly/2qThrsF   \n► New TV This Week: http://bit.ly/2Cq3wzc  \n\nRotten Tomatoes TV delivers Fresh TV at a click! Subscribe now for the best trailers, clips, sneak peeks, and binge guides for sh",
+      "channel_title": "Rotten Tomatoes TV",
+      "channel_id": "UCz1GPotHecuLngiLuY739QQ",
+      "published_at": "2026-03-30T17:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UDSmVJYggqs/hqdefault.jpg",
+      "duration": "PT3M8S",
+      "duration_seconds": 188,
+      "view_count": 24726,
+      "like_count": 851,
+      "comment_count": 74,
+      "category_id": "1",
       "tags": [
-        "harry potter hbo",
-        "harry potter series",
-        "harry potter reboot",
-        "hbo max harry potter",
-        "philosopher's stone series",
-        "sorcerer's stone",
-        "hogwarts reboot",
-        "harry potter trailer",
-        "harry potter casting",
-        "snape casting"
+        "Euphoria",
+        "Euphoria Trailer",
+        "Euphoria Season 3 Trailer",
+        "Euphoria S03 Trailer",
+        "Euphoria Season 3 TV Trailer",
+        "Euphoria Season 3 Trailer 2026",
+        "Euphoria Season 3 Official Trailer",
+        "Trailer",
+        "TV Trailer",
+        "2026 Trailers"
       ],
-      "url": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
+      "url": "https://www.youtube.com/watch?v=UDSmVJYggqs"
+    },
+    {
+      "video_id": "10OJhIc_-vw",
+      "title": "Minecraft Speedrunner VS 6 Hunters REMATCH",
+      "description": "Minecraft Speedrunner VS 6 Hunters REMATCH. You asked for it. This was absolutely INSANE.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo:  @thesaintsofgames \nGeorge:  @GeorgeNotFound \nSapnap:  @Sapnap \nAntfrost:  @Antfrost \nawesamdude:  @awesamdude \nCaptainPuffy:  @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water Rises or Minecraft,",
+      "channel_title": "Dream",
+      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "published_at": "2026-03-30T03:52:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/10OJhIc_-vw/hqdefault.jpg",
+      "duration": "PT52M9S",
+      "duration_seconds": 3129,
+      "view_count": 3976800,
+      "like_count": 247306,
+      "comment_count": 19413,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "dream",
+        "dream minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=10OJhIc_-vw"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
+      "video_id": "D-3cum_Gqv8",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-03-30T21:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D-3cum_Gqv8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=D-3cum_Gqv8"
+    },
+    {
+      "video_id": "_L_o2JrcyHg",
+      "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
+      "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-03-29T12:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 260777,
+      "like_count": 2316,
+      "comment_count": 435,
+      "category_id": "24",
+      "tags": [
+        "Grey Hulk",
+        "grey hulk trailer",
+        "dwayne johnson",
+        "dwayne johnson grey hulk",
+        "grey hulk release date update",
+        "grey hulk explained",
+        "hulk",
+        "Grey Hulk First look",
+        "Grey Hulk 2026",
+        "Grey Hulk Charlize Theron"
+      ],
+      "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
+    },
+    {
       "video_id": "eRTxNs0eyHI",
       "title": "Cook Out 400",
       "description": "The seventh race of the 2026 NASCAR Cup Series season takes place at Martinsville Speedway in Ridgeway, Virginia. The series is coming off a dominant performance by Tyler Reddick, who already secured four wins in the first six races of the season.",
@@ -265,120 +303,6 @@
       "url": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
     },
     {
-      "video_id": "_L_o2JrcyHg",
-      "title": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
-      "description": "#GreyHulk #DwayneJohnson #MarkRuffalo \n\nWatch This Grey Hulk Fan Made Concept Trailer\n\nA military volunteer walks into a secret underground facility seeking purpose and walks out as a nine-foot nightmare of pure destruction. Dwayne Johnson transforms into the Grey Hulk, a titan of slate-colored rage born from a gamma experiment that tears apart everything science thought it understood. Harrison Ford commands with terrifying authority as General Thaddeus Ross, the decorated military leader who created this monster and now becomes one himself, injecting experimental serum into his own veins to rise as the Red Hulk. Amanda Seyfried stands between destruction and humanity as Dr. Elena Ross, a brilliant scientist forced to choose between her father's orders and protecting the tortured man she sees beneath the monster's skin.\n\nWhen two Hulks collide across scorched deserts and crumbling cities, the shockwaves echo far beyond this dimension. Mark Ruffalo steps through a portal as the Green Hu",
-      "channel_title": "Ultimate Studios",
-      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
-      "published_at": "2026-03-29T12:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_L_o2JrcyHg/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 237415,
-      "like_count": 2079,
-      "comment_count": 375,
-      "category_id": "24",
-      "tags": [
-        "Grey Hulk",
-        "grey hulk trailer",
-        "dwayne johnson",
-        "dwayne johnson grey hulk",
-        "grey hulk release date update",
-        "grey hulk explained",
-        "hulk",
-        "Grey Hulk First look",
-        "Grey Hulk 2026",
-        "Grey Hulk Charlize Theron"
-      ],
-      "url": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
-    },
-    {
-      "video_id": "NnTycJg1MIo",
-      "title": "Destroying A World That Doesn't Exist",
-      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
-      "channel_title": "Wifies",
-      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
-      "published_at": "2026-03-30T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
-      "duration": "PT2H2M35S",
-      "duration_seconds": 7355,
-      "view_count": 4089969,
-      "like_count": 412238,
-      "comment_count": 67787,
-      "category_id": "20",
-      "tags": [
-        "wifies",
-        "mumbo jumbo",
-        "dream",
-        "wifies arg",
-        "at the crossroads dont turn left",
-        "the king in yellow"
-      ],
-      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
-    },
-    {
-      "video_id": "xMR3GAwL0fs",
-      "title": "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off",
-      "description": "Watch the official teaser trailer for Dutton Ranch! Streaming on Paramount+ May 15, 2026.\n\nBeth Dutton and Rip Wheeler are striking out on their own, and relocating for a new adventure. Their ward, Carter, is along for the ride, and – despite serious distractions – Beth and Rip work hard to ensure he becomes the man he’s meant to be. Just after the events of the Yellowstone series finale, follow Beth and Rip as they take on a 7,000-acre ranch in South Texas. Even with all of its beautiful landscapes and peaceful lifestyle, the pair run into hiccups trying to survive in the area, including a ruthless rival ranch run by a wealthy owner.\n\n© Paramount Pictures Germany",
-      "channel_title": "Action Society",
-      "channel_id": "UCB_MFUt9-0EmGhyx-H74XFw",
-      "published_at": "2026-03-29T13:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xMR3GAwL0fs/hqdefault.jpg",
-      "duration": "PT1M19S",
-      "duration_seconds": 79,
-      "view_count": 38288,
-      "like_count": 539,
-      "comment_count": 54,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Cole Hauser",
-        "Dutton Ranch",
-        "Dutton Ranch Trailer",
-        "Finn Little",
-        "Kelly Reilly",
-        "action society",
-        "drama",
-        "film",
-        "movie"
-      ],
-      "url": "https://www.youtube.com/watch?v=xMR3GAwL0fs"
-    },
-    {
-      "video_id": "o4K7dKY4gQY",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-30T17:37:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o4K7dKY4gQY/hqdefault.jpg",
-      "duration": "PT59M30S",
-      "duration_seconds": 3570,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
-    },
-    {
-      "video_id": "U2beixNMeWA",
-      "title": "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-      "description": "BULLY BY YE OUT NOW\nSTREAM HERE: https://yzy.lnk.to/BULLY",
-      "channel_title": "Kanye West",
-      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-      "published_at": "2026-03-28T10:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg",
-      "duration": "PT3M50S",
-      "duration_seconds": 230,
-      "view_count": 1876110,
-      "like_count": 73896,
-      "comment_count": 5192,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=U2beixNMeWA"
-    },
-    {
       "video_id": "jAsxf1gaxGs",
       "title": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman",
       "description": "SUPERGIRL Official Trailer 2 TEASER (2026) Superman, Lobo, Crypto, DC\n© 2026 - Warner Bros",
@@ -388,9 +312,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jAsxf1gaxGs/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 68484,
-      "like_count": 2045,
-      "comment_count": 193,
+      "view_count": 124403,
+      "like_count": 2875,
+      "comment_count": 273,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -407,49 +331,111 @@
       "url": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
     },
     {
-      "video_id": "daHsTyp4ZVU",
-      "title": "NCAAM Elite Eight: Purdue vs. Arizona",
-      "description": "The Purdue Boilermakers clash with the Arizona Wildcats at the SAP Center. Purdue enters after edging Texas 79-77, and Arizona destroyed Arkansas 109-88. These two squads desperately want to conquer this crucial Elite Eight matchup in San Jose.",
-      "channel_title": "TBS",
-      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-03-29T13:08:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/daHsTyp4ZVU/hqdefault.jpg",
-      "duration": "PT2H41M",
-      "duration_seconds": 9660,
+      "video_id": "NnTycJg1MIo",
+      "title": "Destroying A World That Doesn't Exist",
+      "description": "A strange book appears in Avery's world warning him to run away, so he decides to investigate and hunt down the author - the missing player d3rlord3. But what he discovers inside his world is more than he could have ever imagined..\n\nAvery's channel: @averylargemayo \n\nVoice of Avery: @andrewgaming677 \nVoice of Abel/The Vessel: @Zeemyth \n\nORIGINAL MUSIC BY: Ben Bracey (@benbraceymusic on instagram) \nhttps://soundcloud.com/benbraceymusic/sets/destroying-a-world-that-doesnt\n\n\nDO NOT READ BELOW FOR SPOILERS:\n\n\nd3rlord3's channel: @dhutchins333 \n\n\nThis is just a little part of the description where I talk about the video and there is a LOT to say about this guy. The reason this video is so long is because it was originally going to be two parts (a part 2 and a part 3) but the ending of part 2 was a little weak (end of Avery's pov) and I just felt part 3 would require way too much context. Soo we combined them into one.\n\nI think I'm gonna post a full behind the scenes/deleted scenes video on ",
+      "channel_title": "Wifies",
+      "channel_id": "UCiVJZlfcmWMUiXv5oywnDhQ",
+      "published_at": "2026-03-30T00:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnTycJg1MIo/hqdefault.jpg",
+      "duration": "PT2H2M35S",
+      "duration_seconds": 7355,
+      "view_count": 4711738,
+      "like_count": 449338,
+      "comment_count": 72844,
+      "category_id": "20",
+      "tags": [
+        "wifies",
+        "mumbo jumbo",
+        "dream",
+        "wifies arg",
+        "at the crossroads dont turn left",
+        "the king in yellow"
+      ],
+      "url": "https://www.youtube.com/watch?v=NnTycJg1MIo"
+    },
+    {
+      "video_id": "WdBWisJn26g",
+      "title": "Avengers Doomsday X-Men Trailer Wolverine Breakdown",
+      "description": "Avengers Doomsday X-Men Trailer 2026. Wolverine & Deadpool Explained, Spider-Man Brand New Day Trailer Sadie Sink Jean Grey X-Men changes, Avengers Secret Wars Teaser, other X-Men characters & Daredevil Born Again Season 2 Episode 2 - 3 ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=wDJqxUI0H9Y&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nAvengers Doomsday X-Men Trailer https://www.youtube.com/watch?v=hz5IpqEri2s&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Trailer https://www.youtube.com/watch?v=VLAKfS3RlB0&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=3&pp=iAQBsAgC\nThe Boys Season 5 Trailer https://www.youtube.com/watch?v=Duk6_UmW6AQ&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nHenry Cavill Highlander Teaser https://www.youtube.com/watch",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-03-30T21:36:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WdBWisJn26g/hqdefault.jpg",
+      "duration": "PT12M46S",
+      "duration_seconds": 766,
+      "view_count": 64676,
+      "like_count": 2938,
+      "comment_count": 292,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=WdBWisJn26g"
+    },
+    {
+      "video_id": "Pe7zmsr4IG8",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-30T21:56:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pe7zmsr4IG8/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
+      "url": "https://www.youtube.com/watch?v=Pe7zmsr4IG8"
     },
     {
-      "video_id": "rlH0Q-nQ4w8",
-      "title": "Don't Trust HBO's Harry Potter Series",
-      "description": "Harry Potter is back on the menu.\nOn March 25, 2026, HBO released the first teaser trailer for Harry Potter and the Philosopher's Stone. Within 48 hours, it became the most-watched trailer in HBO and HBO Max’s history with 277 million views. The premiere date is Christmas Day 2026, and the whole season will span over eight episodes to cover the first book.\nThis is meant to be a ten-year plan to adapt all seven novels. On paper, this is the biggest entertainment event of the decade and certainly meant to be the television replacement for something as large as Stranger Things.\nBut beneath the record-breaking numbers, something else is happening. The internet’s reaction hasn’t been unified excitement. The reaction has been fractured and defensive. Fans are not asking, \"How good will this be?\" They are asking how badly they will ruin this.\nThat question tells you everything you need to know about where we are in the entertainment zeitgeist. Many people see this Harry Potter show as just an",
-      "channel_title": "Real Life Fake Wizard",
-      "channel_id": "UCLCOaNcR6kSbI1OXu83uipg",
-      "published_at": "2026-03-30T15:13:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rlH0Q-nQ4w8/hqdefault.jpg",
-      "duration": "PT21M32S",
-      "duration_seconds": 1292,
-      "view_count": 35563,
-      "like_count": 3749,
-      "comment_count": 1148,
-      "category_id": "24",
+      "video_id": "UDSmVJYggqs",
+      "title": "Euphoria Season 3 Trailer 2",
+      "description": "Check out the new Euphoria Season 3 Trailer 2 starring Zendaya!\n► Learn more: https://www.rottentomatoes.com/tv/euphoria?cmp=RTTV_YouTube_Desc \n \nSubscribe to the channel and click the bell icon to be notified of all the latest TV & streaming series: http://bit.ly/2qTF6ZY  \n\n► Shop Rotten Tomatoes: http://bit.ly/3m59uhu\n► Download the app: https://bit.ly/4lcQqHs\n \nUS Air Date: April 12, 2026\nStarring: Zendaya, Sydney Sweeney, Jacob Elordi\nNetwork: HBO & HBO Max\nSynopsis: Have we finally gone too far? \n\nA group of childhood friends wrestle with the virtue of faith, the possibility of redemption, and the problem of evil.\n\nWatch More:  \n► Rotten Tomatoes Originals: http://bit.ly/2D3sipV  \n► What to Watch: https://bit.ly/3x6Q01d\n► Fresh New Clips: https://bit.ly/3mJePrv    \n► Hot New Trailers: http://bit.ly/2qThrsF   \n► New TV This Week: http://bit.ly/2Cq3wzc  \n\nRotten Tomatoes TV delivers Fresh TV at a click! Subscribe now for the best trailers, clips, sneak peeks, and binge guides for sh",
+      "channel_title": "Rotten Tomatoes TV",
+      "channel_id": "UCz1GPotHecuLngiLuY739QQ",
+      "published_at": "2026-03-30T17:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UDSmVJYggqs/hqdefault.jpg",
+      "duration": "PT3M8S",
+      "duration_seconds": 188,
+      "view_count": 24726,
+      "like_count": 851,
+      "comment_count": 74,
+      "category_id": "1",
       "tags": [
-        "harry potter hbo",
-        "harry potter series",
-        "harry potter reboot",
-        "hbo max harry potter",
-        "philosopher's stone series",
-        "sorcerer's stone",
-        "hogwarts reboot",
-        "harry potter trailer",
-        "harry potter casting",
-        "snape casting"
+        "Euphoria",
+        "Euphoria Trailer",
+        "Euphoria Season 3 Trailer",
+        "Euphoria S03 Trailer",
+        "Euphoria Season 3 TV Trailer",
+        "Euphoria Season 3 Trailer 2026",
+        "Euphoria Season 3 Official Trailer",
+        "Trailer",
+        "TV Trailer",
+        "2026 Trailers"
       ],
-      "url": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
+      "url": "https://www.youtube.com/watch?v=UDSmVJYggqs"
+    },
+    {
+      "video_id": "10OJhIc_-vw",
+      "title": "Minecraft Speedrunner VS 6 Hunters REMATCH",
+      "description": "Minecraft Speedrunner VS 6 Hunters REMATCH. You asked for it. This was absolutely INSANE.\n\nFollow my socials:\n➽ Twitter - @dream\n➽ Instagram - @dreamwastaken\n➽ Snapchat - @dreampublic\n\nMerch: https://dream.shop\n\nBadBoyHalo:  @thesaintsofgames \nGeorge:  @GeorgeNotFound \nSapnap:  @Sapnap \nAntfrost:  @Antfrost \nawesamdude:  @awesamdude \nCaptainPuffy:  @CaptainPuffy \n\nWe decided to call this series Minecraft Manhunt. This video is a different rendition of it, where there are SIX hunters instead of THREE hunters or just one.\n\nThis is a new Minecraft but, 1.21.11 challenge that we have decided to try. I try to beat the game, while my friend George AND my friend Sapnap AND my friend BadBoyHalo AND my friend Antfrost AND my friend awesamdude AND my friend CaptainPuffy tries to prevent me from doing it. It's a race, and it's super intense and we had a lot of laughs. I love doing these challenges.\n\nIf this video gets 500,000 likes we'll do a rematch!\n\nNot Minecraft, But Water Rises or Minecraft,",
+      "channel_title": "Dream",
+      "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "published_at": "2026-03-30T03:52:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/10OJhIc_-vw/hqdefault.jpg",
+      "duration": "PT52M9S",
+      "duration_seconds": 3129,
+      "view_count": 3976800,
+      "like_count": 247306,
+      "comment_count": 19413,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "dream",
+        "dream minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=10OJhIc_-vw"
     },
     {
       "video_id": "1Q-mpnZbqGk",
@@ -461,9 +447,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1Q-mpnZbqGk/hqdefault.jpg",
       "duration": "PT30S",
       "duration_seconds": 30,
-      "view_count": 158097,
-      "like_count": 16504,
-      "comment_count": 736,
+      "view_count": 236904,
+      "like_count": 19689,
+      "comment_count": 844,
       "category_id": "1",
       "tags": [
         "2026",
@@ -483,70 +469,99 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "superhero_and_trailers": {
-          "description": "Trailers and teasers for superhero movies and series, particularly related to 'Supergirl' and 'Grey Hulk', are a significant trend.",
-          "evidence": [
-            "Supergirl | Trailer Tomorrow",
-            "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
-            "SUPERGIRL Official Trailer 2 TEASER (2026) Superman"
-          ],
-          "insights": "Leverage the popularity of superhero content by creating related discussions, reviews, or reaction videos."
+      "trending_patterns": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 9400024,
+          "average_views_per_video": 940002.4
         },
-        "sports_and_events": {
-          "description": "Sports content, particularly involving major events like NCAAM Elite Eight, is trending.",
-          "evidence": [
-            "Cook Out 400",
-            "NCAAM Elite Eight: Purdue vs. Arizona"
-          ],
-          "insights": "Capitalize on sports events by providing analysis, live commentary, or highlight reels to engage sports fans."
-        },
-        "music_and_entertainment": {
-          "description": "Music and entertainment content, including concept trailers and music features, are drawing attention.",
-          "evidence": [
-            "YE - ALL THE LOVE (feat. ANDRÉ TROUTMAN)",
-            "Don't Trust HBO's Harry Potter Series"
-          ],
-          "insights": "Explore collaborations with musicians and entertainment creators to tap into their audience base."
-        }
+        "content_themes": [
+          {
+            "theme": "Trailers and Teasers",
+            "videos": [
+              "Supergirl | Trailer Tomorrow",
+              "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
+              "SUPERGIRL Official Trailer 2 TEASER (2026) Superman",
+              "Euphoria Season 3 Trailer 2",
+              "Avengers Doomsday X-Men Trailer Wolverine Breakdown"
+            ],
+            "insight": "Half of the trending videos are related to trailers or teasers, indicating a strong viewer interest in upcoming media releases. This trend suggests that viewers are actively seeking previews of future entertainment content."
+          },
+          {
+            "theme": "News and Commentary",
+            "videos": [
+              "America's Newsroom",
+              "Morning Joe"
+            ],
+            "insight": "News content continues to capture audience attention, likely due to ongoing current events and the public's desire for timely information and analysis."
+          },
+          {
+            "theme": "Entertainment and Gaming",
+            "videos": [
+              "Minecraft Speedrunner VS 6 Hunters REMATCH"
+            ],
+            "insight": "Gaming content, especially around popular games like Minecraft, remains a strong draw for viewers, indicating a sustained interest in gaming challenges and community-driven content."
+          },
+          {
+            "theme": "Sports and Events",
+            "videos": [
+              "Cook Out 400"
+            ],
+            "insight": "Sports-related content, particularly around live events or highlights, continues to engage audiences who are keen on sports entertainment."
+          },
+          {
+            "theme": "Conceptual and Experimental",
+            "videos": [
+              "Destroying A World That Doesn't Exist"
+            ],
+            "insight": "Conceptual and experimental videos can capture niche audiences interested in unique or thought-provoking content."
+          }
+        ]
       },
       "creator_patterns": {
-        "diverse_content_creation": {
-          "description": "Channels are diversifying their content with a mix of trailers, sports, and music.",
-          "evidence": [
-            "DC producing superhero trailers",
-            "FS1 focusing on sports content",
-            "Ultimate Studios creating concept trailers"
-          ],
-          "insights": "Encourage creators to explore multiple genres and niches to broaden their audience reach."
+        "channel_diversity": {
+          "unique_channels": 5,
+          "average_videos_per_channel": 2,
+          "insight": "Most channels have only one video trending, suggesting that a diverse array of creators are achieving trending status, rather than a concentration of content from a few dominant channels."
         },
-        "strategic_releases": {
-          "description": "Creators are strategically releasing teasers and trailers to generate buzz for future content.",
-          "evidence": [
-            "Dutton Ranch - Official Teaser Trailer (2026) New Yellowstone Spin-Off"
-          ],
-          "insights": "Utilize teaser content to build anticipation and engage audiences ahead of major releases."
-        }
+        "notable_channels": [
+          {
+            "channel": "DC",
+            "videos": 1,
+            "insight": "With DC's video trending, content related to superhero franchises, especially involving popular characters like Supergirl, continues to be a major draw."
+          },
+          {
+            "channel": "FOX News",
+            "videos": 1,
+            "insight": "FOX News' inclusion in the trending list highlights the ongoing demand for political and news commentary."
+          }
+        ]
       },
       "market_opportunities": {
-        "cross-genre_collaborations": {
-          "description": "Opportunities exist in cross-genre collaborations, especially between music and film or sports.",
-          "insights": "Facilitate partnerships between music artists and film creators to create unique content experiences."
-        },
-        "community_engagement": {
-          "description": "Engage with fan communities around popular franchises and sports events.",
-          "insights": "Develop community-driven content like fan theories, live discussions, and Q&A sessions to enhance viewer engagement."
-        }
-      },
-      "recommendations": {
-        "data_driven_strategy": {
-          "description": "Utilize viewership data to identify and focus on trending categories and content types.",
-          "insights": "Analyze audience demographics and interests to tailor content strategy and maximize viewership."
-        },
-        "platform_utilization": {
-          "description": "Maximize use of YouTube's features like polls, community posts, and premieres to enhance content visibility.",
-          "insights": "Engage audiences with interactive features to increase channel engagement and subscriber growth."
-        }
+        "emerging_interests": [
+          {
+            "interest": "Upcoming Media Releases",
+            "opportunity": "Create and promote content related to upcoming movies, series, and games. Consider producing reaction videos, breakdowns, or speculative content around trailers and teasers."
+          },
+          {
+            "interest": "Gaming Challenges",
+            "opportunity": "Develop content around trending games like Minecraft with a focus on unique challenges or collaborations with other creators to engage the gaming community."
+          },
+          {
+            "interest": "Live Events Coverage",
+            "opportunity": "Capitalize on live sports and events by offering highlights, analysis, or behind-the-scenes content to attract sports enthusiasts."
+          }
+        ],
+        "content_creation_tips": [
+          {
+            "tip": "Leverage Multi-Platform Promotion",
+            "action": "Promote trending YouTube content across other social media platforms to drive additional traffic and engagement."
+          },
+          {
+            "tip": "Engage with Niche Audiences",
+            "action": "Explore niche topics or genres that have passionate followings, such as conceptual or experimental content, to build a dedicated viewer base."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -554,7 +569,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 650392
+        "avg_views_per_video": 940002
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
