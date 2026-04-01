@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T21:19:22.987188",
-  "date": "2026-03-31",
+  "timestamp": "2026-04-01T00:54:38.075767",
+  "date": "2026-04-01",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 1828952,
-      "like_count": 232752,
-      "comment_count": 12838,
+      "view_count": 3615702,
+      "like_count": 296731,
+      "comment_count": 15890,
       "category_id": "1",
       "tags": [
         "a24",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 1827034,
-      "like_count": 147738,
-      "comment_count": 8857,
+      "view_count": 3594141,
+      "like_count": 181485,
+      "comment_count": 10647,
       "category_id": "1",
       "tags": [
         "2026",
@@ -86,13 +86,13 @@
       "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
     },
     {
-      "video_id": "io6hnl-RXJU",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "v_F_TNjimV4",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-31T07:23:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/io6hnl-RXJU/hqdefault.jpg",
+      "published_at": "2026-03-31T21:24:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v_F_TNjimV4/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -100,7 +100,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=io6hnl-RXJU"
+      "url": "https://www.youtube.com/watch?v=v_F_TNjimV4"
     },
     {
       "video_id": "X21JsHLHnY8",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 2128463,
-      "like_count": 42316,
-      "comment_count": 4653,
+      "view_count": 4242755,
+      "like_count": 48031,
+      "comment_count": 5278,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -129,6 +129,51 @@
         "Amazon MGM"
       ],
       "url": "https://www.youtube.com/watch?v=X21JsHLHnY8"
+    },
+    {
+      "video_id": "VQmmfATH80g",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-31T23:24:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VQmmfATH80g/hqdefault.jpg",
+      "duration": "PT4H1M2S",
+      "duration_seconds": 14462,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VQmmfATH80g"
+    },
+    {
+      "video_id": "OFkSWNl909c",
+      "title": "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
+      "description": "Superman appears in the latest trailer for Supergirl (2026)… but what shot in particular foreshadows Man of Tomorrow?? Get 10% off your first month of therapy at https://betterhelp.com/NewRockstars. #sponsored\n\nPew pew look how fast we got this to you! Almost as fast as a speeding bullet? A Krypto playing fetch? One of those! Erik Voss breaks down all the details you missed in this new trailer for Supergirl, the latest DC Studios film coming June 26!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0T",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-31T19:39:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
+      "duration": "PT18M34S",
+      "duration_seconds": 1114,
+      "view_count": 63913,
+      "like_count": 3860,
+      "comment_count": 143,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "supergirl",
+        "supergirl trailer",
+        "supergirl trailer breakdown",
+        "what becomes of the brokenhearted",
+        "supergirl trailer reaction",
+        "superman",
+        "woman of tomorrow"
+      ],
+      "url": "https://www.youtube.com/watch?v=OFkSWNl909c"
     },
     {
       "video_id": "eozHbrLm9T4",
@@ -157,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UNgiDXixSWU/hqdefault.jpg",
       "duration": "PT17M12S",
       "duration_seconds": 1032,
-      "view_count": 38743,
-      "like_count": 3750,
-      "comment_count": 380,
+      "view_count": 56763,
+      "like_count": 4484,
+      "comment_count": 449,
       "category_id": "24",
       "tags": [
         "supergirl",
@@ -191,51 +236,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
-    },
-    {
-      "video_id": "t5kPeQqA-XY",
-      "title": "Noah Kahan: Out of Body | Official Trailer | Netflix",
-      "description": "After rocketing to global fame, singer-songwriter Noah Kahan faces the pressure of what comes next. Buoyed by his uncanny wit, he returns to his Vermont roots and family to get back in tune with himself in this candid documentary. Watch Noah Kahan: Out of Body – only on Netflix April 13.\n\nWatch on Netflix: https://www.netflix.com/title/82161512\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nNoah Kahan: Out of Body | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-31T14:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t5kPeQqA-XY/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 36100,
-      "like_count": 1632,
-      "comment_count": 216,
-      "category_id": "24",
-      "tags": [
-        "Bittersweet",
-        "Entertainment",
-        "Intimate",
-        "Movie",
-        "Music",
-        "Netflix",
-        "Noah Kahan",
-        "Noah Kahan Out of Body",
-        "Official Trailer",
-        "Out of Body"
-      ],
-      "url": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
-    },
-    {
-      "video_id": "T_uhkwbYTNY",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-31T09:31:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T_uhkwbYTNY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T_uhkwbYTNY"
     }
   ],
   "videos_with_transcripts": [],
@@ -250,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 1828952,
-      "like_count": 232752,
-      "comment_count": 12838,
+      "view_count": 3615702,
+      "like_count": 296731,
+      "comment_count": 15890,
       "category_id": "1",
       "tags": [
         "a24",
@@ -295,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 1827034,
-      "like_count": 147738,
-      "comment_count": 8857,
+      "view_count": 3594141,
+      "like_count": 181485,
+      "comment_count": 10647,
       "category_id": "1",
       "tags": [
         "2026",
@@ -314,13 +314,13 @@
       "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
     },
     {
-      "video_id": "io6hnl-RXJU",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "v_F_TNjimV4",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-31T07:23:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/io6hnl-RXJU/hqdefault.jpg",
+      "published_at": "2026-03-31T21:24:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v_F_TNjimV4/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -328,7 +328,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=io6hnl-RXJU"
+      "url": "https://www.youtube.com/watch?v=v_F_TNjimV4"
     },
     {
       "video_id": "X21JsHLHnY8",
@@ -340,9 +340,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 2128463,
-      "like_count": 42316,
-      "comment_count": 4653,
+      "view_count": 4242755,
+      "like_count": 48031,
+      "comment_count": 5278,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -357,6 +357,51 @@
         "Amazon MGM"
       ],
       "url": "https://www.youtube.com/watch?v=X21JsHLHnY8"
+    },
+    {
+      "video_id": "VQmmfATH80g",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-03-31T23:24:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VQmmfATH80g/hqdefault.jpg",
+      "duration": "PT4H1M2S",
+      "duration_seconds": 14462,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VQmmfATH80g"
+    },
+    {
+      "video_id": "OFkSWNl909c",
+      "title": "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
+      "description": "Superman appears in the latest trailer for Supergirl (2026)… but what shot in particular foreshadows Man of Tomorrow?? Get 10% off your first month of therapy at https://betterhelp.com/NewRockstars. #sponsored\n\nPew pew look how fast we got this to you! Almost as fast as a speeding bullet? A Krypto playing fetch? One of those! Erik Voss breaks down all the details you missed in this new trailer for Supergirl, the latest DC Studios film coming June 26!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0T",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-03-31T19:39:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
+      "duration": "PT18M34S",
+      "duration_seconds": 1114,
+      "view_count": 63913,
+      "like_count": 3860,
+      "comment_count": 143,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "supergirl",
+        "supergirl trailer",
+        "supergirl trailer breakdown",
+        "what becomes of the brokenhearted",
+        "supergirl trailer reaction",
+        "superman",
+        "woman of tomorrow"
+      ],
+      "url": "https://www.youtube.com/watch?v=OFkSWNl909c"
     },
     {
       "video_id": "eozHbrLm9T4",
@@ -385,9 +430,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UNgiDXixSWU/hqdefault.jpg",
       "duration": "PT17M12S",
       "duration_seconds": 1032,
-      "view_count": 38743,
-      "like_count": 3750,
-      "comment_count": 380,
+      "view_count": 56763,
+      "like_count": 4484,
+      "comment_count": 449,
       "category_id": "24",
       "tags": [
         "supergirl",
@@ -419,98 +464,100 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
-    },
-    {
-      "video_id": "t5kPeQqA-XY",
-      "title": "Noah Kahan: Out of Body | Official Trailer | Netflix",
-      "description": "After rocketing to global fame, singer-songwriter Noah Kahan faces the pressure of what comes next. Buoyed by his uncanny wit, he returns to his Vermont roots and family to get back in tune with himself in this candid documentary. Watch Noah Kahan: Out of Body – only on Netflix April 13.\n\nWatch on Netflix: https://www.netflix.com/title/82161512\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nNoah Kahan: Out of Body | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-03-31T14:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t5kPeQqA-XY/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 36100,
-      "like_count": 1632,
-      "comment_count": 216,
-      "category_id": "24",
-      "tags": [
-        "Bittersweet",
-        "Entertainment",
-        "Intimate",
-        "Movie",
-        "Music",
-        "Netflix",
-        "Noah Kahan",
-        "Noah Kahan Out of Body",
-        "Official Trailer",
-        "Out of Body"
-      ],
-      "url": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
-    },
-    {
-      "video_id": "T_uhkwbYTNY",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-03-31T09:31:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T_uhkwbYTNY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T_uhkwbYTNY"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 11573274,
+        "average_views_per_video": 1157327.4,
+        "categories": "Unknown"
+      },
       "content_trends": {
-        "trailer_dominance": {
-          "observation": "Out of the 10 videos, 5 are related to trailers, indicating a strong interest in upcoming media releases.",
-          "opportunity": "Content creators and marketers can capitalize on this trend by creating reaction videos, breakdowns, or analysis of trailers to capture audience interest."
-        },
-        "sports_content": {
-          "observation": "Sports content, particularly live or highlight videos, is trending with videos from ESPN and sports events like NCAAW and MLB games.",
-          "opportunity": "Sports channels can increase engagement by offering behind-the-scenes content, athlete interviews, or expert commentary."
-        },
-        "news_and_political_content": {
-          "observation": "Political and news content, such as 'Jesse Watters Primetime' and 'The Rachel Maddow Show', are trending, reflecting audience interest in current events.",
-          "opportunity": "There is potential for creators to develop content that offers unique perspectives or in-depth analysis on current news topics to attract viewers."
-        }
+        "dominant_themes": [
+          {
+            "theme": "Trailers",
+            "related_videos": [
+              "Backrooms | Official Trailer HD | A24",
+              "SUPERGIRL | Official Trailer",
+              "Masters of The Universe – Official Trailer",
+              "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios"
+            ],
+            "insight": "Trailers for upcoming movies and TV shows are a significant trend, capturing a wide audience."
+          },
+          {
+            "theme": "Sports",
+            "related_videos": [
+              "NCAAW Elite Eight: TCU vs. South Carolina",
+              "Pittsburgh Pirates at Cincinnati Reds",
+              "Detroit Pistons at Oklahoma City Thunder"
+            ],
+            "insight": "Live sports and highlights continue to engage viewers, with a particular focus on major league and collegiate events."
+          },
+          {
+            "theme": "News and Analysis",
+            "related_videos": [
+              "America's Newsroom",
+              "Morning Joe",
+              "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!"
+            ],
+            "insight": "News segments and detailed breakdowns of popular content are drawing considerable attention."
+          }
+        ]
       },
       "creator_patterns": {
-        "top_channels_insights": {
-          "A24": {
-            "observation": "A24 is leveraging its film content to drive views, indicating a strong fanbase for indie and arthouse films.",
-            "strategy": "Continue releasing high-quality, intriguing trailers and consider behind-the-scenes content to deepen engagement."
+        "top_channels": [
+          {
+            "channel": "A24",
+            "videos": 1,
+            "focus": "Movie Trailers",
+            "insight": "A24's releases, often known for their unique and artistic films, attract significant interest."
           },
-          "ESPN": {
-            "observation": "Sports content remains popular, with live games and key event highlights drawing significant views.",
-            "strategy": "Expand coverage to include more niche sports or international games to reach broader audiences."
+          {
+            "channel": "ESPN",
+            "videos": 1,
+            "focus": "Sports",
+            "insight": "ESPN continues to be a leading source for sports content, maintaining strong viewer engagement."
           },
-          "DC": {
-            "observation": "The presence of both an official trailer and a reaction video for 'SUPERGIRL' suggests a robust fan engagement strategy.",
-            "strategy": "Encourage fan interaction through polls, fan theories, or character exploration videos to maintain interest between releases."
+          {
+            "channel": "DC",
+            "videos": 1,
+            "focus": "Superhero Trailers and Content",
+            "insight": "DC's superhero content, including trailers and breakdowns, remains highly popular."
+          },
+          {
+            "channel": "FOX News",
+            "videos": 1,
+            "focus": "News",
+            "insight": "FOX News retains a steady audience for current affairs and political coverage."
+          },
+          {
+            "channel": "Amazon MGM Studios",
+            "videos": 1,
+            "focus": "Entertainment Trailers",
+            "insight": "Amazon MGM Studios is a notable player in promoting upcoming entertainment projects."
           }
-        }
+        ]
       },
       "market_opportunities": {
-        "cross-promotion": {
-          "observation": "Channels with related content, such as trailer reaction and official trailers, could collaborate for cross-promotion.",
-          "strategy": "Pair official trailers with influencer reaction videos to reach diversified audiences and enhance content visibility."
-        },
-        "category_expansion": {
-          "observation": "The undefined categories suggest potential in identifying niche interests within the trending topics.",
-          "strategy": "Utilize data analytics to categorize trending content more effectively, identifying gaps and opportunities for new content types."
-        },
-        "monetization": {
-          "observation": "High view counts offer substantial monetization potential through ads, sponsorships, and merchandise.",
-          "strategy": "Channels should explore diversified revenue streams, such as exclusive content subscriptions or event hosting, to maximize earnings."
+        "trending_categories": [
+          {
+            "category": "Movie and TV Trailers",
+            "opportunity": "Develop engaging content around upcoming releases, including reactions and detailed analyses to capture the interest of movie enthusiasts."
+          },
+          {
+            "category": "Sports Highlights and Analysis",
+            "opportunity": "Capitalize on the sports market by providing in-depth analysis, behind-the-scenes content, and interactive fan experiences."
+          },
+          {
+            "category": "News and Current Affairs",
+            "opportunity": "Expand viewership by covering trending topics with fresh perspectives and leveraging digital platforms for real-time updates."
+          }
+        ],
+        "audience_engagement": {
+          "insight": "Interactive content, such as live streams and viewer polls, can enhance engagement, particularly for sports and dynamic discussion segments."
         }
       },
       "metadata_stats": {
@@ -519,7 +566,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 585929
+        "avg_views_per_video": 1157327
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
