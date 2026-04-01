@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T00:54:38.075767",
+  "timestamp": "2026-04-01T04:09:28.345064",
   "date": "2026-04-01",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 3615702,
-      "like_count": 296731,
-      "comment_count": 15890,
+      "view_count": 4550253,
+      "like_count": 325005,
+      "comment_count": 17250,
       "category_id": "1",
       "tags": [
         "a24",
@@ -39,6 +39,51 @@
         "a24 movies"
       ],
       "url": "https://www.youtube.com/watch?v=0HjdiohVOik"
+    },
+    {
+      "video_id": "ekBM-ByoZq0",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-01T02:46:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ekBM-ByoZq0/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ekBM-ByoZq0"
+    },
+    {
+      "video_id": "s1-pfiVMKAs",
+      "title": "SUPERGIRL | Official Trailer",
+      "description": "This Summer, find your place in the universe. #Supergirl lands in theaters and IMAX June 26.\n\n“Supergirl,” DC Studios’ newest feature film to hit the big screen, will be in theaters worldwide this summer from Warner Bros. Pictures, starring Milly Alcock in the dual role of Supergirl/Kara Zor-El. Craig Gillespie directs the film from a screenplay by Ana Nogueira.\n\nWhen an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.\n\nAlcock stars alongside Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, and Jason Momoa.\n\nDC Studios heads Peter Safran and James Gunn are producing the film, which is based on characters from DC, Supergirl based on characters created by Jerry Siegel and Joe Shuster. The film is executive produced by Nigel Gostelow, Chantal Nong Vo and Lars P. Winther. Behind the camera, Gillespie is joined by director of",
+      "channel_title": "DC",
+      "channel_id": "UCiifkYAs_bq1pt_zbNAzYGg",
+      "published_at": "2026-03-31T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
+      "duration": "PT2M57S",
+      "duration_seconds": 177,
+      "view_count": 4821864,
+      "like_count": 200760,
+      "comment_count": 11615,
+      "category_id": "1",
+      "tags": [
+        "2026",
+        "Coming Soon",
+        "Craig Gillespie",
+        "DC",
+        "DC Comics",
+        "DC Studios",
+        "DCU",
+        "David Krumholtz",
+        "Emily Beecham",
+        "Eve Ridley"
+      ],
+      "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
     },
     {
       "video_id": "WGbKeq3bkT8",
@@ -58,51 +103,6 @@
       "url": "https://www.youtube.com/watch?v=WGbKeq3bkT8"
     },
     {
-      "video_id": "s1-pfiVMKAs",
-      "title": "SUPERGIRL | Official Trailer",
-      "description": "This Summer, find your place in the universe. #Supergirl lands in theaters and IMAX June 26.\n\n“Supergirl,” DC Studios’ newest feature film to hit the big screen, will be in theaters worldwide this summer from Warner Bros. Pictures, starring Milly Alcock in the dual role of Supergirl/Kara Zor-El. Craig Gillespie directs the film from a screenplay by Ana Nogueira.\n\nWhen an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.\n\nAlcock stars alongside Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, and Jason Momoa.\n\nDC Studios heads Peter Safran and James Gunn are producing the film, which is based on characters from DC, Supergirl based on characters created by Jerry Siegel and Joe Shuster. The film is executive produced by Nigel Gostelow, Chantal Nong Vo and Lars P. Winther. Behind the camera, Gillespie is joined by director of",
-      "channel_title": "DC",
-      "channel_id": "UCiifkYAs_bq1pt_zbNAzYGg",
-      "published_at": "2026-03-31T16:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
-      "duration": "PT2M57S",
-      "duration_seconds": 177,
-      "view_count": 3594141,
-      "like_count": 181485,
-      "comment_count": 10647,
-      "category_id": "1",
-      "tags": [
-        "2026",
-        "Coming Soon",
-        "Craig Gillespie",
-        "DC",
-        "DC Comics",
-        "DC Studios",
-        "DCU",
-        "David Krumholtz",
-        "Emily Beecham",
-        "Eve Ridley"
-      ],
-      "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
-    },
-    {
-      "video_id": "v_F_TNjimV4",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-31T21:24:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v_F_TNjimV4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=v_F_TNjimV4"
-    },
-    {
       "video_id": "X21JsHLHnY8",
       "title": "Masters of The Universe – Official Trailer",
       "description": "Eternia is calling you home. Watch the Official Trailer for Masters of the Universe now, and experience the movie only in theaters June 5th!\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazo",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 4242755,
-      "like_count": 48031,
-      "comment_count": 5278,
+      "view_count": 4728031,
+      "like_count": 52002,
+      "comment_count": 5593,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -157,9 +157,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
       "duration": "PT18M34S",
       "duration_seconds": 1114,
-      "view_count": 63913,
-      "like_count": 3860,
-      "comment_count": 143,
+      "view_count": 102256,
+      "like_count": 5075,
+      "comment_count": 177,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -176,66 +176,88 @@
       "url": "https://www.youtube.com/watch?v=OFkSWNl909c"
     },
     {
-      "video_id": "eozHbrLm9T4",
-      "title": "Pittsburgh Pirates at Cincinnati Reds",
-      "description": "The Pirates visit Great American Ball Park to face the Reds. Paul Skenes is the rotation cornerstone. Elly De La Cruz is a dynamic star looking to build on 22 home runs and 86 RBIs from 2025. The three-game series begins in Cincinnati.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-31T09:48:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eozHbrLm9T4/hqdefault.jpg",
-      "duration": "PT3H10S",
-      "duration_seconds": 10810,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=eozHbrLm9T4"
+      "video_id": "UUls1w6Vslw",
+      "title": "Hermitcraft 11: Episode 14 - BAD BASE TOUR!",
+      "description": "Hermitcraft 11: Episode 14 - We tour my base when the server has guests but it's cut short..",
+      "channel_title": "Grian",
+      "channel_id": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+      "published_at": "2026-03-31T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUls1w6Vslw/hqdefault.jpg",
+      "duration": "PT32M14S",
+      "duration_seconds": 1934,
+      "view_count": 425348,
+      "like_count": 37336,
+      "comment_count": 1698,
+      "category_id": "20",
+      "tags": [
+        "Minecraft",
+        "Grian",
+        "building",
+        "grian",
+        "mincraft",
+        "tutorial",
+        "yt:quality=high",
+        "minecraft",
+        "ideas",
+        "creative"
+      ],
+      "url": "https://www.youtube.com/watch?v=UUls1w6Vslw"
     },
     {
-      "video_id": "UNgiDXixSWU",
-      "title": "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios",
-      "description": "SUPERMAN CAMEO ALREADY?! Greg Alba, Coy Jandreau, and Roxy Striar react to the brand-new Supergirl trailer from DC Studios and James Gunn’s DCU! This new look gives us a much better sense of the movie’s tone, scale, and emotional core, including our best trailer look yet at Milly Alcock’s Kara Zor-El / Supergirl, Jason Momoa’s Lobo, the destruction and trauma tied to Argo, the intergalactic revenge quest with Ruthye, and the major role Krypto plays in kicking off the story. Director Craig Gillespie has described the film as a sci-fi epic inspired in part by True Grit and John Wick, with Kara helping Ruthye track down Krem after Ruthye’s family is murdered and Krypto is poisoned.\nIn this trailer reaction, we talk about the melancholy vibe, the heavier emotional weight compared to Superman, the cosmic scope, the action, the visual style, and how much more tragic and battle-worn this version of Supergirl feels. We also get into Lobo’s presence, how important Ruthye looks to the story, the",
-      "channel_title": "Reel Rejects",
-      "channel_id": "UC7_WiJnJxpm4MRNesRttzWg",
-      "published_at": "2026-03-31T16:11:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UNgiDXixSWU/hqdefault.jpg",
-      "duration": "PT17M12S",
-      "duration_seconds": 1032,
-      "view_count": 56763,
-      "like_count": 4484,
-      "comment_count": 449,
+      "video_id": "dSnichjB3-o",
+      "title": "Cape Fear — Official Teaser | Apple TV",
+      "description": "This summer, fear takes hold. Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear\n\nA thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson. \n\nCreated for television by Nick Antosca.\n\nInspired by the 1991 remake directed by Martin Scorsese and produced by Steven Spielberg, a storm is coming for happily married attorneys Anna (Amy Adams) and Tom Bowden (Patrick Wilson) when Max Cady (Javier Bardem), the notorious killer they are responsible for putting behind bars, is let out of prison — and he wants vengeance.\n\nHailing from UCP, a division of Universal Studio Group, and Amblin Television, “Cape Fear” is based on both the novel “The Executioners,” which inspired Gregory Peck’s Universal Pictures feature (1962) of the same name, as well as the acclaimed 1991 remake directed by Scorsese. The series is executive produced by Steven Spielberg, who produced the 1991 film, alongside Scorsese. Creato",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-03-31T12:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dSnichjB3-o/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 194612,
+      "like_count": 5839,
+      "comment_count": 565,
       "category_id": "24",
       "tags": [
-        "supergirl",
-        "supergirl official trailer",
-        "supergirl reaction",
-        "supergirl trailer",
-        "supergirl breakdown",
-        "lobo",
-        "jason momoa",
-        "superman",
-        "man of tomorrow",
-        "lanterns"
+        "cape fear",
+        "trailer",
+        "cape fear trailer",
+        "cape fear official trailer",
+        "cape fear series",
+        "teaser",
+        "official teaser",
+        "cape fear teaser",
+        "martin scorsese",
+        "martin scoresese cape fear"
       ],
-      "url": "https://www.youtube.com/watch?v=UNgiDXixSWU"
+      "url": "https://www.youtube.com/watch?v=dSnichjB3-o"
     },
     {
-      "video_id": "t-M8qiGgqlA",
-      "title": "Detroit Pistons at Oklahoma City Thunder",
-      "description": "The Pistons visit Oklahoma City to play the Thunder at Paycom Center. Detroit leads the series 1-0. As the NBA season nears its end, the Pistons face the Thunder again. Detroit won on Feb. 25 behind 29 points from All-Star center Jalen Duren.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-03-31T14:33:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-M8qiGgqlA/hqdefault.jpg",
-      "duration": "PT2H57M10S",
-      "duration_seconds": 10630,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
+      "video_id": "4X-zE4YcSKM",
+      "title": "ROBLOX BIKE OBBY FOR BRAINROTS..",
+      "description": "Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own p",
+      "channel_title": "Foltyn",
+      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
+      "published_at": "2026-03-31T18:55:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4X-zE4YcSKM/hqdefault.jpg",
+      "duration": "PT18M44S",
+      "duration_seconds": 1124,
+      "view_count": 381421,
+      "like_count": 8630,
+      "comment_count": 1940,
+      "category_id": "20",
+      "tags": [
+        "foltyn",
+        "foltyn roblox",
+        "roblox",
+        "roblox foltyn",
+        "foltyn family",
+        "funny",
+        "no swearing",
+        "foltyn family roblox",
+        "roblox foltyn family",
+        "blade ball"
+      ],
+      "url": "https://www.youtube.com/watch?v=4X-zE4YcSKM"
     }
   ],
   "videos_with_transcripts": [],
@@ -250,9 +272,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 3615702,
-      "like_count": 296731,
-      "comment_count": 15890,
+      "view_count": 4550253,
+      "like_count": 325005,
+      "comment_count": 17250,
       "category_id": "1",
       "tags": [
         "a24",
@@ -267,6 +289,51 @@
         "a24 movies"
       ],
       "url": "https://www.youtube.com/watch?v=0HjdiohVOik"
+    },
+    {
+      "video_id": "ekBM-ByoZq0",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-01T02:46:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ekBM-ByoZq0/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ekBM-ByoZq0"
+    },
+    {
+      "video_id": "s1-pfiVMKAs",
+      "title": "SUPERGIRL | Official Trailer",
+      "description": "This Summer, find your place in the universe. #Supergirl lands in theaters and IMAX June 26.\n\n“Supergirl,” DC Studios’ newest feature film to hit the big screen, will be in theaters worldwide this summer from Warner Bros. Pictures, starring Milly Alcock in the dual role of Supergirl/Kara Zor-El. Craig Gillespie directs the film from a screenplay by Ana Nogueira.\n\nWhen an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.\n\nAlcock stars alongside Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, and Jason Momoa.\n\nDC Studios heads Peter Safran and James Gunn are producing the film, which is based on characters from DC, Supergirl based on characters created by Jerry Siegel and Joe Shuster. The film is executive produced by Nigel Gostelow, Chantal Nong Vo and Lars P. Winther. Behind the camera, Gillespie is joined by director of",
+      "channel_title": "DC",
+      "channel_id": "UCiifkYAs_bq1pt_zbNAzYGg",
+      "published_at": "2026-03-31T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
+      "duration": "PT2M57S",
+      "duration_seconds": 177,
+      "view_count": 4821864,
+      "like_count": 200760,
+      "comment_count": 11615,
+      "category_id": "1",
+      "tags": [
+        "2026",
+        "Coming Soon",
+        "Craig Gillespie",
+        "DC",
+        "DC Comics",
+        "DC Studios",
+        "DCU",
+        "David Krumholtz",
+        "Emily Beecham",
+        "Eve Ridley"
+      ],
+      "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
     },
     {
       "video_id": "WGbKeq3bkT8",
@@ -286,51 +353,6 @@
       "url": "https://www.youtube.com/watch?v=WGbKeq3bkT8"
     },
     {
-      "video_id": "s1-pfiVMKAs",
-      "title": "SUPERGIRL | Official Trailer",
-      "description": "This Summer, find your place in the universe. #Supergirl lands in theaters and IMAX June 26.\n\n“Supergirl,” DC Studios’ newest feature film to hit the big screen, will be in theaters worldwide this summer from Warner Bros. Pictures, starring Milly Alcock in the dual role of Supergirl/Kara Zor-El. Craig Gillespie directs the film from a screenplay by Ana Nogueira.\n\nWhen an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.\n\nAlcock stars alongside Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, and Jason Momoa.\n\nDC Studios heads Peter Safran and James Gunn are producing the film, which is based on characters from DC, Supergirl based on characters created by Jerry Siegel and Joe Shuster. The film is executive produced by Nigel Gostelow, Chantal Nong Vo and Lars P. Winther. Behind the camera, Gillespie is joined by director of",
-      "channel_title": "DC",
-      "channel_id": "UCiifkYAs_bq1pt_zbNAzYGg",
-      "published_at": "2026-03-31T16:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
-      "duration": "PT2M57S",
-      "duration_seconds": 177,
-      "view_count": 3594141,
-      "like_count": 181485,
-      "comment_count": 10647,
-      "category_id": "1",
-      "tags": [
-        "2026",
-        "Coming Soon",
-        "Craig Gillespie",
-        "DC",
-        "DC Comics",
-        "DC Studios",
-        "DCU",
-        "David Krumholtz",
-        "Emily Beecham",
-        "Eve Ridley"
-      ],
-      "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
-    },
-    {
-      "video_id": "v_F_TNjimV4",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-03-31T21:24:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v_F_TNjimV4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=v_F_TNjimV4"
-    },
-    {
       "video_id": "X21JsHLHnY8",
       "title": "Masters of The Universe – Official Trailer",
       "description": "Eternia is calling you home. Watch the Official Trailer for Masters of the Universe now, and experience the movie only in theaters June 5th!\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazo",
@@ -340,9 +362,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 4242755,
-      "like_count": 48031,
-      "comment_count": 5278,
+      "view_count": 4728031,
+      "like_count": 52002,
+      "comment_count": 5593,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -385,9 +407,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
       "duration": "PT18M34S",
       "duration_seconds": 1114,
-      "view_count": 63913,
-      "like_count": 3860,
-      "comment_count": 143,
+      "view_count": 102256,
+      "like_count": 5075,
+      "comment_count": 177,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -404,161 +426,181 @@
       "url": "https://www.youtube.com/watch?v=OFkSWNl909c"
     },
     {
-      "video_id": "eozHbrLm9T4",
-      "title": "Pittsburgh Pirates at Cincinnati Reds",
-      "description": "The Pirates visit Great American Ball Park to face the Reds. Paul Skenes is the rotation cornerstone. Elly De La Cruz is a dynamic star looking to build on 22 home runs and 86 RBIs from 2025. The three-game series begins in Cincinnati.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-03-31T09:48:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eozHbrLm9T4/hqdefault.jpg",
-      "duration": "PT3H10S",
-      "duration_seconds": 10810,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=eozHbrLm9T4"
+      "video_id": "UUls1w6Vslw",
+      "title": "Hermitcraft 11: Episode 14 - BAD BASE TOUR!",
+      "description": "Hermitcraft 11: Episode 14 - We tour my base when the server has guests but it's cut short..",
+      "channel_title": "Grian",
+      "channel_id": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+      "published_at": "2026-03-31T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUls1w6Vslw/hqdefault.jpg",
+      "duration": "PT32M14S",
+      "duration_seconds": 1934,
+      "view_count": 425348,
+      "like_count": 37336,
+      "comment_count": 1698,
+      "category_id": "20",
+      "tags": [
+        "Minecraft",
+        "Grian",
+        "building",
+        "grian",
+        "mincraft",
+        "tutorial",
+        "yt:quality=high",
+        "minecraft",
+        "ideas",
+        "creative"
+      ],
+      "url": "https://www.youtube.com/watch?v=UUls1w6Vslw"
     },
     {
-      "video_id": "UNgiDXixSWU",
-      "title": "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios",
-      "description": "SUPERMAN CAMEO ALREADY?! Greg Alba, Coy Jandreau, and Roxy Striar react to the brand-new Supergirl trailer from DC Studios and James Gunn’s DCU! This new look gives us a much better sense of the movie’s tone, scale, and emotional core, including our best trailer look yet at Milly Alcock’s Kara Zor-El / Supergirl, Jason Momoa’s Lobo, the destruction and trauma tied to Argo, the intergalactic revenge quest with Ruthye, and the major role Krypto plays in kicking off the story. Director Craig Gillespie has described the film as a sci-fi epic inspired in part by True Grit and John Wick, with Kara helping Ruthye track down Krem after Ruthye’s family is murdered and Krypto is poisoned.\nIn this trailer reaction, we talk about the melancholy vibe, the heavier emotional weight compared to Superman, the cosmic scope, the action, the visual style, and how much more tragic and battle-worn this version of Supergirl feels. We also get into Lobo’s presence, how important Ruthye looks to the story, the",
-      "channel_title": "Reel Rejects",
-      "channel_id": "UC7_WiJnJxpm4MRNesRttzWg",
-      "published_at": "2026-03-31T16:11:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UNgiDXixSWU/hqdefault.jpg",
-      "duration": "PT17M12S",
-      "duration_seconds": 1032,
-      "view_count": 56763,
-      "like_count": 4484,
-      "comment_count": 449,
+      "video_id": "dSnichjB3-o",
+      "title": "Cape Fear — Official Teaser | Apple TV",
+      "description": "This summer, fear takes hold. Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear\n\nA thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson. \n\nCreated for television by Nick Antosca.\n\nInspired by the 1991 remake directed by Martin Scorsese and produced by Steven Spielberg, a storm is coming for happily married attorneys Anna (Amy Adams) and Tom Bowden (Patrick Wilson) when Max Cady (Javier Bardem), the notorious killer they are responsible for putting behind bars, is let out of prison — and he wants vengeance.\n\nHailing from UCP, a division of Universal Studio Group, and Amblin Television, “Cape Fear” is based on both the novel “The Executioners,” which inspired Gregory Peck’s Universal Pictures feature (1962) of the same name, as well as the acclaimed 1991 remake directed by Scorsese. The series is executive produced by Steven Spielberg, who produced the 1991 film, alongside Scorsese. Creato",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-03-31T12:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dSnichjB3-o/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 194612,
+      "like_count": 5839,
+      "comment_count": 565,
       "category_id": "24",
       "tags": [
-        "supergirl",
-        "supergirl official trailer",
-        "supergirl reaction",
-        "supergirl trailer",
-        "supergirl breakdown",
-        "lobo",
-        "jason momoa",
-        "superman",
-        "man of tomorrow",
-        "lanterns"
+        "cape fear",
+        "trailer",
+        "cape fear trailer",
+        "cape fear official trailer",
+        "cape fear series",
+        "teaser",
+        "official teaser",
+        "cape fear teaser",
+        "martin scorsese",
+        "martin scoresese cape fear"
       ],
-      "url": "https://www.youtube.com/watch?v=UNgiDXixSWU"
+      "url": "https://www.youtube.com/watch?v=dSnichjB3-o"
     },
     {
-      "video_id": "t-M8qiGgqlA",
-      "title": "Detroit Pistons at Oklahoma City Thunder",
-      "description": "The Pistons visit Oklahoma City to play the Thunder at Paycom Center. Detroit leads the series 1-0. As the NBA season nears its end, the Pistons face the Thunder again. Detroit won on Feb. 25 behind 29 points from All-Star center Jalen Duren.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-03-31T14:33:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-M8qiGgqlA/hqdefault.jpg",
-      "duration": "PT2H57M10S",
-      "duration_seconds": 10630,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
+      "video_id": "4X-zE4YcSKM",
+      "title": "ROBLOX BIKE OBBY FOR BRAINROTS..",
+      "description": "Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own p",
+      "channel_title": "Foltyn",
+      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
+      "published_at": "2026-03-31T18:55:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4X-zE4YcSKM/hqdefault.jpg",
+      "duration": "PT18M44S",
+      "duration_seconds": 1124,
+      "view_count": 381421,
+      "like_count": 8630,
+      "comment_count": 1940,
+      "category_id": "20",
+      "tags": [
+        "foltyn",
+        "foltyn roblox",
+        "roblox",
+        "roblox foltyn",
+        "foltyn family",
+        "funny",
+        "no swearing",
+        "foltyn family roblox",
+        "roblox foltyn family",
+        "blade ball"
+      ],
+      "url": "https://www.youtube.com/watch?v=4X-zE4YcSKM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 11573274,
-        "average_views_per_video": 1157327.4,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "dominant_themes": [
+      "video_trends": {
+        "themes": [
           {
-            "theme": "Trailers",
-            "related_videos": [
+            "theme": "Entertainment & Media",
+            "videos": [
               "Backrooms | Official Trailer HD | A24",
               "SUPERGIRL | Official Trailer",
               "Masters of The Universe – Official Trailer",
-              "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios"
+              "Cape Fear — Official Teaser | Apple TV"
             ],
-            "insight": "Trailers for upcoming movies and TV shows are a significant trend, capturing a wide audience."
+            "insights": "Trailers and teasers for upcoming films and series are driving significant viewer interest. Leveraging anticipation for new releases continues to be a powerful strategy for content creators in the entertainment sector."
           },
           {
             "theme": "Sports",
-            "related_videos": [
-              "NCAAW Elite Eight: TCU vs. South Carolina",
-              "Pittsburgh Pirates at Cincinnati Reds",
-              "Detroit Pistons at Oklahoma City Thunder"
+            "videos": [
+              "NCAAW Elite Eight: TCU vs. South Carolina"
             ],
-            "insight": "Live sports and highlights continue to engage viewers, with a particular focus on major league and collegiate events."
+            "insights": "Major sporting events consistently capture viewer attention, particularly when featuring high-stakes matches. Collaborations with sports channels and timely coverage of major games could enhance visibility."
           },
           {
-            "theme": "News and Analysis",
-            "related_videos": [
-              "America's Newsroom",
-              "Morning Joe",
+            "theme": "News & Commentary",
+            "videos": [
+              "The Will Cain Show",
+              "Morning Joe"
+            ],
+            "insights": "News shows, especially those that offer distinctive commentary or cover trending topics, remain popular. Creating content that provides unique perspectives on current events could tap into a dedicated audience base."
+          },
+          {
+            "theme": "Gaming",
+            "videos": [
+              "ROBLOX BIKE OBBY FOR BRAINROTS..",
+              "Hermitcraft 11: Episode 14 - BAD BASE TOUR!"
+            ],
+            "insights": "Gaming content, particularly those related to popular platforms like Roblox and Minecraft, continues to engage a large audience. There are opportunities to explore niche gaming content and community-driven series."
+          },
+          {
+            "theme": "Analysis & Breakdown",
+            "videos": [
               "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!"
             ],
-            "insight": "News segments and detailed breakdowns of popular content are drawing considerable attention."
+            "insights": "Breakdown and analysis videos that delve into details of popular trailers or media content attract viewers who are interested in in-depth content. This trend suggests a market for content that offers detailed insights and commentary."
           }
         ]
       },
       "creator_patterns": {
         "top_channels": [
           {
-            "channel": "A24",
-            "videos": 1,
-            "focus": "Movie Trailers",
-            "insight": "A24's releases, often known for their unique and artistic films, attract significant interest."
+            "channel_name": "A24",
+            "video_count": 1,
+            "insights": "A24's strategic release of high-quality trailers contributes significantly to their engagement. Their focus on creating buzz around their releases could be emulated by other studios to enhance anticipation."
           },
           {
-            "channel": "ESPN",
-            "videos": 1,
-            "focus": "Sports",
-            "insight": "ESPN continues to be a leading source for sports content, maintaining strong viewer engagement."
+            "channel_name": "FOX News",
+            "video_count": 1,
+            "insights": "News channels like FOX News maintain consistent engagement by covering relevant and timely topics. Expanding coverage on emerging news stories can capitalize on this trend."
           },
           {
-            "channel": "DC",
-            "videos": 1,
-            "focus": "Superhero Trailers and Content",
-            "insight": "DC's superhero content, including trailers and breakdowns, remains highly popular."
+            "channel_name": "DC",
+            "video_count": 1,
+            "insights": "DC’s content, particularly superhero-related, continues to draw interest. Leveraging fanbases of popular franchises could drive viewership for related content."
           },
           {
-            "channel": "FOX News",
-            "videos": 1,
-            "focus": "News",
-            "insight": "FOX News retains a steady audience for current affairs and political coverage."
+            "channel_name": "ESPN",
+            "video_count": 1,
+            "insights": "Sports networks like ESPN benefit from covering high-profile games. Expanding live coverage and analysis of events can enhance viewer engagement."
           },
           {
-            "channel": "Amazon MGM Studios",
-            "videos": 1,
-            "focus": "Entertainment Trailers",
-            "insight": "Amazon MGM Studios is a notable player in promoting upcoming entertainment projects."
+            "channel_name": "Amazon MGM Studios",
+            "video_count": 1,
+            "insights": "The anticipation around new releases from studios like Amazon MGM Studios highlights the effectiveness of strategic marketing through teasers."
           }
         ]
       },
       "market_opportunities": {
-        "trending_categories": [
+        "opportunities": [
           {
-            "category": "Movie and TV Trailers",
-            "opportunity": "Develop engaging content around upcoming releases, including reactions and detailed analyses to capture the interest of movie enthusiasts."
+            "opportunity": "Cross-Promotional Content",
+            "description": "Collaborating across different genres, such as combining gaming and film themes for cross-audience reach, could open new demographic segments."
           },
           {
-            "category": "Sports Highlights and Analysis",
-            "opportunity": "Capitalize on the sports market by providing in-depth analysis, behind-the-scenes content, and interactive fan experiences."
+            "opportunity": "Enhanced Viewer Engagement",
+            "description": "Developing interactive content, such as live Q&A sessions or viewer polls during trailers, can increase engagement and retention."
           },
           {
-            "category": "News and Current Affairs",
-            "opportunity": "Expand viewership by covering trending topics with fresh perspectives and leveraging digital platforms for real-time updates."
+            "opportunity": "Localized Content",
+            "description": "Producing region-specific content, especially in non-English markets, could tap into underrepresented viewer bases and expand reach."
           }
-        ],
-        "audience_engagement": {
-          "insight": "Interactive content, such as live streams and viewer polls, can enhance engagement, particularly for sports and dynamic discussion segments."
-        }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -566,7 +608,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1157327
+        "avg_views_per_video": 1520378
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
