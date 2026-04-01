@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T12:31:34.539536",
+  "timestamp": "2026-04-01T15:37:29.092225",
   "date": "2026-04-01",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 5891957,
-      "like_count": 220826,
-      "comment_count": 12619,
+      "view_count": 6448634,
+      "like_count": 227669,
+      "comment_count": 12950,
       "category_id": "1",
       "tags": [
         "2026",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 5546913,
-      "like_count": 358015,
-      "comment_count": 18934,
+      "view_count": 5898693,
+      "like_count": 371184,
+      "comment_count": 19522,
       "category_id": "1",
       "tags": [
         "a24",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 5419942,
-      "like_count": 56900,
-      "comment_count": 6096,
+      "view_count": 5747865,
+      "like_count": 58581,
+      "comment_count": 6264,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -157,9 +157,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
       "duration": "PT18M34S",
       "duration_seconds": 1114,
-      "view_count": 150853,
-      "like_count": 6405,
-      "comment_count": 207,
+      "view_count": 166504,
+      "like_count": 6880,
+      "comment_count": 217,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -202,8 +202,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 253744,
-      "like_count": 11660,
+      "view_count": 331927,
+      "like_count": 13369,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
@@ -239,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 5891957,
-      "like_count": 220826,
-      "comment_count": 12619,
+      "view_count": 6448634,
+      "like_count": 227669,
+      "comment_count": 12950,
       "category_id": "1",
       "tags": [
         "2026",
@@ -284,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 5546913,
-      "like_count": 358015,
-      "comment_count": 18934,
+      "view_count": 5898693,
+      "like_count": 371184,
+      "comment_count": 19522,
       "category_id": "1",
       "tags": [
         "a24",
@@ -329,9 +329,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 5419942,
-      "like_count": 56900,
-      "comment_count": 6096,
+      "view_count": 5747865,
+      "like_count": 58581,
+      "comment_count": 6264,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -374,9 +374,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OFkSWNl909c/hqdefault.jpg",
       "duration": "PT18M34S",
       "duration_seconds": 1114,
-      "view_count": 150853,
-      "like_count": 6405,
-      "comment_count": 207,
+      "view_count": 166504,
+      "like_count": 6880,
+      "comment_count": 217,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -419,8 +419,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 253744,
-      "like_count": 11660,
+      "view_count": 331927,
+      "like_count": 13369,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
@@ -447,59 +447,57 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "view_analysis": {
-          "average_views_per_video": 1726340.9,
-          "insights": "The average views per video are high, indicating significant user engagement with the trending content."
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 18593623,
+        "averageViewsPerVideo": 1859362.3
+      },
+      "trendingPatterns": {
+        "categoriesIdentified": [
+          "Entertainment",
+          "News",
+          "Sports",
+          "Film Trailers",
+          "Technology"
+        ],
+        "dominantContentTypes": [
+          "Trailers",
+          "News Segments",
+          "Sports Highlights"
+        ]
+      },
+      "contentTrends": {
+        "popularityOfTrailers": {
+          "insight": "Film and TV show trailers are highly represented, indicating a strong audience interest in upcoming media content.",
+          "recommendation": "Content creators and studios should focus on releasing engaging trailers and follow-up content like breakdowns or Easter egg analyses."
         },
-        "content_trends": {
-          "dominant_themes": [
-            "Entertainment",
-            "News & Commentary",
-            "Sports"
-          ],
-          "insights": "The presence of multiple trailers and media-related content suggests a strong audience interest in entertainment content. Additionally, news and sports are significant themes, reflecting user interest in current events and sports events."
+        "newsContent": {
+          "insight": "News segments, especially from major networks like FOX News, continue to capture significant viewership.",
+          "recommendation": "News channels should enhance viewer engagement through interactive content, such as live discussions and audience Q&A sessions."
         },
-        "video_title_keywords": {
-          "common_keywords": [
-            "Official Trailer",
-            "vs.",
-            "Breakdown",
-            "Launch"
-          ],
-          "insights": "Titles with 'Official Trailer' are popular, indicating trailers are a major trend. Keywords like 'Breakdown' suggest audience interest in detailed analyses or explanations of content."
+        "sportsContent": {
+          "insight": "Sports events like 'USA vs. Portugal' highlight the consistent interest in live sports coverage.",
+          "recommendation": "Sports networks should leverage short-form highlights and in-depth analyses to maintain viewer interest post-event."
+        }
+      },
+      "creatorPatterns": {
+        "topChannels": {
+          "insight": "Established channels like DC, FOX News, and A24 are key drivers of viewership, leveraging strong brand recognition.",
+          "recommendation": "Emerging creators should consider collaborations with established channels or brands to increase visibility."
         },
-        "channel_performance": {
-          "diverse_representations": true,
-          "insights": "Each top channel has only one trending video, indicating a diverse range of creators contributing to trending content. This suggests opportunities for new creators to enter the trending space without needing a large volume of content."
+        "channelDiversity": {
+          "insight": "The presence of both entertainment and news channels suggests a diverse audience with varied interests.",
+          "recommendation": "Channels should explore cross-category content, such as news entertainment segments, to capture wider audience segments."
+        }
+      },
+      "marketOpportunities": {
+        "emergingTrends": {
+          "insight": "The crossover of entertainment and technology, as seen in 'Around the Moon for All Humanity: Artemis II', indicates a growing interest in space and tech-related content.",
+          "recommendation": "Content creators should explore tech-related storytelling and documentaries to tap into this burgeoning market."
         },
-        "market_opportunities": {
-          "content_creation": {
-            "opportunities": [
-              {
-                "theme": "Trailer Analysis",
-                "suggestion": "Create detailed analysis and breakdown videos of popular trailers to capitalize on viewer interest in understanding intricate details of upcoming media."
-              },
-              {
-                "theme": "Crossover Content",
-                "suggestion": "Develop content that bridges popular themes such as entertainment and news, potentially offering a unique perspective or commentary that can capture both interest areas."
-              }
-            ],
-            "insights": "Given the interest in both entertainment and news, there is an opportunity to create crossover content that appeals to both audiences."
-          },
-          "channel_growth": {
-            "opportunities": [
-              {
-                "strategy": "Niche Dominance",
-                "suggestion": "Focus on niche areas within these popular themes to build a dedicated audience. For example, specialize in sports commentary or in-depth entertainment analysis."
-              },
-              {
-                "strategy": "Collaboration",
-                "suggestion": "Collaborate with other creators or channels to expand reach and tap into new audience segments, especially in trending categories."
-              }
-            ],
-            "insights": "With diverse creators currently trending, there is room for new entrants to establish themselves by focusing on niche content or through strategic collaborations."
-          }
+        "audienceEngagement": {
+          "insight": "Interactive content, such as trailer breakdowns, engages viewers by offering deeper insights and fostering community discussions.",
+          "recommendation": "Creators should incorporate interactive elements like polls, quizzes, and viewer shout-outs to enhance engagement and retention."
         }
       },
       "metadata_stats": {
@@ -508,7 +506,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1726340
+        "avg_views_per_video": 1859362
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
