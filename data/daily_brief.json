@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T09:29:49.982748",
+  "timestamp": "2026-04-02T12:30:54.883936",
   "date": "2026-04-02",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 7775777,
-      "like_count": 408516,
-      "comment_count": 21220,
+      "view_count": 7913959,
+      "like_count": 411043,
+      "comment_count": 21382,
       "category_id": "1",
       "tags": [
         "a24",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 10547899,
-      "like_count": 247318,
-      "comment_count": 14088,
+      "view_count": 10609156,
+      "like_count": 248238,
+      "comment_count": 14146,
       "category_id": "1",
       "tags": [
         "2026",
@@ -84,6 +84,40 @@
         "Eve Ridley"
       ],
       "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
+    },
+    {
+      "video_id": "rAlHmMppq2w",
+      "title": "Boston Celtics at Miami Heat",
+      "description": "The Boston Celtics travel south to battle the Miami Heat on the hardwood. Boston leads the series 3-0. Miami must relentlessly attack the glass to avoid a humiliating sweep today. Kaseya Center is pulsating with intense energy for this match.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-02T10:33:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rAlHmMppq2w/hqdefault.jpg",
+      "duration": "PT2H30M11S",
+      "duration_seconds": 9011,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rAlHmMppq2w"
+    },
+    {
+      "video_id": "1ViwrDhoG2c",
+      "title": "Last Meadow Online | Official Announcement Trailer | Discord",
+      "description": "Available now on Discord desktop and browser: https://discord.com/last-meadow-online\n\nAfter a harrowing adventure through flourishing forests, desolate deserts, and punishing plains, Wumpus has finally achieved physical contact with The Last Meadow. As they return to town to bask in their accomplishment, the celebration is cut short by a new emerging threat, a fearsome, foliage-absorbing dragon who goes by: Grass Toucher. \n\nToday, we’re announcing the next entry in Big Wump Games’ beloved, now quintuple-A gaming franchise: Last Meadow Online. Band together with your fellow Discordians in the world’s first DBMMIRPG* and help Wumpus defeat Grass Toucher.\n\nAll players who contribute to defeating the dragon will receive a limited-edition badge on their Discord profile, yours to keep. But you'll need to act fast: Last Meadow Online is only available until April 7. Wumpus needs all the help they can get.\n\nLearn more in our blog: https://discord.com/blog/last-meadow-online-announcement\n\n_*Dis",
+      "channel_title": "Discord",
+      "channel_id": "UCZ5XnGb-3t7jCkXdawN2tkA",
+      "published_at": "2026-04-01T17:38:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ViwrDhoG2c/hqdefault.jpg",
+      "duration": "PT48S",
+      "duration_seconds": 48,
+      "view_count": 713266,
+      "like_count": 23492,
+      "comment_count": 1122,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1ViwrDhoG2c"
     },
     {
       "video_id": "IzUtDXAU69I",
@@ -103,40 +137,6 @@
       "url": "https://www.youtube.com/watch?v=IzUtDXAU69I"
     },
     {
-      "video_id": "1ViwrDhoG2c",
-      "title": "Last Meadow Online | Official Announcement Trailer | Discord",
-      "description": "Available now on Discord desktop and browser: https://discord.com/last-meadow-online\n\nAfter a harrowing adventure through flourishing forests, desolate deserts, and punishing plains, Wumpus has finally achieved physical contact with The Last Meadow. As they return to town to bask in their accomplishment, the celebration is cut short by a new emerging threat, a fearsome, foliage-absorbing dragon who goes by: Grass Toucher. \n\nToday, we’re announcing the next entry in Big Wump Games’ beloved, now quintuple-A gaming franchise: Last Meadow Online. Band together with your fellow Discordians in the world’s first DBMMIRPG* and help Wumpus defeat Grass Toucher.\n\nAll players who contribute to defeating the dragon will receive a limited-edition badge on their Discord profile, yours to keep. But you'll need to act fast: Last Meadow Online is only available until April 7. Wumpus needs all the help they can get.\n\nLearn more in our blog: https://discord.com/blog/last-meadow-online-announcement\n\n_*Dis",
-      "channel_title": "Discord",
-      "channel_id": "UCZ5XnGb-3t7jCkXdawN2tkA",
-      "published_at": "2026-04-01T17:38:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ViwrDhoG2c/hqdefault.jpg",
-      "duration": "PT48S",
-      "duration_seconds": 48,
-      "view_count": 608552,
-      "like_count": 20707,
-      "comment_count": 1053,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1ViwrDhoG2c"
-    },
-    {
-      "video_id": "cx1AVR_EaBQ",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-02T04:53:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cx1AVR_EaBQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=cx1AVR_EaBQ"
-    },
-    {
       "video_id": "X21JsHLHnY8",
       "title": "Masters of The Universe – Official Trailer",
       "description": "Eternia is calling you home. Watch the Official Trailer for Masters of the Universe now, and experience the movie only in theaters June 5th!\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazo",
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 7750996,
-      "like_count": 65720,
-      "comment_count": 6920,
+      "view_count": 7890564,
+      "like_count": 66192,
+      "comment_count": 6934,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -165,21 +165,21 @@
       "url": "https://www.youtube.com/watch?v=X21JsHLHnY8"
     },
     {
-      "video_id": "9Fgp5NUg0po",
-      "title": "You Can't Sip With Us",
-      "description": "Danny and Nia juggle four under four, while Kristen and Luke don't see eye-to-eye as they transition to first-time parenthood; Brittany tries to get her sparkle back in a new relationship, but Zack worries they're moving too fast.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-04-02T06:59:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Fgp5NUg0po/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "00XHX8QWN2Y",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-02T10:31:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/00XHX8QWN2Y/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=9Fgp5NUg0po"
+      "url": "https://www.youtube.com/watch?v=00XHX8QWN2Y"
     },
     {
       "video_id": "Vg-EQ7MOu6I",
@@ -191,33 +191,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 1132957,
-      "like_count": 21404,
+      "view_count": 1162833,
+      "like_count": 21678,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vg-EQ7MOu6I"
     },
     {
-      "video_id": "XM9oqwaHGtk",
-      "title": "🔴LIVE | CS2 | Nadeshot X HutchMF | #FartInMyVicinity #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-02T08:04:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XM9oqwaHGtk/hqdefault.jpg",
-      "duration": "PT7H23M36S",
-      "duration_seconds": 26616,
-      "view_count": 638423,
-      "like_count": 11332,
-      "comment_count": 28,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=XM9oqwaHGtk"
+      "video_id": "1HTFwHQsOsk",
+      "title": "Quarterfinal: Oklahoma vs. Colorado",
+      "description": "This College Basketball Crown Quarterfinal presents the Oklahoma Sooners and the Colorado Buffaloes at the MGM Grand Garden Arena in Las Vegas, Nevada. The victorious college program immediately secures an essential spot within the semi-finals.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-02T10:22:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1HTFwHQsOsk/hqdefault.jpg",
+      "duration": "PT2H46M50S",
+      "duration_seconds": 10010,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1HTFwHQsOsk"
     }
   ],
   "videos_with_transcripts": [],
@@ -232,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 7775777,
-      "like_count": 408516,
-      "comment_count": 21220,
+      "view_count": 7913959,
+      "like_count": 411043,
+      "comment_count": 21382,
       "category_id": "1",
       "tags": [
         "a24",
@@ -277,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 10547899,
-      "like_count": 247318,
-      "comment_count": 14088,
+      "view_count": 10609156,
+      "like_count": 248238,
+      "comment_count": 14146,
       "category_id": "1",
       "tags": [
         "2026",
@@ -294,6 +290,23 @@
         "Eve Ridley"
       ],
       "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
+    },
+    {
+      "video_id": "rAlHmMppq2w",
+      "title": "Boston Celtics at Miami Heat",
+      "description": "The Boston Celtics travel south to battle the Miami Heat on the hardwood. Boston leads the series 3-0. Miami must relentlessly attack the glass to avoid a humiliating sweep today. Kaseya Center is pulsating with intense energy for this match.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-02T10:33:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rAlHmMppq2w/hqdefault.jpg",
+      "duration": "PT2H30M11S",
+      "duration_seconds": 9011,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rAlHmMppq2w"
     },
     {
       "video_id": "IzUtDXAU69I",
@@ -313,23 +326,6 @@
       "url": "https://www.youtube.com/watch?v=IzUtDXAU69I"
     },
     {
-      "video_id": "cx1AVR_EaBQ",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-02T04:53:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cx1AVR_EaBQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=cx1AVR_EaBQ"
-    },
-    {
       "video_id": "X21JsHLHnY8",
       "title": "Masters of The Universe – Official Trailer",
       "description": "Eternia is calling you home. Watch the Official Trailer for Masters of the Universe now, and experience the movie only in theaters June 5th!\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazo",
@@ -339,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 7750996,
-      "like_count": 65720,
-      "comment_count": 6920,
+      "view_count": 7890564,
+      "like_count": 66192,
+      "comment_count": 6934,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -358,21 +354,21 @@
       "url": "https://www.youtube.com/watch?v=X21JsHLHnY8"
     },
     {
-      "video_id": "9Fgp5NUg0po",
-      "title": "You Can't Sip With Us",
-      "description": "Danny and Nia juggle four under four, while Kristen and Luke don't see eye-to-eye as they transition to first-time parenthood; Brittany tries to get her sparkle back in a new relationship, but Zack worries they're moving too fast.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-04-02T06:59:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Fgp5NUg0po/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "00XHX8QWN2Y",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-02T10:31:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/00XHX8QWN2Y/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=9Fgp5NUg0po"
+      "url": "https://www.youtube.com/watch?v=00XHX8QWN2Y"
     },
     {
       "video_id": "Vg-EQ7MOu6I",
@@ -384,33 +380,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 1132957,
-      "like_count": 21404,
+      "view_count": 1162833,
+      "like_count": 21678,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vg-EQ7MOu6I"
     },
     {
-      "video_id": "XM9oqwaHGtk",
-      "title": "🔴LIVE | CS2 | Nadeshot X HutchMF | #FartInMyVicinity #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-02T08:04:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XM9oqwaHGtk/hqdefault.jpg",
-      "duration": "PT7H23M36S",
-      "duration_seconds": 26616,
-      "view_count": 638423,
-      "like_count": 11332,
-      "comment_count": 28,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=XM9oqwaHGtk"
+      "video_id": "1HTFwHQsOsk",
+      "title": "Quarterfinal: Oklahoma vs. Colorado",
+      "description": "This College Basketball Crown Quarterfinal presents the Oklahoma Sooners and the Colorado Buffaloes at the MGM Grand Garden Arena in Las Vegas, Nevada. The victorious college program immediately secures an essential spot within the semi-finals.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-02T10:22:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1HTFwHQsOsk/hqdefault.jpg",
+      "duration": "PT2H46M50S",
+      "duration_seconds": 10010,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1HTFwHQsOsk"
     },
     {
       "video_id": "1ViwrDhoG2c",
@@ -422,9 +414,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1ViwrDhoG2c/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 608552,
-      "like_count": 20707,
-      "comment_count": 1053,
+      "view_count": 713266,
+      "like_count": 23492,
+      "comment_count": 1122,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1ViwrDhoG2c"
@@ -433,90 +425,59 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 28454604,
-        "average_views_per_video": 2845460.4,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "themes": [
-          "Entertainment and Media",
-          "News and Politics",
-          "Gaming",
-          "Science and Technology"
-        ],
-        "trending_content_types": [
-          "Movie Trailers",
-          "News Shows",
-          "Gaming Streams",
-          "Space Exploration"
-        ],
-        "insights": [
-          {
-            "theme": "Entertainment and Media",
-            "observation": "Trailers for movies and shows like 'Backrooms | Official Trailer HD | A24' and 'SUPERGIRL | Official Trailer' are popular, indicating a strong audience interest in upcoming media releases."
+      "trending_patterns_analysis": {
+        "viewership_data": {
+          "total_videos": 10,
+          "total_views": 28289778,
+          "average_views_per_video": 2828977.8
+        },
+        "content_categories": {
+          "entertainment": [
+            "Backrooms | Official Trailer HD | A24",
+            "SUPERGIRL | Official Trailer",
+            "Masters of The Universe – Official Trailer",
+            "Around the Moon for All Humanity: Artemis II (Official Launch Trailer)"
+          ],
+          "news": [
+            "Hannity",
+            "The Source With Kaitlan Collins",
+            "The Last Word With Lawrence O'Donnell"
+          ],
+          "sports": [
+            "Boston Celtics at Miami Heat",
+            "Quarterfinal: Oklahoma vs. Colorado"
+          ],
+          "gaming": [
+            "Last Meadow Online | Official Announcement Trailer | Discord"
+          ]
+        },
+        "content_trends": {
+          "entertainment_trailers": {
+            "description": "High interest in official trailers, especially from established brands like A24 and DC, indicating strong viewer engagement with new media releases.",
+            "market_opportunity": "Brands should leverage high production value and recognizable IPs to attract viewers."
           },
-          {
-            "theme": "News and Politics",
-            "observation": "Videos from channels like FOX News and CNN indicate a sustained interest in news content, reflecting current events and political discussions."
+          "news_programs": {
+            "description": "News content from major networks like FOX News is consistently trending, suggesting a stable demand for political and current affairs programming.",
+            "market_opportunity": "Emerging creators can capitalize on niche news topics not covered by mainstream channels."
           },
-          {
-            "theme": "Gaming",
-            "observation": "Gaming-related content such as 'Last Meadow Online | Official Announcement Trailer | Discord' and live streams are drawing significant attention, highlighting the gaming community's engagement."
+          "sports_content": {
+            "description": "Live sports and highlight reels maintain a significant viewer base, especially from major leagues and tournaments.",
+            "market_opportunity": "Opportunities exist in creating detailed analyses and fan-centric content around these events."
           },
-          {
-            "theme": "Science and Technology",
-            "observation": "Space exploration content like 'Around the Moon for All Humanity: Artemis II (Official Launch Trailer)' is gaining traction, suggesting a rising public interest in space missions and technology."
+          "gaming_announcements": {
+            "description": "Gaming-related content, especially announcements of new releases, continues to draw attention, driven by platforms like Discord.",
+            "market_opportunity": "Creating hype through teasers and exclusive previews can boost engagement for upcoming game launches."
           }
-        ]
-      },
-      "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "A24",
-            "videos": 1,
-            "focus": "Entertainment",
-            "observation": "A24 continues to captivate audiences with high-quality trailers, maintaining its position as a key player in the entertainment industry."
+        },
+        "creator_patterns": {
+          "diverse_content_sources": {
+            "description": "Content from a variety of creators and platforms shows a balanced mix of professional studios and individual creators.",
+            "market_opportunity": "Collaborations between major studios and independent creators can expand audience reach."
           },
-          {
-            "name": "FOX News",
-            "videos": 1,
-            "focus": "News",
-            "observation": "FOX News remains a significant news provider, with content that is consistently trending."
-          },
-          {
-            "name": "DC",
-            "videos": 1,
-            "focus": "Entertainment",
-            "observation": "DC's content, particularly involving superhero media, continues to draw substantial interest."
-          },
-          {
-            "name": "CNN",
-            "videos": 1,
-            "focus": "News",
-            "observation": "CNN's content trends similarly to FOX News, highlighting its continued influence in news media."
-          },
-          {
-            "name": "Discord",
-            "videos": 1,
-            "focus": "Gaming",
-            "observation": "Discord's involvement with gaming announcements indicates its deep integration and influence within the gaming community."
+          "brand-driven engagement": {
+            "description": "Channels like A24 and Discord demonstrate that strong brand identity contributes significantly to trending status.",
+            "market_opportunity": "Building a strong brand presence can enhance visibility and viewer loyalty."
           }
-        ]
-      },
-      "market_opportunities": {
-        "entertainment": {
-          "opportunity": "Develop partnerships with movie studios and streaming platforms for exclusive content reveals and trailers to capture audience interest."
-        },
-        "news": {
-          "opportunity": "Leverage real-time news coverage and commentary to engage viewers actively seeking updates on current events."
-        },
-        "gaming": {
-          "opportunity": "Capitalize on gaming live streams and exclusive game previews, which continue to be a major draw for the youth demographic."
-        },
-        "science_and_technology": {
-          "opportunity": "Create content around technological advancements and space exploration to attract science enthusiasts and tech-savvy audiences."
         }
       },
       "metadata_stats": {
@@ -525,7 +486,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2845460
+        "avg_views_per_video": 2828977
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
