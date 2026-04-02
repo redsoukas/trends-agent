@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T12:30:54.883936",
+  "timestamp": "2026-04-02T15:29:22.480752",
   "date": "2026-04-02",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 7913959,
-      "like_count": 411043,
-      "comment_count": 21382,
+      "view_count": 8079954,
+      "like_count": 415575,
+      "comment_count": 21259,
       "category_id": "1",
       "tags": [
         "a24",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 10609156,
-      "like_count": 248238,
-      "comment_count": 14146,
+      "view_count": 10681070,
+      "like_count": 250211,
+      "comment_count": 14326,
       "category_id": "1",
       "tags": [
         "2026",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1ViwrDhoG2c/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 713266,
-      "like_count": 23492,
-      "comment_count": 1122,
+      "view_count": 839737,
+      "like_count": 26590,
+      "comment_count": 1256,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1ViwrDhoG2c"
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 7890564,
-      "like_count": 66192,
-      "comment_count": 6934,
+      "view_count": 8064208,
+      "like_count": 66888,
+      "comment_count": 7041,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -191,8 +191,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 1162833,
-      "like_count": 21678,
+      "view_count": 1192897,
+      "like_count": 22215,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
@@ -228,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 7913959,
-      "like_count": 411043,
-      "comment_count": 21382,
+      "view_count": 8079954,
+      "like_count": 415575,
+      "comment_count": 21259,
       "category_id": "1",
       "tags": [
         "a24",
@@ -273,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 10609156,
-      "like_count": 248238,
-      "comment_count": 14146,
+      "view_count": 10681070,
+      "like_count": 250211,
+      "comment_count": 14326,
       "category_id": "1",
       "tags": [
         "2026",
@@ -335,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/X21JsHLHnY8/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 7890564,
-      "like_count": 66192,
-      "comment_count": 6934,
+      "view_count": 8064208,
+      "like_count": 66888,
+      "comment_count": 7041,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -380,8 +380,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vg-EQ7MOu6I/hqdefault.jpg",
       "duration": "PT1M16S",
       "duration_seconds": 76,
-      "view_count": 1162833,
-      "like_count": 21678,
+      "view_count": 1192897,
+      "like_count": 22215,
       "comment_count": 0,
       "category_id": "28",
       "tags": [],
@@ -414,9 +414,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1ViwrDhoG2c/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 713266,
-      "like_count": 23492,
-      "comment_count": 1122,
+      "view_count": 839737,
+      "like_count": 26590,
+      "comment_count": 1256,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1ViwrDhoG2c"
@@ -425,60 +425,65 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "viewership_data": {
-          "total_videos": 10,
-          "total_views": 28289778,
-          "average_views_per_video": 2828977.8
-        },
-        "content_categories": {
-          "entertainment": [
-            "Backrooms | Official Trailer HD | A24",
-            "SUPERGIRL | Official Trailer",
-            "Masters of The Universe – Official Trailer",
-            "Around the Moon for All Humanity: Artemis II (Official Launch Trailer)"
-          ],
-          "news": [
-            "Hannity",
-            "The Source With Kaitlan Collins",
-            "The Last Word With Lawrence O'Donnell"
-          ],
-          "sports": [
-            "Boston Celtics at Miami Heat",
-            "Quarterfinal: Oklahoma vs. Colorado"
-          ],
-          "gaming": [
-            "Last Meadow Online | Official Announcement Trailer | Discord"
-          ]
-        },
-        "content_trends": {
-          "entertainment_trailers": {
-            "description": "High interest in official trailers, especially from established brands like A24 and DC, indicating strong viewer engagement with new media releases.",
-            "market_opportunity": "Brands should leverage high production value and recognizable IPs to attract viewers."
+      "content_trends": {
+        "media_types": [
+          {
+            "type": "Trailers",
+            "count": 5,
+            "percentage": 50,
+            "insight": "Half of the trending content consists of trailers, indicating a strong interest in upcoming media releases such as movies, games, and series."
           },
-          "news_programs": {
-            "description": "News content from major networks like FOX News is consistently trending, suggesting a stable demand for political and current affairs programming.",
-            "market_opportunity": "Emerging creators can capitalize on niche news topics not covered by mainstream channels."
+          {
+            "type": "Sports",
+            "count": 2,
+            "percentage": 20,
+            "insight": "Sports content, including live events and highlights, holds a significant share of the trending videos, reflecting high viewer engagement in live sports events."
           },
-          "sports_content": {
-            "description": "Live sports and highlight reels maintain a significant viewer base, especially from major leagues and tournaments.",
-            "market_opportunity": "Opportunities exist in creating detailed analyses and fan-centric content around these events."
-          },
-          "gaming_announcements": {
-            "description": "Gaming-related content, especially announcements of new releases, continues to draw attention, driven by platforms like Discord.",
-            "market_opportunity": "Creating hype through teasers and exclusive previews can boost engagement for upcoming game launches."
+          {
+            "type": "News",
+            "count": 3,
+            "percentage": 30,
+            "insight": "News segments are also trending, suggesting that current events and political discussions are attracting substantial attention."
           }
+        ]
+      },
+      "creator_patterns": {
+        "diversity_of_channels": {
+          "unique_channels": 5,
+          "average_videos_per_channel": 2,
+          "insight": "The trending list is dominated by unique channels with one video each, highlighting the diversity of content creators and the broad range of topics covered."
         },
-        "creator_patterns": {
-          "diverse_content_sources": {
-            "description": "Content from a variety of creators and platforms shows a balanced mix of professional studios and individual creators.",
-            "market_opportunity": "Collaborations between major studios and independent creators can expand audience reach."
+        "top_channels": {
+          "A24": {
+            "videos": 1,
+            "focus": "Entertainment",
+            "insight": "A24's presence with a trailer suggests a strong interest in cinematic content, which could be a trend to leverage for new film releases."
           },
-          "brand-driven engagement": {
-            "description": "Channels like A24 and Discord demonstrate that strong brand identity contributes significantly to trending status.",
-            "market_opportunity": "Building a strong brand presence can enhance visibility and viewer loyalty."
+          "FOX News": {
+            "videos": 1,
+            "focus": "News",
+            "insight": "FOX News trending indicates a demand for political and current event content, which could be vital for channels looking to increase engagement."
           }
         }
+      },
+      "market_opportunities": {
+        "entertainment": {
+          "opportunity": "Leverage the high interest in trailers by investing in high-quality teaser content and collaborations with well-known studios.",
+          "strategy": "Develop behind-the-scenes content or exclusive interviews to complement trailer releases and boost engagement."
+        },
+        "sports": {
+          "opportunity": "Capitalize on live sports events by creating complementary content such as analysis, highlights, and fan interactions.",
+          "strategy": "Partner with sports leagues for exclusive content and engage viewers with real-time updates and interactive discussions."
+        },
+        "news": {
+          "opportunity": "Expand coverage of current events and political news, as these are drawing significant viewer interest.",
+          "strategy": "Invest in live broadcasts and interactive segments to provide real-time updates and engage audiences in discussions."
+        }
+      },
+      "data_summary": {
+        "total_views": 28857866,
+        "average_views_per_video": 2885786.6,
+        "insight": "The high average views per video indicate a strong viewer base for trending content, emphasizing the importance of quality and relevance in video production."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -486,7 +491,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2828977
+        "avg_views_per_video": 2885786
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
