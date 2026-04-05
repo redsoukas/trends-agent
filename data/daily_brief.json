@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-05T15:15:44.619657",
+  "timestamp": "2026-04-05T18:18:13.285199",
   "date": "2026-04-05",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 10,
+    "total_videos_analyzed": 8,
+    "music_videos_filtered": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 5449451,
-      "like_count": 286488,
-      "comment_count": 1187,
+      "view_count": 5948064,
+      "like_count": 285528,
+      "comment_count": 1210,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -65,8 +65,8 @@
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
       "published_at": "2026-04-05T12:09:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
-      "duration": "PT1H35M37S",
-      "duration_seconds": 5737,
+      "duration": "PT2H35S",
+      "duration_seconds": 7235,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -109,6 +109,40 @@
       "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
     },
     {
+      "video_id": "aBEluE4hNCE",
+      "title": "Philadelphia Phillies at Colorado Rockies",
+      "description": "From Coors Field in Denver.",
+      "channel_title": "NBC Sports Philadelphia Plus",
+      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
+      "published_at": "2026-04-05T15:04:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aBEluE4hNCE/hqdefault.jpg",
+      "duration": "PT3H1M26S",
+      "duration_seconds": 10886,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=aBEluE4hNCE"
+    },
+    {
+      "video_id": "9LkxI-Zb06s",
+      "title": "The Fab 5 Altcast: Michigan vs. Arizona",
+      "description": "Michigan's iconic \"Fab Five\" reunites for a special alternate presentation of the Michigan-Arizona NCAA Men's Final Four National Semifinal.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-04-05T13:57:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9LkxI-Zb06s/hqdefault.jpg",
+      "duration": "PT2H31M12S",
+      "duration_seconds": 9072,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9LkxI-Zb06s"
+    },
+    {
       "video_id": "9_Tj_SeUYHk",
       "title": "My View With Lara Trump",
       "description": "Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
@@ -124,78 +158,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
-    },
-    {
-      "video_id": "OV739aBXZ6A",
-      "title": "America's Day at the Races",
-      "description": "Following all the action from the world of horse racing.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-05T05:16:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OV739aBXZ6A/hqdefault.jpg",
-      "duration": "PT1H51M55S",
-      "duration_seconds": 6715,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
-    },
-    {
-      "video_id": "7zoflnl5fkw",
-      "title": "LSU at Tennessee",
-      "description": "From Lindsey Nelson Stadium in Knoxville, Tenn.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-05T08:21:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7zoflnl5fkw/hqdefault.jpg",
-      "duration": "PT2H36M51S",
-      "duration_seconds": 9411,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
-    },
-    {
-      "video_id": "f_F-evhr-Z0",
-      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-05T11:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
-      "duration": "PT11H54M59S",
-      "duration_seconds": 42899,
-      "view_count": 837640,
-      "like_count": 12701,
-      "comment_count": 96,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
-    },
-    {
-      "video_id": "V57shOu084M",
-      "title": "A Season to Blossom",
-      "description": "A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions and her childhood crush helps her rediscover her voice, her roots, and a love worth staying for.",
-      "channel_title": "Hallmark Channel",
-      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
-      "published_at": "2026-04-05T08:02:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V57shOu084M/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=V57shOu084M"
     }
   ],
   "videos_with_transcripts": [],
@@ -210,9 +172,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 5449451,
-      "like_count": 286488,
-      "comment_count": 1187,
+      "view_count": 5948064,
+      "like_count": 285528,
+      "comment_count": 1210,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -253,8 +215,8 @@
       "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
       "published_at": "2026-04-05T12:09:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
-      "duration": "PT1H35M37S",
-      "duration_seconds": 5737,
+      "duration": "PT2H35S",
+      "duration_seconds": 7235,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -297,6 +259,40 @@
       "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
     },
     {
+      "video_id": "aBEluE4hNCE",
+      "title": "Philadelphia Phillies at Colorado Rockies",
+      "description": "From Coors Field in Denver.",
+      "channel_title": "NBC Sports Philadelphia Plus",
+      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
+      "published_at": "2026-04-05T15:04:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aBEluE4hNCE/hqdefault.jpg",
+      "duration": "PT3H1M26S",
+      "duration_seconds": 10886,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=aBEluE4hNCE"
+    },
+    {
+      "video_id": "9LkxI-Zb06s",
+      "title": "The Fab 5 Altcast: Michigan vs. Arizona",
+      "description": "Michigan's iconic \"Fab Five\" reunites for a special alternate presentation of the Michigan-Arizona NCAA Men's Final Four National Semifinal.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-04-05T13:57:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9LkxI-Zb06s/hqdefault.jpg",
+      "duration": "PT2H31M12S",
+      "duration_seconds": 9072,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9LkxI-Zb06s"
+    },
+    {
       "video_id": "9_Tj_SeUYHk",
       "title": "My View With Lara Trump",
       "description": "Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
@@ -312,191 +308,84 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
-    },
-    {
-      "video_id": "OV739aBXZ6A",
-      "title": "America's Day at the Races",
-      "description": "Following all the action from the world of horse racing.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-05T05:16:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OV739aBXZ6A/hqdefault.jpg",
-      "duration": "PT1H51M55S",
-      "duration_seconds": 6715,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
-    },
-    {
-      "video_id": "7zoflnl5fkw",
-      "title": "LSU at Tennessee",
-      "description": "From Lindsey Nelson Stadium in Knoxville, Tenn.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-05T08:21:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7zoflnl5fkw/hqdefault.jpg",
-      "duration": "PT2H36M51S",
-      "duration_seconds": 9411,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
-    },
-    {
-      "video_id": "f_F-evhr-Z0",
-      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-05T11:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
-      "duration": "PT11H54M59S",
-      "duration_seconds": 42899,
-      "view_count": 837640,
-      "like_count": 12701,
-      "comment_count": 96,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
-    },
-    {
-      "video_id": "V57shOu084M",
-      "title": "A Season to Blossom",
-      "description": "A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions and her childhood crush helps her rediscover her voice, her roots, and a love worth staying for.",
-      "channel_title": "Hallmark Channel",
-      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
-      "published_at": "2026-04-05T08:02:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V57shOu084M/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=V57shOu084M"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "Overview": {
-        "TotalVideos": 10,
-        "TotalViews": 6287091,
-        "AverageViewsPerVideo": 628709.1,
-        "Categories": "Unknown"
-      },
-      "ContentTrends": {
-        "Genres": [
-          "Sports",
-          "Entertainment",
-          "Gaming",
-          "Film Trailers",
-          "Politics"
-        ],
-        "Observations": [
-          {
-            "Genre": "Sports",
-            "Videos": [
+      "content_trends": {
+        "categories": {
+          "sports": {
+            "videos": [
               "NCAAM Final Four: Michigan vs. Arizona",
-              "Valero Texas Open, Third Round",
-              "America's Day at the Races",
-              "LSU at Tennessee"
-            ],
-            "Insights": "Sports content is dominant, indicating high viewer interest in live sports events and highlights."
-          },
-          {
-            "Genre": "Entertainment",
-            "Videos": [
-              "Dacoit Trailer (Telugu) | Adivi Sesh | Mrunal Thakur | Anurag Kashyap | Shaneil | Apr 10 In Theaters",
               "All Elite Wrestling: Collision",
-              "A Season to Blossom"
+              "College GameDay",
+              "Valero Texas Open, Third Round",
+              "Philadelphia Phillies at Colorado Rockies",
+              "The Fab 5 Altcast: Michigan vs. Arizona"
             ],
-            "Insights": "Film trailers and wrestling are trending, suggesting a demand for diverse entertainment genres."
+            "insights": "Sports-related content dominates the trending list, accounting for 75% of the total videos. This indicates a strong interest in live sports events and commentary, especially college basketball and professional wrestling."
           },
-          {
-            "Genre": "Gaming",
-            "Videos": [
-              "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE"
+          "entertainment": {
+            "videos": [
+              "Dacoit Trailer (Telugu) | Adivi Sesh | Mrunal Thakur | Anurag Kashyap | Shaneil | Apr 10 In Theaters"
             ],
-            "Insights": "Live gaming streams are popular, highlighting the interactive engagement potential."
+            "insights": "The presence of a regional film trailer suggests a growing interest in diverse entertainment content, particularly from non-English speaking regions."
           },
-          {
-            "Genre": "Politics",
-            "Videos": [
+          "politics": {
+            "videos": [
               "My View With Lara Trump"
             ],
-            "Insights": "Political commentary is gaining traction, potentially driven by interest in current affairs."
+            "insights": "Political commentary remains relevant, suggesting a steady audience for politically-themed content."
           }
-        ]
+        },
+        "viewership_patterns": {
+          "total_views": 5948064,
+          "average_views_per_video": 743508,
+          "insights": "The average view count per video indicates a robust engagement level across different content types, with sports likely driving higher viewership due to live event coverage."
+        }
       },
-      "CreatorPatterns": {
-        "Diversity": "Content is produced by a diverse range of channels, each focusing on a different niche.",
-        "TopChannels": [
-          {
-            "Channel": "Annapurna Studios",
-            "Videos": 1,
-            "NotableContent": "Film Trailer"
+      "creator_patterns": {
+        "diversity_of_channels": {
+          "unique_channels": 5,
+          "insights": "The trending list features content from a diverse range of channels, suggesting that audiences are not limited to mainstream media sources and are exploring varied content offerings."
+        },
+        "channel_specifics": {
+          "Annapurna Studios": {
+            "videos": [
+              "Dacoit Trailer (Telugu)"
+            ],
+            "insight": "This channel is tapping into regional cinema markets, highlighting the potential for growth in localized content."
           },
-          {
-            "Channel": "TBS",
-            "Videos": 1,
-            "NotableContent": "Wrestling"
-          },
-          {
-            "Channel": "TNT",
-            "Videos": 1,
-            "NotableContent": "College Sports"
-          },
-          {
-            "Channel": "ESPN",
-            "Videos": 1,
-            "NotableContent": "General Sports"
-          },
-          {
-            "Channel": "Golf Channel",
-            "Videos": 1,
-            "NotableContent": "Golf Tournament"
+          "sports_channels": {
+            "channels": [
+              "TBS",
+              "TNT",
+              "ESPN",
+              "Golf Channel"
+            ],
+            "insight": "These channels are capitalizing on live sports events and related commentary, a consistently trending content area."
           }
-        ],
-        "Insights": "Channels are leveraging niche audiences effectively, creating opportunities for specialized content."
+        }
       },
-      "MarketOpportunities": {
-        "Recommendations": [
-          {
-            "Opportunity": "Expand Sports Content",
-            "Rationale": "Consistent high engagement with sports-related videos suggests potential for new sports formats and coverage."
-          },
-          {
-            "Opportunity": "Diverse Entertainment Offerings",
-            "Rationale": "The mix of film trailers and unique wrestling content indicates a demand for varied entertainment."
-          },
-          {
-            "Opportunity": "Enhance Interactive Gaming",
-            "Rationale": "The popularity of live gaming streams points to opportunities in interactive and community-driven content."
-          },
-          {
-            "Opportunity": "Explore Political Commentary",
-            "Rationale": "Interest in political content suggests potential for diverse opinions and discussions."
-          }
-        ]
+      "market_opportunities": {
+        "regional_content": {
+          "insight": "Expanding content offerings to include more regional and non-English language content could capture untapped audience segments."
+        },
+        "sports_commentary": {
+          "insight": "Investing in sports commentary and alternative broadcasts (e.g., altcasts) can leverage the high engagement seen in sports content."
+        },
+        "political_content": {
+          "insight": "Developing politically themed content with unique perspectives could attract steady viewership, especially during election cycles or major political events."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 628709
+        "avg_views_per_video": 743508
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
