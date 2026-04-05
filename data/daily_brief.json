@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-05T09:21:09.935850",
+  "timestamp": "2026-04-05T12:20:34.358372",
   "date": "2026-04-05",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 4313254,
-      "like_count": 265920,
-      "comment_count": 1117,
+      "view_count": 4996759,
+      "like_count": 284385,
+      "comment_count": 1150,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
     },
     {
-      "video_id": "a-kjpcR5ZZg",
-      "title": "At the Final Four",
-      "description": "Basketball commentators go behind the scenes at the 2026 NCAA Men's Basketball Final Four. From Lucas Oil Stadium in Indianapolis.",
+      "video_id": "OtCPRHFqPxA",
+      "title": "Extended",
+      "description": "Turning the tables on the locker-room dynamic, athletes from all sports pull pranks on their teammates and sports-world friends; the team behind \"Impractical Jokers\" helps them see the prank through from the opening tip-off to the final buzzer.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-04-05T04:35:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a-kjpcR5ZZg/hqdefault.jpg",
-      "duration": "PT58M46S",
-      "duration_seconds": 3526,
+      "published_at": "2026-04-05T10:49:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OtCPRHFqPxA/hqdefault.jpg",
+      "duration": "PT10M26S",
+      "duration_seconds": 626,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=a-kjpcR5ZZg"
+      "url": "https://www.youtube.com/watch?v=OtCPRHFqPxA"
     },
     {
       "video_id": "ETYM9nNu-tc",
@@ -92,13 +92,13 @@
       "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
     },
     {
-      "video_id": "L1DUw-mbIZ0",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "9_Tj_SeUYHk",
+      "title": "My View With Lara Trump",
+      "description": "Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-05T04:19:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L1DUw-mbIZ0/hqdefault.jpg",
+      "published_at": "2026-04-05T09:19:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9_Tj_SeUYHk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -106,7 +106,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L1DUw-mbIZ0"
+      "url": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
     },
     {
       "video_id": "OV739aBXZ6A",
@@ -124,23 +124,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
-    },
-    {
-      "video_id": "lR7t0CXWwq8",
-      "title": "Talk About It",
-      "description": "",
-      "channel_title": "NINEVICIOUS",
-      "channel_id": "UC-QfBKLrg-2D-2QDGwl6JfA",
-      "published_at": "2026-04-04T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lR7t0CXWwq8/hqdefault.jpg",
-      "duration": "PT2M43S",
-      "duration_seconds": 163,
-      "view_count": 66687,
-      "like_count": 11213,
-      "comment_count": 878,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
     },
     {
       "video_id": "7zoflnl5fkw",
@@ -175,6 +158,44 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
+    },
+    {
+      "video_id": "V57shOu084M",
+      "title": "A Season to Blossom",
+      "description": "A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions and her childhood crush helps her rediscover her voice, her roots, and a love worth staying for.",
+      "channel_title": "Hallmark Channel",
+      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
+      "published_at": "2026-04-05T08:02:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V57shOu084M/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=V57shOu084M"
+    },
+    {
+      "video_id": "f_F-evhr-Z0",
+      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-04-05T11:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
+      "duration": "PT11H54M59S",
+      "duration_seconds": 42899,
+      "view_count": 797623,
+      "like_count": 12458,
+      "comment_count": 34,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     }
   ],
   "videos_with_transcripts": [],
@@ -189,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 4313254,
-      "like_count": 265920,
-      "comment_count": 1117,
+      "view_count": 4996759,
+      "like_count": 284385,
+      "comment_count": 1150,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -208,21 +229,21 @@
       "url": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
     },
     {
-      "video_id": "a-kjpcR5ZZg",
-      "title": "At the Final Four",
-      "description": "Basketball commentators go behind the scenes at the 2026 NCAA Men's Basketball Final Four. From Lucas Oil Stadium in Indianapolis.",
+      "video_id": "OtCPRHFqPxA",
+      "title": "Extended",
+      "description": "Turning the tables on the locker-room dynamic, athletes from all sports pull pranks on their teammates and sports-world friends; the team behind \"Impractical Jokers\" helps them see the prank through from the opening tip-off to the final buzzer.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-04-05T04:35:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a-kjpcR5ZZg/hqdefault.jpg",
-      "duration": "PT58M46S",
-      "duration_seconds": 3526,
+      "published_at": "2026-04-05T10:49:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OtCPRHFqPxA/hqdefault.jpg",
+      "duration": "PT10M26S",
+      "duration_seconds": 626,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=a-kjpcR5ZZg"
+      "url": "https://www.youtube.com/watch?v=OtCPRHFqPxA"
     },
     {
       "video_id": "ETYM9nNu-tc",
@@ -259,13 +280,13 @@
       "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
     },
     {
-      "video_id": "L1DUw-mbIZ0",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "9_Tj_SeUYHk",
+      "title": "My View With Lara Trump",
+      "description": "Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-05T04:19:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L1DUw-mbIZ0/hqdefault.jpg",
+      "published_at": "2026-04-05T09:19:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9_Tj_SeUYHk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -273,7 +294,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L1DUw-mbIZ0"
+      "url": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
     },
     {
       "video_id": "OV739aBXZ6A",
@@ -291,23 +312,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
-    },
-    {
-      "video_id": "lR7t0CXWwq8",
-      "title": "Talk About It",
-      "description": "",
-      "channel_title": "NINEVICIOUS",
-      "channel_id": "UC-QfBKLrg-2D-2QDGwl6JfA",
-      "published_at": "2026-04-04T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lR7t0CXWwq8/hqdefault.jpg",
-      "duration": "PT2M43S",
-      "duration_seconds": 163,
-      "view_count": 66687,
-      "like_count": 11213,
-      "comment_count": 878,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
     },
     {
       "video_id": "7zoflnl5fkw",
@@ -342,79 +346,101 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
+    },
+    {
+      "video_id": "V57shOu084M",
+      "title": "A Season to Blossom",
+      "description": "A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions and her childhood crush helps her rediscover her voice, her roots, and a love worth staying for.",
+      "channel_title": "Hallmark Channel",
+      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
+      "published_at": "2026-04-05T08:02:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V57shOu084M/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=V57shOu084M"
+    },
+    {
+      "video_id": "f_F-evhr-Z0",
+      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-04-05T11:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
+      "duration": "PT11H54M59S",
+      "duration_seconds": 42899,
+      "view_count": 797623,
+      "like_count": 12458,
+      "comment_count": 34,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 9,
-        "total_views": 4379941,
-        "average_views_per_video": 486660,
-        "categories": "Unknown"
-      },
-      "trending_patterns": {
-        "language_and_region": {
-          "observations": "The presence of a Telugu movie trailer suggests a strong regional content appeal. This indicates potential for regional and language-specific content to trend."
+      "content_trends": {
+        "diverse_content": {
+          "description": "The trending videos list showcases a diverse range of content types, including trailers, live sports events, political commentary, and live streams.",
+          "insight": "This suggests a broad audience interest in entertainment, sports, and live content. Content creators could potentially tap into these categories to capture a wide audience."
         },
-        "sports_and_events": {
-          "observations": "4 out of 9 videos are related to sports and events (Final Four, College GameDay, Valero Texas Open, LSU at Tennessee). This indicates a trend towards live sports and event coverage as popular content."
-        },
-        "news_and_political_satire": {
-          "observations": "With titles like 'The Big Weekend Show' and 'Real Time With Bill Maher,' there is a clear demand for news and political satire content."
+        "live_content": {
+          "description": "Two of the ten videos are live or related to live events ('America's Day at the Races' and the live stream 'RUST | KING of the KNIGHTS OF THE BUNGUS').",
+          "insight": "Live content continues to gain traction, likely due to its interactive nature and real-time engagement. This trend suggests an opportunity for creators to explore live streaming options or integrate live elements into their content strategies."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "Annapurna Studios",
-            "content_type": "Regional Entertainment",
-            "video_count": 1
-          },
-          {
-            "channel_name": "TBS",
-            "content_type": "Sports/Events",
-            "video_count": 1
-          },
-          {
-            "channel_name": "ESPN",
-            "content_type": "Sports",
-            "video_count": 1
-          },
-          {
-            "channel_name": "Golf Channel",
-            "content_type": "Sports",
-            "video_count": 1
-          },
-          {
-            "channel_name": "FOX News",
-            "content_type": "News",
-            "video_count": 1
-          }
-        ],
-        "channel_strategies": {
-          "regional_focus": "Annapurna Studios capitalizes on regional cinema, which can be a significant draw for local audiences.",
-          "sports_coverage": "Channels like ESPN and Golf Channel focus on live sports coverage, which is a consistent driver of engagement.",
-          "news_entertainment": "Channels like FOX News and HBO's Bill Maher cater to audiences interested in news and political commentary."
+        "top_channels": {
+          "description": "Each of the top channels only has one video in the trending list, indicating a wide distribution of content across different creators.",
+          "insight": "This suggests that no single channel is dominating the trending list, highlighting an opportunity for new and emerging creators to enter the market and potentially trend with unique content."
+        },
+        "cross-category presence": {
+          "description": "Channels like ESPN and FOX News feature traditional media outlets that are leveraging YouTube for digital distribution.",
+          "insight": "Traditional media outlets are increasingly adopting YouTube as a platform to reach digital audiences, implying that digital-native creators need to innovate to remain competitive."
         }
       },
       "market_opportunities": {
-        "regional_content_expansion": "Investing in regional language content could capture niche markets and increase engagement.",
-        "live_event_streaming": "There is a significant opportunity in streaming live sports and events, as evidenced by the number of trending videos in this category.",
-        "news_and_satire": "Expanding into news commentary and political satire could attract a dedicated viewership seeking insightful and entertaining content."
+        "regional_content": {
+          "description": "The presence of a Telugu movie trailer ('Dacoit Trailer') indicates a demand for regional content.",
+          "insight": "Creators can explore regional languages and local cultural themes to cater to specific audience segments, which may be underserved on larger, more generic platforms."
+        },
+        "sports content": {
+          "description": "With videos related to the 'Valero Texas Open', 'College GameDay', and 'LSU at Tennessee', there is a clear interest in sports-related content.",
+          "insight": "There is a significant opportunity for content creators to produce sports-focused content, particularly around live events, analysis, and highlights."
+        },
+        "political commentary": {
+          "description": "Content like 'My View With Lara Trump' and 'Real Time With Bill Maher' suggests an interest in political commentary.",
+          "insight": "This presents an opportunity for creators with expertise in politics to engage audiences through informed commentary and analysis."
+        }
       },
-      "actionable_insights": {
-        "content_diversification": "Content creators should consider diversifying into regional languages and live event coverage to capture broader audiences.",
-        "collaborations": "Collaborating with established channels in trending categories (such as sports and news) can provide leverage and access to their audiences.",
-        "audience_engagement": "Utilizing trending topics, especially in sports and current events, can enhance engagement and viewership."
+      "strategic_recommendations": {
+        "engage_with_live_content": {
+          "action": "Creators should consider incorporating live streaming into their content strategy to increase engagement and capture real-time audience interaction."
+        },
+        "capitalize_on_demand_for_regional_content": {
+          "action": "Explore producing content in regional languages or focus on culturally specific topics to tap into niche audience segments that are growing on YouTube."
+        },
+        "leverage_traditional_media_strategies": {
+          "action": "Digital-native creators can draw inspiration from traditional media strategies, such as scheduled programming and thematic series, to enhance content delivery."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 486660
+        "avg_views_per_video": 579438
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
