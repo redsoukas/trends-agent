@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-05T12:20:34.358372",
+  "timestamp": "2026-04-05T15:15:44.619657",
   "date": "2026-04-05",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 4996759,
-      "like_count": 284385,
-      "comment_count": 1150,
+      "view_count": 5449451,
+      "like_count": 286488,
+      "comment_count": 1187,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -41,21 +41,38 @@
       "url": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
     },
     {
-      "video_id": "OtCPRHFqPxA",
-      "title": "Extended",
-      "description": "Turning the tables on the locker-room dynamic, athletes from all sports pull pranks on their teammates and sports-world friends; the team behind \"Impractical Jokers\" helps them see the prank through from the opening tip-off to the final buzzer.",
+      "video_id": "i3JXHVqWu1A",
+      "title": "NCAAM Final Four: Michigan vs. Arizona",
+      "description": "The Wolverines play the Wildcats in the Final Four of the NCAA Men's Basketball Championship. Arizona returns to the Final Four for the first time since 2001; Michigan makes its first appearance since 2018. Yaxel Lendeborg faces Brayden Burries.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-04-05T10:49:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OtCPRHFqPxA/hqdefault.jpg",
-      "duration": "PT10M26S",
-      "duration_seconds": 626,
+      "published_at": "2026-04-05T13:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i3JXHVqWu1A/hqdefault.jpg",
+      "duration": "PT2H37M20S",
+      "duration_seconds": 9440,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=OtCPRHFqPxA"
+      "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
+    },
+    {
+      "video_id": "LDNs0Mz2ktA",
+      "title": "All Elite Wrestling: Collision",
+      "description": "The Death Riders & Dogs combine forces to face Kevin Knight, Mistico and the Conglomeration. AEW TBS Champion Willow Nightingale issues an open challenge. Jon Moxley faces Anthony Bowens in an AEW Continental Title Eliminator match.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-05T12:09:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
+      "duration": "PT1H35M37S",
+      "duration_seconds": 5737,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
     },
     {
       "video_id": "ETYM9nNu-tc",
@@ -143,21 +160,25 @@
       "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
     },
     {
-      "video_id": "4uYGa1bMhsg",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-05T06:51:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4uYGa1bMhsg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
+      "video_id": "f_F-evhr-Z0",
+      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-04-05T11:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
+      "duration": "PT11H54M59S",
+      "duration_seconds": 42899,
+      "view_count": 837640,
+      "like_count": 12701,
+      "comment_count": 96,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     },
     {
       "video_id": "V57shOu084M",
@@ -175,27 +196,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=V57shOu084M"
-    },
-    {
-      "video_id": "f_F-evhr-Z0",
-      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-05T11:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
-      "duration": "PT11H54M59S",
-      "duration_seconds": 42899,
-      "view_count": 797623,
-      "like_count": 12458,
-      "comment_count": 34,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     }
   ],
   "videos_with_transcripts": [],
@@ -210,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 4996759,
-      "like_count": 284385,
-      "comment_count": 1150,
+      "view_count": 5449451,
+      "like_count": 286488,
+      "comment_count": 1187,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -229,21 +229,38 @@
       "url": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
     },
     {
-      "video_id": "OtCPRHFqPxA",
-      "title": "Extended",
-      "description": "Turning the tables on the locker-room dynamic, athletes from all sports pull pranks on their teammates and sports-world friends; the team behind \"Impractical Jokers\" helps them see the prank through from the opening tip-off to the final buzzer.",
+      "video_id": "i3JXHVqWu1A",
+      "title": "NCAAM Final Four: Michigan vs. Arizona",
+      "description": "The Wolverines play the Wildcats in the Final Four of the NCAA Men's Basketball Championship. Arizona returns to the Final Four for the first time since 2001; Michigan makes its first appearance since 2018. Yaxel Lendeborg faces Brayden Burries.",
       "channel_title": "TBS",
       "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
-      "published_at": "2026-04-05T10:49:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OtCPRHFqPxA/hqdefault.jpg",
-      "duration": "PT10M26S",
-      "duration_seconds": 626,
+      "published_at": "2026-04-05T13:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i3JXHVqWu1A/hqdefault.jpg",
+      "duration": "PT2H37M20S",
+      "duration_seconds": 9440,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=OtCPRHFqPxA"
+      "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
+    },
+    {
+      "video_id": "LDNs0Mz2ktA",
+      "title": "All Elite Wrestling: Collision",
+      "description": "The Death Riders & Dogs combine forces to face Kevin Knight, Mistico and the Conglomeration. AEW TBS Champion Willow Nightingale issues an open challenge. Jon Moxley faces Anthony Bowens in an AEW Continental Title Eliminator match.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-05T12:09:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
+      "duration": "PT1H35M37S",
+      "duration_seconds": 5737,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
     },
     {
       "video_id": "ETYM9nNu-tc",
@@ -331,21 +348,25 @@
       "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
     },
     {
-      "video_id": "4uYGa1bMhsg",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-05T06:51:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4uYGa1bMhsg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
+      "video_id": "f_F-evhr-Z0",
+      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-04-05T11:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
+      "duration": "PT11H54M59S",
+      "duration_seconds": 42899,
+      "view_count": 837640,
+      "like_count": 12701,
+      "comment_count": 96,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     },
     {
       "video_id": "V57shOu084M",
@@ -363,76 +384,111 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=V57shOu084M"
-    },
-    {
-      "video_id": "f_F-evhr-Z0",
-      "title": "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-04-05T11:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f_F-evhr-Z0/hqdefault.jpg",
-      "duration": "PT11H54M59S",
-      "duration_seconds": 42899,
-      "view_count": 797623,
-      "like_count": 12458,
-      "comment_count": 34,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "diverse_content": {
-          "description": "The trending videos list showcases a diverse range of content types, including trailers, live sports events, political commentary, and live streams.",
-          "insight": "This suggests a broad audience interest in entertainment, sports, and live content. Content creators could potentially tap into these categories to capture a wide audience."
-        },
-        "live_content": {
-          "description": "Two of the ten videos are live or related to live events ('America's Day at the Races' and the live stream 'RUST | KING of the KNIGHTS OF THE BUNGUS').",
-          "insight": "Live content continues to gain traction, likely due to its interactive nature and real-time engagement. This trend suggests an opportunity for creators to explore live streaming options or integrate live elements into their content strategies."
-        }
+      "Overview": {
+        "TotalVideos": 10,
+        "TotalViews": 6287091,
+        "AverageViewsPerVideo": 628709.1,
+        "Categories": "Unknown"
       },
-      "creator_patterns": {
-        "top_channels": {
-          "description": "Each of the top channels only has one video in the trending list, indicating a wide distribution of content across different creators.",
-          "insight": "This suggests that no single channel is dominating the trending list, highlighting an opportunity for new and emerging creators to enter the market and potentially trend with unique content."
-        },
-        "cross-category presence": {
-          "description": "Channels like ESPN and FOX News feature traditional media outlets that are leveraging YouTube for digital distribution.",
-          "insight": "Traditional media outlets are increasingly adopting YouTube as a platform to reach digital audiences, implying that digital-native creators need to innovate to remain competitive."
-        }
+      "ContentTrends": {
+        "Genres": [
+          "Sports",
+          "Entertainment",
+          "Gaming",
+          "Film Trailers",
+          "Politics"
+        ],
+        "Observations": [
+          {
+            "Genre": "Sports",
+            "Videos": [
+              "NCAAM Final Four: Michigan vs. Arizona",
+              "Valero Texas Open, Third Round",
+              "America's Day at the Races",
+              "LSU at Tennessee"
+            ],
+            "Insights": "Sports content is dominant, indicating high viewer interest in live sports events and highlights."
+          },
+          {
+            "Genre": "Entertainment",
+            "Videos": [
+              "Dacoit Trailer (Telugu) | Adivi Sesh | Mrunal Thakur | Anurag Kashyap | Shaneil | Apr 10 In Theaters",
+              "All Elite Wrestling: Collision",
+              "A Season to Blossom"
+            ],
+            "Insights": "Film trailers and wrestling are trending, suggesting a demand for diverse entertainment genres."
+          },
+          {
+            "Genre": "Gaming",
+            "Videos": [
+              "🔴LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE"
+            ],
+            "Insights": "Live gaming streams are popular, highlighting the interactive engagement potential."
+          },
+          {
+            "Genre": "Politics",
+            "Videos": [
+              "My View With Lara Trump"
+            ],
+            "Insights": "Political commentary is gaining traction, potentially driven by interest in current affairs."
+          }
+        ]
       },
-      "market_opportunities": {
-        "regional_content": {
-          "description": "The presence of a Telugu movie trailer ('Dacoit Trailer') indicates a demand for regional content.",
-          "insight": "Creators can explore regional languages and local cultural themes to cater to specific audience segments, which may be underserved on larger, more generic platforms."
-        },
-        "sports content": {
-          "description": "With videos related to the 'Valero Texas Open', 'College GameDay', and 'LSU at Tennessee', there is a clear interest in sports-related content.",
-          "insight": "There is a significant opportunity for content creators to produce sports-focused content, particularly around live events, analysis, and highlights."
-        },
-        "political commentary": {
-          "description": "Content like 'My View With Lara Trump' and 'Real Time With Bill Maher' suggests an interest in political commentary.",
-          "insight": "This presents an opportunity for creators with expertise in politics to engage audiences through informed commentary and analysis."
-        }
+      "CreatorPatterns": {
+        "Diversity": "Content is produced by a diverse range of channels, each focusing on a different niche.",
+        "TopChannels": [
+          {
+            "Channel": "Annapurna Studios",
+            "Videos": 1,
+            "NotableContent": "Film Trailer"
+          },
+          {
+            "Channel": "TBS",
+            "Videos": 1,
+            "NotableContent": "Wrestling"
+          },
+          {
+            "Channel": "TNT",
+            "Videos": 1,
+            "NotableContent": "College Sports"
+          },
+          {
+            "Channel": "ESPN",
+            "Videos": 1,
+            "NotableContent": "General Sports"
+          },
+          {
+            "Channel": "Golf Channel",
+            "Videos": 1,
+            "NotableContent": "Golf Tournament"
+          }
+        ],
+        "Insights": "Channels are leveraging niche audiences effectively, creating opportunities for specialized content."
       },
-      "strategic_recommendations": {
-        "engage_with_live_content": {
-          "action": "Creators should consider incorporating live streaming into their content strategy to increase engagement and capture real-time audience interaction."
-        },
-        "capitalize_on_demand_for_regional_content": {
-          "action": "Explore producing content in regional languages or focus on culturally specific topics to tap into niche audience segments that are growing on YouTube."
-        },
-        "leverage_traditional_media_strategies": {
-          "action": "Digital-native creators can draw inspiration from traditional media strategies, such as scheduled programming and thematic series, to enhance content delivery."
-        }
+      "MarketOpportunities": {
+        "Recommendations": [
+          {
+            "Opportunity": "Expand Sports Content",
+            "Rationale": "Consistent high engagement with sports-related videos suggests potential for new sports formats and coverage."
+          },
+          {
+            "Opportunity": "Diverse Entertainment Offerings",
+            "Rationale": "The mix of film trailers and unique wrestling content indicates a demand for varied entertainment."
+          },
+          {
+            "Opportunity": "Enhance Interactive Gaming",
+            "Rationale": "The popularity of live gaming streams points to opportunities in interactive and community-driven content."
+          },
+          {
+            "Opportunity": "Explore Political Commentary",
+            "Rationale": "Interest in political content suggests potential for diverse opinions and discussions."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -440,7 +496,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 579438
+        "avg_views_per_video": 628709
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
