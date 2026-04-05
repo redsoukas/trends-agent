@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-05T06:35:35.205425",
+  "timestamp": "2026-04-05T09:21:09.935850",
   "date": "2026-04-05",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 3433530,
-      "like_count": 231698,
-      "comment_count": 1067,
+      "view_count": 4313254,
+      "like_count": 265920,
+      "comment_count": 1117,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -75,6 +75,23 @@
       "url": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
     },
     {
+      "video_id": "5IkhthvsemQ",
+      "title": "Valero Texas Open, Third Round",
+      "description": "From TPC San Antonio in San Antonio.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-05T05:47:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5IkhthvsemQ/hqdefault.jpg",
+      "duration": "PT4H30M56S",
+      "duration_seconds": 16256,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
+    },
+    {
       "video_id": "L1DUw-mbIZ0",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
@@ -109,30 +126,6 @@
       "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
     },
     {
-      "video_id": "aamoxof1uyQ",
-      "title": "Fill Them With Fear: Hero Balloon Coming Soon!",
-      "description": "Pressure is rising, and the Arena is at its breaking point. A new hero arrives soon.\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock",
-      "channel_title": "Clash Royale",
-      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
-      "published_at": "2026-04-04T14:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aamoxof1uyQ/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 1780137,
-      "like_count": 67067,
-      "comment_count": 2114,
-      "category_id": "20",
-      "tags": [
-        "Clash Royale",
-        "Clash Royale Game",
-        "Supercell",
-        "Supercell Game",
-        "Clash Royale Supercell",
-        "Mobile Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=aamoxof1uyQ"
-    },
-    {
       "video_id": "lR7t0CXWwq8",
       "title": "Talk About It",
       "description": "",
@@ -142,29 +135,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lR7t0CXWwq8/hqdefault.jpg",
       "duration": "PT2M43S",
       "duration_seconds": 163,
-      "view_count": 59183,
-      "like_count": 10563,
-      "comment_count": 854,
+      "view_count": 66687,
+      "like_count": 11213,
+      "comment_count": 878,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
     },
     {
-      "video_id": "qEhqcB_vZJ0",
-      "title": "Alex Witt Reports",
-      "description": "The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-05T03:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qEhqcB_vZJ0/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
+      "video_id": "7zoflnl5fkw",
+      "title": "LSU at Tennessee",
+      "description": "From Lindsey Nelson Stadium in Knoxville, Tenn.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-05T08:21:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zoflnl5fkw/hqdefault.jpg",
+      "duration": "PT2H36M51S",
+      "duration_seconds": 9411,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=qEhqcB_vZJ0"
+      "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
+    },
+    {
+      "video_id": "4uYGa1bMhsg",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-05T06:51:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4uYGa1bMhsg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
     }
   ],
   "videos_with_transcripts": [],
@@ -179,9 +189,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8Y_D7-GCcxY/hqdefault.jpg",
       "duration": "PT2M24S",
       "duration_seconds": 144,
-      "view_count": 3433530,
-      "like_count": 231698,
-      "comment_count": 1067,
+      "view_count": 4313254,
+      "like_count": 265920,
+      "comment_count": 1117,
       "category_id": "24",
       "tags": [
         "Dacoit Trailer Telugu",
@@ -232,6 +242,23 @@
       "url": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
     },
     {
+      "video_id": "5IkhthvsemQ",
+      "title": "Valero Texas Open, Third Round",
+      "description": "From TPC San Antonio in San Antonio.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-05T05:47:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5IkhthvsemQ/hqdefault.jpg",
+      "duration": "PT4H30M56S",
+      "duration_seconds": 16256,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
+    },
+    {
       "video_id": "L1DUw-mbIZ0",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
@@ -266,30 +293,6 @@
       "url": "https://www.youtube.com/watch?v=OV739aBXZ6A"
     },
     {
-      "video_id": "aamoxof1uyQ",
-      "title": "Fill Them With Fear: Hero Balloon Coming Soon!",
-      "description": "Pressure is rising, and the Arena is at its breaking point. A new hero arrives soon.\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock",
-      "channel_title": "Clash Royale",
-      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
-      "published_at": "2026-04-04T14:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aamoxof1uyQ/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 1780137,
-      "like_count": 67067,
-      "comment_count": 2114,
-      "category_id": "20",
-      "tags": [
-        "Clash Royale",
-        "Clash Royale Game",
-        "Supercell",
-        "Supercell Game",
-        "Clash Royale Supercell",
-        "Mobile Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=aamoxof1uyQ"
-    },
-    {
       "video_id": "lR7t0CXWwq8",
       "title": "Talk About It",
       "description": "",
@@ -299,126 +302,119 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lR7t0CXWwq8/hqdefault.jpg",
       "duration": "PT2M43S",
       "duration_seconds": 163,
-      "view_count": 59183,
-      "like_count": 10563,
-      "comment_count": 854,
+      "view_count": 66687,
+      "like_count": 11213,
+      "comment_count": 878,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
     },
     {
-      "video_id": "qEhqcB_vZJ0",
-      "title": "Alex Witt Reports",
-      "description": "The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-05T03:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qEhqcB_vZJ0/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
+      "video_id": "7zoflnl5fkw",
+      "title": "LSU at Tennessee",
+      "description": "From Lindsey Nelson Stadium in Knoxville, Tenn.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-05T08:21:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zoflnl5fkw/hqdefault.jpg",
+      "duration": "PT2H36M51S",
+      "duration_seconds": 9411,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=qEhqcB_vZJ0"
+      "url": "https://www.youtube.com/watch?v=7zoflnl5fkw"
+    },
+    {
+      "video_id": "4uYGa1bMhsg",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-05T06:51:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4uYGa1bMhsg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 8,
-        "totalViews": 5272850,
-        "averageViewsPerVideo": 659106
+        "total_videos": 9,
+        "total_views": 4379941,
+        "average_views_per_video": 486660,
+        "categories": "Unknown"
       },
-      "contentTrends": {
-        "emergingGenres": [
-          "Sports",
-          "Entertainment",
-          "News"
+      "trending_patterns": {
+        "language_and_region": {
+          "observations": "The presence of a Telugu movie trailer suggests a strong regional content appeal. This indicates potential for regional and language-specific content to trend."
+        },
+        "sports_and_events": {
+          "observations": "4 out of 9 videos are related to sports and events (Final Four, College GameDay, Valero Texas Open, LSU at Tennessee). This indicates a trend towards live sports and event coverage as popular content."
+        },
+        "news_and_political_satire": {
+          "observations": "With titles like 'The Big Weekend Show' and 'Real Time With Bill Maher,' there is a clear demand for news and political satire content."
+        }
+      },
+      "creator_patterns": {
+        "top_channels": [
+          {
+            "channel_name": "Annapurna Studios",
+            "content_type": "Regional Entertainment",
+            "video_count": 1
+          },
+          {
+            "channel_name": "TBS",
+            "content_type": "Sports/Events",
+            "video_count": 1
+          },
+          {
+            "channel_name": "ESPN",
+            "content_type": "Sports",
+            "video_count": 1
+          },
+          {
+            "channel_name": "Golf Channel",
+            "content_type": "Sports",
+            "video_count": 1
+          },
+          {
+            "channel_name": "FOX News",
+            "content_type": "News",
+            "video_count": 1
+          }
         ],
-        "videoTitlesAnalysis": {
-          "entertainmentFocus": [
-            "Dacoit Trailer (Telugu)"
-          ],
-          "sportsFocus": [
-            "At the Final Four",
-            "College GameDay",
-            "America's Day at the Races"
-          ],
-          "newsFocus": [
-            "Alex Witt Reports",
-            "The Big Weekend Show"
-          ],
-          "uniqueContent": [
-            "Fill Them With Fear: Hero Balloon Coming Soon!",
-            "Talk About It"
-          ]
+        "channel_strategies": {
+          "regional_focus": "Annapurna Studios capitalizes on regional cinema, which can be a significant draw for local audiences.",
+          "sports_coverage": "Channels like ESPN and Golf Channel focus on live sports coverage, which is a consistent driver of engagement.",
+          "news_entertainment": "Channels like FOX News and HBO's Bill Maher cater to audiences interested in news and political commentary."
         }
       },
-      "creatorPatterns": {
-        "leadingChannels": {
-          "Annapurna Studios": {
-            "genre": "Entertainment",
-            "videoCount": 1,
-            "potentialReach": "High due to niche Telugu content"
-          },
-          "TBS": {
-            "genre": "Entertainment/Variety",
-            "videoCount": 1
-          },
-          "ESPN": {
-            "genre": "Sports",
-            "videoCount": 1
-          },
-          "FOX News": {
-            "genre": "News",
-            "videoCount": 1
-          },
-          "FS1": {
-            "genre": "Sports",
-            "videoCount": 1
-          }
-        }
+      "market_opportunities": {
+        "regional_content_expansion": "Investing in regional language content could capture niche markets and increase engagement.",
+        "live_event_streaming": "There is a significant opportunity in streaming live sports and events, as evidenced by the number of trending videos in this category.",
+        "news_and_satire": "Expanding into news commentary and political satire could attract a dedicated viewership seeking insightful and entertaining content."
       },
-      "marketOpportunities": {
-        "regionalContent": {
-          "opportunity": "High",
-          "insight": "Telugu content like 'Dacoit Trailer' indicates growing interest in regional cinema, suggesting opportunities for other regional language trailers and films."
-        },
-        "sportsContent": {
-          "opportunity": "Moderate",
-          "insight": "Multiple sports-related videos suggest a steady interest; potential for live coverage, sports analysis, and exclusive behind-the-scenes content."
-        },
-        "newsContent": {
-          "opportunity": "Moderate",
-          "insight": "Consistent presence of news channels like FOX News indicates a stable demand for news updates and commentary."
-        }
-      },
-      "actionableInsights": {
-        "diversificationStrategies": [
-          {
-            "strategy": "Invest in Regional Trailers",
-            "reason": "Capture the growing audience for regional content."
-          },
-          {
-            "strategy": "Enhance Sports Coverage",
-            "reason": "Capitalize on sporting event seasons and associated content demand."
-          },
-          {
-            "strategy": "Expand News Commentary",
-            "reason": "Meet the consistent demand for news and political analysis."
-          }
-        ]
+      "actionable_insights": {
+        "content_diversification": "Content creators should consider diversifying into regional languages and live event coverage to capture broader audiences.",
+        "collaborations": "Collaborating with established channels in trending categories (such as sports and news) can provide leverage and access to their audiences.",
+        "audience_engagement": "Utilizing trending topics, especially in sports and current events, can enhance engagement and viewership."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 659106
+        "avg_views_per_video": 486660
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
