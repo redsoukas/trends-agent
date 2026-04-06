@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-06T06:49:45.570189",
+  "timestamp": "2026-04-06T09:38:17.905763",
   "date": "2026-04-06",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 2,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -47,13 +47,98 @@
       "url": "https://www.youtube.com/watch?v=HNoJgeWhigo"
     },
     {
-      "video_id": "BOrSSfpFO6E",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "g8zCAXH4K0I",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-06T04:57:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BOrSSfpFO6E/hqdefault.jpg",
+      "published_at": "2026-04-06T08:17:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g8zCAXH4K0I/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=g8zCAXH4K0I"
+    },
+    {
+      "video_id": "oswsuxnzEfM",
+      "title": "Washington Capitals at New York Rangers",
+      "description": "The Washington Capitals travel to face the New York Rangers at Madison Square Garden. Washington leads the 2025-26 season series 2-1 heading into this final meeting. The Rangers' Mika Zibanejad leads the team in points, goals, and assists.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-06T08:36:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oswsuxnzEfM/hqdefault.jpg",
+      "duration": "PT2H46M20S",
+      "duration_seconds": 9980,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=oswsuxnzEfM"
+    },
+    {
+      "video_id": "MX_dZottp7Y",
+      "title": "Boston Bruins at Philadelphia Flyers",
+      "description": "The Boston Bruins face off against the Philadelphia Flyers at the Xfinity Mobile Arena. This matchup marks the final meeting of the 2025-26 regular season between these Eastern Conference rivals. The season series is currently tied 1-1.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-06T07:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MX_dZottp7Y/hqdefault.jpg",
+      "duration": "PT2H48M51S",
+      "duration_seconds": 10131,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MX_dZottp7Y"
+    },
+    {
+      "video_id": "gjbQuxe99IM",
+      "title": "Birmingham Stallions at Houston Gamblers",
+      "description": "A momentous Easter Day clash takes place at the Shell Energy Stadium as the Gamblers host the Stallions. Houston looks to bounce back from their recent week 1 loss as they face the Stallions who are coming off a recent narrow road win.",
+      "channel_title": "NFL Network",
+      "channel_id": "UCNp8TLrPZ6VB52E6tjqgu7w",
+      "published_at": "2026-04-06T08:35:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gjbQuxe99IM/hqdefault.jpg",
+      "duration": "PT3H12M56S",
+      "duration_seconds": 11576,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gjbQuxe99IM"
+    },
+    {
+      "video_id": "vNS4wUvH8Wg",
+      "title": "The Weekend: Primetime",
+      "description": "Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-06T08:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vNS4wUvH8Wg/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vNS4wUvH8Wg"
+    },
+    {
+      "video_id": "XdjVhuu2CMs",
+      "title": "Steel Magnolia",
+      "description": "After finishing a 10-month reno on their forever home, a couple enlist Ben and Erin to help finish their backyard; they want to include a pool for their son, but they drop a late twist that could change everything.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-06T08:39:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XdjVhuu2CMs/hqdefault.jpg",
       "duration": "PT1H1M6S",
       "duration_seconds": 3666,
       "view_count": 0,
@@ -61,69 +146,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=BOrSSfpFO6E"
+      "url": "https://www.youtube.com/watch?v=XdjVhuu2CMs"
     },
     {
-      "video_id": "BjV2flSNUu0",
-      "title": "College Slam Dunk & 3-Point Championships",
-      "description": "From Hinkle Fieldhouse in Indianapolis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-05T23:51:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BjV2flSNUu0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "OUzrYv-8PLk",
+      "title": "Philadelphia Phillies at Colorado Rockies",
+      "description": "From Coors Field in Denver.",
+      "channel_title": "NBC Sports Philadelphia Plus",
+      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
+      "published_at": "2026-04-06T07:04:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OUzrYv-8PLk/hqdefault.jpg",
+      "duration": "PT2H33M25S",
+      "duration_seconds": 9205,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
-    },
-    {
-      "video_id": "MQWzPY36rzI",
-      "title": "R. Kelly - It Seems Like You’re Ready",
-      "description": "R. Kelly - It Seems Like You’re Ready\n Stream/Download:\n\n(Lyrics):\n[Intro]\nUh, what's up, baby?\nCome here, I wanna taste you\nBut I know you're gonna like it\nSo, are you ready?\nI love the way your body feels next to mine\nListen, let me explain\n\n[Verse 1]\nTemperature's rising\nAnd your body's yearning for me, oh, baby\nGirl, lay it on me, I place no one above thee\nOh, take me to your ecstasy\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? All the way\nIt seems like you're ready (seems like you're ready)\nSeems like you're ready\nGirl, are you ready to go all the way? All the way\n\n[Verse 2]\nI can smell your perfume\nStep into my bedroom, let me love you constantly (come here, baby)\nOh, oh, your body is my playground, let me lick you up and down\nMake you feel like a woman should\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? Girl, all the wa",
-      "channel_title": "RapHype",
-      "channel_id": "UCQMm1V0QcvgZoNbsekq1Rbg",
-      "published_at": "2026-03-30T23:08:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
-      "duration": "PT5M39S",
-      "duration_seconds": 339,
-      "view_count": 33522,
-      "like_count": 599,
-      "comment_count": 8,
-      "category_id": "22",
-      "tags": [
-        "It Seems Like You’re Ready Lyrics",
-        "R. Kelly It Seems Like You’re Ready",
-        "It Seems Like You’re Ready R. Kelly",
-        "It seems like you're ready",
-        "Seems like you're ready",
-        "Girl are you ready to go all the way? All the way",
-        "R. Kelly It Seems Like You’re Ready Lyrics",
-        "It Seems Like You’re Ready R. Kelly Lyrics",
-        "R. Kelly Lyrics It Seems Like You’re Ready",
-        "It Seems Like You’re Ready Lyrics R. Kelly"
-      ],
-      "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
-    },
-    {
-      "video_id": "f0KaA-rw19k",
-      "title": "Minnesota Wild at Detroit Red Wings",
-      "description": "The Minnesota Wild play the Detroit Red Wings at Little Caesars Arena in Detroit. This is the second and final regular-season meeting between the teams, with the Wild seeking a season sweep. The teams last met in January, where the Wild won 4-3.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-04-06T04:13:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f0KaA-rw19k/hqdefault.jpg",
-      "duration": "PT2H45M31S",
-      "duration_seconds": 9931,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=f0KaA-rw19k"
+      "url": "https://www.youtube.com/watch?v=OUzrYv-8PLk"
     },
     {
       "video_id": "o8BXYNEb5sA",
@@ -141,59 +181,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
-    },
-    {
-      "video_id": "yUH3HTWjw6k",
-      "title": "Ben-Hur",
-      "description": "An enslaved Judean prince (Charlton Heston) meets his Roman betrayer (Stephen Boyd), a former friend, in a chariot race.",
-      "channel_title": "Turner Classic Movies",
-      "channel_id": "UCWkkY4JJBkGZtFae6kkUbSw",
-      "published_at": "2026-04-06T02:59:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yUH3HTWjw6k/hqdefault.jpg",
-      "duration": "PT3H46M50S",
-      "duration_seconds": 13610,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
-    },
-    {
-      "video_id": "JIgfTJXfVxw",
-      "title": "Ferris Bueller's Day Off",
-      "description": "A cool teen (Matthew Broderick) plays hooky in Chicago with his girlfriend (Mia Sara), his buddy (Alan Ruck) and the classic Ferrari of his buddy's father.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-04-06T05:54:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JIgfTJXfVxw/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=JIgfTJXfVxw"
-    },
-    {
-      "video_id": "CKv9XbO0VKM",
-      "title": "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56",
-      "description": "Happy Easter everyone! While everyone is off hunting for easter eggs, I'm hunting for a Divisional W! Then after I'm hunting for a 5'3 Latina with a BBL to spend the holiday with TRUEEEEUEUE\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-04-05T22:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CKv9XbO0VKM/hqdefault.jpg",
-      "duration": "PT30M29S",
-      "duration_seconds": 1829,
-      "view_count": 155203,
-      "like_count": 9104,
-      "comment_count": 472,
-      "category_id": "17",
-      "tags": [
-        "mmg"
-      ],
-      "url": "https://www.youtube.com/watch?v=CKv9XbO0VKM"
     }
   ],
   "videos_with_transcripts": [],
@@ -233,13 +220,98 @@
       "url": "https://www.youtube.com/watch?v=HNoJgeWhigo"
     },
     {
-      "video_id": "BOrSSfpFO6E",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "g8zCAXH4K0I",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-06T04:57:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BOrSSfpFO6E/hqdefault.jpg",
+      "published_at": "2026-04-06T08:17:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g8zCAXH4K0I/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=g8zCAXH4K0I"
+    },
+    {
+      "video_id": "oswsuxnzEfM",
+      "title": "Washington Capitals at New York Rangers",
+      "description": "The Washington Capitals travel to face the New York Rangers at Madison Square Garden. Washington leads the 2025-26 season series 2-1 heading into this final meeting. The Rangers' Mika Zibanejad leads the team in points, goals, and assists.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-06T08:36:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oswsuxnzEfM/hqdefault.jpg",
+      "duration": "PT2H46M20S",
+      "duration_seconds": 9980,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=oswsuxnzEfM"
+    },
+    {
+      "video_id": "MX_dZottp7Y",
+      "title": "Boston Bruins at Philadelphia Flyers",
+      "description": "The Boston Bruins face off against the Philadelphia Flyers at the Xfinity Mobile Arena. This matchup marks the final meeting of the 2025-26 regular season between these Eastern Conference rivals. The season series is currently tied 1-1.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-06T07:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MX_dZottp7Y/hqdefault.jpg",
+      "duration": "PT2H48M51S",
+      "duration_seconds": 10131,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MX_dZottp7Y"
+    },
+    {
+      "video_id": "gjbQuxe99IM",
+      "title": "Birmingham Stallions at Houston Gamblers",
+      "description": "A momentous Easter Day clash takes place at the Shell Energy Stadium as the Gamblers host the Stallions. Houston looks to bounce back from their recent week 1 loss as they face the Stallions who are coming off a recent narrow road win.",
+      "channel_title": "NFL Network",
+      "channel_id": "UCNp8TLrPZ6VB52E6tjqgu7w",
+      "published_at": "2026-04-06T08:35:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gjbQuxe99IM/hqdefault.jpg",
+      "duration": "PT3H12M56S",
+      "duration_seconds": 11576,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gjbQuxe99IM"
+    },
+    {
+      "video_id": "vNS4wUvH8Wg",
+      "title": "The Weekend: Primetime",
+      "description": "Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-06T08:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vNS4wUvH8Wg/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vNS4wUvH8Wg"
+    },
+    {
+      "video_id": "XdjVhuu2CMs",
+      "title": "Steel Magnolia",
+      "description": "After finishing a 10-month reno on their forever home, a couple enlist Ben and Erin to help finish their backyard; they want to include a pool for their son, but they drop a late twist that could change everything.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-06T08:39:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XdjVhuu2CMs/hqdefault.jpg",
       "duration": "PT1H1M6S",
       "duration_seconds": 3666,
       "view_count": 0,
@@ -247,69 +319,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=BOrSSfpFO6E"
+      "url": "https://www.youtube.com/watch?v=XdjVhuu2CMs"
     },
     {
-      "video_id": "BjV2flSNUu0",
-      "title": "College Slam Dunk & 3-Point Championships",
-      "description": "From Hinkle Fieldhouse in Indianapolis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-05T23:51:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BjV2flSNUu0/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "OUzrYv-8PLk",
+      "title": "Philadelphia Phillies at Colorado Rockies",
+      "description": "From Coors Field in Denver.",
+      "channel_title": "NBC Sports Philadelphia Plus",
+      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
+      "published_at": "2026-04-06T07:04:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OUzrYv-8PLk/hqdefault.jpg",
+      "duration": "PT2H33M25S",
+      "duration_seconds": 9205,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
-    },
-    {
-      "video_id": "MQWzPY36rzI",
-      "title": "R. Kelly - It Seems Like You’re Ready",
-      "description": "R. Kelly - It Seems Like You’re Ready\n Stream/Download:\n\n(Lyrics):\n[Intro]\nUh, what's up, baby?\nCome here, I wanna taste you\nBut I know you're gonna like it\nSo, are you ready?\nI love the way your body feels next to mine\nListen, let me explain\n\n[Verse 1]\nTemperature's rising\nAnd your body's yearning for me, oh, baby\nGirl, lay it on me, I place no one above thee\nOh, take me to your ecstasy\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? All the way\nIt seems like you're ready (seems like you're ready)\nSeems like you're ready\nGirl, are you ready to go all the way? All the way\n\n[Verse 2]\nI can smell your perfume\nStep into my bedroom, let me love you constantly (come here, baby)\nOh, oh, your body is my playground, let me lick you up and down\nMake you feel like a woman should\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? Girl, all the wa",
-      "channel_title": "RapHype",
-      "channel_id": "UCQMm1V0QcvgZoNbsekq1Rbg",
-      "published_at": "2026-03-30T23:08:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
-      "duration": "PT5M39S",
-      "duration_seconds": 339,
-      "view_count": 33522,
-      "like_count": 599,
-      "comment_count": 8,
-      "category_id": "22",
-      "tags": [
-        "It Seems Like You’re Ready Lyrics",
-        "R. Kelly It Seems Like You’re Ready",
-        "It Seems Like You’re Ready R. Kelly",
-        "It seems like you're ready",
-        "Seems like you're ready",
-        "Girl are you ready to go all the way? All the way",
-        "R. Kelly It Seems Like You’re Ready Lyrics",
-        "It Seems Like You’re Ready R. Kelly Lyrics",
-        "R. Kelly Lyrics It Seems Like You’re Ready",
-        "It Seems Like You’re Ready Lyrics R. Kelly"
-      ],
-      "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
-    },
-    {
-      "video_id": "f0KaA-rw19k",
-      "title": "Minnesota Wild at Detroit Red Wings",
-      "description": "The Minnesota Wild play the Detroit Red Wings at Little Caesars Arena in Detroit. This is the second and final regular-season meeting between the teams, with the Wild seeking a season sweep. The teams last met in January, where the Wild won 4-3.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-04-06T04:13:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f0KaA-rw19k/hqdefault.jpg",
-      "duration": "PT2H45M31S",
-      "duration_seconds": 9931,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=f0KaA-rw19k"
+      "url": "https://www.youtube.com/watch?v=OUzrYv-8PLk"
     },
     {
       "video_id": "o8BXYNEb5sA",
@@ -327,137 +354,93 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
-    },
-    {
-      "video_id": "yUH3HTWjw6k",
-      "title": "Ben-Hur",
-      "description": "An enslaved Judean prince (Charlton Heston) meets his Roman betrayer (Stephen Boyd), a former friend, in a chariot race.",
-      "channel_title": "Turner Classic Movies",
-      "channel_id": "UCWkkY4JJBkGZtFae6kkUbSw",
-      "published_at": "2026-04-06T02:59:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yUH3HTWjw6k/hqdefault.jpg",
-      "duration": "PT3H46M50S",
-      "duration_seconds": 13610,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
-    },
-    {
-      "video_id": "JIgfTJXfVxw",
-      "title": "Ferris Bueller's Day Off",
-      "description": "A cool teen (Matthew Broderick) plays hooky in Chicago with his girlfriend (Mia Sara), his buddy (Alan Ruck) and the classic Ferrari of his buddy's father.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-04-06T05:54:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JIgfTJXfVxw/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=JIgfTJXfVxw"
-    },
-    {
-      "video_id": "CKv9XbO0VKM",
-      "title": "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56",
-      "description": "Happy Easter everyone! While everyone is off hunting for easter eggs, I'm hunting for a Divisional W! Then after I'm hunting for a 5'3 Latina with a BBL to spend the holiday with TRUEEEEUEUE\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-04-05T22:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CKv9XbO0VKM/hqdefault.jpg",
-      "duration": "PT30M29S",
-      "duration_seconds": 1829,
-      "view_count": 155203,
-      "like_count": 9104,
-      "comment_count": 472,
-      "category_id": "17",
-      "tags": [
-        "mmg"
-      ],
-      "url": "https://www.youtube.com/watch?v=CKv9XbO0VKM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "insights": {
-        "content_trends": {
-          "sports_focus": {
-            "description": "A significant portion of trending videos are focused on sports, including college basketball, golf, hockey, and a unique playoff game.",
-            "evidence": [
-              "NCAAM Final Four: Michigan vs. Arizona",
-              "Valero Texas Open, Final Round",
-              "College Slam Dunk & 3-Point Championships",
-              "Minnesota Wild at Detroit Red Wings",
-              "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56"
-            ],
-            "actionable_insights": [
-              "Increase content production in sports-related videos, especially live events and highlight reels, as these are trending.",
-              "Consider collaboration opportunities with sports channels and influencers to tap into this audience."
-            ]
-          },
-          "nostalgia_and_classics": {
-            "description": "Classic movies and music are also part of the trending content, suggesting a demand for nostalgic content.",
-            "evidence": [
-              "Ben-Hur",
-              "Ferris Bueller's Day Off",
-              "R. Kelly - It Seems Like You’re Ready"
-            ],
-            "actionable_insights": [
-              "Create content that revolves around classic movies and music to engage with audiences who have an interest in nostalgia.",
-              "Explore partnerships with film and music channels that focus on classic and retro content."
-            ]
-          },
-          "news_and_current_affairs": {
-            "description": "Current affairs and news content remain relevant, indicating a continuous demand for news updates.",
-            "evidence": [
-              "CNN Newsroom"
-            ],
-            "actionable_insights": [
-              "Develop a series of news-related content that provides quick updates and insights into current events.",
-              "Leverage SEO with trending news topics to increase discoverability."
-            ]
-          }
+      "trending_patterns_analysis": {
+        "sports_dominance": {
+          "description": "The majority of the trending videos are sports-related, indicating a strong audience interest in live sports events.",
+          "percentage_of_sports_videos": 60,
+          "insights": [
+            {
+              "trend": "Live Sports Events",
+              "opportunity": "Increase coverage and analysis of trending live sports events to capture audience interest."
+            }
+          ]
         },
-        "creator_patterns": {
-          "diverse_channels": {
-            "description": "Trending videos are spread across various channels, each contributing a single video.",
-            "evidence": [
-              "TBS",
-              "Golf Channel",
-              "FOX News",
-              "ESPN",
-              "RapHype"
-            ],
-            "actionable_insights": [
-              "Opportunity for new creators to enter the trending space by focusing on niche content.",
-              "Identify gaps in content categories not covered by these channels and create content to fill those gaps."
-            ]
-          }
+        "news_and_media_presence": {
+          "description": "News channels such as FOX News and CNN have a presence in the trending list, highlighting the ongoing demand for news content.",
+          "percentage_of_news_videos": 20,
+          "insights": [
+            {
+              "trend": "Current Events",
+              "opportunity": "Create timely content around major news events to engage viewers seeking updates."
+            }
+          ]
         },
-        "market_opportunities": {
-          "sports_and_gaming_intersection": {
-            "description": "The intersection of sports and gaming is an emerging trend, as seen in the 'Wheel of MUT' video.",
-            "evidence": [
-              "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56"
-            ],
-            "actionable_insights": [
-              "Develop content that merges sports and gaming, such as creating esports tournaments or sports-themed gaming content.",
-              "Collaborate with sports gaming influencers to reach a broader audience."
-            ]
+        "entertainment_and_variety": {
+          "description": "There is a representation of entertainment content, indicating a diverse audience interest beyond sports and news.",
+          "percentage_of_entertainment_videos": 20,
+          "insights": [
+            {
+              "trend": "Diverse Content",
+              "opportunity": "Expand content offerings to include more entertainment and variety shows to cater to a broader audience."
+            }
+          ]
+        }
+      },
+      "creator_patterns_analysis": {
+        "top_channels": {
+          "TBS": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Channels focusing on sports have a higher likelihood of trending. Collaborations with sports networks can enhance visibility."
           },
-          "underexplored_categories": {
-            "description": "Categories like technology, lifestyle, and education are underrepresented in the current trending videos.",
-            "actionable_insights": [
-              "Explore and produce content in these underrepresented categories to tap into unmet audience needs.",
-              "Utilize analytics to identify trending topics within these categories and create content around them."
-            ]
+          "Golf Channel": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Niche sports channels also have potential for trending, especially during major sporting events."
+          },
+          "FOX News": {
+            "video_count": 1,
+            "category": "News",
+            "insight": "Established news channels maintain a consistent viewer base, suggesting reliability in delivering trending content."
+          },
+          "ESPN": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Major sports networks can leverage their brand to consistently feature in trending lists."
+          },
+          "TNT": {
+            "video_count": 1,
+            "category": "Sports",
+            "insight": "Collaborations and special features with larger sports networks can create trending opportunities."
           }
+        }
+      },
+      "market_opportunities": {
+        "sports_content_expansion": {
+          "description": "Given the dominance of sports content, there is a market opportunity to expand sports coverage, including behind-the-scenes content, athlete interviews, and pre/post-event analyses.",
+          "actions": [
+            "Develop partnerships with sports leagues for exclusive content.",
+            "Create interactive sports content such as polls and live Q&A sessions."
+          ]
+        },
+        "news_and_analysis": {
+          "description": "With news channels trending, there is an opportunity to provide in-depth analysis and commentary on major news stories.",
+          "actions": [
+            "Offer expert opinion segments to supplement news coverage.",
+            "Produce localized news content to engage regional audiences."
+          ]
+        },
+        "diversified_content_strategy": {
+          "description": "To appeal to a wider audience, diversify content offerings to include entertainment, lifestyle, and variety shows.",
+          "actions": [
+            "Experiment with different content formats such as podcasts and short-form series.",
+            "Leverage collaborations with influencers in entertainment to reach niche audiences."
+          ]
         }
       },
       "metadata_stats": {
@@ -466,7 +449,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 18872
+        "avg_views_per_video": 0
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
