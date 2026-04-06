@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-06T12:28:47.163531",
+  "timestamp": "2026-04-06T15:23:51.680051",
   "date": "2026-04-06",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 2,
+    "music_videos_filtered": 3,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -15,7 +15,7 @@
     {
       "video_id": "xTQ_RCAv5z8",
       "title": "St. Louis Cardinals at Detroit Tigers",
-      "description": "The St. Louis Cardinals and Detroit Tigers compete in a primetime matchup at Comerica Park. The Cardinals enter this match with a full rebuild under Chaim Bloom while the Tigers come off strong back-to-back postseason appearances.",
+      "description": "The St. Louis Cardinals and Detroit Tigers compete in a prime-time matchup at Comerica Park. The Cardinals enter this match with a full rebuild under Chaim Bloom while the Tigers come off strong back-to-back postseason appearances.",
       "channel_title": "NBCSN",
       "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
       "published_at": "2026-04-06T10:48:09Z",
@@ -81,6 +81,23 @@
       "url": "https://www.youtube.com/watch?v=g8zCAXH4K0I"
     },
     {
+      "video_id": "cNKsVOKBXGg",
+      "title": "Championship: Auburn vs. Tulsa",
+      "description": "Keyshawn Hall's Auburn Tigers battle Tylen Riley's Tulsa Golden Hurricane for the NIT championship at Gainbridge Fieldhouse. Auburn defeated Illinois State 88-66 to advance. Tulsa eliminated New Mexico 74-69 to reach the tournament final.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-06T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNKsVOKBXGg/hqdefault.jpg",
+      "duration": "PT2H38M28S",
+      "duration_seconds": 9508,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cNKsVOKBXGg"
+    },
+    {
       "video_id": "oswsuxnzEfM",
       "title": "Washington Capitals at New York Rangers",
       "description": "The Washington Capitals travel to face the New York Rangers at Madison Square Garden. Washington leads the 2025-26 season series 2-1 heading into this final meeting. The Rangers' Mika Zibanejad leads the team in points, goals, and assists.",
@@ -115,23 +132,6 @@
       "url": "https://www.youtube.com/watch?v=MX_dZottp7Y"
     },
     {
-      "video_id": "xEtCwj3mVDQ",
-      "title": "College Slam Dunk & 3-Point Championships",
-      "description": "From Hinkle Fieldhouse in Indianapolis.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-06T10:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xEtCwj3mVDQ/hqdefault.jpg",
-      "duration": "PT1H22M40S",
-      "duration_seconds": 4960,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xEtCwj3mVDQ"
-    },
-    {
       "video_id": "t1gK-z1tCxA",
       "title": "Don't Mess with the Randomizer",
       "description": "The second round heats up as Guy Fieri welcomes the final Super 16 chefs to battle for the remaining four spots in the Great 8. Who will keep their championship dreams alive and move closer to the belt, the coveted title, and $150,000?",
@@ -149,23 +149,6 @@
       "url": "https://www.youtube.com/watch?v=t1gK-z1tCxA"
     },
     {
-      "video_id": "c4ak2bsGqog",
-      "title": "Forrest Gump",
-      "description": "JFK, LBJ, Vietnam, Watergate and other history unfold through the perspective of an Alabama man (Tom Hanks) with an IQ of 75.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-04-06T09:37:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c4ak2bsGqog/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=c4ak2bsGqog"
-    },
-    {
       "video_id": "f2fipUra9Mo",
       "title": "Welcome to Your Destination",
       "description": "Elise plans a romantic getaway; Birkan confronts Laura about Michal; Forrest is terrified to tell Molly his plans; Trisha learns a devastating secret about Rick; Lisa's sexual demand has Daniel stumped; Jovon and Anna don't see eye-to-eye.",
@@ -181,6 +164,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=f2fipUra9Mo"
+    },
+    {
+      "video_id": "c4ak2bsGqog",
+      "title": "Forrest Gump",
+      "description": "JFK, LBJ, Vietnam, Watergate and other history unfold through the perspective of an Alabama man (Tom Hanks) with an IQ of 75.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-06T09:37:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c4ak2bsGqog/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=c4ak2bsGqog"
     }
   ],
   "videos_with_transcripts": [],
@@ -188,7 +188,7 @@
     {
       "video_id": "xTQ_RCAv5z8",
       "title": "St. Louis Cardinals at Detroit Tigers",
-      "description": "The St. Louis Cardinals and Detroit Tigers compete in a primetime matchup at Comerica Park. The Cardinals enter this match with a full rebuild under Chaim Bloom while the Tigers come off strong back-to-back postseason appearances.",
+      "description": "The St. Louis Cardinals and Detroit Tigers compete in a prime-time matchup at Comerica Park. The Cardinals enter this match with a full rebuild under Chaim Bloom while the Tigers come off strong back-to-back postseason appearances.",
       "channel_title": "NBCSN",
       "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
       "published_at": "2026-04-06T10:48:09Z",
@@ -254,6 +254,23 @@
       "url": "https://www.youtube.com/watch?v=g8zCAXH4K0I"
     },
     {
+      "video_id": "cNKsVOKBXGg",
+      "title": "Championship: Auburn vs. Tulsa",
+      "description": "Keyshawn Hall's Auburn Tigers battle Tylen Riley's Tulsa Golden Hurricane for the NIT championship at Gainbridge Fieldhouse. Auburn defeated Illinois State 88-66 to advance. Tulsa eliminated New Mexico 74-69 to reach the tournament final.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-06T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNKsVOKBXGg/hqdefault.jpg",
+      "duration": "PT2H38M28S",
+      "duration_seconds": 9508,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cNKsVOKBXGg"
+    },
+    {
       "video_id": "oswsuxnzEfM",
       "title": "Washington Capitals at New York Rangers",
       "description": "The Washington Capitals travel to face the New York Rangers at Madison Square Garden. Washington leads the 2025-26 season series 2-1 heading into this final meeting. The Rangers' Mika Zibanejad leads the team in points, goals, and assists.",
@@ -288,23 +305,6 @@
       "url": "https://www.youtube.com/watch?v=MX_dZottp7Y"
     },
     {
-      "video_id": "xEtCwj3mVDQ",
-      "title": "College Slam Dunk & 3-Point Championships",
-      "description": "From Hinkle Fieldhouse in Indianapolis.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-06T10:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xEtCwj3mVDQ/hqdefault.jpg",
-      "duration": "PT1H22M40S",
-      "duration_seconds": 4960,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xEtCwj3mVDQ"
-    },
-    {
       "video_id": "t1gK-z1tCxA",
       "title": "Don't Mess with the Randomizer",
       "description": "The second round heats up as Guy Fieri welcomes the final Super 16 chefs to battle for the remaining four spots in the Great 8. Who will keep their championship dreams alive and move closer to the belt, the coveted title, and $150,000?",
@@ -322,23 +322,6 @@
       "url": "https://www.youtube.com/watch?v=t1gK-z1tCxA"
     },
     {
-      "video_id": "c4ak2bsGqog",
-      "title": "Forrest Gump",
-      "description": "JFK, LBJ, Vietnam, Watergate and other history unfold through the perspective of an Alabama man (Tom Hanks) with an IQ of 75.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-04-06T09:37:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c4ak2bsGqog/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=c4ak2bsGqog"
-    },
-    {
       "video_id": "f2fipUra9Mo",
       "title": "Welcome to Your Destination",
       "description": "Elise plans a romantic getaway; Birkan confronts Laura about Michal; Forrest is terrified to tell Molly his plans; Trisha learns a devastating secret about Rick; Lisa's sexual demand has Daniel stumped; Jovon and Anna don't see eye-to-eye.",
@@ -354,6 +337,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=f2fipUra9Mo"
+    },
+    {
+      "video_id": "c4ak2bsGqog",
+      "title": "Forrest Gump",
+      "description": "JFK, LBJ, Vietnam, Watergate and other history unfold through the perspective of an Alabama man (Tom Hanks) with an IQ of 75.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-06T09:37:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c4ak2bsGqog/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=c4ak2bsGqog"
     }
   ],
   "analysis": {
@@ -361,43 +361,43 @@
     "metadata_based": {
       "content_trends": {
         "sports_dominance": {
-          "description": "7 out of 10 videos are sports-related, indicating a strong viewer interest in sports content.",
-          "categories": [
-            "MLB",
-            "NCAAM",
-            "Golf",
-            "NHL",
-            "Basketball"
-          ],
-          "opportunity": "Leverage sports events to create related content such as highlights, analysis, and fan reactions."
+          "description": "A significant portion of the trending videos are related to sports events, indicating a high demand for sports content.",
+          "evidence": "6 out of 10 videos are sports-related, specifically focusing on major league games and tournaments.",
+          "recommendation": "Content creators should consider producing more sports-related content, such as game highlights, analysis, and commentary, to tap into this trend."
         },
-        "news_and_talk_shows": {
-          "description": "Presence of a political talk show ('One Nation With Brian Kilmeade') suggests interest in news and commentary.",
-          "opportunity": "Expand on current events and political discourse content, especially targeting viewers of news channels."
+        "news_and_analysis": {
+          "description": "There is a visible presence of news and analytical content as seen in 'One Nation With Brian Kilmeade'.",
+          "evidence": "One video out of ten is focused on news and analysis.",
+          "recommendation": "Channels can expand into news commentary and current events analysis to capture a broader audience interested in timely information."
         },
-        "entertainment_variety": {
-          "description": "Non-sports content includes a classic movie reference ('Forrest Gump') and a unique title ('Don't Mess with the Randomizer'), suggesting a variety in viewer interests.",
-          "opportunity": "Create diverse content that ranges from classic movie reviews to unique and engaging formats that capture curiosity."
+        "diverse_content_niches": {
+          "description": "Non-sports content such as 'Don't Mess with the Randomizer', 'Welcome to Your Destination', and 'Forrest Gump' suggest a diverse range of interests among viewers.",
+          "evidence": "3 out of 10 videos in the trending list are non-sports related, highlighting a variety of interests.",
+          "recommendation": "Creators should explore diverse content niches, including entertainment, lifestyle, and film commentary, to attract different audience segments."
         }
       },
       "creator_patterns": {
-        "channel_distribution": {
-          "description": "Top channels like NBCSN, TBS, and ESPN are leading with sports content.",
-          "opportunity": "Collaborate with major sports networks for content licensing or co-production to tap into established audiences."
+        "major_networks": {
+          "description": "Videos from major networks like NBCSN, TBS, Golf Channel, and ESPN2 are part of the trending list.",
+          "evidence": "4 of the 5 top channels are major networks, indicating their strong influence in trending content.",
+          "recommendation": "Independent creators could collaborate with major networks for increased visibility or create content around trending topics covered by these networks."
         },
-        "content_frequency": {
-          "description": "Each top channel is represented by a single video, indicating a spread rather than concentration from specific creators.",
-          "opportunity": "Encourage consistent content release schedules with diversified topics to maintain viewer engagement across different interest areas."
+        "sports_channels": {
+          "description": "Sports channels are prominently featured, underscoring the popularity of their content.",
+          "evidence": "3 out of 5 top channels are sports-focused networks.",
+          "recommendation": "New channels should consider sports content or partnerships with sports networks to leverage the existing popularity."
         }
       },
       "market_opportunities": {
-        "sports_content_expansion": {
-          "description": "Given the dominance of sports content, there is potential for expanding into niche sports or lesser-covered events.",
-          "strategy": "Develop content around emerging sports trends or underrepresented sports leagues to capture untapped markets."
+        "untapped_categories": {
+          "description": "The absence of known categories suggests potential in categorization and targeting specific audience segments more effectively.",
+          "evidence": "Categories for videos are listed as unknown, indicating a lack of specific targeting.",
+          "recommendation": "Conduct audience analysis to identify interests and tailor content that fits into specific, trending categories to gain a competitive edge."
         },
-        "cross-category engagement": {
-          "description": "The mix of sports, news, and entertainment suggests potential for cross-pollination of audiences.",
-          "strategy": "Create hybrid content formats, such as sports-news commentary or entertainment-sports mashups, to engage broader audiences."
+        "cross-platform engagement": {
+          "description": "The presence of videos from television networks indicates an opportunity for cross-platform content promotion.",
+          "evidence": "Top channels include traditional TV networks like NBCSN and TBS.",
+          "recommendation": "Develop strategies for cross-promoting content between YouTube and traditional media platforms to enhance reach and engagement."
         }
       },
       "metadata_stats": {
