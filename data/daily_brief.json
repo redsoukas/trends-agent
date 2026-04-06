@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T00:51:47.726664",
+  "timestamp": "2026-04-06T04:06:50.054297",
   "date": "2026-04-06",
   "summary": {
     "total_videos_analyzed": 10,
@@ -30,6 +30,23 @@
       "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
     },
     {
+      "video_id": "BjV2flSNUu0",
+      "title": "College Slam Dunk & 3-Point Championships",
+      "description": "From Hinkle Fieldhouse in Indianapolis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-05T23:51:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BjV2flSNUu0/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
+    },
+    {
       "video_id": "PD4z8HTT4s8",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
@@ -47,55 +64,21 @@
       "url": "https://www.youtube.com/watch?v=PD4z8HTT4s8"
     },
     {
-      "video_id": "fJSAEOzBwVg",
-      "title": "SportsCenter",
-      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-05T23:31:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fJSAEOzBwVg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "AtPdzGXxdPY",
+      "title": "Photographer No. 24: Ken Griffey Jr. At the Masters",
+      "description": "Follow Baseball Hall of Famer Ken Griffey Jr. as he works the iconic Masters Tournament as a credentialed photographer.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-06T02:14:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AtPdzGXxdPY/hqdefault.jpg",
+      "duration": "PT1H1M10S",
+      "duration_seconds": 3670,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fJSAEOzBwVg"
-    },
-    {
-      "video_id": "Ne5oBh_rqs0",
-      "title": "Fareed Zakaria GPS",
-      "description": "Fareed Zakaria brings viewers his insights and analysis, and interviews ZannyMinton Beddoes, RichardHaass, Ali Vaez and Ali Ansari for the 'Global Public Square.'",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-05T22:05:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ne5oBh_rqs0/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Ne5oBh_rqs0"
-    },
-    {
-      "video_id": "LDNs0Mz2ktA",
-      "title": "All Elite Wrestling: Collision",
-      "description": "The Death Riders & Dogs combine forces to face Kevin Knight, Mistico and the Conglomeration. AEW TBS Champion Willow Nightingale issues an open challenge. Jon Moxley faces Anthony Bowens in an AEW Continental Title Eliminator match.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-04-05T12:09:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
-      "duration": "PT2H35S",
-      "duration_seconds": 7235,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
+      "url": "https://www.youtube.com/watch?v=AtPdzGXxdPY"
     },
     {
       "video_id": "MQWzPY36rzI",
@@ -107,8 +90,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
       "duration": "PT5M39S",
       "duration_seconds": 339,
-      "view_count": 26810,
-      "like_count": 522,
+      "view_count": 31460,
+      "like_count": 578,
       "comment_count": 8,
       "category_id": "22",
       "tags": [
@@ -126,21 +109,38 @@
       "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
     },
     {
-      "video_id": "5IkhthvsemQ",
-      "title": "Valero Texas Open, Third Round",
-      "description": "From TPC San Antonio in San Antonio.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-05T05:47:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IkhthvsemQ/hqdefault.jpg",
-      "duration": "PT4H30M56S",
-      "duration_seconds": 16256,
+      "video_id": "Pg97ULamu8A",
+      "title": "State of the Union With Jake Tapper and Dana Bash",
+      "description": "Jake Tapper and Dana Bash bring together Jared Isaacman and Sen. Raphael Warnock to tackle pressing domestic issues and diplomacy on the global stage.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-06T00:22:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pg97ULamu8A/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
+      "url": "https://www.youtube.com/watch?v=Pg97ULamu8A"
+    },
+    {
+      "video_id": "UegYw88PZiI",
+      "title": "West Ham United vs. Leeds United",
+      "description": "Quarterfinal.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-06T01:07:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UegYw88PZiI/hqdefault.jpg",
+      "duration": "PT3H38M11S",
+      "duration_seconds": 13091,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UegYw88PZiI"
     },
     {
       "video_id": "k9qbD7XlZrs",
@@ -152,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k9qbD7XlZrs/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 109139,
-      "like_count": 231,
-      "comment_count": 0,
+      "view_count": 151077,
+      "like_count": 292,
+      "comment_count": 3,
       "category_id": "22",
       "tags": [
         "LatinFlow",
@@ -171,21 +171,21 @@
       "url": "https://www.youtube.com/watch?v=k9qbD7XlZrs"
     },
     {
-      "video_id": "aBEluE4hNCE",
-      "title": "Philadelphia Phillies at Colorado Rockies",
-      "description": "From Coors Field in Denver.",
-      "channel_title": "NBC Sports Philadelphia Plus",
-      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
-      "published_at": "2026-04-05T15:04:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aBEluE4hNCE/hqdefault.jpg",
-      "duration": "PT3H1M26S",
-      "duration_seconds": 10886,
+      "video_id": "Yqekum6Pty0",
+      "title": "Velshi",
+      "description": "Current events and sharp analysis of top trending topics.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-06T00:27:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yqekum6Pty0/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=aBEluE4hNCE"
+      "url": "https://www.youtube.com/watch?v=Yqekum6Pty0"
     },
     {
       "video_id": "20mYeePyG5w",
@@ -197,8 +197,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/20mYeePyG5w/hqdefault.jpg",
       "duration": "PT3M11S",
       "duration_seconds": 191,
-      "view_count": 121600,
-      "like_count": 646,
+      "view_count": 147755,
+      "like_count": 739,
       "comment_count": 2,
       "category_id": "22",
       "tags": [
@@ -234,6 +234,23 @@
       "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
     },
     {
+      "video_id": "BjV2flSNUu0",
+      "title": "College Slam Dunk & 3-Point Championships",
+      "description": "From Hinkle Fieldhouse in Indianapolis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-05T23:51:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BjV2flSNUu0/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
+    },
+    {
       "video_id": "PD4z8HTT4s8",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
@@ -251,55 +268,21 @@
       "url": "https://www.youtube.com/watch?v=PD4z8HTT4s8"
     },
     {
-      "video_id": "fJSAEOzBwVg",
-      "title": "SportsCenter",
-      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-05T23:31:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fJSAEOzBwVg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "AtPdzGXxdPY",
+      "title": "Photographer No. 24: Ken Griffey Jr. At the Masters",
+      "description": "Follow Baseball Hall of Famer Ken Griffey Jr. as he works the iconic Masters Tournament as a credentialed photographer.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-06T02:14:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AtPdzGXxdPY/hqdefault.jpg",
+      "duration": "PT1H1M10S",
+      "duration_seconds": 3670,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fJSAEOzBwVg"
-    },
-    {
-      "video_id": "Ne5oBh_rqs0",
-      "title": "Fareed Zakaria GPS",
-      "description": "Fareed Zakaria brings viewers his insights and analysis, and interviews ZannyMinton Beddoes, RichardHaass, Ali Vaez and Ali Ansari for the 'Global Public Square.'",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-05T22:05:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ne5oBh_rqs0/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Ne5oBh_rqs0"
-    },
-    {
-      "video_id": "LDNs0Mz2ktA",
-      "title": "All Elite Wrestling: Collision",
-      "description": "The Death Riders & Dogs combine forces to face Kevin Knight, Mistico and the Conglomeration. AEW TBS Champion Willow Nightingale issues an open challenge. Jon Moxley faces Anthony Bowens in an AEW Continental Title Eliminator match.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-04-05T12:09:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LDNs0Mz2ktA/hqdefault.jpg",
-      "duration": "PT2H35S",
-      "duration_seconds": 7235,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
+      "url": "https://www.youtube.com/watch?v=AtPdzGXxdPY"
     },
     {
       "video_id": "MQWzPY36rzI",
@@ -311,8 +294,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
       "duration": "PT5M39S",
       "duration_seconds": 339,
-      "view_count": 26810,
-      "like_count": 522,
+      "view_count": 31460,
+      "like_count": 578,
       "comment_count": 8,
       "category_id": "22",
       "tags": [
@@ -330,21 +313,38 @@
       "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
     },
     {
-      "video_id": "5IkhthvsemQ",
-      "title": "Valero Texas Open, Third Round",
-      "description": "From TPC San Antonio in San Antonio.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-05T05:47:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IkhthvsemQ/hqdefault.jpg",
-      "duration": "PT4H30M56S",
-      "duration_seconds": 16256,
+      "video_id": "Pg97ULamu8A",
+      "title": "State of the Union With Jake Tapper and Dana Bash",
+      "description": "Jake Tapper and Dana Bash bring together Jared Isaacman and Sen. Raphael Warnock to tackle pressing domestic issues and diplomacy on the global stage.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-06T00:22:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pg97ULamu8A/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5IkhthvsemQ"
+      "url": "https://www.youtube.com/watch?v=Pg97ULamu8A"
+    },
+    {
+      "video_id": "UegYw88PZiI",
+      "title": "West Ham United vs. Leeds United",
+      "description": "Quarterfinal.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-04-06T01:07:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UegYw88PZiI/hqdefault.jpg",
+      "duration": "PT3H38M11S",
+      "duration_seconds": 13091,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UegYw88PZiI"
     },
     {
       "video_id": "k9qbD7XlZrs",
@@ -356,9 +356,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k9qbD7XlZrs/hqdefault.jpg",
       "duration": "PT1M50S",
       "duration_seconds": 110,
-      "view_count": 109139,
-      "like_count": 231,
-      "comment_count": 0,
+      "view_count": 151077,
+      "like_count": 292,
+      "comment_count": 3,
       "category_id": "22",
       "tags": [
         "LatinFlow",
@@ -375,21 +375,21 @@
       "url": "https://www.youtube.com/watch?v=k9qbD7XlZrs"
     },
     {
-      "video_id": "aBEluE4hNCE",
-      "title": "Philadelphia Phillies at Colorado Rockies",
-      "description": "From Coors Field in Denver.",
-      "channel_title": "NBC Sports Philadelphia Plus",
-      "channel_id": "UCx98aQ4kTwTIAcA5D65K7aw",
-      "published_at": "2026-04-05T15:04:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aBEluE4hNCE/hqdefault.jpg",
-      "duration": "PT3H1M26S",
-      "duration_seconds": 10886,
+      "video_id": "Yqekum6Pty0",
+      "title": "Velshi",
+      "description": "Current events and sharp analysis of top trending topics.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-06T00:27:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yqekum6Pty0/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=aBEluE4hNCE"
+      "url": "https://www.youtube.com/watch?v=Yqekum6Pty0"
     },
     {
       "video_id": "20mYeePyG5w",
@@ -401,8 +401,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/20mYeePyG5w/hqdefault.jpg",
       "duration": "PT3M11S",
       "duration_seconds": 191,
-      "view_count": 121600,
-      "like_count": 646,
+      "view_count": 147755,
+      "like_count": 739,
       "comment_count": 2,
       "category_id": "22",
       "tags": [
@@ -423,84 +423,97 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 257549,
-        "average_views_per_video": 25754.9
+        "total_views": 330292,
+        "average_views_per_video": 33029
       },
       "content_trends": {
-        "dominant_themes": [
-          "Sports",
-          "News",
-          "Music"
-        ],
-        "sports_focus": [
-          "NCAAM Final Four",
-          "Valero Texas Open",
-          "Philadelphia Phillies at Colorado Rockies",
-          "All Elite Wrestling"
-        ],
-        "news_focus": [
-          "Fox & Friends Weekend",
-          "Fareed Zakaria GPS"
-        ],
-        "music_focus": [
-          "R. Kelly - It Seems Like You’re Ready",
-          "Carín León - Ahí Estabas Tú",
-          "Vicente Fernández - Miraron Llorar a un Hombre"
-        ]
+        "sports_focus": {
+          "description": "Videos related to sports (NCAAM Final Four, Slam Dunk Championships, etc.) appear to be a significant trend.",
+          "insights": [
+            {
+              "sport": "Basketball",
+              "videos": [
+                "NCAAM Final Four: Michigan vs. Arizona",
+                "College Slam Dunk & 3-Point Championships"
+              ],
+              "channels": [
+                "TBS",
+                "ESPN"
+              ]
+            },
+            {
+              "sport": "Football",
+              "video": "West Ham United vs. Leeds United"
+            },
+            {
+              "sport": "Golf",
+              "video": "Photographer No. 24: Ken Griffey Jr. At the Masters",
+              "channel": "Golf Channel"
+            }
+          ]
+        },
+        "news_and_politics": {
+          "description": "News and political content are present, indicating ongoing viewer interest.",
+          "videos": [
+            "State of the Union With Jake Tapper and Dana Bash",
+            "Fox & Friends Weekend",
+            "Velshi"
+          ],
+          "channels": [
+            "FOX News"
+          ]
+        },
+        "music_and_entertainment": {
+          "description": "Music content, especially with a Latin flavor, is trending.",
+          "videos": [
+            "R. Kelly - It Seems Like You’re Ready",
+            "Carín León - Ahí Estabas Tú (Letra)",
+            "Vicente Fernández - Miraron Llorar a un Hombre (Letra)"
+          ]
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          "TBS",
-          "FOX News",
-          "ESPN",
-          "CNN",
-          "TNT"
-        ],
-        "video_distribution": {
-          "TBS": 1,
-          "FOX News": 1,
-          "ESPN": 1,
-          "CNN": 1,
-          "TNT": 1,
-          "others": 5
-        },
-        "potential_collaboration": [
-          {
-            "channels": [
-              "TBS",
-              "TNT"
-            ],
-            "rationale": "Both channels focus on sports content, indicating a potential for collaborative sports event coverage."
-          },
-          {
-            "channels": [
-              "FOX News",
-              "CNN"
-            ],
-            "rationale": "Both channels feature news content, suggesting a possible partnership for special news coverage or debates."
-          }
-        ]
+        "top_channels": {
+          "description": "Content from larger, established channels such as TBS, ESPN, and FOX News dominate the list.",
+          "insights": [
+            {
+              "channel": "TBS",
+              "video_count": 1,
+              "focus": "Sports"
+            },
+            {
+              "channel": "ESPN",
+              "video_count": 1,
+              "focus": "Sports"
+            },
+            {
+              "channel": "FOX News",
+              "video_count": 1,
+              "focus": "News"
+            }
+          ]
+        }
       },
       "market_opportunities": {
         "sports_content": {
-          "insight": "Sports-related content is highly engaging, with multiple videos trending in this category.",
-          "actionable_opportunities": [
-            "Create in-depth analysis or behind-the-scenes content for major sports events.",
-            "Leverage live-streaming for real-time engagement during games or tournaments."
+          "opportunity": "High engagement potential in sports-related content, especially around major events.",
+          "suggestions": [
+            "Develop content around upcoming sports events and championships.",
+            "Collaborate with sports influencers for broader reach."
           ]
         },
-        "news_content": {
-          "insight": "Consistent interest in current affairs and political discussions.",
-          "actionable_opportunities": [
-            "Develop interactive news segments that allow audience participation.",
-            "Produce quick, digestible news recaps to capture the attention of viewers with limited time."
+        "news_and_politics": {
+          "opportunity": "Sustained interest in political and news content.",
+          "suggestions": [
+            "Create timely content around political events and news cycles.",
+            "Engage with viewers through live discussions and expert panels."
           ]
         },
-        "music_content": {
-          "insight": "Diverse musical tastes are evident, with both English and Spanish songs trending.",
-          "actionable_opportunities": [
-            "Explore cross-cultural collaborations to expand audience reach.",
-            "Offer lyric breakdowns or storytelling videos to enhance viewer connection with the music."
+        "latin_music_and_culture": {
+          "opportunity": "Increasing demand for Latin music and cultural content.",
+          "suggestions": [
+            "Invest in producing Spanish-language content.",
+            "Promote cross-cultural collaborations with Latin artists."
           ]
         }
       },
@@ -510,7 +523,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 25754
+        "avg_views_per_video": 33029
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
