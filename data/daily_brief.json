@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-06T04:06:50.054297",
+  "timestamp": "2026-04-06T06:49:45.570189",
   "date": "2026-04-06",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -30,6 +30,40 @@
       "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
     },
     {
+      "video_id": "HNoJgeWhigo",
+      "title": "Valero Texas Open, Final Round",
+      "description": "From TPC San Antonio in San Antonio.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-06T02:58:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HNoJgeWhigo/hqdefault.jpg",
+      "duration": "PT1H26M35S",
+      "duration_seconds": 5195,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HNoJgeWhigo"
+    },
+    {
+      "video_id": "BOrSSfpFO6E",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-06T04:57:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOrSSfpFO6E/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BOrSSfpFO6E"
+    },
+    {
       "video_id": "BjV2flSNUu0",
       "title": "College Slam Dunk & 3-Point Championships",
       "description": "From Hinkle Fieldhouse in Indianapolis.",
@@ -47,40 +81,6 @@
       "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
     },
     {
-      "video_id": "PD4z8HTT4s8",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-05T21:07:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PD4z8HTT4s8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PD4z8HTT4s8"
-    },
-    {
-      "video_id": "AtPdzGXxdPY",
-      "title": "Photographer No. 24: Ken Griffey Jr. At the Masters",
-      "description": "Follow Baseball Hall of Famer Ken Griffey Jr. as he works the iconic Masters Tournament as a credentialed photographer.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-06T02:14:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AtPdzGXxdPY/hqdefault.jpg",
-      "duration": "PT1H1M10S",
-      "duration_seconds": 3670,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=AtPdzGXxdPY"
-    },
-    {
       "video_id": "MQWzPY36rzI",
       "title": "R. Kelly - It Seems Like You’re Ready",
       "description": "R. Kelly - It Seems Like You’re Ready\n Stream/Download:\n\n(Lyrics):\n[Intro]\nUh, what's up, baby?\nCome here, I wanna taste you\nBut I know you're gonna like it\nSo, are you ready?\nI love the way your body feels next to mine\nListen, let me explain\n\n[Verse 1]\nTemperature's rising\nAnd your body's yearning for me, oh, baby\nGirl, lay it on me, I place no one above thee\nOh, take me to your ecstasy\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? All the way\nIt seems like you're ready (seems like you're ready)\nSeems like you're ready\nGirl, are you ready to go all the way? All the way\n\n[Verse 2]\nI can smell your perfume\nStep into my bedroom, let me love you constantly (come here, baby)\nOh, oh, your body is my playground, let me lick you up and down\nMake you feel like a woman should\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? Girl, all the wa",
@@ -90,8 +90,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
       "duration": "PT5M39S",
       "duration_seconds": 339,
-      "view_count": 31460,
-      "like_count": 578,
+      "view_count": 33522,
+      "like_count": 599,
       "comment_count": 8,
       "category_id": "22",
       "tags": [
@@ -109,109 +109,91 @@
       "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
     },
     {
-      "video_id": "Pg97ULamu8A",
-      "title": "State of the Union With Jake Tapper and Dana Bash",
-      "description": "Jake Tapper and Dana Bash bring together Jared Isaacman and Sen. Raphael Warnock to tackle pressing domestic issues and diplomacy on the global stage.",
+      "video_id": "f0KaA-rw19k",
+      "title": "Minnesota Wild at Detroit Red Wings",
+      "description": "The Minnesota Wild play the Detroit Red Wings at Little Caesars Arena in Detroit. This is the second and final regular-season meeting between the teams, with the Wild seeking a season sweep. The teams last met in January, where the Wild won 4-3.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-06T04:13:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f0KaA-rw19k/hqdefault.jpg",
+      "duration": "PT2H45M31S",
+      "duration_seconds": 9931,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=f0KaA-rw19k"
+    },
+    {
+      "video_id": "o8BXYNEb5sA",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-06T00:22:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pg97ULamu8A/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "published_at": "2026-04-06T05:47:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o8BXYNEb5sA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Pg97ULamu8A"
+      "url": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
     },
     {
-      "video_id": "UegYw88PZiI",
-      "title": "West Ham United vs. Leeds United",
-      "description": "Quarterfinal.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-06T01:07:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UegYw88PZiI/hqdefault.jpg",
-      "duration": "PT3H38M11S",
-      "duration_seconds": 13091,
+      "video_id": "yUH3HTWjw6k",
+      "title": "Ben-Hur",
+      "description": "An enslaved Judean prince (Charlton Heston) meets his Roman betrayer (Stephen Boyd), a former friend, in a chariot race.",
+      "channel_title": "Turner Classic Movies",
+      "channel_id": "UCWkkY4JJBkGZtFae6kkUbSw",
+      "published_at": "2026-04-06T02:59:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUH3HTWjw6k/hqdefault.jpg",
+      "duration": "PT3H46M50S",
+      "duration_seconds": 13610,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=UegYw88PZiI"
+      "url": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
     },
     {
-      "video_id": "k9qbD7XlZrs",
-      "title": "Carín León - Ahí Estabas Tú  (Letra)",
-      "description": "✨¡Muchas gracias por ver el video! espero que les haya gustado. ✨\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n📧Para promociones: latinflowpromotions@gmail.com\n\nMuchas gracias por todo el apoyo, si te gusta el contenido que subo, no olvides suscribirte al canal y compartir los vídeos con tus amigos \n\n▶️ Primero mira el vídeo oficial por aquí:\nhttps://youtu.be/PxRP09ebl74?si=U_7ZkqtFDfu-Afh_\n\n📝 Letra/ Lyrics:\nAhí estabas tú\nY te apareciste cuando todo estaba por venirse abajo\nY la suerte estuvo de mi lado cuando a mí te trajo\nContigo me sonrió\n\nSe me quitó lo triste cuando te vi y me viste\nY desde entonces te volviste lo mejor que me pasó\n\nY ahí estabas tú\nY aquí estaba yo\nY no es casualidad\nQue el mundo sea tan grande\nPero nos juntó\n \nY ahí estabas tú\nY eso me salvó\nY ya no pido más\nEres mi luz, mi paz\nTú mi más grande amor\n \nY ahora aquí estoy yo\nListo pa' cuidarte siempre el corazón\n\nY ahí estabas tú\nY aquí estaba yo\nY no es casualidad\nQue el mundo sea tan grand",
-      "channel_title": "Latin Flow",
-      "channel_id": "UC9iqfyRqk9KWS8kFp-GcPaA",
-      "published_at": "2026-04-04T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k9qbD7XlZrs/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 151077,
-      "like_count": 292,
-      "comment_count": 3,
-      "category_id": "22",
+      "video_id": "JIgfTJXfVxw",
+      "title": "Ferris Bueller's Day Off",
+      "description": "A cool teen (Matthew Broderick) plays hooky in Chicago with his girlfriend (Mia Sara), his buddy (Alan Ruck) and the classic Ferrari of his buddy's father.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-06T05:54:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JIgfTJXfVxw/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=JIgfTJXfVxw"
+    },
+    {
+      "video_id": "CKv9XbO0VKM",
+      "title": "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56",
+      "description": "Happy Easter everyone! While everyone is off hunting for easter eggs, I'm hunting for a Divisional W! Then after I'm hunting for a 5'3 Latina with a BBL to spend the holiday with TRUEEEEUEUE\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-04-05T22:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CKv9XbO0VKM/hqdefault.jpg",
+      "duration": "PT30M29S",
+      "duration_seconds": 1829,
+      "view_count": 155203,
+      "like_count": 9104,
+      "comment_count": 472,
+      "category_id": "17",
       "tags": [
-        "LatinFlow",
-        "Letra",
-        "lyrics",
-        "pop urbano",
-        "pop actual",
-        "música latina",
-        "éxitos juveniles",
-        "pop viral",
-        "tendencias latinas",
-        "pop en español"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=k9qbD7XlZrs"
-    },
-    {
-      "video_id": "Yqekum6Pty0",
-      "title": "Velshi",
-      "description": "Current events and sharp analysis of top trending topics.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-06T00:27:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yqekum6Pty0/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Yqekum6Pty0"
-    },
-    {
-      "video_id": "20mYeePyG5w",
-      "title": "Vicente Fernández - Miraron Llorar a un Hombre (Letra)",
-      "description": "✨¡Muchas gracias por ver el video! espero que les haya gustado. ✨\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n🌟 Sigue a Vicente Fernández por aquí 🌟\n🎬 YouTube: https://www.youtube.com/@vicentefernandez/videos\n\nAntes de ver este vídeo, chequea el original:\n https://youtu.be/JG0QEnbyz3E?si=TzlhUDkOp0TRy13w\n\n📝 Letra/ Lyrics:\n¿Qué caso tiene buscarla?\n¿Qué caso tiene seguirla?\nDe nada vale adorarla\nSi no podré conseguirla\nAsí me dije una noche\nMojándome en una esquina\n\nDespués me di media vuelta\nTomé por cualquier camino\nQuería salir por la puerta\nQue te abre un vaso de vino\nQuería arrancarla de mi alma\nMandarla por donde vino\n\nEl vino agrandó mi pena\nLa pena saco mi llanto\nEl llanto me abrió la boca\nMi boca dijo tu nombre\nY ahí entre copa tras copa\nMiraron llorar a este hombre\n\nDespués me di media vuelta\nTomé por cualquier camino\nQuería salir por la puerta\nQue te abre un vaso de vino\nQuería arrancarla de mi alma\nMandarla por donde vino\n\nEl vino agrandó mi pena\nLa pe",
-      "channel_title": "Bélico Mx",
-      "channel_id": "UCOgH4lPgjzSb5_ia3w4sPAA",
-      "published_at": "2026-04-04T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/20mYeePyG5w/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "duration_seconds": 191,
-      "view_count": 147755,
-      "like_count": 739,
-      "comment_count": 2,
-      "category_id": "22",
-      "tags": [
-        "Letra",
-        "Bélico Mx",
-        "Lyrics",
-        "Vicente Fernández",
-        "Miraron Llorar a un Hombre (Letra)",
-        "Miraron Llorar a un Hombre",
-        "Vicente Fernández - Miraron Llorar a un Hombre",
-        "Vicente Fernández - Miraron Llorar a un Hombre (Letra)"
-      ],
-      "url": "https://www.youtube.com/watch?v=20mYeePyG5w"
+      "url": "https://www.youtube.com/watch?v=CKv9XbO0VKM"
     }
   ],
   "videos_with_transcripts": [],
@@ -234,6 +216,40 @@
       "url": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
     },
     {
+      "video_id": "HNoJgeWhigo",
+      "title": "Valero Texas Open, Final Round",
+      "description": "From TPC San Antonio in San Antonio.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-06T02:58:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HNoJgeWhigo/hqdefault.jpg",
+      "duration": "PT1H26M35S",
+      "duration_seconds": 5195,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HNoJgeWhigo"
+    },
+    {
+      "video_id": "BOrSSfpFO6E",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-06T04:57:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOrSSfpFO6E/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BOrSSfpFO6E"
+    },
+    {
       "video_id": "BjV2flSNUu0",
       "title": "College Slam Dunk & 3-Point Championships",
       "description": "From Hinkle Fieldhouse in Indianapolis.",
@@ -251,40 +267,6 @@
       "url": "https://www.youtube.com/watch?v=BjV2flSNUu0"
     },
     {
-      "video_id": "PD4z8HTT4s8",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-05T21:07:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PD4z8HTT4s8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=PD4z8HTT4s8"
-    },
-    {
-      "video_id": "AtPdzGXxdPY",
-      "title": "Photographer No. 24: Ken Griffey Jr. At the Masters",
-      "description": "Follow Baseball Hall of Famer Ken Griffey Jr. as he works the iconic Masters Tournament as a credentialed photographer.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-06T02:14:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AtPdzGXxdPY/hqdefault.jpg",
-      "duration": "PT1H1M10S",
-      "duration_seconds": 3670,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=AtPdzGXxdPY"
-    },
-    {
       "video_id": "MQWzPY36rzI",
       "title": "R. Kelly - It Seems Like You’re Ready",
       "description": "R. Kelly - It Seems Like You’re Ready\n Stream/Download:\n\n(Lyrics):\n[Intro]\nUh, what's up, baby?\nCome here, I wanna taste you\nBut I know you're gonna like it\nSo, are you ready?\nI love the way your body feels next to mine\nListen, let me explain\n\n[Verse 1]\nTemperature's rising\nAnd your body's yearning for me, oh, baby\nGirl, lay it on me, I place no one above thee\nOh, take me to your ecstasy\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? All the way\nIt seems like you're ready (seems like you're ready)\nSeems like you're ready\nGirl, are you ready to go all the way? All the way\n\n[Verse 2]\nI can smell your perfume\nStep into my bedroom, let me love you constantly (come here, baby)\nOh, oh, your body is my playground, let me lick you up and down\nMake you feel like a woman should\n\n[Chorus]\nIt seems like you're ready\nSeems like you're ready (seems like you're ready)\nGirl, are you ready to go all the way? Girl, all the wa",
@@ -294,8 +276,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MQWzPY36rzI/hqdefault.jpg",
       "duration": "PT5M39S",
       "duration_seconds": 339,
-      "view_count": 31460,
-      "like_count": 578,
+      "view_count": 33522,
+      "like_count": 599,
       "comment_count": 8,
       "category_id": "22",
       "tags": [
@@ -313,208 +295,169 @@
       "url": "https://www.youtube.com/watch?v=MQWzPY36rzI"
     },
     {
-      "video_id": "Pg97ULamu8A",
-      "title": "State of the Union With Jake Tapper and Dana Bash",
-      "description": "Jake Tapper and Dana Bash bring together Jared Isaacman and Sen. Raphael Warnock to tackle pressing domestic issues and diplomacy on the global stage.",
+      "video_id": "f0KaA-rw19k",
+      "title": "Minnesota Wild at Detroit Red Wings",
+      "description": "The Minnesota Wild play the Detroit Red Wings at Little Caesars Arena in Detroit. This is the second and final regular-season meeting between the teams, with the Wild seeking a season sweep. The teams last met in January, where the Wild won 4-3.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-06T04:13:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f0KaA-rw19k/hqdefault.jpg",
+      "duration": "PT2H45M31S",
+      "duration_seconds": 9931,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=f0KaA-rw19k"
+    },
+    {
+      "video_id": "o8BXYNEb5sA",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-06T00:22:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pg97ULamu8A/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "published_at": "2026-04-06T05:47:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o8BXYNEb5sA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Pg97ULamu8A"
+      "url": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
     },
     {
-      "video_id": "UegYw88PZiI",
-      "title": "West Ham United vs. Leeds United",
-      "description": "Quarterfinal.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-04-06T01:07:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UegYw88PZiI/hqdefault.jpg",
-      "duration": "PT3H38M11S",
-      "duration_seconds": 13091,
+      "video_id": "yUH3HTWjw6k",
+      "title": "Ben-Hur",
+      "description": "An enslaved Judean prince (Charlton Heston) meets his Roman betrayer (Stephen Boyd), a former friend, in a chariot race.",
+      "channel_title": "Turner Classic Movies",
+      "channel_id": "UCWkkY4JJBkGZtFae6kkUbSw",
+      "published_at": "2026-04-06T02:59:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUH3HTWjw6k/hqdefault.jpg",
+      "duration": "PT3H46M50S",
+      "duration_seconds": 13610,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=UegYw88PZiI"
+      "url": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
     },
     {
-      "video_id": "k9qbD7XlZrs",
-      "title": "Carín León - Ahí Estabas Tú  (Letra)",
-      "description": "✨¡Muchas gracias por ver el video! espero que les haya gustado. ✨\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n📧Para promociones: latinflowpromotions@gmail.com\n\nMuchas gracias por todo el apoyo, si te gusta el contenido que subo, no olvides suscribirte al canal y compartir los vídeos con tus amigos \n\n▶️ Primero mira el vídeo oficial por aquí:\nhttps://youtu.be/PxRP09ebl74?si=U_7ZkqtFDfu-Afh_\n\n📝 Letra/ Lyrics:\nAhí estabas tú\nY te apareciste cuando todo estaba por venirse abajo\nY la suerte estuvo de mi lado cuando a mí te trajo\nContigo me sonrió\n\nSe me quitó lo triste cuando te vi y me viste\nY desde entonces te volviste lo mejor que me pasó\n\nY ahí estabas tú\nY aquí estaba yo\nY no es casualidad\nQue el mundo sea tan grande\nPero nos juntó\n \nY ahí estabas tú\nY eso me salvó\nY ya no pido más\nEres mi luz, mi paz\nTú mi más grande amor\n \nY ahora aquí estoy yo\nListo pa' cuidarte siempre el corazón\n\nY ahí estabas tú\nY aquí estaba yo\nY no es casualidad\nQue el mundo sea tan grand",
-      "channel_title": "Latin Flow",
-      "channel_id": "UC9iqfyRqk9KWS8kFp-GcPaA",
-      "published_at": "2026-04-04T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k9qbD7XlZrs/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 151077,
-      "like_count": 292,
-      "comment_count": 3,
-      "category_id": "22",
+      "video_id": "JIgfTJXfVxw",
+      "title": "Ferris Bueller's Day Off",
+      "description": "A cool teen (Matthew Broderick) plays hooky in Chicago with his girlfriend (Mia Sara), his buddy (Alan Ruck) and the classic Ferrari of his buddy's father.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-06T05:54:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JIgfTJXfVxw/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=JIgfTJXfVxw"
+    },
+    {
+      "video_id": "CKv9XbO0VKM",
+      "title": "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56",
+      "description": "Happy Easter everyone! While everyone is off hunting for easter eggs, I'm hunting for a Divisional W! Then after I'm hunting for a 5'3 Latina with a BBL to spend the holiday with TRUEEEEUEUE\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-04-05T22:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CKv9XbO0VKM/hqdefault.jpg",
+      "duration": "PT30M29S",
+      "duration_seconds": 1829,
+      "view_count": 155203,
+      "like_count": 9104,
+      "comment_count": 472,
+      "category_id": "17",
       "tags": [
-        "LatinFlow",
-        "Letra",
-        "lyrics",
-        "pop urbano",
-        "pop actual",
-        "música latina",
-        "éxitos juveniles",
-        "pop viral",
-        "tendencias latinas",
-        "pop en español"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=k9qbD7XlZrs"
-    },
-    {
-      "video_id": "Yqekum6Pty0",
-      "title": "Velshi",
-      "description": "Current events and sharp analysis of top trending topics.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-06T00:27:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yqekum6Pty0/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Yqekum6Pty0"
-    },
-    {
-      "video_id": "20mYeePyG5w",
-      "title": "Vicente Fernández - Miraron Llorar a un Hombre (Letra)",
-      "description": "✨¡Muchas gracias por ver el video! espero que les haya gustado. ✨\n\n🔔 Activa las notificaciones para enterarte de los nuevos vídeos!\n\n🌟 Sigue a Vicente Fernández por aquí 🌟\n🎬 YouTube: https://www.youtube.com/@vicentefernandez/videos\n\nAntes de ver este vídeo, chequea el original:\n https://youtu.be/JG0QEnbyz3E?si=TzlhUDkOp0TRy13w\n\n📝 Letra/ Lyrics:\n¿Qué caso tiene buscarla?\n¿Qué caso tiene seguirla?\nDe nada vale adorarla\nSi no podré conseguirla\nAsí me dije una noche\nMojándome en una esquina\n\nDespués me di media vuelta\nTomé por cualquier camino\nQuería salir por la puerta\nQue te abre un vaso de vino\nQuería arrancarla de mi alma\nMandarla por donde vino\n\nEl vino agrandó mi pena\nLa pena saco mi llanto\nEl llanto me abrió la boca\nMi boca dijo tu nombre\nY ahí entre copa tras copa\nMiraron llorar a este hombre\n\nDespués me di media vuelta\nTomé por cualquier camino\nQuería salir por la puerta\nQue te abre un vaso de vino\nQuería arrancarla de mi alma\nMandarla por donde vino\n\nEl vino agrandó mi pena\nLa pe",
-      "channel_title": "Bélico Mx",
-      "channel_id": "UCOgH4lPgjzSb5_ia3w4sPAA",
-      "published_at": "2026-04-04T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/20mYeePyG5w/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "duration_seconds": 191,
-      "view_count": 147755,
-      "like_count": 739,
-      "comment_count": 2,
-      "category_id": "22",
-      "tags": [
-        "Letra",
-        "Bélico Mx",
-        "Lyrics",
-        "Vicente Fernández",
-        "Miraron Llorar a un Hombre (Letra)",
-        "Miraron Llorar a un Hombre",
-        "Vicente Fernández - Miraron Llorar a un Hombre",
-        "Vicente Fernández - Miraron Llorar a un Hombre (Letra)"
-      ],
-      "url": "https://www.youtube.com/watch?v=20mYeePyG5w"
+      "url": "https://www.youtube.com/watch?v=CKv9XbO0VKM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 330292,
-        "average_views_per_video": 33029
-      },
-      "content_trends": {
-        "sports_focus": {
-          "description": "Videos related to sports (NCAAM Final Four, Slam Dunk Championships, etc.) appear to be a significant trend.",
-          "insights": [
-            {
-              "sport": "Basketball",
-              "videos": [
-                "NCAAM Final Four: Michigan vs. Arizona",
-                "College Slam Dunk & 3-Point Championships"
-              ],
-              "channels": [
-                "TBS",
-                "ESPN"
-              ]
-            },
-            {
-              "sport": "Football",
-              "video": "West Ham United vs. Leeds United"
-            },
-            {
-              "sport": "Golf",
-              "video": "Photographer No. 24: Ken Griffey Jr. At the Masters",
-              "channel": "Golf Channel"
-            }
-          ]
+      "insights": {
+        "content_trends": {
+          "sports_focus": {
+            "description": "A significant portion of trending videos are focused on sports, including college basketball, golf, hockey, and a unique playoff game.",
+            "evidence": [
+              "NCAAM Final Four: Michigan vs. Arizona",
+              "Valero Texas Open, Final Round",
+              "College Slam Dunk & 3-Point Championships",
+              "Minnesota Wild at Detroit Red Wings",
+              "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56"
+            ],
+            "actionable_insights": [
+              "Increase content production in sports-related videos, especially live events and highlight reels, as these are trending.",
+              "Consider collaboration opportunities with sports channels and influencers to tap into this audience."
+            ]
+          },
+          "nostalgia_and_classics": {
+            "description": "Classic movies and music are also part of the trending content, suggesting a demand for nostalgic content.",
+            "evidence": [
+              "Ben-Hur",
+              "Ferris Bueller's Day Off",
+              "R. Kelly - It Seems Like You’re Ready"
+            ],
+            "actionable_insights": [
+              "Create content that revolves around classic movies and music to engage with audiences who have an interest in nostalgia.",
+              "Explore partnerships with film and music channels that focus on classic and retro content."
+            ]
+          },
+          "news_and_current_affairs": {
+            "description": "Current affairs and news content remain relevant, indicating a continuous demand for news updates.",
+            "evidence": [
+              "CNN Newsroom"
+            ],
+            "actionable_insights": [
+              "Develop a series of news-related content that provides quick updates and insights into current events.",
+              "Leverage SEO with trending news topics to increase discoverability."
+            ]
+          }
         },
-        "news_and_politics": {
-          "description": "News and political content are present, indicating ongoing viewer interest.",
-          "videos": [
-            "State of the Union With Jake Tapper and Dana Bash",
-            "Fox & Friends Weekend",
-            "Velshi"
-          ],
-          "channels": [
-            "FOX News"
-          ]
+        "creator_patterns": {
+          "diverse_channels": {
+            "description": "Trending videos are spread across various channels, each contributing a single video.",
+            "evidence": [
+              "TBS",
+              "Golf Channel",
+              "FOX News",
+              "ESPN",
+              "RapHype"
+            ],
+            "actionable_insights": [
+              "Opportunity for new creators to enter the trending space by focusing on niche content.",
+              "Identify gaps in content categories not covered by these channels and create content to fill those gaps."
+            ]
+          }
         },
-        "music_and_entertainment": {
-          "description": "Music content, especially with a Latin flavor, is trending.",
-          "videos": [
-            "R. Kelly - It Seems Like You’re Ready",
-            "Carín León - Ahí Estabas Tú (Letra)",
-            "Vicente Fernández - Miraron Llorar a un Hombre (Letra)"
-          ]
-        }
-      },
-      "creator_patterns": {
-        "top_channels": {
-          "description": "Content from larger, established channels such as TBS, ESPN, and FOX News dominate the list.",
-          "insights": [
-            {
-              "channel": "TBS",
-              "video_count": 1,
-              "focus": "Sports"
-            },
-            {
-              "channel": "ESPN",
-              "video_count": 1,
-              "focus": "Sports"
-            },
-            {
-              "channel": "FOX News",
-              "video_count": 1,
-              "focus": "News"
-            }
-          ]
-        }
-      },
-      "market_opportunities": {
-        "sports_content": {
-          "opportunity": "High engagement potential in sports-related content, especially around major events.",
-          "suggestions": [
-            "Develop content around upcoming sports events and championships.",
-            "Collaborate with sports influencers for broader reach."
-          ]
-        },
-        "news_and_politics": {
-          "opportunity": "Sustained interest in political and news content.",
-          "suggestions": [
-            "Create timely content around political events and news cycles.",
-            "Engage with viewers through live discussions and expert panels."
-          ]
-        },
-        "latin_music_and_culture": {
-          "opportunity": "Increasing demand for Latin music and cultural content.",
-          "suggestions": [
-            "Invest in producing Spanish-language content.",
-            "Promote cross-cultural collaborations with Latin artists."
-          ]
+        "market_opportunities": {
+          "sports_and_gaming_intersection": {
+            "description": "The intersection of sports and gaming is an emerging trend, as seen in the 'Wheel of MUT' video.",
+            "evidence": [
+              "Maybe The Wildest Playoff Game EVER! Wheel of MUT! Ep. #56"
+            ],
+            "actionable_insights": [
+              "Develop content that merges sports and gaming, such as creating esports tournaments or sports-themed gaming content.",
+              "Collaborate with sports gaming influencers to reach a broader audience."
+            ]
+          },
+          "underexplored_categories": {
+            "description": "Categories like technology, lifestyle, and education are underrepresented in the current trending videos.",
+            "actionable_insights": [
+              "Explore and produce content in these underrepresented categories to tap into unmet audience needs.",
+              "Utilize analytics to identify trending topics within these categories and create content around them."
+            ]
+          }
         }
       },
       "metadata_stats": {
@@ -523,7 +466,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 33029
+        "avg_views_per_video": 18872
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
