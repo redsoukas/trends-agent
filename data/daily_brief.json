@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T12:31:11.952816",
+  "timestamp": "2026-04-07T15:38:09.172511",
   "date": "2026-04-07",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 1710709,
-      "like_count": 29327,
-      "comment_count": 1220,
+      "view_count": 1904485,
+      "like_count": 32131,
+      "comment_count": 1294,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -58,9 +58,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U1MqJBVn8Rk/hqdefault.jpg",
       "duration": "PT1M49S",
       "duration_seconds": 109,
-      "view_count": 1404901,
-      "like_count": 39714,
-      "comment_count": 1755,
+      "view_count": 1683287,
+      "like_count": 42470,
+      "comment_count": 1852,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/upey49pbRsQ/hqdefault.jpg",
       "duration": "PT5M42S",
       "duration_seconds": 342,
-      "view_count": 708293,
-      "like_count": 3546,
-      "comment_count": 17,
+      "view_count": 823463,
+      "like_count": 3930,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "making love out of nothing at all",
@@ -114,32 +114,30 @@
       "url": "https://www.youtube.com/watch?v=upey49pbRsQ"
     },
     {
-      "video_id": "OpfhIXAv7CE",
-      "title": "Hulk Hogan: Real American | Official Trailer | Netflix",
-      "description": "Before he was Hulk Hogan, he was Terry Bollea. Uncover the man behind the legend in this unfiltered documentary featuring his very last interview.\n\nWatch on Netflix: https://www.netflix.com/title/81780626\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nHulk Hogan: Real American | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "video_id": "ujupEUFDm3E",
+      "title": "Lord of the Flies | Official Trailer | Netflix",
+      "description": "A classic reborn for television - Lord of the Flies Premieres May 4th.\nAdapted for television by Emmy-winning co-creator of Adolescence, Jack Thorne and directed by Marc Munden (Utopia, National Treasure, Help). Lord of the Flies comes to Netflix May 4th.\n\nWatch on Netflix: https://www.netflix.com/title/82709728\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nLord of the Flies | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen a group of schoolboys crash-lands on a tropical island, their attempts to survive are threatened by the lure of their darkest instincts.",
       "channel_title": "Netflix",
       "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-04-06T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OpfhIXAv7CE/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 226521,
-      "like_count": 5941,
-      "comment_count": 1350,
+      "published_at": "2026-04-06T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujupEUFDm3E/hqdefault.jpg",
+      "duration": "PT1M18S",
+      "duration_seconds": 78,
+      "view_count": 140521,
+      "like_count": 2860,
+      "comment_count": 365,
       "category_id": "24",
       "tags": [
-        "Career",
-        "Hulk Hogan",
-        "Intimate",
-        "Limited Series",
-        "Netflix",
-        "Nostalgic",
-        "Pop Culture",
-        "Price of Fame",
-        "Real American",
-        "Rise and Fall"
+        "Adolescence",
+        "Book Adaptations",
+        "Classic",
+        "Dystopian",
+        "Jack Thorne",
+        "Lord of the Flies",
+        "Marc Munden",
+        "Netflix"
       ],
-      "url": "https://www.youtube.com/watch?v=OpfhIXAv7CE"
+      "url": "https://www.youtube.com/watch?v=ujupEUFDm3E"
     },
     {
       "video_id": "yyh8cW3iJAo",
@@ -168,57 +166,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CnvsdUe0h9g/hqdefault.jpg",
       "duration": "PT12M28S",
       "duration_seconds": 748,
-      "view_count": 239508,
-      "like_count": 5950,
-      "comment_count": 379,
+      "view_count": 258948,
+      "like_count": 6261,
+      "comment_count": 395,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
     },
     {
-      "video_id": "xJu0MfbTBKw",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-07T09:07:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xJu0MfbTBKw/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "dPV8nLpb1YA",
+      "title": "New York Knicks at Atlanta Hawks",
+      "description": "The New York Knicks play the Atlanta Hawks in an Eastern Conference matchup. The regular-season series is currently tied 1-1 heading into this final meeting. New York won a high-scoring battle 128-125, while Atlanta dominated with a 111-99 victory.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-04-07T13:29:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dPV8nLpb1YA/hqdefault.jpg",
+      "duration": "PT2H33M54S",
+      "duration_seconds": 9234,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
+      "url": "https://www.youtube.com/watch?v=dPV8nLpb1YA"
     },
     {
-      "video_id": "XW1RkKiRnsg",
-      "title": "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr",
-      "description": "Welcome to Bhooth Bangla. Yahan na toh log normal hain... Aur upar se Bangla bhi paranormal hai. \nEnter at your own risk 🧟‍♀️\n\n#BhoothBanglaTrailer out now\n\n#BhoothBangla, paid previews begin in theatres 16th April 2026, 9 PM onwards 👻\n\nWhen London-returned Arjun Acharya arrives in the sleepy town of Mangalpur to host his sister’s wedding at his newly inherited ancestral palace, he finds himself caught in a whirlwind of terrified locals, bizarre ghostly happenings, and hilarious chaos—until he begins uncovering the shocking truth behind the palace’s centuries-old legend.\n\nBalaji Telefilms Ltd. in association with Cape Of Good Films present\nBhooth Bangla\n\nStarring: Akshay Kumar, Paresh Rawal, Rajpal Yadav, Tabu, Wamiqa Gabbi, Jisshu Sengupta, Manoj Joshi, Mithila Palkar, Asrani Ji, Rajesh Sharma \nDirected by: Priyadarshan\nProduced by: Akshay Kumar, Shobha Kapoor, Ektaa R. Kapoor\nCo-producer: Vimal Doshi, Faara Sheikh, Vedant Vikaas Baali\nGroup CEO & CFO (BTL): Sanjay Dwivedi\nDirector of",
-      "channel_title": "Balaji Motion Pictures",
-      "channel_id": "UCSHLoG-bXj1aVA2T5y8t84A",
-      "published_at": "2026-04-06T08:32:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XW1RkKiRnsg/hqdefault.jpg",
-      "duration": "PT3M4S",
-      "duration_seconds": 184,
-      "view_count": 19874360,
-      "like_count": 283247,
-      "comment_count": 15396,
-      "category_id": "24",
+      "video_id": "OJ19I9q_hOQ",
+      "title": "The Invite | Official Trailer HD | A24",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom director Olivia Wilde and starring Seth Rogan, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.\n\nRELEASE DATE: July 2026\nDIRECTOR: Olivia Wilde\nCAST: Seth Rogan, Olivia Wilde, Penélope Cruz and Edward Norton\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MOTHER MARY, BACKROOMS, THE DEATH OF ROBIN HOOD & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2026-04-07T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
+      "duration": "PT2M3S",
+      "duration_seconds": 123,
+      "view_count": 79233,
+      "like_count": 4381,
+      "comment_count": 285,
+      "category_id": "1",
       "tags": [
-        "bhooth bangla trailer",
-        "bhooth bangla official trailer",
-        "akshay kumar new movie",
-        "akshay kumar trailer 2026",
-        "bhooth bangla teaser",
-        "bhooth bangla full movie",
-        "bhooth bangla release date",
-        "horror comedy hindi movie",
-        "bollywood horror comedy",
-        "comedy horror movie 2026"
+        "a24",
+        "a24 films",
+        "a24 trailers",
+        "independent films",
+        "trailer",
+        "HD",
+        "official",
+        "movie",
+        "film",
+        "a24 movies"
       ],
-      "url": "https://www.youtube.com/watch?v=XW1RkKiRnsg"
+      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -233,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 1710709,
-      "like_count": 29327,
-      "comment_count": 1220,
+      "view_count": 1904485,
+      "like_count": 32131,
+      "comment_count": 1294,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -269,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U1MqJBVn8Rk/hqdefault.jpg",
       "duration": "PT1M49S",
       "duration_seconds": 109,
-      "view_count": 1404901,
-      "like_count": 39714,
-      "comment_count": 1755,
+      "view_count": 1683287,
+      "like_count": 42470,
+      "comment_count": 1852,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -306,9 +304,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/upey49pbRsQ/hqdefault.jpg",
       "duration": "PT5M42S",
       "duration_seconds": 342,
-      "view_count": 708293,
-      "like_count": 3546,
-      "comment_count": 17,
+      "view_count": 823463,
+      "like_count": 3930,
+      "comment_count": 18,
       "category_id": "22",
       "tags": [
         "making love out of nothing at all",
@@ -325,32 +323,30 @@
       "url": "https://www.youtube.com/watch?v=upey49pbRsQ"
     },
     {
-      "video_id": "OpfhIXAv7CE",
-      "title": "Hulk Hogan: Real American | Official Trailer | Netflix",
-      "description": "Before he was Hulk Hogan, he was Terry Bollea. Uncover the man behind the legend in this unfiltered documentary featuring his very last interview.\n\nWatch on Netflix: https://www.netflix.com/title/81780626\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nHulk Hogan: Real American | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "video_id": "ujupEUFDm3E",
+      "title": "Lord of the Flies | Official Trailer | Netflix",
+      "description": "A classic reborn for television - Lord of the Flies Premieres May 4th.\nAdapted for television by Emmy-winning co-creator of Adolescence, Jack Thorne and directed by Marc Munden (Utopia, National Treasure, Help). Lord of the Flies comes to Netflix May 4th.\n\nWatch on Netflix: https://www.netflix.com/title/82709728\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nLord of the Flies | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen a group of schoolboys crash-lands on a tropical island, their attempts to survive are threatened by the lure of their darkest instincts.",
       "channel_title": "Netflix",
       "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-04-06T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OpfhIXAv7CE/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 226521,
-      "like_count": 5941,
-      "comment_count": 1350,
+      "published_at": "2026-04-06T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujupEUFDm3E/hqdefault.jpg",
+      "duration": "PT1M18S",
+      "duration_seconds": 78,
+      "view_count": 140521,
+      "like_count": 2860,
+      "comment_count": 365,
       "category_id": "24",
       "tags": [
-        "Career",
-        "Hulk Hogan",
-        "Intimate",
-        "Limited Series",
-        "Netflix",
-        "Nostalgic",
-        "Pop Culture",
-        "Price of Fame",
-        "Real American",
-        "Rise and Fall"
+        "Adolescence",
+        "Book Adaptations",
+        "Classic",
+        "Dystopian",
+        "Jack Thorne",
+        "Lord of the Flies",
+        "Marc Munden",
+        "Netflix"
       ],
-      "url": "https://www.youtube.com/watch?v=OpfhIXAv7CE"
+      "url": "https://www.youtube.com/watch?v=ujupEUFDm3E"
     },
     {
       "video_id": "yyh8cW3iJAo",
@@ -379,100 +375,139 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CnvsdUe0h9g/hqdefault.jpg",
       "duration": "PT12M28S",
       "duration_seconds": 748,
-      "view_count": 239508,
-      "like_count": 5950,
-      "comment_count": 379,
+      "view_count": 258948,
+      "like_count": 6261,
+      "comment_count": 395,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
     },
     {
-      "video_id": "xJu0MfbTBKw",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-07T09:07:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xJu0MfbTBKw/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "dPV8nLpb1YA",
+      "title": "New York Knicks at Atlanta Hawks",
+      "description": "The New York Knicks play the Atlanta Hawks in an Eastern Conference matchup. The regular-season series is currently tied 1-1 heading into this final meeting. New York won a high-scoring battle 128-125, while Atlanta dominated with a 111-99 victory.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-04-07T13:29:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dPV8nLpb1YA/hqdefault.jpg",
+      "duration": "PT2H33M54S",
+      "duration_seconds": 9234,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
+      "url": "https://www.youtube.com/watch?v=dPV8nLpb1YA"
     },
     {
-      "video_id": "XW1RkKiRnsg",
-      "title": "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr",
-      "description": "Welcome to Bhooth Bangla. Yahan na toh log normal hain... Aur upar se Bangla bhi paranormal hai. \nEnter at your own risk 🧟‍♀️\n\n#BhoothBanglaTrailer out now\n\n#BhoothBangla, paid previews begin in theatres 16th April 2026, 9 PM onwards 👻\n\nWhen London-returned Arjun Acharya arrives in the sleepy town of Mangalpur to host his sister’s wedding at his newly inherited ancestral palace, he finds himself caught in a whirlwind of terrified locals, bizarre ghostly happenings, and hilarious chaos—until he begins uncovering the shocking truth behind the palace’s centuries-old legend.\n\nBalaji Telefilms Ltd. in association with Cape Of Good Films present\nBhooth Bangla\n\nStarring: Akshay Kumar, Paresh Rawal, Rajpal Yadav, Tabu, Wamiqa Gabbi, Jisshu Sengupta, Manoj Joshi, Mithila Palkar, Asrani Ji, Rajesh Sharma \nDirected by: Priyadarshan\nProduced by: Akshay Kumar, Shobha Kapoor, Ektaa R. Kapoor\nCo-producer: Vimal Doshi, Faara Sheikh, Vedant Vikaas Baali\nGroup CEO & CFO (BTL): Sanjay Dwivedi\nDirector of",
-      "channel_title": "Balaji Motion Pictures",
-      "channel_id": "UCSHLoG-bXj1aVA2T5y8t84A",
-      "published_at": "2026-04-06T08:32:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XW1RkKiRnsg/hqdefault.jpg",
-      "duration": "PT3M4S",
-      "duration_seconds": 184,
-      "view_count": 19874360,
-      "like_count": 283247,
-      "comment_count": 15396,
-      "category_id": "24",
+      "video_id": "OJ19I9q_hOQ",
+      "title": "The Invite | Official Trailer HD | A24",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom director Olivia Wilde and starring Seth Rogan, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.\n\nRELEASE DATE: July 2026\nDIRECTOR: Olivia Wilde\nCAST: Seth Rogan, Olivia Wilde, Penélope Cruz and Edward Norton\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MOTHER MARY, BACKROOMS, THE DEATH OF ROBIN HOOD & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2026-04-07T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
+      "duration": "PT2M3S",
+      "duration_seconds": 123,
+      "view_count": 79233,
+      "like_count": 4381,
+      "comment_count": 285,
+      "category_id": "1",
       "tags": [
-        "bhooth bangla trailer",
-        "bhooth bangla official trailer",
-        "akshay kumar new movie",
-        "akshay kumar trailer 2026",
-        "bhooth bangla teaser",
-        "bhooth bangla full movie",
-        "bhooth bangla release date",
-        "horror comedy hindi movie",
-        "bollywood horror comedy",
-        "comedy horror movie 2026"
+        "a24",
+        "a24 films",
+        "a24 trailers",
+        "independent films",
+        "trailer",
+        "HD",
+        "official",
+        "movie",
+        "film",
+        "a24 movies"
       ],
-      "url": "https://www.youtube.com/watch?v=XW1RkKiRnsg"
+      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "theme_analysis": {
-          "entertainment_dominance": "The majority of the trending videos are related to entertainment, specifically movies and television series. This includes trailers for upcoming films and TV series such as 'The Devil Wears Prada 2', 'Daredevil: Born Again', and 'Hulk Hogan: Real American'.",
-          "celebrity_and_legacy_content": "Content featuring well-known personalities or legacy brands such as Marvel and Hulk Hogan appears to capture significant viewer interest.",
-          "news_and_analysis": "Videos like 'Jesse Watters Primetime' and 'The Rachel Maddow Show' indicate a strong interest in current events and political commentary."
+      "trend_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 4889937,
+          "average_views_per_video": 488993.7,
+          "categories": "Unknown"
         },
-        "trailer_and_teaser_prevalence": {
-          "high_engagement": "Trailers and teasers, such as those for Marvel and Netflix series, are highly effective in generating views. This suggests a trend where audiences are eagerly anticipating upcoming releases.",
-          "cross-promotion_opportunities": "There is potential for creators to collaborate with studios for exclusive releases or behind-the-scenes content."
-        }
-      },
-      "creator_patterns": {
-        "dominant_channels": {
-          "20th_Century_Studios_and_Marvel_Entertainment": "These channels are leveraging their brand strength to attract large audiences with exclusive content.",
-          "news_and_political_channels": "Channels like FOX News continue to draw significant attention with timely and engaging content."
+        "content_trends": {
+          "movie_trailers": {
+            "count": 4,
+            "titles": [
+              "The Devil Wears Prada 2 | Final Trailer",
+              "Marvel Television’s Daredevil: Born Again Season 2 | Official Trailer",
+              "Lord of the Flies | Official Trailer | Netflix",
+              "The Invite | Official Trailer HD | A24"
+            ],
+            "insight": "Movie trailers, especially those tied to popular franchises or remakes, are a significant trend and likely to attract views due to existing fan bases and curiosity about sequels or adaptations."
+          },
+          "sports": {
+            "count": 2,
+            "titles": [
+              "Los Angeles Dodgers at Toronto Blue Jays",
+              "New York Knicks at Atlanta Hawks"
+            ],
+            "insight": "Live sports events or highlights are consistently trending, indicating a continued strong viewer interest in sports content."
+          },
+          "music": {
+            "count": 1,
+            "titles": [
+              "Air Supply — Making Love Out of Nothing at All (Sub. Español)"
+            ],
+            "insight": "Music content, especially classic hits with subtitles, can attract international audiences, suggesting a market for retro or nostalgic music content with localization."
+          },
+          "news": {
+            "count": 1,
+            "titles": [
+              "Jesse Watters Primetime"
+            ],
+            "insight": "News-related content, particularly opinion segments or primetime slots, continues to draw viewer attention, highlighting a demand for current events and commentary."
+          }
         },
-        "multi-genre_approach": {
-          "diversification_strategy": "Channels are diversifying content genres, from trailers to music ('Air Supply') and sports ('Los Angeles Dodgers at Toronto Blue Jays'), to capture wider audience segments."
-        }
-      },
-      "market_opportunities": {
-        "emerging_trends": {
-          "nostalgia_marketing": "There is a notable interest in nostalgia-driven content, such as 'Hulk Hogan: Real American', which can be further explored by content creators.",
-          "localization_and_cultural_content": "The inclusion of content like 'Bhooth Bangla' highlights the growing trend of localized content that can capture niche markets."
+        "creator_patterns": {
+          "top_channels": [
+            {
+              "name": "20th Century Studios",
+              "video_count": 1
+            },
+            {
+              "name": "TBS",
+              "video_count": 1
+            },
+            {
+              "name": "Marvel Entertainment",
+              "video_count": 1
+            },
+            {
+              "name": "FOX News",
+              "video_count": 1
+            },
+            {
+              "name": "RetroVerse",
+              "video_count": 1
+            }
+          ],
+          "insight": "A diverse range of channels are contributing to trending content, with no single channel dominating. This suggests opportunities for smaller channels to capture niche audiences by tapping into trending topics."
         },
-        "audience_engagement_strategies": {
-          "interactive_content": "Creators can increase engagement by incorporating interactive elements, such as polls or live Q&A sessions, particularly in news and entertainment content.",
-          "leveraging_data_insights": "Understanding audience demographics and preferences can help tailor content, such as releasing trailers at times when engagement is highest."
-        }
-      },
-      "actionable_insights": {
-        "content_creation": {
-          "focus_on_trailers_and_teasers": "Increase production of short-form trailers and teasers to capture and hold audience attention.",
-          "capitalize_on_trending_themes": "Develop content around trending themes such as superhero series, notable sports events, and nostalgic figures."
-        },
-        "channel_strategy": {
-          "collaborative_content": "Foster collaborations with established studios and brands to create co-branded content that can leverage existing fan bases.",
-          "diverse_content_offerings": "Expand content offerings to include a mix of entertainment, news, and cultural content to diversify viewer base."
+        "market_opportunities": {
+          "emerging_categories": [
+            "Movie Adaptations and Sequels",
+            "Sports Highlights and Analysis",
+            "Classic Music with Localization",
+            "Current Events Commentary"
+          ],
+          "recommendations": {
+            "for_creators": "Focus on creating content around popular media franchises, providing sports analysis, and exploring the localization of classic music. Niche content within these trending categories can attract dedicated audiences.",
+            "for_brands": "Consider partnerships with creators producing trending content, especially in entertainment and sports, to leverage their reach and audience engagement. Aligning with news channels can also enhance brand visibility in current events."
+          }
         }
       },
       "metadata_stats": {
@@ -481,7 +516,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2416429
+        "avg_views_per_video": 488993
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
