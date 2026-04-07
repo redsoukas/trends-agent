@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-07T06:41:43.837947",
+  "timestamp": "2026-04-07T09:33:16.531149",
   "date": "2026-04-07",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 1358338,
-      "like_count": 24374,
-      "comment_count": 1070,
+      "view_count": 1568856,
+      "like_count": 26727,
+      "comment_count": 1149,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -32,13 +32,13 @@
       "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
     },
     {
-      "video_id": "8Zbe9-4YCJY",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "-1JbFZcnj6U",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-07T03:50:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Zbe9-4YCJY/hqdefault.jpg",
+      "published_at": "2026-04-07T07:52:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-1JbFZcnj6U/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -46,7 +46,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=8Zbe9-4YCJY"
+      "url": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
     },
     {
       "video_id": "U1MqJBVn8Rk",
@@ -58,9 +58,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U1MqJBVn8Rk/hqdefault.jpg",
       "duration": "PT1M49S",
       "duration_seconds": 109,
-      "view_count": 947591,
-      "like_count": 34043,
-      "comment_count": 1606,
+      "view_count": 1128029,
+      "like_count": 37000,
+      "comment_count": 1695,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -69,21 +69,21 @@
       "url": "https://www.youtube.com/watch?v=U1MqJBVn8Rk"
     },
     {
-      "video_id": "LBHYJCLAlIw",
-      "title": "Live From the Masters",
-      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-07T04:21:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LBHYJCLAlIw/hqdefault.jpg",
-      "duration": "PT3H1M6S",
-      "duration_seconds": 10866,
+      "video_id": "Y1EOFAsu52w",
+      "title": "College GameDay",
+      "description": "ESPN's top College Basketball analysts cover all the angles in men's college basketball with game previews, exclusive interviews, analysis, behind-the-scenes features and daring predictions.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-07T06:25:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y1EOFAsu52w/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LBHYJCLAlIw"
+      "url": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
     },
     {
       "video_id": "upey49pbRsQ",
@@ -95,8 +95,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/upey49pbRsQ/hqdefault.jpg",
       "duration": "PT5M42S",
       "duration_seconds": 342,
-      "view_count": 571478,
-      "like_count": 3073,
+      "view_count": 637948,
+      "like_count": 3255,
       "comment_count": 17,
       "category_id": "22",
       "tags": [
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ujupEUFDm3E/hqdefault.jpg",
       "duration": "PT1M18S",
       "duration_seconds": 78,
-      "view_count": 117867,
-      "like_count": 2565,
-      "comment_count": 327,
+      "view_count": 123967,
+      "like_count": 2639,
+      "comment_count": 338,
       "category_id": "24",
       "tags": [
         "Adolescence",
@@ -140,21 +140,21 @@
       "url": "https://www.youtube.com/watch?v=ujupEUFDm3E"
     },
     {
-      "video_id": "leDO8aa6dTk",
-      "title": "Katy Tur Reports",
-      "description": "The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-07T03:33:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/leDO8aa6dTk/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "video_id": "ft8fPDBrT08",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-07T07:56:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ft8fPDBrT08/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=leDO8aa6dTk"
+      "url": "https://www.youtube.com/watch?v=ft8fPDBrT08"
     },
     {
       "video_id": "CnvsdUe0h9g",
@@ -166,52 +166,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CnvsdUe0h9g/hqdefault.jpg",
       "duration": "PT12M28S",
       "duration_seconds": 748,
-      "view_count": 207816,
-      "like_count": 5465,
-      "comment_count": 352,
+      "view_count": 225734,
+      "like_count": 5692,
+      "comment_count": 366,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
     },
     {
-      "video_id": "BBPAFpek0_8",
-      "title": "Spoit Vs Squirtle (Rainbow Six Siege)",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nSpoit Vs Squirtle (Rainbow Six Siege)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-04-06T20:03:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BBPAFpek0_8/hqdefault.jpg",
-      "duration": "PT1H2M52S",
-      "duration_seconds": 3772,
-      "view_count": 371045,
-      "like_count": 12712,
-      "comment_count": 1109,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "Spoit Vs Squirtle (Rainbow Six Siege)"
-      ],
-      "url": "https://www.youtube.com/watch?v=BBPAFpek0_8"
+      "video_id": "ye795WML8SU",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-07T08:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ye795WML8SU/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ye795WML8SU"
     },
     {
-      "video_id": "ny5OZAuZsTM",
-      "title": "Grupo Niche - Nuestro Sueño (Letra)",
-      "description": "🎶 Nuestro Sueño - Álbum: Tapando el hueco 🎶 Artista: Grupo Niche 🎶❤️\nLetra hecha por: La Cueva Fiestera https://www.youtube.com/@LaCuevaFiestera\n\nVídeo oficial: https://www.youtube.com/watch?v=x5DvEWNkNJ0\n\nConoce más de Grupo Niche:\nYoutube: https://www.youtube.com/@GrupoNicheOficial \nInstagram: https://www.instagram.com/gruponicheoficial\nFacebook: https://www.facebook.com/elgruponiche\nTwitter: https://x.com/gruponiche\nSitio web oficial: https://gruponiche.com/\nSpotify: https://open.spotify.com/intl-es/artist/1zng9JZpblpk48IPceRWs8\n\nLyrics:\nEstoy viviendo un sueño\nMe siento único dueño\nDel amor\n\nUna mirada bastó\nAsí sucedió\nAusentes las palabras\nMi cuerpo vibró\nCuando su mano tomé, el cielo miré\nEl brillo de sus ojos, sus labios besé\n\nAsí como se fue\nAsí vendrá\nEn alas de dicha\nEl viento traerá\nHoy te espero porque el sueño que mi vida imaginó\nEs el mismo sueño que tu amor me inspiró\n\nQue mi amor te enseñó\nCuando vendrás\nSé que vendrás\nA vivir nuestro sueño, a hacerlo una verdad\n\nAsí c",
-      "channel_title": "La Cueva Fiestera",
-      "channel_id": "UChwbWfL_QkzKIWdWcuJBdhg",
-      "published_at": "2026-04-04T14:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ny5OZAuZsTM/hqdefault.jpg",
-      "duration": "PT6M2S",
-      "duration_seconds": 362,
-      "view_count": 470947,
-      "like_count": 655,
-      "comment_count": 4,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ny5OZAuZsTM"
+      "video_id": "XW1RkKiRnsg",
+      "title": "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr",
+      "description": "Welcome to Bhooth Bangla. Yahan na toh log normal hain... Aur upar se Bangla bhi paranormal hai. \nEnter at your own risk 🧟‍♀️\n\n#BhoothBanglaTrailer out now\n\n#BhoothBangla, paid previews begin in theatres 16th April 2026, 9 PM onwards 👻\n\nWhen London-returned Arjun Acharya arrives in the sleepy town of Mangalpur to host his sister’s wedding at his newly inherited ancestral palace, he finds himself caught in a whirlwind of terrified locals, bizarre ghostly happenings, and hilarious chaos—until he begins uncovering the shocking truth behind the palace’s centuries-old legend.\n\nBalaji Telefilms Ltd. in association with Cape Of Good Films present\nBhooth Bangla\n\nStarring: Akshay Kumar, Paresh Rawal, Rajpal Yadav, Tabu, Wamiqa Gabbi, Jisshu Sengupta, Manoj Joshi, Mithila Palkar, Asrani Ji, Rajesh Sharma \nDirected by: Priyadarshan\nProduced by: Akshay Kumar, Shobha Kapoor, Ektaa R. Kapoor\nCo-producer: Vimal Doshi, Faara Sheikh, Vedant Vikaas Baali\nGroup CEO & CFO (BTL): Sanjay Dwivedi\nDirector of",
+      "channel_title": "Balaji Motion Pictures",
+      "channel_id": "UCSHLoG-bXj1aVA2T5y8t84A",
+      "published_at": "2026-04-06T08:32:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XW1RkKiRnsg/hqdefault.jpg",
+      "duration": "PT3M4S",
+      "duration_seconds": 184,
+      "view_count": 18882477,
+      "like_count": 271166,
+      "comment_count": 14899,
+      "category_id": "24",
+      "tags": [
+        "bhooth bangla trailer",
+        "bhooth bangla official trailer",
+        "akshay kumar new movie",
+        "akshay kumar trailer 2026",
+        "bhooth bangla teaser",
+        "bhooth bangla full movie",
+        "bhooth bangla release date",
+        "horror comedy hindi movie",
+        "bollywood horror comedy",
+        "comedy horror movie 2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=XW1RkKiRnsg"
     }
   ],
   "videos_with_transcripts": [],
@@ -226,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 1358338,
-      "like_count": 24374,
-      "comment_count": 1070,
+      "view_count": 1568856,
+      "like_count": 26727,
+      "comment_count": 1149,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -236,13 +241,13 @@
       "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
     },
     {
-      "video_id": "8Zbe9-4YCJY",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "-1JbFZcnj6U",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-07T03:50:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Zbe9-4YCJY/hqdefault.jpg",
+      "published_at": "2026-04-07T07:52:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-1JbFZcnj6U/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -250,7 +255,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=8Zbe9-4YCJY"
+      "url": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
     },
     {
       "video_id": "U1MqJBVn8Rk",
@@ -262,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U1MqJBVn8Rk/hqdefault.jpg",
       "duration": "PT1M49S",
       "duration_seconds": 109,
-      "view_count": 947591,
-      "like_count": 34043,
-      "comment_count": 1606,
+      "view_count": 1128029,
+      "like_count": 37000,
+      "comment_count": 1695,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -273,21 +278,21 @@
       "url": "https://www.youtube.com/watch?v=U1MqJBVn8Rk"
     },
     {
-      "video_id": "LBHYJCLAlIw",
-      "title": "Live From the Masters",
-      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-07T04:21:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LBHYJCLAlIw/hqdefault.jpg",
-      "duration": "PT3H1M6S",
-      "duration_seconds": 10866,
+      "video_id": "Y1EOFAsu52w",
+      "title": "College GameDay",
+      "description": "ESPN's top College Basketball analysts cover all the angles in men's college basketball with game previews, exclusive interviews, analysis, behind-the-scenes features and daring predictions.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-07T06:25:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y1EOFAsu52w/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LBHYJCLAlIw"
+      "url": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
     },
     {
       "video_id": "upey49pbRsQ",
@@ -299,8 +304,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/upey49pbRsQ/hqdefault.jpg",
       "duration": "PT5M42S",
       "duration_seconds": 342,
-      "view_count": 571478,
-      "like_count": 3073,
+      "view_count": 637948,
+      "like_count": 3255,
       "comment_count": 17,
       "category_id": "22",
       "tags": [
@@ -327,9 +332,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ujupEUFDm3E/hqdefault.jpg",
       "duration": "PT1M18S",
       "duration_seconds": 78,
-      "view_count": 117867,
-      "like_count": 2565,
-      "comment_count": 327,
+      "view_count": 123967,
+      "like_count": 2639,
+      "comment_count": 338,
       "category_id": "24",
       "tags": [
         "Adolescence",
@@ -344,21 +349,21 @@
       "url": "https://www.youtube.com/watch?v=ujupEUFDm3E"
     },
     {
-      "video_id": "leDO8aa6dTk",
-      "title": "Katy Tur Reports",
-      "description": "The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-07T03:33:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/leDO8aa6dTk/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "video_id": "ft8fPDBrT08",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-07T07:56:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ft8fPDBrT08/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=leDO8aa6dTk"
+      "url": "https://www.youtube.com/watch?v=ft8fPDBrT08"
     },
     {
       "video_id": "CnvsdUe0h9g",
@@ -370,140 +375,139 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CnvsdUe0h9g/hqdefault.jpg",
       "duration": "PT12M28S",
       "duration_seconds": 748,
-      "view_count": 207816,
-      "like_count": 5465,
-      "comment_count": 352,
+      "view_count": 225734,
+      "like_count": 5692,
+      "comment_count": 366,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
     },
     {
-      "video_id": "BBPAFpek0_8",
-      "title": "Spoit Vs Squirtle (Rainbow Six Siege)",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nSpoit Vs Squirtle (Rainbow Six Siege)\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-04-06T20:03:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BBPAFpek0_8/hqdefault.jpg",
-      "duration": "PT1H2M52S",
-      "duration_seconds": 3772,
-      "view_count": 371045,
-      "like_count": 12712,
-      "comment_count": 1109,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "Spoit Vs Squirtle (Rainbow Six Siege)"
-      ],
-      "url": "https://www.youtube.com/watch?v=BBPAFpek0_8"
+      "video_id": "ye795WML8SU",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-07T08:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ye795WML8SU/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ye795WML8SU"
     },
     {
-      "video_id": "ny5OZAuZsTM",
-      "title": "Grupo Niche - Nuestro Sueño (Letra)",
-      "description": "🎶 Nuestro Sueño - Álbum: Tapando el hueco 🎶 Artista: Grupo Niche 🎶❤️\nLetra hecha por: La Cueva Fiestera https://www.youtube.com/@LaCuevaFiestera\n\nVídeo oficial: https://www.youtube.com/watch?v=x5DvEWNkNJ0\n\nConoce más de Grupo Niche:\nYoutube: https://www.youtube.com/@GrupoNicheOficial \nInstagram: https://www.instagram.com/gruponicheoficial\nFacebook: https://www.facebook.com/elgruponiche\nTwitter: https://x.com/gruponiche\nSitio web oficial: https://gruponiche.com/\nSpotify: https://open.spotify.com/intl-es/artist/1zng9JZpblpk48IPceRWs8\n\nLyrics:\nEstoy viviendo un sueño\nMe siento único dueño\nDel amor\n\nUna mirada bastó\nAsí sucedió\nAusentes las palabras\nMi cuerpo vibró\nCuando su mano tomé, el cielo miré\nEl brillo de sus ojos, sus labios besé\n\nAsí como se fue\nAsí vendrá\nEn alas de dicha\nEl viento traerá\nHoy te espero porque el sueño que mi vida imaginó\nEs el mismo sueño que tu amor me inspiró\n\nQue mi amor te enseñó\nCuando vendrás\nSé que vendrás\nA vivir nuestro sueño, a hacerlo una verdad\n\nAsí c",
-      "channel_title": "La Cueva Fiestera",
-      "channel_id": "UChwbWfL_QkzKIWdWcuJBdhg",
-      "published_at": "2026-04-04T14:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ny5OZAuZsTM/hqdefault.jpg",
-      "duration": "PT6M2S",
-      "duration_seconds": 362,
-      "view_count": 470947,
-      "like_count": 655,
-      "comment_count": 4,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ny5OZAuZsTM"
+      "video_id": "XW1RkKiRnsg",
+      "title": "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr",
+      "description": "Welcome to Bhooth Bangla. Yahan na toh log normal hain... Aur upar se Bangla bhi paranormal hai. \nEnter at your own risk 🧟‍♀️\n\n#BhoothBanglaTrailer out now\n\n#BhoothBangla, paid previews begin in theatres 16th April 2026, 9 PM onwards 👻\n\nWhen London-returned Arjun Acharya arrives in the sleepy town of Mangalpur to host his sister’s wedding at his newly inherited ancestral palace, he finds himself caught in a whirlwind of terrified locals, bizarre ghostly happenings, and hilarious chaos—until he begins uncovering the shocking truth behind the palace’s centuries-old legend.\n\nBalaji Telefilms Ltd. in association with Cape Of Good Films present\nBhooth Bangla\n\nStarring: Akshay Kumar, Paresh Rawal, Rajpal Yadav, Tabu, Wamiqa Gabbi, Jisshu Sengupta, Manoj Joshi, Mithila Palkar, Asrani Ji, Rajesh Sharma \nDirected by: Priyadarshan\nProduced by: Akshay Kumar, Shobha Kapoor, Ektaa R. Kapoor\nCo-producer: Vimal Doshi, Faara Sheikh, Vedant Vikaas Baali\nGroup CEO & CFO (BTL): Sanjay Dwivedi\nDirector of",
+      "channel_title": "Balaji Motion Pictures",
+      "channel_id": "UCSHLoG-bXj1aVA2T5y8t84A",
+      "published_at": "2026-04-06T08:32:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XW1RkKiRnsg/hqdefault.jpg",
+      "duration": "PT3M4S",
+      "duration_seconds": 184,
+      "view_count": 18882477,
+      "like_count": 271166,
+      "comment_count": 14899,
+      "category_id": "24",
+      "tags": [
+        "bhooth bangla trailer",
+        "bhooth bangla official trailer",
+        "akshay kumar new movie",
+        "akshay kumar trailer 2026",
+        "bhooth bangla teaser",
+        "bhooth bangla full movie",
+        "bhooth bangla release date",
+        "horror comedy hindi movie",
+        "bollywood horror comedy",
+        "comedy horror movie 2026"
+      ],
+      "url": "https://www.youtube.com/watch?v=XW1RkKiRnsg"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "observed_patterns": [
-          {
-            "trend": "Nostalgia and Sequels",
-            "description": "Two videos, 'The Devil Wears Prada 2' and 'Lord of the Flies,' focus on revisiting classic narratives or stories, indicating a trend towards nostalgia and sequels. This reflects a market opportunity to capitalize on established fan bases and stories."
-          },
-          {
-            "trend": "Superhero and Sci-fi Content",
-            "description": "With titles like 'Marvel Television’s Daredevil: Born Again Season 2' and 'Avengers Doomsday Doctor Doom Teaser Breakdown,' there is a visible demand for superhero and sci-fi content, highlighting a steady interest in these genres."
-          },
-          {
-            "trend": "Music and Entertainment",
-            "description": "Music-related videos (e.g., 'Air Supply — Making Love Out of Nothing at All' and 'Grupo Niche - Nuestro Sueño') continue to trend, suggesting that music content remains a staple of YouTube engagement."
-          },
-          {
-            "trend": "Live Events and Reporting",
-            "description": "Videos like 'Live From the Masters' and 'Katy Tur Reports' suggest that live events and news reporting are trending, indicating an audience interest in real-time content and current affairs."
-          }
-        ],
-        "data_insights": {
-          "total_views": 4045082,
-          "average_views_per_video": 404508.2,
-          "high_engagement_categories": "Entertainment, News, and Music",
-          "engagement_trends": [
-            "High interest in trailers and teasers",
-            "Consistent engagement with music content",
-            "Demand for live event coverage and news reporting"
-          ]
+        "movie_and_tv_trailers": {
+          "description": "Trailers for upcoming films and TV shows are a significant portion of trending videos.",
+          "examples": [
+            "The Devil Wears Prada 2 | Final Trailer",
+            "Marvel Television’s Daredevil: Born Again Season 2 | Official Trailer",
+            "Lord of the Flies | Official Trailer | Netflix",
+            "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr"
+          ],
+          "insights": "Trailers consistently capture audience interest due to anticipation of new releases. Studios can leverage this by releasing trailers with exclusive sneak peeks or behind-the-scenes content."
+        },
+        "news_and_reports": {
+          "description": "News segments, especially on global events and politics, are also trending.",
+          "examples": [
+            "Jesse Watters Primetime",
+            "CNN Global Report: War With Iran"
+          ],
+          "insights": "Timely and in-depth reporting on current affairs is crucial. Channels focusing on news can increase engagement by providing live updates and expert analyses."
+        },
+        "sports_coverage": {
+          "description": "Sports events and related content maintain a strong presence.",
+          "examples": [
+            "College GameDay",
+            "Live From the Masters"
+          ],
+          "insights": "Live sports coverage and pre/post-event analysis are popular. Channels can enhance viewership by incorporating interactive components like fan polls or expert predictions."
+        },
+        "music_and_entertainment": {
+          "description": "Music videos and entertainment-related content continue to appeal to audiences.",
+          "examples": [
+            "Air Supply — Making Love Out of Nothing at All (Sub. Español)"
+          ],
+          "insights": "Classic music and multilingual content can tap into niche audiences and diverse demographics. Consider collaborations or remastered releases to rejuvenate interest."
+        },
+        "superhero_and_fantasy_genres": {
+          "description": "Content related to superheroes and fantasy worlds are trending.",
+          "examples": [
+            "Avengers Doomsday Doctor Doom Teaser Breakdown"
+          ],
+          "insights": "The superhero genre remains highly popular. Creators can engage audiences by exploring character backstories, fan theories, and cross-universe connections."
         }
       },
       "creator_patterns": {
-        "dominant_channels": [
-          {
-            "channel_name": "20th Century Studios",
-            "content_focus": "Film Trailers",
-            "videos_contributed": 1
-          },
-          {
-            "channel_name": "FOX News",
-            "content_focus": "News Reporting",
-            "videos_contributed": 1
-          },
-          {
-            "channel_name": "Marvel Entertainment",
-            "content_focus": "Superhero Trailers",
-            "videos_contributed": 1
-          },
-          {
-            "channel_name": "Golf Channel",
-            "content_focus": "Sports Coverage",
-            "videos_contributed": 1
-          },
-          {
-            "channel_name": "RetroVerse",
-            "content_focus": "Music",
-            "videos_contributed": 1
-          }
-        ],
-        "engagement_strategies": [
-          "Leveraging popular franchises and sequels to drive engagement",
-          "Utilizing teasers and trailers to create anticipation",
-          "Providing real-time content to capture the live audience"
-        ]
+        "major_studio_involvement": {
+          "description": "Studios like 20th Century Studios and Marvel Entertainment are key players in trending content.",
+          "insights": "These studios effectively use high-quality production and existing fan bases to drive views. New creators can learn from their marketing strategies and production values."
+        },
+        "news_outlets": {
+          "description": "Channels like FOX News and CNN are influential in trending news content.",
+          "insights": "Credibility and real-time reporting are essential. Smaller news outlets can focus on niche topics or local news to differentiate themselves."
+        },
+        "sports_broadcasters": {
+          "description": "ESPN's presence highlights the popularity of sports content.",
+          "insights": "Incorporating interactive elements such as live commentary and audience polls can increase engagement."
+        },
+        "diverse_content_creators": {
+          "description": "Lesser-known channels like RetroVerse also trend with unique content offerings.",
+          "insights": "Niche content and targeting specific audience interests can lead to success even for smaller channels."
+        }
       },
       "market_opportunities": {
-        "opportunities": [
-          {
-            "area": "Nostalgia-Driven Content",
-            "suggestions": "Develop content around classic movies, series, and music to attract nostalgic audiences."
-          },
-          {
-            "area": "Superhero and Sci-fi Expansion",
-            "suggestions": "Expand offerings in the superhero and sci-fi genres, potentially exploring new formats such as animated series or behind-the-scenes content."
-          },
-          {
-            "area": "Live Event Coverage",
-            "suggestions": "Enhance live streaming capabilities and partnerships for sports events and news reporting to capture real-time audience interest."
-          },
-          {
-            "area": "Music Content",
-            "suggestions": "Explore partnerships with musicians and labels for exclusive releases and behind-the-scenes content to engage music fans."
-          }
-        ]
+        "localization": {
+          "description": "Localized content, such as subtitled music videos, has a broad appeal.",
+          "recommendations": "Invest in creating multilingual content or subtitles to reach wider audiences."
+        },
+        "cross-genre collaborations": {
+          "description": "Combining elements from different genres can create unique offerings.",
+          "recommendations": "Explore collaborations between music, film, and sports for innovative content."
+        },
+        "real-time interaction": {
+          "description": "Live interactions during broadcasts drive engagement.",
+          "recommendations": "Implement live Q&A sessions, polls, and real-time feedback during live events."
+        },
+        "niche content exploration": {
+          "description": "Catering to specific interests can capture dedicated audience segments.",
+          "recommendations": "Identify underserved niches and tailor content to meet these specific interests."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -511,7 +515,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 404508
+        "avg_views_per_video": 2256701
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
