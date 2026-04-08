@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T09:32:59.308930",
+  "timestamp": "2026-04-08T12:30:48.426529",
   "date": "2026-04-08",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 781423,
-      "like_count": 18314,
-      "comment_count": 926,
+      "view_count": 929388,
+      "like_count": 19398,
+      "comment_count": 977,
       "category_id": "1",
       "tags": [
         "a24",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2790580,
-      "like_count": 40889,
-      "comment_count": 1634,
+      "view_count": 2811769,
+      "like_count": 41682,
+      "comment_count": 1663,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -103,9 +103,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jdHdAoE9qNs/hqdefault.jpg",
       "duration": "PT6M36S",
       "duration_seconds": 396,
-      "view_count": 217385,
-      "like_count": 10030,
-      "comment_count": 942,
+      "view_count": 231179,
+      "like_count": 10582,
+      "comment_count": 986,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jdHdAoE9qNs"
@@ -137,9 +137,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XO43hYFRSbs/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 128572,
-      "like_count": 8281,
-      "comment_count": 706,
+      "view_count": 133496,
+      "like_count": 8543,
+      "comment_count": 729,
       "category_id": "1",
       "tags": [
         "adult swim",
@@ -156,21 +156,21 @@
       "url": "https://www.youtube.com/watch?v=XO43hYFRSbs"
     },
     {
-      "video_id": "jEYgNwQSr_I",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "dlth1Vsbpz8",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-08T06:37:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jEYgNwQSr_I/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "published_at": "2026-04-08T10:34:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dlth1Vsbpz8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
+      "url": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
     },
     {
       "video_id": "NW2CRIFAVnk",
@@ -182,9 +182,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NW2CRIFAVnk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 470997,
-      "like_count": 23159,
-      "comment_count": 1452,
+      "view_count": 495522,
+      "like_count": 24304,
+      "comment_count": 1498,
       "category_id": "23",
       "tags": [
         "adult swim",
@@ -201,21 +201,21 @@
       "url": "https://www.youtube.com/watch?v=NW2CRIFAVnk"
     },
     {
-      "video_id": "Lo9oS-JFpm4",
-      "title": "Tee Time",
-      "description": "Dara confronts Bailey over the flirtation rumors; Ciara makes a solo trip down south; Carl's frustrations with Kyle reach a boiling point.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-04-08T06:42:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lo9oS-JFpm4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "5A37DlG_IjU",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-08T09:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5A37DlG_IjU/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
+      "url": "https://www.youtube.com/watch?v=5A37DlG_IjU"
     }
   ],
   "videos_with_transcripts": [],
@@ -230,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 781423,
-      "like_count": 18314,
-      "comment_count": 926,
+      "view_count": 929388,
+      "like_count": 19398,
+      "comment_count": 977,
       "category_id": "1",
       "tags": [
         "a24",
@@ -275,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2790580,
-      "like_count": 40889,
-      "comment_count": 1634,
+      "view_count": 2811769,
+      "like_count": 41682,
+      "comment_count": 1663,
       "category_id": "1",
       "tags": [
         "Trailer"
@@ -311,9 +311,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jdHdAoE9qNs/hqdefault.jpg",
       "duration": "PT6M36S",
       "duration_seconds": 396,
-      "view_count": 217385,
-      "like_count": 10030,
-      "comment_count": 942,
+      "view_count": 231179,
+      "like_count": 10582,
+      "comment_count": 986,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jdHdAoE9qNs"
@@ -345,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XO43hYFRSbs/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 128572,
-      "like_count": 8281,
-      "comment_count": 706,
+      "view_count": 133496,
+      "like_count": 8543,
+      "comment_count": 729,
       "category_id": "1",
       "tags": [
         "adult swim",
@@ -364,21 +364,21 @@
       "url": "https://www.youtube.com/watch?v=XO43hYFRSbs"
     },
     {
-      "video_id": "jEYgNwQSr_I",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "video_id": "dlth1Vsbpz8",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-08T06:37:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jEYgNwQSr_I/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
+      "published_at": "2026-04-08T10:34:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dlth1Vsbpz8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
+      "url": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
     },
     {
       "video_id": "NW2CRIFAVnk",
@@ -390,9 +390,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NW2CRIFAVnk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 470997,
-      "like_count": 23159,
-      "comment_count": 1452,
+      "view_count": 495522,
+      "like_count": 24304,
+      "comment_count": 1498,
       "category_id": "23",
       "tags": [
         "adult swim",
@@ -409,21 +409,21 @@
       "url": "https://www.youtube.com/watch?v=NW2CRIFAVnk"
     },
     {
-      "video_id": "Lo9oS-JFpm4",
-      "title": "Tee Time",
-      "description": "Dara confronts Bailey over the flirtation rumors; Ciara makes a solo trip down south; Carl's frustrations with Kyle reach a boiling point.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-04-08T06:42:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lo9oS-JFpm4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "5A37DlG_IjU",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-08T09:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5A37DlG_IjU/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
+      "url": "https://www.youtube.com/watch?v=5A37DlG_IjU"
     }
   ],
   "analysis": {
@@ -431,71 +431,55 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 4388957,
-        "average_views_per_video": 438895.7
+        "total_views": 4601354,
+        "average_views_per_video": 460135.4
       },
       "content_trends": {
-        "trailer_dominance": {
-          "description": "Trailers are currently dominating the trending videos, with 5 out of 10 videos being trailers or related to upcoming releases.",
-          "opportunity": "Focus on exclusive content releases, teasers, and behind-the-scenes footage to leverage the high interest in trailers."
-        },
-        "news_and_politics": {
-          "description": "News-related content accounts for a significant portion of the trending list.",
-          "channels": [
-            "FOX News",
-            "CNN"
-          ],
-          "opportunity": "Create timely, engaging news content with a focus on major global events to attract viewers."
-        },
-        "entertainment_mix": {
-          "description": "There is a mix of entertainment content, including animation ('Rick and Morty') and parodies ('Honest Trailers').",
-          "opportunity": "Develop content that merges humor with popular culture, such as satirical reviews or animated shorts."
-        }
+        "dominating_genres": [
+          "Trailers",
+          "News Reports",
+          "Sports Highlights",
+          "Commentary Shows"
+        ],
+        "trending_topics": [
+          "Movie Trailers",
+          "Political News",
+          "Animated Series",
+          "Sports Events"
+        ],
+        "trailer_prevalence": 40,
+        "news_and_commentary_prevalence": 30,
+        "animated_series_prevalence": 20
       },
       "creator_patterns": {
-        "top_channels": {
-          "A24": {
-            "video_count": 1,
-            "content_focus": "Movie trailers",
-            "strategy": "Leverage high-quality production and exclusive sneak peeks to maintain viewer interest."
-          },
-          "FOX News": {
-            "video_count": 1,
-            "content_focus": "Primetime news segments",
-            "strategy": "Capitalize on current events and political discussions to drive engagement."
-          },
-          "20th Century Studios": {
-            "video_count": 1,
-            "content_focus": "Movie trailers",
-            "strategy": "Use cross-platform promotion and collaborations with influencers to boost trailer reach."
-          },
-          "TBS": {
-            "video_count": 1,
-            "content_focus": "Sports events",
-            "strategy": "Highlight sports-related content, especially major championships and tournaments."
-          },
-          "Screen Junkies": {
-            "video_count": 1,
-            "content_focus": "Parody trailers",
-            "strategy": "Create humorous, relatable content that appeals to both casual viewers and film enthusiasts."
-          }
+        "leading_channels": [
+          "A24",
+          "FOX News",
+          "20th Century Studios",
+          "TBS",
+          "Screen Junkies"
+        ],
+        "video_per_channel_average": 1,
+        "view_per_channel_average": {
+          "A24": 460135.4,
+          "FOX News": 460135.4,
+          "20th Century Studios": 460135.4,
+          "TBS": 460135.4,
+          "Screen Junkies": 460135.4
         }
       },
       "market_opportunities": {
-        "cross-category content": {
-          "description": "Blend elements from different categories like news, entertainment, and sports to create hybrid content.",
-          "example": "A comedic take on political events or a sports analysis with pop culture references."
+        "increased_interest_in_trailers": {
+          "insight": "Trailers make up 40% of the trending content, indicating a strong viewer interest in upcoming media releases. Channels can capitalize on this by producing high-quality, engaging trailers for both film and television."
         },
-        "global reach": {
-          "description": "Expand content to appeal to international audiences, especially with trailers and global news.",
-          "strategy": "Include subtitles and culturally relevant references to broaden appeal."
+        "news_and_political_content": {
+          "insight": "30% of the trending videos are news-related, reflecting a high viewer demand for current events and political commentary. Channels could explore producing more in-depth analysis or live discussions to engage audiences."
         },
-        "engagement strategies": {
-          "description": "Use interactive content such as polls, Q&A sessions, and live streams to increase viewer interaction.",
-          "tools": [
-            "YouTube Premiere",
-            "Community posts"
-          ]
+        "animated_series_expansion": {
+          "insight": "With 20% of the content being related to animated series, there is potential to tap into this niche by creating original animated content or engaging with existing fanbases through reviews and discussions."
+        },
+        "sports_event_coverage": {
+          "insight": "The presence of sports content in the trending list suggests opportunities for channels to focus on live sports coverage, highlights, and commentary to attract sports enthusiasts."
         }
       },
       "metadata_stats": {
@@ -504,7 +488,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 438895
+        "avg_views_per_video": 460135
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
