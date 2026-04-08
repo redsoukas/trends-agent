@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T06:43:06.621955",
+  "timestamp": "2026-04-08T09:32:59.308930",
   "date": "2026-04-08",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 708765,
-      "like_count": 17307,
-      "comment_count": 886,
+      "view_count": 781423,
+      "like_count": 18314,
+      "comment_count": 926,
       "category_id": "1",
       "tags": [
         "a24",
@@ -39,6 +39,42 @@
         "a24 movies"
       ],
       "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
+    },
+    {
+      "video_id": "p92uaIud8bI",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-08T06:49:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p92uaIud8bI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=p92uaIud8bI"
+    },
+    {
+      "video_id": "PMd1at7OwiE",
+      "title": "The Devil Wears Prada 2 | Final Trailer",
+      "description": "Watch the new trailer for The Devil Wears Prada 2 with original song “Runway” performed by Lady Gaga and Doechii. Get tickets now and experience the film only in theaters May 1: https://Fandango.com/TheDevilWearsPrada2\n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finer",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-04-06T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 2790580,
+      "like_count": 40889,
+      "comment_count": 1634,
+      "category_id": "1",
+      "tags": [
+        "Trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
     },
     {
       "video_id": "V88ZcV23Rsg",
@@ -58,42 +94,6 @@
       "url": "https://www.youtube.com/watch?v=V88ZcV23Rsg"
     },
     {
-      "video_id": "PMd1at7OwiE",
-      "title": "The Devil Wears Prada 2 | Final Trailer",
-      "description": "Watch the new trailer for The Devil Wears Prada 2 with original song “Runway” performed by Lady Gaga and Doechii. Get tickets now and experience the film only in theaters May 1: https://Fandango.com/TheDevilWearsPrada2\n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finer",
-      "channel_title": "20th Century Studios",
-      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-      "published_at": "2026-04-06T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 2711405,
-      "like_count": 40080,
-      "comment_count": 1600,
-      "category_id": "1",
-      "tags": [
-        "Trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
-    },
-    {
-      "video_id": "SFmHWuLBQcg",
-      "title": "Special Report With Bret Baier",
-      "description": "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, DC.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-08T05:07:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SFmHWuLBQcg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SFmHWuLBQcg"
-    },
-    {
       "video_id": "jdHdAoE9qNs",
       "title": "Honest Trailers | Avatar: Fire and Ash",
       "description": "Well paint me blue and call me Na’vi, it’s time for another one a them Avatar movies! Fire and Ash? More like tired and a$$. James Cameron get yourself out the ocean and go fix the Terminator franchise you old so and so.\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #avatar #jamescameron #navi",
@@ -103,29 +103,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jdHdAoE9qNs/hqdefault.jpg",
       "duration": "PT6M36S",
       "duration_seconds": 396,
-      "view_count": 198458,
-      "like_count": 9485,
-      "comment_count": 894,
+      "view_count": 217385,
+      "like_count": 10030,
+      "comment_count": 942,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jdHdAoE9qNs"
     },
     {
-      "video_id": "58fAS-HuRis",
-      "title": "The Lead With Jake Tapper",
-      "description": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
+      "video_id": "L96ES5nJpKU",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-08T04:53:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/58fAS-HuRis/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-04-08T08:26:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=58fAS-HuRis"
+      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
     },
     {
       "video_id": "XO43hYFRSbs",
@@ -137,9 +137,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XO43hYFRSbs/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 120868,
-      "like_count": 8024,
-      "comment_count": 691,
+      "view_count": 128572,
+      "like_count": 8281,
+      "comment_count": 706,
       "category_id": "1",
       "tags": [
         "adult swim",
@@ -156,32 +156,21 @@
       "url": "https://www.youtube.com/watch?v=XO43hYFRSbs"
     },
     {
-      "video_id": "zVeFQHwW_10",
-      "title": "LAUGHING INTO THE SKY | Approximately Up",
-      "description": "Bob, Wade, and I attempt to build flying machine in Approximately Up! Hilarity ensues. \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/3904850/Approximately_Up/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-04-07T20:50:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zVeFQHwW_10/hqdefault.jpg",
-      "duration": "PT1H14M7S",
-      "duration_seconds": 4447,
-      "view_count": 530473,
-      "like_count": 35852,
-      "comment_count": 1568,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "funny moments",
-        "laughing",
-        "hilarious",
-        "muyskerm",
-        "lordminion777",
-        "mark bob wade",
-        "collab",
-        "funny multiplayer games",
-        "multiplayer games"
-      ],
-      "url": "https://www.youtube.com/watch?v=zVeFQHwW_10"
+      "video_id": "jEYgNwQSr_I",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-08T06:37:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jEYgNwQSr_I/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
     },
     {
       "video_id": "NW2CRIFAVnk",
@@ -193,9 +182,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NW2CRIFAVnk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 434083,
-      "like_count": 22087,
-      "comment_count": 1395,
+      "view_count": 470997,
+      "like_count": 23159,
+      "comment_count": 1452,
       "category_id": "23",
       "tags": [
         "adult swim",
@@ -212,32 +201,21 @@
       "url": "https://www.youtube.com/watch?v=NW2CRIFAVnk"
     },
     {
-      "video_id": "5IS5FLUbpDo",
-      "title": "DO NOT Play Super Battle Golf Like This",
-      "description": "This might be our worst idea yet!\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Bigpuffer \n@ElasticDroid \n@Grizzy \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-04-07T21:06:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IS5FLUbpDo/hqdefault.jpg",
-      "duration": "PT50M40S",
-      "duration_seconds": 3040,
-      "view_count": 462991,
-      "like_count": 34421,
-      "comment_count": 1315,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=5IS5FLUbpDo"
+      "video_id": "Lo9oS-JFpm4",
+      "title": "Tee Time",
+      "description": "Dara confronts Bailey over the flirtation rumors; Ciara makes a solo trip down south; Carl's frustrations with Kyle reach a boiling point.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-04-08T06:42:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lo9oS-JFpm4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
     }
   ],
   "videos_with_transcripts": [],
@@ -252,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
       "duration": "PT2M3S",
       "duration_seconds": 123,
-      "view_count": 708765,
-      "like_count": 17307,
-      "comment_count": 886,
+      "view_count": 781423,
+      "like_count": 18314,
+      "comment_count": 926,
       "category_id": "1",
       "tags": [
         "a24",
@@ -269,6 +247,42 @@
         "a24 movies"
       ],
       "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
+    },
+    {
+      "video_id": "p92uaIud8bI",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-08T06:49:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p92uaIud8bI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=p92uaIud8bI"
+    },
+    {
+      "video_id": "PMd1at7OwiE",
+      "title": "The Devil Wears Prada 2 | Final Trailer",
+      "description": "Watch the new trailer for The Devil Wears Prada 2 with original song “Runway” performed by Lady Gaga and Doechii. Get tickets now and experience the film only in theaters May 1: https://Fandango.com/TheDevilWearsPrada2\n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finer",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-04-06T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 2790580,
+      "like_count": 40889,
+      "comment_count": 1634,
+      "category_id": "1",
+      "tags": [
+        "Trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
     },
     {
       "video_id": "V88ZcV23Rsg",
@@ -288,42 +302,6 @@
       "url": "https://www.youtube.com/watch?v=V88ZcV23Rsg"
     },
     {
-      "video_id": "PMd1at7OwiE",
-      "title": "The Devil Wears Prada 2 | Final Trailer",
-      "description": "Watch the new trailer for The Devil Wears Prada 2 with original song “Runway” performed by Lady Gaga and Doechii. Get tickets now and experience the film only in theaters May 1: https://Fandango.com/TheDevilWearsPrada2\n\nAlmost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finer",
-      "channel_title": "20th Century Studios",
-      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-      "published_at": "2026-04-06T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PMd1at7OwiE/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 2711405,
-      "like_count": 40080,
-      "comment_count": 1600,
-      "category_id": "1",
-      "tags": [
-        "Trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=PMd1at7OwiE"
-    },
-    {
-      "video_id": "SFmHWuLBQcg",
-      "title": "Special Report With Bret Baier",
-      "description": "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, DC.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-08T05:07:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SFmHWuLBQcg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SFmHWuLBQcg"
-    },
-    {
       "video_id": "jdHdAoE9qNs",
       "title": "Honest Trailers | Avatar: Fire and Ash",
       "description": "Well paint me blue and call me Na’vi, it’s time for another one a them Avatar movies! Fire and Ash? More like tired and a$$. James Cameron get yourself out the ocean and go fix the Terminator franchise you old so and so.\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #avatar #jamescameron #navi",
@@ -333,29 +311,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jdHdAoE9qNs/hqdefault.jpg",
       "duration": "PT6M36S",
       "duration_seconds": 396,
-      "view_count": 198458,
-      "like_count": 9485,
-      "comment_count": 894,
+      "view_count": 217385,
+      "like_count": 10030,
+      "comment_count": 942,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jdHdAoE9qNs"
     },
     {
-      "video_id": "58fAS-HuRis",
-      "title": "The Lead With Jake Tapper",
-      "description": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
+      "video_id": "L96ES5nJpKU",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
       "channel_title": "CNN",
       "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-08T04:53:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/58fAS-HuRis/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-04-08T08:26:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=58fAS-HuRis"
+      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
     },
     {
       "video_id": "XO43hYFRSbs",
@@ -367,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XO43hYFRSbs/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 120868,
-      "like_count": 8024,
-      "comment_count": 691,
+      "view_count": 128572,
+      "like_count": 8281,
+      "comment_count": 706,
       "category_id": "1",
       "tags": [
         "adult swim",
@@ -386,32 +364,21 @@
       "url": "https://www.youtube.com/watch?v=XO43hYFRSbs"
     },
     {
-      "video_id": "zVeFQHwW_10",
-      "title": "LAUGHING INTO THE SKY | Approximately Up",
-      "description": "Bob, Wade, and I attempt to build flying machine in Approximately Up! Hilarity ensues. \nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nPlay the Game ► https://store.steampowered.com/app/3904850/Approximately_Up/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-04-07T20:50:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zVeFQHwW_10/hqdefault.jpg",
-      "duration": "PT1H14M7S",
-      "duration_seconds": 4447,
-      "view_count": 530473,
-      "like_count": 35852,
-      "comment_count": 1568,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "funny moments",
-        "laughing",
-        "hilarious",
-        "muyskerm",
-        "lordminion777",
-        "mark bob wade",
-        "collab",
-        "funny multiplayer games",
-        "multiplayer games"
-      ],
-      "url": "https://www.youtube.com/watch?v=zVeFQHwW_10"
+      "video_id": "jEYgNwQSr_I",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-08T06:37:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jEYgNwQSr_I/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
     },
     {
       "video_id": "NW2CRIFAVnk",
@@ -423,9 +390,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NW2CRIFAVnk/hqdefault.jpg",
       "duration": "PT1M34S",
       "duration_seconds": 94,
-      "view_count": 434083,
-      "like_count": 22087,
-      "comment_count": 1395,
+      "view_count": 470997,
+      "like_count": 23159,
+      "comment_count": 1452,
       "category_id": "23",
       "tags": [
         "adult swim",
@@ -442,106 +409,93 @@
       "url": "https://www.youtube.com/watch?v=NW2CRIFAVnk"
     },
     {
-      "video_id": "5IS5FLUbpDo",
-      "title": "DO NOT Play Super Battle Golf Like This",
-      "description": "This might be our worst idea yet!\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Bigpuffer \n@ElasticDroid \n@Grizzy \n@BlargMyShnoople \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-04-07T21:06:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IS5FLUbpDo/hqdefault.jpg",
-      "duration": "PT50M40S",
-      "duration_seconds": 3040,
-      "view_count": 462991,
-      "like_count": 34421,
-      "comment_count": 1315,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "super battle golf",
-        "super battle golf gameplay",
-        "super battle golf funny moments",
-        "super battle golf game",
-        "golf",
-        "super battle golf new"
-      ],
-      "url": "https://www.youtube.com/watch?v=5IS5FLUbpDo"
+      "video_id": "Lo9oS-JFpm4",
+      "title": "Tee Time",
+      "description": "Dara confronts Bailey over the flirtation rumors; Ciara makes a solo trip down south; Carl's frustrations with Kyle reach a boiling point.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-04-08T06:42:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lo9oS-JFpm4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 4388957,
+        "average_views_per_video": 438895.7
+      },
       "content_trends": {
-        "trailers_and_entertainment": {
-          "description": "There is a strong presence of entertainment content, particularly trailers for movies and TV shows.",
-          "data": {
-            "total_trailers": 5,
-            "percentage_of_total": 50
-          },
-          "insight": "Trailers for upcoming releases are a significant portion of trending content, indicating a high viewer interest in upcoming entertainment releases."
+        "trailer_dominance": {
+          "description": "Trailers are currently dominating the trending videos, with 5 out of 10 videos being trailers or related to upcoming releases.",
+          "opportunity": "Focus on exclusive content releases, teasers, and behind-the-scenes footage to leverage the high interest in trailers."
         },
-        "news_and_reports": {
-          "description": "News content also has a notable presence in the trending videos.",
-          "data": {
-            "total_news_videos": 2,
-            "percentage_of_total": 20
-          },
-          "insight": "News segments are trending, suggesting an active viewer interest in current events and political updates."
+        "news_and_politics": {
+          "description": "News-related content accounts for a significant portion of the trending list.",
+          "channels": [
+            "FOX News",
+            "CNN"
+          ],
+          "opportunity": "Create timely, engaging news content with a focus on major global events to attract viewers."
         },
-        "sports_content": {
-          "description": "A notable portion of trending videos is related to sports events.",
-          "data": {
-            "total_sports_videos": 1,
-            "percentage_of_total": 10
-          },
-          "insight": "Live sports events or highlights are engaging content for viewers, highlighting an opportunity to further explore this category."
-        },
-        "humor_and_comedy": {
-          "description": "Comedy or humorous content also finds a place in trending videos.",
-          "data": {
-            "total_comedy_videos": 1,
-            "percentage_of_total": 10
-          },
-          "insight": "Humorous content continues to attract viewers, suggesting a consistent demand for entertaining and light-hearted videos."
+        "entertainment_mix": {
+          "description": "There is a mix of entertainment content, including animation ('Rick and Morty') and parodies ('Honest Trailers').",
+          "opportunity": "Develop content that merges humor with popular culture, such as satirical reviews or animated shorts."
         }
       },
       "creator_patterns": {
-        "diversity_of_channels": {
-          "description": "The trending videos are produced by a diverse set of channels, with no single channel dominating the list.",
-          "data": {
-            "total_channels": 5,
-            "average_videos_per_channel": 2
-          },
-          "insight": "The variety of creators indicates a healthy competition and diverse content offering, which may encourage cross-promotion and collaborations."
-        },
         "top_channels": {
-          "description": "Channels like A24 and Adult Swim are in the top list, known for entertainment content.",
-          "data": {
-            "A24_videos": 1,
-            "Adult_Swim_videos": 2
+          "A24": {
+            "video_count": 1,
+            "content_focus": "Movie trailers",
+            "strategy": "Leverage high-quality production and exclusive sneak peeks to maintain viewer interest."
           },
-          "insight": "Channels with a focus on entertainment and trailers are more likely to trend, indicating a strong viewer preference for these types of content from established creators."
+          "FOX News": {
+            "video_count": 1,
+            "content_focus": "Primetime news segments",
+            "strategy": "Capitalize on current events and political discussions to drive engagement."
+          },
+          "20th Century Studios": {
+            "video_count": 1,
+            "content_focus": "Movie trailers",
+            "strategy": "Use cross-platform promotion and collaborations with influencers to boost trailer reach."
+          },
+          "TBS": {
+            "video_count": 1,
+            "content_focus": "Sports events",
+            "strategy": "Highlight sports-related content, especially major championships and tournaments."
+          },
+          "Screen Junkies": {
+            "video_count": 1,
+            "content_focus": "Parody trailers",
+            "strategy": "Create humorous, relatable content that appeals to both casual viewers and film enthusiasts."
+          }
         }
       },
       "market_opportunities": {
-        "emerging_categories": {
-          "description": "While trailers and news dominate, there is room for growth in other categories.",
-          "opportunities": [
-            {
-              "category": "Lifestyle and Vlogs",
-              "rationale": "With no current representation, these categories can attract a new audience segment."
-            },
-            {
-              "category": "Educational Content",
-              "rationale": "Creating engaging educational content may capture interest from viewers seeking informative videos."
-            }
-          ]
+        "cross-category content": {
+          "description": "Blend elements from different categories like news, entertainment, and sports to create hybrid content.",
+          "example": "A comedic take on political events or a sports analysis with pop culture references."
         },
-        "collaboration_potential": {
-          "description": "Opportunity for collaborations across categories.",
-          "insight": "Creators can leverage collaborations, particularly between news and entertainment, to expand audience reach and diversify content."
+        "global reach": {
+          "description": "Expand content to appeal to international audiences, especially with trailers and global news.",
+          "strategy": "Include subtitles and culturally relevant references to broaden appeal."
+        },
+        "engagement strategies": {
+          "description": "Use interactive content such as polls, Q&A sessions, and live streams to increase viewer interaction.",
+          "tools": [
+            "YouTube Premiere",
+            "Community posts"
+          ]
         }
       },
       "metadata_stats": {
@@ -550,7 +504,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 516704
+        "avg_views_per_video": 438895
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
