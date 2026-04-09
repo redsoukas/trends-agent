@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-08T21:23:17.357940",
-  "date": "2026-04-08",
+  "timestamp": "2026-04-09T00:42:43.237713",
+  "date": "2026-04-09",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lxz-055QD6Q/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 438184,
-      "like_count": 32453,
-      "comment_count": 2710,
+      "view_count": 555186,
+      "like_count": 36544,
+      "comment_count": 3000,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -33,13 +33,13 @@
       "url": "https://www.youtube.com/watch?v=lxz-055QD6Q"
     },
     {
-      "video_id": "p92uaIud8bI",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "qCu5cOCbJ84",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-08T06:49:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p92uaIud8bI/hqdefault.jpg",
+      "published_at": "2026-04-08T23:40:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qCu5cOCbJ84/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -47,7 +47,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=p92uaIud8bI"
+      "url": "https://www.youtube.com/watch?v=qCu5cOCbJ84"
     },
     {
       "video_id": "k-YAcjaLuSI",
@@ -59,9 +59,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k-YAcjaLuSI/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 248515,
-      "like_count": 14601,
-      "comment_count": 811,
+      "view_count": 357996,
+      "like_count": 17343,
+      "comment_count": 942,
       "category_id": "1",
       "tags": [
         "Michael",
@@ -104,9 +104,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H1qlPZMfmiU/hqdefault.jpg",
       "duration": "PT6M38S",
       "duration_seconds": 398,
-      "view_count": 571924,
-      "like_count": 50868,
-      "comment_count": 4610,
+      "view_count": 677614,
+      "like_count": 56822,
+      "comment_count": 5029,
       "category_id": "20",
       "tags": [
         "Forza Horizon",
@@ -116,21 +116,21 @@
       "url": "https://www.youtube.com/watch?v=H1qlPZMfmiU"
     },
     {
-      "video_id": "L96ES5nJpKU",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-08T08:26:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "kJAzhOAe17o",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-08T22:26:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kJAzhOAe17o/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
+      "url": "https://www.youtube.com/watch?v=kJAzhOAe17o"
     },
     {
       "video_id": "I0pzvZ-8yIs",
@@ -142,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/I0pzvZ-8yIs/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 164117,
-      "like_count": 13032,
-      "comment_count": 2059,
+      "view_count": 200570,
+      "like_count": 14259,
+      "comment_count": 2248,
       "category_id": "20",
       "tags": [
         "no man's sky",
@@ -170,9 +170,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AGWRN-cB2DU/hqdefault.jpg",
       "duration": "PT30M1S",
       "duration_seconds": 1801,
-      "view_count": 454959,
-      "like_count": 28701,
-      "comment_count": 2000,
+      "view_count": 653455,
+      "like_count": 34810,
+      "comment_count": 2301,
       "category_id": "20",
       "tags": [
         "Wolfey",
@@ -189,49 +189,49 @@
       "url": "https://www.youtube.com/watch?v=AGWRN-cB2DU"
     },
     {
-      "video_id": "OJ19I9q_hOQ",
-      "title": "The Invite | Official Trailer HD | A24",
-      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.\n\nRELEASE DATE: July 2026\nDIRECTOR: Olivia Wilde\nCAST: Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MOTHER MARY, BACKROOMS, THE DEATH OF ROBIN HOOD & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
-      "channel_title": "A24",
-      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
-      "published_at": "2026-04-07T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
-      "duration": "PT2M3S",
-      "duration_seconds": 123,
-      "view_count": 1336067,
-      "like_count": 23545,
-      "comment_count": 1171,
-      "category_id": "1",
+      "video_id": "b14IFe4an5k",
+      "title": "Remarkably Bright Creatures | Official Trailer | Netflix",
+      "description": "Based on the bestselling phenomenon by Shelby Van Pelt comes the story of Tova, a widow who forms an unlikely friendship with the curmudgeonly Marcellus — a giant pacific octopus that lives at the aquarium where she works. Unbeknownst to Tova, Marcellus is on a mission to solve a mystery that will heal the widow’s heart and lead her to a life-changing discovery.\n\nRemarkably Bright Creatures, starring Sally Field, Lewis Pullman, and Alfred Molina coming to Netflix May 8.\n\nWatch Remarkably Bright Creatures, only on Netflix: https://www.netflix.com/RemarkablyBrightCreatures\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nRemarkably Bright Creatures | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhile working nights at a ",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-04-08T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b14IFe4an5k/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 301180,
+      "like_count": 4661,
+      "comment_count": 244,
+      "category_id": "24",
       "tags": [
-        "a24",
-        "a24 films",
-        "a24 trailers",
-        "independent films",
-        "trailer",
-        "HD",
-        "official",
-        "movie",
-        "film",
-        "a24 movies"
+        "Adaptation",
+        "Best-Selling",
+        "Bestseller",
+        "Book",
+        "Book Adaptation",
+        "Bright",
+        "Cameron",
+        "Creatures",
+        "Film",
+        "Marcellus"
       ],
-      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
+      "url": "https://www.youtube.com/watch?v=b14IFe4an5k"
     },
     {
-      "video_id": "dlth1Vsbpz8",
-      "title": "The Last Word With Lawrence O'Donnell",
-      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-08T10:34:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dlth1Vsbpz8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "L96ES5nJpKU",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-08T08:26:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
+      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
     }
   ],
   "videos_with_transcripts": [],
@@ -246,9 +246,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lxz-055QD6Q/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 438184,
-      "like_count": 32453,
-      "comment_count": 2710,
+      "view_count": 555186,
+      "like_count": 36544,
+      "comment_count": 3000,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -257,13 +257,13 @@
       "url": "https://www.youtube.com/watch?v=lxz-055QD6Q"
     },
     {
-      "video_id": "p92uaIud8bI",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "qCu5cOCbJ84",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-08T06:49:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p92uaIud8bI/hqdefault.jpg",
+      "published_at": "2026-04-08T23:40:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qCu5cOCbJ84/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -271,7 +271,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=p92uaIud8bI"
+      "url": "https://www.youtube.com/watch?v=qCu5cOCbJ84"
     },
     {
       "video_id": "k-YAcjaLuSI",
@@ -283,9 +283,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k-YAcjaLuSI/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 248515,
-      "like_count": 14601,
-      "comment_count": 811,
+      "view_count": 357996,
+      "like_count": 17343,
+      "comment_count": 942,
       "category_id": "1",
       "tags": [
         "Michael",
@@ -328,9 +328,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H1qlPZMfmiU/hqdefault.jpg",
       "duration": "PT6M38S",
       "duration_seconds": 398,
-      "view_count": 571924,
-      "like_count": 50868,
-      "comment_count": 4610,
+      "view_count": 677614,
+      "like_count": 56822,
+      "comment_count": 5029,
       "category_id": "20",
       "tags": [
         "Forza Horizon",
@@ -340,21 +340,21 @@
       "url": "https://www.youtube.com/watch?v=H1qlPZMfmiU"
     },
     {
-      "video_id": "L96ES5nJpKU",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-08T08:26:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "kJAzhOAe17o",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-08T22:26:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kJAzhOAe17o/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
+      "url": "https://www.youtube.com/watch?v=kJAzhOAe17o"
     },
     {
       "video_id": "I0pzvZ-8yIs",
@@ -366,9 +366,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/I0pzvZ-8yIs/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 164117,
-      "like_count": 13032,
-      "comment_count": 2059,
+      "view_count": 200570,
+      "like_count": 14259,
+      "comment_count": 2248,
       "category_id": "20",
       "tags": [
         "no man's sky",
@@ -394,9 +394,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AGWRN-cB2DU/hqdefault.jpg",
       "duration": "PT30M1S",
       "duration_seconds": 1801,
-      "view_count": 454959,
-      "like_count": 28701,
-      "comment_count": 2000,
+      "view_count": 653455,
+      "like_count": 34810,
+      "comment_count": 2301,
       "category_id": "20",
       "tags": [
         "Wolfey",
@@ -413,150 +413,114 @@
       "url": "https://www.youtube.com/watch?v=AGWRN-cB2DU"
     },
     {
-      "video_id": "OJ19I9q_hOQ",
-      "title": "The Invite | Official Trailer HD | A24",
-      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.\n\nRELEASE DATE: July 2026\nDIRECTOR: Olivia Wilde\nCAST: Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MOTHER MARY, BACKROOMS, THE DEATH OF ROBIN HOOD & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
-      "channel_title": "A24",
-      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
-      "published_at": "2026-04-07T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OJ19I9q_hOQ/hqdefault.jpg",
-      "duration": "PT2M3S",
-      "duration_seconds": 123,
-      "view_count": 1336067,
-      "like_count": 23545,
-      "comment_count": 1171,
-      "category_id": "1",
+      "video_id": "b14IFe4an5k",
+      "title": "Remarkably Bright Creatures | Official Trailer | Netflix",
+      "description": "Based on the bestselling phenomenon by Shelby Van Pelt comes the story of Tova, a widow who forms an unlikely friendship with the curmudgeonly Marcellus — a giant pacific octopus that lives at the aquarium where she works. Unbeknownst to Tova, Marcellus is on a mission to solve a mystery that will heal the widow’s heart and lead her to a life-changing discovery.\n\nRemarkably Bright Creatures, starring Sally Field, Lewis Pullman, and Alfred Molina coming to Netflix May 8.\n\nWatch Remarkably Bright Creatures, only on Netflix: https://www.netflix.com/RemarkablyBrightCreatures\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nRemarkably Bright Creatures | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhile working nights at a ",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-04-08T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b14IFe4an5k/hqdefault.jpg",
+      "duration": "PT2M24S",
+      "duration_seconds": 144,
+      "view_count": 301180,
+      "like_count": 4661,
+      "comment_count": 244,
+      "category_id": "24",
       "tags": [
-        "a24",
-        "a24 films",
-        "a24 trailers",
-        "independent films",
-        "trailer",
-        "HD",
-        "official",
-        "movie",
-        "film",
-        "a24 movies"
+        "Adaptation",
+        "Best-Selling",
+        "Bestseller",
+        "Book",
+        "Book Adaptation",
+        "Bright",
+        "Cameron",
+        "Creatures",
+        "Film",
+        "Marcellus"
       ],
-      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
+      "url": "https://www.youtube.com/watch?v=b14IFe4an5k"
     },
     {
-      "video_id": "dlth1Vsbpz8",
-      "title": "The Last Word With Lawrence O'Donnell",
-      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-08T10:34:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dlth1Vsbpz8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "L96ES5nJpKU",
+      "title": "CNN Global Report: War With Iran",
+      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-08T08:26:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L96ES5nJpKU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
+      "url": "https://www.youtube.com/watch?v=L96ES5nJpKU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 3213766,
-        "average_views_per_video": 321377,
-        "categories": [
-          "Gaming",
-          "News",
-          "Movies",
-          "Sports",
-          "Entertainment"
-        ],
-        "insights": [
-          "The average views per video suggest a moderate level of engagement, which may indicate a mixture of highly popular and less popular videos."
-        ]
-      },
       "content_trends": {
         "gaming": {
-          "videos": 3,
-          "titles": [
-            "Summit Breach | Sierra Hero Trailer | Overwatch",
-            "Forza Horizon 6 Official Initial Drive Trailer",
-            "No Man's Sky Xeno Arena Trailer"
-          ],
+          "description": "Gaming-related content, including trailers for games like 'Overwatch', 'Forza Horizon 6', and 'No Man's Sky', is prominently featured.",
           "insights": [
-            "Gaming content makes up 30% of the total videos, indicating a strong presence in trending content.",
-            "Trailers and updates for popular games appear to be a significant draw, suggesting an audience interest in new releases and updates."
+            "Trailers for new or upcoming games generate significant interest and are likely to trend.",
+            "Leveraging popular gaming franchises (e.g., Overwatch) can capture the attention of a dedicated audience."
+          ]
+        },
+        "entertainment": {
+          "description": "Entertainment content, particularly trailers for movies and series such as 'Michael (2026)' and 'Remarkably Bright Creatures', is popular.",
+          "insights": [
+            "Official trailers for movies and shows, especially those tied to well-known platforms like Netflix, tend to have strong engagement.",
+            "There's potential for creating complementary content such as reaction videos or deep dives into movie lore."
           ]
         },
         "news": {
-          "videos": 2,
-          "titles": [
-            "Jesse Watters Primetime",
-            "CNN Global Report: War With Iran"
-          ],
+          "description": "News content from major networks like FOX News and CNN is part of the trending videos.",
           "insights": [
-            "News content accounts for 20% of the total videos, highlighting interest in current events.",
-            "The presence of both FOX News and CNN suggests a diverse audience with varied political interests."
-          ]
-        },
-        "movies_and_entertainment": {
-          "videos": 3,
-          "titles": [
-            "Michael (2026) Final Trailer - Jaafar Jackson",
-            "The Invite | Official Trailer HD | A24",
-            "The Last Word With Lawrence O'Donnell"
-          ],
-          "insights": [
-            "Movies and entertainment content is a significant part of the trending list, indicating ongoing interest in upcoming releases and entertainment news.",
-            "Trailers for upcoming films are particularly popular, suggesting that audiences are eager for previews of new content."
-          ]
-        },
-        "sports": {
-          "videos": 1,
-          "titles": [
-            "Championship: UConn vs. Michigan"
-          ],
-          "insights": [
-            "Sports content is less represented, but when present, it focuses on major events, reflecting a niche but engaged audience."
-          ]
-        },
-        "other": {
-          "videos": 1,
-          "titles": [
-            "My First Day in Pokemon Champions"
-          ],
-          "insights": [
-            "Unique content such as personal gaming experiences can also trend, showing the potential for personalized content to capture viewer interest."
+            "Timely, high-impact news stories, particularly those about geopolitical issues, can trend quickly.",
+            "Opportunities exist to create analytical or opinion-based content around trending news topics."
           ]
         }
       },
       "creator_patterns": {
-        "top_channels": {
-          "channels": [
-            "PlayOverwatch",
-            "FOX News",
-            "Lionsgate Movies",
-            "TBS",
-            "Forza"
-          ],
+        "established_brands": {
+          "description": "Channels such as PlayOverwatch and FOX News are leveraging their brand to secure trending spots.",
           "insights": [
-            "Each of the top channels has a single video on the trending list, indicating a wide distribution of content creators.",
-            "Channels with official trailers and updates from popular franchises tend to trend, suggesting a strategy focused on timely and exclusive content releases."
+            "Brand recognition helps in maintaining viewership and trending status.",
+            "Collaborations or featuring content from established brands can boost visibility for smaller creators."
+          ]
+        },
+        "diverse topics": {
+          "description": "Channels cover a wide range of content from gaming to news, indicating diverse interests.",
+          "insights": [
+            "Diversifying content to cover multiple trending topics can increase the likelihood of reaching broader audiences."
           ]
         }
       },
       "market_opportunities": {
-        "insights": [
-          "Expanding into gaming content, particularly through trailers and updates, can capitalize on existing audience interest.",
-          "Creating content around major news events can attract viewers interested in current events and diverse perspectives.",
-          "Developing exclusive movie trailers and entertainment previews can engage audiences looking for upcoming content."
-        ],
-        "recommendations": [
-          "Invest in partnerships with gaming and entertainment franchises to provide exclusive content.",
-          "Leverage data analytics to identify trending news topics and create timely content.",
-          "Experiment with unique and personalized content formats to capture niche audiences."
-        ]
+        "gaming_collaborations": {
+          "description": "Collaborating with popular gaming franchises can tap into dedicated fan bases.",
+          "actions": [
+            "Explore partnerships with game developers for exclusive content or early access to game releases.",
+            "Create content that ties in with major gaming events or launches."
+          ]
+        },
+        "trailer_reviews": {
+          "description": "Reviewing and analyzing trailers can attract viewers interested in entertainment content.",
+          "actions": [
+            "Develop a series dedicated to trailer breakdowns, offering insights and predictions.",
+            "Engage with audiences through live reactions or discussions on trending trailers."
+          ]
+        },
+        "news analysis": {
+          "description": "Providing in-depth analysis of trending news can draw viewers looking for more than headlines.",
+          "actions": [
+            "Create detailed, fact-based analysis videos on trending news stories.",
+            "Engage with viewers through Q&A sessions or expert interviews related to current events."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -564,7 +528,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 321376
+        "avg_views_per_video": 274600
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
