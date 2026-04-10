@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-10T00:49:51.617516",
+  "timestamp": "2026-04-10T04:06:33.223790",
   "date": "2026-04-10",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg",
       "duration": "PT1M42S",
       "duration_seconds": 102,
-      "view_count": 1856646,
-      "like_count": 112594,
-      "comment_count": 4929,
+      "view_count": 2201835,
+      "like_count": 124637,
+      "comment_count": 5303,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -33,21 +33,21 @@
       "url": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
     },
     {
-      "video_id": "YqP8cJSedG4",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "0GsGVpntmTw",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-09T19:52:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YqP8cJSedG4/hqdefault.jpg",
-      "duration": "PT59M26S",
-      "duration_seconds": 3566,
+      "published_at": "2026-04-10T02:39:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0GsGVpntmTw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=YqP8cJSedG4"
+      "url": "https://www.youtube.com/watch?v=0GsGVpntmTw"
     },
     {
       "video_id": "gojQHSdKxHI",
@@ -59,15 +59,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gojQHSdKxHI/hqdefault.jpg",
       "duration": "PT1M52S",
       "duration_seconds": 112,
-      "view_count": 374557,
-      "like_count": 23669,
-      "comment_count": 2225,
+      "view_count": 418527,
+      "like_count": 24781,
+      "comment_count": 2328,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
         "Overwatch"
       ],
       "url": "https://www.youtube.com/watch?v=gojQHSdKxHI"
+    },
+    {
+      "video_id": "eTD15UYQf6o",
+      "title": "Sportscenter at the Masters",
+      "description": "Coverage and highlights surrounding the Masters Tournament.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-10T00:29:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eTD15UYQf6o/hqdefault.jpg",
+      "duration": "PT58M5S",
+      "duration_seconds": 3485,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=eTD15UYQf6o"
+    },
+    {
+      "video_id": "Ycb5mqqGPis",
+      "title": "Don't Starve Elsewhere - Game Announcement Trailer",
+      "description": "Wishlist Don’t Starve Elsewhere on Steam: https://klei.gg/DontStarveElsewhere Revealed at the The Triple-i Initiative 2026 showcase,  Don’t Starve returns in an all-new experience!\n\nSurvive a strange and unforgiving new world filled with magic, monsters and mystery, armed with only your wits (and whatever else you can scrounge up).\n\nGather your friends or go it alone as you explore perilous new environments, fight for survival, craft a home base, and gather resources. Just remember: don’t fall, don’t linger in the Fog, and above all else, Don’t Starve.\n\nWishlist and follow Don't Starve Elsewhere on Steam for development news:\nhttps://klei.gg/DontStarveElsewhere\n\nTo see all of the Triple-i Initiative announcements check out their full showcase video here:\nhttps://www.youtube.com/watch?v=ShrDsKDQjtc\n\n-------------------------------------------\nFollow Klei Other Places!\n-------------------------------------------\nTwitter: https://twitter.com/klei\nInstagram: https://www.instagram.com/kleie",
+      "channel_title": "Klei Entertainment",
+      "channel_id": "UCzbYAkDCuQYdZ_fKz9MLrWA",
+      "published_at": "2026-04-09T16:49:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ycb5mqqGPis/hqdefault.jpg",
+      "duration": "PT1M45S",
+      "duration_seconds": 105,
+      "view_count": 227287,
+      "like_count": 25594,
+      "comment_count": 2112,
+      "category_id": "20",
+      "tags": [
+        "Don't Starve",
+        "Don't Starve Together",
+        "Don't Starve Elsewhere",
+        "Klei",
+        "Klei Entertainment",
+        "iii",
+        "tripple-i",
+        "tripple-i initiative",
+        "Game Announcement",
+        "New Don't Starve"
+      ],
+      "url": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
     },
     {
       "video_id": "o6CAeRqeSQI",
@@ -87,105 +132,32 @@
       "url": "https://www.youtube.com/watch?v=o6CAeRqeSQI"
     },
     {
-      "video_id": "4IeEE7vt0FA",
-      "title": "PUNISHER: One Last Kill Official Trailer (2026) Jon Bernthal",
-      "description": "PUNISHER: One Last Kill Official Trailer (2026) Jon Bernthal, Marvel\n© 2026 - Disney+",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-04-09T16:06:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4IeEE7vt0FA/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "duration_seconds": 113,
-      "view_count": 162042,
-      "like_count": 4944,
-      "comment_count": 465,
+      "video_id": "FKSdXH89jbo",
+      "title": "Mutiny (2026) Official Trailer - Jason Statham",
+      "description": "In MUTINY, after witnessing his billionaire boss’s murder and being framed for the crime, Cole Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge his boss’ death only to discover an international conspiracy.\n\nLionsgate presents, a MadRiver Pictures and Punch Palace production.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: \nhttps://www.instagram.com/mutinyfilm\nhttps://www.facebook.com/MutinyMovie/\nhttps://twitter.com/mutinymovie\nhttps://www.tiktok.com/@mutinymovie\n\n#MutinyMovie",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-04-09T15:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FKSdXH89jbo/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "duration_seconds": 136,
+      "view_count": 980927,
+      "like_count": 19819,
+      "comment_count": 2360,
       "category_id": "1",
       "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Punisher",
-        "Punisher One Last Kill",
-        "Punisher One Last Kill Trailer",
-        "Jon Bernthal",
-        "Marvel"
+        "Jason Statham",
+        "action thriller",
+        "Lionsgate trailer",
+        "2026 movies",
+        "new movie trailer",
+        "revenge thriller",
+        "conspiracy thriller",
+        "intense action scenes",
+        "special forces hero",
+        "crime action movie"
       ],
-      "url": "https://www.youtube.com/watch?v=4IeEE7vt0FA"
-    },
-    {
-      "video_id": "sI8fF6AislQ",
-      "title": "Sportscenter at the Masters",
-      "description": "Coverage and highlights surrounding the Masters Tournament.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-09T22:59:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sI8fF6AislQ/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sI8fF6AislQ"
-    },
-    {
-      "video_id": "vRfTaGAoONU",
-      "title": "Pedro Capó, Farruko - Calma (Letra/Lyrics)",
-      "description": "Pedro Capó, Farruko - Calma (Lyric Video) \nVamos pa' la playa, pa’ curarte el alma\nCierra la pantalla, abre la Medalla\n\n#PedroCapo #Farruko #Calma #Letra #Lyrics #Pop #LyricVideo #tiktok #trending \nDescargar: http://smarturl.it/CalmaRemix/​ \n\n(Letra): Pedro Capó, Farruko - Calma \n\n[Intro: Pedro Capó & Farruko]\nLaramercy gang\nWelcome To The Paradise\n¡Farru!\nCuatro abrazos y un café\nApenas me desperté\nY al mirarte recordé\nQue ya todo lo encontré\nTu mano en mi mano\nDe todo escapamos\nJuntos ver el sol caer\n(Let them enjoy the paradise)\n\n[Coro: Pedro Capó]\nVamos pa' la playa, pa’ curarte el alma\nCierra la pantalla, abre la Medalla\nTodo el mar Caribe, viendo tu cintura\nTú le coqueteas, tú eres busca bullas y me gusta\n\n[Post-Coro: Pedro Capó]\nLento y contento, cara al vie-ento\nLento y contento, cara al vie-ento\n\n[Verso 1: Farruko]\nYa, ya, ya, ¡Farru!\nY aprovecha que el sol 'tá caliente y vamo' a disfrutar el ambiente\nVámono’ a meternos pa'l agua pa' que veas qué rico se siente\nY vámono' en ",
-      "channel_title": "LatinoPlay",
-      "channel_id": "UCsMWT0jvOWkg-4EE55vSIpQ",
-      "published_at": "2026-04-07T13:54:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vRfTaGAoONU/hqdefault.jpg",
-      "duration": "PT3M59S",
-      "duration_seconds": 239,
-      "view_count": 273913,
-      "like_count": 494,
-      "comment_count": 1,
-      "category_id": "22",
-      "tags": [
-        "pedro capó",
-        "Letra",
-        "letra tik tok",
-        "remix",
-        "Pizza Music Letra",
-        "Latin",
-        "pizza music",
-        "Pedro Capó",
-        "Pedro Capó Farruko - Calma Remix",
-        "Calma Remix"
-      ],
-      "url": "https://www.youtube.com/watch?v=vRfTaGAoONU"
-    },
-    {
-      "video_id": "Ycb5mqqGPis",
-      "title": "Don't Starve Elsewhere - Game Announcement Trailer",
-      "description": "Wishlist Don’t Starve Elsewhere on Steam: https://klei.gg/DontStarveElsewhere Revealed at the The Triple-i Initiative 2026 showcase,  Don’t Starve returns in an all-new experience!\n\nSurvive a strange and unforgiving new world filled with magic, monsters and mystery, armed with only your wits (and whatever else you can scrounge up).\n\nGather your friends or go it alone as you explore perilous new environments, fight for survival, craft a home base, and gather resources. Just remember: don’t fall, don’t linger in the Fog, and above all else, Don’t Starve.\n\nWishlist and follow Don't Starve Elsewhere on Steam for development news:\nhttps://klei.gg/DontStarveElsewhere\n\nTo see all of the Triple-i Initiative announcements check out their full showcase video here:\nhttps://www.youtube.com/watch?v=ShrDsKDQjtc\n\n-------------------------------------------\nFollow Klei Other Places!\n-------------------------------------------\nTwitter: https://twitter.com/klei\nInstagram: https://www.instagram.com/kleie",
-      "channel_title": "Klei Entertainment",
-      "channel_id": "UCzbYAkDCuQYdZ_fKz9MLrWA",
-      "published_at": "2026-04-09T16:49:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ycb5mqqGPis/hqdefault.jpg",
-      "duration": "PT1M45S",
-      "duration_seconds": 105,
-      "view_count": 177579,
-      "like_count": 22090,
-      "comment_count": 1876,
-      "category_id": "20",
-      "tags": [
-        "Don't Starve",
-        "Don't Starve Together",
-        "Don't Starve Elsewhere",
-        "Klei",
-        "Klei Entertainment",
-        "iii",
-        "tripple-i",
-        "tripple-i initiative",
-        "Game Announcement",
-        "New Don't Starve"
-      ],
-      "url": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
+      "url": "https://www.youtube.com/watch?v=FKSdXH89jbo"
     },
     {
       "video_id": "tzfYO7O7ED4",
@@ -205,21 +177,46 @@
       "url": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
     },
     {
-      "video_id": "rzyLMQCPJIs",
-      "title": "Risk of Rain 2: Hallowed Concepts – Announcement Trailer",
-      "description": "Wishlist the Hallowed Concepts Expansion here: \nhttps://store.steampowered.com/app/3055670/\n\nRisk of Rain 2: Hallowed Concepts takes players deeper into the dark, cult-like world of N’Kuhana. In this new expansion, survivors will fight through haunting new regions of Petrichor V, face horrific new enemies, and uncover powers never before possible in Risk of Rain 2.\n\n#RiskOfRain2\n#HallowedConcepts",
-      "channel_title": "Risk of Rain",
-      "channel_id": "UCr90hJyv1Bzp7OziqcQypuQ",
-      "published_at": "2026-04-09T16:44:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rzyLMQCPJIs/hqdefault.jpg",
-      "duration": "PT1M1S",
-      "duration_seconds": 61,
-      "view_count": 76310,
-      "like_count": 8156,
-      "comment_count": 663,
-      "category_id": "22",
+      "video_id": "z1jfS-FUYas",
+      "title": "Mortal Kombat 2 - Official \"Get Your Tickets\" Trailer (2026) Karl Urban",
+      "description": "Watch the trailer for Mortal Kombat II, the sequel to the action combat movie based on the Mortal Kombat game IP distributed by Warner Bros. Pictures. Bask in the gore-filled trailer with plenty of blood, no mercy, and fatalities galore. \n\nFrom New Line Cinema comes the latest high-stakes installment in the blockbuster video game franchise in all its brutal glory, Mortal Kombat II. This time, the fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.\n\nKarl Urban stars as Johnny Cage, alongside Adeline Rudolph, Jessica McNamee, Josh Lawson, Ludi Lin, Mehcad Brooks, Tati Gabrielle, Lewis Tan, Damon Herriman, with Chin Han, Tadanobu Asano as Lord Raiden, Joe Taslim as Bi-Han, and Hiroyuki Sanada as Hanzo Hasashi and Scorpion.\n\nMortal Kombat II in Theaters May 8. Get Over Here and Get Your Tickets! https:/",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-04-09T18:34:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z1jfS-FUYas/hqdefault.jpg",
+      "duration": "PT1M36S",
+      "duration_seconds": 96,
+      "view_count": 165297,
+      "like_count": 6195,
+      "comment_count": 504,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Mortal Kombat",
+        "Mortal Kombat II",
+        "New Line Cinema",
+        "Theater",
+        "Warner Bros. Pictures"
+      ],
+      "url": "https://www.youtube.com/watch?v=z1jfS-FUYas"
+    },
+    {
+      "video_id": "uVG7GjiaoOw",
+      "title": "CNN News Central",
+      "description": "News from around the world with Brianna Keilar and Boris Sanchez.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-10T01:54:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uVG7GjiaoOw/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=rzyLMQCPJIs"
+      "url": "https://www.youtube.com/watch?v=uVG7GjiaoOw"
     }
   ],
   "videos_with_transcripts": [],
@@ -234,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg",
       "duration": "PT1M42S",
       "duration_seconds": 102,
-      "view_count": 1856646,
-      "like_count": 112594,
-      "comment_count": 4929,
+      "view_count": 2201835,
+      "like_count": 124637,
+      "comment_count": 5303,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -245,21 +242,21 @@
       "url": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
     },
     {
-      "video_id": "YqP8cJSedG4",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "0GsGVpntmTw",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-09T19:52:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YqP8cJSedG4/hqdefault.jpg",
-      "duration": "PT59M26S",
-      "duration_seconds": 3566,
+      "published_at": "2026-04-10T02:39:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0GsGVpntmTw/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=YqP8cJSedG4"
+      "url": "https://www.youtube.com/watch?v=0GsGVpntmTw"
     },
     {
       "video_id": "gojQHSdKxHI",
@@ -271,15 +268,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gojQHSdKxHI/hqdefault.jpg",
       "duration": "PT1M52S",
       "duration_seconds": 112,
-      "view_count": 374557,
-      "like_count": 23669,
-      "comment_count": 2225,
+      "view_count": 418527,
+      "like_count": 24781,
+      "comment_count": 2328,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
         "Overwatch"
       ],
       "url": "https://www.youtube.com/watch?v=gojQHSdKxHI"
+    },
+    {
+      "video_id": "eTD15UYQf6o",
+      "title": "Sportscenter at the Masters",
+      "description": "Coverage and highlights surrounding the Masters Tournament.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-10T00:29:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eTD15UYQf6o/hqdefault.jpg",
+      "duration": "PT58M5S",
+      "duration_seconds": 3485,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=eTD15UYQf6o"
+    },
+    {
+      "video_id": "Ycb5mqqGPis",
+      "title": "Don't Starve Elsewhere - Game Announcement Trailer",
+      "description": "Wishlist Don’t Starve Elsewhere on Steam: https://klei.gg/DontStarveElsewhere Revealed at the The Triple-i Initiative 2026 showcase,  Don’t Starve returns in an all-new experience!\n\nSurvive a strange and unforgiving new world filled with magic, monsters and mystery, armed with only your wits (and whatever else you can scrounge up).\n\nGather your friends or go it alone as you explore perilous new environments, fight for survival, craft a home base, and gather resources. Just remember: don’t fall, don’t linger in the Fog, and above all else, Don’t Starve.\n\nWishlist and follow Don't Starve Elsewhere on Steam for development news:\nhttps://klei.gg/DontStarveElsewhere\n\nTo see all of the Triple-i Initiative announcements check out their full showcase video here:\nhttps://www.youtube.com/watch?v=ShrDsKDQjtc\n\n-------------------------------------------\nFollow Klei Other Places!\n-------------------------------------------\nTwitter: https://twitter.com/klei\nInstagram: https://www.instagram.com/kleie",
+      "channel_title": "Klei Entertainment",
+      "channel_id": "UCzbYAkDCuQYdZ_fKz9MLrWA",
+      "published_at": "2026-04-09T16:49:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ycb5mqqGPis/hqdefault.jpg",
+      "duration": "PT1M45S",
+      "duration_seconds": 105,
+      "view_count": 227287,
+      "like_count": 25594,
+      "comment_count": 2112,
+      "category_id": "20",
+      "tags": [
+        "Don't Starve",
+        "Don't Starve Together",
+        "Don't Starve Elsewhere",
+        "Klei",
+        "Klei Entertainment",
+        "iii",
+        "tripple-i",
+        "tripple-i initiative",
+        "Game Announcement",
+        "New Don't Starve"
+      ],
+      "url": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
     },
     {
       "video_id": "o6CAeRqeSQI",
@@ -299,77 +341,32 @@
       "url": "https://www.youtube.com/watch?v=o6CAeRqeSQI"
     },
     {
-      "video_id": "4IeEE7vt0FA",
-      "title": "PUNISHER: One Last Kill Official Trailer (2026) Jon Bernthal",
-      "description": "PUNISHER: One Last Kill Official Trailer (2026) Jon Bernthal, Marvel\n© 2026 - Disney+",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-04-09T16:06:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4IeEE7vt0FA/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "duration_seconds": 113,
-      "view_count": 162042,
-      "like_count": 4944,
-      "comment_count": 465,
+      "video_id": "FKSdXH89jbo",
+      "title": "Mutiny (2026) Official Trailer - Jason Statham",
+      "description": "In MUTINY, after witnessing his billionaire boss’s murder and being framed for the crime, Cole Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge his boss’ death only to discover an international conspiracy.\n\nLionsgate presents, a MadRiver Pictures and Punch Palace production.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: \nhttps://www.instagram.com/mutinyfilm\nhttps://www.facebook.com/MutinyMovie/\nhttps://twitter.com/mutinymovie\nhttps://www.tiktok.com/@mutinymovie\n\n#MutinyMovie",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-04-09T15:05:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FKSdXH89jbo/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "duration_seconds": 136,
+      "view_count": 980927,
+      "like_count": 19819,
+      "comment_count": 2360,
       "category_id": "1",
       "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "Punisher",
-        "Punisher One Last Kill",
-        "Punisher One Last Kill Trailer",
-        "Jon Bernthal",
-        "Marvel"
+        "Jason Statham",
+        "action thriller",
+        "Lionsgate trailer",
+        "2026 movies",
+        "new movie trailer",
+        "revenge thriller",
+        "conspiracy thriller",
+        "intense action scenes",
+        "special forces hero",
+        "crime action movie"
       ],
-      "url": "https://www.youtube.com/watch?v=4IeEE7vt0FA"
-    },
-    {
-      "video_id": "sI8fF6AislQ",
-      "title": "Sportscenter at the Masters",
-      "description": "Coverage and highlights surrounding the Masters Tournament.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-09T22:59:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sI8fF6AislQ/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sI8fF6AislQ"
-    },
-    {
-      "video_id": "Ycb5mqqGPis",
-      "title": "Don't Starve Elsewhere - Game Announcement Trailer",
-      "description": "Wishlist Don’t Starve Elsewhere on Steam: https://klei.gg/DontStarveElsewhere Revealed at the The Triple-i Initiative 2026 showcase,  Don’t Starve returns in an all-new experience!\n\nSurvive a strange and unforgiving new world filled with magic, monsters and mystery, armed with only your wits (and whatever else you can scrounge up).\n\nGather your friends or go it alone as you explore perilous new environments, fight for survival, craft a home base, and gather resources. Just remember: don’t fall, don’t linger in the Fog, and above all else, Don’t Starve.\n\nWishlist and follow Don't Starve Elsewhere on Steam for development news:\nhttps://klei.gg/DontStarveElsewhere\n\nTo see all of the Triple-i Initiative announcements check out their full showcase video here:\nhttps://www.youtube.com/watch?v=ShrDsKDQjtc\n\n-------------------------------------------\nFollow Klei Other Places!\n-------------------------------------------\nTwitter: https://twitter.com/klei\nInstagram: https://www.instagram.com/kleie",
-      "channel_title": "Klei Entertainment",
-      "channel_id": "UCzbYAkDCuQYdZ_fKz9MLrWA",
-      "published_at": "2026-04-09T16:49:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ycb5mqqGPis/hqdefault.jpg",
-      "duration": "PT1M45S",
-      "duration_seconds": 105,
-      "view_count": 177579,
-      "like_count": 22090,
-      "comment_count": 1876,
-      "category_id": "20",
-      "tags": [
-        "Don't Starve",
-        "Don't Starve Together",
-        "Don't Starve Elsewhere",
-        "Klei",
-        "Klei Entertainment",
-        "iii",
-        "tripple-i",
-        "tripple-i initiative",
-        "Game Announcement",
-        "New Don't Starve"
-      ],
-      "url": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
+      "url": "https://www.youtube.com/watch?v=FKSdXH89jbo"
     },
     {
       "video_id": "tzfYO7O7ED4",
@@ -389,49 +386,46 @@
       "url": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
     },
     {
-      "video_id": "rzyLMQCPJIs",
-      "title": "Risk of Rain 2: Hallowed Concepts – Announcement Trailer",
-      "description": "Wishlist the Hallowed Concepts Expansion here: \nhttps://store.steampowered.com/app/3055670/\n\nRisk of Rain 2: Hallowed Concepts takes players deeper into the dark, cult-like world of N’Kuhana. In this new expansion, survivors will fight through haunting new regions of Petrichor V, face horrific new enemies, and uncover powers never before possible in Risk of Rain 2.\n\n#RiskOfRain2\n#HallowedConcepts",
-      "channel_title": "Risk of Rain",
-      "channel_id": "UCr90hJyv1Bzp7OziqcQypuQ",
-      "published_at": "2026-04-09T16:44:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rzyLMQCPJIs/hqdefault.jpg",
-      "duration": "PT1M1S",
-      "duration_seconds": 61,
-      "view_count": 76310,
-      "like_count": 8156,
-      "comment_count": 663,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rzyLMQCPJIs"
+      "video_id": "z1jfS-FUYas",
+      "title": "Mortal Kombat 2 - Official \"Get Your Tickets\" Trailer (2026) Karl Urban",
+      "description": "Watch the trailer for Mortal Kombat II, the sequel to the action combat movie based on the Mortal Kombat game IP distributed by Warner Bros. Pictures. Bask in the gore-filled trailer with plenty of blood, no mercy, and fatalities galore. \n\nFrom New Line Cinema comes the latest high-stakes installment in the blockbuster video game franchise in all its brutal glory, Mortal Kombat II. This time, the fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.\n\nKarl Urban stars as Johnny Cage, alongside Adeline Rudolph, Jessica McNamee, Josh Lawson, Ludi Lin, Mehcad Brooks, Tati Gabrielle, Lewis Tan, Damon Herriman, with Chin Han, Tadanobu Asano as Lord Raiden, Joe Taslim as Bi-Han, and Hiroyuki Sanada as Hanzo Hasashi and Scorpion.\n\nMortal Kombat II in Theaters May 8. Get Over Here and Get Your Tickets! https:/",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-04-09T18:34:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z1jfS-FUYas/hqdefault.jpg",
+      "duration": "PT1M36S",
+      "duration_seconds": 96,
+      "view_count": 165297,
+      "like_count": 6195,
+      "comment_count": 504,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Mortal Kombat",
+        "Mortal Kombat II",
+        "New Line Cinema",
+        "Theater",
+        "Warner Bros. Pictures"
+      ],
+      "url": "https://www.youtube.com/watch?v=z1jfS-FUYas"
     },
     {
-      "video_id": "vRfTaGAoONU",
-      "title": "Pedro Capó, Farruko - Calma (Letra/Lyrics)",
-      "description": "Pedro Capó, Farruko - Calma (Lyric Video) \nVamos pa' la playa, pa’ curarte el alma\nCierra la pantalla, abre la Medalla\n\n#PedroCapo #Farruko #Calma #Letra #Lyrics #Pop #LyricVideo #tiktok #trending \nDescargar: http://smarturl.it/CalmaRemix/​ \n\n(Letra): Pedro Capó, Farruko - Calma \n\n[Intro: Pedro Capó & Farruko]\nLaramercy gang\nWelcome To The Paradise\n¡Farru!\nCuatro abrazos y un café\nApenas me desperté\nY al mirarte recordé\nQue ya todo lo encontré\nTu mano en mi mano\nDe todo escapamos\nJuntos ver el sol caer\n(Let them enjoy the paradise)\n\n[Coro: Pedro Capó]\nVamos pa' la playa, pa’ curarte el alma\nCierra la pantalla, abre la Medalla\nTodo el mar Caribe, viendo tu cintura\nTú le coqueteas, tú eres busca bullas y me gusta\n\n[Post-Coro: Pedro Capó]\nLento y contento, cara al vie-ento\nLento y contento, cara al vie-ento\n\n[Verso 1: Farruko]\nYa, ya, ya, ¡Farru!\nY aprovecha que el sol 'tá caliente y vamo' a disfrutar el ambiente\nVámono’ a meternos pa'l agua pa' que veas qué rico se siente\nY vámono' en ",
-      "channel_title": "LatinoPlay",
-      "channel_id": "UCsMWT0jvOWkg-4EE55vSIpQ",
-      "published_at": "2026-04-07T13:54:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vRfTaGAoONU/hqdefault.jpg",
-      "duration": "PT3M59S",
-      "duration_seconds": 239,
-      "view_count": 273913,
-      "like_count": 494,
-      "comment_count": 1,
-      "category_id": "22",
-      "tags": [
-        "pedro capó",
-        "Letra",
-        "letra tik tok",
-        "remix",
-        "Pizza Music Letra",
-        "Latin",
-        "pizza music",
-        "Pedro Capó",
-        "Pedro Capó Farruko - Calma Remix",
-        "Calma Remix"
-      ],
-      "url": "https://www.youtube.com/watch?v=vRfTaGAoONU"
+      "video_id": "uVG7GjiaoOw",
+      "title": "CNN News Central",
+      "description": "News from around the world with Brianna Keilar and Boris Sanchez.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-10T01:54:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uVG7GjiaoOw/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=uVG7GjiaoOw"
     }
   ],
   "analysis": {
@@ -439,84 +433,70 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 2921047,
-        "average_views_per_video": 292104.7
+        "total_views": 3993873,
+        "average_views_per_video": 399387.3
       },
-      "trending_patterns": {
+      "content_trends": {
         "categories": {
-          "entertainment": {
-            "description": "Includes trailers and music videos",
-            "example_titles": [
-              "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer",
-              "PUNISHER: One Last Kill Official Trailer (2026) Jon Bernthal",
-              "Pedro Capó, Farruko - Calma (Letra/Lyrics)"
-            ]
-          },
-          "news": {
-            "description": "Coverage of current events and sports",
-            "example_titles": [
-              "America's Newsroom",
-              "Morning Joe",
-              "Sportscenter at the Masters"
-            ]
-          },
-          "gaming": {
-            "description": "Game trailers and announcements",
-            "example_titles": [
-              "Sierra | New Hero Gameplay Trailer | Overwatch",
-              "Don't Starve Elsewhere - Game Announcement Trailer",
-              "Risk of Rain 2: Hallowed Concepts – Announcement Trailer"
-            ]
-          },
-          "sports": {
-            "description": "Live sports events",
-            "example_titles": [
-              "Detroit Tigers at Minnesota Twins"
-            ]
-          }
-        }
+          "entertainment": [
+            "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer",
+            "Mutiny (2026) Official Trailer - Jason Statham",
+            "Mortal Kombat 2 - Official 'Get Your Tickets' Trailer (2026) Karl Urban"
+          ],
+          "gaming": [
+            "Sierra | New Hero Gameplay Trailer | Overwatch",
+            "Don't Starve Elsewhere - Game Announcement Trailer"
+          ],
+          "sports": [
+            "Sportscenter at the Masters",
+            "Detroit Tigers at Minnesota Twins"
+          ],
+          "news": [
+            "The Will Cain Show",
+            "Morning Joe",
+            "CNN News Central"
+          ]
+        },
+        "dominant_genre": "entertainment",
+        "emerging_genre": "gaming",
+        "observations": [
+          "Entertainment and gaming videos are particularly popular, indicating a strong audience interest.",
+          "Sports and news content are also trending, showcasing a diverse viewer interest."
+        ]
       },
       "creator_patterns": {
-        "top_channels": {
-          "Marvel Entertainment": {
-            "total_videos": 1,
-            "content_focus": "Superhero entertainment",
-            "audience_engagement": "High interest in Marvel-related content"
-          },
-          "FOX News": {
-            "total_videos": 1,
-            "content_focus": "Current news events",
-            "audience_engagement": "Reliable viewership for news coverage"
-          },
-          "PlayOverwatch": {
-            "total_videos": 1,
-            "content_focus": "Gaming",
-            "audience_engagement": "Strong interest in game updates and new content"
-          },
-          "MSNBC": {
-            "total_videos": 1,
-            "content_focus": "Political and social commentary",
-            "audience_engagement": "Steady viewership for political analysis"
-          },
-          "ONE Media": {
-            "total_videos": 1,
-            "content_focus": "Movie trailers and entertainment",
-            "audience_engagement": "Interest in upcoming movie releases"
-          }
-        }
+        "top_channels": [
+          "Marvel Entertainment",
+          "FOX News",
+          "PlayOverwatch",
+          "ESPN",
+          "Klei Entertainment"
+        ],
+        "content_volume": {
+          "single_video_channels": 5,
+          "multi_video_channels": 0
+        },
+        "channel_observations": [
+          "All channels listed have only one video trending, indicating a broad distribution of viewership across different creators.",
+          "Content from major entertainment and gaming brands is reliably trending, highlighting the influence of established franchises."
+        ]
       },
       "market_opportunities": {
         "entertainment": {
-          "insight": "There is a high demand for superhero and movie-related content, suggesting potential for increased engagement with exclusive trailers and behind-the-scenes content."
-        },
-        "news": {
-          "insight": "Consistent interest in news and political commentary indicates opportunities for in-depth analysis and live coverage segments."
+          "opportunity": "High",
+          "recommendation": "Leverage popular franchises and collaborate with established entertainment brands to create engaging trailers and teasers."
         },
         "gaming": {
-          "insight": "Game announcements and updates are popular, presenting opportunities for collaborative content with game developers and influencers."
+          "opportunity": "Moderate",
+          "recommendation": "Develop gameplay trailers and announcements around new and existing game releases to capitalize on the gaming audience."
         },
         "sports": {
-          "insight": "Live sports coverage maintains solid viewership, highlighting opportunities for real-time updates and interactive fan engagement."
+          "opportunity": "Moderate",
+          "recommendation": "Create highlight reels and live analysis content around major sporting events to engage sports enthusiasts."
+        },
+        "news": {
+          "opportunity": "Moderate",
+          "recommendation": "Focus on timely and relevant news coverage, potentially with a focus on commentary and analysis to attract viewers interested in current events."
         }
       },
       "metadata_stats": {
@@ -525,7 +505,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 292104
+        "avg_views_per_video": 399387
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
