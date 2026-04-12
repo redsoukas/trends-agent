@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T06:42:39.707247",
+  "timestamp": "2026-04-12T09:23:58.005824",
   "date": "2026-04-12",
   "summary": {
     "total_videos_analyzed": 8,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 15957174,
-      "like_count": 1317486,
-      "comment_count": 98075,
+      "view_count": 16239143,
+      "like_count": 1325233,
+      "comment_count": 98531,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,29 +67,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 188638,
-      "like_count": 5598,
-      "comment_count": 597,
+      "view_count": 218372,
+      "like_count": 6036,
+      "comment_count": 639,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
     },
     {
-      "video_id": "kx7VwFiRPVk",
-      "title": "Second Round",
-      "description": "The second round determines who stays for the weekend. Only the top fifty players and ties survive the cutline. Competitors must master the lightning fast greens and the toughened seventeenth hole to chase a massive million dollars winner payout.",
+      "video_id": "EjtQyCE5CmE",
+      "title": "NCAA Tournament: Wisconsin vs. Denver",
+      "description": "Championship.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-11T07:15:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kx7VwFiRPVk/hqdefault.jpg",
-      "duration": "PT4H14M5S",
-      "duration_seconds": 15245,
+      "published_at": "2026-04-12T06:21:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EjtQyCE5CmE/hqdefault.jpg",
+      "duration": "PT2H52M55S",
+      "duration_seconds": 10375,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=kx7VwFiRPVk"
+      "url": "https://www.youtube.com/watch?v=EjtQyCE5CmE"
     },
     {
       "video_id": "JTwKHGG9zU4",
@@ -101,12 +101,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTwKHGG9zU4/hqdefault.jpg",
       "duration": "PT12M51S",
       "duration_seconds": 771,
-      "view_count": 293574,
-      "like_count": 9472,
-      "comment_count": 3688,
+      "view_count": 308855,
+      "like_count": 9694,
+      "comment_count": 3765,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JTwKHGG9zU4"
+    },
+    {
+      "video_id": "wgnehqxJqIU",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-12T06:18:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wgnehqxJqIU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=wgnehqxJqIU"
     },
     {
       "video_id": "QF5YpZI1wnk",
@@ -118,46 +135,32 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 9600635,
-      "like_count": 288587,
-      "comment_count": 11516,
+      "view_count": 11581814,
+      "like_count": 322531,
+      "comment_count": 12358,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
     },
     {
-      "video_id": "rCRiv98egkA",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-12T05:07:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rCRiv98egkA/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rCRiv98egkA"
-    },
-    {
-      "video_id": "qqqYL3jGM2M",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "The Arizona Diamondbacks face the Philadelphia Phillies at Citizens Bank Park for a regular-season MLB matchup. Arizona is missing key pieces, including Lourdes Gurriel Jr. and Jordan Lawlar, while Philadelphia plays without Zack Wheeler.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-12T02:59:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qqqYL3jGM2M/hqdefault.jpg",
-      "duration": "PT2H42M41S",
-      "duration_seconds": 9761,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
+      "video_id": "iYdiKMW8R2o",
+      "title": "ROBLOX MAKEUP UPDATE -_-",
+      "description": "Today I sing my heart out for Roblox",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-04-12T01:54:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iYdiKMW8R2o/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 439343,
+      "like_count": 39941,
+      "comment_count": 6295,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
     }
   ],
   "videos_with_transcripts": [],
@@ -172,9 +175,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 15957174,
-      "like_count": 1317486,
-      "comment_count": 98075,
+      "view_count": 16239143,
+      "like_count": 1325233,
+      "comment_count": 98531,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -217,29 +220,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 188638,
-      "like_count": 5598,
-      "comment_count": 597,
+      "view_count": 218372,
+      "like_count": 6036,
+      "comment_count": 639,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
     },
     {
-      "video_id": "kx7VwFiRPVk",
-      "title": "Second Round",
-      "description": "The second round determines who stays for the weekend. Only the top fifty players and ties survive the cutline. Competitors must master the lightning fast greens and the toughened seventeenth hole to chase a massive million dollars winner payout.",
+      "video_id": "EjtQyCE5CmE",
+      "title": "NCAA Tournament: Wisconsin vs. Denver",
+      "description": "Championship.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-11T07:15:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kx7VwFiRPVk/hqdefault.jpg",
-      "duration": "PT4H14M5S",
-      "duration_seconds": 15245,
+      "published_at": "2026-04-12T06:21:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EjtQyCE5CmE/hqdefault.jpg",
+      "duration": "PT2H52M55S",
+      "duration_seconds": 10375,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=kx7VwFiRPVk"
+      "url": "https://www.youtube.com/watch?v=EjtQyCE5CmE"
     },
     {
       "video_id": "JTwKHGG9zU4",
@@ -251,12 +254,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTwKHGG9zU4/hqdefault.jpg",
       "duration": "PT12M51S",
       "duration_seconds": 771,
-      "view_count": 293574,
-      "like_count": 9472,
-      "comment_count": 3688,
+      "view_count": 308855,
+      "like_count": 9694,
+      "comment_count": 3765,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JTwKHGG9zU4"
+    },
+    {
+      "video_id": "wgnehqxJqIU",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-12T06:18:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wgnehqxJqIU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=wgnehqxJqIU"
     },
     {
       "video_id": "QF5YpZI1wnk",
@@ -268,142 +288,120 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 9600635,
-      "like_count": 288587,
-      "comment_count": 11516,
+      "view_count": 11581814,
+      "like_count": 322531,
+      "comment_count": 12358,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
     },
     {
-      "video_id": "rCRiv98egkA",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-12T05:07:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rCRiv98egkA/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rCRiv98egkA"
-    },
-    {
-      "video_id": "qqqYL3jGM2M",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "The Arizona Diamondbacks face the Philadelphia Phillies at Citizens Bank Park for a regular-season MLB matchup. Arizona is missing key pieces, including Lourdes Gurriel Jr. and Jordan Lawlar, while Philadelphia plays without Zack Wheeler.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-12T02:59:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qqqYL3jGM2M/hqdefault.jpg",
-      "duration": "PT2H42M41S",
-      "duration_seconds": 9761,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
+      "video_id": "iYdiKMW8R2o",
+      "title": "ROBLOX MAKEUP UPDATE -_-",
+      "description": "Today I sing my heart out for Roblox",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-04-12T01:54:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iYdiKMW8R2o/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 439343,
+      "like_count": 39941,
+      "comment_count": 6295,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 8,
-        "totalViews": 26040021,
-        "averageViewsPerVideo": 3255002.625,
-        "categories": "Unknown",
-        "uniqueChannels": 5,
-        "averageVideosPerChannel": 1.6
-      },
-      "contentTrends": {
-        "trendingGenres": [
-          "Entertainment",
-          "Sports",
-          "Gaming",
-          "Film Trailers"
-        ],
-        "keyObservations": [
+      "content_trends": {
+        "genres": [
           {
-            "titlePattern": "Digital Circus Ep 9 Finale [TRAILER]",
-            "insight": "The inclusion of both 'Ep 9' and 'Finale' suggests a high level of engagement for serialized content and anticipation for series conclusions."
+            "name": "Entertainment",
+            "indicators": [
+              "Digital Circus Ep 9 Finale [TRAILER]",
+              "Amazing Digital Circus Ep 9 Finale Trailer ALREADY?!",
+              "ROBLOX MAKEUP UPDATE -_-"
+            ],
+            "insights": "The presence of multiple videos related to a 'Digital Circus' finale suggests a strong trend towards episodic digital content, particularly in animated or fictional formats. This indicates a viewer interest in narrative continuations and cliffhangers."
           },
           {
-            "titlePattern": "Marvel WTF Just Happened?!",
-            "insight": "Speculative and reactionary content related to major franchises like Marvel continues to draw significant attention, indicating a strong fanbase engagement."
+            "name": "Sports",
+            "indicators": [
+              "Live From the Masters",
+              "NCAA Tournament: Wisconsin vs. Denver"
+            ],
+            "insights": "Sports content remains a staple, with major events like 'The Masters' and 'NCAA Tournaments' attracting significant attention. This suggests consistent interest in live sports coverage, highlights, and analysis."
           },
           {
-            "titlePattern": "I Survived 100 Days in Skyblock",
-            "insight": "Survival challenges and extended gameplay formats remain popular in the gaming community, particularly when tied to well-known game modes."
+            "name": "Gaming",
+            "indicators": [
+              "I Survived 100 Days in Skyblock",
+              "ROBLOX MAKEUP UPDATE -_-"
+            ],
+            "insights": "Gaming content, particularly survival challenges and updates in popular platforms like ROBLOX, continues to engage audiences. This highlights opportunities for content creators to innovate within gaming niches."
+          },
+          {
+            "name": "Pop Culture & Media Analysis",
+            "indicators": [
+              "Marvel WTF Just Happened?!",
+              "The Big Weekend Show"
+            ],
+            "insights": "Discussion and analysis of pop culture events, such as Marvel's latest happenings, continue to attract viewers. This suggests opportunities for creators to delve into speculative content and media breakdowns."
           }
         ]
       },
-      "creatorPatterns": {
-        "topChannels": {
-          "GLITCH": {
-            "videoCount": 1,
-            "contentType": "Animation/Entertainment"
-          },
-          "Golf Channel": {
-            "videoCount": 1,
-            "contentType": "Sports"
-          },
-          "Emergency Awesome": {
-            "videoCount": 1,
-            "contentType": "Entertainment/Analysis"
-          },
-          "ESPN": {
-            "videoCount": 1,
-            "contentType": "Sports"
-          },
-          "Thinknoodles": {
-            "videoCount": 1,
-            "contentType": "Gaming"
-          }
-        },
-        "insights": [
+      "creator_patterns": {
+        "top_channels": [
           {
-            "channel": "GLITCH",
-            "insight": "Animation and episodic content can captivate audiences, suggesting opportunities in serialized storytelling and cross-platform promotion."
+            "name": "GLITCH",
+            "video_count": 1,
+            "insights": "GLITCH's singular contribution to the trending list, specifically with an animated trailer, suggests a niche focus on digital and animated content. Potential exists for expanding episodic content series."
           },
           {
-            "channel": "Golf Channel",
-            "insight": "Live sports coverage maintains a strong viewership, indicating potential for partnerships or sponsorships in live event broadcasting."
+            "name": "Golf Channel",
+            "video_count": 1,
+            "insights": "The Golf Channel's presence is indicative of niche sports content's ability to trend, especially around major events. This suggests potential for increased engagement with event-driven content."
           },
           {
-            "channel": "Emergency Awesome",
-            "insight": "Analytical and speculative content around popular media properties are consistently popular, suggesting a market for in-depth reviews and fan theories."
+            "name": "Emergency Awesome",
+            "video_count": 1,
+            "insights": "Emergency Awesome's success with pop culture analysis reflects a strong viewer base interested in media breakdowns. There is potential for expanding into other trending media topics."
+          },
+          {
+            "name": "ESPN",
+            "video_count": 1,
+            "insights": "ESPN’s continued relevance in trending videos highlights the audience's interest in mainstream sports content, with room for deeper dives into less-covered sports or unique sporting events."
+          },
+          {
+            "name": "Thinknoodles",
+            "video_count": 1,
+            "insights": "Thinknoodles' involvement in gaming content indicates a dedicated audience for gaming challenges and updates. The channel can further capitalize on emerging gaming trends and community-driven content."
           }
         ]
       },
-      "marketOpportunities": {
-        "contentExpansion": [
+      "market_opportunities": {
+        "opportunities": [
           {
-            "opportunity": "Serialized Digital Content",
-            "insight": "Developing serialized content with cliffhangers can increase viewer retention and engagement."
+            "area": "Episodic and Serialized Content",
+            "insights": "There is a clear demand for serialized and episodic content, particularly in digital animation and narrative-driven series. Channels can explore creating sequels or spin-offs to maintain viewer interest."
           },
           {
-            "opportunity": "Interactive Gaming Content",
-            "insight": "Creating interactive gaming experiences or challenges (e.g., survival challenges) can cater to the engaged gaming community."
+            "area": "Sports Commentary and Analysis",
+            "insights": "With sports content consistently trending, there is potential in expanding coverage to include in-depth analysis, behind-the-scenes content, and interactive viewer engagement during live events."
           },
           {
-            "opportunity": "Live Sports and Event Streaming",
-            "insight": "Investing in live coverage of niche sports or lesser-known events could capture untapped audiences."
-          }
-        ],
-        "cross-promotion": [
-          {
-            "opportunity": "Collaborations with Entertainment Channels",
-            "insight": "Partnering with channels like Emergency Awesome for co-branded content could leverage their analytical expertise and engaged audience."
+            "area": "Gaming Innovations",
+            "insights": "The gaming sector, particularly with platforms like ROBLOX and Minecraft, offers opportunities for innovative content such as challenges, updates, and mod showcases, catering to diverse gaming audiences."
           },
           {
-            "opportunity": "Multimedia Storytelling",
-            "insight": "Expanding successful YouTube series into other media forms, such as podcasts or webcomics, to enhance audience reach and engagement."
+            "area": "Pop Culture Speculation",
+            "insights": "There is a strong appetite for pop culture speculation and analysis, particularly around major franchises like Marvel. Creators can explore speculative content, fan theories, and detailed breakdowns."
           }
         ]
       },
@@ -413,7 +411,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3255002
+        "avg_views_per_video": 3598440
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
