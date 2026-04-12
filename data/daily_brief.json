@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-12T04:08:00.671129",
+  "timestamp": "2026-04-12T06:42:39.707247",
   "date": "2026-04-12",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 8,
+    "music_videos_filtered": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 15684061,
-      "like_count": 1308215,
-      "comment_count": 97608,
+      "view_count": 15957174,
+      "like_count": 1317486,
+      "comment_count": 98075,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 152880,
-      "like_count": 4936,
-      "comment_count": 539,
+      "view_count": 188638,
+      "like_count": 5598,
+      "comment_count": 597,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTwKHGG9zU4/hqdefault.jpg",
       "duration": "PT12M51S",
       "duration_seconds": 771,
-      "view_count": 277773,
-      "like_count": 9235,
-      "comment_count": 3612,
+      "view_count": 293574,
+      "like_count": 9472,
+      "comment_count": 3688,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JTwKHGG9zU4"
@@ -118,49 +118,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 8106699,
-      "like_count": 256596,
-      "comment_count": 10664,
+      "view_count": 9600635,
+      "like_count": 288587,
+      "comment_count": 11516,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
     },
     {
-      "video_id": "qmSpr6MOpvw",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "rCRiv98egkA",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-11T08:04:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qmSpr6MOpvw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-04-12T05:07:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rCRiv98egkA/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=qmSpr6MOpvw"
-    },
-    {
-      "video_id": "oSeqs_xeqv4",
-      "title": "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer",
-      "description": "Hey Frank.\n\nA Marvel Television Special Presentation: The Punisher: One Last Kill premieres May 12, only on Disney+.\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus",
-      "channel_title": "Marvel Entertainment",
-      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "published_at": "2026-04-09T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg",
-      "duration": "PT1M42S",
-      "duration_seconds": 102,
-      "view_count": 4543253,
-      "like_count": 177670,
-      "comment_count": 7125,
-      "category_id": "24",
-      "tags": [
-        "marvel",
-        "comics"
-      ],
-      "url": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
+      "url": "https://www.youtube.com/watch?v=rCRiv98egkA"
     },
     {
       "video_id": "qqqYL3jGM2M",
@@ -192,9 +172,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 15684061,
-      "like_count": 1308215,
-      "comment_count": 97608,
+      "view_count": 15957174,
+      "like_count": 1317486,
+      "comment_count": 98075,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -237,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 152880,
-      "like_count": 4936,
-      "comment_count": 539,
+      "view_count": 188638,
+      "like_count": 5598,
+      "comment_count": 597,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
@@ -271,9 +251,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTwKHGG9zU4/hqdefault.jpg",
       "duration": "PT12M51S",
       "duration_seconds": 771,
-      "view_count": 277773,
-      "like_count": 9235,
-      "comment_count": 3612,
+      "view_count": 293574,
+      "like_count": 9472,
+      "comment_count": 3688,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JTwKHGG9zU4"
@@ -288,49 +268,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 8106699,
-      "like_count": 256596,
-      "comment_count": 10664,
+      "view_count": 9600635,
+      "like_count": 288587,
+      "comment_count": 11516,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
     },
     {
-      "video_id": "qmSpr6MOpvw",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "rCRiv98egkA",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-11T08:04:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qmSpr6MOpvw/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-04-12T05:07:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rCRiv98egkA/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=qmSpr6MOpvw"
-    },
-    {
-      "video_id": "oSeqs_xeqv4",
-      "title": "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer",
-      "description": "Hey Frank.\n\nA Marvel Television Special Presentation: The Punisher: One Last Kill premieres May 12, only on Disney+.\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus",
-      "channel_title": "Marvel Entertainment",
-      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "published_at": "2026-04-09T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg",
-      "duration": "PT1M42S",
-      "duration_seconds": 102,
-      "view_count": 4543253,
-      "like_count": 177670,
-      "comment_count": 7125,
-      "category_id": "24",
-      "tags": [
-        "marvel",
-        "comics"
-      ],
-      "url": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
+      "url": "https://www.youtube.com/watch?v=rCRiv98egkA"
     },
     {
       "video_id": "qqqYL3jGM2M",
@@ -353,106 +313,107 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "summary": "The YouTube trending videos show a diverse range of interests, spanning entertainment, sports, gaming, and news.",
-        "entertainment": {
-          "description": "High interest in digital series and Marvel content.",
-          "videos": [
-            "Digital Circus Ep 9 Finale [TRAILER]",
-            "Amazing Digital Circus Ep 9 Finale Trailer ALREADY?!",
-            "Marvel WTF Just Happened?!",
-            "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer"
-          ],
-          "insights": {
-            "trend": "There is a notable interest in digital series finales and Marvel-related content, indicating strong audience engagement in serialized storytelling and popular franchises."
-          }
-        },
-        "sports": {
-          "description": "Significant engagement with live sports and recap content.",
-          "videos": [
-            "Live From the Masters",
-            "Second Round",
-            "Arizona Diamondbacks at Philadelphia Phillies"
-          ],
-          "insights": {
-            "trend": "Live sports events and recaps continue to draw significant viewership, suggesting opportunities for real-time content and post-event analysis."
-          }
-        },
-        "gaming": {
-          "description": "Survival and challenge-based gaming content remains popular.",
-          "videos": [
-            "I Survived 100 Days in Skyblock"
-          ],
-          "insights": {
-            "trend": "Challenge-based gaming videos, especially those featuring survival tactics, are captivating audiences, indicating a market opportunity for similar content."
-          }
-        },
-        "news": {
-          "description": "Timely news content from recognizable hosts is trending.",
-          "videos": [
-            "Jesse Watters Primetime"
-          ],
-          "insights": {
-            "trend": "Established news personalities and current events maintain audience interest, suggesting opportunities for timely news commentary and analysis."
-          }
-        }
+      "overview": {
+        "totalVideos": 8,
+        "totalViews": 26040021,
+        "averageViewsPerVideo": 3255002.625,
+        "categories": "Unknown",
+        "uniqueChannels": 5,
+        "averageVideosPerChannel": 1.6
       },
-      "creator_patterns": {
-        "summary": "Dominance of niche creators with specific expertise.",
-        "top_creators": {
+      "contentTrends": {
+        "trendingGenres": [
+          "Entertainment",
+          "Sports",
+          "Gaming",
+          "Film Trailers"
+        ],
+        "keyObservations": [
+          {
+            "titlePattern": "Digital Circus Ep 9 Finale [TRAILER]",
+            "insight": "The inclusion of both 'Ep 9' and 'Finale' suggests a high level of engagement for serialized content and anticipation for series conclusions."
+          },
+          {
+            "titlePattern": "Marvel WTF Just Happened?!",
+            "insight": "Speculative and reactionary content related to major franchises like Marvel continues to draw significant attention, indicating a strong fanbase engagement."
+          },
+          {
+            "titlePattern": "I Survived 100 Days in Skyblock",
+            "insight": "Survival challenges and extended gameplay formats remain popular in the gaming community, particularly when tied to well-known game modes."
+          }
+        ]
+      },
+      "creatorPatterns": {
+        "topChannels": {
           "GLITCH": {
-            "video_count": 1,
-            "content_focus": "Digital series",
-            "insight": "GLITCH's focus on digital series appeals to viewers interested in serialized, animated content."
+            "videoCount": 1,
+            "contentType": "Animation/Entertainment"
           },
           "Golf Channel": {
-            "video_count": 1,
-            "content_focus": "Golf sports",
-            "insight": "The Golf Channel captures niche sports audiences, particularly in golf, with live coverage and analysis."
+            "videoCount": 1,
+            "contentType": "Sports"
           },
           "Emergency Awesome": {
-            "video_count": 1,
-            "content_focus": "Entertainment analysis",
-            "insight": "Provides in-depth analysis of major entertainment franchises, catering to fans seeking detailed explanations and theories."
+            "videoCount": 1,
+            "contentType": "Entertainment/Analysis"
           },
           "ESPN": {
-            "video_count": 1,
-            "content_focus": "General sports",
-            "insight": "ESPN's broad sports coverage appeals to a wide audience, providing both live and recap content."
+            "videoCount": 1,
+            "contentType": "Sports"
           },
           "Thinknoodles": {
-            "video_count": 1,
-            "content_focus": "Gaming",
-            "insight": "Focuses on gaming challenges, indicating a strong engagement with interactive and immersive content."
+            "videoCount": 1,
+            "contentType": "Gaming"
           }
-        }
+        },
+        "insights": [
+          {
+            "channel": "GLITCH",
+            "insight": "Animation and episodic content can captivate audiences, suggesting opportunities in serialized storytelling and cross-platform promotion."
+          },
+          {
+            "channel": "Golf Channel",
+            "insight": "Live sports coverage maintains a strong viewership, indicating potential for partnerships or sponsorships in live event broadcasting."
+          },
+          {
+            "channel": "Emergency Awesome",
+            "insight": "Analytical and speculative content around popular media properties are consistently popular, suggesting a market for in-depth reviews and fan theories."
+          }
+        ]
       },
-      "market_opportunities": {
-        "summary": "Potential areas for growth identified in entertainment, sports, and gaming.",
-        "entertainment_opportunity": {
-          "opportunity": "Expand serialized content offerings, especially in animation and popular franchises.",
-          "suggestion": "Consider producing original series or partnering with established IPs to tap into existing fan bases."
-        },
-        "sports_opportunity": {
-          "opportunity": "Enhance live sports coverage and post-event content.",
-          "suggestion": "Invest in real-time event streaming and highlight packages to increase engagement with sports fans."
-        },
-        "gaming_opportunity": {
-          "opportunity": "Develop more challenge-based gaming content.",
-          "suggestion": "Explore collaborations with popular gaming influencers to create unique, interactive experiences."
-        },
-        "news_opportunity": {
-          "opportunity": "Capitalize on timely news content with established personalities.",
-          "suggestion": "Focus on developing news segments with well-known hosts to attract viewers seeking credible and engaging commentary."
-        }
+      "marketOpportunities": {
+        "contentExpansion": [
+          {
+            "opportunity": "Serialized Digital Content",
+            "insight": "Developing serialized content with cliffhangers can increase viewer retention and engagement."
+          },
+          {
+            "opportunity": "Interactive Gaming Content",
+            "insight": "Creating interactive gaming experiences or challenges (e.g., survival challenges) can cater to the engaged gaming community."
+          },
+          {
+            "opportunity": "Live Sports and Event Streaming",
+            "insight": "Investing in live coverage of niche sports or lesser-known events could capture untapped audiences."
+          }
+        ],
+        "cross-promotion": [
+          {
+            "opportunity": "Collaborations with Entertainment Channels",
+            "insight": "Partnering with channels like Emergency Awesome for co-branded content could leverage their analytical expertise and engaged audience."
+          },
+          {
+            "opportunity": "Multimedia Storytelling",
+            "insight": "Expanding successful YouTube series into other media forms, such as podcasts or webcomics, to enhance audience reach and engagement."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3196074
+        "avg_views_per_video": 3255002
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
