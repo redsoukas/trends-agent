@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T12:22:26.443303",
+  "timestamp": "2026-04-12T15:19:01.198419",
   "date": "2026-04-12",
   "summary": {
     "total_videos_analyzed": 8,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 16461481,
-      "like_count": 1331789,
-      "comment_count": 99112,
+      "view_count": 16729310,
+      "like_count": 1343577,
+      "comment_count": 99733,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 238507,
-      "like_count": 6371,
-      "comment_count": 666,
+      "view_count": 257945,
+      "like_count": 6817,
+      "comment_count": 710,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
@@ -82,8 +82,8 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-12T10:09:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5ttMPbKk5D0/hqdefault.jpg",
-      "duration": "PT2H32M41S",
-      "duration_seconds": 9161,
+      "duration": "PT2H30M",
+      "duration_seconds": 9000,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 13512878,
-      "like_count": 353601,
-      "comment_count": 13074,
+      "view_count": 15511437,
+      "like_count": 383995,
+      "comment_count": 13704,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
@@ -143,21 +143,24 @@
       "url": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
     },
     {
-      "video_id": "nigNvc_Zvvc",
-      "title": "A Little Park Music",
-      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist. Stars Laci J Mailey, Beau Mirchoff.",
-      "channel_title": "Hallmark Channel",
-      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
-      "published_at": "2026-04-12T09:37:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nigNvc_Zvvc/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
+      "video_id": "iYdiKMW8R2o",
+      "title": "ROBLOX MAKEUP UPDATE -_-",
+      "description": "Today I sing my heart out for Roblox",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-04-12T01:54:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iYdiKMW8R2o/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 645819,
+      "like_count": 53041,
+      "comment_count": 7081,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
     }
   ],
   "videos_with_transcripts": [],
@@ -172,9 +175,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 16461481,
-      "like_count": 1331789,
-      "comment_count": 99112,
+      "view_count": 16729310,
+      "like_count": 1343577,
+      "comment_count": 99733,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -217,9 +220,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lGbGbeyiGKs/hqdefault.jpg",
       "duration": "PT12M55S",
       "duration_seconds": 775,
-      "view_count": 238507,
-      "like_count": 6371,
-      "comment_count": 666,
+      "view_count": 257945,
+      "like_count": 6817,
+      "comment_count": 710,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
@@ -232,8 +235,8 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-12T10:09:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5ttMPbKk5D0/hqdefault.jpg",
-      "duration": "PT2H32M41S",
-      "duration_seconds": 9161,
+      "duration": "PT2H30M",
+      "duration_seconds": 9000,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -268,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QF5YpZI1wnk/hqdefault.jpg",
       "duration": "PT22M42S",
       "duration_seconds": 1362,
-      "view_count": 13512878,
-      "like_count": 353601,
-      "comment_count": 13074,
+      "view_count": 15511437,
+      "like_count": 383995,
+      "comment_count": 13704,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
@@ -293,130 +296,97 @@
       "url": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
     },
     {
-      "video_id": "nigNvc_Zvvc",
-      "title": "A Little Park Music",
-      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist. Stars Laci J Mailey, Beau Mirchoff.",
-      "channel_title": "Hallmark Channel",
-      "channel_id": "UCrxOU69oUq5Pb8oneCtTIyQ",
-      "published_at": "2026-04-12T09:37:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nigNvc_Zvvc/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
+      "video_id": "iYdiKMW8R2o",
+      "title": "ROBLOX MAKEUP UPDATE -_-",
+      "description": "Today I sing my heart out for Roblox",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-04-12T01:54:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iYdiKMW8R2o/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 645819,
+      "like_count": 53041,
+      "comment_count": 7081,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 8,
-        "total_views": 30212866,
-        "average_views_per_video": 3776608.25
-      },
       "content_trends": {
-        "categories": {
-          "Entertainment": {
-            "videos": [
-              "Digital Circus Ep 9 Finale [TRAILER]",
-              "Marvel WTF Just Happened?!",
-              "Apollo 13"
-            ],
-            "channels": [
-              "GLITCH",
-              "Emergency Awesome"
-            ],
-            "views": "High"
-          },
-          "Sports": {
-            "videos": [
-              "Live From the Masters",
-              "Oklahoma at Texas"
-            ],
-            "channels": [
-              "Golf Channel",
-              "ESPN"
-            ],
-            "views": "Moderate"
-          },
-          "News/Politics": {
-            "videos": [
-              "My View With Lara Trump"
-            ],
-            "channels": [
-              "FOX News"
-            ],
-            "views": "Niche"
-          },
-          "Gaming": {
-            "videos": [
-              "I Survived 100 Days in Skyblock"
-            ],
-            "channels": [
-              "Unknown"
-            ],
-            "views": "High"
-          },
-          "Music": {
-            "videos": [
-              "A Little Park Music"
-            ],
-            "channels": [
-              "Unknown"
-            ],
-            "views": "Moderate"
-          }
+        "entertainment": {
+          "description": "The presence of titles such as 'Digital Circus Ep 9 Finale [TRAILER]', 'Marvel WTF Just Happened?!', and 'Apollo 13' indicates a strong audience interest in entertainment content, particularly in the genres of animation, comic book adaptations, and historical events.",
+          "actionable_insights": [
+            "Invest in producing short-form trailers and teasers for upcoming series or episodes, as they tend to generate significant interest.",
+            "Explore collaborations with popular entertainment franchises to leverage their existing audience base."
+          ]
         },
-        "observations": [
-          "Entertainment and Gaming categories are trending with high viewership.",
-          "Sports content maintains a steady, moderate viewership, likely due to specific event or match coverage.",
-          "News/Politics content has niche viewership, indicating targeted interest."
-        ]
+        "gaming": {
+          "description": "The title 'I Survived 100 Days in Skyblock' highlights the continued popularity of gaming content, specifically in survival and challenge formats.",
+          "actionable_insights": [
+            "Create series or challenges within popular games to engage viewers over multiple episodes.",
+            "Consider featuring collaborations with well-known gaming personalities to boost visibility."
+          ]
+        },
+        "news_and_politics": {
+          "description": "Videos like 'My View With Lara Trump' and 'Oklahoma at Texas' suggest that current events and political commentary remain key interest areas.",
+          "actionable_insights": [
+            "Develop content that provides unique perspectives or in-depth analysis on trending political or sports events.",
+            "Utilize live streaming to offer real-time commentary on unfolding news, which can drive higher engagement."
+          ]
+        },
+        "sports": {
+          "description": "Content such as 'Live From the Masters' and 'Oklahoma at Texas' indicates a strong following for sports-related content, especially major events and live broadcasts.",
+          "actionable_insights": [
+            "Capitalize on live sports events by offering pre- and post-game analysis.",
+            "Consider launching a dedicated series for major sports tournaments to attract sports enthusiasts."
+          ]
+        },
+        "lifestyle_and_vlogs": {
+          "description": "The 'ROBLOX MAKEUP UPDATE -_-' video title suggests a blend of lifestyle and gaming content, appealing to a younger demographic interested in both fashion and gaming.",
+          "actionable_insights": [
+            "Explore cross-genre content that merges lifestyle with popular gaming trends.",
+            "Engage influencers from the beauty and gaming sectors for collaborative content."
+          ]
+        }
       },
       "creator_patterns": {
-        "diversity_of_content": {
-          "channels": 5,
-          "distinct_genres_per_channel": {
-            "GLITCH": [
-              "Entertainment"
-            ],
-            "Golf Channel": [
-              "Sports"
-            ],
-            "Emergency Awesome": [
-              "Entertainment"
-            ],
-            "ESPN": [
-              "Sports"
-            ],
-            "FOX News": [
-              "News/Politics"
-            ]
-          }
+        "multi-genre content": {
+          "description": "Channels like GLITCH, Emergency Awesome, and FOX News focus on distinct niches, indicating opportunities for creators to diversify their content offerings across multiple genres.",
+          "actionable_insights": [
+            "Encourage creators to experiment with different content styles to discover new audience segments.",
+            "Utilize data analytics to identify underrepresented genres with potential for growth."
+          ]
         },
-        "engagement": {
-          "highest_engagement": "Entertainment",
-          "potential_for_growth": "Gaming and Music, due to increasing interest and creative content opportunities."
-        },
-        "observations": [
-          "Channels like GLITCH and Emergency Awesome are capitalizing on the entertainment trend effectively.",
-          "FOX News caters to a specific viewer demographic interested in political discourse."
-        ]
+        "influencer collaboration": {
+          "description": "Collaborations with recognized personalities, as suggested by channels like ESPN and FOX News, can enhance content reach and credibility.",
+          "actionable_insights": [
+            "Facilitate partnerships between emerging creators and established influencers to broaden their audience base.",
+            "Develop co-branded content initiatives that align with both parties' audience interests."
+          ]
+        }
       },
       "market_opportunities": {
-        "emerging_trends": [
-          "Increased interest in episodic entertainment content, as seen with 'Digital Circus Ep 9 Finale [TRAILER]'.",
-          "Potential for crossover content between gaming and entertainment."
-        ],
-        "strategic_insights": [
-          "Creators should consider producing serialized content or collaborative efforts in entertainment to capture ongoing viewer interest.",
-          "Sports channels can enhance viewership by integrating real-time engagement features during live events.",
-          "News channels could benefit from diversifying content to include more interactive formats, such as Q&A sessions or live discussions."
-        ]
+        "emerging_content_types": {
+          "description": "There is potential for growth in content types combining elements from multiple genres, such as educational gaming or political entertainment.",
+          "actionable_insights": [
+            "Identify niche markets where hybrid content formats could thrive, and target these with tailored content strategies.",
+            "Invest in research and development for innovative content production techniques to stay ahead of emerging trends."
+          ]
+        },
+        "platform-specific engagement": {
+          "description": "Optimizing content for platform-specific features like YouTube Shorts or live streaming could enhance user engagement.",
+          "actionable_insights": [
+            "Encourage creators to leverage YouTube Shorts for quick, impactful content delivery.",
+            "Develop strategies for integrating interactive elements in live streams to increase viewer interaction."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -424,7 +394,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3776608
+        "avg_views_per_video": 4143063
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
