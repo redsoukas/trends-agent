@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-13T09:47:01.330325",
+  "timestamp": "2026-04-13T12:35:45.985193",
   "date": "2026-04-13",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18389386,
-      "like_count": 1398311,
-      "comment_count": 102559,
+      "view_count": 18519343,
+      "like_count": 1403464,
+      "comment_count": 102885,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 60274,
-      "like_count": 1030,
-      "comment_count": 155,
+      "view_count": 78435,
+      "like_count": 1223,
+      "comment_count": 187,
       "category_id": "24",
       "tags": [
         "tv promos",
@@ -78,6 +78,23 @@
         "tvpromos"
       ],
       "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+    },
+    {
+      "video_id": "CRZEKfIwHis",
+      "title": "Denver Nuggets at San Antonio Spurs",
+      "description": "The San Antonio Spurs host the visiting Denver Nuggets inside Frost Bank Center. Denver leads the season series two to one following a thrilling 136-134 victory. Nuggets Center Nikola Jokić stars. The Northwest clash against the Southwest Division.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-13T10:36:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CRZEKfIwHis/hqdefault.jpg",
+      "duration": "PT2H9M50S",
+      "duration_seconds": 7790,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CRZEKfIwHis"
     },
     {
       "video_id": "6dJ3NpIB0E0",
@@ -97,30 +114,13 @@
       "url": "https://www.youtube.com/watch?v=6dJ3NpIB0E0"
     },
     {
-      "video_id": "Og3vDRoVuD8",
-      "title": "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite",
-      "description": "Invincible Season 4 Episode 7 Trailer Don't Do Anything Rash. The Final Battle Viltrumite War, Invincible vs Thragg, Thaedus vs Thragg, Omni-Man, Battle Beast, Space Racer & Invincible Season 4 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=wDJqxUI0H9Y&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 1 - 2 https://www.youtube.com/watch?v=ouIYycmyoo8&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&pp=iAQBsAgC\nBlack Panther 3 Teaser https://www.youtube.com/watch?v=fSeWKgXDVS0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nAvengers Doomsday X-Men Trailer https://www.youtube.com/watch?v=hz5IpqEri2s&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQBsAgC\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=W5JZ-oq-T7s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 6 https://www.youtube.com/watch?v=lP4qxaBps18&list=",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-12T20:44:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
-      "duration": "PT12M23S",
-      "duration_seconds": 743,
-      "view_count": 179683,
-      "like_count": 4300,
-      "comment_count": 425,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
-    },
-    {
-      "video_id": "7IDnyni6_ZI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "XsqBeltiDac",
+      "title": "Sunday Night in America With Trey Gowdy",
+      "description": "Insightful analysis and a new outlook on the issues facing the country; the former South Carolina Congressman breaks down the legal and political news.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-13T07:08:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7IDnyni6_ZI/hqdefault.jpg",
+      "published_at": "2026-04-13T08:35:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XsqBeltiDac/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -128,7 +128,52 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7IDnyni6_ZI"
+      "url": "https://www.youtube.com/watch?v=XsqBeltiDac"
+    },
+    {
+      "video_id": "ALwzomVXqmA",
+      "title": "The Great 8 Are Here",
+      "description": "Fieri welcomes the triumphant Great8 back to the arena for the fiercest quarterfinals in Tournament of Champions history. In four sudden death battles, eight world-class chefs face an amped-up randomizer as the categories go international this round.",
+      "channel_title": "Food Network",
+      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
+      "published_at": "2026-04-13T09:20:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ALwzomVXqmA/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ALwzomVXqmA"
+    },
+    {
+      "video_id": "5gY3jt963gY",
+      "title": "Romeo Santos - Amigo (Letra)",
+      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
+      "channel_title": "Tropiversos",
+      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
+      "published_at": "2026-04-12T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
+      "duration": "PT3M52S",
+      "duration_seconds": 232,
+      "view_count": 102963,
+      "like_count": 186,
+      "comment_count": 3,
+      "category_id": "22",
+      "tags": [
+        "amigo letra",
+        "romeo santos letra",
+        "romeo santos amigo letra",
+        "amigo lyrics",
+        "romeo santos amigo",
+        "lyrics amigo",
+        "amigo",
+        "romeo santos",
+        "amigo romeo santos",
+        "la vi bien sospechosa cuando entraba a un motel"
+      ],
+      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
     },
     {
       "video_id": "PcdeJd7_5fc",
@@ -146,68 +191,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PcdeJd7_5fc"
-    },
-    {
-      "video_id": "ETidBC92sq0",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-13T07:07:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETidBC92sq0/hqdefault.jpg",
-      "duration": "PT1H1M1S",
-      "duration_seconds": 3661,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ETidBC92sq0"
-    },
-    {
-      "video_id": "5gY3jt963gY",
-      "title": "Romeo Santos - Amigo (Letra)",
-      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
-      "channel_title": "Tropiversos",
-      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
-      "published_at": "2026-04-12T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
-      "duration": "PT3M52S",
-      "duration_seconds": 232,
-      "view_count": 82951,
-      "like_count": 161,
-      "comment_count": 2,
-      "category_id": "22",
-      "tags": [
-        "amigo letra",
-        "romeo santos letra",
-        "romeo santos amigo letra",
-        "amigo lyrics",
-        "romeo santos amigo",
-        "lyrics amigo",
-        "amigo",
-        "romeo santos",
-        "amigo romeo santos",
-        "la vi bien sospechosa cuando entraba a un motel"
-      ],
-      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
-    },
-    {
-      "video_id": "3vElDngY_Js",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "NBC Sports Philadelphia",
-      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
-      "published_at": "2026-04-13T05:52:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
-      "duration": "PT3H6M16S",
-      "duration_seconds": 11176,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     }
   ],
   "videos_with_transcripts": [],
@@ -222,9 +205,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18389386,
-      "like_count": 1398311,
-      "comment_count": 102559,
+      "view_count": 18519343,
+      "like_count": 1403464,
+      "comment_count": 102885,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -267,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 60274,
-      "like_count": 1030,
-      "comment_count": 155,
+      "view_count": 78435,
+      "like_count": 1223,
+      "comment_count": 187,
       "category_id": "24",
       "tags": [
         "tv promos",
@@ -278,6 +261,23 @@
         "tvpromos"
       ],
       "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+    },
+    {
+      "video_id": "CRZEKfIwHis",
+      "title": "Denver Nuggets at San Antonio Spurs",
+      "description": "The San Antonio Spurs host the visiting Denver Nuggets inside Frost Bank Center. Denver leads the season series two to one following a thrilling 136-134 victory. Nuggets Center Nikola Jokić stars. The Northwest clash against the Southwest Division.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-13T10:36:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CRZEKfIwHis/hqdefault.jpg",
+      "duration": "PT2H9M50S",
+      "duration_seconds": 7790,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CRZEKfIwHis"
     },
     {
       "video_id": "6dJ3NpIB0E0",
@@ -297,30 +297,13 @@
       "url": "https://www.youtube.com/watch?v=6dJ3NpIB0E0"
     },
     {
-      "video_id": "Og3vDRoVuD8",
-      "title": "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite",
-      "description": "Invincible Season 4 Episode 7 Trailer Don't Do Anything Rash. The Final Battle Viltrumite War, Invincible vs Thragg, Thaedus vs Thragg, Omni-Man, Battle Beast, Space Racer & Invincible Season 4 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=wDJqxUI0H9Y&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 1 - 2 https://www.youtube.com/watch?v=ouIYycmyoo8&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&pp=iAQBsAgC\nBlack Panther 3 Teaser https://www.youtube.com/watch?v=fSeWKgXDVS0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nAvengers Doomsday X-Men Trailer https://www.youtube.com/watch?v=hz5IpqEri2s&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQBsAgC\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=W5JZ-oq-T7s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 6 https://www.youtube.com/watch?v=lP4qxaBps18&list=",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-12T20:44:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
-      "duration": "PT12M23S",
-      "duration_seconds": 743,
-      "view_count": 179683,
-      "like_count": 4300,
-      "comment_count": 425,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
-    },
-    {
-      "video_id": "7IDnyni6_ZI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "XsqBeltiDac",
+      "title": "Sunday Night in America With Trey Gowdy",
+      "description": "Insightful analysis and a new outlook on the issues facing the country; the former South Carolina Congressman breaks down the legal and political news.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-13T07:08:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7IDnyni6_ZI/hqdefault.jpg",
+      "published_at": "2026-04-13T08:35:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XsqBeltiDac/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -328,7 +311,52 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7IDnyni6_ZI"
+      "url": "https://www.youtube.com/watch?v=XsqBeltiDac"
+    },
+    {
+      "video_id": "ALwzomVXqmA",
+      "title": "The Great 8 Are Here",
+      "description": "Fieri welcomes the triumphant Great8 back to the arena for the fiercest quarterfinals in Tournament of Champions history. In four sudden death battles, eight world-class chefs face an amped-up randomizer as the categories go international this round.",
+      "channel_title": "Food Network",
+      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
+      "published_at": "2026-04-13T09:20:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ALwzomVXqmA/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ALwzomVXqmA"
+    },
+    {
+      "video_id": "5gY3jt963gY",
+      "title": "Romeo Santos - Amigo (Letra)",
+      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
+      "channel_title": "Tropiversos",
+      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
+      "published_at": "2026-04-12T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
+      "duration": "PT3M52S",
+      "duration_seconds": 232,
+      "view_count": 102963,
+      "like_count": 186,
+      "comment_count": 3,
+      "category_id": "22",
+      "tags": [
+        "amigo letra",
+        "romeo santos letra",
+        "romeo santos amigo letra",
+        "amigo lyrics",
+        "romeo santos amigo",
+        "lyrics amigo",
+        "amigo",
+        "romeo santos",
+        "amigo romeo santos",
+        "la vi bien sospechosa cuando entraba a un motel"
+      ],
+      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
     },
     {
       "video_id": "PcdeJd7_5fc",
@@ -346,163 +374,55 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PcdeJd7_5fc"
-    },
-    {
-      "video_id": "ETidBC92sq0",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-13T07:07:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETidBC92sq0/hqdefault.jpg",
-      "duration": "PT1H1M1S",
-      "duration_seconds": 3661,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ETidBC92sq0"
-    },
-    {
-      "video_id": "5gY3jt963gY",
-      "title": "Romeo Santos - Amigo (Letra)",
-      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
-      "channel_title": "Tropiversos",
-      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
-      "published_at": "2026-04-12T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
-      "duration": "PT3M52S",
-      "duration_seconds": 232,
-      "view_count": 82951,
-      "like_count": 161,
-      "comment_count": 2,
-      "category_id": "22",
-      "tags": [
-        "amigo letra",
-        "romeo santos letra",
-        "romeo santos amigo letra",
-        "amigo lyrics",
-        "romeo santos amigo",
-        "lyrics amigo",
-        "amigo",
-        "romeo santos",
-        "amigo romeo santos",
-        "la vi bien sospechosa cuando entraba a un motel"
-      ],
-      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
-    },
-    {
-      "video_id": "3vElDngY_Js",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "NBC Sports Philadelphia",
-      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
-      "published_at": "2026-04-13T05:52:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
-      "duration": "PT3H6M16S",
-      "duration_seconds": 11176,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "trailer_and_promo_videos": {
-          "description": "A significant portion of trending videos consist of trailers and promotional content for popular series and events.",
-          "examples": [
-            "Digital Circus Ep 9 Finale [TRAILER]",
-            "Euphoria Season 3 'This Season On' Trailer (HD) HBO Zendaya series",
-            "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite"
-          ],
-          "insights": {
-            "trending_factor": "High anticipation and fan engagement prior to release dates.",
-            "opportunity": "Leverage trending trailers to create prediction or reaction content to attract viewers interested in upcoming releases."
-          }
-        },
-        "live_and_sports_content": {
-          "description": "Live events and sports coverage continue to attract significant attention.",
-          "examples": [
-            "Live From the Masters",
-            "Food City 500",
-            "Arizona Diamondbacks at Philadelphia Phillies"
-          ],
-          "insights": {
-            "trending_factor": "Real-time engagement and high relevance during event timelines.",
-            "opportunity": "Consider creating content that provides analysis, recaps, or behind-the-scenes insights for sports events to capture engaged audiences."
-          }
-        },
-        "music_and_entertainment": {
-          "description": "Music videos and entertainment-related content maintain strong viewer interest.",
-          "examples": [
-            "Romeo Santos - Amigo (Letra)",
-            "The Big Weekend Show"
-          ],
-          "insights": {
-            "trending_factor": "Artist popularity and cultural relevance.",
-            "opportunity": "Develop content such as covers, reviews, or lyrical explanations to tap into fan bases."
-          }
-        },
-        "news_and_information": {
-          "description": "News segments and informational content are consistently present in trending topics.",
-          "examples": [
-            "CNN Newsroom",
-            "Surprises Lurking Beneath"
-          ],
-          "insights": {
-            "trending_factor": "Timeliness and public interest in current events.",
-            "opportunity": "Create content that provides in-depth analysis or alternative perspectives on trending news topics."
-          }
-        }
+        "themes": [
+          "Entertainment and Media",
+          "Sports Events",
+          "Music",
+          "News and Commentary"
+        ],
+        "dominant_content_type": "Trailers and Promos",
+        "analysis": "The trending videos predominantly belong to entertainment, specifically trailers and promos for TV shows and sports events. This indicates a strong interest in upcoming entertainment releases and live sports coverage. Music and news commentary also feature, indicating a diverse range of interests among viewers."
       },
       "creator_patterns": {
-        "diversity_of_channels": {
-          "description": "Trending content is distributed across a variety of channels, each focusing on their niche.",
-          "examples": [
-            "GLITCH",
-            "Golf Channel",
-            "TV Promos",
-            "FS1",
-            "Emergency Awesome"
-          ],
-          "insights": {
-            "strategy": "Specialization in distinct content verticals helps in capturing targeted audience segments.",
-            "opportunity": "Creators should focus on niche content areas where they can establish authority and attract loyal viewership."
-          }
-        }
+        "concentration": "Low",
+        "channels_with_single_video": 100,
+        "analysis": "Each of the top channels contributed one video to the trending list, indicating a lack of concentration among creators. This suggests that multiple creators have the potential to trend, given compelling content."
       },
       "market_opportunities": {
-        "content_collaboration": {
-          "description": "Opportunities exist for collaborations between channels with complementary content.",
-          "examples": [
-            "TV Promos collaborating with entertainment review channels",
-            "Sports analysis channels with live event broadcasters"
-          ],
-          "insights": {
-            "benefit": "Broader reach and shared audience growth through cross-promotion.",
-            "actionable_step": "Identify potential collaboration partners that align with content themes and audience interests."
-          }
-        },
-        "expansion_into_trending_topics": {
-          "description": "Expand into trending areas such as trailers, live events, and news to capture emerging audience interests.",
-          "insights": {
-            "actionable_step": "Analyze trending keywords and viewer engagement metrics to guide content development strategies."
-          }
-        }
+        "emerging_trends": [
+          "High anticipation for entertainment releases, especially finales and new seasons",
+          "Consistent interest in live sports coverage",
+          "Potentially untapped interest in international music content"
+        ],
+        "suggestions": [
+          "Develop exclusive content around upcoming TV and sports events to capitalize on viewership peaks.",
+          "Collaborate with trending channels for cross-promotions to reach wider audiences.",
+          "Explore more diverse music genres and international artists to tap into global audience segments."
+        ]
+      },
+      "data_points": {
+        "average_views_per_video": 2077860,
+        "videos_per_channel": 1,
+        "total_channels": 5
+      },
+      "practical_insights": {
+        "content_creation": "Focus on creating high-quality trailers and promos for upcoming entertainment and sports events to leverage the existing trend.",
+        "collaborations": "Identify potential collaborations with channels like GLITCH, TV Promos, and ESPN to boost reach and engagement.",
+        "diversification": "Expand content offerings to include behind-the-scenes footage or interviews related to trending events to enhance viewer engagement."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1871229
+        "avg_views_per_video": 2077860
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
