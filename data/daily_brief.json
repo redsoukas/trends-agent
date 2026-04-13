@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T06:57:28.329235",
+  "timestamp": "2026-04-13T09:47:01.330325",
   "date": "2026-04-13",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18239736,
-      "like_count": 1393781,
-      "comment_count": 102381,
+      "view_count": 18389386,
+      "like_count": 1398311,
+      "comment_count": 102559,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 40538,
-      "like_count": 856,
-      "comment_count": 134,
+      "view_count": 60274,
+      "like_count": 1030,
+      "comment_count": 155,
       "category_id": "24",
       "tags": [
         "tv promos",
@@ -106,21 +106,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
       "duration": "PT12M23S",
       "duration_seconds": 743,
-      "view_count": 158020,
-      "like_count": 3985,
-      "comment_count": 391,
+      "view_count": 179683,
+      "like_count": 4300,
+      "comment_count": 425,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
     },
     {
-      "video_id": "q5rXhll31ow",
+      "video_id": "7IDnyni6_ZI",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-13T04:41:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q5rXhll31ow/hqdefault.jpg",
+      "published_at": "2026-04-13T07:08:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7IDnyni6_ZI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -128,52 +128,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=q5rXhll31ow"
+      "url": "https://www.youtube.com/watch?v=7IDnyni6_ZI"
     },
     {
-      "video_id": "ClY-3UopEeU",
-      "title": "Agefield High: Rock the School – Official Gameplay Overview Trailer",
-      "description": "See exactly what your circa-2002 high-school day will be like in this gameplay overview trailer for Agefield High: Rock the School, the upcoming Bully-influenced open-world coming-of-age high school game from developer Refugium Games. It's due out for PC (via Steam) in Summer 2026. Wishlist it on Steam if you're interested: https://store.steampowered.com/app/3562580/Agefield_High_Rock_the_School/",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-04-12T13:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ClY-3UopEeU/hqdefault.jpg",
-      "duration": "PT3M7S",
-      "duration_seconds": 187,
-      "view_count": 261271,
-      "like_count": 11316,
-      "comment_count": 1670,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Adventure",
-        "Agefield High: Rock the School",
-        "Open-World",
-        "PC",
-        "Refugium Games",
-        "Third-Person",
-        "Agefield High: Rock the School game trailer",
-        "game trailers",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=ClY-3UopEeU"
-    },
-    {
-      "video_id": "3vElDngY_Js",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "NBC Sports Philadelphia",
-      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
-      "published_at": "2026-04-13T05:52:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
-      "duration": "PT3H6M16S",
-      "duration_seconds": 11176,
+      "video_id": "PcdeJd7_5fc",
+      "title": "Surprises Lurking Beneath",
+      "description": "Erin's high school friend is ready to leave her childhood home for a new chapter with her family; they ask Ben and Erin to turn a dated, well-preserved house into a southern-inspired forever home, but surprises lurk beneath the surface.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-13T07:43:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PcdeJd7_5fc/hqdefault.jpg",
+      "duration": "PT1H",
+      "duration_seconds": 3600,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
+      "url": "https://www.youtube.com/watch?v=PcdeJd7_5fc"
+    },
+    {
+      "video_id": "ETidBC92sq0",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-13T07:07:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ETidBC92sq0/hqdefault.jpg",
+      "duration": "PT1H1M1S",
+      "duration_seconds": 3661,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ETidBC92sq0"
     },
     {
       "video_id": "5gY3jt963gY",
@@ -185,8 +174,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 65124,
-      "like_count": 139,
+      "view_count": 82951,
+      "like_count": 161,
       "comment_count": 2,
       "category_id": "22",
       "tags": [
@@ -204,21 +193,21 @@
       "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
     },
     {
-      "video_id": "_MAww1SXAiU",
-      "title": "Oklahoma at Texas",
-      "description": "From Red & Charline McCombs Field in Austin, Texas.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-13T03:26:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_MAww1SXAiU/hqdefault.jpg",
-      "duration": "PT2H47M40S",
-      "duration_seconds": 10060,
+      "video_id": "3vElDngY_Js",
+      "title": "Arizona Diamondbacks at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-04-13T05:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
+      "duration": "PT3H6M16S",
+      "duration_seconds": 11176,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_MAww1SXAiU"
+      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     }
   ],
   "videos_with_transcripts": [],
@@ -233,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18239736,
-      "like_count": 1393781,
-      "comment_count": 102381,
+      "view_count": 18389386,
+      "like_count": 1398311,
+      "comment_count": 102559,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -278,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 40538,
-      "like_count": 856,
-      "comment_count": 134,
+      "view_count": 60274,
+      "like_count": 1030,
+      "comment_count": 155,
       "category_id": "24",
       "tags": [
         "tv promos",
@@ -317,21 +306,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
       "duration": "PT12M23S",
       "duration_seconds": 743,
-      "view_count": 158020,
-      "like_count": 3985,
-      "comment_count": 391,
+      "view_count": 179683,
+      "like_count": 4300,
+      "comment_count": 425,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
     },
     {
-      "video_id": "q5rXhll31ow",
+      "video_id": "7IDnyni6_ZI",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-13T04:41:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q5rXhll31ow/hqdefault.jpg",
+      "published_at": "2026-04-13T07:08:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7IDnyni6_ZI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -339,52 +328,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=q5rXhll31ow"
+      "url": "https://www.youtube.com/watch?v=7IDnyni6_ZI"
     },
     {
-      "video_id": "ClY-3UopEeU",
-      "title": "Agefield High: Rock the School – Official Gameplay Overview Trailer",
-      "description": "See exactly what your circa-2002 high-school day will be like in this gameplay overview trailer for Agefield High: Rock the School, the upcoming Bully-influenced open-world coming-of-age high school game from developer Refugium Games. It's due out for PC (via Steam) in Summer 2026. Wishlist it on Steam if you're interested: https://store.steampowered.com/app/3562580/Agefield_High_Rock_the_School/",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-04-12T13:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ClY-3UopEeU/hqdefault.jpg",
-      "duration": "PT3M7S",
-      "duration_seconds": 187,
-      "view_count": 261271,
-      "like_count": 11316,
-      "comment_count": 1670,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Adventure",
-        "Agefield High: Rock the School",
-        "Open-World",
-        "PC",
-        "Refugium Games",
-        "Third-Person",
-        "Agefield High: Rock the School game trailer",
-        "game trailers",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=ClY-3UopEeU"
-    },
-    {
-      "video_id": "3vElDngY_Js",
-      "title": "Arizona Diamondbacks at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "NBC Sports Philadelphia",
-      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
-      "published_at": "2026-04-13T05:52:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
-      "duration": "PT3H6M16S",
-      "duration_seconds": 11176,
+      "video_id": "PcdeJd7_5fc",
+      "title": "Surprises Lurking Beneath",
+      "description": "Erin's high school friend is ready to leave her childhood home for a new chapter with her family; they ask Ben and Erin to turn a dated, well-preserved house into a southern-inspired forever home, but surprises lurk beneath the surface.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-13T07:43:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PcdeJd7_5fc/hqdefault.jpg",
+      "duration": "PT1H",
+      "duration_seconds": 3600,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
+      "url": "https://www.youtube.com/watch?v=PcdeJd7_5fc"
+    },
+    {
+      "video_id": "ETidBC92sq0",
+      "title": "CNN Newsroom",
+      "description": "Updates of news from around the world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-13T07:07:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ETidBC92sq0/hqdefault.jpg",
+      "duration": "PT1H1M1S",
+      "duration_seconds": 3661,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ETidBC92sq0"
     },
     {
       "video_id": "5gY3jt963gY",
@@ -396,8 +374,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 65124,
-      "like_count": 139,
+      "view_count": 82951,
+      "like_count": 161,
       "comment_count": 2,
       "category_id": "22",
       "tags": [
@@ -415,82 +393,107 @@
       "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
     },
     {
-      "video_id": "_MAww1SXAiU",
-      "title": "Oklahoma at Texas",
-      "description": "From Red & Charline McCombs Field in Austin, Texas.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-13T03:26:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_MAww1SXAiU/hqdefault.jpg",
-      "duration": "PT2H47M40S",
-      "duration_seconds": 10060,
+      "video_id": "3vElDngY_Js",
+      "title": "Arizona Diamondbacks at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-04-13T05:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
+      "duration": "PT3H6M16S",
+      "duration_seconds": 11176,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=_MAww1SXAiU"
+      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 18764689,
-        "average_views_per_video": 1876468.9,
-        "categories": "Unknown"
-      },
       "content_trends": {
-        "trailer_videos": {
-          "count": 4,
+        "trailer_and_promo_videos": {
+          "description": "A significant portion of trending videos consist of trailers and promotional content for popular series and events.",
           "examples": [
             "Digital Circus Ep 9 Finale [TRAILER]",
             "Euphoria Season 3 'This Season On' Trailer (HD) HBO Zendaya series",
-            "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite",
-            "Agefield High: Rock the School – Official Gameplay Overview Trailer"
+            "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite"
           ],
-          "insight": "Trailer content is a significant trend, highlighting viewer interest in upcoming releases across different media types, such as TV series and video games."
+          "insights": {
+            "trending_factor": "High anticipation and fan engagement prior to release dates.",
+            "opportunity": "Leverage trending trailers to create prediction or reaction content to attract viewers interested in upcoming releases."
+          }
         },
-        "live_sports_and_events": {
-          "count": 3,
+        "live_and_sports_content": {
+          "description": "Live events and sports coverage continue to attract significant attention.",
           "examples": [
             "Live From the Masters",
-            "Arizona Diamondbacks at Philadelphia Phillies",
-            "Oklahoma at Texas"
+            "Food City 500",
+            "Arizona Diamondbacks at Philadelphia Phillies"
           ],
-          "insight": "Live sports and events capture a significant portion of viewer interest, suggesting a strong demand for real-time or live content."
+          "insights": {
+            "trending_factor": "Real-time engagement and high relevance during event timelines.",
+            "opportunity": "Consider creating content that provides analysis, recaps, or behind-the-scenes insights for sports events to capture engaged audiences."
+          }
         },
-        "music_related_content": {
-          "count": 1,
+        "music_and_entertainment": {
+          "description": "Music videos and entertainment-related content maintain strong viewer interest.",
           "examples": [
-            "Romeo Santos - Amigo (Letra)"
+            "Romeo Santos - Amigo (Letra)",
+            "The Big Weekend Show"
           ],
-          "insight": "Music content maintains a presence, indicating ongoing audience engagement with musical releases."
+          "insights": {
+            "trending_factor": "Artist popularity and cultural relevance.",
+            "opportunity": "Develop content such as covers, reviews, or lyrical explanations to tap into fan bases."
+          }
+        },
+        "news_and_information": {
+          "description": "News segments and informational content are consistently present in trending topics.",
+          "examples": [
+            "CNN Newsroom",
+            "Surprises Lurking Beneath"
+          ],
+          "insights": {
+            "trending_factor": "Timeliness and public interest in current events.",
+            "opportunity": "Create content that provides in-depth analysis or alternative perspectives on trending news topics."
+          }
         }
       },
       "creator_patterns": {
-        "single_video_contribution": {
-          "channels_with_single_video": 5,
-          "channels": [
+        "diversity_of_channels": {
+          "description": "Trending content is distributed across a variety of channels, each focusing on their niche.",
+          "examples": [
             "GLITCH",
             "Golf Channel",
             "TV Promos",
             "FS1",
             "Emergency Awesome"
           ],
-          "insight": "The diversity of channels indicates a wide range of content creators contributing to the trending list, with no single channel dominating."
+          "insights": {
+            "strategy": "Specialization in distinct content verticals helps in capturing targeted audience segments.",
+            "opportunity": "Creators should focus on niche content areas where they can establish authority and attract loyal viewership."
+          }
         }
       },
       "market_opportunities": {
-        "diverse_media_content": {
-          "opportunity": "Create content that spans different media types, such as trailers for upcoming series or games, to capture interest from various fan communities."
+        "content_collaboration": {
+          "description": "Opportunities exist for collaborations between channels with complementary content.",
+          "examples": [
+            "TV Promos collaborating with entertainment review channels",
+            "Sports analysis channels with live event broadcasters"
+          ],
+          "insights": {
+            "benefit": "Broader reach and shared audience growth through cross-promotion.",
+            "actionable_step": "Identify potential collaboration partners that align with content themes and audience interests."
+          }
         },
-        "live_event_coverage": {
-          "opportunity": "Capitalize on the popularity of live content by producing live event coverages or live commentary streams to engage real-time audiences."
-        },
-        "music_and_entertainment": {
-          "opportunity": "Develop music-related content with engaging visuals or unique formats to tap into the consistent demand for music on YouTube."
+        "expansion_into_trending_topics": {
+          "description": "Expand into trending areas such as trailers, live events, and news to capture emerging audience interests.",
+          "insights": {
+            "actionable_step": "Analyze trending keywords and viewer engagement metrics to guide content development strategies."
+          }
         }
       },
       "metadata_stats": {
@@ -499,7 +502,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1876468
+        "avg_views_per_video": 1871229
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
