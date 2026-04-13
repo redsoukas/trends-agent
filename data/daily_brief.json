@@ -1,44 +1,44 @@
 {
-  "timestamp": "2026-04-13T12:35:45.985193",
+  "timestamp": "2026-04-13T15:37:55.625120",
   "date": "2026-04-13",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
     {
-      "video_id": "AjFk1cY265I",
-      "title": "Digital Circus Ep 9 Finale [TRAILER]",
-      "description": "Final episode of Digital Circus drops 19th June on YouTube and Netflix. It will be an hour long.\nALSO TADC: THE LAST ACT, an early movie screening airs from 4th June! TIX: https://digitalcircus.movie",
-      "channel_title": "GLITCH",
-      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
-      "published_at": "2026-04-10T16:29:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
-      "duration": "PT1M10S",
-      "duration_seconds": 70,
-      "view_count": 18519343,
-      "like_count": 1403464,
-      "comment_count": 102885,
+      "video_id": "fS35YSjopjE",
+      "title": "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada",
+      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20, 2026. \n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://twitter.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-04-13T13:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
+      "duration": "PT2M25S",
+      "duration_seconds": 145,
+      "view_count": 77518,
+      "like_count": 16357,
+      "comment_count": 1024,
       "category_id": "1",
       "tags": [
-        "glitch",
-        "glitch productions",
-        "digital circus",
-        "the amazing digital circus",
-        "murder drones",
-        "Pomni",
-        "Uzi",
-        "Jax",
-        "Ragatha",
-        "Kinger"
+        "The Hunger Games",
+        "Hunger Games",
+        "hunger games trailer",
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Coriolanus Snow",
+        "post-war capitol",
+        "Lucy Gray Baird",
+        "District 12",
+        "Panem"
       ],
-      "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
+      "url": "https://www.youtube.com/watch?v=fS35YSjopjE"
     },
     {
       "video_id": "K_xsGk8daTM",
@@ -58,26 +58,32 @@
       "url": "https://www.youtube.com/watch?v=K_xsGk8daTM"
     },
     {
-      "video_id": "mn94zN20h3s",
-      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
-      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
-      "channel_title": "TV Promos",
-      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
-      "published_at": "2026-04-13T01:31:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
-      "duration": "PT1M56S",
-      "duration_seconds": 116,
-      "view_count": 78435,
-      "like_count": 1223,
-      "comment_count": 187,
-      "category_id": "24",
+      "video_id": "AjFk1cY265I",
+      "title": "Digital Circus Ep 9 Finale [TRAILER]",
+      "description": "Final episode of Digital Circus drops 19th June on YouTube and Netflix. It will be an hour long.\nALSO TADC: THE LAST ACT, an early movie screening airs from 4th June! TIX: https://digitalcircus.movie",
+      "channel_title": "GLITCH",
+      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
+      "published_at": "2026-04-10T16:29:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 18713870,
+      "like_count": 1410874,
+      "comment_count": 103252,
+      "category_id": "1",
       "tags": [
-        "tv promos",
-        "tvpromosdb",
-        "television promos",
-        "tvpromos"
+        "glitch",
+        "glitch productions",
+        "digital circus",
+        "the amazing digital circus",
+        "murder drones",
+        "Pomni",
+        "Uzi",
+        "Jax",
+        "Ragatha",
+        "Kinger"
       ],
-      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+      "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
     },
     {
       "video_id": "CRZEKfIwHis",
@@ -87,14 +93,36 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-13T10:36:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CRZEKfIwHis/hqdefault.jpg",
-      "duration": "PT2H9M50S",
-      "duration_seconds": 7790,
+      "duration": "PT3H5M15S",
+      "duration_seconds": 11115,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CRZEKfIwHis"
+    },
+    {
+      "video_id": "mn94zN20h3s",
+      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
+      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
+      "channel_title": "TV Promos",
+      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
+      "published_at": "2026-04-13T01:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 102647,
+      "like_count": 1433,
+      "comment_count": 219,
+      "category_id": "24",
+      "tags": [
+        "tv promos",
+        "tvpromosdb",
+        "television promos",
+        "tvpromos"
+      ],
+      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
     },
     {
       "video_id": "6dJ3NpIB0E0",
@@ -157,8 +185,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 102963,
-      "like_count": 186,
+      "view_count": 159595,
+      "like_count": 211,
       "comment_count": 3,
       "category_id": "22",
       "tags": [
@@ -196,32 +224,32 @@
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "AjFk1cY265I",
-      "title": "Digital Circus Ep 9 Finale [TRAILER]",
-      "description": "Final episode of Digital Circus drops 19th June on YouTube and Netflix. It will be an hour long.\nALSO TADC: THE LAST ACT, an early movie screening airs from 4th June! TIX: https://digitalcircus.movie",
-      "channel_title": "GLITCH",
-      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
-      "published_at": "2026-04-10T16:29:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
-      "duration": "PT1M10S",
-      "duration_seconds": 70,
-      "view_count": 18519343,
-      "like_count": 1403464,
-      "comment_count": 102885,
+      "video_id": "fS35YSjopjE",
+      "title": "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada",
+      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20, 2026. \n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://twitter.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2026-04-13T13:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
+      "duration": "PT2M25S",
+      "duration_seconds": 145,
+      "view_count": 77518,
+      "like_count": 16357,
+      "comment_count": 1024,
       "category_id": "1",
       "tags": [
-        "glitch",
-        "glitch productions",
-        "digital circus",
-        "the amazing digital circus",
-        "murder drones",
-        "Pomni",
-        "Uzi",
-        "Jax",
-        "Ragatha",
-        "Kinger"
+        "The Hunger Games",
+        "Hunger Games",
+        "hunger games trailer",
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Coriolanus Snow",
+        "post-war capitol",
+        "Lucy Gray Baird",
+        "District 12",
+        "Panem"
       ],
-      "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
+      "url": "https://www.youtube.com/watch?v=fS35YSjopjE"
     },
     {
       "video_id": "K_xsGk8daTM",
@@ -241,26 +269,32 @@
       "url": "https://www.youtube.com/watch?v=K_xsGk8daTM"
     },
     {
-      "video_id": "mn94zN20h3s",
-      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
-      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
-      "channel_title": "TV Promos",
-      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
-      "published_at": "2026-04-13T01:31:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
-      "duration": "PT1M56S",
-      "duration_seconds": 116,
-      "view_count": 78435,
-      "like_count": 1223,
-      "comment_count": 187,
-      "category_id": "24",
+      "video_id": "AjFk1cY265I",
+      "title": "Digital Circus Ep 9 Finale [TRAILER]",
+      "description": "Final episode of Digital Circus drops 19th June on YouTube and Netflix. It will be an hour long.\nALSO TADC: THE LAST ACT, an early movie screening airs from 4th June! TIX: https://digitalcircus.movie",
+      "channel_title": "GLITCH",
+      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
+      "published_at": "2026-04-10T16:29:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
+      "duration": "PT1M10S",
+      "duration_seconds": 70,
+      "view_count": 18713870,
+      "like_count": 1410874,
+      "comment_count": 103252,
+      "category_id": "1",
       "tags": [
-        "tv promos",
-        "tvpromosdb",
-        "television promos",
-        "tvpromos"
+        "glitch",
+        "glitch productions",
+        "digital circus",
+        "the amazing digital circus",
+        "murder drones",
+        "Pomni",
+        "Uzi",
+        "Jax",
+        "Ragatha",
+        "Kinger"
       ],
-      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+      "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
     },
     {
       "video_id": "CRZEKfIwHis",
@@ -270,14 +304,36 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-13T10:36:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CRZEKfIwHis/hqdefault.jpg",
-      "duration": "PT2H9M50S",
-      "duration_seconds": 7790,
+      "duration": "PT3H5M15S",
+      "duration_seconds": 11115,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CRZEKfIwHis"
+    },
+    {
+      "video_id": "mn94zN20h3s",
+      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
+      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
+      "channel_title": "TV Promos",
+      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
+      "published_at": "2026-04-13T01:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 102647,
+      "like_count": 1433,
+      "comment_count": 219,
+      "category_id": "24",
+      "tags": [
+        "tv promos",
+        "tvpromosdb",
+        "television promos",
+        "tvpromos"
+      ],
+      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
     },
     {
       "video_id": "6dJ3NpIB0E0",
@@ -340,8 +396,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 102963,
-      "like_count": 186,
+      "view_count": 159595,
+      "like_count": 211,
       "comment_count": 3,
       "category_id": "22",
       "tags": [
@@ -379,50 +435,120 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 19053630,
+        "average_views_per_video": 1905363
+      },
       "content_trends": {
-        "themes": [
-          "Entertainment and Media",
-          "Sports Events",
-          "Music",
-          "News and Commentary"
-        ],
-        "dominant_content_type": "Trailers and Promos",
-        "analysis": "The trending videos predominantly belong to entertainment, specifically trailers and promos for TV shows and sports events. This indicates a strong interest in upcoming entertainment releases and live sports coverage. Music and news commentary also feature, indicating a diverse range of interests among viewers."
-      },
-      "creator_patterns": {
-        "concentration": "Low",
-        "channels_with_single_video": 100,
-        "analysis": "Each of the top channels contributed one video to the trending list, indicating a lack of concentration among creators. This suggests that multiple creators have the potential to trend, given compelling content."
-      },
-      "market_opportunities": {
-        "emerging_trends": [
-          "High anticipation for entertainment releases, especially finales and new seasons",
-          "Consistent interest in live sports coverage",
-          "Potentially untapped interest in international music content"
-        ],
-        "suggestions": [
-          "Develop exclusive content around upcoming TV and sports events to capitalize on viewership peaks.",
-          "Collaborate with trending channels for cross-promotions to reach wider audiences.",
-          "Explore more diverse music genres and international artists to tap into global audience segments."
+        "categories": {
+          "entertainment": 3,
+          "sports": 3,
+          "music": 1,
+          "news": 1,
+          "unknown": 2
+        },
+        "insights": [
+          {
+            "category": "entertainment",
+            "description": "Trailers and series previews dominate the entertainment category, indicating a strong interest in upcoming media content.",
+            "videos": [
+              "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada",
+              "Digital Circus Ep 9 Finale [TRAILER]",
+              "Euphoria Season 3 'This Season On' Trailer (HD) HBO Zendaya series"
+            ]
+          },
+          {
+            "category": "sports",
+            "description": "Live sports events and highlights are consistently popular, as seen with golf, basketball, and racing content.",
+            "videos": [
+              "Live From the Masters",
+              "Denver Nuggets at San Antonio Spurs",
+              "Food City 500"
+            ]
+          },
+          {
+            "category": "music",
+            "description": "Music content such as song lyrics videos continue to attract significant attention.",
+            "videos": [
+              "Romeo Santos - Amigo (Letra)"
+            ]
+          },
+          {
+            "category": "news",
+            "description": "News and current affairs programming maintain a steady viewership, indicating interest in topical commentary.",
+            "videos": [
+              "Sunday Night in America With Trey Gowdy"
+            ]
+          }
         ]
       },
-      "data_points": {
-        "average_views_per_video": 2077860,
-        "videos_per_channel": 1,
-        "total_channels": 5
+      "creator_patterns": {
+        "dominant_channels": {
+          "Lionsgate Movies": {
+            "videos": [
+              "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada"
+            ],
+            "content_type": "movie trailer",
+            "strategy": "Leveraging popular film franchises to attract viewers."
+          },
+          "Golf Channel": {
+            "videos": [
+              "Live From the Masters"
+            ],
+            "content_type": "live sports",
+            "strategy": "Broadcasting live events to engage sports fans."
+          },
+          "GLITCH": {
+            "videos": [
+              "Digital Circus Ep 9 Finale [TRAILER]"
+            ],
+            "content_type": "series trailer",
+            "strategy": "Promoting upcoming series finales to boost anticipation."
+          }
+        }
       },
-      "practical_insights": {
-        "content_creation": "Focus on creating high-quality trailers and promos for upcoming entertainment and sports events to leverage the existing trend.",
-        "collaborations": "Identify potential collaborations with channels like GLITCH, TV Promos, and ESPN to boost reach and engagement.",
-        "diversification": "Expand content offerings to include behind-the-scenes footage or interviews related to trending events to enhance viewer engagement."
+      "market_opportunities": {
+        "trends_to_watch": [
+          {
+            "trend": "Upcoming Media Content",
+            "opportunity": "Develop original trailers or exclusive sneak peeks for new series or films to capitalize on the strong interest in entertainment previews."
+          },
+          {
+            "trend": "Live Sports Coverage",
+            "opportunity": "Expand coverage of live sports events to include niche sports or behind-the-scenes content, tapping into the consistent viewership of sports fans."
+          },
+          {
+            "trend": "Music Videos",
+            "opportunity": "Create innovative music content such as behind-the-scenes or interactive lyric videos to engage audiences beyond traditional formats."
+          },
+          {
+            "trend": "News Commentary",
+            "opportunity": "Offer in-depth analysis or interactive news segments to attract viewers interested in current affairs and detailed reporting."
+          }
+        ],
+        "potential_collaborations": [
+          {
+            "category": "entertainment",
+            "collaboration_opportunities": "Partner with film studios and streaming services to create exclusive trailer content."
+          },
+          {
+            "category": "sports",
+            "collaboration_opportunities": "Collaborate with sports leagues or teams for exclusive interviews or behind-the-scenes access."
+          },
+          {
+            "category": "music",
+            "collaboration_opportunities": "Work with music artists to produce unique content such as acoustic sessions or fan-requested performances."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2077860
+        "avg_views_per_video": 1905363
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
