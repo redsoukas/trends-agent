@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-13T04:13:01.148420",
+  "timestamp": "2026-04-13T06:57:28.329235",
   "date": "2026-04-13",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18043195,
-      "like_count": 1387693,
-      "comment_count": 102115,
+      "view_count": 18239736,
+      "like_count": 1393781,
+      "comment_count": 102381,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -41,21 +41,60 @@
       "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
     },
     {
-      "video_id": "aKbF3XPgWpY",
-      "title": "Sunday Morning Futures With Maria Bartiromo",
-      "description": "Analysis of recent economic developments and interviews with business leaders and newsmakers.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-12T22:05:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aKbF3XPgWpY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "K_xsGk8daTM",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-13T02:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K_xsGk8daTM/hqdefault.jpg",
+      "duration": "PT6H1M5S",
+      "duration_seconds": 21665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=aKbF3XPgWpY"
+      "url": "https://www.youtube.com/watch?v=K_xsGk8daTM"
+    },
+    {
+      "video_id": "mn94zN20h3s",
+      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
+      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
+      "channel_title": "TV Promos",
+      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
+      "published_at": "2026-04-13T01:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 40538,
+      "like_count": 856,
+      "comment_count": 134,
+      "category_id": "24",
+      "tags": [
+        "tv promos",
+        "tvpromosdb",
+        "television promos",
+        "tvpromos"
+      ],
+      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+    },
+    {
+      "video_id": "6dJ3NpIB0E0",
+      "title": "Food City 500",
+      "description": "The NASCAR Cup Series races at Bristol Motor Speedway in Tennessee. Driver Kyle Larson defends his past victory on this concrete oval against points leader Tyler Reddick. They must battle over five hundred grueling laps to secure a massive win today.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-13T05:54:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6dJ3NpIB0E0/hqdefault.jpg",
+      "duration": "PT3H36M5S",
+      "duration_seconds": 12965,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6dJ3NpIB0E0"
     },
     {
       "video_id": "Og3vDRoVuD8",
@@ -67,21 +106,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
       "duration": "PT12M23S",
       "duration_seconds": 743,
-      "view_count": 123268,
-      "like_count": 3546,
-      "comment_count": 347,
+      "view_count": 158020,
+      "like_count": 3985,
+      "comment_count": 391,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
     },
     {
-      "video_id": "ca6rZdORQd8",
-      "title": "Hogan - Perseverance",
-      "description": "Part one of this this two-part biopic reflects on the humble beginnings of Ben Hogan and the impact of the near-fatal car crash during the prime of his career.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-13T01:56:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ca6rZdORQd8/hqdefault.jpg",
+      "video_id": "q5rXhll31ow",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-13T04:41:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q5rXhll31ow/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -89,7 +128,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ca6rZdORQd8"
+      "url": "https://www.youtube.com/watch?v=q5rXhll31ow"
     },
     {
       "video_id": "ClY-3UopEeU",
@@ -101,9 +140,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClY-3UopEeU/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 243973,
-      "like_count": 10686,
-      "comment_count": 1590,
+      "view_count": 261271,
+      "like_count": 11316,
+      "comment_count": 1670,
       "category_id": "20",
       "tags": [
         "Action",
@@ -120,79 +159,66 @@
       "url": "https://www.youtube.com/watch?v=ClY-3UopEeU"
     },
     {
-      "video_id": "XeS2ARSvU94",
-      "title": "Bristol",
-      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-13T01:51:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XeS2ARSvU94/hqdefault.jpg",
-      "duration": "PT54M11S",
-      "duration_seconds": 3251,
+      "video_id": "3vElDngY_Js",
+      "title": "Arizona Diamondbacks at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-04-13T05:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
+      "duration": "PT3H6M16S",
+      "duration_seconds": 11176,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=XeS2ARSvU94"
+      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     },
     {
-      "video_id": "poV9Ux1DQ5s",
-      "title": "Arizona at LSU",
-      "description": "From Tiger Park in Baton Rouge, La.",
+      "video_id": "5gY3jt963gY",
+      "title": "Romeo Santos - Amigo (Letra)",
+      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
+      "channel_title": "Tropiversos",
+      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
+      "published_at": "2026-04-12T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
+      "duration": "PT3M52S",
+      "duration_seconds": 232,
+      "view_count": 65124,
+      "like_count": 139,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [
+        "amigo letra",
+        "romeo santos letra",
+        "romeo santos amigo letra",
+        "amigo lyrics",
+        "romeo santos amigo",
+        "lyrics amigo",
+        "amigo",
+        "romeo santos",
+        "amigo romeo santos",
+        "la vi bien sospechosa cuando entraba a un motel"
+      ],
+      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
+    },
+    {
+      "video_id": "_MAww1SXAiU",
+      "title": "Oklahoma at Texas",
+      "description": "From Red & Charline McCombs Field in Austin, Texas.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-13T00:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/poV9Ux1DQ5s/hqdefault.jpg",
-      "duration": "PT2H12M31S",
-      "duration_seconds": 7951,
+      "published_at": "2026-04-13T03:26:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_MAww1SXAiU/hqdefault.jpg",
+      "duration": "PT2H47M40S",
+      "duration_seconds": 10060,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=poV9Ux1DQ5s"
-    },
-    {
-      "video_id": "0-zsxlF_Dc8",
-      "title": "Masters on the Range",
-      "description": "Interviews with players, analysis of the field, and breakdowns from the tournament practice area.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-04-12T23:26:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0-zsxlF_Dc8/hqdefault.jpg",
-      "duration": "PT2H11S",
-      "duration_seconds": 7211,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0-zsxlF_Dc8"
-    },
-    {
-      "video_id": "9BoGXpEM4Ao",
-      "title": "Clips Must Be Stopped",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nClips Must Be Stopped\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-04-12T17:45:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9BoGXpEM4Ao/hqdefault.jpg",
-      "duration": "PT35M49S",
-      "duration_seconds": 2149,
-      "view_count": 479718,
-      "like_count": 15294,
-      "comment_count": 743,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "jynxzi clips",
-        "clips r6"
-      ],
-      "url": "https://www.youtube.com/watch?v=9BoGXpEM4Ao"
+      "url": "https://www.youtube.com/watch?v=_MAww1SXAiU"
     }
   ],
   "videos_with_transcripts": [],
@@ -207,9 +233,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg",
       "duration": "PT1M10S",
       "duration_seconds": 70,
-      "view_count": 18043195,
-      "like_count": 1387693,
-      "comment_count": 102115,
+      "view_count": 18239736,
+      "like_count": 1393781,
+      "comment_count": 102381,
       "category_id": "1",
       "tags": [
         "glitch",
@@ -226,21 +252,60 @@
       "url": "https://www.youtube.com/watch?v=AjFk1cY265I"
     },
     {
-      "video_id": "aKbF3XPgWpY",
-      "title": "Sunday Morning Futures With Maria Bartiromo",
-      "description": "Analysis of recent economic developments and interviews with business leaders and newsmakers.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-12T22:05:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aKbF3XPgWpY/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "K_xsGk8daTM",
+      "title": "Live From the Masters",
+      "description": "Comprehensive news coverage surrounding the Masters Tournament focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-13T02:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K_xsGk8daTM/hqdefault.jpg",
+      "duration": "PT6H1M5S",
+      "duration_seconds": 21665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=aKbF3XPgWpY"
+      "url": "https://www.youtube.com/watch?v=K_xsGk8daTM"
+    },
+    {
+      "video_id": "mn94zN20h3s",
+      "title": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
+      "description": "See what's coming up on Euphoria Season 3 in the weeks ahead, and watch new episodes Sundays on HBO. Subscribe to tvpromosdb on Youtube for more Euphoria season 3 promos in HD!\n\nEuphoria official website: https://www.hbo.com/euphoria\nWatch more Euphoria Season 3 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkdvqi5UeO7OW_g6MBJc2RzI\nFollow Euphoria on Twitter: https://twitter.com/euphoriaHBO\nFollow Euphoria on Instagram: https://www.instagram.com/euphoria\n\n#EuphoriaHBO #Euphoria #Zendaya\n\n» Watch Euphoria Sundays at 9pm on HBO\n» Starring: Zendaya, Sydney Sweeney, Hunter Schafer, Jacob Elordi",
+      "channel_title": "TV Promos",
+      "channel_id": "UCDR8cvjALazMm2j9hOar8_g",
+      "published_at": "2026-04-13T01:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mn94zN20h3s/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 40538,
+      "like_count": 856,
+      "comment_count": 134,
+      "category_id": "24",
+      "tags": [
+        "tv promos",
+        "tvpromosdb",
+        "television promos",
+        "tvpromos"
+      ],
+      "url": "https://www.youtube.com/watch?v=mn94zN20h3s"
+    },
+    {
+      "video_id": "6dJ3NpIB0E0",
+      "title": "Food City 500",
+      "description": "The NASCAR Cup Series races at Bristol Motor Speedway in Tennessee. Driver Kyle Larson defends his past victory on this concrete oval against points leader Tyler Reddick. They must battle over five hundred grueling laps to secure a massive win today.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-13T05:54:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6dJ3NpIB0E0/hqdefault.jpg",
+      "duration": "PT3H36M5S",
+      "duration_seconds": 12965,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6dJ3NpIB0E0"
     },
     {
       "video_id": "Og3vDRoVuD8",
@@ -252,21 +317,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Og3vDRoVuD8/hqdefault.jpg",
       "duration": "PT12M23S",
       "duration_seconds": 743,
-      "view_count": 123268,
-      "like_count": 3546,
-      "comment_count": 347,
+      "view_count": 158020,
+      "like_count": 3985,
+      "comment_count": 391,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
     },
     {
-      "video_id": "ca6rZdORQd8",
-      "title": "Hogan - Perseverance",
-      "description": "Part one of this this two-part biopic reflects on the humble beginnings of Ben Hogan and the impact of the near-fatal car crash during the prime of his career.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-13T01:56:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ca6rZdORQd8/hqdefault.jpg",
+      "video_id": "q5rXhll31ow",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-13T04:41:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q5rXhll31ow/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -274,7 +339,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ca6rZdORQd8"
+      "url": "https://www.youtube.com/watch?v=q5rXhll31ow"
     },
     {
       "video_id": "ClY-3UopEeU",
@@ -286,9 +351,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClY-3UopEeU/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 243973,
-      "like_count": 10686,
-      "comment_count": 1590,
+      "view_count": 261271,
+      "like_count": 11316,
+      "comment_count": 1670,
       "category_id": "20",
       "tags": [
         "Action",
@@ -305,133 +370,136 @@
       "url": "https://www.youtube.com/watch?v=ClY-3UopEeU"
     },
     {
-      "video_id": "XeS2ARSvU94",
-      "title": "Bristol",
-      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-13T01:51:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XeS2ARSvU94/hqdefault.jpg",
-      "duration": "PT54M11S",
-      "duration_seconds": 3251,
+      "video_id": "3vElDngY_Js",
+      "title": "Arizona Diamondbacks at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-04-13T05:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3vElDngY_Js/hqdefault.jpg",
+      "duration": "PT3H6M16S",
+      "duration_seconds": 11176,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=XeS2ARSvU94"
+      "url": "https://www.youtube.com/watch?v=3vElDngY_Js"
     },
     {
-      "video_id": "poV9Ux1DQ5s",
-      "title": "Arizona at LSU",
-      "description": "From Tiger Park in Baton Rouge, La.",
+      "video_id": "5gY3jt963gY",
+      "title": "Romeo Santos - Amigo (Letra)",
+      "description": "Romeo Santos - Amigo (Letra)\n⏬ Descargar: https://smarturl.it/RSUtopia/spotify\n\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n✔ Suscríbete: https://goo.su/HUQLnL\n\n🎤 Letra: Romeo Santos - Amigo\n\n[Intro]\nHey\nThe king is back\nAjá\n\n[Verso 1]\nNo te imaginas el placer y honor que es tenerte como amigo\nCuantos años recorridos\nYo soy tu hermano y un soldado en devoción\n\nLos golpes en la vida son muy crueles\nY a veces sale herido aquel que no lo ha merecido\nAnoche fui testigo e' una traición\n\n[Pre-Coro]\nVi a tu esposa con un hombre cariñosa (ja-ja-ja)\nLos primos no se besan en la boca (ja-ja-ja)\nLo que te ha hecho es un delito\nY sus besos son malditos, falso amor\n\n[Coro]\nLa vi bien sospechosa cuando entraba a un motel\nCon gafas y peluca, el traje rojo de Chanel\nEl que le diste pa' su aniversario, la muy descarada\n\nEn tu propio BM lo montó y con él se fue\nY le tiré dos fotos para prueba que es infiel\nMientras le das el cielo, ella con otro se estruja en la cama\nLo que te ha he",
+      "channel_title": "Tropiversos",
+      "channel_id": "UCnfMy8-Bz3xmxylvRuPAbUw",
+      "published_at": "2026-04-12T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gY3jt963gY/hqdefault.jpg",
+      "duration": "PT3M52S",
+      "duration_seconds": 232,
+      "view_count": 65124,
+      "like_count": 139,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [
+        "amigo letra",
+        "romeo santos letra",
+        "romeo santos amigo letra",
+        "amigo lyrics",
+        "romeo santos amigo",
+        "lyrics amigo",
+        "amigo",
+        "romeo santos",
+        "amigo romeo santos",
+        "la vi bien sospechosa cuando entraba a un motel"
+      ],
+      "url": "https://www.youtube.com/watch?v=5gY3jt963gY"
+    },
+    {
+      "video_id": "_MAww1SXAiU",
+      "title": "Oklahoma at Texas",
+      "description": "From Red & Charline McCombs Field in Austin, Texas.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-13T00:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/poV9Ux1DQ5s/hqdefault.jpg",
-      "duration": "PT2H12M31S",
-      "duration_seconds": 7951,
+      "published_at": "2026-04-13T03:26:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_MAww1SXAiU/hqdefault.jpg",
+      "duration": "PT2H47M40S",
+      "duration_seconds": 10060,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=poV9Ux1DQ5s"
-    },
-    {
-      "video_id": "0-zsxlF_Dc8",
-      "title": "Masters on the Range",
-      "description": "Interviews with players, analysis of the field, and breakdowns from the tournament practice area.",
-      "channel_title": "CBS Sports Network",
-      "channel_id": "UCJCcn5FyhJeu718vX-7jnJQ",
-      "published_at": "2026-04-12T23:26:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0-zsxlF_Dc8/hqdefault.jpg",
-      "duration": "PT2H11S",
-      "duration_seconds": 7211,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0-zsxlF_Dc8"
-    },
-    {
-      "video_id": "9BoGXpEM4Ao",
-      "title": "Clips Must Be Stopped",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nClips Must Be Stopped\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-04-12T17:45:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9BoGXpEM4Ao/hqdefault.jpg",
-      "duration": "PT35M49S",
-      "duration_seconds": 2149,
-      "view_count": 479718,
-      "like_count": 15294,
-      "comment_count": 743,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "jynxzi clips",
-        "clips r6"
-      ],
-      "url": "https://www.youtube.com/watch?v=9BoGXpEM4Ao"
+      "url": "https://www.youtube.com/watch?v=_MAww1SXAiU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 9,
-        "total_views": 18890154,
-        "average_views_per_video": 2098906
+        "total_videos": 10,
+        "total_views": 18764689,
+        "average_views_per_video": 1876468.9,
+        "categories": "Unknown"
       },
       "content_trends": {
-        "trailer_content": {
-          "description": "Trailers appear to be a dominant trend, with titles such as 'Digital Circus Ep 9 Finale [TRAILER]', 'Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite', and 'Agefield High: Rock the School – Official Gameplay Overview Trailer'.",
-          "insight": "The popularity of trailers suggests a growing interest in upcoming shows and games, indicating a strong market for content related to entertainment previews."
+        "trailer_videos": {
+          "count": 4,
+          "examples": [
+            "Digital Circus Ep 9 Finale [TRAILER]",
+            "Euphoria Season 3 'This Season On' Trailer (HD) HBO Zendaya series",
+            "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite",
+            "Agefield High: Rock the School – Official Gameplay Overview Trailer"
+          ],
+          "insight": "Trailer content is a significant trend, highlighting viewer interest in upcoming releases across different media types, such as TV series and video games."
         },
-        "news_and_analysis": {
-          "description": "Content related to news and analysis like 'Sunday Morning Futures With Maria Bartiromo' and 'Masters on the Range' indicates an audience interest in current events and expert insights.",
-          "insight": "Channels focusing on timely news and expert analysis can capitalize on viewer interest in staying informed about current affairs and specialized topics."
+        "live_sports_and_events": {
+          "count": 3,
+          "examples": [
+            "Live From the Masters",
+            "Arizona Diamondbacks at Philadelphia Phillies",
+            "Oklahoma at Texas"
+          ],
+          "insight": "Live sports and events capture a significant portion of viewer interest, suggesting a strong demand for real-time or live content."
         },
-        "motivational_and_inspirational": {
-          "description": "'Hogan - Perseverance' suggests an interest in motivational content.",
-          "insight": "There is potential for content that inspires and motivates, particularly if it involves storytelling or influential figures."
-        },
-        "sports_and_lifestyle": {
-          "description": "Sports-related content such as 'Arizona at LSU' and 'Masters on the Range' shows an ongoing interest in sports coverage and lifestyle content.",
-          "insight": "Producing content around major sporting events or lifestyle changes can attract substantial viewership."
+        "music_related_content": {
+          "count": 1,
+          "examples": [
+            "Romeo Santos - Amigo (Letra)"
+          ],
+          "insight": "Music content maintains a presence, indicating ongoing audience engagement with musical releases."
         }
       },
       "creator_patterns": {
-        "diverse_interests": {
-          "description": "Top channels such as GLITCH, FOX News, Emergency Awesome, Golf Channel, and IGN cater to a variety of interests ranging from gaming and entertainment to news and sports.",
-          "insight": "Successful channels often focus on niche content that aligns with distinct audience segments, suggesting an opportunity for creators to specialize and target specific viewer demographics."
+        "single_video_contribution": {
+          "channels_with_single_video": 5,
+          "channels": [
+            "GLITCH",
+            "Golf Channel",
+            "TV Promos",
+            "FS1",
+            "Emergency Awesome"
+          ],
+          "insight": "The diversity of channels indicates a wide range of content creators contributing to the trending list, with no single channel dominating."
         }
       },
       "market_opportunities": {
-        "entertainment_previews": {
-          "opportunity": "Given the high viewership for trailers, there is an opportunity to create more engaging and interactive preview content, such as analysis or behind-the-scenes features."
+        "diverse_media_content": {
+          "opportunity": "Create content that spans different media types, such as trailers for upcoming series or games, to capture interest from various fan communities."
         },
-        "cross-platform content": {
-          "opportunity": "Leveraging multiple platforms to promote content, especially for news and trailers, can extend reach and engagement.",
-          "strategy": "Integrate YouTube content with social media platforms to build a comprehensive content strategy that captures audiences across different channels."
+        "live_event_coverage": {
+          "opportunity": "Capitalize on the popularity of live content by producing live event coverages or live commentary streams to engage real-time audiences."
         },
-        "timely content": {
-          "opportunity": "Focusing on real-time content such as live sports coverage or immediate news analysis can attract viewers looking for up-to-date information.",
-          "strategy": "Implement real-time engagement tools such as live chats or polls during content premieres to enhance viewer interaction."
+        "music_and_entertainment": {
+          "opportunity": "Develop music-related content with engaging visuals or unique formats to tap into the consistent demand for music on YouTube."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2098906
+        "avg_views_per_video": 1876468
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
