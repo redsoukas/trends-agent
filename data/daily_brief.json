@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T12:33:49.617574",
+  "timestamp": "2026-04-14T15:33:56.000638",
   "date": "2026-04-14",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 2072059,
-      "like_count": 44490,
-      "comment_count": 2529,
+      "view_count": 2271880,
+      "like_count": 46226,
+      "comment_count": 2633,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UO6gGCKJzjI/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 524445,
-      "like_count": 30603,
-      "comment_count": 2514,
+      "view_count": 543468,
+      "like_count": 30903,
+      "comment_count": 2558,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -104,9 +104,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 818684,
-      "like_count": 26825,
-      "comment_count": 1504,
+      "view_count": 1358381,
+      "like_count": 33944,
+      "comment_count": 1844,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
@@ -138,9 +138,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AmF0JRoWRGU/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 251786,
-      "like_count": 4626,
-      "comment_count": 790,
+      "view_count": 286425,
+      "like_count": 4939,
+      "comment_count": 850,
       "category_id": "24",
       "tags": [
         "Adaptation",
@@ -183,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z6BKGOKPRs8/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 258166,
-      "like_count": 6121,
-      "comment_count": 805,
+      "view_count": 288090,
+      "like_count": 6654,
+      "comment_count": 857,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -231,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 2072059,
-      "like_count": 44490,
-      "comment_count": 2529,
+      "view_count": 2271880,
+      "like_count": 46226,
+      "comment_count": 2633,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -276,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UO6gGCKJzjI/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 524445,
-      "like_count": 30603,
-      "comment_count": 2514,
+      "view_count": 543468,
+      "like_count": 30903,
+      "comment_count": 2558,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -313,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 818684,
-      "like_count": 26825,
-      "comment_count": 1504,
+      "view_count": 1358381,
+      "like_count": 33944,
+      "comment_count": 1844,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
@@ -347,9 +347,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AmF0JRoWRGU/hqdefault.jpg",
       "duration": "PT1M17S",
       "duration_seconds": 77,
-      "view_count": 251786,
-      "like_count": 4626,
-      "comment_count": 790,
+      "view_count": 286425,
+      "like_count": 4939,
+      "comment_count": 850,
       "category_id": "24",
       "tags": [
         "Adaptation",
@@ -409,9 +409,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z6BKGOKPRs8/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 258166,
-      "like_count": 6121,
-      "comment_count": 805,
+      "view_count": 288090,
+      "like_count": 6654,
+      "comment_count": 857,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -431,85 +431,95 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "contentTrends": {
-        "movieTrailers": {
-          "description": "Movie trailers continue to dominate the trending list with new releases and franchise continuations.",
-          "videos": [
-            "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada",
-            "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
-            "Little House on the Prairie | Official Teaser | Netflix"
-          ],
-          "insight": "There is strong viewer interest in upcoming film releases, especially those related to popular franchises or recognizable titles."
+      "trending_patterns_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 4748244,
+          "average_views_per_video": 474824
         },
-        "newsAndPolitics": {
-          "description": "News channels maintain a significant presence, reflecting ongoing viewer interest in current events.",
-          "videos": [
-            "Jesse Watters Primetime",
-            "The Rachel Maddow Show",
-            "The Source With Kaitlan Collins"
+        "content_trends": {
+          "categories_identified": [
+            "Movies & Entertainment",
+            "News & Politics",
+            "Sports",
+            "Gaming"
           ],
-          "insight": "Content related to political commentary and news analysis remains highly relevant, suggesting opportunities for channels to capitalize on timely and controversial topics."
+          "notable_trends": [
+            {
+              "trend_name": "Movie Trailers",
+              "video_titles": [
+                "The Hunger Games: Sunrise on the Reaping (2026) Official Trailer – Joseph Zada",
+                "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)"
+              ],
+              "insights": {
+                "description": "Trailers for upcoming movies are consistently popular, indicating strong audience interest in new film releases.",
+                "market_opportunity": "Increased focus on creating engaging and exclusive content around movie trailers, including behind-the-scenes footage and interviews."
+              }
+            },
+            {
+              "trend_name": "Television Shows",
+              "video_titles": [
+                "The Rachel Maddow Show",
+                "The Source With Kaitlan Collins",
+                "The Boys Season 5 Episode 3 Trailer",
+                "Little House on the Prairie | Official Teaser | Netflix"
+              ],
+              "insights": {
+                "description": "Content related to both new and ongoing television series is trending, highlighting a continued interest in serialized content.",
+                "market_opportunity": "Opportunities to create supplementary content such as episode breakdowns, fan theories, and interactive discussions."
+              }
+            },
+            {
+              "trend_name": "Sports",
+              "video_titles": [
+                "2026 WNBA Draft",
+                "Chicago Cubs at Philadelphia Phillies"
+              ],
+              "insights": {
+                "description": "Live sports events and related content maintain high interest levels, demonstrating the importance of sports in digital content consumption.",
+                "market_opportunity": "Development of real-time analytics, highlights, and fan engagement platforms to capitalize on live sports viewership."
+              }
+            },
+            {
+              "trend_name": "Gaming",
+              "video_titles": [
+                "Season 2: Summit Official Trailer | Overwatch"
+              ],
+              "insights": {
+                "description": "Gaming trailers and updates continue to engage audiences, indicating the sector's robust growth.",
+                "market_opportunity": "Expansion into gaming content creation, including tutorials, gameplay strategy, and community engagement initiatives."
+              }
+            }
+          ]
         },
-        "sports": {
-          "description": "Sports events and coverage also appear in trending content, indicating a dedicated audience base.",
-          "videos": [
-            "2026 WNBA Draft",
-            "Chicago Cubs at Philadelphia Phillies"
+        "creator_patterns": {
+          "dominant_channels": [
+            "Lionsgate Movies",
+            "FOX News",
+            "ESPN",
+            "Sony Pictures Entertainment",
+            "PlayOverwatch"
           ],
-          "insight": "Major sports events and drafts draw significant attention, highlighting potential for content around live events and sports analysis."
-        },
-        "gaming": {
-          "description": "Gaming content, specifically related to popular games like Overwatch, continues to trend.",
-          "videos": [
-            "Season 2: Summit Official Trailer | Overwatch"
-          ],
-          "insight": "Gaming trailers and updates can attract considerable views, indicating an opportunity to engage with gaming communities through similar content."
-        },
-        "tvSeries": {
-          "description": "Trailers for upcoming TV episodes maintain viewer engagement.",
-          "videos": [
-            "The Boys Season 5 Episode 3 Trailer"
-          ],
-          "insight": "Serialized content and teasers for popular TV shows can drive consistent viewer interest, offering opportunities for content related to fan theories and episode breakdowns."
-        }
-      },
-      "creatorPatterns": {
-        "topChannels": {
-          "Lionsgate Movies": {
-            "type": "Movie Studio",
-            "strength": "High engagement with movie trailers"
-          },
-          "FOX News": {
-            "type": "News Network",
-            "strength": "Consistent viewer base for news content"
-          },
-          "PlayOverwatch": {
-            "type": "Gaming",
-            "strength": "Dedicated audience for game updates"
-          },
-          "ESPN": {
-            "type": "Sports Network",
-            "strength": "Strong following for sports events"
-          },
-          "Sony Pictures Entertainment": {
-            "type": "Movie Studio",
-            "strength": "High interest in film content"
+          "insights": {
+            "description": "Major media companies and recognized brands dominate, leveraging their established audiences.",
+            "market_opportunity": "Collaborations with top channels for cross-promotion and content diversification to reach wider audiences."
           }
         },
-        "insight": "Channels with established brands in movies, news, sports, and gaming are able to maintain high viewership by leveraging their niche audiences."
-      },
-      "marketOpportunities": {
-        "crossPromotion": {
-          "description": "Opportunity to cross-promote content across different trending categories.",
-          "strategy": "Collaborate with channels from different categories to reach wider audiences, such as combining movie trailers with gaming or sports content."
-        },
-        "emergingTrends": {
-          "description": "Capitalize on emerging trends by creating timely content.",
-          "strategy": "Develop content that aligns with trending topics, such as sequel announcements, major news events, or upcoming sports seasons."
-        },
-        "audienceEngagement": {
-          "description": "Increase engagement through interactive content.",
-          "strategy": "Encourage audience interaction through polls, live discussions, and Q&A sessions, particularly in news and sports."
+        "market_opportunities": {
+          "new_content_creation": {
+            "description": "Emerging themes in trailers and series offer opportunities for niche content creation.",
+            "strategies": [
+              "Developing in-depth analysis and commentary on trending trailers and shows.",
+              "Creating interactive content such as polls and Q&A sessions related to trending topics."
+            ]
+          },
+          "audience_engagement": {
+            "description": "Leveraging trending topics to enhance audience interaction and engagement.",
+            "strategies": [
+              "Utilizing social media platforms to drive discussions on trending videos.",
+              "Incorporating user-generated content to build community around popular themes."
+            ]
+          }
         }
       },
       "metadata_stats": {
@@ -518,7 +528,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 392514
+        "avg_views_per_video": 474824
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
