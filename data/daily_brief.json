@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T09:40:51.021157",
+  "timestamp": "2026-04-15T12:34:04.532823",
   "date": "2026-04-15",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n-NDYWPXpKg/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 1399039,
-      "like_count": 94379,
-      "comment_count": 6663,
+      "view_count": 1631065,
+      "like_count": 103879,
+      "comment_count": 7122,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n-NDYWPXpKg"
@@ -56,29 +56,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qn7a5F9oJwo/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 818446,
-      "like_count": 54771,
-      "comment_count": 3753,
+      "view_count": 858489,
+      "like_count": 55924,
+      "comment_count": 3828,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qn7a5F9oJwo"
     },
     {
-      "video_id": "juwvHb_sUaA",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-15T05:36:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/juwvHb_sUaA/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "jEjr_wsH8DI",
+      "title": "Viva Las Hamptons",
+      "description": "As Ben Waddell's new girlfriend arrives to the Summer House, she and Ciara Miller bond over manicures: \"This is for every bitch who said I don't make friends easily.\"",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-04-15T09:49:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jEjr_wsH8DI/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=juwvHb_sUaA"
+      "url": "https://www.youtube.com/watch?v=jEjr_wsH8DI"
     },
     {
       "video_id": "NDYbJ-r8xHg",
@@ -90,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NDYbJ-r8xHg/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 176940,
-      "like_count": 5785,
-      "comment_count": 483,
+      "view_count": 197473,
+      "like_count": 6297,
+      "comment_count": 530,
       "category_id": "24",
       "tags": [
         "2026",
@@ -109,13 +109,13 @@
       "url": "https://www.youtube.com/watch?v=NDYbJ-r8xHg"
     },
     {
-      "video_id": "euxh46O46I8",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-15T07:21:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/euxh46O46I8/hqdefault.jpg",
+      "video_id": "PtT_0n3vf9k",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-15T08:40:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PtT_0n3vf9k/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -123,7 +123,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=euxh46O46I8"
+      "url": "https://www.youtube.com/watch?v=PtT_0n3vf9k"
     },
     {
       "video_id": "fS35YSjopjE",
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3983910,
-      "like_count": 53684,
-      "comment_count": 3060,
+      "view_count": 4093389,
+      "like_count": 54183,
+      "comment_count": 3096,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -154,32 +154,21 @@
       "url": "https://www.youtube.com/watch?v=fS35YSjopjE"
     },
     {
-      "video_id": "6-k4q2knT5g",
-      "title": "This Gotta Be Game Of The Year",
-      "description": "This video is sponsored by FuzzyBot (The developers of We Gotta Go!)\nBuy the game today! https://store.steampowered.com/app/3967470?utm_source=smii7y\n\nWe Gotta Go is a unique friendslop experience that I can't say I've ever seen before... Go ahead and tell me another game where the whole goal is not to crap yourself.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhtt",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-04-14T20:43:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6-k4q2knT5g/hqdefault.jpg",
-      "duration": "PT39M15S",
-      "duration_seconds": 2355,
-      "view_count": 799328,
-      "like_count": 35453,
-      "comment_count": 1176,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "we gotta go",
-        "we gotta go game",
-        "we gotta go gameplay",
-        "we gotta go friendslop",
-        "friendslop",
-        "friendslop game"
-      ],
-      "url": "https://www.youtube.com/watch?v=6-k4q2knT5g"
+      "video_id": "VpOO5nmuqok",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-15T09:21:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VpOO5nmuqok/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VpOO5nmuqok"
     },
     {
       "video_id": "jxU8FU3o75A",
@@ -191,40 +180,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 5021729,
-      "like_count": 58739,
-      "comment_count": 3179,
+      "view_count": 5117574,
+      "like_count": 60937,
+      "comment_count": 3300,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
     },
     {
-      "video_id": "O-ipuD6qy1Q",
-      "title": "Searching for a Civilization that Doesn't Exist",
-      "description": "As King of the Unstable SMP, I recently sent 1000 players on an expedition outside of my kingdom. When I returned, all of them were missing. This is searching for a civilization that doesn't exist. \n\nUnstable SMP:\n➜ ‪  ‪  @FlameFragsMC \n➜     @wemmbumc \n➜     @Spokeishere \n➜     @ParrotX2  \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 on other platforms! Enjoy!",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-04-15T02:09:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O-ipuD6qy1Q/hqdefault.jpg",
-      "duration": "PT56M48S",
-      "duration_seconds": 3408,
-      "view_count": 774199,
-      "like_count": 66108,
-      "comment_count": 15857,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
-      ],
-      "url": "https://www.youtube.com/watch?v=O-ipuD6qy1Q"
+      "video_id": "PUxRRjcrSrU",
+      "title": "Washington Capitals at Columbus Blue Jackets",
+      "description": "The Washington Capitals travel to face the Columbus Blue Jackets at Nationwide Arena for a late-season Metropolitan Division matchup. Washington has controlled the regular-season series, winning all three prior meetings (5-1, 5-1, and 2-0).",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-15T08:07:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PUxRRjcrSrU/hqdefault.jpg",
+      "duration": "PT2H41M31S",
+      "duration_seconds": 9691,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PUxRRjcrSrU"
     }
   ],
   "videos_with_transcripts": [],
@@ -256,29 +234,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qn7a5F9oJwo/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 818446,
-      "like_count": 54771,
-      "comment_count": 3753,
+      "view_count": 858489,
+      "like_count": 55924,
+      "comment_count": 3828,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qn7a5F9oJwo"
     },
     {
-      "video_id": "juwvHb_sUaA",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-15T05:36:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/juwvHb_sUaA/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "jEjr_wsH8DI",
+      "title": "Viva Las Hamptons",
+      "description": "As Ben Waddell's new girlfriend arrives to the Summer House, she and Ciara Miller bond over manicures: \"This is for every bitch who said I don't make friends easily.\"",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-04-15T09:49:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jEjr_wsH8DI/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=juwvHb_sUaA"
+      "url": "https://www.youtube.com/watch?v=jEjr_wsH8DI"
     },
     {
       "video_id": "NDYbJ-r8xHg",
@@ -290,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NDYbJ-r8xHg/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 176940,
-      "like_count": 5785,
-      "comment_count": 483,
+      "view_count": 197473,
+      "like_count": 6297,
+      "comment_count": 530,
       "category_id": "24",
       "tags": [
         "2026",
@@ -309,13 +287,13 @@
       "url": "https://www.youtube.com/watch?v=NDYbJ-r8xHg"
     },
     {
-      "video_id": "euxh46O46I8",
-      "title": "CNN Global Report: War With Iran",
-      "description": "Anderson Cooper reports on the latest developments in the war with Iran.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-15T07:21:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/euxh46O46I8/hqdefault.jpg",
+      "video_id": "PtT_0n3vf9k",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-15T08:40:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PtT_0n3vf9k/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -323,7 +301,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=euxh46O46I8"
+      "url": "https://www.youtube.com/watch?v=PtT_0n3vf9k"
     },
     {
       "video_id": "fS35YSjopjE",
@@ -335,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3983910,
-      "like_count": 53684,
-      "comment_count": 3060,
+      "view_count": 4093389,
+      "like_count": 54183,
+      "comment_count": 3096,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -354,32 +332,21 @@
       "url": "https://www.youtube.com/watch?v=fS35YSjopjE"
     },
     {
-      "video_id": "6-k4q2knT5g",
-      "title": "This Gotta Be Game Of The Year",
-      "description": "This video is sponsored by FuzzyBot (The developers of We Gotta Go!)\nBuy the game today! https://store.steampowered.com/app/3967470?utm_source=smii7y\n\nWe Gotta Go is a unique friendslop experience that I can't say I've ever seen before... Go ahead and tell me another game where the whole goal is not to crap yourself.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhtt",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-04-14T20:43:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6-k4q2knT5g/hqdefault.jpg",
-      "duration": "PT39M15S",
-      "duration_seconds": 2355,
-      "view_count": 799328,
-      "like_count": 35453,
-      "comment_count": 1176,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "we gotta go",
-        "we gotta go game",
-        "we gotta go gameplay",
-        "we gotta go friendslop",
-        "friendslop",
-        "friendslop game"
-      ],
-      "url": "https://www.youtube.com/watch?v=6-k4q2knT5g"
+      "video_id": "VpOO5nmuqok",
+      "title": "The Source With Kaitlan Collins",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-15T09:21:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VpOO5nmuqok/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VpOO5nmuqok"
     },
     {
       "video_id": "jxU8FU3o75A",
@@ -391,40 +358,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 5021729,
-      "like_count": 58739,
-      "comment_count": 3179,
+      "view_count": 5117574,
+      "like_count": 60937,
+      "comment_count": 3300,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
     },
     {
-      "video_id": "O-ipuD6qy1Q",
-      "title": "Searching for a Civilization that Doesn't Exist",
-      "description": "As King of the Unstable SMP, I recently sent 1000 players on an expedition outside of my kingdom. When I returned, all of them were missing. This is searching for a civilization that doesn't exist. \n\nUnstable SMP:\n➜ ‪  ‪  @FlameFragsMC \n➜     @wemmbumc \n➜     @Spokeishere \n➜     @ParrotX2  \n\nLike ParrotX2 and his Unstable SMP series, where he is escaping Paragon / Proton: Minecraft's Most Secure Prison, or got hunted by a Minecraft Player who doesn't exist. This is a new and original Minecraft idea like HermitCraft or Lifesteal with Wemmbu, FlameFrags, or Spoke. Survival is harder than Hardcore Minecraft because PVP is on.\n\nPeople in this video: @TheobaldTheBird \n\nThis is a video on the Unstable Universe: a staged Minecraft server where ParrotX2, Wemmbu, Spoke, and FlameFrags tell stories in Minecraft.\n\nA Minecraft video made by Parrot or ParrotX2 on other platforms! Enjoy!",
-      "channel_title": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "published_at": "2026-04-15T02:09:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O-ipuD6qy1Q/hqdefault.jpg",
-      "duration": "PT56M48S",
-      "duration_seconds": 3408,
-      "view_count": 774199,
-      "like_count": 66108,
-      "comment_count": 15857,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Minecraft SMP",
-        "SMP",
-        "Minecraft Server",
-        "LifeSteal SMP",
-        "School Minecraft Server",
-        "School SMP",
-        "School Parrot",
-        "Parrot",
-        "ParrotX2"
-      ],
-      "url": "https://www.youtube.com/watch?v=O-ipuD6qy1Q"
+      "video_id": "PUxRRjcrSrU",
+      "title": "Washington Capitals at Columbus Blue Jackets",
+      "description": "The Washington Capitals travel to face the Columbus Blue Jackets at Nationwide Arena for a late-season Metropolitan Division matchup. Washington has controlled the regular-season series, winning all three prior meetings (5-1, 5-1, and 2-0).",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-15T08:07:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PUxRRjcrSrU/hqdefault.jpg",
+      "duration": "PT2H41M31S",
+      "duration_seconds": 9691,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=PUxRRjcrSrU"
     },
     {
       "video_id": "n-NDYWPXpKg",
@@ -436,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n-NDYWPXpKg/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 1399039,
-      "like_count": 94379,
-      "comment_count": 6663,
+      "view_count": 1631065,
+      "like_count": 103879,
+      "comment_count": 7122,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n-NDYWPXpKg"
@@ -448,62 +404,59 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "movies_and_entertainment": {
-          "observation": "A significant portion of the trending videos are related to movie trailers and teasers, indicating a strong interest in upcoming film releases.",
-          "data": {
-            "total_movie_related_videos": 5,
-            "percentage_of_total": 50
+        "genres": [
+          {
+            "genre": "Entertainment",
+            "observation": "Teaser trailers and official trailers are prominent, indicating a strong audience interest in upcoming films and series. Videos like 'GODZILLA MINUS ZERO', 'The Hunger Games: Sunrise on the Reaping', and 'INSIDIOUS: OUT OF THE FURTHER' suggest a focus on blockbuster and horror genres."
           },
-          "insight": "There is a growing demand for cinematic content, especially teasers and trailers of upcoming movies. Channels focusing on entertainment should capitalize on this by creating more content related to movie reviews, behind-the-scenes, and fan theories."
-        },
-        "news_and_politics": {
-          "observation": "Two videos from major news channels (FOX News and CNN) are trending, highlighting significant viewer engagement with current events.",
-          "data": {
-            "total_news_related_videos": 2,
-            "percentage_of_total": 20
+          {
+            "genre": "News and Commentary",
+            "observation": "News commentary shows like 'Jesse Watters Primetime', 'The Last Word With Lawrence O'Donnell', and 'The Source With Kaitlan Collins' indicate a continued interest in current events and political discourse."
           },
-          "insight": "There is a consistent audience for current affairs and global news. Creating content that provides in-depth analysis or alternative perspectives on trending news topics could attract a dedicated viewership."
-        },
-        "gaming_and_pop_culture": {
-          "observation": "There is a noticeable interest in gaming and pop culture, as evidenced by titles like 'Black Cat: The Master Thief' and 'This Gotta Be Game Of The Year'.",
-          "data": {
-            "total_gaming_related_videos": 2,
-            "percentage_of_total": 20
-          },
-          "insight": "The gaming community continues to be vibrant on YouTube. Channels that focus on game reviews, playthroughs, and character analyses can expect to capture this market."
-        },
-        "miscellaneous": {
-          "observation": "There is one video with a unique theme ('Searching for a Civilization that Doesn't Exist'), suggesting niche interests also capture attention.",
-          "data": {
-            "total_miscellaneous_videos": 1,
-            "percentage_of_total": 10
-          },
-          "insight": "There is potential for growth in niche content that explores unconventional or thought-provoking topics. Channels can explore unique themes to cater to curious and niche audiences."
-        }
+          {
+            "genre": "Sports",
+            "observation": "The inclusion of 'Washington Capitals at Columbus Blue Jackets' highlights the consistent demand for sports content, particularly live or recent event coverage."
+          }
+        ],
+        "themes": [
+          {
+            "theme": "Nostalgia and Franchise Continuity",
+            "observation": "Content related to established franchises like Godzilla and The Hunger Games indicates sustained viewer interest in nostalgic and familiar content."
+          }
+        ]
       },
       "creator_patterns": {
-        "diversified_content": {
-          "observation": "Channels from various domains (entertainment, news, gaming) are trending, showing a diverse interest among viewers.",
-          "insight": "Creators should diversify their content offerings to tap into different audience segments and increase their chances of trending."
-        },
-        "branded_channels": {
-          "observation": "Branded channels like 'GODZILLA OFFICIAL by TOHO' and 'Marvel Rivals' are able to generate significant interest with single video releases.",
-          "insight": "Brands with strong franchises should leverage their intellectual properties to maintain viewer interest and engagement. Collaborations with influencers could further extend reach."
+        "dominant_channels": [
+          {
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "video_count": 1,
+            "observation": "The channel's focus on exclusive content around the Godzilla franchise suggests a strategy centered on leveraging established franchises to capture audience interest."
+          },
+          {
+            "channel": "FOX News",
+            "video_count": 1,
+            "observation": "This channel maintains relevance by providing timely commentary on current events, appealing to viewers interested in political and social issues."
+          }
+        ],
+        "content_strategy": {
+          "observation": "Successful channels are leveraging a mix of exclusive franchise content, timely news analysis, and niche interests (e.g., sports) to maintain viewer engagement."
         }
       },
       "market_opportunities": {
-        "cross-collaboration": {
-          "suggestion": "Collaborate with creators from different niches (e.g., gaming and movies) to produce hybrid content that appeals to multiple interests.",
-          "rationale": "Cross-niche content can capture broader audiences and introduce viewers to new content types."
-        },
-        "timely_content": {
-          "suggestion": "Produce content that aligns with major events (e.g., movie releases, global news) to maximize engagement.",
-          "rationale": "Timely releases can capitalize on ongoing conversations and increase the likelihood of content trending."
-        },
-        "audience_engagement": {
-          "suggestion": "Engage with audiences through live Q&A sessions, polls, and community posts to enrich viewer experience and build community loyalty.",
-          "rationale": "Interactive content fosters a sense of community and encourages repeat viewership."
-        }
+        "emerging_trends": [
+          {
+            "trend": "Trailer and Teaser Content",
+            "opportunity": "Invest in producing high-quality teaser and trailer content for upcoming media. Engaging visuals and early reveals can captivate audiences and generate buzz."
+          },
+          {
+            "trend": "Comprehensive News Coverage",
+            "opportunity": "Expand news and commentary content to cover a broader range of topics with in-depth analysis to attract viewers seeking diverse perspectives."
+          },
+          {
+            "trend": "Interactive Sports Content",
+            "opportunity": "Enhance sports coverage with interactive elements, such as live streaming and fan engagement features, to tap into the sports community's demand for real-time interaction."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -511,7 +464,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1297359
+        "avg_views_per_video": 1189799
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
