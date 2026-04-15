@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T12:34:04.532823",
+  "timestamp": "2026-04-15T15:35:03.397205",
   "date": "2026-04-15",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n-NDYWPXpKg/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 1631065,
-      "like_count": 103879,
-      "comment_count": 7122,
+      "view_count": 1892195,
+      "like_count": 114556,
+      "comment_count": 7616,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n-NDYWPXpKg"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qn7a5F9oJwo/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 858489,
-      "like_count": 55924,
-      "comment_count": 3828,
+      "view_count": 958977,
+      "like_count": 56952,
+      "comment_count": 3916,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qn7a5F9oJwo"
@@ -90,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NDYbJ-r8xHg/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 197473,
-      "like_count": 6297,
-      "comment_count": 530,
+      "view_count": 226585,
+      "like_count": 6919,
+      "comment_count": 566,
       "category_id": "24",
       "tags": [
         "2026",
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 4093389,
-      "like_count": 54183,
-      "comment_count": 3096,
+      "view_count": 4211231,
+      "like_count": 54716,
+      "comment_count": 3124,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -180,9 +180,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 5117574,
-      "like_count": 60937,
-      "comment_count": 3300,
+      "view_count": 5456703,
+      "like_count": 63454,
+      "comment_count": 3473,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
@@ -234,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qn7a5F9oJwo/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 858489,
-      "like_count": 55924,
-      "comment_count": 3828,
+      "view_count": 958977,
+      "like_count": 56952,
+      "comment_count": 3916,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qn7a5F9oJwo"
@@ -268,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NDYbJ-r8xHg/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 197473,
-      "like_count": 6297,
-      "comment_count": 530,
+      "view_count": 226585,
+      "like_count": 6919,
+      "comment_count": 566,
       "category_id": "24",
       "tags": [
         "2026",
@@ -313,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fS35YSjopjE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 4093389,
-      "like_count": 54183,
-      "comment_count": 3096,
+      "view_count": 4211231,
+      "like_count": 54716,
+      "comment_count": 3124,
       "category_id": "1",
       "tags": [
         "The Hunger Games",
@@ -358,9 +358,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jxU8FU3o75A/hqdefault.jpg",
       "duration": "PT2M34S",
       "duration_seconds": 154,
-      "view_count": 5117574,
-      "like_count": 60937,
-      "comment_count": 3300,
+      "view_count": 5456703,
+      "like_count": 63454,
+      "comment_count": 3473,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=jxU8FU3o75A"
@@ -392,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n-NDYWPXpKg/hqdefault.jpg",
       "duration": "PT49S",
       "duration_seconds": 49,
-      "view_count": 1631065,
-      "like_count": 103879,
-      "comment_count": 7122,
+      "view_count": 1892195,
+      "like_count": 114556,
+      "comment_count": 7616,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n-NDYWPXpKg"
@@ -403,60 +403,85 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "genres": [
-          {
-            "genre": "Entertainment",
-            "observation": "Teaser trailers and official trailers are prominent, indicating a strong audience interest in upcoming films and series. Videos like 'GODZILLA MINUS ZERO', 'The Hunger Games: Sunrise on the Reaping', and 'INSIDIOUS: OUT OF THE FURTHER' suggest a focus on blockbuster and horror genres."
-          },
-          {
-            "genre": "News and Commentary",
-            "observation": "News commentary shows like 'Jesse Watters Primetime', 'The Last Word With Lawrence O'Donnell', and 'The Source With Kaitlan Collins' indicate a continued interest in current events and political discourse."
-          },
-          {
-            "genre": "Sports",
-            "observation": "The inclusion of 'Washington Capitals at Columbus Blue Jackets' highlights the consistent demand for sports content, particularly live or recent event coverage."
+      "insights": {
+        "content_trends": {
+          "highly_viewed_genres": [
+            "Movie Trailers",
+            "Teaser Trailers",
+            "News Segments",
+            "Sports Highlights"
+          ],
+          "dominant_content_themes": [
+            "Upcoming Movies",
+            "Entertainment News",
+            "Current Affairs"
+          ],
+          "emerging_trends": [
+            {
+              "theme": "Monster Movies",
+              "notable_video": "GODZILLA MINUS ZERO",
+              "description": "Two different teasers for 'GODZILLA MINUS ZERO' suggest a strong interest in monster movies."
+            },
+            {
+              "theme": "Franchise Revivals",
+              "notable_video": "The Hunger Games: Sunrise on the Reaping",
+              "description": "The revival of the Hunger Games series indicates interest in franchise continuations."
+            }
+          ]
+        },
+        "creator_patterns": {
+          "top_creators": [
+            {
+              "name": "GODZILLA OFFICIAL by TOHO",
+              "video_count": 1,
+              "content_type": "Movie Trailers"
+            },
+            {
+              "name": "FOX News",
+              "video_count": 1,
+              "content_type": "News Segments"
+            },
+            {
+              "name": "Marvel Rivals",
+              "video_count": 1,
+              "content_type": "Game Trailers"
+            }
+          ],
+          "posting_trends": {
+            "frequency": "Low (1 video per channel)",
+            "strategy": "Focusing on high-impact, highly-anticipated content"
           }
-        ],
-        "themes": [
-          {
-            "theme": "Nostalgia and Franchise Continuity",
-            "observation": "Content related to established franchises like Godzilla and The Hunger Games indicates sustained viewer interest in nostalgic and familiar content."
-          }
-        ]
-      },
-      "creator_patterns": {
-        "dominant_channels": [
-          {
-            "channel": "GODZILLA OFFICIAL by TOHO",
-            "video_count": 1,
-            "observation": "The channel's focus on exclusive content around the Godzilla franchise suggests a strategy centered on leveraging established franchises to capture audience interest."
-          },
-          {
-            "channel": "FOX News",
-            "video_count": 1,
-            "observation": "This channel maintains relevance by providing timely commentary on current events, appealing to viewers interested in political and social issues."
-          }
-        ],
-        "content_strategy": {
-          "observation": "Successful channels are leveraging a mix of exclusive franchise content, timely news analysis, and niche interests (e.g., sports) to maintain viewer engagement."
+        },
+        "market_opportunities": {
+          "potential_growth_areas": [
+            {
+              "category": "Movie Teasers",
+              "opportunity": "Increased engagement with teasers and trailers for blockbuster movies"
+            },
+            {
+              "category": "Franchise Content",
+              "opportunity": "Leveraging existing fan bases for sequels and revivals"
+            },
+            {
+              "category": "Real-time News",
+              "opportunity": "Capturing audiences with timely and current news segments"
+            }
+          ],
+          "recommendations": [
+            {
+              "action": "Content Creation",
+              "suggestion": "Develop high-quality teasers and trailers for upcoming popular franchises."
+            },
+            {
+              "action": "Collaboration",
+              "suggestion": "Partner with established news channels to create engaging content around current events."
+            },
+            {
+              "action": "Audience Engagement",
+              "suggestion": "Utilize social media platforms to boost engagement and promote trending videos."
+            }
+          ]
         }
-      },
-      "market_opportunities": {
-        "emerging_trends": [
-          {
-            "trend": "Trailer and Teaser Content",
-            "opportunity": "Invest in producing high-quality teaser and trailer content for upcoming media. Engaging visuals and early reveals can captivate audiences and generate buzz."
-          },
-          {
-            "trend": "Comprehensive News Coverage",
-            "opportunity": "Expand news and commentary content to cover a broader range of topics with in-depth analysis to attract viewers seeking diverse perspectives."
-          },
-          {
-            "trend": "Interactive Sports Content",
-            "opportunity": "Enhance sports coverage with interactive elements, such as live streaming and fan engagement features, to tap into the sports community's demand for real-time interaction."
-          }
-        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -464,7 +489,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1189799
+        "avg_views_per_video": 1274569
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
