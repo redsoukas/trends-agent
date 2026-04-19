@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-19T06:44:36.681799",
+  "timestamp": "2026-04-19T09:23:12.720797",
   "date": "2026-04-19",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 8,
+    "music_videos_filtered": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,12 +22,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xt4X4FvXk2A/hqdefault.jpg",
       "duration": "PT2M53S",
       "duration_seconds": 173,
-      "view_count": 13493808,
-      "like_count": 252867,
-      "comment_count": 21328,
+      "view_count": 13581544,
+      "like_count": 254421,
+      "comment_count": 21428,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
+    },
+    {
+      "video_id": "B9mkS1FtTmc",
+      "title": "Minnesota Wild at Dallas Stars",
+      "description": "Game 1 of the First Round between the Wild and the Stars takes place at the American Airlines Center. The regular season series was tied at 2-2. Kirill Kaprizov leads the Wild with 89 points, while Jason Robertson leads the Stars with 96 points.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-19T07:28:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B9mkS1FtTmc/hqdefault.jpg",
+      "duration": "PT2H40M45S",
+      "duration_seconds": 9645,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=B9mkS1FtTmc"
     },
     {
       "video_id": "Xjzlkc83-TY",
@@ -47,23 +64,6 @@
       "url": "https://www.youtube.com/watch?v=Xjzlkc83-TY"
     },
     {
-      "video_id": "1gIPjDYNXj0",
-      "title": "Spider-Man Beyond The Spider-Verse Cinemacon Trailer 2027 Breakdown",
-      "description": "Spider-Man Beyond The Spider-Verse CinemaCon Trailer 2027. New Footage and Scenes, Miles Morales vs Prowler Miles G. Morales, Spider-Gwen, Sinister Six, Spider-Man Brand New Day Trailer & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nThe Boys Season 5 Episode 3 https://www.youtube.com/watch?v=NgPvY6XxAl0&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nBlack Panther 3 Teaser https://www.youtube.com/watch?v=fSeWKgXDVS0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=W5JZ-oq-T7s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 6 https://www.youtube.com/watch?v=lP4qxaB",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-18T22:06:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1gIPjDYNXj0/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 67521,
-      "like_count": 2532,
-      "comment_count": 207,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1gIPjDYNXj0"
-    },
-    {
       "video_id": "7B0-WJ5QYsc",
       "title": "Brawl Talk: 3 NEW Brawlers!",
       "description": "CLAIM FREEBIE: https://link.brawlstars.com/voucher/fad039a8-4850-4a09-b1dd-f673afec5aa7\n\n🤯 3 New Brawlers\n🦊 New Buffies\n🔮 Bling and Shop rework!\n✨ Collabs, Events and MORE!\n\n#BrawlTalk \n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe",
@@ -73,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 6531941,
-      "like_count": 329656,
-      "comment_count": 28987,
+      "view_count": 7193092,
+      "like_count": 370863,
+      "comment_count": 31418,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -92,75 +92,13 @@
       "url": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
     },
     {
-      "video_id": "XAbD4DKLw98",
-      "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN | Footage Description | CinemaCon 2026",
-      "description": "Avengers Doomsday CinemaCon Trailer Exclusive Footage Description by New Rockstars’ Erik Voss! Get 10% off your first month of therapy at https://betterhelp.com/NewRockstars. #sponsored\n\nNew Rockstars was here live at CinemaCon 2026 in Las Vegas, and here’s our eye witness account of the footage. How Doctor Doom looks, what exactly he says, HOW Robert Downey Jr. sounds as Victor, what his battle with Thor looks like, the Gambit vs Shang-Chi fight, the Yelena vs Mystique fight, the Thor vs Doctor Doom fight, and Steve Rogers’ big return. Erik Voss describes, in detail, everything in this epic trailer.\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out ",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-04-17T06:33:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XAbD4DKLw98/hqdefault.jpg",
-      "duration": "PT15M29S",
-      "duration_seconds": 929,
-      "view_count": 745430,
-      "like_count": 24666,
-      "comment_count": 1338,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "doomsday",
-        "avengers doomsday",
-        "avengers doomsday trailer",
-        "avengers doomsday trailer breakdown",
-        "avengers doomsday trailer reaction",
-        "doctor doom",
-        "cinemacon"
-      ],
-      "url": "https://www.youtube.com/watch?v=XAbD4DKLw98"
-    },
-    {
-      "video_id": "Fbf_jqiP_Ac",
-      "title": "Ottawa Senators at Carolina Hurricanes",
-      "description": "Game 1 of the Eastern Conference First Round between the Ottawa Senators and the Carolina Hurricanes takes place at Lenovo Center. This marks the first playoff meeting between these two franchises. Carolina won the regular-season series 2-1.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-19T04:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fbf_jqiP_Ac/hqdefault.jpg",
-      "duration": "PT2H45M6S",
-      "duration_seconds": 9906,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Fbf_jqiP_Ac"
-    },
-    {
-      "video_id": "uwild1rw7Aw",
-      "title": "Star Wars: The Mandalorian and Grogu | Final Trailer | In Theaters May 22",
-      "description": "The old protect the young, and then the young protect the old.\n\nTickets are on sale tomorrow for Star Wars: The Mandalorian and Grogu only in theaters and IMAX May 22. \n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\n@Disney \n@Lucasfilm \n@marvel \n@pixar \n@disneyplus",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-04-16T22:11:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uwild1rw7Aw/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 3005135,
-      "like_count": 67765,
-      "comment_count": 4419,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=uwild1rw7Aw"
-    },
-    {
-      "video_id": "TPlzkPb5aSg",
+      "video_id": "vwzZxNsobxw",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T04:32:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TPlzkPb5aSg/hqdefault.jpg",
+      "published_at": "2026-04-19T07:21:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vwzZxNsobxw/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -168,7 +106,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TPlzkPb5aSg"
+      "url": "https://www.youtube.com/watch?v=vwzZxNsobxw"
+    },
+    {
+      "video_id": "G-Aq6XT0Rdc",
+      "title": "Might Be the Worst Review I've Ever Seen",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nOur soap https://www.usecheeky.com/moist\nGaming channel https://www.youtube.com/@MoistCr1TiKaLGamingOfficial\nThis is the greatest mouse review of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-04-19T02:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
+      "duration": "PT18M2S",
+      "duration_seconds": 1082,
+      "view_count": 723423,
+      "like_count": 46559,
+      "comment_count": 5840,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
+    },
+    {
+      "video_id": "sbaWh9rYMkg",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-19T07:08:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sbaWh9rYMkg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
     },
     {
       "video_id": "xfrmntfK3sU",
@@ -200,12 +172,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xt4X4FvXk2A/hqdefault.jpg",
       "duration": "PT2M53S",
       "duration_seconds": 173,
-      "view_count": 13493808,
-      "like_count": 252867,
-      "comment_count": 21328,
+      "view_count": 13581544,
+      "like_count": 254421,
+      "comment_count": 21428,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
+    },
+    {
+      "video_id": "B9mkS1FtTmc",
+      "title": "Minnesota Wild at Dallas Stars",
+      "description": "Game 1 of the First Round between the Wild and the Stars takes place at the American Airlines Center. The regular season series was tied at 2-2. Kirill Kaprizov leads the Wild with 89 points, while Jason Robertson leads the Stars with 96 points.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-19T07:28:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B9mkS1FtTmc/hqdefault.jpg",
+      "duration": "PT2H40M45S",
+      "duration_seconds": 9645,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=B9mkS1FtTmc"
     },
     {
       "video_id": "Xjzlkc83-TY",
@@ -225,23 +214,6 @@
       "url": "https://www.youtube.com/watch?v=Xjzlkc83-TY"
     },
     {
-      "video_id": "1gIPjDYNXj0",
-      "title": "Spider-Man Beyond The Spider-Verse Cinemacon Trailer 2027 Breakdown",
-      "description": "Spider-Man Beyond The Spider-Verse CinemaCon Trailer 2027. New Footage and Scenes, Miles Morales vs Prowler Miles G. Morales, Spider-Gwen, Sinister Six, Spider-Man Brand New Day Trailer & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nThe Boys Season 5 Episode 3 https://www.youtube.com/watch?v=NgPvY6XxAl0&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nBlack Panther 3 Teaser https://www.youtube.com/watch?v=fSeWKgXDVS0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nMasters Of The Universe Trailer https://www.youtube.com/watch?v=W5JZ-oq-T7s&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 6 https://www.youtube.com/watch?v=lP4qxaB",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-18T22:06:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1gIPjDYNXj0/hqdefault.jpg",
-      "duration": "PT16M30S",
-      "duration_seconds": 990,
-      "view_count": 67521,
-      "like_count": 2532,
-      "comment_count": 207,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1gIPjDYNXj0"
-    },
-    {
       "video_id": "7B0-WJ5QYsc",
       "title": "Brawl Talk: 3 NEW Brawlers!",
       "description": "CLAIM FREEBIE: https://link.brawlstars.com/voucher/fad039a8-4850-4a09-b1dd-f673afec5aa7\n\n🤯 3 New Brawlers\n🦊 New Buffies\n🔮 Bling and Shop rework!\n✨ Collabs, Events and MORE!\n\n#BrawlTalk \n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe",
@@ -251,9 +223,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 6531941,
-      "like_count": 329656,
-      "comment_count": 28987,
+      "view_count": 7193092,
+      "like_count": 370863,
+      "comment_count": 31418,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -270,75 +242,13 @@
       "url": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
     },
     {
-      "video_id": "XAbD4DKLw98",
-      "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN | Footage Description | CinemaCon 2026",
-      "description": "Avengers Doomsday CinemaCon Trailer Exclusive Footage Description by New Rockstars’ Erik Voss! Get 10% off your first month of therapy at https://betterhelp.com/NewRockstars. #sponsored\n\nNew Rockstars was here live at CinemaCon 2026 in Las Vegas, and here’s our eye witness account of the footage. How Doctor Doom looks, what exactly he says, HOW Robert Downey Jr. sounds as Victor, what his battle with Thor looks like, the Gambit vs Shang-Chi fight, the Yelena vs Mystique fight, the Thor vs Doctor Doom fight, and Steve Rogers’ big return. Erik Voss describes, in detail, everything in this epic trailer.\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out ",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-04-17T06:33:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XAbD4DKLw98/hqdefault.jpg",
-      "duration": "PT15M29S",
-      "duration_seconds": 929,
-      "view_count": 745430,
-      "like_count": 24666,
-      "comment_count": 1338,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "doomsday",
-        "avengers doomsday",
-        "avengers doomsday trailer",
-        "avengers doomsday trailer breakdown",
-        "avengers doomsday trailer reaction",
-        "doctor doom",
-        "cinemacon"
-      ],
-      "url": "https://www.youtube.com/watch?v=XAbD4DKLw98"
-    },
-    {
-      "video_id": "Fbf_jqiP_Ac",
-      "title": "Ottawa Senators at Carolina Hurricanes",
-      "description": "Game 1 of the Eastern Conference First Round between the Ottawa Senators and the Carolina Hurricanes takes place at Lenovo Center. This marks the first playoff meeting between these two franchises. Carolina won the regular-season series 2-1.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-19T04:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fbf_jqiP_Ac/hqdefault.jpg",
-      "duration": "PT2H45M6S",
-      "duration_seconds": 9906,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Fbf_jqiP_Ac"
-    },
-    {
-      "video_id": "uwild1rw7Aw",
-      "title": "Star Wars: The Mandalorian and Grogu | Final Trailer | In Theaters May 22",
-      "description": "The old protect the young, and then the young protect the old.\n\nTickets are on sale tomorrow for Star Wars: The Mandalorian and Grogu only in theaters and IMAX May 22. \n\n► SUBSCRIBE to the channel to get notified when new Star Wars videos are posted: https://www.youtube.com/starwars?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Star Wars shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Star Wars\n\nTikTok: https://www.tiktok.com/@starwars\nInstagram: https://www.instagram.com/starwars/\nFacebook: https://www.facebook.com/StarWars\nX: https://x.com/starwars\nWebsite: StarWars.com\n\nExperience more stories by subscribing: \n\n@Disney \n@Lucasfilm \n@marvel \n@pixar \n@disneyplus",
-      "channel_title": "Star Wars",
-      "channel_id": "UCZGYJFUizSax-yElQaFDp5Q",
-      "published_at": "2026-04-16T22:11:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uwild1rw7Aw/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 3005135,
-      "like_count": 67765,
-      "comment_count": 4419,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=uwild1rw7Aw"
-    },
-    {
-      "video_id": "TPlzkPb5aSg",
+      "video_id": "vwzZxNsobxw",
       "title": "The Big Weekend Show",
       "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T04:32:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TPlzkPb5aSg/hqdefault.jpg",
+      "published_at": "2026-04-19T07:21:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vwzZxNsobxw/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -346,7 +256,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TPlzkPb5aSg"
+      "url": "https://www.youtube.com/watch?v=vwzZxNsobxw"
+    },
+    {
+      "video_id": "G-Aq6XT0Rdc",
+      "title": "Might Be the Worst Review I've Ever Seen",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nOur soap https://www.usecheeky.com/moist\nGaming channel https://www.youtube.com/@MoistCr1TiKaLGamingOfficial\nThis is the greatest mouse review of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-04-19T02:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
+      "duration": "PT18M2S",
+      "duration_seconds": 1082,
+      "view_count": 723423,
+      "like_count": 46559,
+      "comment_count": 5840,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
+    },
+    {
+      "video_id": "sbaWh9rYMkg",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-19T07:08:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sbaWh9rYMkg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
     },
     {
       "video_id": "xfrmntfK3sU",
@@ -369,66 +313,81 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "analysis": {
-        "content_trends": {
-          "categories": {
-            "movies_and_trailers": 4,
-            "sports": 3,
-            "gaming": 1,
-            "news_and_talk": 1
-          },
-          "key_insights": {
-            "dominant_category": "Movies and Trailers",
-            "emerging_category": "Sports",
-            "niche_category": "Gaming",
-            "view_concentration": "High viewership in entertainment and sports content"
+      "content_trends": {
+        "entertainment_and_sports": {
+          "description": "The trending videos indicate a strong interest in entertainment and sports content.",
+          "evidence": [
+            "Street Fighter | Official Trailer (2026 Movie)",
+            "Minnesota Wild at Dallas Stars",
+            "RBC Heritage, Third Round",
+            "Chelsea vs. Manchester United"
+          ],
+          "actionable_insights": {
+            "opportunity": "Brands and creators should focus on producing high-quality trailers, sports highlights, and analysis content.",
+            "strategy": "Collaborate with sports influencers and official sports channels to reach a broader audience."
           }
         },
-        "creator_patterns": {
-          "channel_focus": {
-            "Paramount Pictures": "Movie Trailers",
-            "Golf Channel": "Golf Sports Coverage",
-            "Emergency Awesome": "Entertainment Analysis",
-            "Brawl Stars": "Gaming Content",
-            "New Rockstars": "Movie Breakdown and Analysis"
-          },
-          "engagement_trends": {
-            "highly_engaged_channels": [
-              "Paramount Pictures",
-              "Emergency Awesome",
-              "New Rockstars"
-            ],
-            "potential_growth_channels": [
-              "Brawl Stars",
-              "Golf Channel"
-            ]
+        "gaming": {
+          "description": "Gaming content continues to trend with significant engagement.",
+          "evidence": [
+            "Brawl Talk: 3 NEW Brawlers!"
+          ],
+          "actionable_insights": {
+            "opportunity": "Develop interactive content or live streams around new game releases and updates.",
+            "strategy": "Engage with the gaming community through collaborative events and exclusive content drops."
           }
         },
-        "market_opportunities": {
-          "content_creation": {
-            "expand_movie_breakdowns": "Increase content focusing on detailed breakdowns of upcoming movies, leveraging the popularity of the 'Breakdown' format.",
-            "sports_highlights": "Capitalize on the growing interest in sports by creating highlight reels or in-depth analyses of major sports events.",
-            "cross-category_content": "Develop content that bridges gaming and movies, such as game adaptations of popular films."
-          },
-          "channel_growth_strategies": {
-            "collaborations": "Encourage collaborations between movie channels and analysis channels to provide diverse perspectives.",
-            "live_interactions": "Utilize live-streaming for sports events and movie trailer launches to engage viewers in real-time.",
-            "audience_engagement": "Implement interactive elements like polls and Q&A sessions in videos to increase audience retention and participation."
+        "news_and_commentary": {
+          "description": "Current events and commentary maintain a presence in trending content.",
+          "evidence": [
+            "The Big Weekend Show",
+            "Real Time With Bill Maher"
+          ],
+          "actionable_insights": {
+            "opportunity": "Create timely news analysis and opinion pieces that react to current events.",
+            "strategy": "Leverage social media for real-time engagement and audience interaction during newsworthy moments."
+          }
+        }
+      },
+      "creator_patterns": {
+        "multi-genre_channels": {
+          "description": "Top trending channels cover a diverse range of content categories.",
+          "evidence": [
+            "Paramount Pictures - Entertainment",
+            "ESPN - Sports",
+            "Golf Channel - Sports",
+            "Brawl Stars - Gaming",
+            "FOX News - News"
+          ],
+          "actionable_insights": {
+            "opportunity": "Channels can capitalize on this by diversifying their content offerings.",
+            "strategy": "Develop cross-category content series or collaborations to attract different audience segments."
+          }
+        }
+      },
+      "market_opportunities": {
+        "cross-promotion": {
+          "description": "There is a significant opportunity for cross-promotion between entertainment and sports.",
+          "actionable_insights": {
+            "opportunity": "Leverage partnerships between movie studios and sports leagues to create unique promotional content.",
+            "strategy": "Integrate sports figures in entertainment content and vice versa to engage fans from both niches."
           }
         },
-        "key_metrics": {
-          "average_views_per_video": 2649315,
-          "highest_engagement_category": "Movies and Trailers",
-          "potential_viral_content": "Cinematic trailers and breakdowns with a focus on upcoming blockbusters"
+        "emerging_formats": {
+          "description": "Trends indicate potential in exploring new content formats.",
+          "actionable_insights": {
+            "opportunity": "Experiment with formats like interactive livestreams, AR/VR experiences, and serialized content.",
+            "strategy": "Conduct audience surveys and A/B testing to identify the most engaging formats."
+          }
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2649315
+        "avg_views_per_video": 2687257
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
