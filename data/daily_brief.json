@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-19T18:21:38.878963",
+  "timestamp": "2026-04-19T21:17:05.939725",
   "date": "2026-04-19",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MalTZb_deNs/hqdefault.jpg",
       "duration": "PT1M38S",
       "duration_seconds": 98,
-      "view_count": 76258,
-      "like_count": 403,
-      "comment_count": 32,
+      "view_count": 129286,
+      "like_count": 513,
+      "comment_count": 43,
       "category_id": "24",
       "tags": [
         "Tarzan",
@@ -58,6 +58,68 @@
       "url": "https://www.youtube.com/watch?v=mNRncbEgFUU"
     },
     {
+      "video_id": "xEv9YCsKyUo",
+      "title": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
+      "description": "La distance n'empêche pas l'amour.\nMusique disponible sur toutes les plateformes de streaming.\n#axelmerryl #Arianna #donnetv7",
+      "channel_title": "Axel Merryl",
+      "channel_id": "UC-1leIzfjXD0_-DOWCe0s5Q",
+      "published_at": "2026-04-19T18:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
+      "duration": "PT3M9S",
+      "duration_seconds": 189,
+      "view_count": 99886,
+      "like_count": 37328,
+      "comment_count": 3287,
+      "category_id": "23",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
+    },
+    {
+      "video_id": "z2pQUErWSJ0",
+      "title": "Avengers Doomsday Trailer Debrief & CinemaCon Recap | Sneak Peek",
+      "description": "Here’s everything Erik saw at CinemaCon this year, and the major takeaways from the Doomsday trailer! Get 10 free meals + a free Nutribullet Ultra Plus at https://www.hellofresh.com/newrockstars10fm\n\nWhat happened BEHIND THE SCENES at CinemaCon while the Avengers Doomsday trailer played? Erik Voss spills all the secrets about the biggest news from CinemaCon 2026!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nCHAPTERS\n00:00 - Intro\n03:30 - The Doomsday of it all\n15:47 - Disney Panel\n23:12 - Par",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-04-19T15:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z2pQUErWSJ0/hqdefault.jpg",
+      "duration": "PT1H5M31S",
+      "duration_seconds": 3931,
+      "view_count": 49366,
+      "like_count": 2067,
+      "comment_count": 125,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "cinemacon",
+        "cinemacon 2026 recap",
+        "cinemacon trailer",
+        "doomsday",
+        "avengers doomdsay",
+        "doctor doom",
+        "robert downey jr"
+      ],
+      "url": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
+    },
+    {
+      "video_id": "EUvzCzOEpVc",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-19T20:05:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EUvzCzOEpVc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
+    },
+    {
       "video_id": "Xjzlkc83-TY",
       "title": "RBC Heritage, Third Round",
       "description": "From Harbour Town Golf Links in Hilton Head Island, S.C.",
@@ -84,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 10192731,
-      "like_count": 491894,
-      "comment_count": 39507,
+      "view_count": 10907817,
+      "like_count": 516048,
+      "comment_count": 41031,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -112,29 +174,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
       "duration": "PT18M2S",
       "duration_seconds": 1082,
-      "view_count": 1408268,
-      "like_count": 80605,
-      "comment_count": 9620,
+      "view_count": 1675620,
+      "like_count": 90478,
+      "comment_count": 10494,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
-    },
-    {
-      "video_id": "DpDmI-p0RVg",
-      "title": "FOX News Saturday Night With Jimmy Failla",
-      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T09:18:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DpDmI-p0RVg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
     },
     {
       "video_id": "MX3eRt8mizQ",
@@ -152,23 +197,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
-    },
-    {
-      "video_id": "q9x3YG5BgJk",
-      "title": "Atlanta Braves at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "FOX 29",
-      "channel_id": "UCWxDOvWw_lGzRmrmODLsdQg",
-      "published_at": "2026-04-19T09:54:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q9x3YG5BgJk/hqdefault.jpg",
-      "duration": "PT3H5M36S",
-      "duration_seconds": 11136,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
     }
   ],
   "videos_with_transcripts": [],
@@ -183,9 +211,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MalTZb_deNs/hqdefault.jpg",
       "duration": "PT1M38S",
       "duration_seconds": 98,
-      "view_count": 76258,
-      "like_count": 403,
-      "comment_count": 32,
+      "view_count": 129286,
+      "like_count": 513,
+      "comment_count": 43,
       "category_id": "24",
       "tags": [
         "Tarzan",
@@ -219,6 +247,68 @@
       "url": "https://www.youtube.com/watch?v=mNRncbEgFUU"
     },
     {
+      "video_id": "xEv9YCsKyUo",
+      "title": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
+      "description": "La distance n'empêche pas l'amour.\nMusique disponible sur toutes les plateformes de streaming.\n#axelmerryl #Arianna #donnetv7",
+      "channel_title": "Axel Merryl",
+      "channel_id": "UC-1leIzfjXD0_-DOWCe0s5Q",
+      "published_at": "2026-04-19T18:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
+      "duration": "PT3M9S",
+      "duration_seconds": 189,
+      "view_count": 99886,
+      "like_count": 37328,
+      "comment_count": 3287,
+      "category_id": "23",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
+    },
+    {
+      "video_id": "z2pQUErWSJ0",
+      "title": "Avengers Doomsday Trailer Debrief & CinemaCon Recap | Sneak Peek",
+      "description": "Here’s everything Erik saw at CinemaCon this year, and the major takeaways from the Doomsday trailer! Get 10 free meals + a free Nutribullet Ultra Plus at https://www.hellofresh.com/newrockstars10fm\n\nWhat happened BEHIND THE SCENES at CinemaCon while the Avengers Doomsday trailer played? Erik Voss spills all the secrets about the biggest news from CinemaCon 2026!\n\nWe're back at the UCB Theater in Los Angeles on April 17th, come in person or stream anywhere. Tickets: https://ucbcomedy.com/show/new-rockstars-live-its-morbin-time\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1aAPj0TA\n\nCHAPTERS\n00:00 - Intro\n03:30 - The Doomsday of it all\n15:47 - Disney Panel\n23:12 - Par",
+      "channel_title": "New Rockstars",
+      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
+      "published_at": "2026-04-19T15:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z2pQUErWSJ0/hqdefault.jpg",
+      "duration": "PT1H5M31S",
+      "duration_seconds": 3931,
+      "view_count": 49366,
+      "like_count": 2067,
+      "comment_count": 125,
+      "category_id": "24",
+      "tags": [
+        "new rockstars",
+        "new rockstars youtube",
+        "youtube new rockstars",
+        "cinemacon",
+        "cinemacon 2026 recap",
+        "cinemacon trailer",
+        "doomsday",
+        "avengers doomdsay",
+        "doctor doom",
+        "robert downey jr"
+      ],
+      "url": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
+    },
+    {
+      "video_id": "EUvzCzOEpVc",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-19T20:05:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EUvzCzOEpVc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
+    },
+    {
       "video_id": "Xjzlkc83-TY",
       "title": "RBC Heritage, Third Round",
       "description": "From Harbour Town Golf Links in Hilton Head Island, S.C.",
@@ -245,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 10192731,
-      "like_count": 491894,
-      "comment_count": 39507,
+      "view_count": 10907817,
+      "like_count": 516048,
+      "comment_count": 41031,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -273,29 +363,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
       "duration": "PT18M2S",
       "duration_seconds": 1082,
-      "view_count": 1408268,
-      "like_count": 80605,
-      "comment_count": 9620,
+      "view_count": 1675620,
+      "like_count": 90478,
+      "comment_count": 10494,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
-    },
-    {
-      "video_id": "DpDmI-p0RVg",
-      "title": "FOX News Saturday Night With Jimmy Failla",
-      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T09:18:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DpDmI-p0RVg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
     },
     {
       "video_id": "MX3eRt8mizQ",
@@ -313,100 +386,97 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
-    },
-    {
-      "video_id": "q9x3YG5BgJk",
-      "title": "Atlanta Braves at Philadelphia Phillies",
-      "description": "From Citizens Bank Park in Philadelphia.",
-      "channel_title": "FOX 29",
-      "channel_id": "UCWxDOvWw_lGzRmrmODLsdQg",
-      "published_at": "2026-04-19T09:54:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q9x3YG5BgJk/hqdefault.jpg",
-      "duration": "PT3H5M36S",
-      "duration_seconds": 11136,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 8,
-        "total_views": 11677257,
-        "average_views_per_video": 1459657
-      },
       "content_trends": {
-        "categories_identified": [
-          "Entertainment",
-          "Sports",
-          "Gaming",
-          "News",
-          "Reviews"
-        ],
-        "most_popular_category": "Entertainment",
-        "key_observations": [
-          {
-            "title": "Tarzan: Live Action - (2026) | Chris Hemsworth, Amanda Seyfried | Concept Trailer",
-            "category": "Entertainment",
-            "insight": "The high viewership suggests strong interest in concept trailers and upcoming movies, particularly those featuring popular actors."
-          },
-          {
-            "title": "Brawl Talk: 3 NEW Brawlers!",
-            "category": "Gaming",
-            "insight": "Gaming content, especially updates and new releases, continues to capture significant audience attention."
-          },
-          {
-            "title": "FOX News Saturday Night With Jimmy Failla",
-            "category": "News",
-            "insight": "Current events and political commentary remain staples in trending content, indicating a steady demand for news analysis."
-          }
-        ]
+        "entertainment_and_media": {
+          "total_videos": 5,
+          "total_views_estimate": 7,
+          "description": "Concept trailers and sneak peeks related to popular movies and TV shows are trending, indicating a strong interest in entertainment previews.",
+          "data_points": [
+            {
+              "title": "Tarzan: Live Action",
+              "views_estimate": 2,
+              "insight": "Concept trailers for anticipated movies using popular actors draw significant attention. Consider creating high-quality fan-made trailers or behind-the-scenes content."
+            },
+            {
+              "title": "Avengers Doomsday Trailer Debrief & CinemaCon Recap",
+              "views_estimate": 1.5,
+              "insight": "Recaps of major movie events and trailer debriefs cater to niche audiences interested in detailed analysis. Explore opportunities for detailed breakdowns of significant media events."
+            },
+            {
+              "title": "Might Be the Worst Review I've Ever Seen",
+              "views_estimate": 1,
+              "insight": "Critical reviews, especially those with a unique or controversial angle, attract viewers. Content creators can leverage this by producing reviews with unique perspectives."
+            }
+          ]
+        },
+        "music": {
+          "total_videos": 1,
+          "total_views_estimate": 1.5,
+          "description": "Music videos and performances, especially collaborations, continue to capture viewer interest.",
+          "data_points": [
+            {
+              "title": "Axel Merryl 'je t'attendrai' Feat Santrinos Raphael",
+              "views_estimate": 1.5,
+              "insight": "Collaborative music clips are a strong draw, suggesting potential in cross-artist collaborations and promoting new music releases through visually engaging clips."
+            }
+          ]
+        },
+        "sports": {
+          "total_videos": 3,
+          "total_views_estimate": 2.5,
+          "description": "Sporting events and highlights maintain their popularity, with a focus on major games and tournaments.",
+          "data_points": [
+            {
+              "title": "Philadelphia Flyers at Pittsburgh Penguins",
+              "views_estimate": 1,
+              "insight": "Live sports events and recap videos drive engagement. Opportunities exist in creating more in-depth analyses or fan reaction content."
+            },
+            {
+              "title": "RBC Heritage, Third Round",
+              "views_estimate": 0.5,
+              "insight": "Golf and other niche sports have dedicated audiences. Consider producing highlight reels or interviews with players to capture this market."
+            },
+            {
+              "title": "Brawl Talk: 3 NEW Brawlers!",
+              "views_estimate": 1,
+              "insight": "Game-related content, particularly updates and new features, attract gaming community interest. Explore in-game event coverage or tutorial content."
+            }
+          ]
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "Ultimate Studios",
-            "video": "Tarzan: Live Action - (2026) | Chris Hemsworth, Amanda Seyfried | Concept Trailer",
-            "insight": "Ultimate Studios likely specializes in entertainment content, particularly concept trailers, which are popular among audiences."
-          },
-          {
-            "name": "ESPN",
-            "video": "Philadelphia Flyers at Pittsburgh Penguins",
-            "insight": "ESPN's inclusion in trending videos highlights the continued interest in live sports events."
-          },
-          {
-            "name": "Brawl Stars",
-            "video": "Brawl Talk: 3 NEW Brawlers!",
-            "insight": "Brawl Stars' presence on the trending list indicates a strong community following for updates and new releases in gaming."
-          }
-        ],
-        "creator_opportunities": [
-          "Enhancing cross-collaborations between entertainment and gaming sectors to leverage audience overlaps.",
-          "Developing content around upcoming sports events and highlights to engage sports enthusiasts."
-        ]
+        "single_video_channels": {
+          "total_channels": 5,
+          "description": "Most channels in this dataset are single-video contributors to the trending list, indicating that viral content can come from less frequent uploads.",
+          "insight": "Channels with fewer uploads can still trend by focusing on high-quality or highly relevant content. Consider strategic timing and leveraging current events or trends."
+        }
       },
       "market_opportunities": {
-        "trend_exploitation": [
-          "Creating engaging concept trailers or speculative content for high-profile future releases.",
-          "Leveraging popular sports events to produce analysis and post-game discussions."
-        ],
-        "audience_engagement": [
-          "Utilizing live streaming and interactive elements to boost engagement in news and sports content.",
-          "Focusing on community-building strategies for gaming channels to enhance viewer loyalty."
-        ]
+        "entertainment": {
+          "opportunity": "Create engaging content around upcoming movie releases, including fan theories or behind-the-scenes."
+        },
+        "music": {
+          "opportunity": "Leverage artist collaborations for cross-promotion and explore unique music video concepts."
+        },
+        "sports": {
+          "opportunity": "Develop content that provides deeper insights into games, such as player profiles or strategic analyses."
+        },
+        "gaming": {
+          "opportunity": "Expand on game update content with community-driven events or expert commentary."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1459657
+        "avg_views_per_video": 1429108
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
