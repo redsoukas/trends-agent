@@ -1,50 +1,33 @@
 {
-  "timestamp": "2026-04-19T09:23:12.720797",
+  "timestamp": "2026-04-19T12:21:59.439197",
   "date": "2026-04-19",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 7,
+    "music_videos_filtered": 8,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 7,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
     {
-      "video_id": "Xt4X4FvXk2A",
-      "title": "Street Fighter | Official Trailer (2026 Movie)",
-      "description": "FIGHT! Watch the Official Trailer for #StreetFighterMovie, hitting theaters everywhere October 16.  \n\nSet in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don’t, it’s GAME OVER!\n\nHelmed by director Kitao Sakurai, Street Fighter is set to bring the battle from the arcade to the big screen with Hadoukens, roundhouses, and all your favorite characters.\n\nConnect with #StreetFighterMovie online:\nWebsite: https://www.streetfightermovie.com/ \nInstagram: https://www.instagram.com/streetfightermovie/\nX: https://x.com/Street_fighter\nFacebook: https://www.facebook.com/StreetfighterMovie/\nTikTok: https://www.tiktok.com/@streetfightermovie\nThreads: https://w",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-04-16T13:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xt4X4FvXk2A/hqdefault.jpg",
-      "duration": "PT2M53S",
-      "duration_seconds": 173,
-      "view_count": 13581544,
-      "like_count": 254421,
-      "comment_count": 21428,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
-    },
-    {
-      "video_id": "B9mkS1FtTmc",
-      "title": "Minnesota Wild at Dallas Stars",
-      "description": "Game 1 of the First Round between the Wild and the Stars takes place at the American Airlines Center. The regular season series was tied at 2-2. Kirill Kaprizov leads the Wild with 89 points, while Jason Robertson leads the Stars with 96 points.",
+      "video_id": "mNRncbEgFUU",
+      "title": "Philadelphia Flyers at Pittsburgh Penguins",
+      "description": "The Philadelphia Flyers and the Pittsburgh Penguins meet for the Eastern Conference Game 1 of the First Round at PPG Paints Arena. The teams split their four-game regular-season series 2-2. Sidney Crosby leads the Penguins with 74 points.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-19T07:28:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B9mkS1FtTmc/hqdefault.jpg",
-      "duration": "PT2H40M45S",
-      "duration_seconds": 9645,
+      "published_at": "2026-04-19T09:52:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mNRncbEgFUU/hqdefault.jpg",
+      "duration": "PT2H32M15S",
+      "duration_seconds": 9135,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=B9mkS1FtTmc"
+      "url": "https://www.youtube.com/watch?v=mNRncbEgFUU"
     },
     {
       "video_id": "Xjzlkc83-TY",
@@ -73,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 7193092,
-      "like_count": 370863,
-      "comment_count": 31418,
+      "view_count": 8351016,
+      "like_count": 417448,
+      "comment_count": 34524,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -92,13 +75,13 @@
       "url": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
     },
     {
-      "video_id": "vwzZxNsobxw",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "DpDmI-p0RVg",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T07:21:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vwzZxNsobxw/hqdefault.jpg",
+      "published_at": "2026-04-19T09:18:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DpDmI-p0RVg/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -106,7 +89,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vwzZxNsobxw"
+      "url": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
+    },
+    {
+      "video_id": "MX3eRt8mizQ",
+      "title": "The Martian",
+      "description": "Left behind by his crew, a stranded astronaut must find a way to survive on Mars, while NASA and a team of international scientists work tirelessly to bring him home.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-19T10:32:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MX3eRt8mizQ/hqdefault.jpg",
+      "duration": "PT3H16M6S",
+      "duration_seconds": 11766,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
+    },
+    {
+      "video_id": "q9x3YG5BgJk",
+      "title": "Atlanta Braves at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "FOX 29",
+      "channel_id": "UCWxDOvWw_lGzRmrmODLsdQg",
+      "published_at": "2026-04-19T09:54:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q9x3YG5BgJk/hqdefault.jpg",
+      "duration": "PT3H5M36S",
+      "duration_seconds": 11136,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
     },
     {
       "video_id": "G-Aq6XT0Rdc",
@@ -118,83 +135,32 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
       "duration": "PT18M2S",
       "duration_seconds": 1082,
-      "view_count": 723423,
-      "like_count": 46559,
-      "comment_count": 5840,
+      "view_count": 935210,
+      "like_count": 56098,
+      "comment_count": 6975,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
-    },
-    {
-      "video_id": "sbaWh9rYMkg",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-19T07:08:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbaWh9rYMkg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
-    },
-    {
-      "video_id": "xfrmntfK3sU",
-      "title": "Chelsea vs. Manchester United",
-      "description": "Chelsea returns to Stamford Bridge to face Manchester United as Matchweek 33 begins. Blues captain Enzo Fernández is expected back after a club suspension. United has improved under Michael Carrick but lost 2-1 to Leeds United on April 13.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-19T05:15:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xfrmntfK3sU/hqdefault.jpg",
-      "duration": "PT1H58M45S",
-      "duration_seconds": 7125,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xfrmntfK3sU"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "Xt4X4FvXk2A",
-      "title": "Street Fighter | Official Trailer (2026 Movie)",
-      "description": "FIGHT! Watch the Official Trailer for #StreetFighterMovie, hitting theaters everywhere October 16.  \n\nSet in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don’t, it’s GAME OVER!\n\nHelmed by director Kitao Sakurai, Street Fighter is set to bring the battle from the arcade to the big screen with Hadoukens, roundhouses, and all your favorite characters.\n\nConnect with #StreetFighterMovie online:\nWebsite: https://www.streetfightermovie.com/ \nInstagram: https://www.instagram.com/streetfightermovie/\nX: https://x.com/Street_fighter\nFacebook: https://www.facebook.com/StreetfighterMovie/\nTikTok: https://www.tiktok.com/@streetfightermovie\nThreads: https://w",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-04-16T13:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xt4X4FvXk2A/hqdefault.jpg",
-      "duration": "PT2M53S",
-      "duration_seconds": 173,
-      "view_count": 13581544,
-      "like_count": 254421,
-      "comment_count": 21428,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
-    },
-    {
-      "video_id": "B9mkS1FtTmc",
-      "title": "Minnesota Wild at Dallas Stars",
-      "description": "Game 1 of the First Round between the Wild and the Stars takes place at the American Airlines Center. The regular season series was tied at 2-2. Kirill Kaprizov leads the Wild with 89 points, while Jason Robertson leads the Stars with 96 points.",
+      "video_id": "mNRncbEgFUU",
+      "title": "Philadelphia Flyers at Pittsburgh Penguins",
+      "description": "The Philadelphia Flyers and the Pittsburgh Penguins meet for the Eastern Conference Game 1 of the First Round at PPG Paints Arena. The teams split their four-game regular-season series 2-2. Sidney Crosby leads the Penguins with 74 points.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-19T07:28:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B9mkS1FtTmc/hqdefault.jpg",
-      "duration": "PT2H40M45S",
-      "duration_seconds": 9645,
+      "published_at": "2026-04-19T09:52:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mNRncbEgFUU/hqdefault.jpg",
+      "duration": "PT2H32M15S",
+      "duration_seconds": 9135,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=B9mkS1FtTmc"
+      "url": "https://www.youtube.com/watch?v=mNRncbEgFUU"
     },
     {
       "video_id": "Xjzlkc83-TY",
@@ -223,9 +189,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7B0-WJ5QYsc/hqdefault.jpg",
       "duration": "PT11M6S",
       "duration_seconds": 666,
-      "view_count": 7193092,
-      "like_count": 370863,
-      "comment_count": 31418,
+      "view_count": 8351016,
+      "like_count": 417448,
+      "comment_count": 34524,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -242,13 +208,13 @@
       "url": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
     },
     {
-      "video_id": "vwzZxNsobxw",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "DpDmI-p0RVg",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-19T07:21:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vwzZxNsobxw/hqdefault.jpg",
+      "published_at": "2026-04-19T09:18:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DpDmI-p0RVg/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -256,7 +222,41 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vwzZxNsobxw"
+      "url": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
+    },
+    {
+      "video_id": "MX3eRt8mizQ",
+      "title": "The Martian",
+      "description": "Left behind by his crew, a stranded astronaut must find a way to survive on Mars, while NASA and a team of international scientists work tirelessly to bring him home.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-04-19T10:32:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MX3eRt8mizQ/hqdefault.jpg",
+      "duration": "PT3H16M6S",
+      "duration_seconds": 11766,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
+    },
+    {
+      "video_id": "q9x3YG5BgJk",
+      "title": "Atlanta Braves at Philadelphia Phillies",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "channel_title": "FOX 29",
+      "channel_id": "UCWxDOvWw_lGzRmrmODLsdQg",
+      "published_at": "2026-04-19T09:54:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q9x3YG5BgJk/hqdefault.jpg",
+      "duration": "PT3H5M36S",
+      "duration_seconds": 11136,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
     },
     {
       "video_id": "G-Aq6XT0Rdc",
@@ -268,126 +268,73 @@
       "thumbnail_url": "https://i.ytimg.com/vi/G-Aq6XT0Rdc/hqdefault.jpg",
       "duration": "PT18M2S",
       "duration_seconds": 1082,
-      "view_count": 723423,
-      "like_count": 46559,
-      "comment_count": 5840,
+      "view_count": 935210,
+      "like_count": 56098,
+      "comment_count": 6975,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
-    },
-    {
-      "video_id": "sbaWh9rYMkg",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-19T07:08:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbaWh9rYMkg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
-    },
-    {
-      "video_id": "xfrmntfK3sU",
-      "title": "Chelsea vs. Manchester United",
-      "description": "Chelsea returns to Stamford Bridge to face Manchester United as Matchweek 33 begins. Blues captain Enzo Fernández is expected back after a club suspension. United has improved under Michael Carrick but lost 2-1 to Leeds United on April 13.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-19T05:15:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xfrmntfK3sU/hqdefault.jpg",
-      "duration": "PT1H58M45S",
-      "duration_seconds": 7125,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xfrmntfK3sU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 7,
+        "total_views": 9286226,
+        "average_views_per_video": 1326603.71
+      },
       "content_trends": {
-        "entertainment_and_sports": {
-          "description": "The trending videos indicate a strong interest in entertainment and sports content.",
-          "evidence": [
-            "Street Fighter | Official Trailer (2026 Movie)",
-            "Minnesota Wild at Dallas Stars",
-            "RBC Heritage, Third Round",
-            "Chelsea vs. Manchester United"
-          ],
-          "actionable_insights": {
-            "opportunity": "Brands and creators should focus on producing high-quality trailers, sports highlights, and analysis content.",
-            "strategy": "Collaborate with sports influencers and official sports channels to reach a broader audience."
+        "sports_related": 3,
+        "entertainment": 2,
+        "gaming": 1,
+        "news": 1,
+        "insights": [
+          {
+            "trend": "Sports Content",
+            "description": "Sports-related videos are prominent, with 3 out of 7 videos. This indicates a strong audience interest in live sports events and related content."
+          },
+          {
+            "trend": "Diverse Content",
+            "description": "The trending videos cover a wide range of categories, including sports, gaming, news, and entertainment, suggesting a diverse viewer interest."
           }
-        },
-        "gaming": {
-          "description": "Gaming content continues to trend with significant engagement.",
-          "evidence": [
-            "Brawl Talk: 3 NEW Brawlers!"
-          ],
-          "actionable_insights": {
-            "opportunity": "Develop interactive content or live streams around new game releases and updates.",
-            "strategy": "Engage with the gaming community through collaborative events and exclusive content drops."
-          }
-        },
-        "news_and_commentary": {
-          "description": "Current events and commentary maintain a presence in trending content.",
-          "evidence": [
-            "The Big Weekend Show",
-            "Real Time With Bill Maher"
-          ],
-          "actionable_insights": {
-            "opportunity": "Create timely news analysis and opinion pieces that react to current events.",
-            "strategy": "Leverage social media for real-time engagement and audience interaction during newsworthy moments."
-          }
-        }
+        ]
       },
       "creator_patterns": {
-        "multi-genre_channels": {
-          "description": "Top trending channels cover a diverse range of content categories.",
-          "evidence": [
-            "Paramount Pictures - Entertainment",
-            "ESPN - Sports",
-            "Golf Channel - Sports",
-            "Brawl Stars - Gaming",
-            "FOX News - News"
-          ],
-          "actionable_insights": {
-            "opportunity": "Channels can capitalize on this by diversifying their content offerings.",
-            "strategy": "Develop cross-category content series or collaborations to attract different audience segments."
+        "unique_channels": 5,
+        "content_diversity_per_channel": 1,
+        "insights": [
+          {
+            "pattern": "Single Video Per Channel",
+            "description": "Each channel appears with a single video in the trending list, showing no particular channel dominance. This could imply that multiple channels are succeeding in capturing audience interest across different content types."
+          },
+          {
+            "pattern": "Cross-category Potential",
+            "description": "Channels like ESPN and Golf Channel might explore broader sports content to capitalize on the sports trend, while FOX News could expand into entertainment to leverage diverse audience interests."
           }
-        }
+        ]
       },
       "market_opportunities": {
-        "cross-promotion": {
-          "description": "There is a significant opportunity for cross-promotion between entertainment and sports.",
-          "actionable_insights": {
-            "opportunity": "Leverage partnerships between movie studios and sports leagues to create unique promotional content.",
-            "strategy": "Integrate sports figures in entertainment content and vice versa to engage fans from both niches."
-          }
+        "sports_content": {
+          "opportunity": "Enhanced Engagement",
+          "strategy": "Invest in live streaming and highlights of major sports events to capture real-time audience engagement."
         },
-        "emerging_formats": {
-          "description": "Trends indicate potential in exploring new content formats.",
-          "actionable_insights": {
-            "opportunity": "Experiment with formats like interactive livestreams, AR/VR experiences, and serialized content.",
-            "strategy": "Conduct audience surveys and A/B testing to identify the most engaging formats."
-          }
+        "gaming_content": {
+          "opportunity": "Expanding Audience",
+          "strategy": "Develop content that caters to the gaming community, such as updates, analysis, and interactive content, leveraging the popularity of gaming videos like Brawl Talk."
+        },
+        "news_and_entertainment": {
+          "opportunity": "Diversified Content",
+          "strategy": "Combine news with entertainment segments to create engaging, informative content that appeals to wider demographics, similar to the FOX News approach."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 7,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2687257
+        "avg_views_per_video": 1326603
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
