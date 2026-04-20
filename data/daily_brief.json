@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T06:59:01.418882",
+  "timestamp": "2026-04-20T09:45:06.167977",
   "date": "2026-04-20",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
       "duration": "PT3M9S",
       "duration_seconds": 189,
-      "view_count": 424881,
-      "like_count": 60917,
-      "comment_count": 5976,
+      "view_count": 466784,
+      "like_count": 65642,
+      "comment_count": 6192,
       "category_id": "23",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v_Copbn4ASI/hqdefault.jpg",
       "duration": "PT3M49S",
       "duration_seconds": 229,
-      "view_count": 824633,
-      "like_count": 85807,
-      "comment_count": 7326,
+      "view_count": 914402,
+      "like_count": 90894,
+      "comment_count": 7734,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -84,21 +84,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-NekKfJN614/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 562941,
-      "like_count": 47698,
-      "comment_count": 2530,
+      "view_count": 633174,
+      "like_count": 51020,
+      "comment_count": 2703,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-NekKfJN614"
     },
     {
-      "video_id": "ZuhC1HuzQTI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "FVzEL0xeqDY",
+      "title": "Sunday Night in America With Trey Gowdy",
+      "description": "Insightful analysis and a new outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-20T04:26:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZuhC1HuzQTI/hqdefault.jpg",
+      "published_at": "2026-04-20T07:52:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVzEL0xeqDY/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -106,7 +106,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ZuhC1HuzQTI"
+      "url": "https://www.youtube.com/watch?v=FVzEL0xeqDY"
     },
     {
       "video_id": "2EfUxiGQxZo",
@@ -118,29 +118,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2EfUxiGQxZo/hqdefault.jpg",
       "duration": "PT12M53S",
       "duration_seconds": 773,
-      "view_count": 161967,
-      "like_count": 4508,
-      "comment_count": 351,
+      "view_count": 187899,
+      "like_count": 4873,
+      "comment_count": 371,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
     },
     {
-      "video_id": "noZSK7HnViE",
-      "title": "WWE WrestleMania 42: Sunday",
-      "description": "WrestleMania 42 continues at Allegiant Stadium. A title fight between World Heavyweight Champion CM Punk and Roman Reigns concludes WWE's Las Vegas encore. Oba Femi clashes with Brock Lesnar.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-20T05:24:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/noZSK7HnViE/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "fMLBu_lVh6s",
+      "title": "Los Angeles Kings at Colorado Avalanche",
+      "description": "Game 1 of the First Round in the playoff series between the Los Angeles Kings and the Colorado Avalanche begins at Ball Arena. Colorado dominated the regular-season series 3-0 and enters the playoffs with home-ice advantage as the NHL's top seed.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-20T08:38:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fMLBu_lVh6s/hqdefault.jpg",
+      "duration": "PT2H51M6S",
+      "duration_seconds": 10266,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=noZSK7HnViE"
+      "url": "https://www.youtube.com/watch?v=fMLBu_lVh6s"
     },
     {
       "video_id": "jL9g8D8_eyM",
@@ -152,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
       "duration": "PT7M21S",
       "duration_seconds": 441,
-      "view_count": 70058,
-      "like_count": 7027,
-      "comment_count": 723,
+      "view_count": 73629,
+      "like_count": 7217,
+      "comment_count": 741,
       "category_id": "20",
       "tags": [
         "dragon ball xenoverse 3",
@@ -168,21 +168,21 @@
       "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
     },
     {
-      "video_id": "ELdYqyduITM",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-20T05:15:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ELdYqyduITM/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "video_id": "XsaAa18GC-8",
+      "title": "Building Champions",
+      "description": "Ben and Erin return to their alma mater, Jones College, to transform the outdated women's basketball locker room; blending nostalgic collegiate style with heart, they look to create a warm, welcoming second home for the team.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-20T07:44:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XsaAa18GC-8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ELdYqyduITM"
+      "url": "https://www.youtube.com/watch?v=XsaAa18GC-8"
     },
     {
       "video_id": "z2pQUErWSJ0",
@@ -194,9 +194,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/z2pQUErWSJ0/hqdefault.jpg",
       "duration": "PT1H5M31S",
       "duration_seconds": 3931,
-      "view_count": 101570,
-      "like_count": 2980,
-      "comment_count": 169,
+      "view_count": 109092,
+      "like_count": 3094,
+      "comment_count": 176,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -225,9 +225,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
       "duration": "PT3M9S",
       "duration_seconds": 189,
-      "view_count": 424881,
-      "like_count": 60917,
-      "comment_count": 5976,
+      "view_count": 466784,
+      "like_count": 65642,
+      "comment_count": 6192,
       "category_id": "23",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
@@ -242,9 +242,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v_Copbn4ASI/hqdefault.jpg",
       "duration": "PT3M49S",
       "duration_seconds": 229,
-      "view_count": 824633,
-      "like_count": 85807,
-      "comment_count": 7326,
+      "view_count": 914402,
+      "like_count": 90894,
+      "comment_count": 7734,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -287,21 +287,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-NekKfJN614/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 562941,
-      "like_count": 47698,
-      "comment_count": 2530,
+      "view_count": 633174,
+      "like_count": 51020,
+      "comment_count": 2703,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-NekKfJN614"
     },
     {
-      "video_id": "ZuhC1HuzQTI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "FVzEL0xeqDY",
+      "title": "Sunday Night in America With Trey Gowdy",
+      "description": "Insightful analysis and a new outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-20T04:26:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZuhC1HuzQTI/hqdefault.jpg",
+      "published_at": "2026-04-20T07:52:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVzEL0xeqDY/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -309,7 +309,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ZuhC1HuzQTI"
+      "url": "https://www.youtube.com/watch?v=FVzEL0xeqDY"
     },
     {
       "video_id": "2EfUxiGQxZo",
@@ -321,29 +321,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2EfUxiGQxZo/hqdefault.jpg",
       "duration": "PT12M53S",
       "duration_seconds": 773,
-      "view_count": 161967,
-      "like_count": 4508,
-      "comment_count": 351,
+      "view_count": 187899,
+      "like_count": 4873,
+      "comment_count": 371,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
     },
     {
-      "video_id": "noZSK7HnViE",
-      "title": "WWE WrestleMania 42: Sunday",
-      "description": "WrestleMania 42 continues at Allegiant Stadium. A title fight between World Heavyweight Champion CM Punk and Roman Reigns concludes WWE's Las Vegas encore. Oba Femi clashes with Brock Lesnar.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-20T05:24:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/noZSK7HnViE/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "fMLBu_lVh6s",
+      "title": "Los Angeles Kings at Colorado Avalanche",
+      "description": "Game 1 of the First Round in the playoff series between the Los Angeles Kings and the Colorado Avalanche begins at Ball Arena. Colorado dominated the regular-season series 3-0 and enters the playoffs with home-ice advantage as the NHL's top seed.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-20T08:38:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fMLBu_lVh6s/hqdefault.jpg",
+      "duration": "PT2H51M6S",
+      "duration_seconds": 10266,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=noZSK7HnViE"
+      "url": "https://www.youtube.com/watch?v=fMLBu_lVh6s"
     },
     {
       "video_id": "jL9g8D8_eyM",
@@ -355,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
       "duration": "PT7M21S",
       "duration_seconds": 441,
-      "view_count": 70058,
-      "like_count": 7027,
-      "comment_count": 723,
+      "view_count": 73629,
+      "like_count": 7217,
+      "comment_count": 741,
       "category_id": "20",
       "tags": [
         "dragon ball xenoverse 3",
@@ -371,21 +371,21 @@
       "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
     },
     {
-      "video_id": "ELdYqyduITM",
-      "title": "CNN Newsroom",
-      "description": "Updates of news from around the world.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-04-20T05:15:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ELdYqyduITM/hqdefault.jpg",
-      "duration": "PT1H1M4S",
-      "duration_seconds": 3664,
+      "video_id": "XsaAa18GC-8",
+      "title": "Building Champions",
+      "description": "Ben and Erin return to their alma mater, Jones College, to transform the outdated women's basketball locker room; blending nostalgic collegiate style with heart, they look to create a warm, welcoming second home for the team.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-04-20T07:44:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XsaAa18GC-8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ELdYqyduITM"
+      "url": "https://www.youtube.com/watch?v=XsaAa18GC-8"
     },
     {
       "video_id": "z2pQUErWSJ0",
@@ -397,9 +397,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/z2pQUErWSJ0/hqdefault.jpg",
       "duration": "PT1H5M31S",
       "duration_seconds": 3931,
-      "view_count": 101570,
-      "like_count": 2980,
-      "comment_count": 169,
+      "view_count": 109092,
+      "like_count": 3094,
+      "comment_count": 176,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -419,83 +419,61 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "overview": {
-          "total_videos": 10,
-          "total_views": 2146050,
-          "average_views_per_video": 214605
-        },
-        "content_trends": {
-          "popular_themes": [
-            "Dragon Ball Franchise",
-            "Superhero Movies (Avengers)",
-            "Major Events (WWE, Golf)"
-          ],
-          "observations": [
-            {
-              "theme": "Dragon Ball Franchise",
-              "video_titles": [
-                "DRAGON BALL XENOVERSE 3 - Announcement Trailer",
-                "Anime “Dragon Ball Super: Beerus” | SUPER GEKITOU Trailer",
-                "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!"
-              ],
-              "insight": "Dragon Ball content is highly engaging, indicating a strong fan base and potential for cross-promotional opportunities."
-            },
-            {
-              "theme": "Superhero Movies",
-              "video_titles": [
-                "AVENGERS DOOMSDAY TRAILER: Doctor Doom & X-Men Breakdown",
-                "Avengers Doomsday Trailer Debrief & CinemaCon Recap | Sneak Peek"
-              ],
-              "insight": "Superhero movie content consistently attracts viewers, suggesting high interest and anticipation around upcoming releases."
-            },
-            {
-              "theme": "Major Events",
-              "video_titles": [
-                "RBC Heritage, Final Round",
-                "WWE WrestleMania 42: Sunday"
-              ],
-              "insight": "Live event content such as sports and entertainment draws significant attention, highlighting opportunities for event-based content creation."
-            }
-          ]
-        },
-        "creator_patterns": {
-          "diversity_of_channels": 5,
-          "notable_creators": [
-            {
-              "channel": "Axel Merryl",
-              "content_type": "Music",
-              "insight": "Music content featuring collaborations can effectively tap into diverse audiences."
-            },
-            {
-              "channel": "Bandai Namco Entertainment America",
-              "content_type": "Gaming",
-              "insight": "Official game announcements drive engagement, highlighting the importance of leveraging game release cycles."
-            }
-          ]
-        },
-        "market_opportunities": {
-          "cross-promotional_opportunities": [
-            {
-              "opportunity": "Collaborate with popular anime and gaming franchises",
-              "reasoning": "High engagement with Dragon Ball content indicates a strong market for anime and gaming collaborations."
-            },
-            {
-              "opportunity": "Create content around major event coverage",
-              "reasoning": "Significant interest in events like WWE and golf suggests opportunities for behind-the-scenes content and event recaps."
-            }
-          ],
-          "content_creation_strategies": [
-            {
-              "strategy": "Leverage nostalgia and anticipation in media content",
-              "reasoning": "Superhero and anime content benefit from nostalgic appeal and excitement for new releases."
-            },
-            {
-              "strategy": "Develop series-based content to maintain engagement",
-              "reasoning": "Series and recurring content can keep audiences returning, as seen with themes like Dragon Ball and Avengers."
-            }
-          ]
-        }
+      "content_trends": {
+        "dominant_themes": [
+          "Entertainment: A significant focus on entertainment content, particularly involving popular franchises such as Dragon Ball and Avengers.",
+          "Sports: Golf and ice hockey content indicating a substantial viewership for sports-related videos.",
+          "News/Current Events: Political and current events programming like FOX News' 'Sunday Night in America'."
+        ],
+        "popular_genres": [
+          "Anime and Gaming: The presence of multiple Dragon Ball related videos suggests a strong interest in anime and gaming trailers.",
+          "Superhero Films: Avengers-related content capturing audience interest, likely due to high anticipation for upcoming releases."
+        ],
+        "video_formats": [
+          "Trailers and Reactions: High engagement with announcement trailers and reaction videos, especially for gaming and movie content."
+        ]
+      },
+      "creator_patterns": {
+        "top_channels": [
+          {
+            "channel_name": "Axel Merryl",
+            "content_focus": "Music",
+            "engagement_driver": "Collaborations with other artists, leveraging music video format."
+          },
+          {
+            "channel_name": "Bandai Namco Entertainment America",
+            "content_focus": "Gaming",
+            "engagement_driver": "Exclusive game announcements and trailers."
+          },
+          {
+            "channel_name": "東映アニメーション公式YouTubeチャンネル",
+            "content_focus": "Anime",
+            "engagement_driver": "Official trailers for popular anime series."
+          },
+          {
+            "channel_name": "FOX News",
+            "content_focus": "News and Politics",
+            "engagement_driver": "Coverage of current events and political commentary."
+          }
+        ],
+        "collaboration_patterns": [
+          {
+            "trend": "Feature Collaborations",
+            "example": "Music video featuring a well-known artist, increasing cross-audience reach."
+          }
+        ]
+      },
+      "market_opportunities": {
+        "emerging_markets": [
+          "Anime and Gaming: Continuously growing interest in anime and gaming content, presenting opportunities for new creators to enter the market."
+        ],
+        "content_gap": [
+          "Sports Analysis: Potential for more in-depth analysis and behind-the-scenes content for sports events."
+        ],
+        "engagement strategies": [
+          "Leverage Cross-Platform Promotion: Utilize social media and other platforms to promote upcoming trailers and exclusive content.",
+          "Interactive Content: Engage audiences with reaction videos and live discussions, particularly for high-interest shows and movies."
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -503,7 +481,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 214605
+        "avg_views_per_video": 238498
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
