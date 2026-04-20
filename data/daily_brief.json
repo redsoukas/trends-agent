@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-20T15:37:45.058804",
+  "timestamp": "2026-04-20T18:30:32.494386",
   "date": "2026-04-20",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v_Copbn4ASI/hqdefault.jpg",
       "duration": "PT3M49S",
       "duration_seconds": 229,
-      "view_count": 1084608,
-      "like_count": 101694,
-      "comment_count": 8648,
+      "view_count": 1169833,
+      "like_count": 105761,
+      "comment_count": 8987,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
       "duration": "PT3M9S",
       "duration_seconds": 189,
-      "view_count": 595726,
-      "like_count": 77890,
-      "comment_count": 7010,
+      "view_count": 678430,
+      "like_count": 84578,
+      "comment_count": 7410,
       "category_id": "23",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-NekKfJN614/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 755528,
-      "like_count": 58668,
-      "comment_count": 3166,
+      "view_count": 844223,
+      "like_count": 61693,
+      "comment_count": 3358,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-NekKfJN614"
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2EfUxiGQxZo/hqdefault.jpg",
       "duration": "PT12M53S",
       "duration_seconds": 773,
-      "view_count": 227591,
-      "like_count": 5605,
-      "comment_count": 410,
+      "view_count": 245804,
+      "like_count": 5861,
+      "comment_count": 437,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
@@ -143,29 +143,21 @@
       "url": "https://www.youtube.com/watch?v=tgHb7FnUpkg"
     },
     {
-      "video_id": "jL9g8D8_eyM",
-      "title": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
-      "description": "DRAGON BALL XENOVERSE 3 IS OFFICIALLY REAL. ITS HAPPENING! Coming in 2027!",
-      "channel_title": "Rhymestyle",
-      "channel_id": "UCMtlvoqzq03PPzcULdVQmZA",
-      "published_at": "2026-04-19T20:51:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
-      "duration": "PT7M21S",
-      "duration_seconds": 441,
-      "view_count": 78762,
-      "like_count": 7530,
-      "comment_count": 766,
+      "video_id": "BnjnNZPlpEk",
+      "title": "The Caribbean Tour 🏝️ (Official Trailer)",
+      "description": "",
+      "channel_title": "IShowSpeed",
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "published_at": "2026-04-20T14:16:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BnjnNZPlpEk/hqdefault.jpg",
+      "duration": "PT53S",
+      "duration_seconds": 53,
+      "view_count": 199356,
+      "like_count": 26463,
+      "comment_count": 4332,
       "category_id": "20",
-      "tags": [
-        "dragon ball xenoverse 3",
-        "dragon ball xenoverse 3 trailer reaction",
-        "dragon ball xenoverse 3 trailer",
-        "dragon ball xenoverse 3 rhymestyle",
-        "rhymestyle",
-        "xenoverse 3 trailer",
-        "xenoverse 3 trailer reaction"
-      ],
-      "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
     },
     {
       "video_id": "o9m_pPq_Ps0",
@@ -185,21 +177,29 @@
       "url": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
     },
     {
-      "video_id": "gu70jm_XjQ4",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-20T09:27:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gu70jm_XjQ4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=gu70jm_XjQ4"
+      "video_id": "jL9g8D8_eyM",
+      "title": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
+      "description": "DRAGON BALL XENOVERSE 3 IS OFFICIALLY REAL. ITS HAPPENING! Coming in 2027!",
+      "channel_title": "Rhymestyle",
+      "channel_id": "UCMtlvoqzq03PPzcULdVQmZA",
+      "published_at": "2026-04-19T20:51:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
+      "duration": "PT7M21S",
+      "duration_seconds": 441,
+      "view_count": 81341,
+      "like_count": 7688,
+      "comment_count": 777,
+      "category_id": "20",
+      "tags": [
+        "dragon ball xenoverse 3",
+        "dragon ball xenoverse 3 trailer reaction",
+        "dragon ball xenoverse 3 trailer",
+        "dragon ball xenoverse 3 rhymestyle",
+        "rhymestyle",
+        "xenoverse 3 trailer",
+        "xenoverse 3 trailer reaction"
+      ],
+      "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
     }
   ],
   "videos_with_transcripts": [],
@@ -214,9 +214,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v_Copbn4ASI/hqdefault.jpg",
       "duration": "PT3M49S",
       "duration_seconds": 229,
-      "view_count": 1084608,
-      "like_count": 101694,
-      "comment_count": 8648,
+      "view_count": 1169833,
+      "like_count": 105761,
+      "comment_count": 8987,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -259,9 +259,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xEv9YCsKyUo/hqdefault.jpg",
       "duration": "PT3M9S",
       "duration_seconds": 189,
-      "view_count": 595726,
-      "like_count": 77890,
-      "comment_count": 7010,
+      "view_count": 678430,
+      "like_count": 84578,
+      "comment_count": 7410,
       "category_id": "23",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
@@ -276,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-NekKfJN614/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 755528,
-      "like_count": 58668,
-      "comment_count": 3166,
+      "view_count": 844223,
+      "like_count": 61693,
+      "comment_count": 3358,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-NekKfJN614"
@@ -310,9 +310,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2EfUxiGQxZo/hqdefault.jpg",
       "duration": "PT12M53S",
       "duration_seconds": 773,
-      "view_count": 227591,
-      "like_count": 5605,
-      "comment_count": 410,
+      "view_count": 245804,
+      "like_count": 5861,
+      "comment_count": 437,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
@@ -335,31 +335,6 @@
       "url": "https://www.youtube.com/watch?v=tgHb7FnUpkg"
     },
     {
-      "video_id": "jL9g8D8_eyM",
-      "title": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
-      "description": "DRAGON BALL XENOVERSE 3 IS OFFICIALLY REAL. ITS HAPPENING! Coming in 2027!",
-      "channel_title": "Rhymestyle",
-      "channel_id": "UCMtlvoqzq03PPzcULdVQmZA",
-      "published_at": "2026-04-19T20:51:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
-      "duration": "PT7M21S",
-      "duration_seconds": 441,
-      "view_count": 78762,
-      "like_count": 7530,
-      "comment_count": 766,
-      "category_id": "20",
-      "tags": [
-        "dragon ball xenoverse 3",
-        "dragon ball xenoverse 3 trailer reaction",
-        "dragon ball xenoverse 3 trailer",
-        "dragon ball xenoverse 3 rhymestyle",
-        "rhymestyle",
-        "xenoverse 3 trailer",
-        "xenoverse 3 trailer reaction"
-      ],
-      "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
-    },
-    {
       "video_id": "o9m_pPq_Ps0",
       "title": "Montreal Canadiens at Tampa Bay Lightning",
       "description": "Game 1 of the Eastern Conference First Round between the Montreal Canadiens and the Tampa Bay Lightning takes place at Benchmark International Arena. The regular-season series was closely contested, with both teams splitting their four meetings 2-2.",
@@ -377,21 +352,46 @@
       "url": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
     },
     {
-      "video_id": "gu70jm_XjQ4",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-20T09:27:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gu70jm_XjQ4/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "jL9g8D8_eyM",
+      "title": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
+      "description": "DRAGON BALL XENOVERSE 3 IS OFFICIALLY REAL. ITS HAPPENING! Coming in 2027!",
+      "channel_title": "Rhymestyle",
+      "channel_id": "UCMtlvoqzq03PPzcULdVQmZA",
+      "published_at": "2026-04-19T20:51:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jL9g8D8_eyM/hqdefault.jpg",
+      "duration": "PT7M21S",
+      "duration_seconds": 441,
+      "view_count": 81341,
+      "like_count": 7688,
+      "comment_count": 777,
+      "category_id": "20",
+      "tags": [
+        "dragon ball xenoverse 3",
+        "dragon ball xenoverse 3 trailer reaction",
+        "dragon ball xenoverse 3 trailer",
+        "dragon ball xenoverse 3 rhymestyle",
+        "rhymestyle",
+        "xenoverse 3 trailer",
+        "xenoverse 3 trailer reaction"
+      ],
+      "url": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
+    },
+    {
+      "video_id": "BnjnNZPlpEk",
+      "title": "The Caribbean Tour 🏝️ (Official Trailer)",
+      "description": "",
+      "channel_title": "IShowSpeed",
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "published_at": "2026-04-20T14:16:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BnjnNZPlpEk/hqdefault.jpg",
+      "duration": "PT53S",
+      "duration_seconds": 53,
+      "view_count": 199356,
+      "like_count": 26463,
+      "comment_count": 4332,
+      "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=gu70jm_XjQ4"
+      "url": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
     }
   ],
   "analysis": {
@@ -400,83 +400,100 @@
       "content_trends": {
         "categories": [
           {
-            "name": "Gaming",
-            "indicators": [
+            "category": "Gaming",
+            "description": "Video game trailers and reactions, especially related to popular franchises like Dragon Ball, are trending.",
+            "evidence": [
               "DRAGON BALL XENOVERSE 3 - Announcement Trailer",
               "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!"
-            ],
-            "insight": "High interest in gaming, particularly related to Dragon Ball franchise, suggesting a strong fan base and anticipation for new releases."
+            ]
           },
           {
-            "name": "Sports",
-            "indicators": [
+            "category": "Sports",
+            "description": "Live sports events and highlights, particularly from popular leagues such as NHL and MLB, are currently trending.",
+            "evidence": [
               "Boston Bruins at Buffalo Sabres",
               "Atlanta Braves at Philadelphia Phillies",
               "Montreal Canadiens at Tampa Bay Lightning",
               "RBC Heritage, Final Round"
-            ],
-            "insight": "Consistent interest in sports content, with a focus on both team sports and individual sports events, indicating opportunities for live coverage and highlights."
+            ]
           },
           {
-            "name": "Entertainment",
-            "indicators": [
-              "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
+            "category": "Anime",
+            "description": "Anime trailers and content related to well-known series, such as Dragon Ball, are gaining traction.",
+            "evidence": [
+              "Anime “Dragon Ball Super: Beerus” | SUPER GEKITOU Trailer"
+            ]
+          },
+          {
+            "category": "Music",
+            "description": "Music videos, especially featuring collaborations, are attracting a significant audience.",
+            "evidence": [
+              "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)"
+            ]
+          },
+          {
+            "category": "Movies",
+            "description": "Trailers for upcoming superhero movies, particularly involving crossovers, are popular.",
+            "evidence": [
               "AVENGERS DOOMSDAY TRAILER: Doctor Doom & X-Men Breakdown"
-            ],
-            "insight": "Pop culture and music content maintain strong engagement, with trailers and official music videos drawing significant attention."
+            ]
           },
           {
-            "name": "News",
-            "indicators": [
-              "One Nation With Brian Kilmeade"
-            ],
-            "insight": "Political and news talk shows can capture a segment of the audience interested in current events and analysis."
+            "category": "Travel",
+            "description": "Travel content, particularly promotional trailers, is capturing viewer interest.",
+            "evidence": [
+              "The Caribbean Tour 🏝️ (Official Trailer)"
+            ]
           }
         ]
       },
       "creator_patterns": {
-        "top_creators": [
-          {
-            "name": "Bandai Namco Entertainment America",
-            "content_focus": "Gaming",
-            "insight": "Dominates with high-interest game announcements, reinforcing the appeal of gaming content."
-          },
-          {
-            "name": "ESPN",
-            "content_focus": "Sports",
-            "insight": "Leverages its strong brand to attract sports enthusiasts, especially with live or recap formats."
-          },
-          {
-            "name": "Axel Merryl",
-            "content_focus": "Music",
-            "insight": "Music content remains a potent draw, providing opportunities for collaboration and cross-platform promotion."
-          }
+        "content_type": {
+          "trailers_and_highlights": 70,
+          "official_content": 30
+        },
+        "engagement_drivers": [
+          "Franchise popularity",
+          "Event timeliness",
+          "Collaborations",
+          "Niche interests such as anime"
+        ],
+        "high_engagement_channels": [
+          "Bandai Namco Entertainment America",
+          "ESPN",
+          "東映アニメーション公式YouTubeチャンネル"
         ]
       },
       "market_opportunities": {
-        "gaming": {
-          "actionable_insights": [
-            "Capitalize on the Dragon Ball franchise's popularity by creating discussion, reaction, or breakdown videos.",
-            "Explore partnerships with gaming influencers to expand reach."
-          ]
-        },
-        "sports": {
-          "actionable_insights": [
-            "Increase coverage of major sporting events and highlight reels to engage sports fans.",
-            "Consider exclusive interviews or behind-the-scenes content for added value."
-          ]
-        },
-        "entertainment": {
-          "actionable_insights": [
-            "Develop content that taps into trending movies and series, especially those with established fan bases like the Avengers.",
-            "Utilize music videos and collaborations to reach diverse demographics."
-          ]
-        },
-        "news": {
-          "actionable_insights": [
-            "Expand news content with expert analysis and opinion pieces to capture viewers interested in in-depth coverage."
-          ]
+        "untapped_categories": [
+          {
+            "category": "Lifestyle Vlogs",
+            "insight": "There's an opportunity to create lifestyle content that complements the interest in travel trailers."
+          },
+          {
+            "category": "Behind-the-Scenes",
+            "insight": "Content that provides behind-the-scenes looks at popular sports events or movie productions could attract curious audiences."
+          }
+        ],
+        "content_strategy": {
+          "cross-category_content": "Mixing gaming and anime content could leverage mutual fan bases and increase engagement.",
+          "localized_sports_content": "Creating localized content around sports teams and events could increase regional engagement.",
+          "collaborative_music_content": "Encouraging collaborations between artists from different genres may tap into diverse audiences."
         }
+      },
+      "actionable_insights": {
+        "content_creation": [
+          "Focus on producing high-quality trailers and teasers as they drive significant engagement.",
+          "Leverage popular franchises and collaborations to capture audience interest."
+        ],
+        "channel_growth": [
+          "Engage in collaborations with trending channels to expand reach.",
+          "Capitalize on trending sports and events to maintain relevance and attract viewers."
+        ],
+        "audience_engagement": [
+          "Incorporate interactive elements such as live reactions or Q&As to boost viewer interaction.",
+          "Utilize social media platforms to cross-promote content and engage with fans directly."
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -484,7 +501,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 274221
+        "avg_views_per_video": 321898
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
