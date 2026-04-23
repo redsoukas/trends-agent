@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T18:35:27.459023",
+  "timestamp": "2026-04-23T21:22:40.517067",
   "date": "2026-04-23",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 1843343,
-      "like_count": 119899,
-      "comment_count": 6926,
+      "view_count": 2199704,
+      "like_count": 124333,
+      "comment_count": 7142,
       "category_id": "1",
       "tags": [
         "2026",
@@ -48,8 +48,8 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-23T13:34:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wdYEH5yuYCg/hqdefault.jpg",
-      "duration": "PT2H36M25S",
-      "duration_seconds": 9385,
+      "duration": "PT2H31M45S",
+      "duration_seconds": 9105,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 235937,
-      "like_count": 5583,
-      "comment_count": 491,
+      "view_count": 258671,
+      "like_count": 5955,
+      "comment_count": 520,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -84,6 +84,44 @@
         "Clayface teaser trailer"
       ],
       "url": "https://www.youtube.com/watch?v=wmNgE35gfzI"
+    },
+    {
+      "video_id": "FJ7D5dIcaW0",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-23T18:57:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FJ7D5dIcaW0/hqdefault.jpg",
+      "duration": "PT59M6S",
+      "duration_seconds": 3546,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FJ7D5dIcaW0"
+    },
+    {
+      "video_id": "Z77-fgRP6mo",
+      "title": "Totenreich Gameplay Trailer | Call of Duty: Black Ops 7 Zombies",
+      "description": "Eidskallen calls from the Dark Aether.\n\nTotenreich comes to Season 03 Reloaded on April 30 🗓️\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
+      "channel_title": "Call of Duty",
+      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
+      "published_at": "2026-04-23T16:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z77-fgRP6mo/hqdefault.jpg",
+      "duration": "PT1M30S",
+      "duration_seconds": 90,
+      "view_count": 73542,
+      "like_count": 5568,
+      "comment_count": 577,
+      "category_id": "20",
+      "tags": [
+        "call of duty",
+        "cod",
+        "activision"
+      ],
+      "url": "https://www.youtube.com/watch?v=Z77-fgRP6mo"
     },
     {
       "video_id": "E7zFuSjUaTo",
@@ -112,9 +150,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iwp56gLGqh8/hqdefault.jpg",
       "duration": "PT3M3S",
       "duration_seconds": 183,
-      "view_count": 452913,
-      "like_count": 31451,
-      "comment_count": 4495,
+      "view_count": 466328,
+      "like_count": 31890,
+      "comment_count": 4566,
       "category_id": "20",
       "tags": [
         "street",
@@ -125,21 +163,31 @@
       "url": "https://www.youtube.com/watch?v=iwp56gLGqh8"
     },
     {
-      "video_id": "HbBlYYdjjAo",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-23T06:48:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HbBlYYdjjAo/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HbBlYYdjjAo"
+      "video_id": "7hkFaTypP1Q",
+      "title": "Assassin's Creed Black Flag Resynced: Worldwide Reveal Showcase",
+      "description": "Available July 9, 2026 on PlayStation®5, Xbox Series X|S and PC: https://ubi.li/O5sQ5\n\nLearn more about Assassin’s Creed Black Flag Resynced as Matt Ryan, Richard Knight, Paul Fu and Jean Guesdon take you behind the scenes of its development in this 30‑minute showcase showcasing work-in-progress gameplay and cinematics. From the recreated Caribbean to enhanced gameplay and technical improvements, with a peek at new narrative content exclusive to the remake, the developers reveal the creative vision behind Black Flag and much more.\n\nLearn more: https://assassinscreedblackflagresynced.com\n\nAbout Assassin's Creed Black Flag Resynced:\nRebuilt from the ground up and powered by the latest Anvil engine, the iconic solo pirate adventure returns.  Sail the Caribbean as Edward Kenway during the Golden Age of Piracy in this faithfully enhanced remake featuring stunning visuals, upgraded gameplay, and new content. As you follow Edward in his pursuit of glory and gold, you’ll be drawn into an ancie",
+      "channel_title": "Assassin's Creed",
+      "channel_id": "UC_fwlBSrMIfdb4Br2O_Fzlw",
+      "published_at": "2026-04-23T15:55:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7hkFaTypP1Q/hqdefault.jpg",
+      "duration": "PT28M28S",
+      "duration_seconds": 1708,
+      "view_count": 946180,
+      "like_count": 87496,
+      "comment_count": 11848,
+      "category_id": "20",
+      "tags": [
+        "assassins creed",
+        "assassins creed black flag",
+        "assassins creed black flag resynced",
+        "black flag resynced",
+        "ac black flag",
+        "ac black flag resynced",
+        "assassins",
+        "creed",
+        "ubisoft"
+      ],
+      "url": "https://www.youtube.com/watch?v=7hkFaTypP1Q"
     },
     {
       "video_id": "mxNvr-8kN_c",
@@ -151,9 +199,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mxNvr-8kN_c/hqdefault.jpg",
       "duration": "PT3M55S",
       "duration_seconds": 235,
-      "view_count": 352279,
-      "like_count": 772,
-      "comment_count": 9,
+      "view_count": 418854,
+      "like_count": 856,
+      "comment_count": 11,
       "category_id": "22",
       "tags": [
         "imitadora",
@@ -170,77 +218,32 @@
       "url": "https://www.youtube.com/watch?v=mxNvr-8kN_c"
     },
     {
-      "video_id": "QWg2g7yQBsg",
-      "title": "MAX REACTS: Ingrid Gameplay Trailer",
-      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-04-23T08:04:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QWg2g7yQBsg/hqdefault.jpg",
-      "duration": "PT20M30S",
-      "duration_seconds": 1230,
-      "view_count": 132413,
-      "like_count": 7617,
-      "comment_count": 810,
-      "category_id": "20",
+      "video_id": "4Vin2GSA4V0",
+      "title": "Off Campus S1 | Official Trailer | Prime Video",
+      "description": "You can’t experience love from the sidelines. Get your head in the game on 13 May.\n\n» SUBSCRIBE: http://www.youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg?sub_confirmation=1\n\nGet More Prime Video: \nWatch More: http://bit.ly/WatchPrimeVideoUKNow\nTikTok: https://www.tiktok.com/@primevideouk\nInstagram: http://bit.ly/PrimeVideoUKInstagram\nWhatsApp: https://bit.ly/PrimeVideoUKWhatsApp\nTwitter: http://bit.ly/PrimeVideoUKTwitter\nFacebook: http://bit.ly/PrimeVideoUKFacebook\n\nPrime Video has thousands of popular movies and TV shows, including award-winning Amazon Originals, plus live sport and more. All included with Prime!\n\n#OffCampus #OffCampusonPrime #PrimeVideo",
+      "channel_title": "Amazon Prime Video UK & IE",
+      "channel_id": "UCwSIJCMWZC5GDM59wj7pMsg",
+      "published_at": "2026-04-23T12:27:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4Vin2GSA4V0/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 111173,
+      "like_count": 5245,
+      "comment_count": 175,
+      "category_id": "1",
       "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
+        "2026",
+        "Amazon",
+        "Antonio Cipriano",
+        "Belmont Cameli",
+        "Drama",
+        "Ella Bright",
+        "Jalen Thomas Brooks",
+        "Josh Heuston",
+        "Mika Abdalla",
+        "Off Campus"
       ],
-      "url": "https://www.youtube.com/watch?v=QWg2g7yQBsg"
-    },
-    {
-      "video_id": "elL-03BtxfM",
-      "title": "Philadelphia 76ers at Boston Celtics",
-      "description": "The Philadelphia 76ers face the Boston Celtics in Game 2 of the East first round at TD Garden. Boston leads 1-0 after a 123-91 win. Jayson Tatum had 25 points, 11 rebounds and seven assists in his first playoff game since an Achilles injury.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-22T12:38:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/elL-03BtxfM/hqdefault.jpg",
-      "duration": "PT2H36M1S",
-      "duration_seconds": 9361,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=elL-03BtxfM"
-    },
-    {
-      "video_id": "0kSgGaIAEy4",
-      "title": "CLAYFACE - Official Teaser (My Thoughts)",
-      "description": "We have the first trailer to the upcoming DC comic book movie Batman villain solo film CLAYFACE! Here are my thoughts on the trailer.\n\nWatch the trailer here: https://www.youtube.com/watch?v=6IxPD-jNdwM\n\n#Clayface",
-      "channel_title": "Jeremy Jahns",
-      "channel_id": "UC7v3-2K1N84V67IF-WTRG-Q",
-      "published_at": "2026-04-22T22:11:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0kSgGaIAEy4/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 147433,
-      "like_count": 10532,
-      "comment_count": 817,
-      "category_id": "24",
-      "tags": [
-        "clayface",
-        "movie",
-        "cronenberg",
-        "body horror",
-        "dc",
-        "batman",
-        "villain",
-        "teaser",
-        "trailer",
-        "movie review"
-      ],
-      "url": "https://www.youtube.com/watch?v=0kSgGaIAEy4"
+      "url": "https://www.youtube.com/watch?v=4Vin2GSA4V0"
     }
   ],
   "videos_with_transcripts": [],
@@ -255,9 +258,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 1843343,
-      "like_count": 119899,
-      "comment_count": 6926,
+      "view_count": 2199704,
+      "like_count": 124333,
+      "comment_count": 7142,
       "category_id": "1",
       "tags": [
         "2026",
@@ -281,8 +284,8 @@
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
       "published_at": "2026-04-23T13:34:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wdYEH5yuYCg/hqdefault.jpg",
-      "duration": "PT2H36M25S",
-      "duration_seconds": 9385,
+      "duration": "PT2H31M45S",
+      "duration_seconds": 9105,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -300,9 +303,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 235937,
-      "like_count": 5583,
-      "comment_count": 491,
+      "view_count": 258671,
+      "like_count": 5955,
+      "comment_count": 520,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -317,6 +320,44 @@
         "Clayface teaser trailer"
       ],
       "url": "https://www.youtube.com/watch?v=wmNgE35gfzI"
+    },
+    {
+      "video_id": "FJ7D5dIcaW0",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-23T18:57:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FJ7D5dIcaW0/hqdefault.jpg",
+      "duration": "PT59M6S",
+      "duration_seconds": 3546,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FJ7D5dIcaW0"
+    },
+    {
+      "video_id": "Z77-fgRP6mo",
+      "title": "Totenreich Gameplay Trailer | Call of Duty: Black Ops 7 Zombies",
+      "description": "Eidskallen calls from the Dark Aether.\n\nTotenreich comes to Season 03 Reloaded on April 30 🗓️\n\nFollow #CallofDuty for the latest intel:\n• X / (Formerly Twitter): http://twitter.com/CallofDuty\n• Instagram: http://instagram.com/callofduty\n• Facebook: http://facebook.com/CallofDuty\n• TikTok: http://www.tiktok.com/@callofduty\n• Discord: https://discord.gg/callofdutyofficial\n• Threads: https://www.threads.net/@callofduty\n• Bluesky: https://bsky.app/profile/callofduty.com",
+      "channel_title": "Call of Duty",
+      "channel_id": "UC9YydG57epLqxA9cTzZXSeQ",
+      "published_at": "2026-04-23T16:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z77-fgRP6mo/hqdefault.jpg",
+      "duration": "PT1M30S",
+      "duration_seconds": 90,
+      "view_count": 73542,
+      "like_count": 5568,
+      "comment_count": 577,
+      "category_id": "20",
+      "tags": [
+        "call of duty",
+        "cod",
+        "activision"
+      ],
+      "url": "https://www.youtube.com/watch?v=Z77-fgRP6mo"
     },
     {
       "video_id": "E7zFuSjUaTo",
@@ -345,9 +386,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iwp56gLGqh8/hqdefault.jpg",
       "duration": "PT3M3S",
       "duration_seconds": 183,
-      "view_count": 452913,
-      "like_count": 31451,
-      "comment_count": 4495,
+      "view_count": 466328,
+      "like_count": 31890,
+      "comment_count": 4566,
       "category_id": "20",
       "tags": [
         "street",
@@ -358,21 +399,31 @@
       "url": "https://www.youtube.com/watch?v=iwp56gLGqh8"
     },
     {
-      "video_id": "HbBlYYdjjAo",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-23T06:48:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HbBlYYdjjAo/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HbBlYYdjjAo"
+      "video_id": "7hkFaTypP1Q",
+      "title": "Assassin's Creed Black Flag Resynced: Worldwide Reveal Showcase",
+      "description": "Available July 9, 2026 on PlayStation®5, Xbox Series X|S and PC: https://ubi.li/O5sQ5\n\nLearn more about Assassin’s Creed Black Flag Resynced as Matt Ryan, Richard Knight, Paul Fu and Jean Guesdon take you behind the scenes of its development in this 30‑minute showcase showcasing work-in-progress gameplay and cinematics. From the recreated Caribbean to enhanced gameplay and technical improvements, with a peek at new narrative content exclusive to the remake, the developers reveal the creative vision behind Black Flag and much more.\n\nLearn more: https://assassinscreedblackflagresynced.com\n\nAbout Assassin's Creed Black Flag Resynced:\nRebuilt from the ground up and powered by the latest Anvil engine, the iconic solo pirate adventure returns.  Sail the Caribbean as Edward Kenway during the Golden Age of Piracy in this faithfully enhanced remake featuring stunning visuals, upgraded gameplay, and new content. As you follow Edward in his pursuit of glory and gold, you’ll be drawn into an ancie",
+      "channel_title": "Assassin's Creed",
+      "channel_id": "UC_fwlBSrMIfdb4Br2O_Fzlw",
+      "published_at": "2026-04-23T15:55:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7hkFaTypP1Q/hqdefault.jpg",
+      "duration": "PT28M28S",
+      "duration_seconds": 1708,
+      "view_count": 946180,
+      "like_count": 87496,
+      "comment_count": 11848,
+      "category_id": "20",
+      "tags": [
+        "assassins creed",
+        "assassins creed black flag",
+        "assassins creed black flag resynced",
+        "black flag resynced",
+        "ac black flag",
+        "ac black flag resynced",
+        "assassins",
+        "creed",
+        "ubisoft"
+      ],
+      "url": "https://www.youtube.com/watch?v=7hkFaTypP1Q"
     },
     {
       "video_id": "mxNvr-8kN_c",
@@ -384,9 +435,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mxNvr-8kN_c/hqdefault.jpg",
       "duration": "PT3M55S",
       "duration_seconds": 235,
-      "view_count": 352279,
-      "like_count": 772,
-      "comment_count": 9,
+      "view_count": 418854,
+      "like_count": 856,
+      "comment_count": 11,
       "category_id": "22",
       "tags": [
         "imitadora",
@@ -403,162 +454,94 @@
       "url": "https://www.youtube.com/watch?v=mxNvr-8kN_c"
     },
     {
-      "video_id": "QWg2g7yQBsg",
-      "title": "MAX REACTS: Ingrid Gameplay Trailer",
-      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-04-23T08:04:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QWg2g7yQBsg/hqdefault.jpg",
-      "duration": "PT20M30S",
-      "duration_seconds": 1230,
-      "view_count": 132413,
-      "like_count": 7617,
-      "comment_count": 810,
-      "category_id": "20",
+      "video_id": "4Vin2GSA4V0",
+      "title": "Off Campus S1 | Official Trailer | Prime Video",
+      "description": "You can’t experience love from the sidelines. Get your head in the game on 13 May.\n\n» SUBSCRIBE: http://www.youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg?sub_confirmation=1\n\nGet More Prime Video: \nWatch More: http://bit.ly/WatchPrimeVideoUKNow\nTikTok: https://www.tiktok.com/@primevideouk\nInstagram: http://bit.ly/PrimeVideoUKInstagram\nWhatsApp: https://bit.ly/PrimeVideoUKWhatsApp\nTwitter: http://bit.ly/PrimeVideoUKTwitter\nFacebook: http://bit.ly/PrimeVideoUKFacebook\n\nPrime Video has thousands of popular movies and TV shows, including award-winning Amazon Originals, plus live sport and more. All included with Prime!\n\n#OffCampus #OffCampusonPrime #PrimeVideo",
+      "channel_title": "Amazon Prime Video UK & IE",
+      "channel_id": "UCwSIJCMWZC5GDM59wj7pMsg",
+      "published_at": "2026-04-23T12:27:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4Vin2GSA4V0/hqdefault.jpg",
+      "duration": "PT2M10S",
+      "duration_seconds": 130,
+      "view_count": 111173,
+      "like_count": 5245,
+      "comment_count": 175,
+      "category_id": "1",
       "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
+        "2026",
+        "Amazon",
+        "Antonio Cipriano",
+        "Belmont Cameli",
+        "Drama",
+        "Ella Bright",
+        "Jalen Thomas Brooks",
+        "Josh Heuston",
+        "Mika Abdalla",
+        "Off Campus"
       ],
-      "url": "https://www.youtube.com/watch?v=QWg2g7yQBsg"
-    },
-    {
-      "video_id": "elL-03BtxfM",
-      "title": "Philadelphia 76ers at Boston Celtics",
-      "description": "The Philadelphia 76ers face the Boston Celtics in Game 2 of the East first round at TD Garden. Boston leads 1-0 after a 123-91 win. Jayson Tatum had 25 points, 11 rebounds and seven assists in his first playoff game since an Achilles injury.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-22T12:38:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/elL-03BtxfM/hqdefault.jpg",
-      "duration": "PT2H36M1S",
-      "duration_seconds": 9361,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=elL-03BtxfM"
-    },
-    {
-      "video_id": "0kSgGaIAEy4",
-      "title": "CLAYFACE - Official Teaser (My Thoughts)",
-      "description": "We have the first trailer to the upcoming DC comic book movie Batman villain solo film CLAYFACE! Here are my thoughts on the trailer.\n\nWatch the trailer here: https://www.youtube.com/watch?v=6IxPD-jNdwM\n\n#Clayface",
-      "channel_title": "Jeremy Jahns",
-      "channel_id": "UC7v3-2K1N84V67IF-WTRG-Q",
-      "published_at": "2026-04-22T22:11:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0kSgGaIAEy4/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 147433,
-      "like_count": 10532,
-      "comment_count": 817,
-      "category_id": "24",
-      "tags": [
-        "clayface",
-        "movie",
-        "cronenberg",
-        "body horror",
-        "dc",
-        "batman",
-        "villain",
-        "teaser",
-        "trailer",
-        "movie review"
-      ],
-      "url": "https://www.youtube.com/watch?v=0kSgGaIAEy4"
+      "url": "https://www.youtube.com/watch?v=4Vin2GSA4V0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "contentTrends": {
-        "entertainmentFocus": {
-          "description": "The list of trending videos shows a strong focus on entertainment, with multiple teasers and trailers, as well as sports highlights.",
-          "videoTitles": [
-            "Clayface | Official Teaser",
-            "Clayface Teaser Trailer (2026)",
-            "Street Fighter 6 - Ingrid Gameplay Trailer",
-            "MAX REACTS: Ingrid Gameplay Trailer",
-            "CLAYFACE - Official Teaser (My Thoughts)"
-          ],
-          "insights": [
-            "There is a clear interest in upcoming entertainment releases, particularly in films and video games.",
-            "Teaser trailers and reaction videos are generating significant interest, indicating an audience eager for previews and analysis."
-          ]
+      "trending_patterns": {
+        "popular_content_themes": [
+          "Entertainment (Movies and TV Series)",
+          "Sports",
+          "Video Games",
+          "Music"
+        ],
+        "trending_categories": {
+          "Movies and TV": 3,
+          "Sports": 2,
+          "Video Games": 2,
+          "Music": 1,
+          "News": 1
         },
-        "sportsContent": {
-          "description": "Sports content is also a significant portion of the trending videos, with multiple videos covering live games.",
-          "videoTitles": [
-            "Phoenix Suns at Oklahoma City Thunder",
-            "Pittsburgh Penguins at Philadelphia Flyers",
-            "Philadelphia 76ers at Boston Celtics"
-          ],
-          "insights": [
-            "Live sports events continue to be a major draw for viewers, particularly during game seasons.",
-            "The presence of multiple sports highlights suggests a stable demand for real-time or near-real-time sports content."
-          ]
-        },
-        "musicContent": {
-          "description": "Music content is represented in the trending videos by a popular music video with lyrics.",
-          "videoTitles": [
-            "Romeo Santos - Imitadora (Letra)"
-          ],
-          "insights": [
-            "Lyric videos remain popular, offering an easy way for fans to engage with music content.",
-            "There is potential for growth in music-related content, especially if combined with other popular formats like reaction videos."
-          ]
+        "viewership_analysis": {
+          "average_views_per_video": 447,
+          "most_viewed_content_type": "Entertainment"
         }
       },
-      "creatorPatterns": {
-        "topChannels": {
-          "description": "Analysis of channels contributing to trending content.",
-          "channels": [
-            "DC",
-            "ESPN",
-            "Rotten Tomatoes Trailers",
-            "TNT",
-            "Street Fighter"
-          ],
-          "insights": [
-            "Major entertainment and sports networks dominate trending content, leveraging well-known franchises and live event coverage.",
-            "Partnerships with major channels for early release or exclusive content could be beneficial for increasing viewership."
-          ]
-        },
-        "independentCreators": {
-          "description": "Presence of independent content creators in the trending list.",
-          "videoTitles": [
-            "MAX REACTS: Ingrid Gameplay Trailer",
-            "CLAYFACE - Official Teaser (My Thoughts)"
-          ],
-          "insights": [
-            "Independent creators are capitalizing on popular releases by creating reaction and analysis content.",
-            "There is a growing opportunity for independent creators to engage audiences by providing unique perspectives and commentary."
-          ]
+      "creator_patterns": {
+        "major_content_creators": [
+          "DC",
+          "ESPN",
+          "Rotten Tomatoes Trailers",
+          "FOX News",
+          "Call of Duty"
+        ],
+        "content_creator_distribution": {
+          "single_video_channels": 5,
+          "multiple_video_channels": 0,
+          "opportunity_for_collaboration": true
         }
       },
-      "marketOpportunities": {
-        "cross-promotionalContent": {
-          "description": "Opportunities for content creators and brands to collaborate across different categories.",
-          "opportunities": [
-            "Collaborations between sports networks and entertainment franchises could create unique content, such as themed sports events or celebrity appearances.",
-            "Combining music with other popular formats, like trailers or live sports, could attract diverse audience segments."
-          ]
-        },
-        "emergingFormats": {
-          "description": "Potential new formats or content ideas based on current trends.",
-          "opportunities": [
-            "Developing interactive or augmented reality trailers could engage audiences more deeply in upcoming releases.",
-            "Expanding the use of live streaming for both sports and entertainment content, including behind-the-scenes or fan interaction segments."
-          ]
-        }
+      "market_opportunities": {
+        "emerging_trends": [
+          "Teaser and Trailer Releases",
+          "Gaming Content",
+          "Live Sports Coverage"
+        ],
+        "content_gaps": [
+          "Diverse Genre Coverage",
+          "Localized Content"
+        ],
+        "strategic_recommendations": [
+          {
+            "strategy": "Increase Content in Underrepresented Genres",
+            "action": "Explore creating content for genres that are not prominently featured, such as lifestyle or technology."
+          },
+          {
+            "strategy": "Leverage Collaboration",
+            "action": "Partner with trending channels like DC and ESPN to create crossover content that could capture a wider audience."
+          },
+          {
+            "strategy": "Target Gaming and Sports Enthusiasts",
+            "action": "Develop content that aligns with gaming releases and sports events to capitalize on existing viewer interest."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -566,7 +549,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 316431
+        "avg_views_per_video": 447445
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
