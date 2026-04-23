@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-23T00:56:44.415204",
+  "timestamp": "2026-04-23T04:08:27.884863",
   "date": "2026-04-23",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 763857,
-      "like_count": 75236,
-      "comment_count": 4869,
+      "view_count": 1083299,
+      "like_count": 90789,
+      "comment_count": 5581,
       "category_id": "1",
       "tags": [
         "2026",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 52642,
-      "like_count": 2395,
-      "comment_count": 231,
+      "view_count": 116851,
+      "like_count": 3519,
+      "comment_count": 320,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iwp56gLGqh8/hqdefault.jpg",
       "duration": "PT3M3S",
       "duration_seconds": 183,
-      "view_count": 54670,
-      "like_count": 18484,
-      "comment_count": 2611,
+      "view_count": 294655,
+      "like_count": 25471,
+      "comment_count": 3550,
       "category_id": "20",
       "tags": [
         "street",
@@ -151,9 +151,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7c7JFMTBeVk/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 396964,
-      "like_count": 12107,
-      "comment_count": 878,
+      "view_count": 584267,
+      "like_count": 13492,
+      "comment_count": 950,
       "category_id": "24",
       "tags": [
         "AMC",
@@ -170,13 +170,13 @@
       "url": "https://www.youtube.com/watch?v=7c7JFMTBeVk"
     },
     {
-      "video_id": "ODODT1605-c",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "br0kfgTD1QI",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-22T19:36:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ODODT1605-c/hqdefault.jpg",
+      "published_at": "2026-04-23T01:24:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/br0kfgTD1QI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -184,63 +184,52 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ODODT1605-c"
+      "url": "https://www.youtube.com/watch?v=br0kfgTD1QI"
     },
     {
-      "video_id": "KC15fpxDqVQ",
-      "title": "Romeo Santos - La Diabla (Letra/Lyrics)",
-      "description": "Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream Now/Download:\n\n🎤Letra:\nAposté los sentimientos\nY jugué a fuego lento con amor\nMe enfrenté a la competencia\nOlvidando su indolencia\nAhí fue mi error\nPor complejo de Quijote fui llevando\nEste derroche de mal a peor\nNi el de la ruleta rusa\nMí rival que es tan astuta\nAsí se aprovechó\nY como ven no soy un ángel con buena intuición\nMe lancé a quemarropa y ella me venció\nPerdí, jugué con una diabla que es experta\nEn esos juegos del amor y perdí\nSus fichas y barajas no les fallan\nMas no tiene compasión\nPerdí, no fui el primero\nNi último que pierde\nY si ella retornara y se conmueve\nLa reto a otro duelo y\nEn la revancha vuelvo y pierdo el corazón\nEscucha las palabras de Romeo\nThe king stay kings, yes sir\nY como ven no soy un ángel con buena intuición\nMe lance a quema ropa y ella me venció\nPerdí, jugué con una diabla que es experta\nEn esos juegos del amor y perdí\nSus fichas y barajas",
-      "channel_title": "GroovLatn",
-      "channel_id": "UCK7wSPETZbh2PK4SX33SuqQ",
-      "published_at": "2026-04-21T20:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KC15fpxDqVQ/hqdefault.jpg",
-      "duration": "PT4M3S",
-      "duration_seconds": 243,
-      "view_count": 123336,
-      "like_count": 153,
-      "comment_count": 1,
-      "category_id": "22",
+      "video_id": "0kSgGaIAEy4",
+      "title": "CLAYFACE - Official Teaser (My Thoughts)",
+      "description": "We have the first trailer to the upcoming DC comic book movie Batman villain solo film CLAYFACE! Here are my thoughts on the trailer.\n\nWatch the trailer here: https://www.youtube.com/watch?v=6IxPD-jNdwM\n\n#Clayface",
+      "channel_title": "Jeremy Jahns",
+      "channel_id": "UC7v3-2K1N84V67IF-WTRG-Q",
+      "published_at": "2026-04-22T22:11:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0kSgGaIAEy4/hqdefault.jpg",
+      "duration": "PT3M44S",
+      "duration_seconds": 224,
+      "view_count": 69609,
+      "like_count": 6576,
+      "comment_count": 564,
+      "category_id": "24",
       "tags": [
-        "romeo santos",
-        "la diabla",
-        "romeo santos la diabla",
-        "la diabla romeo santos",
-        "romeo santos la diabla letra",
-        "la diabla romeo santos letra",
-        "romeo santos letra la diabla",
-        "la diabla letra romeo santos",
-        "letra romeo santos",
-        "letra la diabla"
-      ],
-      "url": "https://www.youtube.com/watch?v=KC15fpxDqVQ"
-    },
-    {
-      "video_id": "iKSj6OhSV7s",
-      "title": "COYOTE VS. ACME Official Trailer (2026) John Cena",
-      "description": "COYOTE VS ACME Official Trailer (2026) John Cena, Will Forte, Lana Condor, Looney Toons Movie\n© 2026 - Ketchup Entertainment",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-04-22T13:09:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iKSj6OhSV7s/hqdefault.jpg",
-      "duration": "PT1M59S",
-      "duration_seconds": 119,
-      "view_count": 314179,
-      "like_count": 8285,
-      "comment_count": 777,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
+        "clayface",
+        "movie",
+        "cronenberg",
+        "body horror",
+        "dc",
+        "batman",
+        "villain",
+        "teaser",
         "trailer",
-        "official",
-        "2026",
-        "Coyote Vs Acme",
-        "Coyote Vs Acme Trailer",
-        "John Cena",
-        "Will Forte",
-        "Lana Condo"
+        "movie review"
       ],
-      "url": "https://www.youtube.com/watch?v=iKSj6OhSV7s"
+      "url": "https://www.youtube.com/watch?v=0kSgGaIAEy4"
+    },
+    {
+      "video_id": "VpQWN2xMTFc",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-22T21:21:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VpQWN2xMTFc/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VpQWN2xMTFc"
     }
   ],
   "videos_with_transcripts": [],
@@ -255,9 +244,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 763857,
-      "like_count": 75236,
-      "comment_count": 4869,
+      "view_count": 1083299,
+      "like_count": 90789,
+      "comment_count": 5581,
       "category_id": "1",
       "tags": [
         "2026",
@@ -300,9 +289,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 52642,
-      "like_count": 2395,
-      "comment_count": 231,
+      "view_count": 116851,
+      "like_count": 3519,
+      "comment_count": 320,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -345,9 +334,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iwp56gLGqh8/hqdefault.jpg",
       "duration": "PT3M3S",
       "duration_seconds": 183,
-      "view_count": 54670,
-      "like_count": 18484,
-      "comment_count": 2611,
+      "view_count": 294655,
+      "like_count": 25471,
+      "comment_count": 3550,
       "category_id": "20",
       "tags": [
         "street",
@@ -384,9 +373,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7c7JFMTBeVk/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 396964,
-      "like_count": 12107,
-      "comment_count": 878,
+      "view_count": 584267,
+      "like_count": 13492,
+      "comment_count": 950,
       "category_id": "24",
       "tags": [
         "AMC",
@@ -403,13 +392,13 @@
       "url": "https://www.youtube.com/watch?v=7c7JFMTBeVk"
     },
     {
-      "video_id": "ODODT1605-c",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "br0kfgTD1QI",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-22T19:36:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ODODT1605-c/hqdefault.jpg",
+      "published_at": "2026-04-23T01:24:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/br0kfgTD1QI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -417,83 +406,76 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ODODT1605-c"
+      "url": "https://www.youtube.com/watch?v=br0kfgTD1QI"
     },
     {
-      "video_id": "iKSj6OhSV7s",
-      "title": "COYOTE VS. ACME Official Trailer (2026) John Cena",
-      "description": "COYOTE VS ACME Official Trailer (2026) John Cena, Will Forte, Lana Condor, Looney Toons Movie\n© 2026 - Ketchup Entertainment",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-04-22T13:09:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iKSj6OhSV7s/hqdefault.jpg",
-      "duration": "PT1M59S",
-      "duration_seconds": 119,
-      "view_count": 314179,
-      "like_count": 8285,
-      "comment_count": 777,
-      "category_id": "1",
+      "video_id": "0kSgGaIAEy4",
+      "title": "CLAYFACE - Official Teaser (My Thoughts)",
+      "description": "We have the first trailer to the upcoming DC comic book movie Batman villain solo film CLAYFACE! Here are my thoughts on the trailer.\n\nWatch the trailer here: https://www.youtube.com/watch?v=6IxPD-jNdwM\n\n#Clayface",
+      "channel_title": "Jeremy Jahns",
+      "channel_id": "UC7v3-2K1N84V67IF-WTRG-Q",
+      "published_at": "2026-04-22T22:11:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0kSgGaIAEy4/hqdefault.jpg",
+      "duration": "PT3M44S",
+      "duration_seconds": 224,
+      "view_count": 69609,
+      "like_count": 6576,
+      "comment_count": 564,
+      "category_id": "24",
       "tags": [
-        "movie trailer",
-        "new trailer",
+        "clayface",
+        "movie",
+        "cronenberg",
+        "body horror",
+        "dc",
+        "batman",
+        "villain",
+        "teaser",
         "trailer",
-        "official",
-        "2026",
-        "Coyote Vs Acme",
-        "Coyote Vs Acme Trailer",
-        "John Cena",
-        "Will Forte",
-        "Lana Condo"
+        "movie review"
       ],
-      "url": "https://www.youtube.com/watch?v=iKSj6OhSV7s"
+      "url": "https://www.youtube.com/watch?v=0kSgGaIAEy4"
     },
     {
-      "video_id": "KC15fpxDqVQ",
-      "title": "Romeo Santos - La Diabla (Letra/Lyrics)",
-      "description": "Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream Now/Download:\n\n🎤Letra:\nAposté los sentimientos\nY jugué a fuego lento con amor\nMe enfrenté a la competencia\nOlvidando su indolencia\nAhí fue mi error\nPor complejo de Quijote fui llevando\nEste derroche de mal a peor\nNi el de la ruleta rusa\nMí rival que es tan astuta\nAsí se aprovechó\nY como ven no soy un ángel con buena intuición\nMe lancé a quemarropa y ella me venció\nPerdí, jugué con una diabla que es experta\nEn esos juegos del amor y perdí\nSus fichas y barajas no les fallan\nMas no tiene compasión\nPerdí, no fui el primero\nNi último que pierde\nY si ella retornara y se conmueve\nLa reto a otro duelo y\nEn la revancha vuelvo y pierdo el corazón\nEscucha las palabras de Romeo\nThe king stay kings, yes sir\nY como ven no soy un ángel con buena intuición\nMe lance a quema ropa y ella me venció\nPerdí, jugué con una diabla que es experta\nEn esos juegos del amor y perdí\nSus fichas y barajas",
-      "channel_title": "GroovLatn",
-      "channel_id": "UCK7wSPETZbh2PK4SX33SuqQ",
-      "published_at": "2026-04-21T20:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KC15fpxDqVQ/hqdefault.jpg",
-      "duration": "PT4M3S",
-      "duration_seconds": 243,
-      "view_count": 123336,
-      "like_count": 153,
-      "comment_count": 1,
-      "category_id": "22",
-      "tags": [
-        "romeo santos",
-        "la diabla",
-        "romeo santos la diabla",
-        "la diabla romeo santos",
-        "romeo santos la diabla letra",
-        "la diabla romeo santos letra",
-        "romeo santos letra la diabla",
-        "la diabla letra romeo santos",
-        "letra romeo santos",
-        "letra la diabla"
-      ],
-      "url": "https://www.youtube.com/watch?v=KC15fpxDqVQ"
+      "video_id": "VpQWN2xMTFc",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-22T21:21:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VpQWN2xMTFc/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=VpQWN2xMTFc"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 2148681,
+        "average_views_per_video": 214868.1
+      },
       "content_trends": {
-        "categories": [
+        "dominant_themes": [
           {
-            "category": "Entertainment",
-            "videos": 4,
+            "theme": "Entertainment",
             "examples": [
               "Clayface | Official Teaser",
               "Clayface Teaser Trailer (2026)",
               "The Vampire Lestat | Official Trailer | Premieres June 7 on AMC & AMC+",
-              "COYOTE VS. ACME Official Trailer (2026) John Cena"
+              "Street Fighter 6 - Ingrid Gameplay Trailer",
+              "CLAYFACE - Official Teaser (My Thoughts)"
             ]
           },
           {
-            "category": "Sports",
-            "videos": 3,
+            "theme": "Sports",
             "examples": [
               "Philadelphia 76ers at Boston Celtics",
               "Utah Mammoth at Vegas Golden Knights",
@@ -501,77 +483,79 @@
             ]
           },
           {
-            "category": "Music",
-            "videos": 1,
+            "theme": "News",
             "examples": [
-              "Romeo Santos - La Diabla (Letra/Lyrics)"
+              "America Reports",
+              "Morning Joe"
+            ]
+          }
+        ],
+        "emerging_trends": [
+          {
+            "trend": "DC Universe Content",
+            "evidence": [
+              "Multiple 'Clayface' trailers and discussions"
             ]
           },
           {
-            "category": "Gaming",
-            "videos": 1,
-            "examples": [
-              "Street Fighter 6 - Ingrid Gameplay Trailer"
-            ]
-          },
-          {
-            "category": "News",
-            "videos": 1,
-            "examples": [
-              "America's Newsroom"
+            "trend": "Sports Match Highlights",
+            "evidence": [
+              "NBA and NHL games coverage"
             ]
           }
         ]
       },
       "creator_patterns": {
-        "top_channels": {
-          "DC": {
-            "videos": 1,
-            "content_type": "Entertainment"
+        "top_channels": [
+          {
+            "channel_name": "DC",
+            "content_focus": "Entertainment - DC Universe"
           },
-          "NBCSN": {
-            "videos": 1,
-            "content_type": "Sports"
+          {
+            "channel_name": "NBCSN",
+            "content_focus": "Sports - NHL"
           },
-          "Rotten Tomatoes Trailers": {
-            "videos": 1,
-            "content_type": "Entertainment"
+          {
+            "channel_name": "Rotten Tomatoes Trailers",
+            "content_focus": "Entertainment - Movie Trailers"
           },
-          "ESPN2": {
-            "videos": 1,
-            "content_type": "Sports"
+          {
+            "channel_name": "ESPN2",
+            "content_focus": "Sports - NBA"
           },
-          "Street Fighter": {
-            "videos": 1,
-            "content_type": "Gaming"
+          {
+            "channel_name": "Street Fighter",
+            "content_focus": "Gaming - Game Trailers"
           }
-        },
+        ],
         "channel_insights": {
-          "diversification": "Channels are specializing in specific content types. There's a significant focus on entertainment and sports."
+          "diverse_content": "Channels like DC and Street Fighter are focusing on niche entertainment content, hinting at a strategy to tap into dedicated fan bases."
         }
       },
       "market_opportunities": {
-        "entertainment_trailers": {
-          "trend": "High",
-          "insight": "There is a growing trend for entertainment trailers, indicating a strong audience interest in upcoming releases."
+        "entertainment_content": {
+          "potential": "High",
+          "suggestion": "Increase content around popular franchises like DC and gaming trailers to capitalize on fan interest."
         },
-        "sports_events": {
-          "trend": "Moderate",
-          "insight": "Sports events continue to draw attention, suggesting opportunities for live event streaming and highlights."
+        "sports_content": {
+          "potential": "Moderate",
+          "suggestion": "Enhance coverage and analysis of major sports events, particularly NBA and NHL, to engage sports fans."
         },
-        "music": {
-          "trend": "Low",
-          "insight": "Currently, music is underrepresented, indicating potential for growth and engagement by featuring more music content."
-        },
-        "gaming": {
-          "trend": "Moderate",
-          "insight": "Gaming trailers are gaining traction, with potential for expansion, especially in diverse gaming content and collaborations."
+        "news_content": {
+          "potential": "Low",
+          "suggestion": "Focus on niche or specialized news segments to differentiate from mainstream coverage."
         }
       },
       "actionable_insights": {
-        "focus": "Increase production of entertainment and sports content, as these categories show strong engagement.",
-        "diversification": "Consider exploring music content as a growth area, leveraging popular artists and new releases.",
-        "collaborations": "Encourage collaborations between channels specializing in entertainment and gaming to expand audience reach."
+        "for_creators": [
+          "Leverage popular franchises and gaming releases to boost viewership.",
+          "Experiment with behind-the-scenes or commentary content to add value to existing trailers and sports highlights.",
+          "Consider live streaming sports events or providing real-time analysis to engage a dedicated viewer base."
+        ],
+        "for brands": [
+          "Collaborate with channels that focus on trending entertainment topics to reach engaged audiences.",
+          "Use sports highlights as a platform for dynamic advertising targeting sports enthusiasts."
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -579,7 +563,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 170564
+        "avg_views_per_video": 214868
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
