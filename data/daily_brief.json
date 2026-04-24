@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T15:33:58.855277",
+  "timestamp": "2026-04-24T18:23:19.639132",
   "date": "2026-04-24",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PhQ3yQjUgAc/hqdefault.jpg",
       "duration": "PT8M41S",
       "duration_seconds": 521,
-      "view_count": 1727601,
-      "like_count": 104474,
-      "comment_count": 11926,
+      "view_count": 1876451,
+      "like_count": 111207,
+      "comment_count": 12557,
       "category_id": "20",
       "tags": [
         "assassins creed",
@@ -66,9 +66,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 3183248,
-      "like_count": 141003,
-      "comment_count": 8005,
+      "view_count": 3378203,
+      "like_count": 143452,
+      "comment_count": 8130,
       "category_id": "1",
       "tags": [
         "2026",
@@ -111,9 +111,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/q791CHcJVSg/hqdefault.jpg",
       "duration": "PT15M13S",
       "duration_seconds": 913,
-      "view_count": 146929,
-      "like_count": 6917,
-      "comment_count": 297,
+      "view_count": 157635,
+      "like_count": 7304,
+      "comment_count": 307,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -156,9 +156,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 335470,
-      "like_count": 6885,
-      "comment_count": 592,
+      "view_count": 340490,
+      "like_count": 6951,
+      "comment_count": 595,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -201,9 +201,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z77-fgRP6mo/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 131023,
-      "like_count": 7136,
-      "comment_count": 683,
+      "view_count": 134510,
+      "like_count": 7244,
+      "comment_count": 688,
       "category_id": "20",
       "tags": [
         "call of duty",
@@ -242,9 +242,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PhQ3yQjUgAc/hqdefault.jpg",
       "duration": "PT8M41S",
       "duration_seconds": 521,
-      "view_count": 1727601,
-      "like_count": 104474,
-      "comment_count": 11926,
+      "view_count": 1876451,
+      "like_count": 111207,
+      "comment_count": 12557,
       "category_id": "20",
       "tags": [
         "assassins creed",
@@ -286,9 +286,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6IxPD-jNdwM/hqdefault.jpg",
       "duration": "PT1M4S",
       "duration_seconds": 64,
-      "view_count": 3183248,
-      "like_count": 141003,
-      "comment_count": 8005,
+      "view_count": 3378203,
+      "like_count": 143452,
+      "comment_count": 8130,
       "category_id": "1",
       "tags": [
         "2026",
@@ -331,9 +331,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/q791CHcJVSg/hqdefault.jpg",
       "duration": "PT15M13S",
       "duration_seconds": 913,
-      "view_count": 146929,
-      "like_count": 6917,
-      "comment_count": 297,
+      "view_count": 157635,
+      "like_count": 7304,
+      "comment_count": 307,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -376,9 +376,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wmNgE35gfzI/hqdefault.jpg",
       "duration": "PT1M12S",
       "duration_seconds": 72,
-      "view_count": 335470,
-      "like_count": 6885,
-      "comment_count": 592,
+      "view_count": 340490,
+      "like_count": 6951,
+      "comment_count": 595,
       "category_id": "1",
       "tags": [
         "Clayface",
@@ -421,9 +421,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z77-fgRP6mo/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 131023,
-      "like_count": 7136,
-      "comment_count": 683,
+      "view_count": 134510,
+      "like_count": 7244,
+      "comment_count": 688,
       "category_id": "20",
       "tags": [
         "call of duty",
@@ -453,66 +453,65 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "overview": {
-          "total_videos": 10,
-          "total_views": 5524271,
-          "average_views_per_video": 552427.1,
-          "categories": "Mixed/Unknown"
+      "overview": {
+        "total_videos": 10,
+        "total_views": 5887289,
+        "average_views_per_video": 588728.9
+      },
+      "content_trends": {
+        "gaming": {
+          "videos": [
+            "Assassin's Creed Black Flag Resynced: Official Game Overview Trailer",
+            "Totenreich Gameplay Trailer | Call of Duty: Black Ops 7 Zombies"
+          ],
+          "analysis": "Gaming content remains highly engaging, as shown by the inclusion of trailers for popular gaming franchises like Assassin's Creed and Call of Duty."
         },
-        "content_trends": {
-          "gaming": {
-            "videos": [
-              "Assassin's Creed Black Flag Resynced: Official Game Overview Trailer",
-              "Totenreich Gameplay Trailer | Call of Duty: Black Ops 7 Zombies"
-            ],
-            "insights": "Gaming content remains popular, especially trailers and teasers for well-known franchises like Assassin's Creed and Call of Duty. There's a consistent audience interest in new releases and updates."
-          },
-          "sports": {
-            "videos": [
-              "New York Yankees at Boston Red Sox",
-              "Carolina Hurricanes at Ottawa Senators"
-            ],
-            "insights": "Live sports events and highlights are trending, indicating a high viewer interest in real-time and recap sports content. This suggests potential for growth in sports analysis and highlight reels."
-          },
-          "entertainment": {
-            "videos": [
-              "Clayface | Official Teaser",
-              "CLAYFACE TRAILER BREAKDOWN! DC Easter Eggs & Details You Missed!",
-              "Clayface Teaser Trailer (2026)"
-            ],
-            "insights": "Entertainment content, particularly around superheroes and cinematic universe expansions (e.g., DC's Clayface), shows strong engagement. Teasers and easter egg breakdowns attract dedicated fanbases."
-          },
-          "news and commentary": {
-            "videos": [
-              "Gutfeld!"
-            ],
-            "insights": "News commentary shows like 'Gutfeld!' continue to engage viewers, indicating a steady interest in current events and political satire."
-          },
-          "esports": {
-            "videos": [
-              "Round 1",
-              "Day 1, Round 1"
-            ],
-            "insights": "The presence of esports or competitive gaming events suggests growing interest, presenting opportunities for content around tournament coverage and player interviews."
-          }
+        "sports": {
+          "videos": [
+            "New York Yankees at Boston Red Sox",
+            "Carolina Hurricanes at Ottawa Senators"
+          ],
+          "analysis": "Sports content, particularly live games or highlights, continues to capture a significant audience. There's an opportunity to create content around major sports events and rivalries."
         },
-        "creator_patterns": {
-          "single_video_channels": [
+        "entertainment": {
+          "videos": [
+            "Clayface | Official Teaser",
+            "CLAYFACE TRAILER BREAKDOWN! DC Easter Eggs & Details You Missed!",
+            "Clayface Teaser Trailer (2026)"
+          ],
+          "analysis": "Interest in upcoming films and trailers, especially around well-known franchises and characters like those from DC, is strong. Breakdown and analysis videos of trailers are also popular."
+        },
+        "talk_shows": {
+          "videos": [
+            "Gutfeld!"
+          ],
+          "analysis": "Talk shows like 'Gutfeld!' which likely feature commentary on current events or popular culture, maintain viewer interest. There's potential in creating engaging and topical talk show content."
+        }
+      },
+      "creator_patterns": {
+        "diversified_content": {
+          "channels": [
             "Assassin's Creed",
             "ESPN",
             "DC",
             "NFL Network",
             "New Rockstars"
           ],
-          "insights": "Top channels with single trending videos highlight the effectiveness of leveraging strong brand recognition and dedicated fan followings. Channels could benefit from diversifying content to maintain viewer engagement across multiple releases."
+          "analysis": "Channels that focus on specific niches or popular franchises (e.g., gaming, sports, comics) perform well. Each top channel contributes to a distinct category, indicating that focused content strategies are effective."
         },
-        "market_opportunities": {
-          "gaming": "Expand content around upcoming game releases, including gameplay walkthroughs and developer interviews.",
-          "sports": "Develop viewer engagement through interactive content such as fan polls, live discussions, and fantasy sports integration.",
-          "entertainment": "Capitalize on the hype of cinematic releases with speculative content, character backstories, and lore explanations.",
-          "news and commentary": "Increase focus on niche news topics or regional interests to cater to specific audience segments.",
-          "esports": "Create behind-the-scenes content and player profiles to deepen viewer connection and loyalty."
+        "engagement_strategy": {
+          "trend": "The popularity of trailer breakdowns and teaser analyses highlights audiences' desire for deeper, analytical content. Engaging with fans through detailed explorations of popular series or events can enhance viewer loyalty."
+        }
+      },
+      "market_opportunities": {
+        "gaming": {
+          "opportunity": "Develop partnerships with gaming franchises to create exclusive content, such as behind-the-scenes looks or developer interviews, which can capitalize on the strong interest in game trailers."
+        },
+        "sports": {
+          "opportunity": "Expand into creating pre-game, post-game, and detailed analysis content to engage sports fans beyond the live events themselves. Highlight lesser-covered sports or unique aspects of major games."
+        },
+        "film_analysis": {
+          "opportunity": "Leverage the interest in film teasers and breakdowns by creating series that explore the film industry's lesser-known aspects or predictions on future releases."
         }
       },
       "metadata_stats": {
@@ -521,7 +520,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 552427
+        "avg_views_per_video": 588728
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
