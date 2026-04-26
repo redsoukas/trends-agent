@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-26T15:21:27.517705",
+  "timestamp": "2026-04-26T18:23:22.696228",
   "date": "2026-04-26",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
-    "high_potential_videos": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 411879,
-      "like_count": 19202,
-      "comment_count": 903,
+      "view_count": 465473,
+      "like_count": 20911,
+      "comment_count": 966,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 94530,
-      "like_count": 2750,
-      "comment_count": 297,
+      "view_count": 114816,
+      "like_count": 2985,
+      "comment_count": 337,
       "category_id": "24",
       "tags": [
         "Star Trek: Strange New Worlds",
@@ -77,6 +77,23 @@
         "Anson Mount"
       ],
       "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
+    },
+    {
+      "video_id": "8VL2eLssZfo",
+      "title": "The White House Correspondents' Dinner",
+      "description": "John Berman and Laura Coates anchor CNN's live coverage of the 2026 White House Correspondents' Dinner.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-26T12:51:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8VL2eLssZfo/hqdefault.jpg",
+      "duration": "PT4H1M4S",
+      "duration_seconds": 14464,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8VL2eLssZfo"
     },
     {
       "video_id": "-UQyO4Rudgc",
@@ -113,6 +130,23 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
+      "video_id": "r9SHWA9bF0w",
+      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
+      "description": "",
+      "channel_title": "Medjy",
+      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
+      "published_at": "2026-04-26T04:04:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 61881,
+      "like_count": 6534,
+      "comment_count": 1368,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
+    },
+    {
       "video_id": "86SA7NeD9Fo",
       "title": "White House Correspondents' Dinner",
       "description": "Coverage of the 2026 White House Correspondents' Dinner anchored by Ayman Mohyeldin, Catherine Rampell and Elise Jordan.",
@@ -139,9 +173,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
       "duration": "PT19M46S",
       "duration_seconds": 1186,
-      "view_count": 10578168,
-      "like_count": 240414,
-      "comment_count": 8847,
+      "view_count": 11719647,
+      "like_count": 258642,
+      "comment_count": 9287,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
@@ -162,40 +196,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=amCnb5OkxQg"
-    },
-    {
-      "video_id": "dPmEUcg1YfE",
-      "title": "Detroit Pistons at Orlando Magic",
-      "description": "The Pistons face the Magic at Kia Center for Game 3 of the East first round. The series is tied after Detroit won Game 2. Cade Cunningham had 27 points, 11 assists, and six rebounds to end the Pistons' 11-game home playoff losing streak.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-26T05:33:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dPmEUcg1YfE/hqdefault.jpg",
-      "duration": "PT2H55M5S",
-      "duration_seconds": 10505,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
-    },
-    {
-      "video_id": "hExrZvmL0WY",
-      "title": "Third Round",
-      "description": "Round 3 of the 2026 LPGA's Championship takes place at Houston's Memorial Park Golf Course. The 2026 purse is $9 million. Saigo Mao, the reigning 2025 champion, aims to defend her title after winning in a record-setting five-way playoff last year.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-26T07:36:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hExrZvmL0WY/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=hExrZvmL0WY"
     }
   ],
   "videos_with_transcripts": [],
@@ -210,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 411879,
-      "like_count": 19202,
-      "comment_count": 903,
+      "view_count": 465473,
+      "like_count": 20911,
+      "comment_count": 966,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -255,9 +255,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 94530,
-      "like_count": 2750,
-      "comment_count": 297,
+      "view_count": 114816,
+      "like_count": 2985,
+      "comment_count": 337,
       "category_id": "24",
       "tags": [
         "Star Trek: Strange New Worlds",
@@ -265,6 +265,23 @@
         "Anson Mount"
       ],
       "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
+    },
+    {
+      "video_id": "8VL2eLssZfo",
+      "title": "The White House Correspondents' Dinner",
+      "description": "John Berman and Laura Coates anchor CNN's live coverage of the 2026 White House Correspondents' Dinner.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-04-26T12:51:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8VL2eLssZfo/hqdefault.jpg",
+      "duration": "PT4H1M4S",
+      "duration_seconds": 14464,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8VL2eLssZfo"
     },
     {
       "video_id": "-UQyO4Rudgc",
@@ -327,9 +344,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
       "duration": "PT19M46S",
       "duration_seconds": 1186,
-      "view_count": 10578168,
-      "like_count": 240414,
-      "comment_count": 8847,
+      "view_count": 11719647,
+      "like_count": 258642,
+      "comment_count": 9287,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
@@ -352,119 +369,63 @@
       "url": "https://www.youtube.com/watch?v=amCnb5OkxQg"
     },
     {
-      "video_id": "dPmEUcg1YfE",
-      "title": "Detroit Pistons at Orlando Magic",
-      "description": "The Pistons face the Magic at Kia Center for Game 3 of the East first round. The series is tied after Detroit won Game 2. Cade Cunningham had 27 points, 11 assists, and six rebounds to end the Pistons' 11-game home playoff losing streak.",
-      "channel_title": "NBCSN",
-      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
-      "published_at": "2026-04-26T05:33:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dPmEUcg1YfE/hqdefault.jpg",
-      "duration": "PT2H55M5S",
-      "duration_seconds": 10505,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "r9SHWA9bF0w",
+      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
+      "description": "",
+      "channel_title": "Medjy",
+      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
+      "published_at": "2026-04-26T04:04:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 61881,
+      "like_count": 6534,
+      "comment_count": 1368,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
-    },
-    {
-      "video_id": "hExrZvmL0WY",
-      "title": "Third Round",
-      "description": "Round 3 of the 2026 LPGA's Championship takes place at Houston's Memorial Park Golf Course. The 2026 purse is $9 million. Saigo Mao, the reigning 2025 champion, aims to defend her title after winning in a record-setting five-way playoff last year.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-26T07:36:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hExrZvmL0WY/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=hExrZvmL0WY"
+      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "genres": {
-          "entertainment": {
-            "description": "Includes trailers and teasers for upcoming shows and movies.",
-            "examples": [
-              "Spider-Noir",
-              "Star Trek: Strange New Worlds"
-            ],
-            "insights": "Trailers and teasers for upcoming series and movies are consistently popular, indicating a strong interest in entertainment content."
-          },
-          "news_politics": {
-            "description": "Coverage of political events and news commentary.",
-            "examples": [
-              "FOX News Saturday Night With Jimmy Failla",
-              "White House Correspondents' Dinner"
-            ],
-            "insights": "Political content remains popular, with established channels like FOX News maintaining a strong presence."
-          },
-          "sports": {
-            "description": "Live sports coverage and highlights.",
-            "examples": [
-              "SportsCenter",
-              "Pittsburgh Penguins at Philadelphia Flyers",
-              "Detroit Pistons at Orlando Magic"
-            ],
-            "insights": "Live sports and related commentary continue to attract significant viewership, suggesting a stable demand for sports content."
-          },
-          "challenges": {
-            "description": "Creative and competitive challenge videos.",
-            "examples": [
-              "1 Day vs 50,000 Day Build Challenge"
-            ],
-            "insights": "Challenge-based content is engaging and attracts viewers interested in creativity and competition."
-          }
+        "diverse_genres": {
+          "insight": "The trending videos cover a broad range of genres from entertainment, news, sports, to creative challenges.",
+          "actionable_insight": "Creators should explore a mix of content types to appeal to diverse audiences, specifically focusing on high-performing genres like entertainment trailers and news highlights."
+        },
+        "news_and_entertainment_dominance": {
+          "insight": "Videos related to news (FOX News, CNN) and entertainment (Prime Video, Paramount Plus) are prominent among the trending content.",
+          "actionable_insight": "Channels that combine timely news coverage with entertainment content may capture greater viewer interest."
+        },
+        "event-based content": {
+          "insight": "Event-based content such as the White House Correspondents' Dinner appears twice, indicating high viewer engagement.",
+          "actionable_insight": "Leveraging live events and providing unique angles or commentary can drive viewership and engagement."
         }
       },
       "creator_patterns": {
         "top_channels": {
-          "Prime Video": {
-            "video_count": 1,
-            "insights": "Prime Video leverages its platform to promote new content, utilizing YouTube's wide reach."
-          },
-          "FOX News": {
-            "video_count": 1,
-            "insights": "FOX News uses YouTube to extend its broadcast reach and engage with digital audiences."
-          },
-          "Paramount Plus": {
-            "video_count": 1,
-            "insights": "Paramount Plus promotes exclusive content like Star Trek teasers, targeting fan communities on YouTube."
-          },
-          "ESPN": {
-            "video_count": 1,
-            "insights": "ESPN's presence highlights its role as a leading source for sports content on digital platforms."
-          },
-          "TBS": {
-            "video_count": 1,
-            "insights": "TBS engages audiences with a mix of entertainment and sports, catering to diverse viewer interests."
-          }
+          "insight": "Prime Video, FOX News, and Paramount Plus are among the top channels with trending content.",
+          "actionable_insight": "Emerging creators should study the content strategies of these channels, focusing on quality production and timely releases."
+        },
+        "video frequency": {
+          "insight": "Each channel has only one video in the trending list, indicating a wide distribution of trending content across different creators.",
+          "actionable_insight": "Consistency and uniqueness in content can help smaller creators gain visibility alongside established channels."
         }
       },
       "market_opportunities": {
-        "content_creation": {
-          "insight": "Creating content that intersects popular categories, like sports-entertainment or news-comedy, can tap into multiple audience interests."
+        "untapped_categories": {
+          "insight": "The category metadata is unknown, suggesting an opportunity to explore underrepresented categories.",
+          "actionable_insight": "Creators can experiment with niche categories that are less saturated to discover new audience segments."
         },
-        "collaborative opportunities": {
-          "insight": "Partnerships between streaming services and news networks can create unique content offerings that attract crossover audiences."
+        "sports content potential": {
+          "insight": "Sports-related content like SportsCenter and specific games (e.g., Pittsburgh Penguins at Philadelphia Flyers) appear in the trending list.",
+          "actionable_insight": "Sports channels can capitalize on live game coverage and in-depth analyses to attract sports enthusiasts."
         },
-        "niche markets": {
-          "insight": "Expanding into less saturated genres, such as science-fiction or historical documentaries, could capture niche audiences seeking specialized content."
+        "creative challenges": {
+          "insight": "Creative challenges such as the '1 Day vs 50,000 Day Build Challenge' show potential for high engagement.",
+          "actionable_insight": "Developing innovative and interactive content formats can significantly boost viewer interaction and retention."
         }
-      },
-      "data_summary": {
-        "total_videos": 10,
-        "total_views": 11084577,
-        "average_views_per_video": 1108457.7,
-        "insight": "The high average view count per video indicates strong engagement across the board, suggesting that content is resonating well with audiences."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -472,7 +433,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1108457
+        "avg_views_per_video": 1236181
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
