@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-26T12:25:57.715542",
+  "timestamp": "2026-04-26T15:21:27.517705",
   "date": "2026-04-26",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 3,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 373668,
-      "like_count": 17353,
-      "comment_count": 792,
+      "view_count": 411879,
+      "like_count": 19202,
+      "comment_count": 903,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 81612,
-      "like_count": 2479,
-      "comment_count": 266,
+      "view_count": 94530,
+      "like_count": 2750,
+      "comment_count": 297,
       "category_id": "24",
       "tags": [
         "Star Trek: Strange New Worlds",
@@ -77,6 +77,23 @@
         "Anson Mount"
       ],
       "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
+    },
+    {
+      "video_id": "-UQyO4Rudgc",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-26T11:27:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-UQyO4Rudgc/hqdefault.jpg",
+      "duration": "PT1H49M11S",
+      "duration_seconds": 6551,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
     },
     {
       "video_id": "dR1HoN9sLqw",
@@ -96,72 +113,6 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
-      "video_id": "KChyOsjqmfM",
-      "title": "[Cover] ENHYPEN NI-KI - LIMBO (원곡 : keshi)",
-      "description": "#ENHYPEN 공식 채널 \n#ENHYPEN OFFICIAL CHANNEL\n\nOFFICIAL WEBSITE https://ENHYPEN.com\nENHYPEN Weverse https://www.weverse.io/enhypen\nOFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL\nOFFICIAL X (TWITTER) https://twitter.com/ENHYPEN\nENHYPEN X (TWITTER) https://twitter.com/ENHYPEN_members\nOFFICIAL JAPAN X (TWITTER) https://twitter.com/ENHYPEN_JP\nOFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN\nOFFICIAL INSTAGRAM https://www.instagram.com/enhypen\nOFFICIAL TIKTOK  https://www.tiktok.com/@enhypen\nOFFICIAL WEIBO https://weibo.com/ENHYPEN\nOFFICIAL BILIBILI https://space.bilibili.com/3493119035181246\nOFFICIAL DOUYIN https://v.douyin.com/TLfWnNVDBP8/",
-      "channel_title": "ENHYPEN",
-      "channel_id": "UCArLZtok93cO5R9RI4_Y5Jw",
-      "published_at": "2026-04-25T11:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KChyOsjqmfM/hqdefault.jpg",
-      "duration": "PT3M52S",
-      "duration_seconds": 232,
-      "view_count": 949499,
-      "like_count": 242009,
-      "comment_count": 27704,
-      "category_id": "24",
-      "tags": [
-        "BELIFTLAB",
-        "ENHYPEN",
-        "엔하이픈"
-      ],
-      "url": "https://www.youtube.com/watch?v=KChyOsjqmfM"
-    },
-    {
-      "video_id": "Dk3rfUC80DE",
-      "title": "FINAL FANTASY XIV: Evercold Teaser Trailer",
-      "description": "Warrior of Light─In shattered skies, wander not alone.\n\nPrepare for Evercold, the next chapter in the ever‑expanding world of FINAL FANTASY XIV, launching January 2027!\n\nVisit the Evercold special site:\nhttps://sqex.to/lTRLy\n\nComing to: PlayStation®5, PlayStation®4, Xbox Series X|S, Nintendo Switch™ 2, Windows®, Mac, and Steam®.\n\nX | https://twitter.com/ff_xiv_en\nInstagram | https://instagram.com/ffxiv/\nFacebook | https://facebook.com/FinalFantasyXIV/\nTwitch | https://twitch.tv/finalfantasyxiv\nBluesky | https://bsky.app/profile/en.finalfantasyxiv.com\n\n#FFXIV #FF14 #Evercold",
-      "channel_title": "FINAL FANTASY XIV",
-      "channel_id": "UCpx2BZg8ABgaDV50sGJtWAg",
-      "published_at": "2026-04-24T17:06:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dk3rfUC80DE/hqdefault.jpg",
-      "duration": "PT4M27S",
-      "duration_seconds": 267,
-      "view_count": 496949,
-      "like_count": 28067,
-      "comment_count": 0,
-      "category_id": "20",
-      "tags": [
-        "FF14",
-        "FFXIV",
-        "Final Fantasy XIV (Video Game)",
-        "ファイナルファンタジー",
-        "MMO",
-        "スクウェア・エニックス",
-        "スクエニ",
-        "SQUARE ENIX",
-        "漆黒のヴィランズ",
-        "Shadowbringers"
-      ],
-      "url": "https://www.youtube.com/watch?v=Dk3rfUC80DE"
-    },
-    {
-      "video_id": "EDtTgqJ3yeg",
-      "title": "Rounds 4-7",
-      "description": "NFL teams seek the remaining gems in the final four rounds of the 2026 NFL Draft. From Pittsburgh.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-26T06:13:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDtTgqJ3yeg/hqdefault.jpg",
-      "duration": "PT7H9M",
-      "duration_seconds": 25740,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EDtTgqJ3yeg"
-    },
-    {
       "video_id": "86SA7NeD9Fo",
       "title": "White House Correspondents' Dinner",
       "description": "Coverage of the 2026 White House Correspondents' Dinner anchored by Ayman Mohyeldin, Catherine Rampell and Elise Jordan.",
@@ -177,6 +128,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
+    },
+    {
+      "video_id": "Vo6QTBMdUfU",
+      "title": "1 Day vs 50,000 Day Build Challenge",
+      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-04-25T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
+      "duration": "PT19M46S",
+      "duration_seconds": 1186,
+      "view_count": 10578168,
+      "like_count": 240414,
+      "comment_count": 8847,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
     },
     {
       "video_id": "amCnb5OkxQg",
@@ -211,6 +179,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
+    },
+    {
+      "video_id": "hExrZvmL0WY",
+      "title": "Third Round",
+      "description": "Round 3 of the 2026 LPGA's Championship takes place at Houston's Memorial Park Golf Course. The 2026 purse is $9 million. Saigo Mao, the reigning 2025 champion, aims to defend her title after winning in a record-setting five-way playoff last year.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-26T07:36:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hExrZvmL0WY/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=hExrZvmL0WY"
     }
   ],
   "videos_with_transcripts": [],
@@ -225,9 +210,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 373668,
-      "like_count": 17353,
-      "comment_count": 792,
+      "view_count": 411879,
+      "like_count": 19202,
+      "comment_count": 903,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -270,9 +255,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
       "duration": "PT1M6S",
       "duration_seconds": 66,
-      "view_count": 81612,
-      "like_count": 2479,
-      "comment_count": 266,
+      "view_count": 94530,
+      "like_count": 2750,
+      "comment_count": 297,
       "category_id": "24",
       "tags": [
         "Star Trek: Strange New Worlds",
@@ -280,6 +265,23 @@
         "Anson Mount"
       ],
       "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
+    },
+    {
+      "video_id": "-UQyO4Rudgc",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-26T11:27:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-UQyO4Rudgc/hqdefault.jpg",
+      "duration": "PT1H49M11S",
+      "duration_seconds": 6551,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
     },
     {
       "video_id": "dR1HoN9sLqw",
@@ -299,51 +301,6 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
-      "video_id": "Dk3rfUC80DE",
-      "title": "FINAL FANTASY XIV: Evercold Teaser Trailer",
-      "description": "Warrior of Light─In shattered skies, wander not alone.\n\nPrepare for Evercold, the next chapter in the ever‑expanding world of FINAL FANTASY XIV, launching January 2027!\n\nVisit the Evercold special site:\nhttps://sqex.to/lTRLy\n\nComing to: PlayStation®5, PlayStation®4, Xbox Series X|S, Nintendo Switch™ 2, Windows®, Mac, and Steam®.\n\nX | https://twitter.com/ff_xiv_en\nInstagram | https://instagram.com/ffxiv/\nFacebook | https://facebook.com/FinalFantasyXIV/\nTwitch | https://twitch.tv/finalfantasyxiv\nBluesky | https://bsky.app/profile/en.finalfantasyxiv.com\n\n#FFXIV #FF14 #Evercold",
-      "channel_title": "FINAL FANTASY XIV",
-      "channel_id": "UCpx2BZg8ABgaDV50sGJtWAg",
-      "published_at": "2026-04-24T17:06:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dk3rfUC80DE/hqdefault.jpg",
-      "duration": "PT4M27S",
-      "duration_seconds": 267,
-      "view_count": 496949,
-      "like_count": 28067,
-      "comment_count": 0,
-      "category_id": "20",
-      "tags": [
-        "FF14",
-        "FFXIV",
-        "Final Fantasy XIV (Video Game)",
-        "ファイナルファンタジー",
-        "MMO",
-        "スクウェア・エニックス",
-        "スクエニ",
-        "SQUARE ENIX",
-        "漆黒のヴィランズ",
-        "Shadowbringers"
-      ],
-      "url": "https://www.youtube.com/watch?v=Dk3rfUC80DE"
-    },
-    {
-      "video_id": "EDtTgqJ3yeg",
-      "title": "Rounds 4-7",
-      "description": "NFL teams seek the remaining gems in the final four rounds of the 2026 NFL Draft. From Pittsburgh.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-26T06:13:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDtTgqJ3yeg/hqdefault.jpg",
-      "duration": "PT7H9M",
-      "duration_seconds": 25740,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EDtTgqJ3yeg"
-    },
-    {
       "video_id": "86SA7NeD9Fo",
       "title": "White House Correspondents' Dinner",
       "description": "Coverage of the 2026 White House Correspondents' Dinner anchored by Ayman Mohyeldin, Catherine Rampell and Elise Jordan.",
@@ -359,6 +316,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
+    },
+    {
+      "video_id": "Vo6QTBMdUfU",
+      "title": "1 Day vs 50,000 Day Build Challenge",
+      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-04-25T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
+      "duration": "PT19M46S",
+      "duration_seconds": 1186,
+      "view_count": 10578168,
+      "like_count": 240414,
+      "comment_count": 8847,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
     },
     {
       "video_id": "amCnb5OkxQg",
@@ -395,66 +369,102 @@
       "url": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
     },
     {
-      "video_id": "KChyOsjqmfM",
-      "title": "[Cover] ENHYPEN NI-KI - LIMBO (원곡 : keshi)",
-      "description": "#ENHYPEN 공식 채널 \n#ENHYPEN OFFICIAL CHANNEL\n\nOFFICIAL WEBSITE https://ENHYPEN.com\nENHYPEN Weverse https://www.weverse.io/enhypen\nOFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL\nOFFICIAL X (TWITTER) https://twitter.com/ENHYPEN\nENHYPEN X (TWITTER) https://twitter.com/ENHYPEN_members\nOFFICIAL JAPAN X (TWITTER) https://twitter.com/ENHYPEN_JP\nOFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN\nOFFICIAL INSTAGRAM https://www.instagram.com/enhypen\nOFFICIAL TIKTOK  https://www.tiktok.com/@enhypen\nOFFICIAL WEIBO https://weibo.com/ENHYPEN\nOFFICIAL BILIBILI https://space.bilibili.com/3493119035181246\nOFFICIAL DOUYIN https://v.douyin.com/TLfWnNVDBP8/",
-      "channel_title": "ENHYPEN",
-      "channel_id": "UCArLZtok93cO5R9RI4_Y5Jw",
-      "published_at": "2026-04-25T11:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KChyOsjqmfM/hqdefault.jpg",
-      "duration": "PT3M52S",
-      "duration_seconds": 232,
-      "view_count": 949499,
-      "like_count": 242009,
-      "comment_count": 27704,
+      "video_id": "hExrZvmL0WY",
+      "title": "Third Round",
+      "description": "Round 3 of the 2026 LPGA's Championship takes place at Houston's Memorial Park Golf Course. The 2026 purse is $9 million. Saigo Mao, the reigning 2025 champion, aims to defend her title after winning in a record-setting five-way playoff last year.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-26T07:36:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hExrZvmL0WY/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
-      "tags": [
-        "BELIFTLAB",
-        "ENHYPEN",
-        "엔하이픈"
-      ],
-      "url": "https://www.youtube.com/watch?v=KChyOsjqmfM"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=hExrZvmL0WY"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "diverse_genres": [
-          "The trending list includes a variety of content types, such as movie trailers (e.g., 'Spider-Noir', 'FINAL FANTASY XIV: Evercold Teaser'), sports events (e.g., 'Pittsburgh Penguins at Philadelphia Flyers', 'Detroit Pistons at Orlando Magic'), music covers (e.g., '[Cover] ENHYPEN NI-KI - LIMBO'), and news/political content (e.g., 'FOX News Saturday Night With Jimmy Failla', 'White House Correspondents' Dinner').",
-          "This diversity suggests a wide range of audience interests on YouTube, spanning entertainment, sports, music, and political content."
-        ]
+        "genres": {
+          "entertainment": {
+            "description": "Includes trailers and teasers for upcoming shows and movies.",
+            "examples": [
+              "Spider-Noir",
+              "Star Trek: Strange New Worlds"
+            ],
+            "insights": "Trailers and teasers for upcoming series and movies are consistently popular, indicating a strong interest in entertainment content."
+          },
+          "news_politics": {
+            "description": "Coverage of political events and news commentary.",
+            "examples": [
+              "FOX News Saturday Night With Jimmy Failla",
+              "White House Correspondents' Dinner"
+            ],
+            "insights": "Political content remains popular, with established channels like FOX News maintaining a strong presence."
+          },
+          "sports": {
+            "description": "Live sports coverage and highlights.",
+            "examples": [
+              "SportsCenter",
+              "Pittsburgh Penguins at Philadelphia Flyers",
+              "Detroit Pistons at Orlando Magic"
+            ],
+            "insights": "Live sports and related commentary continue to attract significant viewership, suggesting a stable demand for sports content."
+          },
+          "challenges": {
+            "description": "Creative and competitive challenge videos.",
+            "examples": [
+              "1 Day vs 50,000 Day Build Challenge"
+            ],
+            "insights": "Challenge-based content is engaging and attracts viewers interested in creativity and competition."
+          }
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Prime Video, FOX News, and Paramount Plus are seen as top channels, each contributing to the trending list with high-profile content such as movie trailers and news segments.",
-          "The presence of established entertainment brands and news channels highlights the importance of leveraging existing large audiences to achieve trending status."
-        ],
-        "independent_creators": [
-          "ENHYPEN, a music group, represents the influence of K-pop and music covers on YouTube's trending algorithm, emphasizing the role of global pop culture and fan-driven content in achieving visibility."
-        ]
+        "top_channels": {
+          "Prime Video": {
+            "video_count": 1,
+            "insights": "Prime Video leverages its platform to promote new content, utilizing YouTube's wide reach."
+          },
+          "FOX News": {
+            "video_count": 1,
+            "insights": "FOX News uses YouTube to extend its broadcast reach and engage with digital audiences."
+          },
+          "Paramount Plus": {
+            "video_count": 1,
+            "insights": "Paramount Plus promotes exclusive content like Star Trek teasers, targeting fan communities on YouTube."
+          },
+          "ESPN": {
+            "video_count": 1,
+            "insights": "ESPN's presence highlights its role as a leading source for sports content on digital platforms."
+          },
+          "TBS": {
+            "video_count": 1,
+            "insights": "TBS engages audiences with a mix of entertainment and sports, catering to diverse viewer interests."
+          }
+        }
       },
       "market_opportunities": {
-        "cross-promotional_content": [
-          "Given the mix of trailers and teasers for upcoming series and games, there is a significant opportunity for cross-promotional strategies. This involves partnering with popular channels to release exclusive content or behind-the-scenes footage to boost engagement."
-        ],
-        "sports_and_event_highlights": [
-          "Live sports events and their highlights continue to be a major draw, indicating potential for channels to create dedicated sports content or engage in live streaming of events to attract viewers."
-        ],
-        "niche_interest_targeting": [
-          "The presence of niche content like 'White House Correspondents' Dinner' suggests opportunities for channels to target specific audience segments interested in political or event-based content."
-        ]
+        "content_creation": {
+          "insight": "Creating content that intersects popular categories, like sports-entertainment or news-comedy, can tap into multiple audience interests."
+        },
+        "collaborative opportunities": {
+          "insight": "Partnerships between streaming services and news networks can create unique content offerings that attract crossover audiences."
+        },
+        "niche markets": {
+          "insight": "Expanding into less saturated genres, such as science-fiction or historical documentaries, could capture niche audiences seeking specialized content."
+        }
       },
-      "practical_insights": {
-        "content_diversification": [
-          "Channels should consider diversifying their content offerings to include a mix of entertainment, news, sports, and music to appeal to a broader audience base."
-        ],
-        "collaborations_and_partnerships": [
-          "Brands and creators could benefit from partnerships with trending channels to leverage their audience and increase reach. This includes collaborations for exclusive content drops or joint promotions."
-        ],
-        "timeliness_and_relevance": [
-          "Capitalize on current events or upcoming releases to create timely content that taps into existing viewer interests, thereby increasing the likelihood of trending."
-        ]
+      "data_summary": {
+        "total_videos": 10,
+        "total_views": 11084577,
+        "average_views_per_video": 1108457.7,
+        "insight": "The high average view count per video indicates strong engagement across the board, suggesting that content is resonating well with audiences."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -462,7 +472,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 190172
+        "avg_views_per_video": 1108457
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
