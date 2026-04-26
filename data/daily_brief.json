@@ -1,17 +1,62 @@
 {
-  "timestamp": "2026-04-26T00:59:03.924681",
+  "timestamp": "2026-04-26T04:15:38.091206",
   "date": "2026-04-26",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "DfowFyDxUXo",
+      "title": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
+      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video\nhttps://youtu.be/DfowFyDxUXo\n \nPrime Video\nhttps://www.youtub",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-04-26T00:27:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 100212,
+      "like_count": 8251,
+      "comment_count": 439,
+      "category_id": "24",
+      "tags": [
+        "spider noir official trailer",
+        "spider noir trailer",
+        "spider noir prime video",
+        "prime video spider noir",
+        "superhero series",
+        "superhero show",
+        "prime video",
+        "prime",
+        "superhero tv series",
+        "spider noir"
+      ],
+      "url": "https://www.youtube.com/watch?v=DfowFyDxUXo"
+    },
+    {
+      "video_id": "Vo6QTBMdUfU",
+      "title": "1 Day vs 50,000 Day Build Challenge",
+      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-04-25T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
+      "duration": "PT19M46S",
+      "duration_seconds": 1186,
+      "view_count": 6341677,
+      "like_count": 170018,
+      "comment_count": 7129,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+    },
     {
       "video_id": "Dk3rfUC80DE",
       "title": "FINAL FANTASY XIV: Evercold Teaser Trailer",
@@ -22,8 +67,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Dk3rfUC80DE/hqdefault.jpg",
       "duration": "PT4M27S",
       "duration_seconds": 267,
-      "view_count": 461958,
-      "like_count": 27093,
+      "view_count": 475167,
+      "like_count": 27479,
       "comment_count": 0,
       "category_id": "20",
       "tags": [
@@ -58,38 +103,42 @@
       "url": "https://www.youtube.com/watch?v=wlfZXljd67c"
     },
     {
-      "video_id": "Vo6QTBMdUfU",
-      "title": "1 Day vs 50,000 Day Build Challenge",
-      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-04-25T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
-      "duration": "PT19M46S",
-      "duration_seconds": 1186,
-      "view_count": 4844557,
-      "like_count": 143415,
-      "comment_count": 6481,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+      "video_id": "7FaPm2QTy5w",
+      "title": "Star Trek: Strange New Worlds | Season 4 Official Teaser | Paramount+ (CCXP Mexico 2026)",
+      "description": "Star Trek: Strange New Worlds season 4 premieres July 23 only on Paramount+. \n\nThe crew of the U.S.S. Enterprise, led by Captain Christopher Pike, embarks on a series of thrilling and emotional adventures across the stars. On their journey, they will battle inner demons and external threats, encounter colorful new characters, reunite with familiar faces and confront terrifying aliens. Through it all, they strive to embrace a bright, hopeful future.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X: https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME® including exclusive originals, live sports, and news. \n\nPlus, you can count on P",
+      "channel_title": "Paramount Plus",
+      "channel_id": "UCrRttZIypNTA1Mrfwo745Sg",
+      "published_at": "2026-04-25T23:07:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
+      "duration": "PT1M6S",
+      "duration_seconds": 66,
+      "view_count": 33530,
+      "like_count": 1488,
+      "comment_count": 155,
+      "category_id": "24",
+      "tags": [
+        "Star Trek: Strange New Worlds",
+        "Star Trek",
+        "Anson Mount"
+      ],
+      "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
     },
     {
-      "video_id": "cXBq30EhSUU",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-25T20:03:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cXBq30EhSUU/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "KkwC0WmW-P0",
+      "title": "General Tire 200 at Talladega Superspeedway",
+      "description": "From Talladega Superspeedway in Talladega, Ala.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-26T00:52:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KkwC0WmW-P0/hqdefault.jpg",
+      "duration": "PT2H35M10S",
+      "duration_seconds": 9310,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cXBq30EhSUU"
+      "url": "https://www.youtube.com/watch?v=KkwC0WmW-P0"
     },
     {
       "video_id": "KChyOsjqmfM",
@@ -101,9 +150,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KChyOsjqmfM/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 707924,
-      "like_count": 209329,
-      "comment_count": 25374,
+      "view_count": 779167,
+      "like_count": 221620,
+      "comment_count": 26195,
       "category_id": "24",
       "tags": [
         "BELIFTLAB",
@@ -113,6 +162,23 @@
       "url": "https://www.youtube.com/watch?v=KChyOsjqmfM"
     },
     {
+      "video_id": "m7PV6dOIHPc",
+      "title": "Fox Report With Jon Scott",
+      "description": "The latest headlines, news and analysis.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-26T03:09:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m7PV6dOIHPc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=m7PV6dOIHPc"
+    },
+    {
       "video_id": "Zhv8Vz3ucWw",
       "title": "NFL Draft Kickoff",
       "description": "The NFL Network crew gets fans ready for all the action of the 2026 NFL Draft in Pittsburgh.",
@@ -145,66 +211,55 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JZFeM7a7rts"
-    },
-    {
-      "video_id": "_2jkon0w2zE",
-      "title": "I Found the SEA EATER In Minecraft…",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://preston.gg/FireMerchPlayz\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://preston.gg/TikTokPlayz\n☛ Instagram -  https://preston.gg/InstagramPlayz\n☛ Twitter -  https://preston.gg/XTwitterPlayz\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://preston.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-04-25T14:15:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_2jkon0w2zE/hqdefault.jpg",
-      "duration": "PT19M39S",
-      "duration_seconds": 1179,
-      "view_count": 398736,
-      "like_count": 10039,
-      "comment_count": 557,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
-      ],
-      "url": "https://www.youtube.com/watch?v=_2jkon0w2zE"
-    },
-    {
-      "video_id": "14Adm06VEBE",
-      "title": "ROBLOX KICK A LUCKY BLOCK!",
-      "description": "Today I kicked luckyblocks in Roblox! Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects.",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-04-25T11:09:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/14Adm06VEBE/hqdefault.jpg",
-      "duration": "PT25M16S",
-      "duration_seconds": 1516,
-      "view_count": 775776,
-      "like_count": 11545,
-      "comment_count": 2462,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=14Adm06VEBE"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
+    {
+      "video_id": "DfowFyDxUXo",
+      "title": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
+      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video\nhttps://youtu.be/DfowFyDxUXo\n \nPrime Video\nhttps://www.youtub",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-04-26T00:27:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 100212,
+      "like_count": 8251,
+      "comment_count": 439,
+      "category_id": "24",
+      "tags": [
+        "spider noir official trailer",
+        "spider noir trailer",
+        "spider noir prime video",
+        "prime video spider noir",
+        "superhero series",
+        "superhero show",
+        "prime video",
+        "prime",
+        "superhero tv series",
+        "spider noir"
+      ],
+      "url": "https://www.youtube.com/watch?v=DfowFyDxUXo"
+    },
+    {
+      "video_id": "Vo6QTBMdUfU",
+      "title": "1 Day vs 50,000 Day Build Challenge",
+      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-04-25T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
+      "duration": "PT19M46S",
+      "duration_seconds": 1186,
+      "view_count": 6341677,
+      "like_count": 170018,
+      "comment_count": 7129,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+    },
     {
       "video_id": "Dk3rfUC80DE",
       "title": "FINAL FANTASY XIV: Evercold Teaser Trailer",
@@ -215,8 +270,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Dk3rfUC80DE/hqdefault.jpg",
       "duration": "PT4M27S",
       "duration_seconds": 267,
-      "view_count": 461958,
-      "like_count": 27093,
+      "view_count": 475167,
+      "like_count": 27479,
       "comment_count": 0,
       "category_id": "20",
       "tags": [
@@ -251,30 +306,51 @@
       "url": "https://www.youtube.com/watch?v=wlfZXljd67c"
     },
     {
-      "video_id": "Vo6QTBMdUfU",
-      "title": "1 Day vs 50,000 Day Build Challenge",
-      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-04-25T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
-      "duration": "PT19M46S",
-      "duration_seconds": 1186,
-      "view_count": 4844557,
-      "like_count": 143415,
-      "comment_count": 6481,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+      "video_id": "7FaPm2QTy5w",
+      "title": "Star Trek: Strange New Worlds | Season 4 Official Teaser | Paramount+ (CCXP Mexico 2026)",
+      "description": "Star Trek: Strange New Worlds season 4 premieres July 23 only on Paramount+. \n\nThe crew of the U.S.S. Enterprise, led by Captain Christopher Pike, embarks on a series of thrilling and emotional adventures across the stars. On their journey, they will battle inner demons and external threats, encounter colorful new characters, reunite with familiar faces and confront terrifying aliens. Through it all, they strive to embrace a bright, hopeful future.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X: https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME® including exclusive originals, live sports, and news. \n\nPlus, you can count on P",
+      "channel_title": "Paramount Plus",
+      "channel_id": "UCrRttZIypNTA1Mrfwo745Sg",
+      "published_at": "2026-04-25T23:07:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7FaPm2QTy5w/hqdefault.jpg",
+      "duration": "PT1M6S",
+      "duration_seconds": 66,
+      "view_count": 33530,
+      "like_count": 1488,
+      "comment_count": 155,
+      "category_id": "24",
+      "tags": [
+        "Star Trek: Strange New Worlds",
+        "Star Trek",
+        "Anson Mount"
+      ],
+      "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w"
     },
     {
-      "video_id": "cXBq30EhSUU",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "video_id": "KkwC0WmW-P0",
+      "title": "General Tire 200 at Talladega Superspeedway",
+      "description": "From Talladega Superspeedway in Talladega, Ala.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-04-26T00:52:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KkwC0WmW-P0/hqdefault.jpg",
+      "duration": "PT2H35M10S",
+      "duration_seconds": 9310,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KkwC0WmW-P0"
+    },
+    {
+      "video_id": "m7PV6dOIHPc",
+      "title": "Fox Report With Jon Scott",
+      "description": "The latest headlines, news and analysis.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-25T20:03:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cXBq30EhSUU/hqdefault.jpg",
+      "published_at": "2026-04-26T03:09:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m7PV6dOIHPc/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -282,7 +358,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=cXBq30EhSUU"
+      "url": "https://www.youtube.com/watch?v=m7PV6dOIHPc"
     },
     {
       "video_id": "Zhv8Vz3ucWw",
@@ -319,62 +395,6 @@
       "url": "https://www.youtube.com/watch?v=JZFeM7a7rts"
     },
     {
-      "video_id": "_2jkon0w2zE",
-      "title": "I Found the SEA EATER In Minecraft…",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://preston.gg/FireMerchPlayz\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://preston.gg/TikTokPlayz\n☛ Instagram -  https://preston.gg/InstagramPlayz\n☛ Twitter -  https://preston.gg/XTwitterPlayz\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://preston.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-04-25T14:15:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_2jkon0w2zE/hqdefault.jpg",
-      "duration": "PT19M39S",
-      "duration_seconds": 1179,
-      "view_count": 398736,
-      "like_count": 10039,
-      "comment_count": 557,
-      "category_id": "20",
-      "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
-      ],
-      "url": "https://www.youtube.com/watch?v=_2jkon0w2zE"
-    },
-    {
-      "video_id": "14Adm06VEBE",
-      "title": "ROBLOX KICK A LUCKY BLOCK!",
-      "description": "Today I kicked luckyblocks in Roblox! Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects.",
-      "channel_title": "Foltyn",
-      "channel_id": "UCRkuUgtDAL4XSU5jB40J_wA",
-      "published_at": "2026-04-25T11:09:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/14Adm06VEBE/hqdefault.jpg",
-      "duration": "PT25M16S",
-      "duration_seconds": 1516,
-      "view_count": 775776,
-      "like_count": 11545,
-      "comment_count": 2462,
-      "category_id": "20",
-      "tags": [
-        "foltyn",
-        "foltyn roblox",
-        "roblox",
-        "roblox foltyn",
-        "foltyn family",
-        "funny",
-        "no swearing",
-        "foltyn family roblox",
-        "roblox foltyn family",
-        "blade ball"
-      ],
-      "url": "https://www.youtube.com/watch?v=14Adm06VEBE"
-    },
-    {
       "video_id": "KChyOsjqmfM",
       "title": "[Cover] ENHYPEN NI-KI - LIMBO (원곡 : keshi)",
       "description": "#ENHYPEN 공식 채널 \n#ENHYPEN OFFICIAL CHANNEL\n\nOFFICIAL WEBSITE https://ENHYPEN.com\nENHYPEN Weverse https://www.weverse.io/enhypen\nOFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL\nOFFICIAL X (TWITTER) https://twitter.com/ENHYPEN\nENHYPEN X (TWITTER) https://twitter.com/ENHYPEN_members\nOFFICIAL JAPAN X (TWITTER) https://twitter.com/ENHYPEN_JP\nOFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN\nOFFICIAL INSTAGRAM https://www.instagram.com/enhypen\nOFFICIAL TIKTOK  https://www.tiktok.com/@enhypen\nOFFICIAL WEIBO https://weibo.com/ENHYPEN\nOFFICIAL BILIBILI https://space.bilibili.com/3493119035181246\nOFFICIAL DOUYIN https://v.douyin.com/TLfWnNVDBP8/",
@@ -384,9 +404,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KChyOsjqmfM/hqdefault.jpg",
       "duration": "PT3M52S",
       "duration_seconds": 232,
-      "view_count": 707924,
-      "like_count": 209329,
-      "comment_count": 25374,
+      "view_count": 779167,
+      "like_count": 221620,
+      "comment_count": 26195,
       "category_id": "24",
       "tags": [
         "BELIFTLAB",
@@ -400,56 +420,100 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
+        "summary": "The trending patterns on YouTube indicate a diverse range of interests among viewers, encompassing entertainment, gaming, sports, and music.",
+        "entertainment": {
+          "summary": "Entertainment content, including trailers and teasers, is a significant driver of views.",
+          "data": {
+            "total_videos": 3,
+            "titles": [
+              "Spider-Noir - Authentic Black & White Trailer | Prime Video",
+              "FINAL FANTASY XIV: Evercold Teaser Trailer",
+              "Star Trek: Strange New Worlds | Season 4 Official Teaser | Paramount+"
+            ],
+            "insights": {
+              "high_engagement": "Trailers and teasers consistently attract high engagement due to anticipation and fan base excitement.",
+              "visual_style": "Unique visual styles, such as 'Authentic Black & White,' can differentiate content."
+            }
+          }
+        },
         "gaming": {
-          "total_videos": 3,
-          "video_titles": [
-            "FINAL FANTASY XIV: Evercold Teaser Trailer",
-            "1 Day vs 50,000 Day Build Challenge",
-            "I Found the SEA EATER In Minecraft…"
-          ],
-          "insights": "Gaming continues to dominate YouTube trends with a strong presence. Teaser trailers, build challenges, and unique gameplay experiences are engaging audiences. The inclusion of both popular franchises like FINAL FANTASY and user-generated content in Minecraft indicates a diverse interest within the gaming community."
+          "summary": "Gaming content continues to be popular, particularly challenges and teaser trailers.",
+          "data": {
+            "total_videos": 2,
+            "titles": [
+              "1 Day vs 50,000 Day Build Challenge",
+              "FINAL FANTASY XIV: Evercold Teaser Trailer"
+            ],
+            "insights": {
+              "challenge_content": "Challenge videos, like build challenges, engage audiences through competitive and creative content.",
+              "MMO_hype": "Teaser trailers for popular MMOs like FINAL FANTASY XIV generate buzz and anticipation."
+            }
+          }
         },
         "sports": {
-          "total_videos": 2,
-          "video_titles": [
-            "NFL Draft Kickoff",
-            "Tampa Bay Lightning at Montreal Canadiens"
-          ],
-          "insights": "Sports content remains a significant interest area, with both live events and sports analysis drawing viewers. The NFL Draft and NHL games indicate that event-driven sports content is highly engaging."
+          "summary": "Sports content is diverse, covering events and analyses.",
+          "data": {
+            "total_videos": 3,
+            "titles": [
+              "General Tire 200 at Talladega Superspeedway",
+              "NFL Draft Kickoff",
+              "Tampa Bay Lightning at Montreal Canadiens"
+            ],
+            "insights": {
+              "event_coverage": "Live coverage of sporting events attracts viewers interested in real-time updates.",
+              "seasonal_interest": "Content related to drafts and seasonal games sees spikes in interest during relevant times."
+            }
+          }
         },
         "music": {
-          "total_videos": 1,
-          "video_title": "[Cover] ENHYPEN NI-KI - LIMBO (원곡 : keshi)",
-          "insights": "Music covers, especially by popular artists or influencers, continue to attract views. This suggests opportunities for emerging artists to gain visibility through cover performances."
-        },
-        "news": {
-          "total_videos": 1,
-          "video_title": "Fox & Friends Weekend",
-          "insights": "News-related content, particularly from established networks, remains relevant. This provides opportunities for creators to develop content that offers unique perspectives or in-depth analysis."
-        },
-        "miscellaneous": {
-          "total_videos": 1,
-          "video_title": "ROBLOX KICK A LUCKY BLOCK!",
-          "insights": "Roblox content is popular, suggesting a continued interest in user-generated content platforms. This indicates a trend towards interactive and community-driven experiences."
+          "summary": "Music content, including covers, remains a staple on YouTube.",
+          "data": {
+            "total_videos": 1,
+            "titles": [
+              "[Cover] ENHYPEN NI-KI - LIMBO (원곡 : keshi)"
+            ],
+            "insights": {
+              "fan_engagement": "Covers by popular artists or influencers can leverage existing fan bases for high viewership.",
+              "cross-cultural_appeal": "K-pop and cross-cultural music covers attract diverse audiences."
+            }
+          }
         }
       },
       "creator_patterns": {
-        "diverse_channels": "Top channels represent a variety of interests, from gaming (MrBeast Gaming) to sports (ESPN) and music (ENHYPEN), indicating that successful channels often focus on a specific niche.",
-        "multi-category_engagement": "Channels like FINAL FANTASY XIV and MrBeast Gaming are engaging audiences across multiple categories, tapping into both gaming and entertainment sectors."
+        "summary": "Top channels represent a mix of established brands and popular content creators.",
+        "data": {
+          "total_channels": 5,
+          "channels": [
+            "Prime Video",
+            "MrBeast Gaming",
+            "FINAL FANTASY XIV",
+            "ESPN",
+            "Paramount Plus"
+          ],
+          "insights": {
+            "brand_leverage": "Brands like Prime Video and Paramount Plus use trailers to leverage their existing IP and audience base.",
+            "creator_influence": "Influencers and creators like MrBeast Gaming capitalize on challenges and interactive content to drive engagement."
+          }
+        }
       },
       "market_opportunities": {
-        "gaming": "Develop content around upcoming game releases, unique gameplay experiences, and community challenges to capitalize on gaming's popularity.",
-        "sports": "Create content that provides deeper insights or fan interactions around live sports events to engage audiences further.",
-        "music": "Encourage collaborations between popular influencers and emerging artists for cover songs to leverage existing fan bases.",
-        "news": "Focus on niche or underrepresented news topics to attract audiences seeking alternative perspectives."
+        "trends_to_capitalize": {
+          "unique_visuals": "Develop content with unique visuals or storytelling techniques to stand out.",
+          "interactive_challenges": "Create interactive or participatory content to engage viewers actively.",
+          "event_timing": "Align content releases with relevant events or seasonal interests to maximize viewership."
+        },
+        "audience_engagement": {
+          "diversified_content": "Offer a mix of content genres to capture diverse audience interests.",
+          "community_building": "Foster community engagement through comments, polls, and real-time interactions."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 798772
+        "avg_views_per_video": 772975
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
