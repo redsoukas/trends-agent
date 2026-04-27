@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-27T12:45:44.758647",
+  "timestamp": "2026-04-27T15:41:46.003963",
   "date": "2026-04-27",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 2,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 239910,
-      "like_count": 12750,
-      "comment_count": 1405,
+      "view_count": 267800,
+      "like_count": 13673,
+      "comment_count": 1540,
       "category_id": "20",
       "tags": [
         "Action",
@@ -359,9 +359,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 239910,
-      "like_count": 12750,
-      "comment_count": 1405,
+      "view_count": 267800,
+      "like_count": 13673,
+      "comment_count": 1540,
       "category_id": "20",
       "tags": [
         "Action",
@@ -381,67 +381,94 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 267800,
+        "average_views_per_video": 26780
+      },
       "content_trends": {
-        "categories": [
-          "Sports",
-          "News",
-          "Gaming",
-          "Entertainment"
-        ],
-        "analysis": {
-          "sports": {
-            "description": "A significant portion of the trending videos are sports-related, including live games and sports events highlights.",
-            "insights": [
-              "The presence of multiple sports games (e.g., NBA, NHL, MLB) suggests a high interest in live sports events.",
-              "Sports content appears to be a consistent performer, likely due to its real-time appeal and dedicated fan bases."
-            ]
-          },
-          "news_and_politics": {
-            "description": "News-related content, including political commentary and events like the White House Correspondents' Dinner, is trending.",
-            "insights": [
-              "Current events and political commentary have a strong viewership, indicating an audience looking for timely information.",
-              "Channels like FOX News and CNN are leveraging significant events to drive traffic."
-            ]
-          },
-          "gaming": {
-            "description": "Gaming content, exemplified by the 'Alien: Isolation' trailer, remains popular.",
-            "insights": [
-              "Teaser trailers and game-related content are effective in capturing attention, indicating a robust gaming community.",
-              "IGN, as a gaming channel, shows potential for further engagement with exclusive gaming content."
-            ]
-          }
+        "sports": {
+          "video_count": 4,
+          "examples": [
+            "San Antonio Spurs at Portland Trail Blazers",
+            "Colorado Avalanche at Los Angeles Kings",
+            "Zurich Classic of New Orleans, Final Round",
+            "Los Angeles Angels at Kansas City Royals"
+          ],
+          "estimated_views": 107120,
+          "percentage_of_total_views": 40
+        },
+        "entertainment": {
+          "video_count": 2,
+          "examples": [
+            "Alien: Isolation - Official Sequel Teaser Trailer",
+            "Ben vs. Bats"
+          ],
+          "estimated_views": 53560,
+          "percentage_of_total_views": 20
+        },
+        "news_and_politics": {
+          "video_count": 2,
+          "examples": [
+            "Sunday Night in America With Trey Gowdy",
+            "The White House Correspondents' Dinner"
+          ],
+          "estimated_views": 53560,
+          "percentage_of_total_views": 20
+        },
+        "special_events": {
+          "video_count": 2,
+          "examples": [
+            "Tell All: Part 1",
+            "4-Wide Nationals"
+          ],
+          "estimated_views": 53560,
+          "percentage_of_total_views": 20
         }
       },
       "creator_patterns": {
-        "diverse_sources": {
-          "description": "Content is being created by a variety of channels, each focusing on different niches.",
-          "insights": [
-            "Top channels like IGN, ESPN, FOX News, TNT, and CNN each contribute a unique video, suggesting a broad audience interest across categories.",
-            "Opportunities exist for creators to partner with these established channels for co-branded content."
-          ]
-        }
+        "top_channels": [
+          {
+            "channel_name": "IGN",
+            "video_count": 1,
+            "focus": "Gaming/Entertainment"
+          },
+          {
+            "channel_name": "ESPN",
+            "video_count": 1,
+            "focus": "Sports"
+          },
+          {
+            "channel_name": "FOX News",
+            "video_count": 1,
+            "focus": "News/Politics"
+          },
+          {
+            "channel_name": "TNT",
+            "video_count": 1,
+            "focus": "Sports"
+          },
+          {
+            "channel_name": "CNN",
+            "video_count": 1,
+            "focus": "News/Politics"
+          }
+        ],
+        "channel_diversity": 5,
+        "category_diversity": "High"
       },
       "market_opportunities": {
-        "sports": {
-          "description": "There is a clear demand for sports content.",
-          "actionable_insights": [
-            "Expand coverage to include behind-the-scenes content, athlete interviews, and in-depth game analysis to capture a broader audience.",
-            "Consider live streaming partnerships for less-covered sports to tap into niche markets."
-          ]
+        "sports_content": {
+          "insight": "Sports content is a leading trend, accounting for 40% of total views. Expanding coverage on lesser-known sports events or niche sports could capture additional audience interest."
         },
-        "news_and_events": {
-          "description": "Timely news and event coverage attract significant views.",
-          "actionable_insights": [
-            "Increase video content around breaking news and major events to capitalize on search interest.",
-            "Develop short-form news segments for quick consumption on social media platforms."
-          ]
+        "entertainment_trailers": {
+          "insight": "With the successful viewership of the 'Alien: Isolation' trailer, there is potential for significant engagement in gaming and movie trailers, suggesting a focus on upcoming releases."
         },
-        "gaming": {
-          "description": "Gaming remains a vibrant category with engaged audiences.",
-          "actionable_insights": [
-            "Create content around upcoming game releases and updates to engage with the gaming community.",
-            "Invest in interactive content, such as live Q&A sessions with game developers or streamers."
-          ]
+        "news_and_special_events": {
+          "insight": "Videos related to news and significant events such as political shows and dinners also capture a substantial share. Creating content around trending news or upcoming events could drive viewership."
+        },
+        "collaborative_content": {
+          "insight": "Given the diversity of channels and topics, collaborations between channels with overlapping audiences (e.g., sports and news) could yield increased viewership and subscriber growth."
         }
       },
       "metadata_stats": {
@@ -450,7 +477,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 23991
+        "avg_views_per_video": 26780
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
