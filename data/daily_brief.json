@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T15:41:46.003963",
+  "timestamp": "2026-04-27T18:38:26.301496",
   "date": "2026-04-27",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 267800,
-      "like_count": 13673,
-      "comment_count": 1540,
+      "view_count": 292903,
+      "like_count": 14657,
+      "comment_count": 1621,
       "category_id": "20",
       "tags": [
         "Action",
@@ -359,9 +359,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 267800,
-      "like_count": 13673,
-      "comment_count": 1540,
+      "view_count": 292903,
+      "like_count": 14657,
+      "comment_count": 1621,
       "category_id": "20",
       "tags": [
         "Action",
@@ -381,94 +381,50 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 267800,
-        "average_views_per_video": 26780
-      },
       "content_trends": {
-        "sports": {
-          "video_count": 4,
-          "examples": [
-            "San Antonio Spurs at Portland Trail Blazers",
-            "Colorado Avalanche at Los Angeles Kings",
-            "Zurich Classic of New Orleans, Final Round",
-            "Los Angeles Angels at Kansas City Royals"
-          ],
-          "estimated_views": 107120,
-          "percentage_of_total_views": 40
+        "gaming": {
+          "description": "The presence of a video game-related title, 'Alien: Isolation - Official Sequel Teaser Trailer', suggests a continued interest in gaming content.",
+          "insight": "Gaming remains a strong category on YouTube, driven by high engagement from a dedicated audience.",
+          "action": "Consider developing content around popular games, upcoming releases, and gaming culture to capitalize on this trend."
         },
-        "entertainment": {
-          "video_count": 2,
-          "examples": [
-            "Alien: Isolation - Official Sequel Teaser Trailer",
-            "Ben vs. Bats"
-          ],
-          "estimated_views": 53560,
-          "percentage_of_total_views": 20
+        "sports": {
+          "description": "Several titles such as 'San Antonio Spurs at Portland Trail Blazers', 'Colorado Avalanche at Los Angeles Kings', and 'Los Angeles Angels at Kansas City Royals' indicate a strong presence of sports content in trending videos.",
+          "insight": "Live sports events and highlights continue to attract significant viewership.",
+          "action": "Capitalize on sports seasons, major tournaments, and highlight reels to create engaging content."
         },
         "news_and_politics": {
-          "video_count": 2,
-          "examples": [
-            "Sunday Night in America With Trey Gowdy",
-            "The White House Correspondents' Dinner"
-          ],
-          "estimated_views": 53560,
-          "percentage_of_total_views": 20
+          "description": "Titles like 'Sunday Night in America With Trey Gowdy', 'The White House Correspondents' Dinner', and 'Tell All: Part 1' point to a trend in news and political content.",
+          "insight": "Current affairs and political analysis videos are engaging viewers, especially when tied to recent or ongoing events.",
+          "action": "Develop content that offers analysis, commentary, or coverage of major news events to engage this audience."
         },
-        "special_events": {
-          "video_count": 2,
-          "examples": [
-            "Tell All: Part 1",
-            "4-Wide Nationals"
-          ],
-          "estimated_views": 53560,
-          "percentage_of_total_views": 20
+        "entertainment": {
+          "description": "The presence of '4-Wide Nationals' and other entertainment-focused videos highlight the appeal of entertainment content.",
+          "insight": "Entertainment videos, especially those covering unique or niche events, can draw diverse audiences.",
+          "action": "Explore diverse entertainment categories and niche interests to create content that stands out."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "IGN",
-            "video_count": 1,
-            "focus": "Gaming/Entertainment"
-          },
-          {
-            "channel_name": "ESPN",
-            "video_count": 1,
-            "focus": "Sports"
-          },
-          {
-            "channel_name": "FOX News",
-            "video_count": 1,
-            "focus": "News/Politics"
-          },
-          {
-            "channel_name": "TNT",
-            "video_count": 1,
-            "focus": "Sports"
-          },
-          {
-            "channel_name": "CNN",
-            "video_count": 1,
-            "focus": "News/Politics"
-          }
-        ],
-        "channel_diversity": 5,
-        "category_diversity": "High"
+        "diverse_channels": {
+          "description": "Trending videos are produced by a variety of channels, including IGN, ESPN, FOX News, TNT, and CNN.",
+          "insight": "There is a diverse range of content creators achieving trending status, suggesting opportunities for various niches.",
+          "action": "New creators should focus on distinguishing their content within their niche to achieve visibility."
+        },
+        "single_video_trend": {
+          "description": "Each top channel only has one video in the trending list, indicating a competitive environment.",
+          "insight": "Achieving trending status may require strategic timing and content relevancy rather than volume of uploads.",
+          "action": "Focus on quality, timeliness, and relevance of content to improve chances of trending."
+        }
       },
       "market_opportunities": {
-        "sports_content": {
-          "insight": "Sports content is a leading trend, accounting for 40% of total views. Expanding coverage on lesser-known sports events or niche sports could capture additional audience interest."
+        "emerging_trends": {
+          "description": "Given the mix of sports, politics, and entertainment, there is room for cross-category content.",
+          "insight": "Content that blends elements from trending categories, such as sports and politics, can engage broader audiences.",
+          "action": "Explore hybrid content strategies that integrate multiple interest areas to attract cross-category viewers."
         },
-        "entertainment_trailers": {
-          "insight": "With the successful viewership of the 'Alien: Isolation' trailer, there is potential for significant engagement in gaming and movie trailers, suggesting a focus on upcoming releases."
-        },
-        "news_and_special_events": {
-          "insight": "Videos related to news and significant events such as political shows and dinners also capture a substantial share. Creating content around trending news or upcoming events could drive viewership."
-        },
-        "collaborative_content": {
-          "insight": "Given the diversity of channels and topics, collaborations between channels with overlapping audiences (e.g., sports and news) could yield increased viewership and subscriber growth."
+        "localized_content": {
+          "description": "Sports events and political discussions have localized appeal, as seen with specific city and event mentions.",
+          "insight": "Localized content can engage audiences by tapping into regional pride and local interests.",
+          "action": "Create content that emphasizes local relevance or provides localized insight into broader topics."
         }
       },
       "metadata_stats": {
@@ -477,7 +433,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 26780
+        "avg_views_per_video": 29290
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
