@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-27T07:07:30.714467",
+  "timestamp": "2026-04-27T09:54:18.831291",
   "date": "2026-04-27",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "music_videos_filtered": 3,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 186828,
-      "like_count": 10993,
-      "comment_count": 1192,
+      "view_count": 215854,
+      "like_count": 11961,
+      "comment_count": 1303,
       "category_id": "20",
       "tags": [
         "Action",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=cqDrZCcNaio"
     },
     {
-      "video_id": "zrnvjTjvtbo",
-      "title": "Cleveland Cavaliers at Toronto Raptors",
-      "description": "The Raptors play the Cavaliers as they meet for Game 4 at Scotiabank Arena. Toronto won 126-104 as Scottie Barnes and RJ Barrett set playoff highs with 33 each. Tied at halftime, Toronto broke it open with a massive 21-2 fourth-quarter run.",
+      "video_id": "FPP3SJpSTHM",
+      "title": "San Antonio Spurs at Portland Trail Blazers",
+      "description": "The Spurs face the Trail Blazers in Game 4 at the Moda Center tonight. San Antonio leads the series following a 120-108 Game 3 win, powered by Stephon Castle's playoff-high 33 points. Portland started strong, but the Spurs took over the lead late.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-27T05:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zrnvjTjvtbo/hqdefault.jpg",
-      "duration": "PT2H45M56S",
-      "duration_seconds": 9956,
+      "published_at": "2026-04-27T07:25:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FPP3SJpSTHM/hqdefault.jpg",
+      "duration": "PT2H30M45S",
+      "duration_seconds": 9045,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zrnvjTjvtbo"
+      "url": "https://www.youtube.com/watch?v=FPP3SJpSTHM"
     },
     {
       "video_id": "LpN2RavI5C8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LpN2RavI5C8/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 818568,
-      "like_count": 32764,
-      "comment_count": 1320,
+      "view_count": 872908,
+      "like_count": 34359,
+      "comment_count": 1381,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -129,8 +129,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/f2LtXlHgMgY/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 40232,
-      "like_count": 189,
+      "view_count": 41159,
+      "like_count": 192,
       "comment_count": 1,
       "category_id": "22",
       "tags": [
@@ -146,6 +146,23 @@
         "brooks and dunn lyrics boot scootin boogie"
       ],
       "url": "https://www.youtube.com/watch?v=f2LtXlHgMgY"
+    },
+    {
+      "video_id": "NTDRtBV1Qxg",
+      "title": "Buffalo Sabres at Boston Bruins",
+      "description": "The Buffalo Sabres face the Boston Bruins in Game 4 of the East first round at TD Garden. The Sabres lead 2-1 after winning Game 2, 3-1. Tanner Jeannot scored first, but Noah Ostlund made his playoff debut and sealed the win with an empty-net goal.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-27T07:29:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NTDRtBV1Qxg/hqdefault.jpg",
+      "duration": "PT2H44M51S",
+      "duration_seconds": 9891,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NTDRtBV1Qxg"
     },
     {
       "video_id": "Nh7FMIWbW4s",
@@ -182,23 +199,6 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
-      "video_id": "r9SHWA9bF0w",
-      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
-      "description": "",
-      "channel_title": "Medjy",
-      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
-      "published_at": "2026-04-26T04:04:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
-      "duration": "PT4M27S",
-      "duration_seconds": 267,
-      "view_count": 154197,
-      "like_count": 9899,
-      "comment_count": 1905,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
-    },
-    {
       "video_id": "FUptDbfjLi8",
       "title": "DO NOT Go Fishing in Louisiana",
       "description": "Voodoo Fishin', dawg, just gimme a way to do a crawfish boil\nNEW MERCH, PLUSHIE AND RESTOCK AVAILABLE NOW https://smii7y.store/\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\nhttps://www.twitch.tv/jericho\nhttps://ww",
@@ -208,9 +208,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FUptDbfjLi8/hqdefault.jpg",
       "duration": "PT22M45S",
       "duration_seconds": 1365,
-      "view_count": 556624,
-      "like_count": 34034,
-      "comment_count": 1992,
+      "view_count": 635115,
+      "like_count": 36646,
+      "comment_count": 2092,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -230,21 +230,21 @@
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "zrnvjTjvtbo",
-      "title": "Cleveland Cavaliers at Toronto Raptors",
-      "description": "The Raptors play the Cavaliers as they meet for Game 4 at Scotiabank Arena. Toronto won 126-104 as Scottie Barnes and RJ Barrett set playoff highs with 33 each. Tied at halftime, Toronto broke it open with a massive 21-2 fourth-quarter run.",
+      "video_id": "FPP3SJpSTHM",
+      "title": "San Antonio Spurs at Portland Trail Blazers",
+      "description": "The Spurs face the Trail Blazers in Game 4 at the Moda Center tonight. San Antonio leads the series following a 120-108 Game 3 win, powered by Stephon Castle's playoff-high 33 points. Portland started strong, but the Spurs took over the lead late.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-27T05:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zrnvjTjvtbo/hqdefault.jpg",
-      "duration": "PT2H45M56S",
-      "duration_seconds": 9956,
+      "published_at": "2026-04-27T07:25:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FPP3SJpSTHM/hqdefault.jpg",
+      "duration": "PT2H30M45S",
+      "duration_seconds": 9045,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zrnvjTjvtbo"
+      "url": "https://www.youtube.com/watch?v=FPP3SJpSTHM"
     },
     {
       "video_id": "LpN2RavI5C8",
@@ -256,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LpN2RavI5C8/hqdefault.jpg",
       "duration": "PT2M30S",
       "duration_seconds": 150,
-      "view_count": 818568,
-      "like_count": 32764,
-      "comment_count": 1320,
+      "view_count": 872908,
+      "like_count": 34359,
+      "comment_count": 1381,
       "category_id": "24",
       "tags": [
         "spider noir official trailer",
@@ -309,6 +309,23 @@
       "url": "https://www.youtube.com/watch?v=8VL2eLssZfo"
     },
     {
+      "video_id": "NTDRtBV1Qxg",
+      "title": "Buffalo Sabres at Boston Bruins",
+      "description": "The Buffalo Sabres face the Boston Bruins in Game 4 of the East first round at TD Garden. The Sabres lead 2-1 after winning Game 2, 3-1. Tanner Jeannot scored first, but Noah Ostlund made his playoff debut and sealed the win with an empty-net goal.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-04-27T07:29:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NTDRtBV1Qxg/hqdefault.jpg",
+      "duration": "PT2H44M51S",
+      "duration_seconds": 9891,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=NTDRtBV1Qxg"
+    },
+    {
       "video_id": "Nh7FMIWbW4s",
       "title": "Zurich Classic of New Orleans, Final Round",
       "description": "From TPC Louisiana in Avondale, La.",
@@ -352,9 +369,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FUptDbfjLi8/hqdefault.jpg",
       "duration": "PT22M45S",
       "duration_seconds": 1365,
-      "view_count": 556624,
-      "like_count": 34034,
-      "comment_count": 1992,
+      "view_count": 635115,
+      "like_count": 36646,
+      "comment_count": 2092,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -380,9 +397,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 186828,
-      "like_count": 10993,
-      "comment_count": 1192,
+      "view_count": 215854,
+      "like_count": 11961,
+      "comment_count": 1303,
       "category_id": "20",
       "tags": [
         "Action",
@@ -408,8 +425,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/f2LtXlHgMgY/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 40232,
-      "like_count": 189,
+      "view_count": 41159,
+      "like_count": 192,
       "comment_count": 1,
       "category_id": "22",
       "tags": [
@@ -425,114 +442,66 @@
         "brooks and dunn lyrics boot scootin boogie"
       ],
       "url": "https://www.youtube.com/watch?v=f2LtXlHgMgY"
-    },
-    {
-      "video_id": "r9SHWA9bF0w",
-      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
-      "description": "",
-      "channel_title": "Medjy",
-      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
-      "published_at": "2026-04-26T04:04:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
-      "duration": "PT4M27S",
-      "duration_seconds": 267,
-      "view_count": 154197,
-      "like_count": 9899,
-      "comment_count": 1905,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 1756449,
-        "average_views_per_video": 175644.9,
-        "identified_categories": [
-          "Entertainment",
-          "Sports",
-          "News",
-          "Music",
-          "Lifestyle"
-        ]
-      },
       "content_trends": {
-        "dominant_themes": [
-          "Entertainment and Trailers",
-          "Sports Events and Highlights",
-          "News and Political Commentary",
-          "Music Videos and Lyrics"
-        ],
-        "emerging_trends": [
-          "Nostalgia-driven content (e.g., classic music like Brooks & Dunn)",
-          "Trailer and teaser content for upcoming releases"
-        ],
-        "viewer_interests": [
-          "Sci-fi and superhero genres",
-          "Live sports and sports analysis",
-          "Current political events and news"
-        ]
+        "diverse_interests": {
+          "description": "The trending videos encompass a wide variety of interests including sports, entertainment, news, and lifestyle.",
+          "implication": "Content creators should consider producing a varied range of content to capture diverse audience interests."
+        },
+        "entertainment_and_sports": {
+          "description": "Sports and entertainment appear prominently with multiple videos related to these categories.",
+          "implication": "Investing in sports-related content and entertainment trailers could yield higher engagement."
+        },
+        "news_and_current_events": {
+          "description": "News and current events are represented, indicating a continued interest in timely content.",
+          "implication": "Timely and relevant news content can drive engagement, suggesting potential for real-time content creation."
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "IGN",
-            "focus": "Gaming and Entertainment",
-            "average_views": "High due to niche appeal"
-          },
-          {
-            "name": "ESPN",
-            "focus": "Sports",
-            "average_views": "Consistently high for sports content"
-          },
-          {
-            "name": "Prime Video",
-            "focus": "Film and Series Trailers",
-            "average_views": "High, leveraging platform reputation"
-          }
-        ],
-        "cross-category appeal": [
-          {
-            "channel": "FOX News",
-            "category": "News and Entertainment",
-            "insight": "Combining news with entertainment for wider reach"
-          }
-        ]
+        "broad_channel_representation": {
+          "description": "Top channels like IGN, ESPN, Prime Video, FOX News, and CNN each have one video trending.",
+          "implication": "Smaller channels have the potential to trend alongside large networks if their content resonates well with current interests."
+        },
+        "cross-industry presence": {
+          "description": "Channels span across entertainment, sports, and news industries.",
+          "implication": "Cross-industry collaborations or content could leverage audience bases from multiple sectors."
+        }
       },
       "market_opportunities": {
-        "content_creation": [
-          {
-            "opportunity": "Develop Sci-fi and Superhero content",
-            "reason": "High interest in trailers like 'Alien: Isolation' and 'Spider-Noir'"
-          },
-          {
-            "opportunity": "Focus on live sports coverage",
-            "reason": "Consistent demand as seen with ESPN videos"
-          }
-        ],
-        "audience_engagement": [
-          {
-            "strategy": "Interactive News Segments",
-            "reason": "Increased engagement potential as seen with political and news content"
-          },
-          {
-            "strategy": "Music content with a nostalgic twist",
-            "reason": "Appeal to older demographics as seen with Brooks & Dunn"
-          }
-        ],
-        "platform utilization": [
-          {
-            "suggestion": "Leverage YouTube Shorts for quick highlights",
-            "reason": "Capture short attention spans, especially in sports and news"
-          },
-          {
-            "suggestion": "Collaborate with popular channels",
-            "reason": "Harness existing audiences of channels like IGN and ESPN"
-          }
-        ]
+        "gaming_and_movie_trailers": {
+          "description": "The presence of gaming and movie trailers in trending topics suggests strong viewer interest.",
+          "opportunity": "Developing high-quality trailers and teasers for upcoming content can be a significant driver of views."
+        },
+        "sports_highlights_and_analysis": {
+          "description": "Multiple sports-related videos indicate robust demand for sports highlights and analysis.",
+          "opportunity": "Creating in-depth sports analysis or highlight reels could engage dedicated sports fans."
+        },
+        "news_and_opinion_programming": {
+          "description": "News channels are trending, reflecting viewer interest in both news and opinion content.",
+          "opportunity": "Producing opinionated or analytical news content might attract viewers interested in deeper insights."
+        },
+        "localized_content": {
+          "description": "Localized content like 'DO NOT Go Fishing in Louisiana' suggests interest in region-specific content.",
+          "opportunity": "Creating content that taps into local events or issues could engage regional audiences effectively."
+        }
+      },
+      "data_driven_recommendations": {
+        "increase_video_volume": {
+          "description": "With only 10 videos trending, there is room for more videos to capture trending spots.",
+          "action": "Increase the volume of content production to enhance the probability of videos trending."
+        },
+        "optimize_video_title_and_thumbnail": {
+          "description": "Creative and descriptive video titles and thumbnails can significantly impact click-through rates.",
+          "action": "Invest time in crafting compelling titles and thumbnails to attract more viewers."
+        },
+        "leverage trending topics": {
+          "description": "Aligning content with currently trending topics can enhance visibility.",
+          "action": "Monitor trending topics regularly and produce content that aligns with these trends."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -540,7 +509,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 175644
+        "avg_views_per_video": 176503
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
