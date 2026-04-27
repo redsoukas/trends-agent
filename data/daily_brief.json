@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-27T04:20:01.885283",
+  "timestamp": "2026-04-27T07:07:30.714467",
   "date": "2026-04-27",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 147066,
-      "like_count": 9699,
-      "comment_count": 1050,
+      "view_count": 186828,
+      "like_count": 10993,
+      "comment_count": 1192,
       "category_id": "20",
       "tags": [
         "Action",
@@ -39,6 +39,51 @@
         "PlayStation 3"
       ],
       "url": "https://www.youtube.com/watch?v=cqDrZCcNaio"
+    },
+    {
+      "video_id": "zrnvjTjvtbo",
+      "title": "Cleveland Cavaliers at Toronto Raptors",
+      "description": "The Raptors play the Cavaliers as they meet for Game 4 at Scotiabank Arena. Toronto won 126-104 as Scottie Barnes and RJ Barrett set playoff highs with 33 each. Tied at halftime, Toronto broke it open with a massive 21-2 fourth-quarter run.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-27T05:13:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zrnvjTjvtbo/hqdefault.jpg",
+      "duration": "PT2H45M56S",
+      "duration_seconds": 9956,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=zrnvjTjvtbo"
+    },
+    {
+      "video_id": "LpN2RavI5C8",
+      "title": "\"Spider-Noir\" - True-Hue Full Color Trailer | Prime Video",
+      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both True-Hue Full Color and Authentic Black & White May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - True-Hue Full Color Trailer | Prime Video\nhttps://youtu.be/LpN2RavI5C8\n \nPrime Video\nhttps://www.youtube.co",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-04-26T00:32:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LpN2RavI5C8/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 818568,
+      "like_count": 32764,
+      "comment_count": 1320,
+      "category_id": "24",
+      "tags": [
+        "spider noir official trailer",
+        "spider noir trailer",
+        "spider noir prime video",
+        "prime video spider noir",
+        "superhero series",
+        "superhero show",
+        "prime video",
+        "prime",
+        "superhero tv series",
+        "spider noir"
+      ],
+      "url": "https://www.youtube.com/watch?v=LpN2RavI5C8"
     },
     {
       "video_id": "o2GaT2vsnds",
@@ -58,34 +103,6 @@
       "url": "https://www.youtube.com/watch?v=o2GaT2vsnds"
     },
     {
-      "video_id": "DfowFyDxUXo",
-      "title": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
-      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video\nhttps://youtu.be/DfowFyDxUXo\n \nPrime Video\nhttps://www.youtub",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-04-26T00:27:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 593556,
-      "like_count": 25836,
-      "comment_count": 1153,
-      "category_id": "24",
-      "tags": [
-        "spider noir official trailer",
-        "spider noir trailer",
-        "spider noir prime video",
-        "prime video spider noir",
-        "superhero series",
-        "superhero show",
-        "prime video",
-        "prime",
-        "superhero tv series",
-        "spider noir"
-      ],
-      "url": "https://www.youtube.com/watch?v=DfowFyDxUXo"
-    },
-    {
       "video_id": "8VL2eLssZfo",
       "title": "The White House Correspondents' Dinner",
       "description": "John Berman and Laura Coates anchor CNN's live coverage of the 2026 White House Correspondents' Dinner.",
@@ -103,51 +120,6 @@
       "url": "https://www.youtube.com/watch?v=8VL2eLssZfo"
     },
     {
-      "video_id": "IsqxDhzQYrY",
-      "title": "SPIDER-NOIR Official Trailer 2 (2026) Nicolas Cage",
-      "description": "Official Spider-Noir Series Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Nicolas Cage Series Trailer | Prime Video: 27 May 2026 | Details ➤ https://KinoCheck.com/show/0qy/spider-man-spider-noir-2026?utm_source=youtube&utm_medium=description\nAn aging and down on his luck private investigator in 1930s New York is forced to grapple with his past life as the city's one and only superhero.\n\nSpider-Noir (2026) is the new action series starring Nicolas Cage, Lamorne Morris and Li Jun Li.\n\nNote | #SpiderNoir #Spiderman #Trailer courtesy of Amazon MGM. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-04-26T08:14:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IsqxDhzQYrY/hqdefault.jpg",
-      "duration": "PT2M37S",
-      "duration_seconds": 157,
-      "view_count": 210266,
-      "like_count": 3457,
-      "comment_count": 269,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Action",
-        "KinoCheck",
-        "Lamorne Morris",
-        "Li Jun Li",
-        "New York",
-        "Nicolas Cage",
-        "Series",
-        "Spider-Man series",
-        "Spider-Noir"
-      ],
-      "url": "https://www.youtube.com/watch?v=IsqxDhzQYrY"
-    },
-    {
-      "video_id": "Nh7FMIWbW4s",
-      "title": "Zurich Classic of New Orleans, Final Round",
-      "description": "From TPC Louisiana in Avondale, La.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-04-27T02:20:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nh7FMIWbW4s/hqdefault.jpg",
-      "duration": "PT2H16S",
-      "duration_seconds": 7216,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Nh7FMIWbW4s"
-    },
-    {
       "video_id": "f2LtXlHgMgY",
       "title": "Brooks & Dunn - Boot Scootin’ Boogie (Lyrics)",
       "description": "👢 Brooks & Dunn - Boot Scootin’ Boogie (Lyrics)\n🌎Download / Stream: https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M \n\n🤠Brooks & Dunn\nhttps://www.brooks-dunn.com/\nhttps://www.instagram.com/brooksanddunn/\nhttps://www.facebook.com/BrooksandDunn\nhttps://x.com/brooksanddunn\n \n🤠Country World\nhttps://www.facebook.com/people/Country-World/61569276236964\nhttps://open.spotify.com/playlist/3MvvESK3pEaAxiOCNHfALU\nhttps://youtube.com/@CountryWorld777?si=1PddxUmGbDBxmFu9\n\n.........\n🎸 Lyrics: Brooks & Dunn - Boot Scootin’ Boogie\n\n[Verse 1]\nOut in the country past the city limits sign\nWell there's a honky tonk near the county line\nThe joint starts jumpin' every night when the sun goes down\nThey got whiskey, women, music, and smoke\nIt's where all the cowboy folk go to boot scootin' boogie\n\n[Verse 2]\nI've got a good job, I work hard for my money\nWhen it's quittin' time I hit the door runnin'\nI fire up my pickup truck and let the horses run\nI go flyin' down that highway to that hide-a-way\nStuck out",
@@ -157,8 +129,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/f2LtXlHgMgY/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 38432,
-      "like_count": 188,
+      "view_count": 40232,
+      "like_count": 189,
       "comment_count": 1,
       "category_id": "22",
       "tags": [
@@ -176,21 +148,21 @@
       "url": "https://www.youtube.com/watch?v=f2LtXlHgMgY"
     },
     {
-      "video_id": "-UQyO4Rudgc",
-      "title": "SportsCenter",
-      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-26T11:27:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-UQyO4Rudgc/hqdefault.jpg",
-      "duration": "PT1H49M11S",
-      "duration_seconds": 6551,
+      "video_id": "Nh7FMIWbW4s",
+      "title": "Zurich Classic of New Orleans, Final Round",
+      "description": "From TPC Louisiana in Avondale, La.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-04-27T02:20:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nh7FMIWbW4s/hqdefault.jpg",
+      "duration": "PT2H16S",
+      "duration_seconds": 7216,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
+      "url": "https://www.youtube.com/watch?v=Nh7FMIWbW4s"
     },
     {
       "video_id": "dR1HoN9sLqw",
@@ -210,25 +182,98 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
-      "video_id": "Vo6QTBMdUfU",
-      "title": "1 Day vs 50,000 Day Build Challenge",
-      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-04-25T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
-      "duration": "PT19M46S",
-      "duration_seconds": 1186,
-      "view_count": 14246000,
-      "like_count": 290959,
-      "comment_count": 10096,
-      "category_id": "20",
+      "video_id": "r9SHWA9bF0w",
+      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
+      "description": "",
+      "channel_title": "Medjy",
+      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
+      "published_at": "2026-04-26T04:04:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 154197,
+      "like_count": 9899,
+      "comment_count": 1905,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
+    },
+    {
+      "video_id": "FUptDbfjLi8",
+      "title": "DO NOT Go Fishing in Louisiana",
+      "description": "Voodoo Fishin', dawg, just gimme a way to do a crawfish boil\nNEW MERCH, PLUSHIE AND RESTOCK AVAILABLE NOW https://smii7y.store/\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\nhttps://www.twitch.tv/jericho\nhttps://ww",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-04-26T19:13:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUptDbfjLi8/hqdefault.jpg",
+      "duration": "PT22M45S",
+      "duration_seconds": 1365,
+      "view_count": 556624,
+      "like_count": 34034,
+      "comment_count": 1992,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "voodoo fishing",
+        "voodoo fishin",
+        "voodoo fishin gameplay",
+        "voodoo fishin live",
+        "voodoo fishin steam",
+        "voodoo fishing game"
+      ],
+      "url": "https://www.youtube.com/watch?v=FUptDbfjLi8"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
+    {
+      "video_id": "zrnvjTjvtbo",
+      "title": "Cleveland Cavaliers at Toronto Raptors",
+      "description": "The Raptors play the Cavaliers as they meet for Game 4 at Scotiabank Arena. Toronto won 126-104 as Scottie Barnes and RJ Barrett set playoff highs with 33 each. Tied at halftime, Toronto broke it open with a massive 21-2 fourth-quarter run.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-04-27T05:13:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zrnvjTjvtbo/hqdefault.jpg",
+      "duration": "PT2H45M56S",
+      "duration_seconds": 9956,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=zrnvjTjvtbo"
+    },
+    {
+      "video_id": "LpN2RavI5C8",
+      "title": "\"Spider-Noir\" - True-Hue Full Color Trailer | Prime Video",
+      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both True-Hue Full Color and Authentic Black & White May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - True-Hue Full Color Trailer | Prime Video\nhttps://youtu.be/LpN2RavI5C8\n \nPrime Video\nhttps://www.youtube.co",
+      "channel_title": "Prime Video",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "published_at": "2026-04-26T00:32:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LpN2RavI5C8/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "duration_seconds": 150,
+      "view_count": 818568,
+      "like_count": 32764,
+      "comment_count": 1320,
+      "category_id": "24",
+      "tags": [
+        "spider noir official trailer",
+        "spider noir trailer",
+        "spider noir prime video",
+        "prime video spider noir",
+        "superhero series",
+        "superhero show",
+        "prime video",
+        "prime",
+        "superhero tv series",
+        "spider noir"
+      ],
+      "url": "https://www.youtube.com/watch?v=LpN2RavI5C8"
+    },
     {
       "video_id": "o2GaT2vsnds",
       "title": "FOX News Saturday Night With Jimmy Failla",
@@ -245,34 +290,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=o2GaT2vsnds"
-    },
-    {
-      "video_id": "DfowFyDxUXo",
-      "title": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
-      "description": "Next month, the web starts to unravel. Watch the new trailer for “Spider-Noir” – a live-action series starring Nicolas Cage – arriving in both Authentic Black & White and True-Hue Full Color May 27 on Prime.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \n\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video\nhttps://youtu.be/DfowFyDxUXo\n \nPrime Video\nhttps://www.youtub",
-      "channel_title": "Prime Video",
-      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-      "published_at": "2026-04-26T00:27:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DfowFyDxUXo/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "duration_seconds": 150,
-      "view_count": 593556,
-      "like_count": 25836,
-      "comment_count": 1153,
-      "category_id": "24",
-      "tags": [
-        "spider noir official trailer",
-        "spider noir trailer",
-        "spider noir prime video",
-        "prime video spider noir",
-        "superhero series",
-        "superhero show",
-        "prime video",
-        "prime",
-        "superhero tv series",
-        "spider noir"
-      ],
-      "url": "https://www.youtube.com/watch?v=DfowFyDxUXo"
     },
     {
       "video_id": "8VL2eLssZfo",
@@ -292,34 +309,6 @@
       "url": "https://www.youtube.com/watch?v=8VL2eLssZfo"
     },
     {
-      "video_id": "IsqxDhzQYrY",
-      "title": "SPIDER-NOIR Official Trailer 2 (2026) Nicolas Cage",
-      "description": "Official Spider-Noir Series Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Nicolas Cage Series Trailer | Prime Video: 27 May 2026 | Details ➤ https://KinoCheck.com/show/0qy/spider-man-spider-noir-2026?utm_source=youtube&utm_medium=description\nAn aging and down on his luck private investigator in 1930s New York is forced to grapple with his past life as the city's one and only superhero.\n\nSpider-Noir (2026) is the new action series starring Nicolas Cage, Lamorne Morris and Li Jun Li.\n\nNote | #SpiderNoir #Spiderman #Trailer courtesy of Amazon MGM. | All Rights Reserved. #KinoCheck®",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-04-26T08:14:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IsqxDhzQYrY/hqdefault.jpg",
-      "duration": "PT2M37S",
-      "duration_seconds": 157,
-      "view_count": 210266,
-      "like_count": 3457,
-      "comment_count": 269,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Action",
-        "KinoCheck",
-        "Lamorne Morris",
-        "Li Jun Li",
-        "New York",
-        "Nicolas Cage",
-        "Series",
-        "Spider-Man series",
-        "Spider-Noir"
-      ],
-      "url": "https://www.youtube.com/watch?v=IsqxDhzQYrY"
-    },
-    {
       "video_id": "Nh7FMIWbW4s",
       "title": "Zurich Classic of New Orleans, Final Round",
       "description": "From TPC Louisiana in Avondale, La.",
@@ -335,23 +324,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Nh7FMIWbW4s"
-    },
-    {
-      "video_id": "-UQyO4Rudgc",
-      "title": "SportsCenter",
-      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-04-26T11:27:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-UQyO4Rudgc/hqdefault.jpg",
-      "duration": "PT1H49M11S",
-      "duration_seconds": 6551,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
     },
     {
       "video_id": "dR1HoN9sLqw",
@@ -371,21 +343,32 @@
       "url": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
     },
     {
-      "video_id": "Vo6QTBMdUfU",
-      "title": "1 Day vs 50,000 Day Build Challenge",
-      "description": "We were the first players to ever tour the 50,000 day build! Enjoy :)\n\nGo find the new Feastables Pantry Packs right now at Kroger stores nationwide! https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-04-25T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vo6QTBMdUfU/hqdefault.jpg",
-      "duration": "PT19M46S",
-      "duration_seconds": 1186,
-      "view_count": 14246000,
-      "like_count": 290959,
-      "comment_count": 10096,
+      "video_id": "FUptDbfjLi8",
+      "title": "DO NOT Go Fishing in Louisiana",
+      "description": "Voodoo Fishin', dawg, just gimme a way to do a crawfish boil\nNEW MERCH, PLUSHIE AND RESTOCK AVAILABLE NOW https://smii7y.store/\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\nhttps://www.twitch.tv/jericho\nhttps://ww",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-04-26T19:13:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUptDbfjLi8/hqdefault.jpg",
+      "duration": "PT22M45S",
+      "duration_seconds": 1365,
+      "view_count": 556624,
+      "like_count": 34034,
+      "comment_count": 1992,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "voodoo fishing",
+        "voodoo fishin",
+        "voodoo fishin gameplay",
+        "voodoo fishin live",
+        "voodoo fishin steam",
+        "voodoo fishing game"
+      ],
+      "url": "https://www.youtube.com/watch?v=FUptDbfjLi8"
     },
     {
       "video_id": "cqDrZCcNaio",
@@ -397,9 +380,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cqDrZCcNaio/hqdefault.jpg",
       "duration": "PT26S",
       "duration_seconds": 26,
-      "view_count": 147066,
-      "like_count": 9699,
-      "comment_count": 1050,
+      "view_count": 186828,
+      "like_count": 10993,
+      "comment_count": 1192,
       "category_id": "20",
       "tags": [
         "Action",
@@ -425,8 +408,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/f2LtXlHgMgY/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 38432,
-      "like_count": 188,
+      "view_count": 40232,
+      "like_count": 189,
       "comment_count": 1,
       "category_id": "22",
       "tags": [
@@ -442,50 +425,114 @@
         "brooks and dunn lyrics boot scootin boogie"
       ],
       "url": "https://www.youtube.com/watch?v=f2LtXlHgMgY"
+    },
+    {
+      "video_id": "r9SHWA9bF0w",
+      "title": "MEDJY - CHANM 22 (Official Lyrics Video)",
+      "description": "",
+      "channel_title": "Medjy",
+      "channel_id": "UCRohK1isZA2hVhdYQQ9UwyQ",
+      "published_at": "2026-04-26T04:04:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r9SHWA9bF0w/hqdefault.jpg",
+      "duration": "PT4M27S",
+      "duration_seconds": 267,
+      "view_count": 154197,
+      "like_count": 9899,
+      "comment_count": 1905,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=r9SHWA9bF0w"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 1756449,
+        "average_views_per_video": 175644.9,
+        "identified_categories": [
+          "Entertainment",
+          "Sports",
+          "News",
+          "Music",
+          "Lifestyle"
+        ]
+      },
       "content_trends": {
-        "entertainment": {
-          "percentage": 50,
-          "analysis": "Half of the videos fall into the entertainment category, including trailers and a music video. This indicates a strong viewer interest in entertainment content, particularly around upcoming releases and nostalgic or niche genres like 'Spider-Noir'."
-        },
-        "news_and_politics": {
-          "percentage": 20,
-          "analysis": "With videos like 'FOX News Saturday Night' and 'The White House Correspondents' Dinner', there is a demonstrated interest in current events and political discourse, suggesting an engaged audience seeking timely updates and commentary."
-        },
-        "sports": {
-          "percentage": 20,
-          "analysis": "Sports content, including 'SportsCenter' and live coverage of events like the 'Zurich Classic of New Orleans', shows a consistent demand for sports updates and event highlights."
-        },
-        "unique_challenges": {
-          "percentage": 10,
-          "analysis": "The '1 Day vs 50,000 Day Build Challenge' represents a niche but engaging category that attracts viewers with unique and creative challenges. This type of content can capitalize on the trend of viral, shareable media."
-        }
+        "dominant_themes": [
+          "Entertainment and Trailers",
+          "Sports Events and Highlights",
+          "News and Political Commentary",
+          "Music Videos and Lyrics"
+        ],
+        "emerging_trends": [
+          "Nostalgia-driven content (e.g., classic music like Brooks & Dunn)",
+          "Trailer and teaser content for upcoming releases"
+        ],
+        "viewer_interests": [
+          "Sci-fi and superhero genres",
+          "Live sports and sports analysis",
+          "Current political events and news"
+        ]
       },
       "creator_patterns": {
-        "diverse_content": {
-          "observation": "Channels like IGN and Prime Video focus on trailers and entertainment, while FOX News and CNN focus on news. This diversification indicates an opportunity for creators to establish niche authority while engaging broader audiences with varied content."
-        },
-        "cross-platform synergy": {
-          "observation": "Brand channels like Prime Video and IGN leverage YouTube to build hype around upcoming releases, underscoring YouTube's role as a pivotal platform for cross-platform marketing strategies."
-        }
+        "top_channels": [
+          {
+            "name": "IGN",
+            "focus": "Gaming and Entertainment",
+            "average_views": "High due to niche appeal"
+          },
+          {
+            "name": "ESPN",
+            "focus": "Sports",
+            "average_views": "Consistently high for sports content"
+          },
+          {
+            "name": "Prime Video",
+            "focus": "Film and Series Trailers",
+            "average_views": "High, leveraging platform reputation"
+          }
+        ],
+        "cross-category appeal": [
+          {
+            "channel": "FOX News",
+            "category": "News and Entertainment",
+            "insight": "Combining news with entertainment for wider reach"
+          }
+        ]
       },
       "market_opportunities": {
-        "emerging_genres": {
-          "opportunity": "The success of 'Spider-Noir' trailers suggests a market for unique, stylistically distinct content. Exploring genres that blend nostalgia with modern storytelling can attract diverse viewership."
-        },
-        "political_and_news_commentary": {
-          "opportunity": "Given the engagement with political content, there is potential for creating in-depth analysis and opinion pieces around current events, aiming to capture viewers interested in deeper insights."
-        },
-        "sports_collaborations": {
-          "opportunity": "With significant views on sports content, there is an opportunity for collaboration with sports personalities or events to deliver behind-the-scenes content, analysis, or interactive viewer experiences."
-        },
-        "viral_challenge_content": {
-          "opportunity": "Viral challenges like the '1 Day vs 50,000 Day Build Challenge' can be used as templates for creating engaging, shareable content that taps into community-driven participation and viewership."
-        }
+        "content_creation": [
+          {
+            "opportunity": "Develop Sci-fi and Superhero content",
+            "reason": "High interest in trailers like 'Alien: Isolation' and 'Spider-Noir'"
+          },
+          {
+            "opportunity": "Focus on live sports coverage",
+            "reason": "Consistent demand as seen with ESPN videos"
+          }
+        ],
+        "audience_engagement": [
+          {
+            "strategy": "Interactive News Segments",
+            "reason": "Increased engagement potential as seen with political and news content"
+          },
+          {
+            "strategy": "Music content with a nostalgic twist",
+            "reason": "Appeal to older demographics as seen with Brooks & Dunn"
+          }
+        ],
+        "platform utilization": [
+          {
+            "suggestion": "Leverage YouTube Shorts for quick highlights",
+            "reason": "Capture short attention spans, especially in sports and news"
+          },
+          {
+            "suggestion": "Collaborate with popular channels",
+            "reason": "Harness existing audiences of channels like IGN and ESPN"
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -493,7 +540,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1523532
+        "avg_views_per_video": 175644
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
