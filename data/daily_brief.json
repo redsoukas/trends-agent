@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T18:42:28.654975",
+  "timestamp": "2026-04-28T21:30:22.685856",
   "date": "2026-04-28",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 214101,
-      "like_count": 8590,
-      "comment_count": 438,
+      "view_count": 395207,
+      "like_count": 11566,
+      "comment_count": 581,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 205409,
-      "like_count": 16571,
-      "comment_count": 1451,
+      "view_count": 368038,
+      "like_count": 20342,
+      "comment_count": 1722,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -84,6 +84,51 @@
         "apex legends trailer"
       ],
       "url": "https://www.youtube.com/watch?v=qb00PDb7eqM"
+    },
+    {
+      "video_id": "nz-_2j_ZtgU",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-28T20:38:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nz-_2j_ZtgU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nz-_2j_ZtgU"
+    },
+    {
+      "video_id": "5X1dMFuHZhc",
+      "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+      "description": "There will be no doubt who the gods have chosen to rule. \n\n#HOTD Season 3 premieres June 21 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
+      "channel_title": "HBO Max",
+      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "published_at": "2026-04-27T14:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
+      "duration": "PT1M55S",
+      "duration_seconds": 115,
+      "view_count": 2088774,
+      "like_count": 75560,
+      "comment_count": 3414,
+      "category_id": "24",
+      "tags": [
+        "hbo max",
+        "hbo",
+        "hbo originals",
+        "hbo original series",
+        "hbo trailer",
+        "new on hbo",
+        "max",
+        "hbo max originals",
+        "hbo max trailer",
+        "hbo max teaser"
+      ],
+      "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc"
     },
     {
       "video_id": "gsUZDHkMxOs",
@@ -103,51 +148,6 @@
       "url": "https://www.youtube.com/watch?v=gsUZDHkMxOs"
     },
     {
-      "video_id": "5X1dMFuHZhc",
-      "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
-      "description": "There will be no doubt who the gods have chosen to rule. \n\n#HOTD Season 3 premieres June 21 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-04-27T14:30:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
-      "duration": "PT1M55S",
-      "duration_seconds": 115,
-      "view_count": 1940316,
-      "like_count": 73099,
-      "comment_count": 3290,
-      "category_id": "24",
-      "tags": [
-        "hbo max",
-        "hbo",
-        "hbo originals",
-        "hbo original series",
-        "hbo trailer",
-        "new on hbo",
-        "max",
-        "hbo max originals",
-        "hbo max trailer",
-        "hbo max teaser"
-      ],
-      "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc"
-    },
-    {
-      "video_id": "3cp1EamgqdQ",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-28T07:45:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3cp1EamgqdQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3cp1EamgqdQ"
-    },
-    {
       "video_id": "sNwzFhGwA94",
       "title": "jackass: best and last | Official Trailer (2026 Movie)",
       "description": "it’s time to relive the best and experience the last. watch the official trailer for jackass: best and last, only in theatres june 26. #jackassmovie #jackassbestandlast\n\nJohnny Knoxville and the gang return for one final fling at the big screen. Featuring all-new stunts and stupidity along with the greatest hits and biggest laughs from the past, jackass: best and last is a joyously raucous celebration of all the mischievous camaraderie that you’ve come to love and expect from these idiots over the past 25 years. So, grab your dumb little buddies, raise your glasses, and come experience the cinematic event that promises to be the last time you’ll ever laugh this hard in a theatre.\n\nConnect with #jackassmovie \nWebsite: https://www.jackassmovie.com/\nInstagram: https://www.instagram.com/jackass/\nX: https://x.com/jackassworld\nFacebook: https://www.facebook.com/jackass\nTikTok: https://www.tiktok.com/@officialjackass\nThreads: https://www.threads.com/@jackass\n\nParamount Pictures Corporation (P",
@@ -157,12 +157,54 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 4863537,
-      "like_count": 80840,
-      "comment_count": 4458,
+      "view_count": 4992411,
+      "like_count": 84222,
+      "comment_count": 4615,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
+    },
+    {
+      "video_id": "JfozPo2L7xQ",
+      "title": "My Hero Academia x Brawl Stars",
+      "description": "Are you ready to go PLUS ULTRA? 💥\n\n#MyHeroAcademia x #BrawlStars\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe",
+      "channel_title": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "published_at": "2026-04-28T08:01:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JfozPo2L7xQ/hqdefault.jpg",
+      "duration": "PT2M31S",
+      "duration_seconds": 151,
+      "view_count": 4022681,
+      "like_count": 202767,
+      "comment_count": 9626,
+      "category_id": "20",
+      "tags": [
+        "brawl stars",
+        "mobile game",
+        "mobile strategy game",
+        "mobile rpg",
+        "mobile battle royale",
+        "battle royale",
+        "supercell game"
+      ],
+      "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ"
+    },
+    {
+      "video_id": "LFJJA8Qeqz4",
+      "title": "KAGURABACHI｜Official Teaser Trailer",
+      "description": "KAGURABACHI set for TV Anime Adaptation by Cypic in April 2027!\n\nOfficial Website: https://anime.kagurabachi.jp/en/\nOfficial X: https://x.com/kb_anime_jp\nOfficial TikTok: https://www.tiktok.com/@kb_anime_jp\n\n[Introduction]\nA single stroke opens a new era, cutting a path from Japan to the world—\nWeekly Shonen Jump's Neo-Japanese Sword Action series begins here!\n\nFrom day one, the Kagurabachi manga has captivated fans, weaving a blood-soaked tale of revenge through breathtaking sword-fight sequences.\n\nAnd now, known for its uncompromising quality, animation studio Cypic brings the story to life with jaw-dropping visuals!\n\n[Story]\nFlames of resolve, kindled by hatred.\n\nChihiro Rokuhira is a boy who aspires to become a swordsmith, and took daily training under his father Kunishige, a renowned swordsmith. Their days, once filled with laughter, are brutally torn apart by an attack from the mysterious sorcerer organization, the Hishaku.\n\nWhat is stolen from them are the six Enchanted Blades—s",
+      "channel_title": "SHOCHIKU animeチャンネル【公式】",
+      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
+      "published_at": "2026-04-27T12:09:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LFJJA8Qeqz4/hqdefault.jpg",
+      "duration": "PT46S",
+      "duration_seconds": 46,
+      "view_count": 1057218,
+      "like_count": 84336,
+      "comment_count": 107,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LFJJA8Qeqz4"
     },
     {
       "video_id": "1hX0NfXf91w",
@@ -180,40 +222,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1hX0NfXf91w"
-    },
-    {
-      "video_id": "LFJJA8Qeqz4",
-      "title": "KAGURABACHI｜Official Teaser Trailer",
-      "description": "KAGURABACHI set for TV Anime Adaptation by Cypic in April 2027!\n\nOfficial Website: https://anime.kagurabachi.jp/en/\nOfficial X: https://x.com/kb_anime_jp\nOfficial TikTok: https://www.tiktok.com/@kb_anime_jp\n\n[Introduction]\nA single stroke opens a new era, cutting a path from Japan to the world—\nWeekly Shonen Jump's Neo-Japanese Sword Action series begins here!\n\nFrom day one, the Kagurabachi manga has captivated fans, weaving a blood-soaked tale of revenge through breathtaking sword-fight sequences.\n\nAnd now, known for its uncompromising quality, animation studio Cypic brings the story to life with jaw-dropping visuals!\n\n[Story]\nFlames of resolve, kindled by hatred.\n\nChihiro Rokuhira is a boy who aspires to become a swordsmith, and took daily training under his father Kunishige, a renowned swordsmith. Their days, once filled with laughter, are brutally torn apart by an attack from the mysterious sorcerer organization, the Hishaku.\n\nWhat is stolen from them are the six Enchanted Blades—s",
-      "channel_title": "SHOCHIKU animeチャンネル【公式】",
-      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
-      "published_at": "2026-04-27T12:09:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LFJJA8Qeqz4/hqdefault.jpg",
-      "duration": "PT46S",
-      "duration_seconds": 46,
-      "view_count": 981407,
-      "like_count": 80802,
-      "comment_count": 107,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LFJJA8Qeqz4"
-    },
-    {
-      "video_id": "iN4Duo2JVYc",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-28T08:21:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iN4Duo2JVYc/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iN4Duo2JVYc"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,9 +236,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 214101,
-      "like_count": 8590,
-      "comment_count": 438,
+      "view_count": 395207,
+      "like_count": 11566,
+      "comment_count": 581,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -273,9 +281,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 205409,
-      "like_count": 16571,
-      "comment_count": 1451,
+      "view_count": 368038,
+      "like_count": 20342,
+      "comment_count": 1722,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -290,6 +298,51 @@
         "apex legends trailer"
       ],
       "url": "https://www.youtube.com/watch?v=qb00PDb7eqM"
+    },
+    {
+      "video_id": "nz-_2j_ZtgU",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-04-28T20:38:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nz-_2j_ZtgU/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nz-_2j_ZtgU"
+    },
+    {
+      "video_id": "5X1dMFuHZhc",
+      "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+      "description": "There will be no doubt who the gods have chosen to rule. \n\n#HOTD Season 3 premieres June 21 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
+      "channel_title": "HBO Max",
+      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "published_at": "2026-04-27T14:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
+      "duration": "PT1M55S",
+      "duration_seconds": 115,
+      "view_count": 2088774,
+      "like_count": 75560,
+      "comment_count": 3414,
+      "category_id": "24",
+      "tags": [
+        "hbo max",
+        "hbo",
+        "hbo originals",
+        "hbo original series",
+        "hbo trailer",
+        "new on hbo",
+        "max",
+        "hbo max originals",
+        "hbo max trailer",
+        "hbo max teaser"
+      ],
+      "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc"
     },
     {
       "video_id": "gsUZDHkMxOs",
@@ -309,51 +362,6 @@
       "url": "https://www.youtube.com/watch?v=gsUZDHkMxOs"
     },
     {
-      "video_id": "5X1dMFuHZhc",
-      "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
-      "description": "There will be no doubt who the gods have chosen to rule. \n\n#HOTD Season 3 premieres June 21 on HBO Max.\n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook",
-      "channel_title": "HBO Max",
-      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
-      "published_at": "2026-04-27T14:30:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
-      "duration": "PT1M55S",
-      "duration_seconds": 115,
-      "view_count": 1940316,
-      "like_count": 73099,
-      "comment_count": 3290,
-      "category_id": "24",
-      "tags": [
-        "hbo max",
-        "hbo",
-        "hbo originals",
-        "hbo original series",
-        "hbo trailer",
-        "new on hbo",
-        "max",
-        "hbo max originals",
-        "hbo max trailer",
-        "hbo max teaser"
-      ],
-      "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc"
-    },
-    {
-      "video_id": "3cp1EamgqdQ",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-28T07:45:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3cp1EamgqdQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3cp1EamgqdQ"
-    },
-    {
       "video_id": "sNwzFhGwA94",
       "title": "jackass: best and last | Official Trailer (2026 Movie)",
       "description": "it’s time to relive the best and experience the last. watch the official trailer for jackass: best and last, only in theatres june 26. #jackassmovie #jackassbestandlast\n\nJohnny Knoxville and the gang return for one final fling at the big screen. Featuring all-new stunts and stupidity along with the greatest hits and biggest laughs from the past, jackass: best and last is a joyously raucous celebration of all the mischievous camaraderie that you’ve come to love and expect from these idiots over the past 25 years. So, grab your dumb little buddies, raise your glasses, and come experience the cinematic event that promises to be the last time you’ll ever laugh this hard in a theatre.\n\nConnect with #jackassmovie \nWebsite: https://www.jackassmovie.com/\nInstagram: https://www.instagram.com/jackass/\nX: https://x.com/jackassworld\nFacebook: https://www.facebook.com/jackass\nTikTok: https://www.tiktok.com/@officialjackass\nThreads: https://www.threads.com/@jackass\n\nParamount Pictures Corporation (P",
@@ -363,12 +371,37 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 4863537,
-      "like_count": 80840,
-      "comment_count": 4458,
+      "view_count": 4992411,
+      "like_count": 84222,
+      "comment_count": 4615,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
+    },
+    {
+      "video_id": "JfozPo2L7xQ",
+      "title": "My Hero Academia x Brawl Stars",
+      "description": "Are you ready to go PLUS ULTRA? 💥\n\n#MyHeroAcademia x #BrawlStars\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe",
+      "channel_title": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "published_at": "2026-04-28T08:01:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JfozPo2L7xQ/hqdefault.jpg",
+      "duration": "PT2M31S",
+      "duration_seconds": 151,
+      "view_count": 4022681,
+      "like_count": 202767,
+      "comment_count": 9626,
+      "category_id": "20",
+      "tags": [
+        "brawl stars",
+        "mobile game",
+        "mobile strategy game",
+        "mobile rpg",
+        "mobile battle royale",
+        "battle royale",
+        "supercell game"
+      ],
+      "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ"
     },
     {
       "video_id": "1hX0NfXf91w",
@@ -388,23 +421,6 @@
       "url": "https://www.youtube.com/watch?v=1hX0NfXf91w"
     },
     {
-      "video_id": "iN4Duo2JVYc",
-      "title": "The Rachel Maddow Show",
-      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-04-28T08:21:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iN4Duo2JVYc/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iN4Duo2JVYc"
-    },
-    {
       "video_id": "LFJJA8Qeqz4",
       "title": "KAGURABACHI｜Official Teaser Trailer",
       "description": "KAGURABACHI set for TV Anime Adaptation by Cypic in April 2027!\n\nOfficial Website: https://anime.kagurabachi.jp/en/\nOfficial X: https://x.com/kb_anime_jp\nOfficial TikTok: https://www.tiktok.com/@kb_anime_jp\n\n[Introduction]\nA single stroke opens a new era, cutting a path from Japan to the world—\nWeekly Shonen Jump's Neo-Japanese Sword Action series begins here!\n\nFrom day one, the Kagurabachi manga has captivated fans, weaving a blood-soaked tale of revenge through breathtaking sword-fight sequences.\n\nAnd now, known for its uncompromising quality, animation studio Cypic brings the story to life with jaw-dropping visuals!\n\n[Story]\nFlames of resolve, kindled by hatred.\n\nChihiro Rokuhira is a boy who aspires to become a swordsmith, and took daily training under his father Kunishige, a renowned swordsmith. Their days, once filled with laughter, are brutally torn apart by an attack from the mysterious sorcerer organization, the Hishaku.\n\nWhat is stolen from them are the six Enchanted Blades—s",
@@ -414,8 +430,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LFJJA8Qeqz4/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 981407,
-      "like_count": 80802,
+      "view_count": 1057218,
+      "like_count": 84336,
       "comment_count": 107,
       "category_id": "1",
       "tags": [],
@@ -426,104 +442,99 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_and_media": {
-          "description": "A significant portion of the trending videos are related to entertainment and media, including trailers for TV shows and movies.",
-          "insights": [
-            {
-              "title": "Ted Lasso — Season 4 Official Teaser | Apple TV",
-              "category": "TV Show",
-              "view_estimate": "High engagement expected due to popular series"
-            },
-            {
-              "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
-              "category": "TV Show",
-              "view_estimate": "High engagement due to established fan base from Game of Thrones"
-            },
-            {
-              "title": "jackass: best and last | Official Trailer (2026 Movie)",
-              "category": "Movie",
-              "view_estimate": "High due to cult following and nostalgia factor"
-            }
+        "entertainment": {
+          "description": "High interest in entertainment trailers indicates a strong demand for upcoming series and movies.",
+          "evidence": [
+            "Ted Lasso — Season 4 Official Teaser | Apple TV",
+            "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+            "jackass: best and last | Official Trailer (2026 Movie)",
+            "KAGURABACHI｜Official Teaser Trailer"
+          ],
+          "actionable_insights": [
+            "Production companies should capitalize on teaser releases to maintain audience engagement.",
+            "Consider behind-the-scenes content to extend viewer interest beyond initial teaser launches."
           ]
         },
         "sports": {
-          "description": "Sports content is prominently featured with multiple videos focused on live games.",
-          "insights": [
-            {
-              "title": "Oklahoma City Thunder at Phoenix Suns",
-              "category": "Basketball",
-              "view_estimate": "Moderate to high depending on fanbase size"
-            },
-            {
-              "title": "Philadelphia Flyers at Pittsburgh Penguins",
-              "category": "Hockey",
-              "view_estimate": "Moderate with regional engagement"
-            },
-            {
-              "title": "Tampa Bay Rays at Cleveland Guardians",
-              "category": "Baseball",
-              "view_estimate": "Moderate with niche audience"
-            }
-          ]
-        },
-        "news_and_politics": {
-          "description": "News segments and political commentary are trending, reflecting current events and public interest.",
-          "insights": [
-            {
-              "title": "Jesse Watters Primetime",
-              "category": "News Commentary",
-              "view_estimate": "High due to topical relevance and audience engagement"
-            },
-            {
-              "title": "The Rachel Maddow Show",
-              "category": "News Commentary",
-              "view_estimate": "High with established viewer base"
-            }
+          "description": "Sports events involving notable teams are trending, indicating a continued viewer interest in live sports content.",
+          "evidence": [
+            "Oklahoma City Thunder at Phoenix Suns",
+            "Philadelphia Flyers at Pittsburgh Penguins",
+            "Tampa Bay Rays at Cleveland Guardians"
+          ],
+          "actionable_insights": [
+            "Sports networks can leverage this interest by creating highlight reels or player interviews post-game.",
+            "Explore partnerships with social media platforms for live in-game discussions to enhance viewer interaction."
           ]
         },
         "gaming": {
-          "description": "Gaming content, especially related to new updates and trailers, is trending, indicating strong interest in this segment.",
-          "insights": [
-            {
-              "title": "Apex Legends: Overclocked Anthem Trailer",
-              "category": "Gaming",
-              "view_estimate": "High due to active gaming community"
-            },
-            {
-              "title": "KAGURABACHI｜Official Teaser Trailer",
-              "category": "Anime/Game",
-              "view_estimate": "Niche but potentially viral among anime and gaming enthusiasts"
-            }
+          "description": "Gaming trailers are capturing attention, indicating strong engagement with the gaming community.",
+          "evidence": [
+            "Apex Legends: Overclocked Anthem Trailer",
+            "My Hero Academia x Brawl Stars"
+          ],
+          "actionable_insights": [
+            "Game developers should explore collaborations with popular gaming influencers for broader reach.",
+            "Create interactive content that allows viewers to participate in the gaming experience, such as beta testing opportunities."
+          ]
+        },
+        "news": {
+          "description": "Continued engagement with news content highlights the audience's interest in current events.",
+          "evidence": [
+            "America's Newsroom"
+          ],
+          "actionable_insights": [
+            "News channels should explore real-time news updates and interactive segments to keep viewers engaged.",
+            "Utilize storytelling techniques to present news in a more engaging format."
           ]
         }
       },
       "creator_patterns": {
-        "dominant_channels": [
-          "Apple TV",
-          "HBO Max",
-          "Apex Legends"
-        ],
-        "analysis": "Large entertainment networks and gaming companies dominate the trending list, suggesting influence by established brands and franchises."
+        "top_channels": {
+          "Apple TV": {
+            "content_type": "Entertainment",
+            "strategy": "Focus on high-quality teasers that generate anticipation for upcoming series."
+          },
+          "NBCSN": {
+            "content_type": "Sports",
+            "strategy": "Leverage live sports coverage and post-game analysis for increased viewer retention."
+          },
+          "Apex Legends": {
+            "content_type": "Gaming",
+            "strategy": "Engage with the community through interactive content and exclusive game updates."
+          },
+          "FOX News": {
+            "content_type": "News",
+            "strategy": "Maintain relevance through timely news coverage and in-depth analysis."
+          },
+          "HBO Max": {
+            "content_type": "Entertainment",
+            "strategy": "Use high-profile series trailers to attract subscribers and maintain platform interest."
+          }
+        }
       },
       "market_opportunities": {
-        "emerging_opportunities": [
-          {
-            "sector": "Streaming Services",
-            "opportunity": "Capitalize on nostalgia and franchise expansions to drive engagement."
-          },
-          {
-            "sector": "Live Sports Broadcasts",
-            "opportunity": "Enhance interactive features and regional marketing to boost viewership."
-          },
-          {
-            "sector": "Gaming and Anime",
-            "opportunity": "Leverage cross-promotional content between games and anime adaptations to capture overlapping audiences."
-          },
-          {
-            "sector": "News and Political Commentary",
-            "opportunity": "Develop shorter, more engaging clips for social media to reach younger audiences."
-          }
-        ]
+        "cross-industry collaborations": {
+          "description": "Potential for partnerships between entertainment and gaming content creators to expand audience reach.",
+          "actionable_insights": [
+            "Explore limited edition gaming content featuring characters or themes from popular TV series.",
+            "Develop interactive experiences that combine elements of gaming with storytelling from entertainment franchises."
+          ]
+        },
+        "enhanced viewer engagement": {
+          "description": "Opportunities to increase viewer interaction through live streams, Q&A sessions, and interactive content.",
+          "actionable_insights": [
+            "Implement live Q&A sessions with creators following trailer releases to enhance viewer connection.",
+            "Utilize social media platforms for real-time engagement during live sports events."
+          ]
+        },
+        "diversification of content": {
+          "description": "Expanding content offerings to include more diverse genres and formats to capture different audience segments.",
+          "actionable_insights": [
+            "Introduce mini-series or short films to capture audiences with limited viewing time.",
+            "Experiment with different content formats, such as podcasts or virtual reality experiences, to stand out in a competitive market."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -531,7 +542,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 820477
+        "avg_views_per_video": 1292432
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
