@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-28T21:30:22.685856",
-  "date": "2026-04-28",
+  "timestamp": "2026-04-29T01:01:31.234844",
+  "date": "2026-04-29",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 395207,
-      "like_count": 11566,
-      "comment_count": 581,
+      "view_count": 521367,
+      "like_count": 13808,
+      "comment_count": 676,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 368038,
-      "like_count": 20342,
-      "comment_count": 1722,
+      "view_count": 495059,
+      "like_count": 23508,
+      "comment_count": 1921,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -86,21 +86,21 @@
       "url": "https://www.youtube.com/watch?v=qb00PDb7eqM"
     },
     {
-      "video_id": "nz-_2j_ZtgU",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "yDrvo2UL590",
+      "title": "Outnumbered",
+      "description": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-28T20:38:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nz-_2j_ZtgU/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-04-28T22:44:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yDrvo2UL590/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=nz-_2j_ZtgU"
+      "url": "https://www.youtube.com/watch?v=yDrvo2UL590"
     },
     {
       "video_id": "5X1dMFuHZhc",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
       "duration": "PT1M55S",
       "duration_seconds": 115,
-      "view_count": 2088774,
-      "like_count": 75560,
-      "comment_count": 3414,
+      "view_count": 2184250,
+      "like_count": 77706,
+      "comment_count": 3517,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -157,12 +157,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 4992411,
-      "like_count": 84222,
-      "comment_count": 4615,
+      "view_count": 5103186,
+      "like_count": 86909,
+      "comment_count": 4738,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
+    },
+    {
+      "video_id": "8zTRxqGyANI",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-28T21:39:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8zTRxqGyANI/hqdefault.jpg",
+      "duration": "PT4H24S",
+      "duration_seconds": 14424,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8zTRxqGyANI"
+    },
+    {
+      "video_id": "ML4L1XSZnKM",
+      "title": "Honest Trailers | The Departed",
+      "description": "20 years ago we were shipping up to Boston for Martin Scorcese’s best picture winning crime capah, The Depaahted. Who’s the cop, who’s the rat, who’s gonna coach the Pats? Almost all will be revealed in this week’s Honest Trailer!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #thedeparted #scorsese",
+      "channel_title": "Screen Junkies",
+      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
+      "published_at": "2026-04-28T17:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ML4L1XSZnKM/hqdefault.jpg",
+      "duration": "PT6M15S",
+      "duration_seconds": 375,
+      "view_count": 125375,
+      "like_count": 6690,
+      "comment_count": 583,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ML4L1XSZnKM"
     },
     {
       "video_id": "JfozPo2L7xQ",
@@ -174,9 +208,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JfozPo2L7xQ/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 4022681,
-      "like_count": 202767,
-      "comment_count": 9626,
+      "view_count": 4503343,
+      "like_count": 220615,
+      "comment_count": 10345,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -188,40 +222,6 @@
         "supercell game"
       ],
       "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ"
-    },
-    {
-      "video_id": "LFJJA8Qeqz4",
-      "title": "KAGURABACHI｜Official Teaser Trailer",
-      "description": "KAGURABACHI set for TV Anime Adaptation by Cypic in April 2027!\n\nOfficial Website: https://anime.kagurabachi.jp/en/\nOfficial X: https://x.com/kb_anime_jp\nOfficial TikTok: https://www.tiktok.com/@kb_anime_jp\n\n[Introduction]\nA single stroke opens a new era, cutting a path from Japan to the world—\nWeekly Shonen Jump's Neo-Japanese Sword Action series begins here!\n\nFrom day one, the Kagurabachi manga has captivated fans, weaving a blood-soaked tale of revenge through breathtaking sword-fight sequences.\n\nAnd now, known for its uncompromising quality, animation studio Cypic brings the story to life with jaw-dropping visuals!\n\n[Story]\nFlames of resolve, kindled by hatred.\n\nChihiro Rokuhira is a boy who aspires to become a swordsmith, and took daily training under his father Kunishige, a renowned swordsmith. Their days, once filled with laughter, are brutally torn apart by an attack from the mysterious sorcerer organization, the Hishaku.\n\nWhat is stolen from them are the six Enchanted Blades—s",
-      "channel_title": "SHOCHIKU animeチャンネル【公式】",
-      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
-      "published_at": "2026-04-27T12:09:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LFJJA8Qeqz4/hqdefault.jpg",
-      "duration": "PT46S",
-      "duration_seconds": 46,
-      "view_count": 1057218,
-      "like_count": 84336,
-      "comment_count": 107,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LFJJA8Qeqz4"
-    },
-    {
-      "video_id": "1hX0NfXf91w",
-      "title": "Tampa Bay Rays at Cleveland Guardians",
-      "description": "The Rays and Guardians open a three-game series at Progressive Field. Cleveland leads the AL Central with a 14-12 record, while Tampa Bay seeks to improve its 8-7 road mark. The Guardians won the last meeting between these clubs, 9-2, in July 2025.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-28T08:18:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1hX0NfXf91w/hqdefault.jpg",
-      "duration": "PT2H40M11S",
-      "duration_seconds": 9611,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1hX0NfXf91w"
     }
   ],
   "videos_with_transcripts": [],
@@ -236,9 +236,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 395207,
-      "like_count": 11566,
-      "comment_count": 581,
+      "view_count": 521367,
+      "like_count": 13808,
+      "comment_count": 676,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -281,9 +281,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 368038,
-      "like_count": 20342,
-      "comment_count": 1722,
+      "view_count": 495059,
+      "like_count": 23508,
+      "comment_count": 1921,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -300,21 +300,21 @@
       "url": "https://www.youtube.com/watch?v=qb00PDb7eqM"
     },
     {
-      "video_id": "nz-_2j_ZtgU",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "yDrvo2UL590",
+      "title": "Outnumbered",
+      "description": "Four female panelists and one male colleague share their perspectives on the day's top news stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-04-28T20:38:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nz-_2j_ZtgU/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-04-28T22:44:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yDrvo2UL590/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=nz-_2j_ZtgU"
+      "url": "https://www.youtube.com/watch?v=yDrvo2UL590"
     },
     {
       "video_id": "5X1dMFuHZhc",
@@ -326,9 +326,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
       "duration": "PT1M55S",
       "duration_seconds": 115,
-      "view_count": 2088774,
-      "like_count": 75560,
-      "comment_count": 3414,
+      "view_count": 2184250,
+      "like_count": 77706,
+      "comment_count": 3517,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -371,12 +371,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 4992411,
-      "like_count": 84222,
-      "comment_count": 4615,
+      "view_count": 5103186,
+      "like_count": 86909,
+      "comment_count": 4738,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
+    },
+    {
+      "video_id": "8zTRxqGyANI",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-04-28T21:39:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8zTRxqGyANI/hqdefault.jpg",
+      "duration": "PT4H24S",
+      "duration_seconds": 14424,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8zTRxqGyANI"
+    },
+    {
+      "video_id": "ML4L1XSZnKM",
+      "title": "Honest Trailers | The Departed",
+      "description": "20 years ago we were shipping up to Boston for Martin Scorcese’s best picture winning crime capah, The Depaahted. Who’s the cop, who’s the rat, who’s gonna coach the Pats? Almost all will be revealed in this week’s Honest Trailer!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #thedeparted #scorsese",
+      "channel_title": "Screen Junkies",
+      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
+      "published_at": "2026-04-28T17:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ML4L1XSZnKM/hqdefault.jpg",
+      "duration": "PT6M15S",
+      "duration_seconds": 375,
+      "view_count": 125375,
+      "like_count": 6690,
+      "comment_count": 583,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ML4L1XSZnKM"
     },
     {
       "video_id": "JfozPo2L7xQ",
@@ -388,9 +422,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JfozPo2L7xQ/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 4022681,
-      "like_count": 202767,
-      "comment_count": 9626,
+      "view_count": 4503343,
+      "like_count": 220615,
+      "comment_count": 10345,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -402,147 +436,93 @@
         "supercell game"
       ],
       "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ"
-    },
-    {
-      "video_id": "1hX0NfXf91w",
-      "title": "Tampa Bay Rays at Cleveland Guardians",
-      "description": "The Rays and Guardians open a three-game series at Progressive Field. Cleveland leads the AL Central with a 14-12 record, while Tampa Bay seeks to improve its 8-7 road mark. The Guardians won the last meeting between these clubs, 9-2, in July 2025.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-04-28T08:18:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1hX0NfXf91w/hqdefault.jpg",
-      "duration": "PT2H40M11S",
-      "duration_seconds": 9611,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1hX0NfXf91w"
-    },
-    {
-      "video_id": "LFJJA8Qeqz4",
-      "title": "KAGURABACHI｜Official Teaser Trailer",
-      "description": "KAGURABACHI set for TV Anime Adaptation by Cypic in April 2027!\n\nOfficial Website: https://anime.kagurabachi.jp/en/\nOfficial X: https://x.com/kb_anime_jp\nOfficial TikTok: https://www.tiktok.com/@kb_anime_jp\n\n[Introduction]\nA single stroke opens a new era, cutting a path from Japan to the world—\nWeekly Shonen Jump's Neo-Japanese Sword Action series begins here!\n\nFrom day one, the Kagurabachi manga has captivated fans, weaving a blood-soaked tale of revenge through breathtaking sword-fight sequences.\n\nAnd now, known for its uncompromising quality, animation studio Cypic brings the story to life with jaw-dropping visuals!\n\n[Story]\nFlames of resolve, kindled by hatred.\n\nChihiro Rokuhira is a boy who aspires to become a swordsmith, and took daily training under his father Kunishige, a renowned swordsmith. Their days, once filled with laughter, are brutally torn apart by an attack from the mysterious sorcerer organization, the Hishaku.\n\nWhat is stolen from them are the six Enchanted Blades—s",
-      "channel_title": "SHOCHIKU animeチャンネル【公式】",
-      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
-      "published_at": "2026-04-27T12:09:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LFJJA8Qeqz4/hqdefault.jpg",
-      "duration": "PT46S",
-      "duration_seconds": 46,
-      "view_count": 1057218,
-      "like_count": 84336,
-      "comment_count": 107,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=LFJJA8Qeqz4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment": {
-          "description": "High interest in entertainment trailers indicates a strong demand for upcoming series and movies.",
-          "evidence": [
+      "overview": {
+        "total_videos": 10,
+        "total_views": 12932580,
+        "average_views_per_video": 1293258
+      },
+      "trending_content_themes": [
+        {
+          "theme": "Entertainment",
+          "description": "A significant portion of the trending videos are related to entertainment, including TV series teasers and movie trailers, indicating strong viewer interest in upcoming releases.",
+          "examples": [
             "Ted Lasso — Season 4 Official Teaser | Apple TV",
             "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
-            "jackass: best and last | Official Trailer (2026 Movie)",
-            "KAGURABACHI｜Official Teaser Trailer"
-          ],
-          "actionable_insights": [
-            "Production companies should capitalize on teaser releases to maintain audience engagement.",
-            "Consider behind-the-scenes content to extend viewer interest beyond initial teaser launches."
+            "jackass: best and last | Official Trailer (2026 Movie)"
           ]
         },
-        "sports": {
-          "description": "Sports events involving notable teams are trending, indicating a continued viewer interest in live sports content.",
-          "evidence": [
-            "Oklahoma City Thunder at Phoenix Suns",
-            "Philadelphia Flyers at Pittsburgh Penguins",
-            "Tampa Bay Rays at Cleveland Guardians"
-          ],
-          "actionable_insights": [
-            "Sports networks can leverage this interest by creating highlight reels or player interviews post-game.",
-            "Explore partnerships with social media platforms for live in-game discussions to enhance viewer interaction."
-          ]
-        },
-        "gaming": {
-          "description": "Gaming trailers are capturing attention, indicating strong engagement with the gaming community.",
-          "evidence": [
+        {
+          "theme": "Gaming",
+          "description": "Gaming content, particularly trailers for popular games like Apex Legends, continues to capture audience attention, reflecting the strong gaming community presence on YouTube.",
+          "examples": [
             "Apex Legends: Overclocked Anthem Trailer",
             "My Hero Academia x Brawl Stars"
-          ],
-          "actionable_insights": [
-            "Game developers should explore collaborations with popular gaming influencers for broader reach.",
-            "Create interactive content that allows viewers to participate in the gaming experience, such as beta testing opportunities."
           ]
         },
-        "news": {
-          "description": "Continued engagement with news content highlights the audience's interest in current events.",
-          "evidence": [
-            "America's Newsroom"
-          ],
-          "actionable_insights": [
-            "News channels should explore real-time news updates and interactive segments to keep viewers engaged.",
-            "Utilize storytelling techniques to present news in a more engaging format."
-          ]
-        }
-      },
-      "creator_patterns": {
-        "top_channels": {
-          "Apple TV": {
-            "content_type": "Entertainment",
-            "strategy": "Focus on high-quality teasers that generate anticipation for upcoming series."
-          },
-          "NBCSN": {
-            "content_type": "Sports",
-            "strategy": "Leverage live sports coverage and post-game analysis for increased viewer retention."
-          },
-          "Apex Legends": {
-            "content_type": "Gaming",
-            "strategy": "Engage with the community through interactive content and exclusive game updates."
-          },
-          "FOX News": {
-            "content_type": "News",
-            "strategy": "Maintain relevance through timely news coverage and in-depth analysis."
-          },
-          "HBO Max": {
-            "content_type": "Entertainment",
-            "strategy": "Use high-profile series trailers to attract subscribers and maintain platform interest."
-          }
-        }
-      },
-      "market_opportunities": {
-        "cross-industry collaborations": {
-          "description": "Potential for partnerships between entertainment and gaming content creators to expand audience reach.",
-          "actionable_insights": [
-            "Explore limited edition gaming content featuring characters or themes from popular TV series.",
-            "Develop interactive experiences that combine elements of gaming with storytelling from entertainment franchises."
+        {
+          "theme": "Sports",
+          "description": "Live sports events and highlights are trending, showcasing the demand for sports content, especially when it involves major teams or rivalries.",
+          "examples": [
+            "Oklahoma City Thunder at Phoenix Suns",
+            "Philadelphia Flyers at Pittsburgh Penguins"
           ]
         },
-        "enhanced viewer engagement": {
-          "description": "Opportunities to increase viewer interaction through live streams, Q&A sessions, and interactive content.",
-          "actionable_insights": [
-            "Implement live Q&A sessions with creators following trailer releases to enhance viewer connection.",
-            "Utilize social media platforms for real-time engagement during live sports events."
+        {
+          "theme": "Political Commentary",
+          "description": "Political and news commentary maintains a significant viewership, indicating an engaged audience interested in current events.",
+          "examples": [
+            "Outnumbered",
+            "Morning Joe"
           ]
         },
-        "diversification of content": {
-          "description": "Expanding content offerings to include more diverse genres and formats to capture different audience segments.",
-          "actionable_insights": [
-            "Introduce mini-series or short films to capture audiences with limited viewing time.",
-            "Experiment with different content formats, such as podcasts or virtual reality experiences, to stand out in a competitive market."
+        {
+          "theme": "Parody/Satire",
+          "description": "Parody and satire, such as Honest Trailers, remain popular, suggesting a consistent audience for humorous takes on well-known media.",
+          "examples": [
+            "Honest Trailers | The Departed"
           ]
         }
-      },
+      ],
+      "creator_patterns": [
+        {
+          "pattern": "Diverse Content Providers",
+          "description": "The top channels like Apple TV, HBO Max, and gaming platforms indicate a varied content source, suggesting a wide range of interests among viewers."
+        },
+        {
+          "pattern": "Brand Consistency",
+          "description": "Established brands like HBO Max and Apple TV continue to leverage their platforms for promoting new content, demonstrating the importance of brand consistency in viewer retention."
+        }
+      ],
+      "market_opportunities": [
+        {
+          "opportunity": "Expand Gaming Content",
+          "description": "Given the continued popularity of gaming-related videos, there is an opportunity for more content around game launches, reviews, and player tips."
+        },
+        {
+          "opportunity": "Capitalize on Streaming Series",
+          "description": "With teasers for series like 'Ted Lasso' and 'House of the Dragon' trending, creating content around theories, episode breakdowns, and character analysis could attract dedicated fan bases."
+        },
+        {
+          "opportunity": "Leverage Live Sports",
+          "description": "Producing highlight reels, analyses, and behind-the-scenes content for sports events could draw in sports enthusiasts, particularly for major games and rivalries."
+        },
+        {
+          "opportunity": "Developing Parody Content",
+          "description": "Given the success of parody channels like Honest Trailers, there is room for growth in this niche, particularly for new releases and classic media."
+        }
+      ],
       "metadata_stats": {
         "analysis_method": "metadata_only",
         "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1292432
+        "avg_views_per_video": 1293258
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
