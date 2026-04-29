@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T12:45:54.172120",
+  "timestamp": "2026-04-29T15:47:03.162799",
   "date": "2026-04-29",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 671951,
-      "like_count": 17157,
-      "comment_count": 811,
+      "view_count": 686958,
+      "like_count": 18583,
+      "comment_count": 873,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 714824,
-      "like_count": 27229,
-      "comment_count": 2191,
+      "view_count": 756964,
+      "like_count": 28035,
+      "comment_count": 2255,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
       "duration": "PT1M55S",
       "duration_seconds": 115,
-      "view_count": 2414131,
-      "like_count": 82816,
-      "comment_count": 3662,
+      "view_count": 2472899,
+      "like_count": 84333,
+      "comment_count": 3714,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -157,9 +157,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 5264353,
-      "like_count": 90886,
-      "comment_count": 4935,
+      "view_count": 5301588,
+      "like_count": 92080,
+      "comment_count": 5001,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
@@ -191,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ML4L1XSZnKM/hqdefault.jpg",
       "duration": "PT6M15S",
       "duration_seconds": 375,
-      "view_count": 214022,
-      "like_count": 9411,
-      "comment_count": 742,
+      "view_count": 229899,
+      "like_count": 9951,
+      "comment_count": 775,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=ML4L1XSZnKM"
@@ -228,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 671951,
-      "like_count": 17157,
-      "comment_count": 811,
+      "view_count": 686958,
+      "like_count": 18583,
+      "comment_count": 873,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -273,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qb00PDb7eqM/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 714824,
-      "like_count": 27229,
-      "comment_count": 2191,
+      "view_count": 756964,
+      "like_count": 28035,
+      "comment_count": 2255,
       "category_id": "20",
       "tags": [
         "apex legends",
@@ -318,9 +318,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5X1dMFuHZhc/hqdefault.jpg",
       "duration": "PT1M55S",
       "duration_seconds": 115,
-      "view_count": 2414131,
-      "like_count": 82816,
-      "comment_count": 3662,
+      "view_count": 2472899,
+      "like_count": 84333,
+      "comment_count": 3714,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -363,9 +363,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sNwzFhGwA94/hqdefault.jpg",
       "duration": "PT2M20S",
       "duration_seconds": 140,
-      "view_count": 5264353,
-      "like_count": 90886,
-      "comment_count": 4935,
+      "view_count": 5301588,
+      "like_count": 92080,
+      "comment_count": 5001,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sNwzFhGwA94"
@@ -397,9 +397,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ML4L1XSZnKM/hqdefault.jpg",
       "duration": "PT6M15S",
       "duration_seconds": 375,
-      "view_count": 214022,
-      "like_count": 9411,
-      "comment_count": 742,
+      "view_count": 229899,
+      "like_count": 9951,
+      "comment_count": 775,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=ML4L1XSZnKM"
@@ -425,54 +425,113 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment_and_sports": {
-          "description": "The majority of the trending videos fall into two main categories: entertainment (trailers and teasers) and sports (live events and highlights).",
-          "data": {
-            "entertainment_videos": 5,
-            "sports_videos": 3,
-            "other_videos": 2
-          },
-          "insights": [
-            "Entertainment and sports content dominate the trending section, suggesting high viewer interest in these areas.",
-            "Seasonal content such as TV show trailers and sports games are likely to trend due to timely relevance."
-          ]
-        }
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 9448308,
+        "averageViewsPerVideo": 944831,
+        "categories": "Unknown"
       },
-      "creator_patterns": {
-        "diverse_content_creators": {
-          "description": "The trending videos come from a variety of channels, each specializing in different content types.",
-          "data": {
-            "unique_channels": 5,
-            "videos_per_channel": {
-              "Apple TV": 1,
-              "ESPN": 1,
-              "Apex Legends": 1,
-              "TNT": 1,
-              "HBO Max": 1
-            }
+      "contentTrends": {
+        "dominantThemes": [
+          "Entertainment",
+          "Sports",
+          "Trailers"
+        ],
+        "notableGenres": [
+          "TV Series Teasers",
+          "Sports Events",
+          "Game Trailers",
+          "Movie Trailers",
+          "Satirical Commentary"
+        ],
+        "insights": [
+          {
+            "theme": "Entertainment",
+            "percentage": 50,
+            "description": "Half of the trending videos are related to entertainment, including TV series and movie trailers."
           },
-          "insights": [
-            "Each channel has a distinct specialization, which highlights the importance of niche content in attracting viewers.",
-            "Channels like Apple TV and HBO Max, known for high-quality entertainment content, are attracting significant viewership."
-          ]
-        }
+          {
+            "theme": "Sports",
+            "percentage": 30,
+            "description": "Sports content, both games and analysis, accounts for 30% of the trending videos."
+          },
+          {
+            "theme": "Gaming",
+            "percentage": 10,
+            "description": "Gaming content, particularly trailers for games like Apex Legends, represents 10%."
+          },
+          {
+            "theme": "Commentary",
+            "percentage": 10,
+            "description": "Satirical or commentary content like 'Honest Trailers' represents the remaining 10%."
+          }
+        ]
       },
-      "market_opportunities": {
-        "cross-promotion_and_collaboration": {
-          "description": "Opportunities exist in collaborating across entertainment and sports categories to leverage their combined audience reach.",
-          "strategies": [
-            "Encourage cross-promotion between sports and entertainment channels to capitalize on overlapping viewer interests.",
-            "Develop content that merges entertainment and sports themes, such as sports documentaries or behind-the-scenes series."
-          ]
-        },
-        "timely_releases_and_event-driven_content": {
-          "description": "Releasing content around major events or seasons can enhance visibility and audience engagement.",
-          "strategies": [
-            "Plan content releases to coincide with major sports events and entertainment seasons.",
-            "Utilize teasers and trailers to build anticipation and maintain viewer interest leading up to the content release."
-          ]
-        }
+      "creatorPatterns": {
+        "topChannels": [
+          {
+            "channel": "Apple TV",
+            "videos": 1,
+            "description": "High impact in entertainment with exclusive content teasers."
+          },
+          {
+            "channel": "ESPN",
+            "videos": 1,
+            "description": "Dominates sports content with live events and highlights."
+          },
+          {
+            "channel": "Apex Legends",
+            "videos": 1,
+            "description": "Represents gaming content with high viewer engagement."
+          },
+          {
+            "channel": "TNT",
+            "videos": 1,
+            "description": "Features sports content, likely related to NBA coverage."
+          },
+          {
+            "channel": "HBO Max",
+            "videos": 1,
+            "description": "Focuses on high-demand series teasers, leveraging brand reputation."
+          }
+        ],
+        "multi-category Influence": false,
+        "insights": [
+          {
+            "pattern": "Exclusive Content",
+            "description": "Channels with exclusive rights or original content tend to trend more."
+          },
+          {
+            "pattern": "Cross-promotion",
+            "description": "Brands like Apple TV and HBO Max use YouTube for cross-promotion of their streaming services."
+          }
+        ]
+      },
+      "marketOpportunities": {
+        "contentCreation": [
+          {
+            "opportunity": "Original Trailers",
+            "description": "Create high-quality trailers for upcoming content to capture viewer interest."
+          },
+          {
+            "opportunity": "Sports Highlights",
+            "description": "Leverage trending sports events with highlight reels and analysis videos."
+          },
+          {
+            "opportunity": "Gaming Engagement",
+            "description": "Produce engaging content around popular games with high viewer followings."
+          }
+        ],
+        "channelGrowth": [
+          {
+            "strategy": "Leverage Partnerships",
+            "description": "Collaborate with trending channels for cross-promotional opportunities."
+          },
+          {
+            "strategy": "Diversified Content",
+            "description": "Explore multiple content genres to increase exposure and reach diverse audiences."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -480,7 +539,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 927928
+        "avg_views_per_video": 944830
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
