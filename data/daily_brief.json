@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T18:40:36.401674",
+  "timestamp": "2026-04-30T21:28:07.999693",
   "date": "2026-04-30",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JRG244IfrRE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3253097,
-      "like_count": 28886,
-      "comment_count": 768,
+      "view_count": 3500104,
+      "like_count": 29973,
+      "comment_count": 781,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JRG244IfrRE"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 1099071,
-      "like_count": 27338,
-      "comment_count": 1260,
+      "view_count": 1128052,
+      "like_count": 28092,
+      "comment_count": 1297,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/E8klJjXc4II/hqdefault.jpg",
       "duration": "PT17M",
       "duration_seconds": 1020,
-      "view_count": 215755,
-      "like_count": 7381,
-      "comment_count": 394,
+      "view_count": 232346,
+      "like_count": 7699,
+      "comment_count": 404,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/prgi9DELhjc/hqdefault.jpg",
       "duration": "PT1M43S",
       "duration_seconds": 103,
-      "view_count": 610525,
-      "like_count": 27562,
-      "comment_count": 1898,
+      "view_count": 717937,
+      "like_count": 27758,
+      "comment_count": 1918,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -191,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KxUQWk0p7zk/hqdefault.jpg",
       "duration": "PT1M41S",
       "duration_seconds": 101,
-      "view_count": 1687347,
-      "like_count": 41024,
-      "comment_count": 922,
+      "view_count": 1753923,
+      "like_count": 41370,
+      "comment_count": 929,
       "category_id": "24",
       "tags": [
         "Sithara Entertainments"
@@ -230,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JRG244IfrRE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 3253097,
-      "like_count": 28886,
-      "comment_count": 768,
+      "view_count": 3500104,
+      "like_count": 29973,
+      "comment_count": 781,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JRG244IfrRE"
@@ -264,9 +264,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PxZg4SfIURg/hqdefault.jpg",
       "duration": "PT1M9S",
       "duration_seconds": 69,
-      "view_count": 1099071,
-      "like_count": 27338,
-      "comment_count": 1260,
+      "view_count": 1128052,
+      "like_count": 28092,
+      "comment_count": 1297,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -309,9 +309,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/E8klJjXc4II/hqdefault.jpg",
       "duration": "PT17M",
       "duration_seconds": 1020,
-      "view_count": 215755,
-      "like_count": 7381,
-      "comment_count": 394,
+      "view_count": 232346,
+      "like_count": 7699,
+      "comment_count": 404,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -354,9 +354,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/prgi9DELhjc/hqdefault.jpg",
       "duration": "PT1M43S",
       "duration_seconds": 103,
-      "view_count": 610525,
-      "like_count": 27562,
-      "comment_count": 1898,
+      "view_count": 717937,
+      "like_count": 27758,
+      "comment_count": 1918,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -399,9 +399,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KxUQWk0p7zk/hqdefault.jpg",
       "duration": "PT1M41S",
       "duration_seconds": 101,
-      "view_count": 1687347,
-      "like_count": 41024,
-      "comment_count": 922,
+      "view_count": 1753923,
+      "like_count": 41370,
+      "comment_count": 929,
       "category_id": "24",
       "tags": [
         "Sithara Entertainments"
@@ -431,69 +431,69 @@
     "metadata_based": {
       "content_trends": {
         "total_videos": 10,
-        "total_views": 6865795,
-        "average_views_per_video": 686579.5,
-        "dominant_themes": [
-          "Entertainment",
-          "Sports",
-          "Pop Culture",
-          "News"
-        ],
-        "insights": [
+        "total_views": 7332362,
+        "average_views_per_video": 733236.2,
+        "themes": [
           {
-            "trend": "Entertainment Trailers",
-            "details": "Videos like 'One Night Only | Official Trailer', 'Ted Lasso — Season 4 Official Teaser', and 'EPIC - Teaser' suggest a strong interest in upcoming entertainment releases, particularly those with existing fan bases.",
-            "actionable_insight": "Content creators and marketers should consider leveraging teaser content and exclusive sneak peeks to engage audiences, potentially through collaborations with popular entertainment franchises."
+            "theme": "Sports",
+            "videos_count": 3,
+            "examples": [
+              "Toronto Raptors at Cleveland Cavaliers",
+              "Pittsburgh Penguins at Philadelphia Flyers",
+              "Montreal Canadiens at Tampa Bay Lightning"
+            ],
+            "insights": "Sports content appears to be a significant driver of views, given the presence of three videos related to major sports events. These videos could be riding on the popularity of live sports and sports highlights."
           },
           {
-            "trend": "Sports Highlights",
-            "details": "Titles such as 'Toronto Raptors at Cleveland Cavaliers' and 'Pittsburgh Penguins at Philadelphia Flyers' indicate a trend towards sports event coverage as a popular content category.",
-            "actionable_insight": "Sports channels can increase engagement by focusing on live commentary, post-game analysis, and behind-the-scenes content."
+            "theme": "Trailers and Teasers",
+            "videos_count": 3,
+            "examples": [
+              "One Night Only | Official Trailer",
+              "Ted Lasso — Season 4 Official Teaser | Apple TV",
+              "EPIC - Teaser | Anand Deverakonda, Vaishnavi Chaitanya | Hesham AW | Naga Vamsi S | Aditya Hasan"
+            ],
+            "insights": "Trailers and teasers for upcoming shows and movies are trending, indicating a strong viewer interest in entertainment previews. These videos often capitalize on established fan bases and anticipation for new releases."
           },
           {
-            "trend": "Pop Culture Analysis",
-            "details": "'Finally Figured Out the AVENGERS DOOMSDAY Plot from Trailer… I Think?' and 'Path to Doomsday: The Avengers' highlight an interest in speculative content and fan theories.",
-            "actionable_insight": "Channels might capitalize on this by creating community-driven content that encourages fan speculation and interactive discussions."
-          },
-          {
-            "trend": "News and Commentary",
-            "details": "Titles like 'Jesse Watters Primetime' and 'The Last Word With Lawrence O'Donnell' suggest a demand for current events and news analysis.",
-            "actionable_insight": "News channels should consider focusing on timely, in-depth analysis and providing unique perspectives to stand out in a crowded market."
+            "theme": "Pop Culture Analysis",
+            "videos_count": 2,
+            "examples": [
+              "Finally Figured Out the AVENGERS DOOMSDAY Plot from Trailer… I Think?",
+              "Path to Doomsday: The Avengers | New Asymmetric PvP Mode Trailer | Marvel Rivals"
+            ],
+            "insights": "There is a notable interest in pop culture analysis and speculative content, particularly around popular franchises like 'The Avengers'. This suggests opportunities for creators to engage audiences with in-depth analysis and fan theories."
           }
         ]
       },
       "creator_patterns": {
-        "top_channels": [
+        "diversity_of_channels": 5,
+        "top_channel_examples": [
           "Universal Pictures",
           "ESPN",
           "Apple TV",
           "TNT",
           "New Rockstars"
         ],
-        "insights": [
-          {
-            "pattern": "Diverse Content Types",
-            "details": "Top channels are producing a mix of trailers, sports highlights, and commentary, indicating a need for content variety.",
-            "actionable_insight": "Creators should explore diversifying their content offerings to cover multiple interests and retain larger audiences."
-          },
-          {
-            "pattern": "Brand Authority",
-            "details": "Channels like Apple TV and Universal Pictures leverage strong brand identities to attract views, even with minimal video releases.",
-            "actionable_insight": "New creators should consider building a niche authority or partnering with established brands to boost credibility and reach."
-          }
-        ]
+        "insights": "The presence of established channels like Universal Pictures and ESPN suggests that branded content from well-known entities continues to perform well. However, the inclusion of channels like New Rockstars highlights a space for niche creators who specialize in detailed content analysis to thrive."
       },
       "market_opportunities": {
-        "emerging_opportunities": [
+        "emerging_interests": [
+          "Live Sports and Commentary",
+          "Entertainment Previews",
+          "Deep Dives into Popular Franchises"
+        ],
+        "recommendations": [
           {
-            "opportunity": "Interactive and Community-Driven Content",
-            "details": "The popularity of fan theories and speculative content suggests an opportunity for interactive and collaborative content creation.",
-            "actionable_insight": "Develop platforms or series that allow audience participation, such as polls, theory submissions, or live Q&A sessions."
+            "opportunity": "Enhanced Sports Coverage",
+            "suggestion": "Develop content that provides more than just highlights, such as player interviews, behind-the-scenes footage, and expert analysis to capture the sports audience."
           },
           {
-            "opportunity": "Localized Sports Content",
-            "details": "Regional sports events are drawing significant interest, pointing to a demand for localized sports coverage.",
-            "actionable_insight": "Sports networks or creators could focus on hyper-local sports content, providing targeted coverage and community engagement."
+            "opportunity": "Interactive Entertainment Previews",
+            "suggestion": "Create interactive experiences or discussions around upcoming releases, allowing viewers to engage with content through polls or live comments."
+          },
+          {
+            "opportunity": "Pop Culture Analysis",
+            "suggestion": "Capitalize on the demand for speculative and analytical content around popular franchises by producing theory-based videos and collaborations with experts."
           }
         ]
       },
@@ -503,7 +503,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 686579
+        "avg_views_per_video": 733236
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
