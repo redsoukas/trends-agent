@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T18:33:45.437461",
+  "timestamp": "2026-05-01T21:23:46.780178",
   "date": "2026-05-01",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,29 +22,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2840989,
-      "like_count": 142633,
-      "comment_count": 16512,
+      "view_count": 2921700,
+      "like_count": 144726,
+      "comment_count": 16752,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
     },
     {
-      "video_id": "e3e6XdvfZ50",
-      "title": "New York Knicks at Atlanta Hawks",
-      "description": "The Knicks lead the best-of-seven series 3-2, as they face the Hawks for Game 6 at State Farm Arena. New York took a pivotal lead by dominating Game 5. Jalen Brunson had 39 points, including 17 in the fourth quarter, to seal the 126-97 victory.",
+      "video_id": "GeqQ41UAWRo",
+      "title": "Denver Nuggets at Minnesota Timberwolves",
+      "description": "Denver plays Minnesota at Target Center for Game 6 of the West first round. Denver won Game 5, while Minnesota leads the series 3-2. Nikola Jokic had 27 points in a triple-double. Jamal Murray's 51-foot buzzer-beater helped Denver snap a skid.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-01T09:55:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e3e6XdvfZ50/hqdefault.jpg",
-      "duration": "PT2H46M40S",
-      "duration_seconds": 10000,
+      "published_at": "2026-05-01T13:27:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GeqQ41UAWRo/hqdefault.jpg",
+      "duration": "PT2H43M10S",
+      "duration_seconds": 9790,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
+      "url": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
     },
     {
       "video_id": "8EZhCzFaQuw",
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1348799,
-      "like_count": 113904,
-      "comment_count": 6917,
+      "view_count": 1464014,
+      "like_count": 118891,
+      "comment_count": 7136,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -71,13 +71,99 @@
       "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
     },
     {
-      "video_id": "vpv9YGoKSAk",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "5gPPpiPD9WI",
+      "title": "Boston Celtics at Philadelphia 76ers",
+      "description": "The Celtics play the 76ers at Xfinity Mobile Arena for Game 6 of the Eastern Conference first round. Philadelphia won Game 5, while Boston leads the series 3-2. Joel Embiid dominated the paint and added 33 points to the final score of 113-97.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-01T14:54:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gPPpiPD9WI/hqdefault.jpg",
+      "duration": "PT2H37M17S",
+      "duration_seconds": 9437,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
+    },
+    {
+      "video_id": "cemBjJ3Zx9Q",
+      "title": "Zach Cregger's Resident Evil - Trailer Reaction",
+      "description": "My reaction to the first teaser for Zach Creagger's Resident Evil. Let's hope it's good!",
+      "channel_title": "The Critical Drinker",
+      "channel_id": "UCSJPFQdZwrOutnmSFYtbstA",
+      "published_at": "2026-05-01T17:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
+      "duration": "PT4M51S",
+      "duration_seconds": 291,
+      "view_count": 150542,
+      "like_count": 12809,
+      "comment_count": 1873,
+      "category_id": "24",
+      "tags": [
+        "critical drinker",
+        "review",
+        "funny",
+        "best movie review",
+        "jill valentine",
+        "capcom"
+      ],
+      "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
+    },
+    {
+      "video_id": "5rUwXBdTOs0",
+      "title": "Dallas Stars at Minnesota Wild",
+      "description": "The Stars take on the Wild for Game 6 of the Western Conference first round at Grand Casino Arena. Minnesota leads the best-of-seven series 3-2. Rookie Jesper Wallstedt made 20 saves. Kirill Kaprizov sealed the win with two minutes left.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-01T11:11:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5rUwXBdTOs0/hqdefault.jpg",
+      "duration": "PT2H44M46S",
+      "duration_seconds": 9886,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
+    },
+    {
+      "video_id": "QBvYXE6oZ64",
+      "title": "Marty, Life Is Short | Official Trailer | Netflix",
+      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-01T13:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 270808,
+      "like_count": 5964,
+      "comment_count": 276,
+      "category_id": "24",
+      "tags": [
+        "Bittersweet",
+        "Career",
+        "Celebrities",
+        "Documentary",
+        "Film/Radio/TV Production",
+        "Grieving",
+        "Humorous",
+        "Icons",
+        "Intimate",
+        "Lawrence Kasdan"
+      ],
+      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
+    },
+    {
+      "video_id": "bWwEfJk0-9E",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-01T08:15:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vpv9YGoKSAk/hqdefault.jpg",
+      "published_at": "2026-05-01T09:14:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bWwEfJk0-9E/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -85,7 +171,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vpv9YGoKSAk"
+      "url": "https://www.youtube.com/watch?v=bWwEfJk0-9E"
     },
     {
       "video_id": "D_FMSyTWmA8",
@@ -97,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 244445,
-      "like_count": 12132,
-      "comment_count": 2985,
+      "view_count": 252746,
+      "like_count": 12389,
+      "comment_count": 3054,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -131,85 +217,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
-    },
-    {
-      "video_id": "GiM2JgN7YFo",
-      "title": "Spider-Man Brand New Day Trailer & Opening Scene Breakdown",
-      "description": "Spider-Man Brand New Day Trailer 2026. Opening Scene Explained. Peter Parker New Spider-Man Powers & Technology, New Spider-Man AI after EDITH, New Spider-Man Marvel Intro & Avengers Doomsday Trailer. 📲Download Raid https://pl.go-ga.me/sjageixm to get 2 Limited-edition Legendary champions ️and 1 Epic Champion available only via my link\n1 - Legendary Raf-Matab\n2 - Alure (from level 10)\n3 - And one of the legendary champions (for new users only):\nGrand Oak Padraig via promo code WRATH\nAlice The Wanderer via code GETALICE avail till the Jun 30th\nTuhanarak code DESERTQUEEN avail till the Jun 30th\nCheshire Cat code KITTYCUT avail till the Jun 30th\nRazelvarg code GOFAST avail till the Dec 31st\nTurvold code BIGDAWG avail till Aug18th\n🚀 Boost your progress in the game w/ these codes for existing users\n🔹EPYRE - 1 full energy, 10 XP Brew, 100K silver\n🔹PP500 - 1x 50 multi-battle attempts, 200 energy, 400K silver, 500 plarium points\nIOS users redeem codes here https://portal.plarium.com/en/redeem/",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-30T23:12:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GiM2JgN7YFo/hqdefault.jpg",
-      "duration": "PT14M43S",
-      "duration_seconds": 883,
-      "view_count": 251503,
-      "like_count": 6320,
-      "comment_count": 431,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=GiM2JgN7YFo"
-    },
-    {
-      "video_id": "wK-GkB52MYU",
-      "title": "Cadillac Championship, First Round",
-      "description": "The first round of the PGA Tour signature event begins at Trump National Doral in Miami. A limited field of 72 elite golfers navigates the grueling Blue Monster course while competing for a share of a massive $20 million purse in stroke play.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-01T10:28:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wK-GkB52MYU/hqdefault.jpg",
-      "duration": "PT4H2M1S",
-      "duration_seconds": 14521,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wK-GkB52MYU"
-    },
-    {
-      "video_id": "11gcNa-TBRA",
-      "title": "Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix",
-      "description": "This is a rom-com that’s not safe for work… but so worth the risk.\n\nJennifer Lopez and Brett Goldstein lead a raunchy romantic comedy about a secret office romance and the trouble two workaholics get in when they start thinking with their hearts.\n\nWatch the official trailer for Office Romance now.\n\nWatch on Netflix: https://www.netflix.com/title/81939823\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOffice Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-04-30T13:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/11gcNa-TBRA/hqdefault.jpg",
-      "duration": "PT2M42S",
-      "duration_seconds": 162,
-      "view_count": 1285755,
-      "like_count": 5490,
-      "comment_count": 483,
-      "category_id": "24",
-      "tags": [
-        "Brett Goldstein",
-        "Couples Movie",
-        "Date Night Movie",
-        "Jennifer Lopez",
-        "Love Story",
-        "Modern RomCom",
-        "Movie Trailer 2026",
-        "Netflix",
-        "New Movie Trailer",
-        "Not Safe For Work"
-      ],
-      "url": "https://www.youtube.com/watch?v=11gcNa-TBRA"
-    },
-    {
-      "video_id": "XeInTeOOi6E",
-      "title": "Reunion Part 2",
-      "description": "Affluent women enjoy their Beverly Hills lifestyle.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-05-01T09:29:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XeInTeOOi6E/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XeInTeOOi6E"
     }
   ],
   "videos_with_transcripts": [],
@@ -224,29 +231,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2840989,
-      "like_count": 142633,
-      "comment_count": 16512,
+      "view_count": 2921700,
+      "like_count": 144726,
+      "comment_count": 16752,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
     },
     {
-      "video_id": "e3e6XdvfZ50",
-      "title": "New York Knicks at Atlanta Hawks",
-      "description": "The Knicks lead the best-of-seven series 3-2, as they face the Hawks for Game 6 at State Farm Arena. New York took a pivotal lead by dominating Game 5. Jalen Brunson had 39 points, including 17 in the fourth quarter, to seal the 126-97 victory.",
+      "video_id": "GeqQ41UAWRo",
+      "title": "Denver Nuggets at Minnesota Timberwolves",
+      "description": "Denver plays Minnesota at Target Center for Game 6 of the West first round. Denver won Game 5, while Minnesota leads the series 3-2. Nikola Jokic had 27 points in a triple-double. Jamal Murray's 51-foot buzzer-beater helped Denver snap a skid.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-01T09:55:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e3e6XdvfZ50/hqdefault.jpg",
-      "duration": "PT2H46M40S",
-      "duration_seconds": 10000,
+      "published_at": "2026-05-01T13:27:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GeqQ41UAWRo/hqdefault.jpg",
+      "duration": "PT2H43M10S",
+      "duration_seconds": 9790,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
+      "url": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
     },
     {
       "video_id": "8EZhCzFaQuw",
@@ -258,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1348799,
-      "like_count": 113904,
-      "comment_count": 6917,
+      "view_count": 1464014,
+      "like_count": 118891,
+      "comment_count": 7136,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -273,13 +280,99 @@
       "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
     },
     {
-      "video_id": "vpv9YGoKSAk",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "5gPPpiPD9WI",
+      "title": "Boston Celtics at Philadelphia 76ers",
+      "description": "The Celtics play the 76ers at Xfinity Mobile Arena for Game 6 of the Eastern Conference first round. Philadelphia won Game 5, while Boston leads the series 3-2. Joel Embiid dominated the paint and added 33 points to the final score of 113-97.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-01T14:54:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gPPpiPD9WI/hqdefault.jpg",
+      "duration": "PT2H37M17S",
+      "duration_seconds": 9437,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
+    },
+    {
+      "video_id": "cemBjJ3Zx9Q",
+      "title": "Zach Cregger's Resident Evil - Trailer Reaction",
+      "description": "My reaction to the first teaser for Zach Creagger's Resident Evil. Let's hope it's good!",
+      "channel_title": "The Critical Drinker",
+      "channel_id": "UCSJPFQdZwrOutnmSFYtbstA",
+      "published_at": "2026-05-01T17:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
+      "duration": "PT4M51S",
+      "duration_seconds": 291,
+      "view_count": 150542,
+      "like_count": 12809,
+      "comment_count": 1873,
+      "category_id": "24",
+      "tags": [
+        "critical drinker",
+        "review",
+        "funny",
+        "best movie review",
+        "jill valentine",
+        "capcom"
+      ],
+      "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
+    },
+    {
+      "video_id": "5rUwXBdTOs0",
+      "title": "Dallas Stars at Minnesota Wild",
+      "description": "The Stars take on the Wild for Game 6 of the Western Conference first round at Grand Casino Arena. Minnesota leads the best-of-seven series 3-2. Rookie Jesper Wallstedt made 20 saves. Kirill Kaprizov sealed the win with two minutes left.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-01T11:11:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5rUwXBdTOs0/hqdefault.jpg",
+      "duration": "PT2H44M46S",
+      "duration_seconds": 9886,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
+    },
+    {
+      "video_id": "QBvYXE6oZ64",
+      "title": "Marty, Life Is Short | Official Trailer | Netflix",
+      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-01T13:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 270808,
+      "like_count": 5964,
+      "comment_count": 276,
+      "category_id": "24",
+      "tags": [
+        "Bittersweet",
+        "Career",
+        "Celebrities",
+        "Documentary",
+        "Film/Radio/TV Production",
+        "Grieving",
+        "Humorous",
+        "Icons",
+        "Intimate",
+        "Lawrence Kasdan"
+      ],
+      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
+    },
+    {
+      "video_id": "bWwEfJk0-9E",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-01T08:15:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vpv9YGoKSAk/hqdefault.jpg",
+      "published_at": "2026-05-01T09:14:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bWwEfJk0-9E/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -287,7 +380,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vpv9YGoKSAk"
+      "url": "https://www.youtube.com/watch?v=bWwEfJk0-9E"
     },
     {
       "video_id": "D_FMSyTWmA8",
@@ -299,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 244445,
-      "like_count": 12132,
-      "comment_count": 2985,
+      "view_count": 252746,
+      "like_count": 12389,
+      "comment_count": 3054,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -333,85 +426,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
-    },
-    {
-      "video_id": "GiM2JgN7YFo",
-      "title": "Spider-Man Brand New Day Trailer & Opening Scene Breakdown",
-      "description": "Spider-Man Brand New Day Trailer 2026. Opening Scene Explained. Peter Parker New Spider-Man Powers & Technology, New Spider-Man AI after EDITH, New Spider-Man Marvel Intro & Avengers Doomsday Trailer. 📲Download Raid https://pl.go-ga.me/sjageixm to get 2 Limited-edition Legendary champions ️and 1 Epic Champion available only via my link\n1 - Legendary Raf-Matab\n2 - Alure (from level 10)\n3 - And one of the legendary champions (for new users only):\nGrand Oak Padraig via promo code WRATH\nAlice The Wanderer via code GETALICE avail till the Jun 30th\nTuhanarak code DESERTQUEEN avail till the Jun 30th\nCheshire Cat code KITTYCUT avail till the Jun 30th\nRazelvarg code GOFAST avail till the Dec 31st\nTurvold code BIGDAWG avail till Aug18th\n🚀 Boost your progress in the game w/ these codes for existing users\n🔹EPYRE - 1 full energy, 10 XP Brew, 100K silver\n🔹PP500 - 1x 50 multi-battle attempts, 200 energy, 400K silver, 500 plarium points\nIOS users redeem codes here https://portal.plarium.com/en/redeem/",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-04-30T23:12:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GiM2JgN7YFo/hqdefault.jpg",
-      "duration": "PT14M43S",
-      "duration_seconds": 883,
-      "view_count": 251503,
-      "like_count": 6320,
-      "comment_count": 431,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=GiM2JgN7YFo"
-    },
-    {
-      "video_id": "wK-GkB52MYU",
-      "title": "Cadillac Championship, First Round",
-      "description": "The first round of the PGA Tour signature event begins at Trump National Doral in Miami. A limited field of 72 elite golfers navigates the grueling Blue Monster course while competing for a share of a massive $20 million purse in stroke play.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-01T10:28:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wK-GkB52MYU/hqdefault.jpg",
-      "duration": "PT4H2M1S",
-      "duration_seconds": 14521,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wK-GkB52MYU"
-    },
-    {
-      "video_id": "11gcNa-TBRA",
-      "title": "Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix",
-      "description": "This is a rom-com that’s not safe for work… but so worth the risk.\n\nJennifer Lopez and Brett Goldstein lead a raunchy romantic comedy about a secret office romance and the trouble two workaholics get in when they start thinking with their hearts.\n\nWatch the official trailer for Office Romance now.\n\nWatch on Netflix: https://www.netflix.com/title/81939823\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOffice Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-04-30T13:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/11gcNa-TBRA/hqdefault.jpg",
-      "duration": "PT2M42S",
-      "duration_seconds": 162,
-      "view_count": 1285755,
-      "like_count": 5490,
-      "comment_count": 483,
-      "category_id": "24",
-      "tags": [
-        "Brett Goldstein",
-        "Couples Movie",
-        "Date Night Movie",
-        "Jennifer Lopez",
-        "Love Story",
-        "Modern RomCom",
-        "Movie Trailer 2026",
-        "Netflix",
-        "New Movie Trailer",
-        "Not Safe For Work"
-      ],
-      "url": "https://www.youtube.com/watch?v=11gcNa-TBRA"
-    },
-    {
-      "video_id": "XeInTeOOi6E",
-      "title": "Reunion Part 2",
-      "description": "Affluent women enjoy their Beverly Hills lifestyle.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-05-01T09:29:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XeInTeOOi6E/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=XeInTeOOi6E"
     }
   ],
   "analysis": {
@@ -419,93 +433,79 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 5971491,
-        "average_views_per_video": 597149.1
+        "total_views": 5059810,
+        "average_views_per_video": 505981,
+        "categories": "Unknown"
       },
       "content_trends": {
-        "dominant_themes": [
+        "popular_genres": [
           "Entertainment",
           "Sports",
-          "Gaming",
-          "News",
-          "Streaming Services"
+          "Gaming"
         ],
-        "trailer_and_teaser_dominance": {
-          "total_trailer_videos": 5,
-          "percentage_of_total": 50
-        },
-        "sports_coverage": {
-          "total_sports_videos": 2,
-          "percentage_of_total": 20
-        },
-        "news_and_opinion": {
-          "total_news_videos": 1,
-          "percentage_of_total": 10
-        },
-        "streaming_service_content": {
-          "total_streaming_videos": 1,
-          "percentage_of_total": 10
+        "key_themes": [
+          "Trailers",
+          "Sports Events",
+          "Reactions",
+          "Exclusives"
+        ],
+        "trailer_impact": {
+          "resident_evil_related_videos": 3,
+          "impact": "High interest in upcoming video game and movie trailers, particularly Resident Evil."
         }
       },
       "creator_patterns": {
         "top_channels": [
           {
-            "name": "Sony Pictures Entertainment",
-            "video_contribution": 1,
-            "focus": "Movie Trailers"
+            "channel_name": "Sony Pictures Entertainment",
+            "video_count": 1,
+            "content_focus": "Movie Trailers"
           },
           {
-            "name": "ESPN",
-            "video_contribution": 1,
-            "focus": "Sports Broadcasting"
+            "channel_name": "ESPN",
+            "video_count": 1,
+            "content_focus": "Sports Events"
           },
           {
-            "name": "Subnautica",
-            "video_contribution": 1,
-            "focus": "Gaming"
+            "channel_name": "Subnautica",
+            "video_count": 1,
+            "content_focus": "Gaming Trailers"
           },
           {
-            "name": "FOX News",
-            "video_contribution": 1,
-            "focus": "News"
+            "channel_name": "NBCSN",
+            "video_count": 1,
+            "content_focus": "Sports Events"
           },
           {
-            "name": "IGN",
-            "video_contribution": 1,
-            "focus": "Entertainment and Gaming"
+            "channel_name": "The Critical Drinker",
+            "video_count": 1,
+            "content_focus": "Trailer Reactions"
           }
         ],
-        "video_count_by_channel": {
-          "Sony Pictures Entertainment": 1,
-          "ESPN": 1,
-          "Subnautica": 1,
-          "FOX News": 1,
-          "IGN": 1
+        "unique_content_strategies": {
+          "reaction_videos": {
+            "example": "Zach Cregger's Resident Evil - Trailer Reaction",
+            "insight": "Reaction videos to popular trailers can drive high engagement."
+          },
+          "breakdown_videos": {
+            "example": "Resident Evil - Exclusive Trailer Breakdown with Director Zach Cregger",
+            "insight": "In-depth breakdowns with creators or directors offer exclusive insights and attract niche audiences."
+          }
         }
       },
       "market_opportunities": {
         "emerging_trends": [
-          "Increased demand for high-quality cinematic trailers",
-          "Growing interest in gaming-related content",
-          "Continued popularity of live sports and sports analysis",
-          "Potential for news and opinion segments with a unique perspective"
+          "High engagement potential in reaction and breakdown content for trailers.",
+          "Continued interest in sports events as a staple content category."
         ],
+        "untapped_potential": {
+          "cross-category_collaborations": "Opportunities exist for collaborations between movie/game creators and sports networks to create hybrid content.",
+          "enhanced viewer interaction": "Incorporate viewer polls and interactive elements in trailer and sports content to boost engagement."
+        },
         "content_recommendations": [
-          "Leverage high-quality production values for trailers to attract viewers",
-          "Expand gaming content with exclusive early access or behind-the-scenes footage",
-          "Capitalize on sports events by offering in-depth analysis and highlights",
-          "Develop engaging news content that provides unique and timely insights"
-        ],
-        "audience_engagement_strategies": [
-          "Utilize interactive elements such as polls or live Q&A during premieres",
-          "Collaborate with popular influencers in relevant niches to boost reach",
-          "Implement targeted advertising based on viewer interests and trends"
+          "Focus on creating content around upcoming game and movie releases, especially those with strong fan bases like Resident Evil.",
+          "Leverage influencer partnerships for reaction and commentary videos to capitalize on trending topics."
         ]
-      },
-      "data-driven_insights": {
-        "high_engagement_potential": "Trailers and teasers, particularly those related to popular franchises, are likely to attract significant viewer interest.",
-        "channel_diversification": "Channels that diversify their content portfolio across multiple trending categories may capture larger audiences.",
-        "tailored_content_creation": "Creators focusing on niche markets, such as gaming or specialized sports coverage, can build dedicated audiences."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -513,7 +513,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 597149
+        "avg_views_per_video": 505981
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
