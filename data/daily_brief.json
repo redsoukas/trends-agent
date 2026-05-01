@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T15:28:04.605992",
+  "timestamp": "2026-05-01T18:33:45.437461",
   "date": "2026-05-01",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2693465,
-      "like_count": 139365,
-      "comment_count": 16136,
+      "view_count": 2840989,
+      "like_count": 142633,
+      "comment_count": 16512,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1184656,
-      "like_count": 106768,
-      "comment_count": 6555,
+      "view_count": 1348799,
+      "like_count": 113904,
+      "comment_count": 6917,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -97,9 +97,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 234028,
-      "like_count": 11743,
-      "comment_count": 2886,
+      "view_count": 244445,
+      "like_count": 12132,
+      "comment_count": 2985,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -142,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GiM2JgN7YFo/hqdefault.jpg",
       "duration": "PT14M43S",
       "duration_seconds": 883,
-      "view_count": 222268,
-      "like_count": 5801,
-      "comment_count": 401,
+      "view_count": 251503,
+      "like_count": 6320,
+      "comment_count": 431,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=GiM2JgN7YFo"
@@ -176,9 +176,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/11gcNa-TBRA/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 1146526,
-      "like_count": 5145,
-      "comment_count": 444,
+      "view_count": 1285755,
+      "like_count": 5490,
+      "comment_count": 483,
       "category_id": "24",
       "tags": [
         "Brett Goldstein",
@@ -224,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2693465,
-      "like_count": 139365,
-      "comment_count": 16136,
+      "view_count": 2840989,
+      "like_count": 142633,
+      "comment_count": 16512,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -258,9 +258,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1184656,
-      "like_count": 106768,
-      "comment_count": 6555,
+      "view_count": 1348799,
+      "like_count": 113904,
+      "comment_count": 6917,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -299,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 234028,
-      "like_count": 11743,
-      "comment_count": 2886,
+      "view_count": 244445,
+      "like_count": 12132,
+      "comment_count": 2985,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -344,9 +344,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GiM2JgN7YFo/hqdefault.jpg",
       "duration": "PT14M43S",
       "duration_seconds": 883,
-      "view_count": 222268,
-      "like_count": 5801,
-      "comment_count": 401,
+      "view_count": 251503,
+      "like_count": 6320,
+      "comment_count": 431,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=GiM2JgN7YFo"
@@ -378,9 +378,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/11gcNa-TBRA/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 1146526,
-      "like_count": 5145,
-      "comment_count": 444,
+      "view_count": 1285755,
+      "like_count": 5490,
+      "comment_count": 483,
       "category_id": "24",
       "tags": [
         "Brett Goldstein",
@@ -417,71 +417,95 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 5971491,
+        "average_views_per_video": 597149.1
+      },
       "content_trends": {
         "dominant_themes": [
           "Entertainment",
           "Sports",
           "Gaming",
-          "News"
+          "News",
+          "Streaming Services"
         ],
-        "trailer_and_teaser_popularity": {
-          "description": "Multiple videos in the list are related to trailers and teaser content, indicating a strong interest in upcoming releases and exclusive previews.",
-          "examples": [
-            "RESIDENT EVIL – Official Teaser Trailer (4K)",
-            "Subnautica 2 Early Access Cinematic Trailer",
-            "Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix"
-          ]
+        "trailer_and_teaser_dominance": {
+          "total_trailer_videos": 5,
+          "percentage_of_total": 50
         },
-        "sports_content": {
-          "description": "Sports events and related content are well-represented, suggesting a consistent audience interest in live sports coverage and highlights.",
-          "examples": [
-            "New York Knicks at Atlanta Hawks",
-            "Dallas Wings at Indiana Fever",
-            "Cadillac Championship, First Round"
-          ]
+        "sports_coverage": {
+          "total_sports_videos": 2,
+          "percentage_of_total": 20
+        },
+        "news_and_opinion": {
+          "total_news_videos": 1,
+          "percentage_of_total": 10
+        },
+        "streaming_service_content": {
+          "total_streaming_videos": 1,
+          "percentage_of_total": 10
         }
       },
       "creator_patterns": {
-        "diverse_channel_representation": {
-          "description": "The trending videos are from a variety of channels, indicating that multiple creators and networks are contributing to trending content.",
-          "top_channels": [
-            "Sony Pictures Entertainment",
-            "ESPN",
-            "Subnautica",
-            "FOX News",
-            "IGN"
-          ]
-        },
-        "cross-category influence": {
-          "description": "Channels like Sony Pictures Entertainment and IGN are engaging audiences across different media formats, such as movies and video games.",
-          "examples": [
-            "Sony Pictures Entertainment's focus on movie trailers",
-            "IGN's mix of gaming and entertainment content"
-          ]
+        "top_channels": [
+          {
+            "name": "Sony Pictures Entertainment",
+            "video_contribution": 1,
+            "focus": "Movie Trailers"
+          },
+          {
+            "name": "ESPN",
+            "video_contribution": 1,
+            "focus": "Sports Broadcasting"
+          },
+          {
+            "name": "Subnautica",
+            "video_contribution": 1,
+            "focus": "Gaming"
+          },
+          {
+            "name": "FOX News",
+            "video_contribution": 1,
+            "focus": "News"
+          },
+          {
+            "name": "IGN",
+            "video_contribution": 1,
+            "focus": "Entertainment and Gaming"
+          }
+        ],
+        "video_count_by_channel": {
+          "Sony Pictures Entertainment": 1,
+          "ESPN": 1,
+          "Subnautica": 1,
+          "FOX News": 1,
+          "IGN": 1
         }
       },
       "market_opportunities": {
-        "increased_demand_for_exclusives": {
-          "description": "There is a noticeable demand for exclusive content such as behind-the-scenes looks and director commentaries.",
-          "recommended_actions": [
-            "Develop more in-depth breakdowns and analysis for popular trailers.",
-            "Collaborate with influencers and directors to provide insider content."
-          ]
-        },
-        "sports_highlight_content": {
-          "description": "The presence of sports-related videos suggests a market for highlight reels and sports commentary.",
-          "recommended_actions": [
-            "Create quick-turnaround highlight videos post-events.",
-            "Engage with sports communities to build anticipation for upcoming games."
-          ]
-        },
-        "engagement_with_gaming_audiences": {
-          "description": "Interest in gaming trailers like Subnautica 2 indicates a growing audience for gaming content.",
-          "recommended_actions": [
-            "Expand coverage on upcoming game releases and updates.",
-            "Partner with gaming influencers to reach wider audiences."
-          ]
-        }
+        "emerging_trends": [
+          "Increased demand for high-quality cinematic trailers",
+          "Growing interest in gaming-related content",
+          "Continued popularity of live sports and sports analysis",
+          "Potential for news and opinion segments with a unique perspective"
+        ],
+        "content_recommendations": [
+          "Leverage high-quality production values for trailers to attract viewers",
+          "Expand gaming content with exclusive early access or behind-the-scenes footage",
+          "Capitalize on sports events by offering in-depth analysis and highlights",
+          "Develop engaging news content that provides unique and timely insights"
+        ],
+        "audience_engagement_strategies": [
+          "Utilize interactive elements such as polls or live Q&A during premieres",
+          "Collaborate with popular influencers in relevant niches to boost reach",
+          "Implement targeted advertising based on viewer interests and trends"
+        ]
+      },
+      "data-driven_insights": {
+        "high_engagement_potential": "Trailers and teasers, particularly those related to popular franchises, are likely to attract significant viewer interest.",
+        "channel_diversification": "Channels that diversify their content portfolio across multiple trending categories may capture larger audiences.",
+        "tailored_content_creation": "Creators focusing on niche markets, such as gaming or specialized sports coverage, can build dedicated audiences."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -489,7 +513,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 548094
+        "avg_views_per_video": 597149
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
