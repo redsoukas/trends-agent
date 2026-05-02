@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-02T18:27:12.649749",
+  "timestamp": "2026-05-02T21:21:01.055040",
   "date": "2026-05-02",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 3279763,
-      "like_count": 153508,
-      "comment_count": 17839,
+      "view_count": 3326646,
+      "like_count": 154336,
+      "comment_count": 17959,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -47,6 +47,23 @@
       "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
+      "video_id": "Ug8LBfBKivk",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-02T19:19:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ug8LBfBKivk/hqdefault.jpg",
+      "duration": "PT1H11S",
+      "duration_seconds": 3611,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Ug8LBfBKivk"
+    },
+    {
       "video_id": "cemBjJ3Zx9Q",
       "title": "Zach Cregger's Resident Evil - Trailer Reaction",
       "description": "My reaction to the first teaser for Zach Creagger's Resident Evil. Let's hope it's good!",
@@ -56,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 377129,
-      "like_count": 22572,
-      "comment_count": 3149,
+      "view_count": 393400,
+      "like_count": 23209,
+      "comment_count": 3248,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -97,9 +114,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 619994,
-      "like_count": 10585,
-      "comment_count": 475,
+      "view_count": 686271,
+      "like_count": 11280,
+      "comment_count": 508,
       "category_id": "24",
       "tags": [
         "Bittersweet",
@@ -116,21 +133,49 @@
       "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
     },
     {
-      "video_id": "UFvza18Z82g",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-02T09:04:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UFvza18Z82g/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "Zw_HE1mQ7rA",
+      "title": "I Got Hunted by the World's Deadliest Assassin",
+      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-05-02T13:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
+      "duration": "PT57M17S",
+      "duration_seconds": 3437,
+      "view_count": 1335622,
+      "like_count": 125619,
+      "comment_count": 29031,
+      "category_id": "20",
+      "tags": [
+        "wemmbu",
+        "wembu",
+        "wenbu",
+        "wemmbu unstable smp",
+        "wemmbu the sequel",
+        "eggchan",
+        "wemmbu eggchan",
+        "wemmbu hunted",
+        "wemmbu invisible player",
+        "unstable smp"
+      ],
+      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
+    },
+    {
+      "video_id": "DSbgmIkZ0hU",
+      "title": "Mdot 59 - No Air (Official Music Video)",
+      "description": "",
+      "channel_title": "Deevisions 🎥",
+      "channel_id": "UCHkcAJkpyXLCU7zC4FfJn0g",
+      "published_at": "2026-05-02T00:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DSbgmIkZ0hU/hqdefault.jpg",
+      "duration": "PT2M58S",
+      "duration_seconds": 178,
+      "view_count": 60442,
+      "like_count": 4929,
+      "comment_count": 613,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=UFvza18Z82g"
+      "url": "https://www.youtube.com/watch?v=DSbgmIkZ0hU"
     },
     {
       "video_id": "vVcSVZbcgj0",
@@ -148,75 +193,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
-    },
-    {
-      "video_id": "DSbgmIkZ0hU",
-      "title": "Mdot 59 - No Air (Official Music Video)",
-      "description": "",
-      "channel_title": "Deevisions 🎥",
-      "channel_id": "UCHkcAJkpyXLCU7zC4FfJn0g",
-      "published_at": "2026-05-02T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSbgmIkZ0hU/hqdefault.jpg",
-      "duration": "PT2M58S",
-      "duration_seconds": 178,
-      "view_count": 50512,
-      "like_count": 4512,
-      "comment_count": 568,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DSbgmIkZ0hU"
-    },
-    {
-      "video_id": "8EZhCzFaQuw",
-      "title": "Subnautica 2 Early Access Cinematic Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-04-30T14:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 2072349,
-      "like_count": 142139,
-      "comment_count": 8394,
-      "category_id": "20",
-      "tags": [
-        "Subnautica 2",
-        "Subnautica",
-        "Video Games",
-        "Survival Game",
-        "Open World Game",
-        "Crafting Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
-    },
-    {
-      "video_id": "Zw_HE1mQ7rA",
-      "title": "I Got Hunted by the World's Deadliest Assassin",
-      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-05-02T13:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
-      "duration": "PT57M17S",
-      "duration_seconds": 3437,
-      "view_count": 932609,
-      "like_count": 109390,
-      "comment_count": 27084,
-      "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "wembu",
-        "wenbu",
-        "wemmbu unstable smp",
-        "wemmbu the sequel",
-        "eggchan",
-        "wemmbu eggchan",
-        "wemmbu hunted",
-        "wemmbu invisible player",
-        "unstable smp"
-      ],
-      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,9 +207,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 3279763,
-      "like_count": 153508,
-      "comment_count": 17839,
+      "view_count": 3326646,
+      "like_count": 154336,
+      "comment_count": 17959,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -256,6 +232,23 @@
       "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
+      "video_id": "Ug8LBfBKivk",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-02T19:19:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ug8LBfBKivk/hqdefault.jpg",
+      "duration": "PT1H11S",
+      "duration_seconds": 3611,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Ug8LBfBKivk"
+    },
+    {
       "video_id": "cemBjJ3Zx9Q",
       "title": "Zach Cregger's Resident Evil - Trailer Reaction",
       "description": "My reaction to the first teaser for Zach Creagger's Resident Evil. Let's hope it's good!",
@@ -265,9 +258,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 377129,
-      "like_count": 22572,
-      "comment_count": 3149,
+      "view_count": 393400,
+      "like_count": 23209,
+      "comment_count": 3248,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -306,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 619994,
-      "like_count": 10585,
-      "comment_count": 475,
+      "view_count": 686271,
+      "like_count": 11280,
+      "comment_count": 508,
       "category_id": "24",
       "tags": [
         "Bittersweet",
@@ -325,21 +318,32 @@
       "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
     },
     {
-      "video_id": "UFvza18Z82g",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-02T09:04:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UFvza18Z82g/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=UFvza18Z82g"
+      "video_id": "Zw_HE1mQ7rA",
+      "title": "I Got Hunted by the World's Deadliest Assassin",
+      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
+      "channel_title": "Wemmbu",
+      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
+      "published_at": "2026-05-02T13:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
+      "duration": "PT57M17S",
+      "duration_seconds": 3437,
+      "view_count": 1335622,
+      "like_count": 125619,
+      "comment_count": 29031,
+      "category_id": "20",
+      "tags": [
+        "wemmbu",
+        "wembu",
+        "wenbu",
+        "wemmbu unstable smp",
+        "wemmbu the sequel",
+        "eggchan",
+        "wemmbu eggchan",
+        "wemmbu hunted",
+        "wemmbu invisible player",
+        "unstable smp"
+      ],
+      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
     },
     {
       "video_id": "vVcSVZbcgj0",
@@ -359,58 +363,6 @@
       "url": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
     },
     {
-      "video_id": "8EZhCzFaQuw",
-      "title": "Subnautica 2 Early Access Cinematic Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-04-30T14:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 2072349,
-      "like_count": 142139,
-      "comment_count": 8394,
-      "category_id": "20",
-      "tags": [
-        "Subnautica 2",
-        "Subnautica",
-        "Video Games",
-        "Survival Game",
-        "Open World Game",
-        "Crafting Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
-    },
-    {
-      "video_id": "Zw_HE1mQ7rA",
-      "title": "I Got Hunted by the World's Deadliest Assassin",
-      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-05-02T13:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
-      "duration": "PT57M17S",
-      "duration_seconds": 3437,
-      "view_count": 932609,
-      "like_count": 109390,
-      "comment_count": 27084,
-      "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "wembu",
-        "wenbu",
-        "wemmbu unstable smp",
-        "wemmbu the sequel",
-        "eggchan",
-        "wemmbu eggchan",
-        "wemmbu hunted",
-        "wemmbu invisible player",
-        "unstable smp"
-      ],
-      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
-    },
-    {
       "video_id": "DSbgmIkZ0hU",
       "title": "Mdot 59 - No Air (Official Music Video)",
       "description": "",
@@ -420,9 +372,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DSbgmIkZ0hU/hqdefault.jpg",
       "duration": "PT2M58S",
       "duration_seconds": 178,
-      "view_count": 50512,
-      "like_count": 4512,
-      "comment_count": 568,
+      "view_count": 60442,
+      "like_count": 4929,
+      "comment_count": 613,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DSbgmIkZ0hU"
@@ -432,76 +384,77 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "topics": [
-          {
-            "category": "Entertainment",
-            "description": "Trailers and reactions for movies and games are performing well. Titles like 'RESIDENT EVIL – Official Teaser Trailer (4K)' and 'Zach Cregger's Resident Evil - Trailer Reaction' indicate a strong interest in upcoming releases, likely driven by popular franchises.",
-            "recommendation": "Capitalize on creating content around anticipated releases or popular franchises. Consider producing both original trailers and reaction videos to engage with diverse audience segments."
-          },
-          {
-            "category": "Sports",
-            "description": "Sports content, including live event coverage and highlights, remains popular. Videos such as 'Buffalo Sabres at Boston Bruins' and 'Tampa Bay Lightning at Montreal Canadiens' highlight consistent interest in major sports events.",
-            "recommendation": "Develop content strategies around live sports events, including pre-game analyses and post-game highlights. Collaborate with sports influencers to increase reach."
-          },
-          {
-            "category": "Music",
-            "description": "Music videos continue to attract views, as evidenced by 'Mdot 59 - No Air (Official Music Video)'.",
-            "recommendation": "Leverage emerging music trends and artists. Consider integrating music with trending pop culture themes to broaden audience appeal."
-          },
-          {
-            "category": "Gaming",
-            "description": "Gaming-related content like 'Subnautica 2 Early Access Cinematic Trailer' suggests a strong viewer base for gaming trailers and early access content.",
-            "recommendation": "Engage gaming communities by producing content related to game updates, reviews, and early access features. Partner with gaming influencers for wider dissemination."
-          },
-          {
-            "category": "Lifestyle/Entertainment Talk Shows",
-            "description": "Shows like 'Gutfeld!' indicate interest in talk show formats that blend entertainment with lifestyle commentary.",
-            "recommendation": "Explore talk show formats that discuss trending topics, societal issues, or entertainment news. Utilize a mix of humor and insightful commentary to attract varied demographics."
-          }
-        ]
+        "movie_trailers": {
+          "description": "Trailers and reactions to movie trailers are popular among trending videos.",
+          "examples": [
+            "RESIDENT EVIL – Official Teaser Trailer (4K)",
+            "Zach Cregger's Resident Evil - Trailer Reaction",
+            "Marty, Life Is Short | Official Trailer | Netflix"
+          ],
+          "insights": "Movie trailers and their reactions generate significant interest, particularly when tied to popular franchises like Resident Evil."
+        },
+        "sports_content": {
+          "description": "Live sports events and highlights maintain consistent viewer engagement.",
+          "examples": [
+            "Buffalo Sabres at Boston Bruins",
+            "Tampa Bay Lightning at Montreal Canadiens",
+            "Cadillac Championship, Second Round"
+          ],
+          "insights": "Sports content, especially live events and highlights, attracts a dedicated audience, suggesting opportunities for content creators to focus on real-time sports commentary and analyses."
+        },
+        "news_and_opinion": {
+          "description": "News and opinion shows continue to feature prominently in trending topics.",
+          "examples": [
+            "Fox & Friends Weekend"
+          ],
+          "insights": "News channels can leverage trending news topics and opinion pieces to engage audiences, especially on weekends when viewers may have more leisure time to consume longer content."
+        },
+        "unique_challenges": {
+          "description": "Unique and adventure-based content captures viewer attention.",
+          "examples": [
+            "I Got Hunted by the World's Deadliest Assassin"
+          ],
+          "insights": "Adventure and challenge-based videos have a strong appeal, suggesting content opportunities for creators to explore experiential or stunt-based content."
+        },
+        "music_videos": {
+          "description": "Music videos remain a staple in trending content.",
+          "examples": [
+            "Mdot 59 - No Air (Official Music Video)"
+          ],
+          "insights": "Music videos continue to attract views, indicating opportunities for musicians to release creative and visually captivating content to engage audiences."
+        }
       },
       "creator_patterns": {
-        "dominant_channels": [
-          {
-            "channel_name": "Sony Pictures Entertainment",
-            "content_focus": "Movie trailers and teasers",
-            "insight": "Channels associated with major production studios or networks have a significant advantage in generating views through exclusive content releases."
-          },
-          {
-            "channel_name": "Netflix",
-            "content_focus": "Official trailers for upcoming series",
-            "insight": "Streaming platforms are key players in content distribution, leveraging their catalog of exclusive content to draw in viewers."
-          },
-          {
-            "channel_name": "ESPN/ESPN2",
-            "content_focus": "Sports coverage",
-            "insight": "Sports networks maintain a strong presence due to continuous interest in live sports events and sports-related content."
-          }
-        ]
+        "diverse_channels": {
+          "description": "Trending content is produced by a range of different channels, from major studios to individual creators.",
+          "insights": "This diversity in content creators suggests that both well-established and emerging creators can achieve trending status by tapping into popular genres and topics."
+        },
+        "cross-platform promotion": {
+          "description": "Channels associated with larger networks (e.g., ESPN, FOX News) appear frequently in trending lists.",
+          "insights": "Utilizing cross-platform promotion and leveraging network associations can enhance visibility and drive traffic to content."
+        }
       },
       "market_opportunities": {
-        "emerging_opportunities": [
-          {
-            "opportunity": "Exclusive Content Partnerships",
-            "description": "Collaborate with major studios, sports networks, or streaming platforms to gain early access or exclusive rights to content, enhancing channel credibility and viewership."
-          },
-          {
-            "opportunity": "Diversified Content Formats",
-            "description": "Explore various content formats such as live streams, reaction videos, and behind-the-scenes features to cater to different audience preferences and maximize engagement."
-          },
-          {
-            "opportunity": "Niche Market Engagement",
-            "description": "Identify and engage niche markets, particularly within the gaming and lifestyle sectors, to build a loyal subscriber base through targeted content strategies."
-          }
-        ]
+        "genre_expansion": {
+          "description": "Expanding into genres with consistent viewer interest, such as sports, movies, and adventure content.",
+          "strategy": "Developing content that taps into popular franchises, live events, and experiential adventures can provide opportunities to capture a larger audience share."
+        },
+        "reaction videos": {
+          "description": "Reaction videos to trailers and major announcements offer engagement opportunities.",
+          "strategy": "Creators can produce timely reaction content to capitalize on the buzz surrounding major releases or announcements in entertainment and gaming."
+        },
+        "integrated content strategies": {
+          "description": "Integrating various content types (e.g., news, sports, entertainment) can cater to diverse viewer interests.",
+          "strategy": "Developing multi-faceted content strategies that include news analysis, sports commentaries, and entertainment reviews can attract varied audience segments."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 733235
+        "avg_views_per_video": 644709
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
