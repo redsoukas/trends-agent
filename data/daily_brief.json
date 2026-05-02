@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-01T21:23:46.780178",
-  "date": "2026-05-01",
+  "timestamp": "2026-05-02T00:58:24.028003",
+  "date": "2026-05-02",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2921700,
-      "like_count": 144726,
-      "comment_count": 16752,
+      "view_count": 2999808,
+      "like_count": 146893,
+      "comment_count": 17082,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1464014,
-      "like_count": 118891,
-      "comment_count": 7136,
+      "view_count": 1604250,
+      "like_count": 125581,
+      "comment_count": 7500,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -97,9 +97,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 150542,
-      "like_count": 12809,
-      "comment_count": 1873,
+      "view_count": 235123,
+      "like_count": 16594,
+      "comment_count": 2394,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -110,6 +110,51 @@
         "capcom"
       ],
       "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
+    },
+    {
+      "video_id": "CYp0c-XTBu8",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-01T23:32:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CYp0c-XTBu8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CYp0c-XTBu8"
+    },
+    {
+      "video_id": "QBvYXE6oZ64",
+      "title": "Marty, Life Is Short | Official Trailer | Netflix",
+      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-01T13:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 357415,
+      "like_count": 7096,
+      "comment_count": 315,
+      "category_id": "24",
+      "tags": [
+        "Bittersweet",
+        "Career",
+        "Celebrities",
+        "Documentary",
+        "Film/Radio/TV Production",
+        "Grieving",
+        "Humorous",
+        "Icons",
+        "Intimate",
+        "Lawrence Kasdan"
+      ],
+      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
     },
     {
       "video_id": "5rUwXBdTOs0",
@@ -129,51 +174,6 @@
       "url": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
     },
     {
-      "video_id": "QBvYXE6oZ64",
-      "title": "Marty, Life Is Short | Official Trailer | Netflix",
-      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-01T13:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 270808,
-      "like_count": 5964,
-      "comment_count": 276,
-      "category_id": "24",
-      "tags": [
-        "Bittersweet",
-        "Career",
-        "Celebrities",
-        "Documentary",
-        "Film/Radio/TV Production",
-        "Grieving",
-        "Humorous",
-        "Icons",
-        "Intimate",
-        "Lawrence Kasdan"
-      ],
-      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
-    },
-    {
-      "video_id": "bWwEfJk0-9E",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-01T09:14:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bWwEfJk0-9E/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bWwEfJk0-9E"
-    },
-    {
       "video_id": "D_FMSyTWmA8",
       "title": "Resident Evil - Exclusive Trailer Breakdown with Director Zach Cregger",
       "description": "Weapons director Zach Cregger joins IGN to reveal all the easter eggs and references to the legendary Capcom survival-horror series in the teaser trailer for Resident Evil, which is bursting with lower case \"w\" weapons, terrifying t-virus monsters and, yes, zombified corpses raining down like bloody bombs over Austin Abrams as he runs for his life down the streets of Raccoon City. Cregger also details how, despite the movie's Resident Evil 2-adjacent story, the movie's structure was inspired by his favorite game in the franchise: Resident Evil 4.\n\nResident Evil is in theaters September 18th.",
@@ -183,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 252746,
-      "like_count": 12389,
-      "comment_count": 3054,
+      "view_count": 260343,
+      "like_count": 12658,
+      "comment_count": 3113,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -202,21 +202,21 @@
       "url": "https://www.youtube.com/watch?v=D_FMSyTWmA8"
     },
     {
-      "video_id": "IAKjhF7ffqY",
-      "title": "Dallas Wings at Indiana Fever",
-      "description": "From Gainbridge Fieldhouse in Indianapolis.",
-      "channel_title": "ION",
-      "channel_id": "UCbji8ZLXWwsBOrw6VQB7IgQ",
-      "published_at": "2026-05-01T08:49:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IAKjhF7ffqY/hqdefault.jpg",
-      "duration": "PT2H16M51S",
-      "duration_seconds": 8211,
+      "video_id": "k7X_Lon7uRk",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-02T00:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k7X_Lon7uRk/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
+      "url": "https://www.youtube.com/watch?v=k7X_Lon7uRk"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 2921700,
-      "like_count": 144726,
-      "comment_count": 16752,
+      "view_count": 2999808,
+      "like_count": 146893,
+      "comment_count": 17082,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
@@ -265,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
       "duration": "PT2M5S",
       "duration_seconds": 125,
-      "view_count": 1464014,
-      "like_count": 118891,
-      "comment_count": 7136,
+      "view_count": 1604250,
+      "like_count": 125581,
+      "comment_count": 7500,
       "category_id": "20",
       "tags": [
         "Subnautica 2",
@@ -306,9 +306,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 150542,
-      "like_count": 12809,
-      "comment_count": 1873,
+      "view_count": 235123,
+      "like_count": 16594,
+      "comment_count": 2394,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -319,6 +319,51 @@
         "capcom"
       ],
       "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
+    },
+    {
+      "video_id": "CYp0c-XTBu8",
+      "title": "America Reports",
+      "description": "A look at the latest news and headlines with Sandra Smith and John Roberts.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-01T23:32:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CYp0c-XTBu8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CYp0c-XTBu8"
+    },
+    {
+      "video_id": "QBvYXE6oZ64",
+      "title": "Marty, Life Is Short | Official Trailer | Netflix",
+      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-01T13:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
+      "duration": "PT2M23S",
+      "duration_seconds": 143,
+      "view_count": 357415,
+      "like_count": 7096,
+      "comment_count": 315,
+      "category_id": "24",
+      "tags": [
+        "Bittersweet",
+        "Career",
+        "Celebrities",
+        "Documentary",
+        "Film/Radio/TV Production",
+        "Grieving",
+        "Humorous",
+        "Icons",
+        "Intimate",
+        "Lawrence Kasdan"
+      ],
+      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
     },
     {
       "video_id": "5rUwXBdTOs0",
@@ -338,51 +383,6 @@
       "url": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
     },
     {
-      "video_id": "QBvYXE6oZ64",
-      "title": "Marty, Life Is Short | Official Trailer | Netflix",
-      "description": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive.\n\nWatch on Netflix: https://www.netflix.com/title/82128115\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nMarty, Life Is Short | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-01T13:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
-      "duration": "PT2M23S",
-      "duration_seconds": 143,
-      "view_count": 270808,
-      "like_count": 5964,
-      "comment_count": 276,
-      "category_id": "24",
-      "tags": [
-        "Bittersweet",
-        "Career",
-        "Celebrities",
-        "Documentary",
-        "Film/Radio/TV Production",
-        "Grieving",
-        "Humorous",
-        "Icons",
-        "Intimate",
-        "Lawrence Kasdan"
-      ],
-      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
-    },
-    {
-      "video_id": "bWwEfJk0-9E",
-      "title": "Gutfeld!",
-      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-01T09:14:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bWwEfJk0-9E/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bWwEfJk0-9E"
-    },
-    {
       "video_id": "D_FMSyTWmA8",
       "title": "Resident Evil - Exclusive Trailer Breakdown with Director Zach Cregger",
       "description": "Weapons director Zach Cregger joins IGN to reveal all the easter eggs and references to the legendary Capcom survival-horror series in the teaser trailer for Resident Evil, which is bursting with lower case \"w\" weapons, terrifying t-virus monsters and, yes, zombified corpses raining down like bloody bombs over Austin Abrams as he runs for his life down the streets of Raccoon City. Cregger also details how, despite the movie's Resident Evil 2-adjacent story, the movie's structure was inspired by his favorite game in the franchise: Resident Evil 4.\n\nResident Evil is in theaters September 18th.",
@@ -392,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D_FMSyTWmA8/hqdefault.jpg",
       "duration": "PT12M47S",
       "duration_seconds": 767,
-      "view_count": 252746,
-      "like_count": 12389,
-      "comment_count": 3054,
+      "view_count": 260343,
+      "like_count": 12658,
+      "comment_count": 3113,
       "category_id": "24",
       "tags": [
         "resident evil",
@@ -411,101 +411,85 @@
       "url": "https://www.youtube.com/watch?v=D_FMSyTWmA8"
     },
     {
-      "video_id": "IAKjhF7ffqY",
-      "title": "Dallas Wings at Indiana Fever",
-      "description": "From Gainbridge Fieldhouse in Indianapolis.",
-      "channel_title": "ION",
-      "channel_id": "UCbji8ZLXWwsBOrw6VQB7IgQ",
-      "published_at": "2026-05-01T08:49:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IAKjhF7ffqY/hqdefault.jpg",
-      "duration": "PT2H16M51S",
-      "duration_seconds": 8211,
+      "video_id": "k7X_Lon7uRk",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-02T00:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k7X_Lon7uRk/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
+      "url": "https://www.youtube.com/watch?v=k7X_Lon7uRk"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 5059810,
-        "average_views_per_video": 505981,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "popular_genres": [
-          "Entertainment",
-          "Sports",
-          "Gaming"
-        ],
-        "key_themes": [
-          "Trailers",
-          "Sports Events",
-          "Reactions",
-          "Exclusives"
-        ],
-        "trailer_impact": {
-          "resident_evil_related_videos": 3,
-          "impact": "High interest in upcoming video game and movie trailers, particularly Resident Evil."
-        }
-      },
-      "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "Sony Pictures Entertainment",
-            "video_count": 1,
-            "content_focus": "Movie Trailers"
-          },
-          {
-            "channel_name": "ESPN",
-            "video_count": 1,
-            "content_focus": "Sports Events"
-          },
-          {
-            "channel_name": "Subnautica",
-            "video_count": 1,
-            "content_focus": "Gaming Trailers"
-          },
-          {
-            "channel_name": "NBCSN",
-            "video_count": 1,
-            "content_focus": "Sports Events"
-          },
-          {
-            "channel_name": "The Critical Drinker",
-            "video_count": 1,
-            "content_focus": "Trailer Reactions"
-          }
-        ],
-        "unique_content_strategies": {
-          "reaction_videos": {
-            "example": "Zach Cregger's Resident Evil - Trailer Reaction",
-            "insight": "Reaction videos to popular trailers can drive high engagement."
-          },
-          "breakdown_videos": {
-            "example": "Resident Evil - Exclusive Trailer Breakdown with Director Zach Cregger",
-            "insight": "In-depth breakdowns with creators or directors offer exclusive insights and attract niche audiences."
-          }
-        }
-      },
-      "market_opportunities": {
-        "emerging_trends": [
-          "High engagement potential in reaction and breakdown content for trailers.",
-          "Continued interest in sports events as a staple content category."
-        ],
-        "untapped_potential": {
-          "cross-category_collaborations": "Opportunities exist for collaborations between movie/game creators and sports networks to create hybrid content.",
-          "enhanced viewer interaction": "Incorporate viewer polls and interactive elements in trailer and sports content to boost engagement."
+      "trendingPatternsAnalysis": {
+        "overview": {
+          "totalVideos": 10,
+          "totalViews": 5456939,
+          "averageViewsPerVideo": 545693.9
         },
-        "content_recommendations": [
-          "Focus on creating content around upcoming game and movie releases, especially those with strong fan bases like Resident Evil.",
-          "Leverage influencer partnerships for reaction and commentary videos to capitalize on trending topics."
-        ]
+        "contentTrends": {
+          "dominantCategories": [
+            "Entertainment",
+            "Sports",
+            "Gaming",
+            "News"
+          ],
+          "commonThemes": [
+            {
+              "theme": "Resident Evil",
+              "occurrences": 3,
+              "description": "The Resident Evil franchise has a strong presence with multiple videos related to trailers and breakdowns, indicating a significant interest in upcoming releases or related content."
+            },
+            {
+              "theme": "Sports",
+              "occurrences": 3,
+              "description": "Multiple sports events highlight a focus on live sports coverage, appealing to fans of basketball and hockey."
+            }
+          ]
+        },
+        "creatorPatterns": {
+          "topChannels": [
+            {
+              "channelName": "Sony Pictures Entertainment",
+              "videoCount": 1,
+              "description": "Focuses on high-quality entertainment content, specifically movie trailers, which tend to attract significant viewership."
+            },
+            {
+              "channelName": "ESPN",
+              "videoCount": 1,
+              "description": "Sports-focused channel providing coverage of popular games, appealing to a broad sports audience."
+            }
+          ],
+          "contentDiversity": {
+            "description": "A diverse range of content creators from movie studios to sports and gaming channels indicates a varied audience interest."
+          }
+        },
+        "marketOpportunities": {
+          "suggestions": [
+            {
+              "opportunity": "Leverage Resident Evil Franchise",
+              "description": "Create more content around Resident Evil due to high viewer interest, including gameplay, reviews, or fan theories to capture the audience's attention."
+            },
+            {
+              "opportunity": "Expand Sports Commentary",
+              "description": "Capitalize on the popularity of sports content by offering in-depth analysis, predictions, or highlights to engage sports fans."
+            },
+            {
+              "opportunity": "Gaming Content Expansion",
+              "description": "With the presence of gaming content like Subnautica 2, there is potential to explore early access reviews, gameplay walkthroughs, or community-driven content."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -513,7 +497,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 505981
+        "avg_views_per_video": 545693
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
