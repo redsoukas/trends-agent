@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-02T09:32:33.305422",
+  "timestamp": "2026-05-02T12:28:33.330576",
   "date": "2026-05-02",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,29 +22,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 3150588,
-      "like_count": 150678,
-      "comment_count": 17281,
+      "view_count": 3180301,
+      "like_count": 151409,
+      "comment_count": 17625,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
     },
     {
-      "video_id": "RjOzbPpOKLE",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-02T06:56:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RjOzbPpOKLE/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "aaYodJ7ZW1c",
+      "title": "Buffalo Sabres at Boston Bruins",
+      "description": "Boston and Buffalo continue their best-of-seven series in Game 6 at TD Garden. Boston won Game 5, while Buffalo leads the series 3-2. Jeremy Swayman made 26 saves, including a key pad stop. David Pastrnak scored to stave off the Bruins' elimination.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-02T09:04:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aaYodJ7ZW1c/hqdefault.jpg",
+      "duration": "PT2H50M5S",
+      "duration_seconds": 10205,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=RjOzbPpOKLE"
+      "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
       "video_id": "cemBjJ3Zx9Q",
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 329098,
-      "like_count": 20530,
-      "comment_count": 2876,
+      "view_count": 347300,
+      "like_count": 21121,
+      "comment_count": 2952,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -71,21 +71,21 @@
       "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
     },
     {
-      "video_id": "GeqQ41UAWRo",
-      "title": "Denver Nuggets at Minnesota Timberwolves",
-      "description": "Denver plays Minnesota at Target Center for Game 6 of the West first round. Denver won Game 5, while Minnesota leads the series 3-2. Nikola Jokic had 27 points in a triple-double. Jamal Murray's 51-foot buzzer-beater helped Denver snap a skid.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-01T13:27:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GeqQ41UAWRo/hqdefault.jpg",
-      "duration": "PT2H43M10S",
-      "duration_seconds": 9790,
+      "video_id": "jcro-0i4o1Q",
+      "title": "Tampa Bay Lightning at Montreal Canadiens",
+      "description": "The Lightning and the Canadiens continue their series in Game 6 at Bell Centre. Montreal leads 3-2 after a Game 5 win. Brendan Gallagher opened the scoring for Montreal while rookie Jakub Dobes stopped 38 of 40 shots in the 3-2 Game 5 victory.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-02T09:34:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jcro-0i4o1Q/hqdefault.jpg",
+      "duration": "PT3H16M56S",
+      "duration_seconds": 11816,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
+      "url": "https://www.youtube.com/watch?v=jcro-0i4o1Q"
     },
     {
       "video_id": "QBvYXE6oZ64",
@@ -97,9 +97,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 481998,
-      "like_count": 8642,
-      "comment_count": 342,
+      "view_count": 509406,
+      "like_count": 8972,
+      "comment_count": 358,
       "category_id": "24",
       "tags": [
         "Bittersweet",
@@ -114,6 +114,81 @@
         "Lawrence Kasdan"
       ],
       "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
+    },
+    {
+      "video_id": "UFvza18Z82g",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-02T09:04:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UFvza18Z82g/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UFvza18Z82g"
+    },
+    {
+      "video_id": "8EZhCzFaQuw",
+      "title": "Subnautica 2 Early Access Cinematic Trailer",
+      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
+      "channel_title": "Subnautica",
+      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
+      "published_at": "2026-04-30T14:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
+      "duration": "PT2M5S",
+      "duration_seconds": 125,
+      "view_count": 1898532,
+      "like_count": 136719,
+      "comment_count": 8089,
+      "category_id": "20",
+      "tags": [
+        "Subnautica 2",
+        "Subnautica",
+        "Video Games",
+        "Survival Game",
+        "Open World Game",
+        "Crafting Game"
+      ],
+      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
+    },
+    {
+      "video_id": "vVcSVZbcgj0",
+      "title": "Cadillac Championship, Second Round",
+      "description": "The second round of the PGA Tour signature event continues at Trump National Doral in Miami. The field enjoys a no-cut format, meaning all competitors play the weekend and remain in contention for the staggering $3.6 million first-place check.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-02T10:10:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vVcSVZbcgj0/hqdefault.jpg",
+      "duration": "PT4H21S",
+      "duration_seconds": 14421,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
+    },
+    {
+      "video_id": "qKUW51BOJy8",
+      "title": "Evan Fong - mailman",
+      "description": "we’re out of time \nStream full album: https://evanfong.lnk.to/speed\nStream mailman: https://evanfong.lnk.to/mailman\n\nDirector of Photography - Logan Wildermuth\nDirected by - Darren fucking Craig and ya boy\nRetard direction: Sea \nCrafts services: Lester Green\nEditor: Mushu \nDead body: Prasad Romijn\n\nLyrics:\n\nHey little boy pack your bags\nDon’t be late for the big day \nYou are becoming who you are \n\nThis one’s a stud he gets it done \nNo one will stand in his way \nYou are running out of time \n\nBoots as sharp as his wit\nYeah, he must have his way \nHid the corpse in the wall \nAin’t no time like today \n\nIn too deep, never quit \nSuperstar resume \nDo or die for the cause \nAin’t no time like today \n\nMailman \nLook at the size of that fat \nWaist band \nOkay hey father what’s the\nGame plan \nShould I listen to the\nMailman \nSo one day I’ll be grand \n\nSticks and drums meat is gone\nSpread those wings and open gates \nYeah, stay driven\ndon’t fall asleep at the wheel\n\nDon’t hold a grudge like his sons\nHea",
+      "channel_title": "evan fong",
+      "channel_id": "UCpWM2h2VhJj2C8SAbmeTjqA",
+      "published_at": "2026-05-02T00:32:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qKUW51BOJy8/hqdefault.jpg",
+      "duration": "PT3M35S",
+      "duration_seconds": 215,
+      "view_count": 81781,
+      "like_count": 17552,
+      "comment_count": 790,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=qKUW51BOJy8"
     },
     {
       "video_id": "5gPPpiPD9WI",
@@ -131,92 +206,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
-    },
-    {
-      "video_id": "8EZhCzFaQuw",
-      "title": "Subnautica 2 Early Access Cinematic Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-04-30T14:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 1833539,
-      "like_count": 134381,
-      "comment_count": 7775,
-      "category_id": "20",
-      "tags": [
-        "Subnautica 2",
-        "Subnautica",
-        "Video Games",
-        "Survival Game",
-        "Open World Game",
-        "Crafting Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
-    },
-    {
-      "video_id": "Ceiwk8geinI",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-02T05:14:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ceiwk8geinI/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Ceiwk8geinI"
-    },
-    {
-      "video_id": "85k0oDbjqvc",
-      "title": "Candlebox - Far Behind | Lyrics",
-      "description": "Subscribe And Watch Daily Classic Rock Lyric Videos On Rock Overdrive!\nListen To Rock Playlists: https://www.youtube.com/playlist?list=PLlFshZyqaBIoItpRklYbnsRFdNcbQEeSP\n\nCandlebox - Far Behind | Lyrics:\n\nNow maybe\nI didn't mean to treat you bad\nBut I did it anyway\n\nAnd then maybe\nSome would say your life was sad\nBut you lived it anyway\n\nAnd so maybe\nYour friends they stand around they watch you crumble\nAs you falter to the ground\n\nAnd then someday\nYour friends they stand beside as you were flying\nOh, you were flying, oh, so high\n\nBut them someday people look at you\nFor what they call their own\nThey watch you suffer\nYeah, they hear you calling home\n\nBut then some day we could take our time\nTo brush the leaves aside\nSo you can reach us\nBut you left me far behind\n\nNow maybe\nI didn't mean to treat you so bad\nBut I did it anyway\nNow maybe\nSome would say you're left with what you had\nBut you couldn't share the pain\nNo, no, no\n\nCouldn't share the pain\nThey watch you suffer\n\nNow maybe\nI could",
-      "channel_title": "Rock Overdrive",
-      "channel_id": "UCXvBih_10w0O3_69NThszdg",
-      "published_at": "2026-04-24T17:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/85k0oDbjqvc/hqdefault.jpg",
-      "duration": "PT5M",
-      "duration_seconds": 300,
-      "view_count": 30925,
-      "like_count": 180,
-      "comment_count": 5,
-      "category_id": "22",
-      "tags": [
-        "rock overdrive",
-        "rock lyrics",
-        "rock n roll lyrics",
-        "classic rock",
-        "classic rock lyrics",
-        "classic rock overdrive",
-        "old time rock and roll lyrics",
-        "american rock and roll",
-        "rock and roll",
-        "rock and roll lyrics"
-      ],
-      "url": "https://www.youtube.com/watch?v=85k0oDbjqvc"
-    },
-    {
-      "video_id": "rGLeDbju7sM",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-02T08:23:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rGLeDbju7sM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rGLeDbju7sM"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,29 +220,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 3150588,
-      "like_count": 150678,
-      "comment_count": 17281,
+      "view_count": 3180301,
+      "like_count": 151409,
+      "comment_count": 17625,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
     },
     {
-      "video_id": "RjOzbPpOKLE",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-02T06:56:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RjOzbPpOKLE/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "aaYodJ7ZW1c",
+      "title": "Buffalo Sabres at Boston Bruins",
+      "description": "Boston and Buffalo continue their best-of-seven series in Game 6 at TD Garden. Boston won Game 5, while Buffalo leads the series 3-2. Jeremy Swayman made 26 saves, including a key pad stop. David Pastrnak scored to stave off the Bruins' elimination.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-02T09:04:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aaYodJ7ZW1c/hqdefault.jpg",
+      "duration": "PT2H50M5S",
+      "duration_seconds": 10205,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=RjOzbPpOKLE"
+      "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
       "video_id": "cemBjJ3Zx9Q",
@@ -265,9 +254,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cemBjJ3Zx9Q/hqdefault.jpg",
       "duration": "PT4M51S",
       "duration_seconds": 291,
-      "view_count": 329098,
-      "like_count": 20530,
-      "comment_count": 2876,
+      "view_count": 347300,
+      "like_count": 21121,
+      "comment_count": 2952,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -280,21 +269,21 @@
       "url": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
     },
     {
-      "video_id": "GeqQ41UAWRo",
-      "title": "Denver Nuggets at Minnesota Timberwolves",
-      "description": "Denver plays Minnesota at Target Center for Game 6 of the West first round. Denver won Game 5, while Minnesota leads the series 3-2. Nikola Jokic had 27 points in a triple-double. Jamal Murray's 51-foot buzzer-beater helped Denver snap a skid.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-01T13:27:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GeqQ41UAWRo/hqdefault.jpg",
-      "duration": "PT2H43M10S",
-      "duration_seconds": 9790,
+      "video_id": "jcro-0i4o1Q",
+      "title": "Tampa Bay Lightning at Montreal Canadiens",
+      "description": "The Lightning and the Canadiens continue their series in Game 6 at Bell Centre. Montreal leads 3-2 after a Game 5 win. Brendan Gallagher opened the scoring for Montreal while rookie Jakub Dobes stopped 38 of 40 shots in the 3-2 Game 5 victory.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-02T09:34:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jcro-0i4o1Q/hqdefault.jpg",
+      "duration": "PT3H16M56S",
+      "duration_seconds": 11816,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
+      "url": "https://www.youtube.com/watch?v=jcro-0i4o1Q"
     },
     {
       "video_id": "QBvYXE6oZ64",
@@ -306,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QBvYXE6oZ64/hqdefault.jpg",
       "duration": "PT2M23S",
       "duration_seconds": 143,
-      "view_count": 481998,
-      "like_count": 8642,
-      "comment_count": 342,
+      "view_count": 509406,
+      "like_count": 8972,
+      "comment_count": 358,
       "category_id": "24",
       "tags": [
         "Bittersweet",
@@ -323,6 +312,81 @@
         "Lawrence Kasdan"
       ],
       "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
+    },
+    {
+      "video_id": "UFvza18Z82g",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-02T09:04:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UFvza18Z82g/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UFvza18Z82g"
+    },
+    {
+      "video_id": "8EZhCzFaQuw",
+      "title": "Subnautica 2 Early Access Cinematic Trailer",
+      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
+      "channel_title": "Subnautica",
+      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
+      "published_at": "2026-04-30T14:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
+      "duration": "PT2M5S",
+      "duration_seconds": 125,
+      "view_count": 1898532,
+      "like_count": 136719,
+      "comment_count": 8089,
+      "category_id": "20",
+      "tags": [
+        "Subnautica 2",
+        "Subnautica",
+        "Video Games",
+        "Survival Game",
+        "Open World Game",
+        "Crafting Game"
+      ],
+      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
+    },
+    {
+      "video_id": "vVcSVZbcgj0",
+      "title": "Cadillac Championship, Second Round",
+      "description": "The second round of the PGA Tour signature event continues at Trump National Doral in Miami. The field enjoys a no-cut format, meaning all competitors play the weekend and remain in contention for the staggering $3.6 million first-place check.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-02T10:10:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vVcSVZbcgj0/hqdefault.jpg",
+      "duration": "PT4H21S",
+      "duration_seconds": 14421,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
+    },
+    {
+      "video_id": "qKUW51BOJy8",
+      "title": "Evan Fong - mailman",
+      "description": "we’re out of time \nStream full album: https://evanfong.lnk.to/speed\nStream mailman: https://evanfong.lnk.to/mailman\n\nDirector of Photography - Logan Wildermuth\nDirected by - Darren fucking Craig and ya boy\nRetard direction: Sea \nCrafts services: Lester Green\nEditor: Mushu \nDead body: Prasad Romijn\n\nLyrics:\n\nHey little boy pack your bags\nDon’t be late for the big day \nYou are becoming who you are \n\nThis one’s a stud he gets it done \nNo one will stand in his way \nYou are running out of time \n\nBoots as sharp as his wit\nYeah, he must have his way \nHid the corpse in the wall \nAin’t no time like today \n\nIn too deep, never quit \nSuperstar resume \nDo or die for the cause \nAin’t no time like today \n\nMailman \nLook at the size of that fat \nWaist band \nOkay hey father what’s the\nGame plan \nShould I listen to the\nMailman \nSo one day I’ll be grand \n\nSticks and drums meat is gone\nSpread those wings and open gates \nYeah, stay driven\ndon’t fall asleep at the wheel\n\nDon’t hold a grudge like his sons\nHea",
+      "channel_title": "evan fong",
+      "channel_id": "UCpWM2h2VhJj2C8SAbmeTjqA",
+      "published_at": "2026-05-02T00:32:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qKUW51BOJy8/hqdefault.jpg",
+      "duration": "PT3M35S",
+      "duration_seconds": 215,
+      "view_count": 81781,
+      "like_count": 17552,
+      "comment_count": 790,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=qKUW51BOJy8"
     },
     {
       "video_id": "5gPPpiPD9WI",
@@ -340,161 +404,58 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
-    },
-    {
-      "video_id": "8EZhCzFaQuw",
-      "title": "Subnautica 2 Early Access Cinematic Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subnautica\nTikTok: https://www.tiktok",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-04-30T14:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
-      "duration": "PT2M5S",
-      "duration_seconds": 125,
-      "view_count": 1833539,
-      "like_count": 134381,
-      "comment_count": 7775,
-      "category_id": "20",
-      "tags": [
-        "Subnautica 2",
-        "Subnautica",
-        "Video Games",
-        "Survival Game",
-        "Open World Game",
-        "Crafting Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
-    },
-    {
-      "video_id": "Ceiwk8geinI",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-02T05:14:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ceiwk8geinI/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Ceiwk8geinI"
-    },
-    {
-      "video_id": "rGLeDbju7sM",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-02T08:23:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rGLeDbju7sM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=rGLeDbju7sM"
-    },
-    {
-      "video_id": "85k0oDbjqvc",
-      "title": "Candlebox - Far Behind | Lyrics",
-      "description": "Subscribe And Watch Daily Classic Rock Lyric Videos On Rock Overdrive!\nListen To Rock Playlists: https://www.youtube.com/playlist?list=PLlFshZyqaBIoItpRklYbnsRFdNcbQEeSP\n\nCandlebox - Far Behind | Lyrics:\n\nNow maybe\nI didn't mean to treat you bad\nBut I did it anyway\n\nAnd then maybe\nSome would say your life was sad\nBut you lived it anyway\n\nAnd so maybe\nYour friends they stand around they watch you crumble\nAs you falter to the ground\n\nAnd then someday\nYour friends they stand beside as you were flying\nOh, you were flying, oh, so high\n\nBut them someday people look at you\nFor what they call their own\nThey watch you suffer\nYeah, they hear you calling home\n\nBut then some day we could take our time\nTo brush the leaves aside\nSo you can reach us\nBut you left me far behind\n\nNow maybe\nI didn't mean to treat you so bad\nBut I did it anyway\nNow maybe\nSome would say you're left with what you had\nBut you couldn't share the pain\nNo, no, no\n\nCouldn't share the pain\nThey watch you suffer\n\nNow maybe\nI could",
-      "channel_title": "Rock Overdrive",
-      "channel_id": "UCXvBih_10w0O3_69NThszdg",
-      "published_at": "2026-04-24T17:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/85k0oDbjqvc/hqdefault.jpg",
-      "duration": "PT5M",
-      "duration_seconds": 300,
-      "view_count": 30925,
-      "like_count": 180,
-      "comment_count": 5,
-      "category_id": "22",
-      "tags": [
-        "rock overdrive",
-        "rock lyrics",
-        "rock n roll lyrics",
-        "classic rock",
-        "classic rock lyrics",
-        "classic rock overdrive",
-        "old time rock and roll lyrics",
-        "american rock and roll",
-        "rock and roll",
-        "rock and roll lyrics"
-      ],
-      "url": "https://www.youtube.com/watch?v=85k0oDbjqvc"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 5826148,
-        "averageViewsPerVideo": 582614.8
-      },
-      "contentTrends": {
-        "categories": {
-          "entertainment": 4,
-          "sports": 2,
-          "news": 3,
-          "music": 1
+      "content_trends": {
+        "genre_distribution": {
+          "sports": 30,
+          "entertainment": 40,
+          "gaming": 10,
+          "commentary": 10,
+          "comedy": 10
         },
-        "observations": [
-          "Entertainment-related content, including movie trailers and reaction videos, represents 40% of the trending videos.",
-          "Sports content, with NBA games featured, accounts for 20% of the trending videos.",
-          "News content, featuring political and social commentary, makes up 30% of the trending list.",
-          "Music content, although only represented by one video, shows potential for virality when combined with popular bands or nostalgic hits."
-        ],
         "insights": [
-          "High-quality trailers and entertainment previews tend to capture significant viewer interest, suggesting a strong market for cinematic and reaction content.",
-          "Sports highlights and recaps are consistently trending, indicating a robust demand for timely sports content. Collaborations with sports analysts could enhance audience engagement.",
-          "News and commentary videos from established channels maintain viewer interest, highlighting opportunities for content that provides in-depth analysis of current events."
-        ]
-      },
-      "creatorPatterns": {
-        "topChannels": {
-          "Sony Pictures Entertainment": {
-            "videos": 1,
-            "averageViews": "High traction due to popular franchises"
+          {
+            "trend": "High interest in entertainment trailers",
+            "evidence": "Two of the 10 videos are trailers (RESIDENT EVIL – Official Teaser Trailer (4K), Marty, Life Is Short | Official Trailer | Netflix)",
+            "actionable_insight": "Consider creating content around upcoming movie releases or exclusive trailer reactions to capture audience interest."
           },
-          "FOX News": {
-            "videos": 1,
-            "averageViews": "Steady viewership from politically engaged audiences"
+          {
+            "trend": "Significant sports content presence",
+            "evidence": "Three of the 10 videos are sports-related (Buffalo Sabres at Boston Bruins, Tampa Bay Lightning at Montreal Canadiens, Boston Celtics at Philadelphia 76ers)",
+            "actionable_insight": "Develop content that provides analysis, recaps, or highlight reels of sporting events to engage sports fans."
           },
-          "The Critical Drinker": {
-            "videos": 1,
-            "averageViews": "Niche but dedicated viewership for reaction content"
-          },
-          "ESPN": {
-            "videos": 1,
-            "averageViews": "Consistent viewership from sports enthusiasts"
-          },
-          "Netflix": {
-            "videos": 1,
-            "averageViews": "Strong engagement from subscribers and series fans"
+          {
+            "trend": "Diverse categories with lack of dominant theme",
+            "evidence": "The presence of varied content types such as gaming (Subnautica 2 Early Access Cinematic Trailer) and commentary (Gutfeld!)",
+            "actionable_insight": "Explore niche markets within each category to identify underserved audiences and tailor content to their preferences."
           }
-        },
-        "insights": [
-          "Channels with established franchises or popular shows tend to dominate trending lists.",
-          "Collaborations between entertainment brands and niche commentators can amplify reach and engagement.",
-          "Cross-promotion with sports events and highlights can boost visibility for both content creators and sports channels."
         ]
       },
-      "marketOpportunities": {
-        "emergingTrends": [
-          "Increased interest in cinematic trailers and reaction videos suggests potential for new series or film related content.",
-          "The consistent presence of sports content presents opportunities for real-time commentary, analysis, and fan interaction segments.",
-          "News channels can capitalize on trending topics by producing timely and insightful pieces that engage viewers in current events."
-        ],
-        "strategicRecommendations": [
-          "Leverage high-quality production for trailers and teasers to capture initial viewer interest and drive subscriptions or views.",
-          "Develop partnerships with sports leagues and events to provide exclusive content or behind-the-scenes access, tapping into dedicated fanbases.",
-          "Create engaging, interactive content such as live discussions or Q&A sessions to increase viewer retention and participation, especially around news events."
-        ]
+      "creator_patterns": {
+        "top_channels_analysis": {
+          "multi-category_presence": {
+            "observation": "Top channels like Sony Pictures Entertainment and Netflix contribute to trending content, indicating strong brand influence across entertainment.",
+            "actionable_insight": "Collaborate with well-established channels for cross-promotional opportunities or feature their content to leverage their large audiences."
+          },
+          "individual creators": {
+            "observation": "Individual creators such as The Critical Drinker maintain relevance through commentary.",
+            "actionable_insight": "Encourage individual creators to engage with trending topics or provide unique perspectives to boost visibility."
+          }
+        }
+      },
+      "market_opportunities": {
+        "emerging_trends": {
+          "evidence": "The presence of both traditional media and new media formats suggests an opportunity to blend these styles.",
+          "actionable_insight": "Experiment with hybrid content formats that combine traditional storytelling with interactive or live elements."
+        },
+        "audience_engagement": {
+          "evidence": "High view count relative to the number of videos indicates strong engagement.",
+          "actionable_insight": "Produce content with high replay value or interactive elements to maximize viewer retention and increase watch time."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -502,7 +463,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 582614
+        "avg_views_per_video": 601732
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
