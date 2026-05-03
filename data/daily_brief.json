@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-03T07:01:28.850389",
+  "timestamp": "2026-05-03T09:36:50.497832",
   "date": "2026-05-03",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
+    "total_videos_analyzed": 8,
+    "music_videos_filtered": 7,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 255615,
-      "like_count": 16624,
-      "comment_count": 1652,
+      "view_count": 324317,
+      "like_count": 18537,
+      "comment_count": 1898,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 36077,
-      "like_count": 3736,
-      "comment_count": 658,
+      "view_count": 82801,
+      "like_count": 5107,
+      "comment_count": 847,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -84,6 +84,57 @@
         "max"
       ],
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
+    },
+    {
+      "video_id": "LWhtyP-jHiQ",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-03T05:43:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LWhtyP-jHiQ/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
+    },
+    {
+      "video_id": "SJPu1spHqfk",
+      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
+      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2026-04-30T12:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 3447805,
+      "like_count": 156926,
+      "comment_count": 18239,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
+    },
+    {
+      "video_id": "awMajIsk9C0",
+      "title": "Cincinnati Reds at Pittsburgh Pirates",
+      "description": "Pittsburgh Pirates face Cincinnati Reds in a regular-season baseball matchup at PNC Park. This is the first game of a three game series. Pittsburgh holds a 2-1 advantage in the matchup following a dominant 8-3 victory during a prior meeting.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-03T07:07:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/awMajIsk9C0/hqdefault.jpg",
+      "duration": "PT3H9M16S",
+      "duration_seconds": 11356,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=awMajIsk9C0"
     },
     {
       "video_id": "aaYodJ7ZW1c",
@@ -103,23 +154,6 @@
       "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
-      "video_id": "SJPu1spHqfk",
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-04-30T12:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 3425484,
-      "like_count": 156512,
-      "comment_count": 18195,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
-    },
-    {
       "video_id": "faAMJkRMF4k",
       "title": "Kentucky Derby Prep",
       "description": "Get ready for one of horse racing's biggest events with experts from NBC Sports who will share a mixture of behind the scenes stories, unlimited access, predictions, betting tips, and more.",
@@ -135,68 +169,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=faAMJkRMF4k"
-    },
-    {
-      "video_id": "hEMnpbtievI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T05:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hEMnpbtievI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=hEMnpbtievI"
-    },
-    {
-      "video_id": "Zw_HE1mQ7rA",
-      "title": "I Got Hunted by the World's Deadliest Assassin",
-      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-05-02T13:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
-      "duration": "PT57M17S",
-      "duration_seconds": 3437,
-      "view_count": 2006347,
-      "like_count": 152212,
-      "comment_count": 32608,
-      "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "wembu",
-        "wenbu",
-        "wemmbu unstable smp",
-        "wemmbu the sequel",
-        "eggchan",
-        "wemmbu eggchan",
-        "wemmbu hunted",
-        "wemmbu invisible player",
-        "unstable smp"
-      ],
-      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
-    },
-    {
-      "video_id": "DSbgmIkZ0hU",
-      "title": "Mdot 59 - No Air (Official Music Video)",
-      "description": "",
-      "channel_title": "Deevisions 🎥",
-      "channel_id": "UCHkcAJkpyXLCU7zC4FfJn0g",
-      "published_at": "2026-05-02T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSbgmIkZ0hU/hqdefault.jpg",
-      "duration": "PT2M58S",
-      "duration_seconds": 178,
-      "view_count": 86248,
-      "like_count": 5862,
-      "comment_count": 710,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DSbgmIkZ0hU"
     }
   ],
   "videos_with_transcripts": [],
@@ -211,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 255615,
-      "like_count": 16624,
-      "comment_count": 1652,
+      "view_count": 324317,
+      "like_count": 18537,
+      "comment_count": 1898,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -256,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 36077,
-      "like_count": 3736,
-      "comment_count": 658,
+      "view_count": 82801,
+      "like_count": 5107,
+      "comment_count": 847,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -273,6 +245,57 @@
         "max"
       ],
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
+    },
+    {
+      "video_id": "LWhtyP-jHiQ",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-03T05:43:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LWhtyP-jHiQ/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
+    },
+    {
+      "video_id": "SJPu1spHqfk",
+      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
+      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2026-04-30T12:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
+      "duration": "PT1M54S",
+      "duration_seconds": 114,
+      "view_count": 3447805,
+      "like_count": 156926,
+      "comment_count": 18239,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
+    },
+    {
+      "video_id": "awMajIsk9C0",
+      "title": "Cincinnati Reds at Pittsburgh Pirates",
+      "description": "Pittsburgh Pirates face Cincinnati Reds in a regular-season baseball matchup at PNC Park. This is the first game of a three game series. Pittsburgh holds a 2-1 advantage in the matchup following a dominant 8-3 victory during a prior meeting.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-03T07:07:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/awMajIsk9C0/hqdefault.jpg",
+      "duration": "PT3H9M16S",
+      "duration_seconds": 11356,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=awMajIsk9C0"
     },
     {
       "video_id": "aaYodJ7ZW1c",
@@ -292,23 +315,6 @@
       "url": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
     },
     {
-      "video_id": "SJPu1spHqfk",
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-04-30T12:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 3425484,
-      "like_count": 156512,
-      "comment_count": 18195,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
-    },
-    {
       "video_id": "faAMJkRMF4k",
       "title": "Kentucky Derby Prep",
       "description": "Get ready for one of horse racing's biggest events with experts from NBC Sports who will share a mixture of behind the scenes stories, unlimited access, predictions, betting tips, and more.",
@@ -324,163 +330,86 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=faAMJkRMF4k"
-    },
-    {
-      "video_id": "hEMnpbtievI",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T05:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hEMnpbtievI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=hEMnpbtievI"
-    },
-    {
-      "video_id": "Zw_HE1mQ7rA",
-      "title": "I Got Hunted by the World's Deadliest Assassin",
-      "description": "im being hunted i dont have much time to type this message help \n\nI Got Hunted by the World's Deadliest Assassin \n\nUnstable SMP:\n➜   @FlameFragsMC \n➜   @ParrotX2 \n➜  ⁨ @Spokeishere \n➜  ⁨ @wemmbumc \n\nminor spoilers below\n\nfeaturing: @ParrotX2 @dizzyu \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks, official enderal soundtrack, epidemic sound (https://www.epidemicsound.com), storyblocks (https://www.st",
-      "channel_title": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "published_at": "2026-05-02T13:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zw_HE1mQ7rA/hqdefault.jpg",
-      "duration": "PT57M17S",
-      "duration_seconds": 3437,
-      "view_count": 2006347,
-      "like_count": 152212,
-      "comment_count": 32608,
-      "category_id": "20",
-      "tags": [
-        "wemmbu",
-        "wembu",
-        "wenbu",
-        "wemmbu unstable smp",
-        "wemmbu the sequel",
-        "eggchan",
-        "wemmbu eggchan",
-        "wemmbu hunted",
-        "wemmbu invisible player",
-        "unstable smp"
-      ],
-      "url": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
-    },
-    {
-      "video_id": "DSbgmIkZ0hU",
-      "title": "Mdot 59 - No Air (Official Music Video)",
-      "description": "",
-      "channel_title": "Deevisions 🎥",
-      "channel_id": "UCHkcAJkpyXLCU7zC4FfJn0g",
-      "published_at": "2026-05-02T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSbgmIkZ0hU/hqdefault.jpg",
-      "duration": "PT2M58S",
-      "duration_seconds": 178,
-      "view_count": 86248,
-      "like_count": 5862,
-      "comment_count": 710,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DSbgmIkZ0hU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 9,
-        "totalViews": 5809771,
-        "averageViewsPerVideo": 645530
+        "total_videos": 8,
+        "total_views": 3854923,
+        "average_views_per_video": 481865.375
       },
-      "categoryAnalysis": {
-        "assumedCategories": {
-          "gaming": [
-            "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
-            "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
-            "RESIDENT EVIL – Official Teaser Trailer (4K)"
-          ],
-          "sports": [
-            "Cadillac Championship, Third Round",
-            "Buffalo Sabres at Boston Bruins",
-            "Kentucky Derby Prep"
-          ],
-          "entertainment": [
-            "The Big Weekend Show",
-            "I Got Hunted by the World's Deadliest Assassin",
-            "Mdot 59 - No Air (Official Music Video)"
-          ]
-        },
-        "categoryInsights": {
+      "trending_patterns": {
+        "categories_analysis": {
           "gaming": {
-            "totalVideos": 3,
-            "estimatedTotalViews": 1936590,
-            "trendObservation": "High engagement with trailers and reactions, indicating strong interest in upcoming game releases and related content."
+            "related_videos": [
+              "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
+              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
+              "RESIDENT EVIL – Official Teaser Trailer (4K)"
+            ],
+            "representative_channels": [
+              "PlayStation",
+              "Maximilian Dood",
+              "Sony Pictures Entertainment"
+            ],
+            "views_percentage": "Approximately 37.5% of total views based on the interest in gaming trailers and reactions."
           },
           "sports": {
-            "totalVideos": 3,
-            "estimatedTotalViews": 1936590,
-            "trendObservation": "Live events and highlights are drawing significant attention, suggesting continued interest in sports coverage."
+            "related_videos": [
+              "Cadillac Championship, Third Round",
+              "Cincinnati Reds at Pittsburgh Pirates",
+              "Buffalo Sabres at Boston Bruins",
+              "Kentucky Derby Prep"
+            ],
+            "representative_channels": [
+              "Golf Channel",
+              "FOX News"
+            ],
+            "views_percentage": "Around 50% of total views with a keen interest in live sports and related content."
           },
           "entertainment": {
-            "totalVideos": 3,
-            "estimatedTotalViews": 1936590,
-            "trendObservation": "Diverse content ranging from reality show-style videos to music, showing broad audience interest."
+            "related_videos": [
+              "The Big Weekend Show"
+            ],
+            "representative_channels": [
+              "FOX News"
+            ],
+            "views_percentage": "Remaining percentage, suggesting a niche interest compared to gaming and sports."
           }
         }
       },
-      "creatorPatterns": {
-        "topChannels": [
-          {
-            "name": "PlayStation",
-            "videos": 1,
-            "estimatedViews": 645530,
-            "contentType": "Gaming"
-          },
-          {
-            "name": "Golf Channel",
-            "videos": 1,
-            "estimatedViews": 645530,
-            "contentType": "Sports"
-          },
-          {
-            "name": "Maximilian Dood",
-            "videos": 1,
-            "estimatedViews": 645530,
-            "contentType": "Gaming"
-          },
-          {
-            "name": "ESPN",
-            "videos": 1,
-            "estimatedViews": 645530,
-            "contentType": "Sports"
-          },
-          {
-            "name": "Sony Pictures Entertainment",
-            "videos": 1,
-            "estimatedViews": 645530,
-            "contentType": "Entertainment"
-          }
+      "creator_patterns": {
+        "single_video_channels": [
+          "PlayStation",
+          "Golf Channel",
+          "Maximilian Dood",
+          "FOX News",
+          "Sony Pictures Entertainment"
         ],
-        "creatorInsights": {
-          "multi-platform engagement": "Channels such as PlayStation and Sony Pictures are leveraging cross-platform synergy to increase views and engagement."
-        }
+        "insights": "The channels are leveraging single trending videos to capture audience interest, indicating a strategy of focusing on high-impact releases rather than volume."
       },
-      "marketOpportunities": {
-        "gaming": "Capitalize on the high interest in game trailers and reactions by producing more content around game releases, behind-the-scenes, and developer interviews.",
-        "sports": "Leverage live sports coverage and highlight reels to capture real-time audience engagement, especially around major tournaments and events.",
-        "entertainment": "Explore diverse content formats such as music videos and reality-style shows to maintain broad audience appeal."
+      "market_opportunities": {
+        "gaming_category": {
+          "insight": "High engagement in gaming trailers and reactions suggests an opportunity for channels to create more content around upcoming game releases, behind-the-scenes footage, and reaction videos.",
+          "strategy": "Consider partnerships with game developers for exclusive content or early access to trailers to capitalize on viewer interest."
+        },
+        "sports_category": {
+          "insight": "Live sports and related content maintain strong viewership. There's potential for expanded coverage, such as analysis, highlight reels, and post-game interviews.",
+          "strategy": "Brands could explore sponsoring segments or creating interactive content around major sports events to engage with fans."
+        },
+        "entertainment_category": {
+          "insight": "The entertainment category, while less represented, still holds potential for growth by tapping into trending shows and cultural events.",
+          "strategy": "Channels could explore creating content around popular series or events, leveraging interviews, reviews, or fan theories to drive engagement."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 645530
+        "avg_views_per_video": 481865
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
