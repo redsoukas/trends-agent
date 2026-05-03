@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-03T18:27:32.178502",
+  "timestamp": "2026-05-03T21:21:53.220478",
   "date": "2026-05-03",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 7,
+    "music_videos_filtered": 7,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 7,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 455055,
-      "like_count": 22585,
-      "comment_count": 2272,
+      "view_count": 482635,
+      "like_count": 23198,
+      "comment_count": 2318,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
     },
     {
-      "video_id": "zdndSA6IttY",
+      "video_id": "lzZfOewa7R8",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T17:21:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zdndSA6IttY/hqdefault.jpg",
+      "published_at": "2026-05-03T19:48:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lzZfOewa7R8/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zdndSA6IttY"
+      "url": "https://www.youtube.com/watch?v=lzZfOewa7R8"
     },
     {
       "video_id": "ZAAjFdJiuC8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 184401,
-      "like_count": 9479,
-      "comment_count": 1512,
+      "view_count": 205941,
+      "like_count": 10122,
+      "comment_count": 1655,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -152,51 +152,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
-    },
-    {
-      "video_id": "v6n3kiMQeBs",
-      "title": "ALABANZA Y ADORACIÓN DE LA MAÑANA PARA EMPEZAR BIEN EL DÍA | LA MÚSICA CRISTIANA MÁS AMADA",
-      "description": "ALABANZA Y ADORACIÓN DE LA MAÑANA PARA EMPEZAR BIEN EL DÍA | LA MÚSICA CRISTIANA MÁS AMADA\nhttps://youtu.be/v6n3kiMQeBs\n🎧 Este video ha sido cuidadosamente seleccionado y editado con el propósito de ayudarte a comenzar tu día en la presencia de Dios, creando un ambiente de paz, oración y reflexión espiritual.\n\nSiente la presencia de Dios con esta hermosa colección de música cristiana 🕊️. Cada alabanza ha sido organizada para fortalecer tu fe, traer tranquilidad a tu corazón y acompañarte en tus momentos de conexión con el Señor.\n\n✨ Ideal para oración matutina, adoración personal y momentos de calma.\n🔔 Suscríbete a nuestro canal:\n👉 https://www.youtube.com/channel/UCXy0vYFF6X8H1KMd-6k3BpA\n📌 Sobre el contenido:\nEste video incluye música cristiana utilizada con fines de inspiración, adoración y edificación espiritual. Todo el contenido ha sido recopilado y organizado para crear una experiencia significativa para la audiencia.\nSi eres propietario de algún material y deseas su modificación o",
-      "channel_title": "Musica Cristiana Adoración",
-      "channel_id": "UCXy0vYFF6X8H1KMd-6k3BpA",
-      "published_at": "2026-05-02T10:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v6n3kiMQeBs/hqdefault.jpg",
-      "duration": "PT1H29M59S",
-      "duration_seconds": 5399,
-      "view_count": 99444,
-      "like_count": 1101,
-      "comment_count": 69,
-      "category_id": "22",
-      "tags": [
-        "adoracion",
-        "alabanzas de adoracion",
-        "alabanza y adoración de la mañana",
-        "musica cristiana de adoracion y alabanza",
-        "musica cristiana",
-        "alabanzas cristianas",
-        "marcela gandara",
-        "canciones cristianas",
-        "musica para orar",
-        "adoraciones cristianas"
-      ],
-      "url": "https://www.youtube.com/watch?v=v6n3kiMQeBs"
-    },
-    {
-      "video_id": "awMajIsk9C0",
-      "title": "Cincinnati Reds at Pittsburgh Pirates",
-      "description": "Pittsburgh Pirates face Cincinnati Reds in a regular-season baseball matchup at PNC Park. This is the first game of a three game series. Pittsburgh holds a 2-1 advantage in the matchup following a dominant 8-3 victory during a prior meeting.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-03T07:07:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/awMajIsk9C0/hqdefault.jpg",
-      "duration": "PT3H9M16S",
-      "duration_seconds": 11356,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=awMajIsk9C0"
     }
   ],
   "videos_with_transcripts": [],
@@ -211,9 +166,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 455055,
-      "like_count": 22585,
-      "comment_count": 2272,
+      "view_count": 482635,
+      "like_count": 23198,
+      "comment_count": 2318,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -230,13 +185,13 @@
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
     },
     {
-      "video_id": "zdndSA6IttY",
+      "video_id": "lzZfOewa7R8",
       "title": "Fox & Friends Weekend",
       "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T17:21:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zdndSA6IttY/hqdefault.jpg",
+      "published_at": "2026-05-03T19:48:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lzZfOewa7R8/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -244,7 +199,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zdndSA6IttY"
+      "url": "https://www.youtube.com/watch?v=lzZfOewa7R8"
     },
     {
       "video_id": "ZAAjFdJiuC8",
@@ -256,9 +211,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 184401,
-      "like_count": 9479,
-      "comment_count": 1512,
+      "view_count": 205941,
+      "like_count": 10122,
+      "comment_count": 1655,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -341,145 +296,98 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
-    },
-    {
-      "video_id": "v6n3kiMQeBs",
-      "title": "ALABANZA Y ADORACIÓN DE LA MAÑANA PARA EMPEZAR BIEN EL DÍA | LA MÚSICA CRISTIANA MÁS AMADA",
-      "description": "ALABANZA Y ADORACIÓN DE LA MAÑANA PARA EMPEZAR BIEN EL DÍA | LA MÚSICA CRISTIANA MÁS AMADA\nhttps://youtu.be/v6n3kiMQeBs\n🎧 Este video ha sido cuidadosamente seleccionado y editado con el propósito de ayudarte a comenzar tu día en la presencia de Dios, creando un ambiente de paz, oración y reflexión espiritual.\n\nSiente la presencia de Dios con esta hermosa colección de música cristiana 🕊️. Cada alabanza ha sido organizada para fortalecer tu fe, traer tranquilidad a tu corazón y acompañarte en tus momentos de conexión con el Señor.\n\n✨ Ideal para oración matutina, adoración personal y momentos de calma.\n🔔 Suscríbete a nuestro canal:\n👉 https://www.youtube.com/channel/UCXy0vYFF6X8H1KMd-6k3BpA\n📌 Sobre el contenido:\nEste video incluye música cristiana utilizada con fines de inspiración, adoración y edificación espiritual. Todo el contenido ha sido recopilado y organizado para crear una experiencia significativa para la audiencia.\nSi eres propietario de algún material y deseas su modificación o",
-      "channel_title": "Musica Cristiana Adoración",
-      "channel_id": "UCXy0vYFF6X8H1KMd-6k3BpA",
-      "published_at": "2026-05-02T10:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v6n3kiMQeBs/hqdefault.jpg",
-      "duration": "PT1H29M59S",
-      "duration_seconds": 5399,
-      "view_count": 99444,
-      "like_count": 1101,
-      "comment_count": 69,
-      "category_id": "22",
-      "tags": [
-        "adoracion",
-        "alabanzas de adoracion",
-        "alabanza y adoración de la mañana",
-        "musica cristiana de adoracion y alabanza",
-        "musica cristiana",
-        "alabanzas cristianas",
-        "marcela gandara",
-        "canciones cristianas",
-        "musica para orar",
-        "adoraciones cristianas"
-      ],
-      "url": "https://www.youtube.com/watch?v=v6n3kiMQeBs"
-    },
-    {
-      "video_id": "awMajIsk9C0",
-      "title": "Cincinnati Reds at Pittsburgh Pirates",
-      "description": "Pittsburgh Pirates face Cincinnati Reds in a regular-season baseball matchup at PNC Park. This is the first game of a three game series. Pittsburgh holds a 2-1 advantage in the matchup following a dominant 8-3 victory during a prior meeting.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-03T07:07:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/awMajIsk9C0/hqdefault.jpg",
-      "duration": "PT3H9M16S",
-      "duration_seconds": 11356,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=awMajIsk9C0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "categories": [
-          {
-            "name": "Gaming",
-            "videos": 2,
-            "total_views": "Data not specified",
-            "trend": "Strong interest in gaming content, particularly around Marvel-themed games."
-          },
-          {
-            "name": "Sports",
-            "videos": 4,
-            "total_views": "Data not specified",
-            "trend": "Significant presence of sports content, indicating a consistent audience for live and recorded sports events."
-          },
-          {
-            "name": "News and Commentary",
-            "videos": 1,
-            "total_views": "Data not specified",
-            "trend": "Ongoing demand for news content, especially from established channels like FOX News."
-          },
-          {
-            "name": "Entertainment",
-            "videos": 1,
-            "total_views": "Data not specified",
-            "trend": "Classic movies like 'The Bourne Identity' continue to attract viewers, showing interest in timeless entertainment."
-          },
-          {
-            "name": "Music",
-            "videos": 1,
-            "total_views": "Data not specified",
-            "trend": "Religious and inspirational music content has a dedicated audience looking for uplifting experiences."
-          }
+        "dominant_themes": [
+          "Marvel and Gaming",
+          "Sports Events",
+          "News and Reactions"
         ],
-        "overall_view_trend": "The total views are 738,900 across 9 videos, averaging approximately 82,100 views per video, indicating healthy engagement across diverse categories."
+        "trend_analysis": {
+          "Marvel_and_Gaming": {
+            "description": "Marvel-related content linked to gaming appears twice, indicating strong interest in superhero-themed gaming content.",
+            "videos": [
+              "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
+              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON"
+            ],
+            "viewership_influence": "High potential for virality due to established fan base of Marvel and gaming communities."
+          },
+          "Sports_Events": {
+            "description": "Live sports events and highlights are a significant trend, reflecting ongoing interest in real-time sports content.",
+            "videos": [
+              "Philadelphia 76ers at Boston Celtics",
+              "Philadelphia Flyers at Carolina Hurricanes",
+              "Cadillac Championship, Third Round"
+            ],
+            "viewership_influence": "Consistent viewership from sports enthusiasts, potential for seasonal spikes."
+          },
+          "News_and_Reactions": {
+            "description": "Current events and media reactions maintain audience engagement, especially with timely and controversial topics.",
+            "videos": [
+              "Fox & Friends Weekend",
+              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON"
+            ],
+            "viewership_influence": "Beneficial for channels that can quickly capitalize on trending news or react to popular media."
+          }
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel": "PlayStation",
-            "videos": 1,
-            "insights": "PlayStation's content around new game releases or trailers generates significant interest, suggesting opportunities for more frequent content drops."
-          },
-          {
-            "channel": "FOX News",
-            "videos": 1,
-            "insights": "FOX News maintains a strong viewer base, emphasizing the importance of timely and relevant news updates."
-          },
-          {
-            "channel": "Maximilian Dood",
-            "videos": 1,
-            "insights": "Gaming influencers like Maximilian Dood have a solid following, indicating potential for collaboration and sponsored content opportunities."
-          },
-          {
-            "channel": "NBC 10",
-            "videos": 1,
-            "insights": "Local news channels like NBC 10 can leverage unique regional content to maintain viewer engagement."
-          },
-          {
-            "channel": "6 ABC",
-            "videos": 1,
-            "insights": "Regional sports coverage by channels like 6 ABC attracts local fans, suggesting room for expanded sports commentary and analysis."
-          }
+        "key_channels": [
+          "PlayStation",
+          "FOX News",
+          "Maximilian Dood",
+          "NBC 10",
+          "6 ABC"
         ],
-        "engagement_strategy": "Creators should focus on timely releases, cross-promotions, and leveraging trending topics within their category to maintain and grow their audience."
+        "channel_analysis": {
+          "PlayStation": {
+            "content_type": "Gaming",
+            "engagement_strategy": "Leveraging popular franchises like Marvel to attract gamers."
+          },
+          "FOX_News": {
+            "content_type": "News",
+            "engagement_strategy": "Focusing on topical discussions and audience interaction during live sessions."
+          },
+          "Maximilian_Dood": {
+            "content_type": "Reactions",
+            "engagement_strategy": "Capitalizing on popular trailers and gaming news to engage with a dedicated fan base."
+          }
+        }
       },
       "market_opportunities": {
-        "gaming": {
-          "opportunity": "Expand content around popular franchises like Marvel to capture interest from both gaming and comic book communities."
+        "gaming_and_superhero_content": {
+          "insight": "There is a sustained interest in superhero-themed gaming, providing opportunities for collaborations with gaming influencers and content creators.",
+          "actionable_steps": [
+            "Develop content around upcoming superhero games or updates.",
+            "Collaborate with gaming influencers to create reaction videos."
+          ]
         },
-        "sports": {
-          "opportunity": "Provide in-depth analysis and behind-the-scenes content for sports events to engage more deeply with sports fans."
+        "sports_highlights_and_analysis": {
+          "insight": "Demand for sports content remains high, with potential for growth in analysis and commentary segments.",
+          "actionable_steps": [
+            "Create highlight reels and expert analysis videos post major sports events.",
+            "Engage with sports fans through live commentary sessions."
+          ]
         },
-        "news": {
-          "opportunity": "Enhance live coverage and interactive segments to increase viewer interaction and retention."
-        },
-        "music": {
-          "opportunity": "Explore collaborations with artists to create exclusive content and live performances that can attract wider audiences."
-        },
-        "entertainment": {
-          "opportunity": "Capitalize on nostalgia by promoting classic movies and related content to engage older demographics."
+        "rapid_reaction_and_news_content": {
+          "insight": "Timely reactions to news and media can drive traffic and engagement, especially if tied to trending topics.",
+          "actionable_steps": [
+            "Establish a quick-response team for creating reaction content.",
+            "Integrate trending news into regular content schedules for broader reach."
+          ]
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 7,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 82100
+        "avg_views_per_video": 98368
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
