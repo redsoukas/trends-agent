@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-03T09:36:50.497832",
+  "timestamp": "2026-05-03T12:28:39.194869",
   "date": "2026-05-03",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 324317,
-      "like_count": 18537,
-      "comment_count": 1898,
+      "view_count": 369035,
+      "like_count": 19882,
+      "comment_count": 2025,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -39,6 +39,51 @@
         "Hulk"
       ],
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
+    },
+    {
+      "video_id": "-GKwwbwee3E",
+      "title": "Philadelphia Flyers at Carolina Hurricanes",
+      "description": "The East second round commences as the Flyers face the Hurricanes at Lenovo Center for Game 1. Taylor Hall leads the Hurricanes with seven points, while Rasmus Ristolainen leads the Flyers with five points in the Stanley Cup Playoffs.",
+      "channel_title": "6 ABC",
+      "channel_id": "UCBPE4PTK6ZtYx0lM0R5up_Q",
+      "published_at": "2026-05-03T09:57:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-GKwwbwee3E/hqdefault.jpg",
+      "duration": "PT3H35S",
+      "duration_seconds": 10835,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-GKwwbwee3E"
+    },
+    {
+      "video_id": "ZAAjFdJiuC8",
+      "title": "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
+      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-05-03T04:02:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
+      "duration": "PT17M44S",
+      "duration_seconds": 1064,
+      "view_count": 113647,
+      "like_count": 6580,
+      "comment_count": 1035,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
     },
     {
       "video_id": "oLy3IrtvG9s",
@@ -58,66 +103,38 @@
       "url": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
     },
     {
-      "video_id": "ZAAjFdJiuC8",
-      "title": "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
-      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-05-03T04:02:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
-      "duration": "PT17M44S",
-      "duration_seconds": 1064,
-      "view_count": 82801,
-      "like_count": 5107,
-      "comment_count": 847,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
-    },
-    {
-      "video_id": "LWhtyP-jHiQ",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T05:43:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LWhtyP-jHiQ/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "n1ONFcIUcMg",
+      "title": "The Bourne Identity",
+      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-03T09:18:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n1ONFcIUcMg/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
+      "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
     },
     {
-      "video_id": "SJPu1spHqfk",
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-04-30T12:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 3447805,
-      "like_count": 156926,
-      "comment_count": 18239,
+      "video_id": "uRmbrP-tMAA",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-03T09:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uRmbrP-tMAA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
+      "url": "https://www.youtube.com/watch?v=uRmbrP-tMAA"
     },
     {
       "video_id": "awMajIsk9C0",
@@ -169,6 +186,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=faAMJkRMF4k"
+    },
+    {
+      "video_id": "8NOPaN_GH5c",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-03T07:30:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8NOPaN_GH5c/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
     }
   ],
   "videos_with_transcripts": [],
@@ -183,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 324317,
-      "like_count": 18537,
-      "comment_count": 1898,
+      "view_count": 369035,
+      "like_count": 19882,
+      "comment_count": 2025,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -200,6 +234,51 @@
         "Hulk"
       ],
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
+    },
+    {
+      "video_id": "-GKwwbwee3E",
+      "title": "Philadelphia Flyers at Carolina Hurricanes",
+      "description": "The East second round commences as the Flyers face the Hurricanes at Lenovo Center for Game 1. Taylor Hall leads the Hurricanes with seven points, while Rasmus Ristolainen leads the Flyers with five points in the Stanley Cup Playoffs.",
+      "channel_title": "6 ABC",
+      "channel_id": "UCBPE4PTK6ZtYx0lM0R5up_Q",
+      "published_at": "2026-05-03T09:57:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-GKwwbwee3E/hqdefault.jpg",
+      "duration": "PT3H35S",
+      "duration_seconds": 10835,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-GKwwbwee3E"
+    },
+    {
+      "video_id": "ZAAjFdJiuC8",
+      "title": "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
+      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
+      "channel_title": "Maximilian Dood",
+      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
+      "published_at": "2026-05-03T04:02:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
+      "duration": "PT17M44S",
+      "duration_seconds": 1064,
+      "view_count": 113647,
+      "like_count": 6580,
+      "comment_count": 1035,
+      "category_id": "20",
+      "tags": [
+        "maximilian",
+        "dood",
+        "fighting",
+        "games",
+        "capcom",
+        "street",
+        "fighter",
+        "hype",
+        "rage",
+        "max"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
     },
     {
       "video_id": "oLy3IrtvG9s",
@@ -219,66 +298,38 @@
       "url": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
     },
     {
-      "video_id": "ZAAjFdJiuC8",
-      "title": "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
-      "description": "Join this channel to get access to YT Stream Emotes and Badges!\nhttps://www.youtube.com/channel/UCOgaIuQYGr6ow_jbote4BKA/join\n\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
-      "channel_title": "Maximilian Dood",
-      "channel_id": "UCOgaIuQYGr6ow_jbote4BKA",
-      "published_at": "2026-05-03T04:02:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
-      "duration": "PT17M44S",
-      "duration_seconds": 1064,
-      "view_count": 82801,
-      "like_count": 5107,
-      "comment_count": 847,
-      "category_id": "20",
-      "tags": [
-        "maximilian",
-        "dood",
-        "fighting",
-        "games",
-        "capcom",
-        "street",
-        "fighter",
-        "hype",
-        "rage",
-        "max"
-      ],
-      "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
-    },
-    {
-      "video_id": "LWhtyP-jHiQ",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T05:43:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LWhtyP-jHiQ/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "n1ONFcIUcMg",
+      "title": "The Bourne Identity",
+      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-03T09:18:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n1ONFcIUcMg/hqdefault.jpg",
+      "duration": "PT2H31M5S",
+      "duration_seconds": 9065,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
+      "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
     },
     {
-      "video_id": "SJPu1spHqfk",
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "description": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. \n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.\n \nFrom Columbia Pictures and Constantin Film, in association with TriStar Pictures, Resident Evil hits theatres September 18, 2026.\n\nDirected by: Zach Cregger   \n \nWritten by: Zach Cregger & Shay Hatten    \n\nProduced by:\nRobert Kulzer\nZach Cregger\nRoy Lee\nMiri Yoon\nCarter Swan\nAsad Qizil",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-04-30T12:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg",
-      "duration": "PT1M54S",
-      "duration_seconds": 114,
-      "view_count": 3447805,
-      "like_count": 156926,
-      "comment_count": 18239,
+      "video_id": "uRmbrP-tMAA",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-03T09:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uRmbrP-tMAA/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk"
+      "url": "https://www.youtube.com/watch?v=uRmbrP-tMAA"
     },
     {
       "video_id": "awMajIsk9C0",
@@ -330,86 +381,113 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=faAMJkRMF4k"
+    },
+    {
+      "video_id": "8NOPaN_GH5c",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-03T07:30:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8NOPaN_GH5c/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 8,
-        "total_views": 3854923,
-        "average_views_per_video": 481865.375
-      },
-      "trending_patterns": {
-        "categories_analysis": {
-          "gaming": {
-            "related_videos": [
-              "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
-              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
-              "RESIDENT EVIL – Official Teaser Trailer (4K)"
-            ],
-            "representative_channels": [
-              "PlayStation",
-              "Maximilian Dood",
-              "Sony Pictures Entertainment"
-            ],
-            "views_percentage": "Approximately 37.5% of total views based on the interest in gaming trailers and reactions."
+      "content_trends": {
+        "genres": [
+          {
+            "genre": "Sports",
+            "videos_count": 4,
+            "insight": "Sports content, including live games and event highlights, appears to dominate the trending list with 40% representation. This suggests a strong viewer interest in sports-related content."
           },
-          "sports": {
-            "related_videos": [
-              "Cadillac Championship, Third Round",
-              "Cincinnati Reds at Pittsburgh Pirates",
-              "Buffalo Sabres at Boston Bruins",
-              "Kentucky Derby Prep"
-            ],
-            "representative_channels": [
-              "Golf Channel",
-              "FOX News"
-            ],
-            "views_percentage": "Around 50% of total views with a keen interest in live sports and related content."
+          {
+            "genre": "Gaming",
+            "videos_count": 2,
+            "insight": "Gaming content, specifically related to Marvel, is gaining traction. The presence of both a game trailer and a reaction video indicates a strong fandom and interest in gaming culture."
           },
-          "entertainment": {
-            "related_videos": [
-              "The Big Weekend Show"
-            ],
-            "representative_channels": [
-              "FOX News"
-            ],
-            "views_percentage": "Remaining percentage, suggesting a niche interest compared to gaming and sports."
+          {
+            "genre": "News and Commentary",
+            "videos_count": 2,
+            "insight": "News and commentary content, including political talk shows and late-night formats, suggest an engaged audience interested in current events and political discourse."
+          },
+          {
+            "genre": "Entertainment",
+            "videos_count": 1,
+            "insight": "With classic movies like 'The Bourne Identity' trending, there is a potential interest in nostalgia-driven content or classic movie re-releases."
+          },
+          {
+            "genre": "Others",
+            "videos_count": 1,
+            "insight": "Other content such as the Kentucky Derby Prep highlights a niche interest in specific events, suggesting opportunities for content around major cultural or sporting events."
           }
-        }
+        ]
       },
       "creator_patterns": {
-        "single_video_channels": [
-          "PlayStation",
-          "Golf Channel",
-          "Maximilian Dood",
-          "FOX News",
-          "Sony Pictures Entertainment"
-        ],
-        "insights": "The channels are leveraging single trending videos to capture audience interest, indicating a strategy of focusing on high-impact releases rather than volume."
+        "top_channels": [
+          {
+            "channel": "PlayStation",
+            "videos_count": 1,
+            "insight": "PlayStation's presence with a game trailer aligns with the gaming trend, suggesting opportunities for gaming brands to leverage trailers and exclusive content to capture audience interest."
+          },
+          {
+            "channel": "6 ABC",
+            "videos_count": 1,
+            "insight": "Local news channels like 6 ABC featuring sports events indicate the potential for localized content to gain national attention, particularly when covering major sports."
+          },
+          {
+            "channel": "Maximilian Dood",
+            "videos_count": 1,
+            "insight": "Influencers like Maximilian Dood, who react to gaming content, play a pivotal role in amplifying gaming trends, highlighting the importance of influencer collaborations in content strategies."
+          },
+          {
+            "channel": "Golf Channel",
+            "videos_count": 1,
+            "insight": "Niche sports channels like the Golf Channel can capture trending spots, pointing to opportunities in specialized sports content."
+          },
+          {
+            "channel": "AMC",
+            "videos_count": 1,
+            "insight": "AMC's classic movie content suggests that established entertainment networks can still capture significant viewership with strategic content releases."
+          }
+        ]
       },
       "market_opportunities": {
-        "gaming_category": {
-          "insight": "High engagement in gaming trailers and reactions suggests an opportunity for channels to create more content around upcoming game releases, behind-the-scenes footage, and reaction videos.",
-          "strategy": "Consider partnerships with game developers for exclusive content or early access to trailers to capitalize on viewer interest."
-        },
-        "sports_category": {
-          "insight": "Live sports and related content maintain strong viewership. There's potential for expanded coverage, such as analysis, highlight reels, and post-game interviews.",
-          "strategy": "Brands could explore sponsoring segments or creating interactive content around major sports events to engage with fans."
-        },
-        "entertainment_category": {
-          "insight": "The entertainment category, while less represented, still holds potential for growth by tapping into trending shows and cultural events.",
-          "strategy": "Channels could explore creating content around popular series or events, leveraging interviews, reviews, or fan theories to drive engagement."
-        }
+        "emerging_trends": [
+          {
+            "opportunity": "Enhanced Sports Coverage",
+            "insight": "Given the high interest in sports content, creating interactive or behind-the-scenes content for sports events could attract more viewers and engagement."
+          },
+          {
+            "opportunity": "Gaming and E-sports Expansion",
+            "insight": "There is a clear demand for gaming content, particularly around popular franchises like Marvel. Expanding into e-sports coverage and related content could tap into this growing market."
+          },
+          {
+            "opportunity": "Nostalgia and Classic Content",
+            "insight": "The success of older movies on trending lists indicates an opportunity to explore classic movie marathons or themed content that taps into nostalgia."
+          },
+          {
+            "opportunity": "Event-specific Content",
+            "insight": "Creating content around significant cultural and sporting events, such as the Kentucky Derby, can engage niche audiences and capitalize on event-driven viewership peaks."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 481865
+        "avg_views_per_video": 48268
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
