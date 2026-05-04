@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-04T04:25:21.512448",
+  "timestamp": "2026-05-04T07:16:21.286299",
   "date": "2026-05-04",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 522271,
-      "like_count": 23984,
-      "comment_count": 2420,
+      "view_count": 533873,
+      "like_count": 24169,
+      "comment_count": 2436,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
     },
     {
-      "video_id": "XBNWcwmy-G8",
-      "title": "Texas",
-      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "video_id": "SNEzHZ_XMD4",
+      "title": "Wurth 400",
+      "description": "The Cup Series visits the 1.5-mile Texas oval. Denny Hamlin looks to secure his third victory of the season. Following a top-5 finish at Talladega, Alex Bowman seeks to navigate the high banks of turns 1 and 2 to reach the winner's circle.",
       "channel_title": "FS1",
       "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-04T01:30:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XBNWcwmy-G8/hqdefault.jpg",
-      "duration": "PT1H24M30S",
-      "duration_seconds": 5070,
+      "published_at": "2026-05-04T06:14:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SNEzHZ_XMD4/hqdefault.jpg",
+      "duration": "PT3H37M50S",
+      "duration_seconds": 13070,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=XBNWcwmy-G8"
+      "url": "https://www.youtube.com/watch?v=SNEzHZ_XMD4"
     },
     {
       "video_id": "ZAAjFdJiuC8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 233594,
-      "like_count": 11026,
-      "comment_count": 1701,
+      "view_count": 240791,
+      "like_count": 11188,
+      "comment_count": 1719,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -86,6 +86,23 @@
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
     },
     {
+      "video_id": "RCeMbKcRA9g",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-04T05:45:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RCeMbKcRA9g/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RCeMbKcRA9g"
+    },
+    {
       "video_id": "TVMPKzKvl1c",
       "title": "DO NOT Dig A Hole With Your Friends",
       "description": "MERCH Available now! https://smii7y.store/\nDig a hole for a man, he will have fun for a day... Give a man a shovel, he will have fun for eternity.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed u",
@@ -95,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
       "duration": "PT41M19S",
       "duration_seconds": 2479,
-      "view_count": 696104,
-      "like_count": 40635,
-      "comment_count": 1538,
+      "view_count": 877729,
+      "like_count": 45756,
+      "comment_count": 1602,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -114,23 +131,6 @@
       "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
     },
     {
-      "video_id": "lzZfOewa7R8",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T19:48:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lzZfOewa7R8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=lzZfOewa7R8"
-    },
-    {
       "video_id": "QmfN4s1gUwo",
       "title": "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
       "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@EvanJohnson2 \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
@@ -140,9 +140,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
       "duration": "PT1H22M50S",
       "duration_seconds": 4970,
-      "view_count": 288059,
-      "like_count": 10844,
-      "comment_count": 681,
+      "view_count": 379303,
+      "like_count": 12131,
+      "comment_count": 713,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -150,49 +150,94 @@
       "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
     },
     {
-      "video_id": "GWE92iZ20IA",
-      "title": "Philadelphia 76ers at Boston Celtics",
-      "description": "The Philadelphia 76ers face the Boston Celtics in Game 7 at TD Garden. With the series tied 3-3, the 76ers look to advance as Tyrese Maxey scored 30 points to spark a surge and build a double-digit lead in a dominant 106-93 Game 6 victory.",
-      "channel_title": "NBC 10",
-      "channel_id": "UCdUlh8GrBM3XyrutIUWb07A",
-      "published_at": "2026-05-03T14:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GWE92iZ20IA/hqdefault.jpg",
-      "duration": "PT2H38M16S",
-      "duration_seconds": 9496,
+      "video_id": "asGW53nXt6U",
+      "title": "Inside the NBA",
+      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-04T06:02:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/asGW53nXt6U/hqdefault.jpg",
+      "duration": "PT41M5S",
+      "duration_seconds": 2465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=GWE92iZ20IA"
+      "url": "https://www.youtube.com/watch?v=asGW53nXt6U"
     },
     {
-      "video_id": "8eM77a9iwus",
-      "title": "Steam just made a lot of people mad..",
-      "description": "Asmongold reacts to https://www.youtube.com/watch?v=CP5qn7y2p4c\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
-      "channel_title": "Asmongold TV  ",
-      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
-      "published_at": "2026-05-03T17:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8eM77a9iwus/hqdefault.jpg",
-      "duration": "PT49M27S",
-      "duration_seconds": 2967,
-      "view_count": 530109,
-      "like_count": 22152,
-      "comment_count": 3286,
+      "video_id": "dI-ImqqUw0k",
+      "title": "Manchester United vs. Liverpool",
+      "description": "The Red Devils (17-10-7) and the Reds (17-7-10) meet at Old Trafford for a crucial top-five clash. 4th-place Liverpool seek to close the gap with 3rd-place Manchester. United won the previous league meeting 1-2 at Anfield in October 2025.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-04T05:27:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dI-ImqqUw0k/hqdefault.jpg",
+      "duration": "PT2H1M10S",
+      "duration_seconds": 7270,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=dI-ImqqUw0k"
+    },
+    {
+      "video_id": "vU2_3SHFjOk",
+      "title": "This Store Owner Has A Secret…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-05-03T22:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vU2_3SHFjOk/hqdefault.jpg",
+      "duration": "PT1H21M43S",
+      "duration_seconds": 4903,
+      "view_count": 187682,
+      "like_count": 7716,
+      "comment_count": 525,
       "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold reacts",
-        "asmongold wow",
-        "asmongold highlights",
-        "asmongold youtube",
-        "world of warcraft",
-        "asmongold funny",
-        "asmongold tv",
-        "asmongold channel",
-        "zackrawrr"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=8eM77a9iwus"
+      "url": "https://www.youtube.com/watch?v=vU2_3SHFjOk"
+    },
+    {
+      "video_id": "Y9_CoUFAehE",
+      "title": "Garry's Mod 2 Is Finally Here!",
+      "description": "Outro Song: https://www.youtube.com/watch?v=qKUW51BOJy8\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nLui Calibre - @KingLuiCalibre \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nNogla - @DaithiDeNogla \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
+      "channel_title": "VanossGaming",
+      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "published_at": "2026-05-04T01:30:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y9_CoUFAehE/hqdefault.jpg",
+      "duration": "PT15M40S",
+      "duration_seconds": 940,
+      "view_count": 317257,
+      "like_count": 28248,
+      "comment_count": 1105,
+      "category_id": "20",
+      "tags": [
+        "Funny Moments",
+        "Montage video games",
+        "gaming",
+        "Vanoss",
+        "VanossGaming",
+        "Gameplay",
+        "Secret",
+        "Puncake",
+        "Parody",
+        "Comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=Y9_CoUFAehE"
     }
   ],
   "videos_with_transcripts": [],
@@ -207,9 +252,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 522271,
-      "like_count": 23984,
-      "comment_count": 2420,
+      "view_count": 533873,
+      "like_count": 24169,
+      "comment_count": 2436,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -226,21 +271,21 @@
       "url": "https://www.youtube.com/watch?v=AFdxKvplq9M"
     },
     {
-      "video_id": "XBNWcwmy-G8",
-      "title": "Texas",
-      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "video_id": "SNEzHZ_XMD4",
+      "title": "Wurth 400",
+      "description": "The Cup Series visits the 1.5-mile Texas oval. Denny Hamlin looks to secure his third victory of the season. Following a top-5 finish at Talladega, Alex Bowman seeks to navigate the high banks of turns 1 and 2 to reach the winner's circle.",
       "channel_title": "FS1",
       "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-04T01:30:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XBNWcwmy-G8/hqdefault.jpg",
-      "duration": "PT1H24M30S",
-      "duration_seconds": 5070,
+      "published_at": "2026-05-04T06:14:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SNEzHZ_XMD4/hqdefault.jpg",
+      "duration": "PT3H37M50S",
+      "duration_seconds": 13070,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=XBNWcwmy-G8"
+      "url": "https://www.youtube.com/watch?v=SNEzHZ_XMD4"
     },
     {
       "video_id": "ZAAjFdJiuC8",
@@ -252,9 +297,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 233594,
-      "like_count": 11026,
-      "comment_count": 1701,
+      "view_count": 240791,
+      "like_count": 11188,
+      "comment_count": 1719,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -271,6 +316,23 @@
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
     },
     {
+      "video_id": "RCeMbKcRA9g",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-04T05:45:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RCeMbKcRA9g/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=RCeMbKcRA9g"
+    },
+    {
       "video_id": "TVMPKzKvl1c",
       "title": "DO NOT Dig A Hole With Your Friends",
       "description": "MERCH Available now! https://smii7y.store/\nDig a hole for a man, he will have fun for a day... Give a man a shovel, he will have fun for eternity.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed u",
@@ -280,9 +342,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
       "duration": "PT41M19S",
       "duration_seconds": 2479,
-      "view_count": 696104,
-      "like_count": 40635,
-      "comment_count": 1538,
+      "view_count": 877729,
+      "like_count": 45756,
+      "comment_count": 1602,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -299,23 +361,6 @@
       "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
     },
     {
-      "video_id": "lzZfOewa7R8",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-03T19:48:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lzZfOewa7R8/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=lzZfOewa7R8"
-    },
-    {
       "video_id": "QmfN4s1gUwo",
       "title": "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
       "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@EvanJohnson2 \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
@@ -325,9 +370,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
       "duration": "PT1H22M50S",
       "duration_seconds": 4970,
-      "view_count": 288059,
-      "like_count": 10844,
-      "comment_count": 681,
+      "view_count": 379303,
+      "like_count": 12131,
+      "comment_count": 713,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -335,111 +380,186 @@
       "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
     },
     {
-      "video_id": "GWE92iZ20IA",
-      "title": "Philadelphia 76ers at Boston Celtics",
-      "description": "The Philadelphia 76ers face the Boston Celtics in Game 7 at TD Garden. With the series tied 3-3, the 76ers look to advance as Tyrese Maxey scored 30 points to spark a surge and build a double-digit lead in a dominant 106-93 Game 6 victory.",
-      "channel_title": "NBC 10",
-      "channel_id": "UCdUlh8GrBM3XyrutIUWb07A",
-      "published_at": "2026-05-03T14:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GWE92iZ20IA/hqdefault.jpg",
-      "duration": "PT2H38M16S",
-      "duration_seconds": 9496,
+      "video_id": "asGW53nXt6U",
+      "title": "Inside the NBA",
+      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-04T06:02:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/asGW53nXt6U/hqdefault.jpg",
+      "duration": "PT41M5S",
+      "duration_seconds": 2465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=GWE92iZ20IA"
+      "url": "https://www.youtube.com/watch?v=asGW53nXt6U"
     },
     {
-      "video_id": "8eM77a9iwus",
-      "title": "Steam just made a lot of people mad..",
-      "description": "Asmongold reacts to https://www.youtube.com/watch?v=CP5qn7y2p4c\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
-      "channel_title": "Asmongold TV  ",
-      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
-      "published_at": "2026-05-03T17:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8eM77a9iwus/hqdefault.jpg",
-      "duration": "PT49M27S",
-      "duration_seconds": 2967,
-      "view_count": 530109,
-      "like_count": 22152,
-      "comment_count": 3286,
+      "video_id": "dI-ImqqUw0k",
+      "title": "Manchester United vs. Liverpool",
+      "description": "The Red Devils (17-10-7) and the Reds (17-7-10) meet at Old Trafford for a crucial top-five clash. 4th-place Liverpool seek to close the gap with 3rd-place Manchester. United won the previous league meeting 1-2 at Anfield in October 2025.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-04T05:27:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dI-ImqqUw0k/hqdefault.jpg",
+      "duration": "PT2H1M10S",
+      "duration_seconds": 7270,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=dI-ImqqUw0k"
+    },
+    {
+      "video_id": "vU2_3SHFjOk",
+      "title": "This Store Owner Has A Secret…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-05-03T22:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vU2_3SHFjOk/hqdefault.jpg",
+      "duration": "PT1H21M43S",
+      "duration_seconds": 4903,
+      "view_count": 187682,
+      "like_count": 7716,
+      "comment_count": 525,
       "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold reacts",
-        "asmongold wow",
-        "asmongold highlights",
-        "asmongold youtube",
-        "world of warcraft",
-        "asmongold funny",
-        "asmongold tv",
-        "asmongold channel",
-        "zackrawrr"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=8eM77a9iwus"
+      "url": "https://www.youtube.com/watch?v=vU2_3SHFjOk"
+    },
+    {
+      "video_id": "Y9_CoUFAehE",
+      "title": "Garry's Mod 2 Is Finally Here!",
+      "description": "Outro Song: https://www.youtube.com/watch?v=qKUW51BOJy8\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \n\nTerroriser - @Terroriser \nLui Calibre - @KingLuiCalibre \nWildcat - @wildcat \nBasicallyIDoWrk - @BasicallyIDoWrk \nNogla - @DaithiDeNogla \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
+      "channel_title": "VanossGaming",
+      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "published_at": "2026-05-04T01:30:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y9_CoUFAehE/hqdefault.jpg",
+      "duration": "PT15M40S",
+      "duration_seconds": 940,
+      "view_count": 317257,
+      "like_count": 28248,
+      "comment_count": 1105,
+      "category_id": "20",
+      "tags": [
+        "Funny Moments",
+        "Montage video games",
+        "gaming",
+        "Vanoss",
+        "VanossGaming",
+        "Gameplay",
+        "Secret",
+        "Puncake",
+        "Parody",
+        "Comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=Y9_CoUFAehE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "gaming": {
-          "description": "Gaming content is prominently featured, with two videos related to Marvel and gaming, indicating a strong interest in gaming trailers and reactions.",
-          "opportunities": "Capitalize on new game releases, reviews, and reaction videos, especially around popular franchises like Marvel."
+        "gaming_focus": {
+          "description": "Several trending videos are related to gaming, specifically around popular franchises like Marvel and Garry's Mod.",
+          "data_points": [
+            {
+              "video_titles": [
+                "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
+                "Garry's Mod 2 Is Finally Here!"
+              ],
+              "total_views": "Estimated high viewership due to popular gaming content."
+            }
+          ],
+          "opportunity": "Creating content around popular gaming franchises can attract significant viewership. Consider collaboration with gaming influencers or developers to create engaging content."
         },
-        "news_and_politics": {
-          "description": "Videos from FOX News and FS1 suggest a demand for news and political content.",
-          "opportunities": "Create content around current events, political analysis, and opinion pieces to engage viewers interested in news."
+        "entertainment_and_reactions": {
+          "description": "Reaction videos and entertainment content are widely popular, indicating a high engagement trend.",
+          "data_points": [
+            {
+              "video_titles": [
+                "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
+                "The Big Weekend Show",
+                "DO NOT Dig A Hole With Your Friends"
+              ],
+              "estimated_viewership": "High due to the appeal of reaction and entertainment genres."
+            }
+          ],
+          "opportunity": "Invest in creating reaction content or humorous entertainment series to capitalize on viewer interest."
         },
-        "sports": {
-          "description": "The presence of a video about a basketball game indicates interest in sports content.",
-          "opportunities": "Explore coverage of major sports events, highlights, and analysis to capture the sports audience."
-        },
-        "entertainment_and_humor": {
-          "description": "Videos like 'DO NOT Dig A Hole With Your Friends' and 'SCRATCH-OFFS WILL MAKE ME RICH' show a trend towards comedic and entertainment content.",
-          "opportunities": "Develop original comedic series or challenge videos to attract viewers seeking light-hearted entertainment."
-        },
-        "technology": {
-          "description": "The video titled 'Steam just made a lot of people mad..' indicates interest in tech and gaming platforms.",
-          "opportunities": "Provide updates, reviews, and commentary on tech platforms and gaming developments to engage tech-savvy audiences."
+        "sports_and_news": {
+          "description": "Sports and news content remain relevant, with notable mentions in the trending list.",
+          "data_points": [
+            {
+              "video_titles": [
+                "Manchester United vs. Liverpool",
+                "Inside the NBA"
+              ],
+              "channels": [
+                "FS1",
+                "FOX News"
+              ],
+              "appeal": "Sports and news content attract loyal viewership, especially around major events."
+            }
+          ],
+          "opportunity": "Develop content around live sports events and trending news topics to capture timely engagement."
         }
       },
       "creator_patterns": {
-        "multi-genre channels": {
-          "description": "Channels like Maximilian Dood and SMii7Y are engaging in both gaming and general entertainment content.",
-          "strategy": "Encourage creators to diversify content to appeal to broader audiences and leverage cross-promotional opportunities."
-        },
-        "brand channels": {
-          "description": "Channels like PlayStation are leveraging brand-specific content to capture niche audiences.",
-          "strategy": "Focus on brand-aligned content and collaborations to strengthen brand presence and engage loyal audiences."
-        },
-        "news and commentary": {
-          "description": "FOX News and FS1 indicate a trend towards authoritative commentary and news.",
-          "strategy": "Develop in-depth analysis and commentary content to establish authority and trust with news-seeking audiences."
+        "diversified_channels": {
+          "description": "A variety of channels with different focus areas are trending, indicating diverse audience interests.",
+          "data_points": [
+            {
+              "channels": [
+                "PlayStation",
+                "FS1",
+                "Maximilian Dood",
+                "FOX News",
+                "SMii7Y"
+              ],
+              "content_types": [
+                "Gaming",
+                "Sports",
+                "Reactions",
+                "News",
+                "Comedy"
+              ]
+            }
+          ],
+          "opportunity": "Creators can explore cross-genre content to tap into varied audience segments and increase reach."
         }
       },
       "market_opportunities": {
-        "cross-platform promotion": {
-          "insight": "Leverage trending topics across platforms by creating complementary content and engaging with audiences on social media.",
-          "action": "Utilize Twitter, Instagram, and TikTok to amplify YouTube content and engage with broader audiences."
+        "cross-promotion": {
+          "description": "With top channels having only one video each in the trending list, cross-channel promotion can enhance visibility.",
+          "strategy": "Channels can collaborate on thematic content series or guest appearances to leverage audiences from different niches."
         },
-        "collaborative content": {
-          "insight": "Collaborations between creators and brands can enhance reach and engagement.",
-          "action": "Encourage partnerships between creators and brands, especially in related niches like gaming and entertainment."
-        },
-        "personalization and niche targeting": {
-          "insight": "Cater to specific interests within broader categories, such as specific game titles or unique sports events.",
-          "action": "Develop content strategies focused on niche audiences to increase engagement and viewer loyalty."
+        "audience_engagement": {
+          "description": "High engagement potential in gaming and entertainment content implies a market for interactive formats.",
+          "strategy": "Utilize live streams, Q&A sessions, and interactive polls to enhance viewer participation and retention."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 283767
+        "avg_views_per_video": 253663
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
