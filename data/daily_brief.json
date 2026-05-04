@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-03T21:21:53.220478",
-  "date": "2026-05-03",
+  "timestamp": "2026-05-04T01:02:08.393619",
+  "date": "2026-05-04",
   "summary": {
-    "total_videos_analyzed": 7,
+    "total_videos_analyzed": 8,
     "music_videos_filtered": 7,
-    "high_potential_videos": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 7,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 482635,
-      "like_count": 23198,
-      "comment_count": 2318,
+      "view_count": 506646,
+      "like_count": 23658,
+      "comment_count": 2400,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 205941,
-      "like_count": 10122,
-      "comment_count": 1655,
+      "view_count": 222944,
+      "like_count": 10658,
+      "comment_count": 1743,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -84,6 +84,34 @@
         "max"
       ],
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
+    },
+    {
+      "video_id": "TVMPKzKvl1c",
+      "title": "DO NOT Dig A Hole With Your Friends",
+      "description": "MERCH Available now! https://smii7y.store/\nDig a hole for a man, he will have fun for a day... Give a man a shovel, he will have fun for eternity.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed u",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-03T19:13:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
+      "duration": "PT41M19S",
+      "duration_seconds": 2479,
+      "view_count": 456607,
+      "like_count": 31427,
+      "comment_count": 1337,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "pratfall",
+        "pratfall gameplay",
+        "pratfall demo",
+        "pratfall game",
+        "pratfall reaction",
+        "pratfall online"
+      ],
+      "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
     },
     {
       "video_id": "GWE92iZ20IA",
@@ -103,6 +131,25 @@
       "url": "https://www.youtube.com/watch?v=GWE92iZ20IA"
     },
     {
+      "video_id": "QmfN4s1gUwo",
+      "title": "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@EvanJohnson2 \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-05-03T17:23:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
+      "duration": "PT1H22M50S",
+      "duration_seconds": 4970,
+      "view_count": 192508,
+      "like_count": 8324,
+      "comment_count": 594,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
+    },
+    {
       "video_id": "-GKwwbwee3E",
       "title": "Philadelphia Flyers at Carolina Hurricanes",
       "description": "The East second round commences as the Flyers face the Hurricanes at Lenovo Center for Game 1. Taylor Hall leads the Hurricanes with seven points, while Rasmus Ristolainen leads the Flyers with five points in the Stanley Cup Playoffs.",
@@ -120,38 +167,21 @@
       "url": "https://www.youtube.com/watch?v=-GKwwbwee3E"
     },
     {
-      "video_id": "oLy3IrtvG9s",
-      "title": "Cadillac Championship, Third Round",
-      "description": "The third round of the PGA Tour signature event gets underway at Trump National Doral in Miami. Golfers face the grueling 7,600-yard Blue Monster layout as they jockey for position to earn a massive slice of the eight-figure financial reward.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-03T03:08:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oLy3IrtvG9s/hqdefault.jpg",
-      "duration": "PT3H21S",
-      "duration_seconds": 10821,
+      "video_id": "xCEGtB9hWXU",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-03T22:54:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xCEGtB9hWXU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
-    },
-    {
-      "video_id": "n1ONFcIUcMg",
-      "title": "The Bourne Identity",
-      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-03T09:18:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n1ONFcIUcMg/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
+      "url": "https://www.youtube.com/watch?v=xCEGtB9hWXU"
     }
   ],
   "videos_with_transcripts": [],
@@ -166,9 +196,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AFdxKvplq9M/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 482635,
-      "like_count": 23198,
-      "comment_count": 2318,
+      "view_count": 506646,
+      "like_count": 23658,
+      "comment_count": 2400,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -211,9 +241,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZAAjFdJiuC8/hqdefault.jpg",
       "duration": "PT17M44S",
       "duration_seconds": 1064,
-      "view_count": 205941,
-      "like_count": 10122,
-      "comment_count": 1655,
+      "view_count": 222944,
+      "like_count": 10658,
+      "comment_count": 1743,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -228,6 +258,34 @@
         "max"
       ],
       "url": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
+    },
+    {
+      "video_id": "TVMPKzKvl1c",
+      "title": "DO NOT Dig A Hole With Your Friends",
+      "description": "MERCH Available now! https://smii7y.store/\nDig a hole for a man, he will have fun for a day... Give a man a shovel, he will have fun for eternity.\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed u",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-03T19:13:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
+      "duration": "PT41M19S",
+      "duration_seconds": 2479,
+      "view_count": 456607,
+      "like_count": 31427,
+      "comment_count": 1337,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "pratfall",
+        "pratfall gameplay",
+        "pratfall demo",
+        "pratfall game",
+        "pratfall reaction",
+        "pratfall online"
+      ],
+      "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
     },
     {
       "video_id": "GWE92iZ20IA",
@@ -247,6 +305,25 @@
       "url": "https://www.youtube.com/watch?v=GWE92iZ20IA"
     },
     {
+      "video_id": "QmfN4s1gUwo",
+      "title": "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@EvanJohnson2 \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-05-03T17:23:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
+      "duration": "PT1H22M50S",
+      "duration_seconds": 4970,
+      "view_count": 192508,
+      "like_count": 8324,
+      "comment_count": 594,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
+    },
+    {
       "video_id": "-GKwwbwee3E",
       "title": "Philadelphia Flyers at Carolina Hurricanes",
       "description": "The East second round commences as the Flyers face the Hurricanes at Lenovo Center for Game 1. Taylor Hall leads the Hurricanes with seven points, while Rasmus Ristolainen leads the Flyers with five points in the Stanley Cup Playoffs.",
@@ -264,38 +341,21 @@
       "url": "https://www.youtube.com/watch?v=-GKwwbwee3E"
     },
     {
-      "video_id": "oLy3IrtvG9s",
-      "title": "Cadillac Championship, Third Round",
-      "description": "The third round of the PGA Tour signature event gets underway at Trump National Doral in Miami. Golfers face the grueling 7,600-yard Blue Monster layout as they jockey for position to earn a massive slice of the eight-figure financial reward.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-03T03:08:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oLy3IrtvG9s/hqdefault.jpg",
-      "duration": "PT3H21S",
-      "duration_seconds": 10821,
+      "video_id": "xCEGtB9hWXU",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-03T22:54:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xCEGtB9hWXU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
-    },
-    {
-      "video_id": "n1ONFcIUcMg",
-      "title": "The Bourne Identity",
-      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-03T09:18:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n1ONFcIUcMg/hqdefault.jpg",
-      "duration": "PT2H31M5S",
-      "duration_seconds": 9065,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
+      "url": "https://www.youtube.com/watch?v=xCEGtB9hWXU"
     }
   ],
   "analysis": {
@@ -303,91 +363,57 @@
     "metadata_based": {
       "content_trends": {
         "dominant_themes": [
-          "Marvel and Gaming",
-          "Sports Events",
-          "News and Reactions"
+          "Gaming",
+          "Sports",
+          "News",
+          "Entertainment"
         ],
         "trend_analysis": {
-          "Marvel_and_Gaming": {
-            "description": "Marvel-related content linked to gaming appears twice, indicating strong interest in superhero-themed gaming content.",
-            "videos": [
-              "Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
-              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON"
-            ],
-            "viewership_influence": "High potential for virality due to established fan base of Marvel and gaming communities."
+          "gaming": {
+            "description": "Gaming content related to popular franchises like Marvel is trending, indicating a strong interest in superhero-themed games.",
+            "evidence": "Two videos ('Marvel Tōkon: Fighting Souls - Fighting Avengers Trailer' and 'MAX REACTS: Hulk and Black Panther Trailer') are related to Marvel gaming content, suggesting a significant audience engagement in this domain."
           },
-          "Sports_Events": {
-            "description": "Live sports events and highlights are a significant trend, reflecting ongoing interest in real-time sports content.",
-            "videos": [
-              "Philadelphia 76ers at Boston Celtics",
-              "Philadelphia Flyers at Carolina Hurricanes",
-              "Cadillac Championship, Third Round"
-            ],
-            "viewership_influence": "Consistent viewership from sports enthusiasts, potential for seasonal spikes."
+          "sports": {
+            "description": "Sports content is consistently appearing in the trending list, indicating ongoing viewer interest, especially in live events and commentary.",
+            "evidence": "Videos like 'Philadelphia 76ers at Boston Celtics', 'Philadelphia Flyers at Carolina Hurricanes', and 'SportsCenter' highlight the audience's interest in basketball and hockey events."
           },
-          "News_and_Reactions": {
-            "description": "Current events and media reactions maintain audience engagement, especially with timely and controversial topics.",
-            "videos": [
-              "Fox & Friends Weekend",
-              "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON"
-            ],
-            "viewership_influence": "Beneficial for channels that can quickly capitalize on trending news or react to popular media."
+          "news_and_entertainment": {
+            "description": "News and casual entertainment content, such as scratch-off lottery experiences, are engaging audiences.",
+            "evidence": "FOX News and NBC 10 channels contribute to the trending list, alongside casual entertainment like 'SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]'."
           }
         }
       },
       "creator_patterns": {
-        "key_channels": [
-          "PlayStation",
-          "FOX News",
-          "Maximilian Dood",
-          "NBC 10",
-          "6 ABC"
-        ],
-        "channel_analysis": {
-          "PlayStation": {
-            "content_type": "Gaming",
-            "engagement_strategy": "Leveraging popular franchises like Marvel to attract gamers."
-          },
-          "FOX_News": {
-            "content_type": "News",
-            "engagement_strategy": "Focusing on topical discussions and audience interaction during live sessions."
-          },
-          "Maximilian_Dood": {
-            "content_type": "Reactions",
-            "engagement_strategy": "Capitalizing on popular trailers and gaming news to engage with a dedicated fan base."
-          }
+        "diverse_content": {
+          "description": "Trending videos come from a variety of creators and channels, indicating a healthy diversity in content types and creator audiences.",
+          "evidence": "Top channels like PlayStation, FOX News, Maximilian Dood, SMii7Y, and NBC 10 each have one video trending, showcasing varied content ranging from gaming to news."
+        },
+        "engagement_drivers": {
+          "description": "Creators are leveraging popular franchises and current events to drive engagement.",
+          "evidence": "Videos related to Marvel and live sports events are likely using high-interest topics to capture viewer attention."
         }
       },
       "market_opportunities": {
-        "gaming_and_superhero_content": {
-          "insight": "There is a sustained interest in superhero-themed gaming, providing opportunities for collaborations with gaming influencers and content creators.",
-          "actionable_steps": [
-            "Develop content around upcoming superhero games or updates.",
-            "Collaborate with gaming influencers to create reaction videos."
-          ]
+        "gaming_expansion": {
+          "description": "There is a significant opportunity to expand gaming content, particularly around popular franchises like Marvel.",
+          "actionable_insights": "Content creators and marketers can capitalize on this trend by producing more game-related content, reviews, and live streams."
         },
-        "sports_highlights_and_analysis": {
-          "insight": "Demand for sports content remains high, with potential for growth in analysis and commentary segments.",
-          "actionable_steps": [
-            "Create highlight reels and expert analysis videos post major sports events.",
-            "Engage with sports fans through live commentary sessions."
-          ]
+        "sports_collaborations": {
+          "description": "Partnering with sports teams or creating sports-related content can capture a dedicated audience segment.",
+          "actionable_insights": "Consider collaborations with sports personalities or creating content around major sports events to engage fans."
         },
-        "rapid_reaction_and_news_content": {
-          "insight": "Timely reactions to news and media can drive traffic and engagement, especially if tied to trending topics.",
-          "actionable_steps": [
-            "Establish a quick-response team for creating reaction content.",
-            "Integrate trending news into regular content schedules for broader reach."
-          ]
+        "diverse_content_creation": {
+          "description": "Opportunities exist for creators to explore a wider range of topics, including unique entertainment formats like scratch-off experiences.",
+          "actionable_insights": "Experiment with niche content that combines entertainment with an element of surprise or novelty, such as interactive games or challenges."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 7,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 98368
+        "avg_views_per_video": 172338
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
