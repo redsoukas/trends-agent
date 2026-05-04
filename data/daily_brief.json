@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-04T12:47:15.331441",
+  "timestamp": "2026-05-04T15:49:17.893638",
   "date": "2026-05-04",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -107,9 +107,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
       "duration": "PT41M19S",
       "duration_seconds": 2479,
-      "view_count": 1078580,
-      "like_count": 52832,
-      "comment_count": 1734,
+      "view_count": 1181864,
+      "like_count": 56857,
+      "comment_count": 1808,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -124,6 +124,23 @@
         "pratfall online"
       ],
       "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
+    },
+    {
+      "video_id": "xK27NZxnllM",
+      "title": "Minnesota Wild at Colorado Avalanche",
+      "description": "The Avalanche and Wild open their Western Conference second-round series. The Presidents' Trophy-winning Avalanche enter after a first-round sweep, while the Wild advanced in six. Nathan MacKinnon had seven points versus the Wild this year.",
+      "channel_title": "TNT",
+      "channel_id": "UC-9kbVVBMGAJTcmxKEUanAg",
+      "published_at": "2026-05-04T13:16:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xK27NZxnllM/hqdefault.jpg",
+      "duration": "PT2H43M48S",
+      "duration_seconds": 9828,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xK27NZxnllM"
     },
     {
       "video_id": "uTzr1XHAbAU",
@@ -169,31 +186,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
       "duration": "PT1H22M50S",
       "duration_seconds": 4970,
-      "view_count": 461299,
-      "like_count": 13564,
-      "comment_count": 749,
+      "view_count": 495102,
+      "like_count": 14452,
+      "comment_count": 780,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
       ],
       "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
-    },
-    {
-      "video_id": "zGN_WTL6_UQ",
-      "title": "Shift 2: Speed",
-      "description": "Michael Symon and Esther Choi give the remaining chefs three challenges that test their ability to think and cook fast, including a team relay race and a 15-minute fast-food dish. Expert judge Judy Joo sends two chefs home.",
-      "channel_title": "Food Network",
-      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
-      "published_at": "2026-05-04T08:41:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zGN_WTL6_UQ/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=zGN_WTL6_UQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -293,9 +293,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TVMPKzKvl1c/hqdefault.jpg",
       "duration": "PT41M19S",
       "duration_seconds": 2479,
-      "view_count": 1078580,
-      "like_count": 52832,
-      "comment_count": 1734,
+      "view_count": 1181864,
+      "like_count": 56857,
+      "comment_count": 1808,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -310,6 +310,23 @@
         "pratfall online"
       ],
       "url": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
+    },
+    {
+      "video_id": "xK27NZxnllM",
+      "title": "Minnesota Wild at Colorado Avalanche",
+      "description": "The Avalanche and Wild open their Western Conference second-round series. The Presidents' Trophy-winning Avalanche enter after a first-round sweep, while the Wild advanced in six. Nathan MacKinnon had seven points versus the Wild this year.",
+      "channel_title": "TNT",
+      "channel_id": "UC-9kbVVBMGAJTcmxKEUanAg",
+      "published_at": "2026-05-04T13:16:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xK27NZxnllM/hqdefault.jpg",
+      "duration": "PT2H43M48S",
+      "duration_seconds": 9828,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xK27NZxnllM"
     },
     {
       "video_id": "uTzr1XHAbAU",
@@ -355,93 +372,90 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QmfN4s1gUwo/hqdefault.jpg",
       "duration": "PT1H22M50S",
       "duration_seconds": 4970,
-      "view_count": 461299,
-      "like_count": 13564,
-      "comment_count": 749,
+      "view_count": 495102,
+      "like_count": 14452,
+      "comment_count": 780,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
       ],
       "url": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
-    },
-    {
-      "video_id": "zGN_WTL6_UQ",
-      "title": "Shift 2: Speed",
-      "description": "Michael Symon and Esther Choi give the remaining chefs three challenges that test their ability to think and cook fast, including a team relay race and a 15-minute fast-food dish. Expert judge Judy Joo sends two chefs home.",
-      "channel_title": "Food Network",
-      "channel_id": "UCwOohtHXo0hkQMB4WO3Ib8g",
-      "published_at": "2026-05-04T08:41:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zGN_WTL6_UQ/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=zGN_WTL6_UQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 1676966,
+        "average_views_per_video": 167696.6
+      },
       "content_trends": {
-        "sports_dominance": {
-          "description": "A significant portion of trending content is related to sports events and highlights.",
-          "evidence": [
+        "sports": {
+          "description": "A significant portion of the trending content is related to sports events, indicating a strong audience interest in live sports and sports commentary.",
+          "titles": [
             "Montreal Canadiens at Tampa Bay Lightning",
             "Wurth 400",
-            "Texas Rangers at Detroit Tigers"
+            "Texas Rangers at Detroit Tigers",
+            "Minnesota Wild at Colorado Avalanche"
           ],
-          "insight": "Sports content is a major driver of views. Channels focusing on live sports coverage or sports analysis may see increased engagement."
+          "channels": [
+            "TNT",
+            "FS1",
+            "NBCSN"
+          ],
+          "insights": {
+            "engagement": "Sports videos are likely drawing higher engagement due to live events and highlights.",
+            "opportunity": "Consider creating more sports-related content or partnering with sports channels to leverage this interest."
+          }
         },
-        "entertainment_and_movies": {
-          "description": "Movies and entertainment content also capture significant viewer interest.",
-          "evidence": [
+        "entertainment": {
+          "description": "The presence of a major film ('Top Gun: Maverick') and a TV show ('Tell All: Part 2') indicates continued interest in blockbuster entertainment and reality TV.",
+          "titles": [
             "Top Gun: Maverick",
-            "Unfinished Business"
-          ],
-          "insight": "Leveraging upcoming movie releases or popular entertainment franchises can attract a wide audience."
-        },
-        "current_affairs_and_news": {
-          "description": "News and current affairs content maintain viewer interest.",
-          "evidence": [
-            "Sunday Night in America With Trey Gowdy",
             "Tell All: Part 2"
           ],
-          "insight": "Timely and relevant news content can engage audiences, particularly when tied to current events or popular personalities."
-        },
-        "unique_and_niche_content": {
-          "description": "Unconventional or niche content can also trend, showing diversity in viewer interests.",
-          "evidence": [
-            "DO NOT Dig A Hole With Your Friends",
-            "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
-            "Shift 2: Speed"
+          "channels": [
+            "AMC",
+            "FOX News"
           ],
-          "insight": "Creators should consider exploring unique or niche topics to capture specific audience segments looking for fresh, creative content."
+          "insights": {
+            "engagement": "High viewership for movies and TV show highlights suggests strong viewer retention.",
+            "opportunity": "Explore opportunities in movie reviews, breakdowns, or behind-the-scenes content for popular films and shows."
+          }
+        },
+        "unique and novelty content": {
+          "description": "Videos with unique or novelty themes (e.g., 'DO NOT Dig A Hole With Your Friends', 'SCRATCH-OFFS WILL MAKE ME RICH') showcase interest in curiosity-driven content.",
+          "titles": [
+            "DO NOT Dig A Hole With Your Friends",
+            "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]"
+          ],
+          "insights": {
+            "engagement": "Such content may engage through surprise and entertainment value, appealing to a broad audience.",
+            "opportunity": "Leverage viral trends or unique challenges to capture audience interest and encourage shareability."
+          }
         }
       },
       "creator_patterns": {
-        "channel_diversity": {
-          "description": "Trending content is distributed across a variety of channels, not dominated by a single entity.",
-          "evidence": [
-            "Channels like TNT, FS1, NBCSN, AMC, and FOX News each have one trending video."
-          ],
-          "insight": "This indicates opportunities for smaller or emerging channels to break into trending territory with compelling content."
+        "top_channels": {
+          "TNT": 2,
+          "FS1": 1,
+          "NBCSN": 1,
+          "AMC": 1,
+          "FOX News": 1
+        },
+        "insights": {
+          "dominance": "Channels like TNT have more than one video trending, indicating strong content strategy aligning with audience interests.",
+          "opportunity": "Collaborate with popular channels or create content that complements trending topics from these channels to increase visibility."
         }
       },
       "market_opportunities": {
-        "sports_coverage": {
-          "description": "The strong presence of sports content suggests a significant opportunity in sports media and related industries.",
-          "insight": "Invest in high-quality sports coverage, analysis, or commentary to capture viewers interested in sports content."
-        },
-        "cross-category_collaborations": {
-          "description": "Collaborations between different content categories (e.g., sports and entertainment) could capture broader audiences.",
-          "insight": "Consider producing content that combines elements of multiple trending categories, such as a sports-focused entertainment show."
-        },
-        "leveraging_current_trends": {
-          "description": "Capitalize on current events or popular cultural phenomena to create timely content.",
-          "insight": "Stay informed about trending topics and rapidly produce related content to capture real-time audience interest."
+        "diversified content": {
+          "description": "There is potential to diversify content offerings by blending sports, entertainment, and unique viral challenges.",
+          "strategies": {
+            "cross-category content": "Develop content that bridges the gap between categories, like sports-themed entertainment or unique insights into popular movies.",
+            "interactive content": "Incorporate audience participation elements to boost engagement (e.g., polls, live Q&A)."
+          }
         }
       },
       "metadata_stats": {
@@ -450,7 +464,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 153987
+        "avg_views_per_video": 167696
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
