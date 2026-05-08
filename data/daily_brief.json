@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T12:42:25.867760",
+  "timestamp": "2026-05-08T15:40:47.065515",
   "date": "2026-05-08",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BNvVzUS7y-A/hqdefault.jpg",
       "duration": "PT12M9S",
       "duration_seconds": 729,
-      "view_count": 356413,
-      "like_count": 7706,
-      "comment_count": 1168,
+      "view_count": 390789,
+      "like_count": 8347,
+      "comment_count": 1253,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=BNvVzUS7y-A"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/879TJLwIgC0/hqdefault.jpg",
       "duration": "PT36S",
       "duration_seconds": 36,
-      "view_count": 316412,
-      "like_count": 10276,
-      "comment_count": 534,
+      "view_count": 360830,
+      "like_count": 11194,
+      "comment_count": 577,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=879TJLwIgC0"
@@ -81,32 +81,29 @@
       "url": "https://www.youtube.com/watch?v=6d59h3JYX0Q"
     },
     {
-      "video_id": "bISGUJn3sSk",
-      "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
-      "description": "We're excited to announce that our May IGN First \"cover story\" is on Aliens: Fireteam Elite 2 from Cold Iron and Daybreak Games. You can look forward to several exclusive new reveals on IGN channels spread throughout the month of May, starting with tomorrow's AFE2 trailer premiere and official announcement!\n\n#IGN #Aliens",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-05-07T15:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bISGUJn3sSk/hqdefault.jpg",
-      "duration": "PT2M6S",
-      "duration_seconds": 126,
-      "view_count": 308422,
-      "like_count": 13184,
-      "comment_count": 1765,
+      "video_id": "avpTgTNadh4",
+      "title": "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
+      "description": "https://store.playstation.com/en-us/concept/10017939\n\nFACE DOWN FATE. \nSTRANGER THAN HEAVEN is a fifty-year, action-adventure saga of men with nowhere to go and their desperate struggle to find a home. Use extreme violence to survive, and musical talent to thrive as a showman across five cities and eras of modern Japan. Coming this Winter.\n\nWishlist Now: https://store.playstation.com/en-us/concept/10017939\n\n#ps5 #ps5games \n\nMay contain content inappropriate for some children",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-05-07T17:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/avpTgTNadh4/hqdefault.jpg",
+      "duration": "PT4M57S",
+      "duration_seconds": 297,
+      "view_count": 341448,
+      "like_count": 23902,
+      "comment_count": 1262,
       "category_id": "20",
       "tags": [
-        "Aliens: Fireteam Elite 2",
-        "aliens: fireteam elite 2 game",
-        "aliens: fireteam elite 2 trailer",
-        "aliens: fireteam elite 2 gameplay",
-        "aliens fireteam elite",
-        "aliens",
-        "aliens fireteam",
-        "xenomorph",
-        "ign",
-        "ign first"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony",
+        "STRANGER THAN HEAVEN",
+        "RGG"
       ],
-      "url": "https://www.youtube.com/watch?v=bISGUJn3sSk"
+      "url": "https://www.youtube.com/watch?v=avpTgTNadh4"
     },
     {
       "video_id": "YSn8_N9E648",
@@ -126,29 +123,32 @@
       "url": "https://www.youtube.com/watch?v=YSn8_N9E648"
     },
     {
-      "video_id": "avpTgTNadh4",
-      "title": "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
-      "description": "https://store.playstation.com/en-us/concept/10017939\n\nFACE DOWN FATE. \nSTRANGER THAN HEAVEN is a fifty-year, action-adventure saga of men with nowhere to go and their desperate struggle to find a home. Use extreme violence to survive, and musical talent to thrive as a showman across five cities and eras of modern Japan. Coming this Winter.\n\nWishlist Now: https://store.playstation.com/en-us/concept/10017939\n\n#ps5 #ps5games \n\nMay contain content inappropriate for some children",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-05-07T17:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/avpTgTNadh4/hqdefault.jpg",
-      "duration": "PT4M57S",
-      "duration_seconds": 297,
-      "view_count": 302905,
-      "like_count": 21731,
-      "comment_count": 1180,
+      "video_id": "bISGUJn3sSk",
+      "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
+      "description": "We're excited to announce that our May IGN First \"cover story\" is on Aliens: Fireteam Elite 2 from Cold Iron and Daybreak Games. You can look forward to several exclusive new reveals on IGN channels spread throughout the month of May, starting with tomorrow's AFE2 trailer premiere and official announcement!\n\n#IGN #Aliens",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-05-07T15:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bISGUJn3sSk/hqdefault.jpg",
+      "duration": "PT2M6S",
+      "duration_seconds": 126,
+      "view_count": 323123,
+      "like_count": 13637,
+      "comment_count": 1830,
       "category_id": "20",
       "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "STRANGER THAN HEAVEN",
-        "RGG"
+        "Aliens: Fireteam Elite 2",
+        "aliens: fireteam elite 2 game",
+        "aliens: fireteam elite 2 trailer",
+        "aliens: fireteam elite 2 gameplay",
+        "aliens fireteam elite",
+        "aliens",
+        "aliens fireteam",
+        "xenomorph",
+        "ign",
+        "ign first"
       ],
-      "url": "https://www.youtube.com/watch?v=avpTgTNadh4"
+      "url": "https://www.youtube.com/watch?v=bISGUJn3sSk"
     },
     {
       "video_id": "MAvYbgQA1PA",
@@ -177,9 +177,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfJaUpW_P00/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 194106,
-      "like_count": 14517,
-      "comment_count": 1267,
+      "view_count": 205952,
+      "like_count": 15078,
+      "comment_count": 1312,
       "category_id": "20",
       "tags": [
         "LEGO Batman",
@@ -225,9 +225,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BNvVzUS7y-A/hqdefault.jpg",
       "duration": "PT12M9S",
       "duration_seconds": 729,
-      "view_count": 356413,
-      "like_count": 7706,
-      "comment_count": 1168,
+      "view_count": 390789,
+      "like_count": 8347,
+      "comment_count": 1253,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=BNvVzUS7y-A"
@@ -267,32 +267,29 @@
       "url": "https://www.youtube.com/watch?v=6d59h3JYX0Q"
     },
     {
-      "video_id": "bISGUJn3sSk",
-      "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
-      "description": "We're excited to announce that our May IGN First \"cover story\" is on Aliens: Fireteam Elite 2 from Cold Iron and Daybreak Games. You can look forward to several exclusive new reveals on IGN channels spread throughout the month of May, starting with tomorrow's AFE2 trailer premiere and official announcement!\n\n#IGN #Aliens",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-05-07T15:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bISGUJn3sSk/hqdefault.jpg",
-      "duration": "PT2M6S",
-      "duration_seconds": 126,
-      "view_count": 308422,
-      "like_count": 13184,
-      "comment_count": 1765,
+      "video_id": "avpTgTNadh4",
+      "title": "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
+      "description": "https://store.playstation.com/en-us/concept/10017939\n\nFACE DOWN FATE. \nSTRANGER THAN HEAVEN is a fifty-year, action-adventure saga of men with nowhere to go and their desperate struggle to find a home. Use extreme violence to survive, and musical talent to thrive as a showman across five cities and eras of modern Japan. Coming this Winter.\n\nWishlist Now: https://store.playstation.com/en-us/concept/10017939\n\n#ps5 #ps5games \n\nMay contain content inappropriate for some children",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-05-07T17:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/avpTgTNadh4/hqdefault.jpg",
+      "duration": "PT4M57S",
+      "duration_seconds": 297,
+      "view_count": 341448,
+      "like_count": 23902,
+      "comment_count": 1262,
       "category_id": "20",
       "tags": [
-        "Aliens: Fireteam Elite 2",
-        "aliens: fireteam elite 2 game",
-        "aliens: fireteam elite 2 trailer",
-        "aliens: fireteam elite 2 gameplay",
-        "aliens fireteam elite",
-        "aliens",
-        "aliens fireteam",
-        "xenomorph",
-        "ign",
-        "ign first"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony",
+        "STRANGER THAN HEAVEN",
+        "RGG"
       ],
-      "url": "https://www.youtube.com/watch?v=bISGUJn3sSk"
+      "url": "https://www.youtube.com/watch?v=avpTgTNadh4"
     },
     {
       "video_id": "YSn8_N9E648",
@@ -312,29 +309,32 @@
       "url": "https://www.youtube.com/watch?v=YSn8_N9E648"
     },
     {
-      "video_id": "avpTgTNadh4",
-      "title": "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
-      "description": "https://store.playstation.com/en-us/concept/10017939\n\nFACE DOWN FATE. \nSTRANGER THAN HEAVEN is a fifty-year, action-adventure saga of men with nowhere to go and their desperate struggle to find a home. Use extreme violence to survive, and musical talent to thrive as a showman across five cities and eras of modern Japan. Coming this Winter.\n\nWishlist Now: https://store.playstation.com/en-us/concept/10017939\n\n#ps5 #ps5games \n\nMay contain content inappropriate for some children",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-05-07T17:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/avpTgTNadh4/hqdefault.jpg",
-      "duration": "PT4M57S",
-      "duration_seconds": 297,
-      "view_count": 302905,
-      "like_count": 21731,
-      "comment_count": 1180,
+      "video_id": "bISGUJn3sSk",
+      "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
+      "description": "We're excited to announce that our May IGN First \"cover story\" is on Aliens: Fireteam Elite 2 from Cold Iron and Daybreak Games. You can look forward to several exclusive new reveals on IGN channels spread throughout the month of May, starting with tomorrow's AFE2 trailer premiere and official announcement!\n\n#IGN #Aliens",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-05-07T15:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bISGUJn3sSk/hqdefault.jpg",
+      "duration": "PT2M6S",
+      "duration_seconds": 126,
+      "view_count": 323123,
+      "like_count": 13637,
+      "comment_count": 1830,
       "category_id": "20",
       "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "STRANGER THAN HEAVEN",
-        "RGG"
+        "Aliens: Fireteam Elite 2",
+        "aliens: fireteam elite 2 game",
+        "aliens: fireteam elite 2 trailer",
+        "aliens: fireteam elite 2 gameplay",
+        "aliens fireteam elite",
+        "aliens",
+        "aliens fireteam",
+        "xenomorph",
+        "ign",
+        "ign first"
       ],
-      "url": "https://www.youtube.com/watch?v=avpTgTNadh4"
+      "url": "https://www.youtube.com/watch?v=bISGUJn3sSk"
     },
     {
       "video_id": "MAvYbgQA1PA",
@@ -363,9 +363,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DfJaUpW_P00/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 194106,
-      "like_count": 14517,
-      "comment_count": 1267,
+      "view_count": 205952,
+      "like_count": 15078,
+      "comment_count": 1312,
       "category_id": "20",
       "tags": [
         "LEGO Batman",
@@ -408,9 +408,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/879TJLwIgC0/hqdefault.jpg",
       "duration": "PT36S",
       "duration_seconds": 36,
-      "view_count": 316412,
-      "like_count": 10276,
-      "comment_count": 534,
+      "view_count": 360830,
+      "like_count": 11194,
+      "comment_count": 577,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=879TJLwIgC0"
@@ -419,94 +419,67 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 1478258,
-        "average_views_per_video": 147826
-      },
       "content_trends": {
-        "categories": [
-          "Television Series",
-          "Sports",
-          "Video Games",
-          "News/Commentary",
-          "Entertainment"
-        ],
-        "trending_topics": [
-          {
-            "topic": "Television Series",
-            "related_videos": [
-              "The Boys Season 5 Episode 7 Trailer: President Homelander",
-              "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
-              "Reunion Part 3"
-            ],
-            "insight": "Trailers and episodic reveals for popular series are attracting significant attention."
-          },
-          {
-            "topic": "Sports",
-            "related_videos": [
-              "Carolina Hurricanes at Philadelphia Flyers",
-              "Tampa Bay Rays at Boston Red Sox",
-              "Truist Championship, First Round"
-            ],
-            "insight": "Live sports events and highlights are consistently popular, suggesting strong viewer engagement in real-time sports content."
-          },
-          {
-            "topic": "Video Games",
-            "related_videos": [
-              "Resident Evil Requiem - Leon Must Die Forever Free Update Trailer",
-              "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
-              "LEGO® Batman™: Legacy of the Dark Knight – Official Launch Trailer"
-            ],
-            "insight": "Game updates, reveals, and official trailers are frequently trending, indicating a high interest in gaming content."
-          }
-        ]
+        "entertainment_and_pop_culture": {
+          "description": "A significant portion of trending videos are related to entertainment and pop culture, including trailers for popular TV shows, movies, and games.",
+          "examples": [
+            "The Boys Season 5 Episode 7 Trailer: President Homelander",
+            "Resident Evil Requiem - Leon Must Die Forever Free Update Trailer",
+            "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
+            "LEGO® Batman™: Legacy of the Dark Knight – Official Launch Trailer"
+          ],
+          "insight": "Trailers and updates for popular franchises continue to capture significant viewer interest.",
+          "opportunity": "Develop content around popular franchises, including reviews, theories, and behind-the-scenes insights to capitalize on audience interest."
+        },
+        "sports": {
+          "description": "Sports content remains a strong category with live game coverage and related commentary.",
+          "examples": [
+            "Carolina Hurricanes at Philadelphia Flyers",
+            "Tampa Bay Rays at Boston Red Sox",
+            "Truist Championship, First Round"
+          ],
+          "insight": "Live sports events and highlights are consistently popular, indicating high engagement levels.",
+          "opportunity": "Create supplementary content such as analysis, predictions, and post-game discussions to engage sports audiences."
+        },
+        "news_and_politics": {
+          "description": "Political commentary and news are also present in trending content.",
+          "examples": [
+            "Jesse Watters Primetime"
+          ],
+          "insight": "Timely political and news commentary can attract a dedicated audience interested in current affairs.",
+          "opportunity": "Offer nuanced analysis and diverse viewpoints to capture a wider audience interested in political content."
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "Emergency Awesome",
-            "videos": 1,
-            "content_focus": "Television Series"
-          },
-          {
-            "channel_name": "TNT",
-            "videos": 1,
-            "content_focus": "Sports"
-          },
-          {
-            "channel_name": "GameSpot",
-            "videos": 1,
-            "content_focus": "Video Games"
-          },
-          {
-            "channel_name": "ESPN",
-            "videos": 1,
-            "content_focus": "Sports"
-          },
-          {
-            "channel_name": "IGN",
-            "videos": 1,
-            "content_focus": "Video Games"
-          }
-        ],
-        "insight": "Channels specializing in specific niches like sports, video games, and popular TV shows are more likely to trend, highlighting the importance of niche specialization."
+        "diversity_of_channels": {
+          "description": "Trending content is produced by a wide range of channels, from entertainment-focused to sports networks.",
+          "examples": [
+            "Emergency Awesome",
+            "TNT",
+            "GameSpot",
+            "ESPN",
+            "PlayStation"
+          ],
+          "insight": "Channels specializing in niche content related to popular culture and sports are more likely to trend.",
+          "opportunity": "Develop a specialized content strategy focusing on a specific niche to enhance chances of trending."
+        },
+        "single_video_trends": {
+          "description": "Each channel has one video in the trending list.",
+          "insight": "A single well-timed and relevant video can propel a channel to trending status.",
+          "opportunity": "Focus on quality and topical relevance for each video to maximize the potential to trend, rather than relying on volume."
+        }
       },
       "market_opportunities": {
-        "insights": [
-          {
-            "opportunity": "Enhanced Engagement with TV Series Content",
-            "strategy": "Develop content that provides deeper insights, behind-the-scenes, or fan theories about trending TV series to capture a dedicated fanbase."
-          },
-          {
-            "opportunity": "Leverage Live Sports Events",
-            "strategy": "Create supplementary content such as pre-game analysis, post-game reviews, and fan interaction segments to engage audiences beyond live broadcasts."
-          },
-          {
-            "opportunity": "Expand Gaming Content",
-            "strategy": "Capitalize on the growing interest in gaming by producing walkthroughs, strategy guides, and community discussions around newly released games and updates."
-          }
-        ]
+        "gaming_and_entertainment": {
+          "description": "High engagement in gaming and entertainment trailers suggests a lucrative market.",
+          "insight": "There is substantial viewer interest in upcoming media releases and updates.",
+          "opportunity": "Partner with or create content related to upcoming game and movie releases, including sneak peeks, interviews, and exclusive content."
+        },
+        "sports_content": {
+          "description": "Consistent interest in sports indicates an opportunity for growth.",
+          "insight": "Sports content remains a reliable avenue for viewer engagement.",
+          "opportunity": "Leverage live events and partnerships with sports channels to produce ancillary content that captures the excitement of live sports."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -514,7 +487,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 147825
+        "avg_views_per_video": 162214
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
