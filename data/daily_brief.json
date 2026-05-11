@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-11T04:33:06.714380",
+  "timestamp": "2026-05-11T07:28:35.056144",
   "date": "2026-05-11",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 610292,
-      "like_count": 14633,
-      "comment_count": 455,
+      "view_count": 677091,
+      "like_count": 15362,
+      "comment_count": 479,
       "category_id": "23",
       "tags": [
         "snl",
@@ -39,6 +39,40 @@
         "saturday night live skit"
       ],
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
+    },
+    {
+      "video_id": "6FHDVyeE9uo",
+      "title": "Go Bowling at The Glen",
+      "description": "The 2026 NASCAR Cup Series race at Watkins Glen International takes place in New York. The race features 2025 winner Shane van Gisbergen, and favorites like Kyle Larson and Chase Elliott. For this season, the race has been extended to 100 laps.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-11T05:13:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6FHDVyeE9uo/hqdefault.jpg",
+      "duration": "PT3H5M10S",
+      "duration_seconds": 11110,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6FHDVyeE9uo"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 32863,
+      "like_count": 1667,
+      "comment_count": 214,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "Uf8TQskrCRs",
@@ -58,40 +92,6 @@
       "url": "https://www.youtube.com/watch?v=Uf8TQskrCRs"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 31931,
-      "like_count": 1641,
-      "comment_count": 213,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "aM69S8e_86o",
-      "title": "Watkins Glen",
-      "description": "Race fans and drivers count on NASCAR RaceDay to get them ready for the big NASCAR Cup Series race, bringing them the inside story and up-to-the-minute news in a lighthearted and fun manner.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-11T01:09:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aM69S8e_86o/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=aM69S8e_86o"
-    },
-    {
       "video_id": "nacF93pUcY0",
       "title": "Drinker's Chasers - The Odyssey Looks BAD",
       "description": "We saw the trailer for Christopher Nolan's Odyssey, and well... it doesn't look good.",
@@ -101,12 +101,80 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nacF93pUcY0/hqdefault.jpg",
       "duration": "PT11M44S",
       "duration_seconds": 704,
-      "view_count": 187502,
-      "like_count": 8145,
-      "comment_count": 2368,
+      "view_count": 200555,
+      "like_count": 8562,
+      "comment_count": 2432,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nacF93pUcY0"
+    },
+    {
+      "video_id": "gJ1J2AnZBT8",
+      "title": "Inside the NBA",
+      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-11T05:20:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gJ1J2AnZBT8/hqdefault.jpg",
+      "duration": "PT46M35S",
+      "duration_seconds": 2795,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gJ1J2AnZBT8"
+    },
+    {
+      "video_id": "6t2nDHldoSk",
+      "title": "Subnautica 2 Early Access Gameplay Trailer",
+      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\nPlay Day One on Xbox Game Pass!\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subn",
+      "channel_title": "Subnautica",
+      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
+      "published_at": "2026-05-09T15:03:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 1464526,
+      "like_count": 69681,
+      "comment_count": 3438,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
+    },
+    {
+      "video_id": "Fa-8a_eyt_4",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-11T04:31:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fa-8a_eyt_4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Fa-8a_eyt_4"
+    },
+    {
+      "video_id": "fGm2X5XkwpY",
+      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
+      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-05-11T04:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
+      "duration": "PT1M51S",
+      "duration_seconds": 111,
+      "view_count": 88262,
+      "like_count": 12808,
+      "comment_count": 736,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
     },
     {
       "video_id": "mWGZLruStu0",
@@ -124,85 +192,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=mWGZLruStu0"
-    },
-    {
-      "video_id": "6t2nDHldoSk",
-      "title": "Subnautica 2 Early Access Gameplay Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\nPlay Day One on Xbox Game Pass!\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subn",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-05-09T15:03:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 1404034,
-      "like_count": 68982,
-      "comment_count": 3400,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
-    },
-    {
-      "video_id": "T5K9kPVnYzc",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-10T19:34:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T5K9kPVnYzc/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T5K9kPVnYzc"
-    },
-    {
-      "video_id": "_i0F5LDx1tI",
-      "title": "BFDIA 25 TRAILER — TICKETS AVAILABLE NOW!",
-      "description": "Tickets are available until May 14 at 11:55pm local: https://shop.jacknjellify.com/\n\nOn May 17, the winner of BFDIA will be revealed... IN THEATERS! Will Needle or Book pull out the victory? Join us and root for your favorite finalist in the last ever BFDIA episode!\nHave questions? Email us at support@screeny.com\n\nEdited by Anthony Acedo \"FusionAnimations\"\n@FusionAnimations",
-      "channel_title": "jacknjellify",
-      "channel_id": "UCeKLuqGciqZZ5RFYk5CbqXg",
-      "published_at": "2026-05-09T17:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_i0F5LDx1tI/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 406963,
-      "like_count": 26370,
-      "comment_count": 5049,
-      "category_id": "1",
-      "tags": [
-        "bfdi",
-        "animated show",
-        "long videos",
-        "battle for dream island",
-        "battle for bfdi",
-        "bfb",
-        "bfdia",
-        "idfb",
-        "tpot",
-        "the power of two"
-      ],
-      "url": "https://www.youtube.com/watch?v=_i0F5LDx1tI"
-    },
-    {
-      "video_id": "jlWwdPyheBY",
-      "title": "Texas at Tennessee",
-      "description": "All the action from college baseball.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-11T02:09:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jlWwdPyheBY/hqdefault.jpg",
-      "duration": "PT3H34M56S",
-      "duration_seconds": 12896,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jlWwdPyheBY"
     }
   ],
   "videos_with_transcripts": [],
@@ -217,9 +206,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 610292,
-      "like_count": 14633,
-      "comment_count": 455,
+      "view_count": 677091,
+      "like_count": 15362,
+      "comment_count": 479,
       "category_id": "23",
       "tags": [
         "snl",
@@ -234,6 +223,40 @@
         "saturday night live skit"
       ],
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
+    },
+    {
+      "video_id": "6FHDVyeE9uo",
+      "title": "Go Bowling at The Glen",
+      "description": "The 2026 NASCAR Cup Series race at Watkins Glen International takes place in New York. The race features 2025 winner Shane van Gisbergen, and favorites like Kyle Larson and Chase Elliott. For this season, the race has been extended to 100 laps.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-11T05:13:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6FHDVyeE9uo/hqdefault.jpg",
+      "duration": "PT3H5M10S",
+      "duration_seconds": 11110,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6FHDVyeE9uo"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 32863,
+      "like_count": 1667,
+      "comment_count": 214,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "Uf8TQskrCRs",
@@ -253,40 +276,6 @@
       "url": "https://www.youtube.com/watch?v=Uf8TQskrCRs"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 31931,
-      "like_count": 1641,
-      "comment_count": 213,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "aM69S8e_86o",
-      "title": "Watkins Glen",
-      "description": "Race fans and drivers count on NASCAR RaceDay to get them ready for the big NASCAR Cup Series race, bringing them the inside story and up-to-the-minute news in a lighthearted and fun manner.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-11T01:09:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aM69S8e_86o/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=aM69S8e_86o"
-    },
-    {
       "video_id": "nacF93pUcY0",
       "title": "Drinker's Chasers - The Odyssey Looks BAD",
       "description": "We saw the trailer for Christopher Nolan's Odyssey, and well... it doesn't look good.",
@@ -296,12 +285,80 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nacF93pUcY0/hqdefault.jpg",
       "duration": "PT11M44S",
       "duration_seconds": 704,
-      "view_count": 187502,
-      "like_count": 8145,
-      "comment_count": 2368,
+      "view_count": 200555,
+      "like_count": 8562,
+      "comment_count": 2432,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nacF93pUcY0"
+    },
+    {
+      "video_id": "gJ1J2AnZBT8",
+      "title": "Inside the NBA",
+      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-11T05:20:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gJ1J2AnZBT8/hqdefault.jpg",
+      "duration": "PT46M35S",
+      "duration_seconds": 2795,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=gJ1J2AnZBT8"
+    },
+    {
+      "video_id": "6t2nDHldoSk",
+      "title": "Subnautica 2 Early Access Gameplay Trailer",
+      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\nPlay Day One on Xbox Game Pass!\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subn",
+      "channel_title": "Subnautica",
+      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
+      "published_at": "2026-05-09T15:03:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 1464526,
+      "like_count": 69681,
+      "comment_count": 3438,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
+    },
+    {
+      "video_id": "Fa-8a_eyt_4",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-11T04:31:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fa-8a_eyt_4/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Fa-8a_eyt_4"
+    },
+    {
+      "video_id": "fGm2X5XkwpY",
+      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
+      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-05-11T04:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
+      "duration": "PT1M51S",
+      "duration_seconds": 111,
+      "view_count": 88262,
+      "like_count": 12808,
+      "comment_count": 736,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
     },
     {
       "video_id": "mWGZLruStu0",
@@ -319,137 +376,90 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=mWGZLruStu0"
-    },
-    {
-      "video_id": "6t2nDHldoSk",
-      "title": "Subnautica 2 Early Access Gameplay Trailer",
-      "description": "Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds.\n\nDriven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.\n\nSubnautica 2 enters Early Access on May 14th, 2026, at 08:00 PDT / 15:00 UTC. \n\n✨ Wishlist Subnautica 2 Now ✨\n\nSteam: https://store.steampowered.com/app/1962700/Subnautica_2/\nEpic: https://store.epicgames.com/p/subnautica-2-d27f94\nXbox: https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG\n\nPlay Day One on Xbox Game Pass!\n\n🐟 Join the Community 🐟\n\nDiscord: https://discord.gg/subnautica\nX: https://twitter.com/Subn",
-      "channel_title": "Subnautica",
-      "channel_id": "UCx2StD8gHd_-nRo5z1qcJ8g",
-      "published_at": "2026-05-09T15:03:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 1404034,
-      "like_count": 68982,
-      "comment_count": 3400,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
-    },
-    {
-      "video_id": "T5K9kPVnYzc",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-10T19:34:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T5K9kPVnYzc/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=T5K9kPVnYzc"
-    },
-    {
-      "video_id": "jlWwdPyheBY",
-      "title": "Texas at Tennessee",
-      "description": "All the action from college baseball.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-11T02:09:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jlWwdPyheBY/hqdefault.jpg",
-      "duration": "PT3H34M56S",
-      "duration_seconds": 12896,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jlWwdPyheBY"
-    },
-    {
-      "video_id": "_i0F5LDx1tI",
-      "title": "BFDIA 25 TRAILER — TICKETS AVAILABLE NOW!",
-      "description": "Tickets are available until May 14 at 11:55pm local: https://shop.jacknjellify.com/\n\nOn May 17, the winner of BFDIA will be revealed... IN THEATERS! Will Needle or Book pull out the victory? Join us and root for your favorite finalist in the last ever BFDIA episode!\nHave questions? Email us at support@screeny.com\n\nEdited by Anthony Acedo \"FusionAnimations\"\n@FusionAnimations",
-      "channel_title": "jacknjellify",
-      "channel_id": "UCeKLuqGciqZZ5RFYk5CbqXg",
-      "published_at": "2026-05-09T17:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_i0F5LDx1tI/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 406963,
-      "like_count": 26370,
-      "comment_count": 5049,
-      "category_id": "1",
-      "tags": [
-        "bfdi",
-        "animated show",
-        "long videos",
-        "battle for dream island",
-        "battle for bfdi",
-        "bfb",
-        "bfdia",
-        "idfb",
-        "tpot",
-        "the power of two"
-      ],
-      "url": "https://www.youtube.com/watch?v=_i0F5LDx1tI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "contentTrends": {
-        "diversityInContent": [
-          {
-            "observation": "The trending videos cover a wide range of topics including sports, entertainment, gaming, and music.",
-            "implication": "There is a diverse audience with varied interests, suggesting opportunities for creators to target niche communities within these categories."
-          },
-          {
-            "observation": "Entertainment-related content such as movie trailers and skits (e.g., 'Mom Movie Trailer - SNL') is trending.",
-            "implication": "Entertainment remains a strong category for viewer engagement, suggesting an opportunity for creators in this field to capitalize on humor and pop culture references."
-          },
-          {
-            "observation": "Sports content (e.g., 'Truist Championship, Final Round' and 'Colorado Avalanche at Minnesota Wild') is also prominently featured.",
-            "implication": "Live sports, recaps, and analysis continue to attract large viewership, indicating potential for channels focused on sports commentary and behind-the-scenes content."
-          }
-        ]
+      "content_trends": {
+        "entertainment_and_sports": {
+          "overview": "The trending videos consist of a mix of entertainment, sports, and gaming content.",
+          "details": [
+            {
+              "category": "Entertainment",
+              "examples": [
+                "Mom Movie Trailer - SNL",
+                "The Big Weekend Show"
+              ],
+              "insights": "Content related to entertainment and comedy, especially from well-known channels like Saturday Night Live, continues to attract a significant viewership. Leveraging popular shows or creating parodies can attract a wide audience."
+            },
+            {
+              "category": "Sports",
+              "examples": [
+                "Go Bowling at The Glen",
+                "Truist Championship, Final Round",
+                "Colorado Avalanche at Minnesota Wild"
+              ],
+              "insights": "Sports events and highlights are consistently popular. Channels focusing on sports can capitalize on live event coverage and post-event analyses."
+            },
+            {
+              "category": "Gaming",
+              "examples": [
+                "Subnautica 2 Early Access Gameplay Trailer",
+                "Evanescia Character Trailer: 'Her Daily Life' | Honkai: Star Rail"
+              ],
+              "insights": "The gaming industry remains vibrant with trailers and gameplay content maintaining a strong viewer base. Early access and character reveals are particularly effective in generating buzz."
+            }
+          ]
+        }
       },
-      "creatorPatterns": {
-        "channelDiversity": [
-          {
-            "observation": "Top channels belong to different content categories including 'Saturday Night Live' for entertainment, 'Golf Channel' for sports, and 'Tasik Yard' for music.",
-            "implication": "Successful channels are specializing in specific niches, suggesting a focused content strategy might be beneficial for emerging creators."
-          }
-        ],
-        "engagementStrategies": [
-          {
-            "observation": "Channels like 'Saturday Night Live' leverage established brand recognition to drive views.",
-            "implication": "Collaboration with well-known personalities or brands can enhance visibility and audience reach."
-          }
-        ]
+      "creator_patterns": {
+        "popular_channels": {
+          "overview": "Channels with established brand recognition, like Saturday Night Live, continue to dominate viewership in their segments.",
+          "examples": [
+            {
+              "channel": "Saturday Night Live",
+              "insight": "Leveraging well-known brands or personalities can significantly increase visibility and engagement."
+            },
+            {
+              "channel": "FS1",
+              "insight": "Sports channels maintain a robust following, highlighting the importance of timely and engaging sports content."
+            }
+          ]
+        },
+        "emerging_creators": {
+          "overview": "Less mainstream channels like Tasik Yard and Critical Drinker After Hours are gaining traction with niche audiences.",
+          "examples": [
+            {
+              "channel": "Tasik Yard",
+              "insight": "There's potential in catering to specific cultural or regional music genres, which can attract dedicated fanbases."
+            },
+            {
+              "channel": "Critical Drinker After Hours",
+              "insight": "Niche commentary and opinion-based content can engage communities interested in critiques and discussions."
+            }
+          ]
+        }
       },
-      "marketOpportunities": {
-        "untappedPotential": [
-          {
-            "observation": "Gaming content is represented by 'Subnautica 2 Early Access Gameplay Trailer', indicating its popularity.",
-            "implication": "There is potential for growth in gaming content, particularly with early access and gameplay reviews, which could attract dedicated gaming communities."
-          },
-          {
-            "observation": "The metadata lacks specific category information, suggesting an opportunity for enhanced metadata tagging to improve discoverability.",
-            "implication": "Creators should invest in comprehensive metadata strategies, incorporating category tags and keywords to enhance searchability and reach."
-          }
-        ],
-        "emergingTrends": [
-          {
-            "observation": "Music content like 'Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.' is trending, indicating interest in international and diverse music genres.",
-            "implication": "There is an opportunity to explore and promote music from diverse cultural backgrounds to appeal to global audiences."
-          }
-        ]
+      "market_opportunities": {
+        "cross-category_potential": {
+          "overview": "Opportunities exist in blending entertainment with other categories like sports or gaming.",
+          "strategies": [
+            {
+              "strategy": "Create hybrid content",
+              "actionable_tip": "Integrate entertainment elements into sports or gaming videos to appeal to a broader audience."
+            }
+          ]
+        },
+        "cultural_and_regional_content": {
+          "overview": "There is a growing demand for culturally specific content as seen with the popularity of 'Innocent Tumas (Tasik Yard X Wan Jam)'.",
+          "strategies": [
+            {
+              "strategy": "Focus on cultural music and events",
+              "actionable_tip": "Develop content that highlights unique cultural aspects or regional events to attract niche audiences."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -457,7 +467,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 264072
+        "avg_views_per_video": 246329
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
