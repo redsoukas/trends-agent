@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-11T10:23:39.836933",
+  "timestamp": "2026-05-11T13:14:14.297163",
   "date": "2026-05-11",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 5,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 702755,
-      "like_count": 15748,
-      "comment_count": 491,
+      "view_count": 720667,
+      "like_count": 16148,
+      "comment_count": 511,
       "category_id": "23",
       "tags": [
         "snl",
@@ -39,6 +39,40 @@
         "saturday night live skit"
       ],
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
+    },
+    {
+      "video_id": "pLpamtcIu-Y",
+      "title": "Buffalo Sabres at Montreal Canadiens",
+      "description": "The Buffalo Sabres play the Montreal Canadiens in the East second-round Game 3 at Bell Centre. The series is tied with Montreal being victorious in Game 2. In Game 2, Alex Newhook scored twice to provide crucial secondary scoring for the Canadiens.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-11T09:18:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pLpamtcIu-Y/hqdefault.jpg",
+      "duration": "PT3H3M41S",
+      "duration_seconds": 11021,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pLpamtcIu-Y"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 34948,
+      "like_count": 1716,
+      "comment_count": 216,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "6FHDVyeE9uo",
@@ -58,21 +92,21 @@
       "url": "https://www.youtube.com/watch?v=6FHDVyeE9uo"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 33908,
-      "like_count": 1700,
-      "comment_count": 214,
-      "category_id": "22",
+      "video_id": "fGm2X5XkwpY",
+      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
+      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-05-11T04:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
+      "duration": "PT1M51S",
+      "duration_seconds": 111,
+      "view_count": 175814,
+      "like_count": 19459,
+      "comment_count": 1038,
+      "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
     },
     {
       "video_id": "Uf8TQskrCRs",
@@ -92,30 +126,13 @@
       "url": "https://www.youtube.com/watch?v=Uf8TQskrCRs"
     },
     {
-      "video_id": "fGm2X5XkwpY",
-      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
-      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
-      "channel_title": "Honkai: Star Rail",
-      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
-      "published_at": "2026-05-11T04:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
-      "duration": "PT1M51S",
-      "duration_seconds": 111,
-      "view_count": 139023,
-      "like_count": 16690,
-      "comment_count": 909,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
-    },
-    {
-      "video_id": "SlqkmQn037s",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "e3bBrGUKOEI",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-11T05:53:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SlqkmQn037s/hqdefault.jpg",
+      "published_at": "2026-05-11T09:51:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e3bBrGUKOEI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -123,75 +140,58 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SlqkmQn037s"
+      "url": "https://www.youtube.com/watch?v=e3bBrGUKOEI"
     },
     {
-      "video_id": "gJ1J2AnZBT8",
-      "title": "Inside the NBA",
-      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-11T05:20:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gJ1J2AnZBT8/hqdefault.jpg",
-      "duration": "PT46M35S",
-      "duration_seconds": 2795,
+      "video_id": "Jk9HqVGS8FA",
+      "title": "The Dark Knight Rises",
+      "description": "Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman is forced out of his self-imposed exile by a cunning cat burglar and a merciless terrorist called Bane.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-11T09:24:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jk9HqVGS8FA/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=gJ1J2AnZBT8"
+      "url": "https://www.youtube.com/watch?v=Jk9HqVGS8FA"
     },
     {
-      "video_id": "ufK-3Jrw8kk",
-      "title": "Millions with an S",
-      "description": "Ben and Erin help their best friends turn a dilapidated 1930s department store into Laurel's first boutique hotel; with crushing financial risks and six months to open, they must finish a prototype room to secure bookings.",
-      "channel_title": "HGTV",
-      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
-      "published_at": "2026-05-11T07:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ufK-3Jrw8kk/hqdefault.jpg",
-      "duration": "PT1H",
-      "duration_seconds": 3600,
+      "video_id": "DqAii6iE4wU",
+      "title": "John Wick: Chapter 4",
+      "description": "With the price on his head ever-increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-11T11:27:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DqAii6iE4wU/hqdefault.jpg",
+      "duration": "PT3H46M6S",
+      "duration_seconds": 13566,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ufK-3Jrw8kk"
+      "url": "https://www.youtube.com/watch?v=DqAii6iE4wU"
     },
     {
-      "video_id": "gKJIxSwN-dM",
-      "title": "In My Getting Married Era",
-      "description": "Marissa worries how her fiancé will adapt to life in America; Mallorie heads to Turkey to bring Rasit to Alabama.",
-      "channel_title": "TLC",
-      "channel_id": "UC4WzX4rjxyOavZENjRCHEaw",
-      "published_at": "2026-05-11T09:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gKJIxSwN-dM/hqdefault.jpg",
-      "duration": "PT2H3M5S",
-      "duration_seconds": 7385,
+      "video_id": "i4UvkV4HZjI",
+      "title": "Las Vegas Aces at Los Angeles Sparks",
+      "description": "The Aces travel to Los Angeles to face the Sparks in a regular-season clash at crypto.com Arena. Four-time MVP A'ja Wilson and the powerhouse Aces look to win on the road against the Sparks squad led by Dearica Hamby and rising star Cameron Brink.",
+      "channel_title": "USA",
+      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
+      "published_at": "2026-05-11T10:01:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i4UvkV4HZjI/hqdefault.jpg",
+      "duration": "PT2H47M36S",
+      "duration_seconds": 10056,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=gKJIxSwN-dM"
-    },
-    {
-      "video_id": "I4zqeKu7aYQ",
-      "title": "Texas Tailgaters vs. Savannah Bananas",
-      "description": "From Kyle Field in College Station, Texas",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-11T08:51:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I4zqeKu7aYQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=I4zqeKu7aYQ"
+      "url": "https://www.youtube.com/watch?v=i4UvkV4HZjI"
     }
   ],
   "videos_with_transcripts": [],
@@ -206,9 +206,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 702755,
-      "like_count": 15748,
-      "comment_count": 491,
+      "view_count": 720667,
+      "like_count": 16148,
+      "comment_count": 511,
       "category_id": "23",
       "tags": [
         "snl",
@@ -223,6 +223,40 @@
         "saturday night live skit"
       ],
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
+    },
+    {
+      "video_id": "pLpamtcIu-Y",
+      "title": "Buffalo Sabres at Montreal Canadiens",
+      "description": "The Buffalo Sabres play the Montreal Canadiens in the East second-round Game 3 at Bell Centre. The series is tied with Montreal being victorious in Game 2. In Game 2, Alex Newhook scored twice to provide crucial secondary scoring for the Canadiens.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-11T09:18:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pLpamtcIu-Y/hqdefault.jpg",
+      "duration": "PT3H3M41S",
+      "duration_seconds": 11021,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pLpamtcIu-Y"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 34948,
+      "like_count": 1716,
+      "comment_count": 216,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "6FHDVyeE9uo",
@@ -242,21 +276,21 @@
       "url": "https://www.youtube.com/watch?v=6FHDVyeE9uo"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 33908,
-      "like_count": 1700,
-      "comment_count": 214,
-      "category_id": "22",
+      "video_id": "fGm2X5XkwpY",
+      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
+      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
+      "channel_title": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "published_at": "2026-05-11T04:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
+      "duration": "PT1M51S",
+      "duration_seconds": 111,
+      "view_count": 175814,
+      "like_count": 19459,
+      "comment_count": 1038,
+      "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
     },
     {
       "video_id": "Uf8TQskrCRs",
@@ -276,30 +310,13 @@
       "url": "https://www.youtube.com/watch?v=Uf8TQskrCRs"
     },
     {
-      "video_id": "fGm2X5XkwpY",
-      "title": "Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail",
-      "description": "And so once again, the day is saved! Let's give thanks to this nameless girl for keeping us protected!\n\nEnglish Voice:\nEvanescia — Nathalie Ferare\n\nDownload the Game\nhttps://hoyo.link/WGikNdmpU\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Evanescia",
-      "channel_title": "Honkai: Star Rail",
-      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
-      "published_at": "2026-05-11T04:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fGm2X5XkwpY/hqdefault.jpg",
-      "duration": "PT1M51S",
-      "duration_seconds": 111,
-      "view_count": 139023,
-      "like_count": 16690,
-      "comment_count": 909,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fGm2X5XkwpY"
-    },
-    {
-      "video_id": "SlqkmQn037s",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "e3bBrGUKOEI",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-11T05:53:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SlqkmQn037s/hqdefault.jpg",
+      "published_at": "2026-05-11T09:51:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e3bBrGUKOEI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -307,134 +324,134 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=SlqkmQn037s"
+      "url": "https://www.youtube.com/watch?v=e3bBrGUKOEI"
     },
     {
-      "video_id": "gJ1J2AnZBT8",
-      "title": "Inside the NBA",
-      "description": "Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-11T05:20:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gJ1J2AnZBT8/hqdefault.jpg",
-      "duration": "PT46M35S",
-      "duration_seconds": 2795,
+      "video_id": "Jk9HqVGS8FA",
+      "title": "The Dark Knight Rises",
+      "description": "Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman is forced out of his self-imposed exile by a cunning cat burglar and a merciless terrorist called Bane.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-11T09:24:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jk9HqVGS8FA/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=gJ1J2AnZBT8"
+      "url": "https://www.youtube.com/watch?v=Jk9HqVGS8FA"
     },
     {
-      "video_id": "ufK-3Jrw8kk",
-      "title": "Millions with an S",
-      "description": "Ben and Erin help their best friends turn a dilapidated 1930s department store into Laurel's first boutique hotel; with crushing financial risks and six months to open, they must finish a prototype room to secure bookings.",
-      "channel_title": "HGTV",
-      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
-      "published_at": "2026-05-11T07:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ufK-3Jrw8kk/hqdefault.jpg",
-      "duration": "PT1H",
-      "duration_seconds": 3600,
+      "video_id": "DqAii6iE4wU",
+      "title": "John Wick: Chapter 4",
+      "description": "With the price on his head ever-increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-11T11:27:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DqAii6iE4wU/hqdefault.jpg",
+      "duration": "PT3H46M6S",
+      "duration_seconds": 13566,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ufK-3Jrw8kk"
+      "url": "https://www.youtube.com/watch?v=DqAii6iE4wU"
     },
     {
-      "video_id": "gKJIxSwN-dM",
-      "title": "In My Getting Married Era",
-      "description": "Marissa worries how her fiancé will adapt to life in America; Mallorie heads to Turkey to bring Rasit to Alabama.",
-      "channel_title": "TLC",
-      "channel_id": "UC4WzX4rjxyOavZENjRCHEaw",
-      "published_at": "2026-05-11T09:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gKJIxSwN-dM/hqdefault.jpg",
-      "duration": "PT2H3M5S",
-      "duration_seconds": 7385,
+      "video_id": "i4UvkV4HZjI",
+      "title": "Las Vegas Aces at Los Angeles Sparks",
+      "description": "The Aces travel to Los Angeles to face the Sparks in a regular-season clash at crypto.com Arena. Four-time MVP A'ja Wilson and the powerhouse Aces look to win on the road against the Sparks squad led by Dearica Hamby and rising star Cameron Brink.",
+      "channel_title": "USA",
+      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
+      "published_at": "2026-05-11T10:01:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i4UvkV4HZjI/hqdefault.jpg",
+      "duration": "PT2H47M36S",
+      "duration_seconds": 10056,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=gKJIxSwN-dM"
-    },
-    {
-      "video_id": "I4zqeKu7aYQ",
-      "title": "Texas Tailgaters vs. Savannah Bananas",
-      "description": "From Kyle Field in College Station, Texas",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-11T08:51:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I4zqeKu7aYQ/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=I4zqeKu7aYQ"
+      "url": "https://www.youtube.com/watch?v=i4UvkV4HZjI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 875686,
-        "average_views_per_video": 87568.6,
-        "categories": "Unknown"
-      },
       "content_trends": {
-        "entertainment": {
-          "description": "Videos such as 'Mom Movie Trailer - SNL' and 'Inside the NBA' suggest a strong presence of entertainment content.",
-          "implication": "Entertainment content remains a robust category on YouTube, likely to continue attracting high views."
-        },
-        "sports": {
-          "description": "Videos like 'Go Bowling at The Glen', 'Truist Championship, Final Round', and 'Texas Tailgaters vs. Savannah Bananas' indicate a significant interest in sports content.",
-          "implication": "There is a consistent demand for sports-related content, providing opportunities for creators to explore niche sports narratives and events."
-        },
-        "gaming": {
-          "description": "The inclusion of 'Evanescia Character Trailer: \"Her Daily Life\" | Honkai: Star Rail' highlights a trend in gaming content.",
-          "implication": "Gaming trailers and character reveals are effective in engaging audiences, suggesting potential for creators to develop content around game releases and updates."
-        },
-        "music": {
-          "description": "The video 'Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.' indicates a presence of music content.",
-          "implication": "Music videos continue to attract viewers, offering opportunities for collaborations and exploring diverse music genres."
+        "categories": [
+          "Entertainment",
+          "Sports",
+          "Music",
+          "Gaming",
+          "News"
+        ],
+        "insights": {
+          "entertainment": {
+            "trend": "High engagement with film-related content and trailers.",
+            "examples": [
+              "Mom Movie Trailer - SNL",
+              "John Wick: Chapter 4"
+            ],
+            "opportunity": "Increased demand for exclusive trailers and behind-the-scenes content."
+          },
+          "sports": {
+            "trend": "Live sports events and highlights are trending.",
+            "examples": [
+              "Buffalo Sabres at Montreal Canadiens",
+              "Truist Championship, Final Round"
+            ],
+            "opportunity": "Potential to tap into live commentary and fan engagement content."
+          },
+          "music": {
+            "trend": "Local and niche music gaining traction.",
+            "examples": [
+              "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
+            ],
+            "opportunity": "Create platforms for niche music genres and collaborate with emerging artists."
+          },
+          "gaming": {
+            "trend": "Character and gameplay trailers attract significant interest.",
+            "examples": [
+              "Evanescia Character Trailer: 'Her Daily Life' | Honkai: Star Rail"
+            ],
+            "opportunity": "Expand content around character development and game strategy."
+          },
+          "news": {
+            "trend": "Current affairs programs maintain consistent viewership.",
+            "examples": [
+              "One Nation With Brian Kilmeade"
+            ],
+            "opportunity": "Focus on in-depth analysis and interactive discussions."
+          }
         }
       },
       "creator_patterns": {
-        "diversity_of_channels": {
-          "description": "Each video comes from a different channel, indicating a diverse range of creators.",
-          "implication": "There is a broad range of content creators finding success on YouTube, suggesting a competitive but open environment for new creators."
-        },
-        "top_channels": {
-          "example_channels": [
-            "Saturday Night Live",
-            "FS1",
-            "Golf Channel"
-          ],
-          "strategy": "These channels, although only contributing one video each, are part of well-known brands, indicating brand recognition plays a role in viewership."
+        "top_channels": [
+          "Saturday Night Live",
+          "ESPN",
+          "Tasik Yard",
+          "FS1",
+          "Honkai: Star Rail"
+        ],
+        "insights": {
+          "diversity": "Channels span various content categories, indicating diverse viewer interests.",
+          "strategy": "Leverage cross-promotional strategies between popular channels and diverse content."
         }
       },
       "market_opportunities": {
-        "cross-category content": {
-          "strategy": "Create content that blends entertainment and sports, such as comedic sports commentary or celebrity sports challenges.",
-          "potential": "This could attract audiences from both categories, increasing viewership and engagement."
+        "engagement": {
+          "opportunity": "Develop interactive and participatory content to increase viewer engagement, such as live Q&A sessions or fan polls."
         },
-        "niche gaming content": {
-          "strategy": "Develop content around less mainstream games or unique gaming experiences to capture niche audiences.",
-          "potential": "This can differentiate creators from mainstream gaming channels and attract dedicated gaming communities."
+        "collaborations": {
+          "opportunity": "Foster collaborations between established and emerging creators to diversify content offerings and reach broader audiences."
         },
-        "music and culture fusion": {
-          "strategy": "Explore cultural music trends and collaborations, similar to 'Innocent Tumas'.",
-          "potential": "Fusing music with cultural elements can tap into both music lovers and cultural enthusiasts, expanding audience reach."
+        "regional_focus": {
+          "opportunity": "Explore regional content production, especially in the music sector, to cater to niche audiences and untapped markets."
         }
-      },
-      "conclusion": {
-        "summary": "The current YouTube trends indicate a strong presence of entertainment, sports, and gaming content. Diverse channels are succeeding, offering opportunities for both new and existing creators to innovate and capture audience interest through cross-category content and niche explorations."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -442,7 +459,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 87568
+        "avg_views_per_video": 93142
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
