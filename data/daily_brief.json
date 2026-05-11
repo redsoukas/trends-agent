@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-10T21:23:07.905059",
-  "date": "2026-05-10",
+  "timestamp": "2026-05-11T01:05:52.793520",
+  "date": "2026-05-11",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 404887,
-      "like_count": 11112,
-      "comment_count": 390,
+      "view_count": 508277,
+      "like_count": 12958,
+      "comment_count": 431,
       "category_id": "23",
       "tags": [
         "snl",
@@ -58,6 +58,23 @@
       "url": "https://www.youtube.com/watch?v=mWGZLruStu0"
     },
     {
+      "video_id": "T5K9kPVnYzc",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-10T19:34:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T5K9kPVnYzc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=T5K9kPVnYzc"
+    },
+    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -67,29 +84,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 29442,
-      "like_count": 1590,
-      "comment_count": 207,
+      "view_count": 30793,
+      "like_count": 1616,
+      "comment_count": 212,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "dRlqjZ77l1I",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-10T18:59:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dRlqjZ77l1I/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=dRlqjZ77l1I"
     },
     {
       "video_id": "6t2nDHldoSk",
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 1265248,
-      "like_count": 66875,
-      "comment_count": 3304,
+      "view_count": 1337213,
+      "like_count": 68138,
+      "comment_count": 3359,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
@@ -135,29 +135,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nacF93pUcY0/hqdefault.jpg",
       "duration": "PT11M44S",
       "duration_seconds": 704,
-      "view_count": 130050,
-      "like_count": 6442,
-      "comment_count": 2000,
+      "view_count": 170340,
+      "like_count": 7501,
+      "comment_count": 2235,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nacF93pUcY0"
     },
     {
-      "video_id": "hlC3tNuxtKo",
-      "title": "SEC Tournament: Texas vs. Alabama",
-      "description": "Championship.",
+      "video_id": "UW1u0zpoUOc",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-10T06:42:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hlC3tNuxtKo/hqdefault.jpg",
-      "duration": "PT2H39M21S",
-      "duration_seconds": 9561,
+      "published_at": "2026-05-10T22:57:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UW1u0zpoUOc/hqdefault.jpg",
+      "duration": "PT1H6S",
+      "duration_seconds": 3606,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=hlC3tNuxtKo"
+      "url": "https://www.youtube.com/watch?v=UW1u0zpoUOc"
     },
     {
       "video_id": "C4aX2YX6smM",
@@ -169,9 +169,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/C4aX2YX6smM/hqdefault.jpg",
       "duration": "PT3M26S",
       "duration_seconds": 206,
-      "view_count": 171608,
-      "like_count": 8390,
-      "comment_count": 308,
+      "view_count": 182622,
+      "like_count": 8670,
+      "comment_count": 327,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=C4aX2YX6smM"
@@ -186,9 +186,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_i0F5LDx1tI/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 378036,
-      "like_count": 25825,
-      "comment_count": 4947,
+      "view_count": 395115,
+      "like_count": 26172,
+      "comment_count": 5012,
       "category_id": "1",
       "tags": [
         "bfdi",
@@ -217,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 404887,
-      "like_count": 11112,
-      "comment_count": 390,
+      "view_count": 508277,
+      "like_count": 12958,
+      "comment_count": 431,
       "category_id": "23",
       "tags": [
         "snl",
@@ -253,6 +253,23 @@
       "url": "https://www.youtube.com/watch?v=mWGZLruStu0"
     },
     {
+      "video_id": "T5K9kPVnYzc",
+      "title": "Fox & Friends Weekend",
+      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-10T19:34:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T5K9kPVnYzc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=T5K9kPVnYzc"
+    },
+    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -262,29 +279,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 29442,
-      "like_count": 1590,
-      "comment_count": 207,
+      "view_count": 30793,
+      "like_count": 1616,
+      "comment_count": 212,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "dRlqjZ77l1I",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-10T18:59:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dRlqjZ77l1I/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=dRlqjZ77l1I"
     },
     {
       "video_id": "6t2nDHldoSk",
@@ -296,9 +296,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/6t2nDHldoSk/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 1265248,
-      "like_count": 66875,
-      "comment_count": 3304,
+      "view_count": 1337213,
+      "like_count": 68138,
+      "comment_count": 3359,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=6t2nDHldoSk"
@@ -330,29 +330,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nacF93pUcY0/hqdefault.jpg",
       "duration": "PT11M44S",
       "duration_seconds": 704,
-      "view_count": 130050,
-      "like_count": 6442,
-      "comment_count": 2000,
+      "view_count": 170340,
+      "like_count": 7501,
+      "comment_count": 2235,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nacF93pUcY0"
     },
     {
-      "video_id": "hlC3tNuxtKo",
-      "title": "SEC Tournament: Texas vs. Alabama",
-      "description": "Championship.",
+      "video_id": "UW1u0zpoUOc",
+      "title": "SportsCenter",
+      "description": "ESPN's flagship program provides sports news, highlights and analysis.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-10T06:42:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hlC3tNuxtKo/hqdefault.jpg",
-      "duration": "PT2H39M21S",
-      "duration_seconds": 9561,
+      "published_at": "2026-05-10T22:57:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UW1u0zpoUOc/hqdefault.jpg",
+      "duration": "PT1H6S",
+      "duration_seconds": 3606,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=hlC3tNuxtKo"
+      "url": "https://www.youtube.com/watch?v=UW1u0zpoUOc"
     },
     {
       "video_id": "C4aX2YX6smM",
@@ -364,9 +364,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/C4aX2YX6smM/hqdefault.jpg",
       "duration": "PT3M26S",
       "duration_seconds": 206,
-      "view_count": 171608,
-      "like_count": 8390,
-      "comment_count": 308,
+      "view_count": 182622,
+      "like_count": 8670,
+      "comment_count": 327,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=C4aX2YX6smM"
@@ -381,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_i0F5LDx1tI/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 378036,
-      "like_count": 25825,
-      "comment_count": 4947,
+      "view_count": 395115,
+      "like_count": 26172,
+      "comment_count": 5012,
       "category_id": "1",
       "tags": [
         "bfdi",
@@ -403,78 +403,98 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 2379271,
-        "average_views_per_video": 237927.1
-      },
-      "content_trends": {
-        "trending_video_types": [
-          "Entertainment (e.g., Movie Trailers, Comedy Shows)",
-          "Sports (e.g., NHL, SEC Tournament)",
-          "Music (e.g., Official Music Releases)",
-          "News and Commentary (e.g., FOX News, Political Commentary)",
-          "Gaming (e.g., Gameplay Trailers)"
-        ],
-        "popularity_indicators": [
-          {
-            "type": "Entertainment",
-            "example_video": "Mom Movie Trailer - SNL",
-            "insight": "High engagement likely due to comedic content and well-known brand (SNL)."
-          },
-          {
-            "type": "Sports",
-            "example_video": "Colorado Avalanche at Minnesota Wild",
-            "insight": "Live sports content continues to draw significant interest, showcasing a strong fanbase."
-          },
-          {
-            "type": "Music",
-            "example_video": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music",
-            "insight": "Music releases, especially official tracks, maintain a steady presence in trending categories."
-          },
-          {
-            "type": "Gaming",
-            "example_video": "Subnautica 2 Early Access Gameplay Trailer",
-            "insight": "Gaming content, particularly new releases or updates, attracts a dedicated audience."
-          }
-        ]
+      "content_trends_analysis": {
+        "diversity_in_content": {
+          "description": "The trending videos show a wide range of content categories including entertainment, sports, news, music, gaming, and special occasions.",
+          "insights": [
+            {
+              "category": "Entertainment",
+              "examples": [
+                "Mom Movie Trailer - SNL",
+                "BFDIA 25 TRAILER — TICKETS AVAILABLE NOW!"
+              ],
+              "opportunity": "Invest in creating unique and engaging entertainment content, leveraging popular formats like trailers and exclusive content announcements."
+            },
+            {
+              "category": "Sports",
+              "examples": [
+                "Colorado Avalanche at Minnesota Wild",
+                "Truist Championship, Third Round",
+                "SportsCenter"
+              ],
+              "opportunity": "There is a consistent demand for sports content. Consider producing live commentary, highlights, and analytical content."
+            },
+            {
+              "category": "News",
+              "examples": [
+                "Fox & Friends Weekend"
+              ],
+              "opportunity": "News channels can focus on timely, relevant topics and capitalize on 'weekend' formats which suggest a demand for leisurely news consumption."
+            },
+            {
+              "category": "Music",
+              "examples": [
+                "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
+              ],
+              "opportunity": "Music content, especially official releases, remains a strong performer. Explore collaborations and exclusive releases to capture audience attention."
+            },
+            {
+              "category": "Gaming",
+              "examples": [
+                "Subnautica 2 Early Access Gameplay Trailer"
+              ],
+              "opportunity": "Gaming content, particularly early access and gameplay trailers, attracts significant interest. Engage viewers with behind-the-scenes content or exclusive game previews."
+            },
+            {
+              "category": "Special Occasions",
+              "examples": [
+                "Happy Mother’s Day Mama"
+              ],
+              "opportunity": "Content tied to special occasions can leverage seasonal interest. Plan content calendars around holidays and celebrations."
+            }
+          ]
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          "Saturday Night Live",
-          "TNT",
-          "Tasik Yard",
-          "FOX News",
-          "Subnautica"
-        ],
-        "video_per_channel": {
-          "Saturday Night Live": 1,
-          "TNT": 1,
-          "Tasik Yard": 1,
-          "FOX News": 1,
-          "Subnautica": 1
-        },
-        "insights": "Channels with established brands (e.g., SNL, FOX News) have a higher likelihood of trending with single releases. Lesser-known channels may require more frequent or unique content to achieve similar visibility."
+        "channel_focus": {
+          "description": "Top channels have a focused content strategy, specializing in specific categories.",
+          "insights": [
+            {
+              "channel": "Saturday Night Live",
+              "content_type": "Comedy and Entertainment",
+              "strategy": "Focus on high-quality, humorous content with celebrity appearances to maintain audience engagement."
+            },
+            {
+              "channel": "FOX News",
+              "content_type": "News",
+              "strategy": "Provide comprehensive coverage of current events and popular segments with a strong opinion focus."
+            },
+            {
+              "channel": "Subnautica",
+              "content_type": "Gaming",
+              "strategy": "Leverage game development updates and early access content to build anticipation and community engagement."
+            }
+          ]
+        }
       },
       "market_opportunities": {
-        "opportunity_areas": [
-          {
-            "category": "Live Events",
-            "insight": "Consider capitalizing on live sports events and tournaments which draw consistent viewership."
-          },
-          {
-            "category": "Comedy and Entertainment",
-            "insight": "Invest in comedic content or collaborations with established entertainment brands to leverage their audience."
-          },
-          {
-            "category": "Gaming",
-            "insight": "Focus on early access and gameplay trailers for upcoming games, tapping into the gaming community's enthusiasm for new content."
-          },
-          {
-            "category": "Music",
-            "insight": "Explore partnerships with music artists for official releases, ensuring high-quality production to attract and retain viewers."
-          }
-        ]
+        "engagement_drivers": {
+          "description": "Identify key drivers of audience engagement for future content development.",
+          "insights": [
+            {
+              "driver": "Exclusive Previews and Trailers",
+              "opportunity": "There is significant interest in exclusive previews and trailers across various content types, especially in entertainment and gaming."
+            },
+            {
+              "driver": "Live and Timely Content",
+              "opportunity": "Live events and timely content, such as sports matches and news segments, are highly engaging. Consider real-time interaction opportunities with audiences."
+            },
+            {
+              "driver": "Cultural and Seasonal Relevance",
+              "opportunity": "Content that taps into cultural and seasonal events, such as Mother's Day, can see spikes in interest. Plan strategically to release content that aligns with these events."
+            }
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -482,7 +502,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 237927
+        "avg_views_per_video": 262436
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
