@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-12T09:59:58.299312",
+  "timestamp": "2026-05-12T12:54:05.513803",
   "date": "2026-05-12",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 981510,
-      "like_count": 23251,
-      "comment_count": 2659,
+      "view_count": 1033883,
+      "like_count": 24168,
+      "comment_count": 2766,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=7i8PKBF3plY"
     },
     {
-      "video_id": "NL7JuJrAULI",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "dvFA-Vk-Y4c",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-12T06:59:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NL7JuJrAULI/hqdefault.jpg",
+      "published_at": "2026-05-12T10:30:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dvFA-Vk-Y4c/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=NL7JuJrAULI"
+      "url": "https://www.youtube.com/watch?v=dvFA-Vk-Y4c"
     },
     {
       "video_id": "lbDOegHVPP8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 918034,
-      "like_count": 19436,
-      "comment_count": 608,
+      "view_count": 924475,
+      "like_count": 19572,
+      "comment_count": 610,
       "category_id": "23",
       "tags": [
         "snl",
@@ -86,6 +86,40 @@
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
     },
     {
+      "video_id": "-UCgFCEdxx0",
+      "title": "Seattle Mariners at Houston Astros",
+      "description": "The Seattle Mariners begin a four-game road series against the Houston Astros at Daikin Park. George Kirby is the projected starter for Seattle against Peter Lambert for Houston. Seattle currently leads the regular season series 4-0.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-12T10:37:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-UCgFCEdxx0/hqdefault.jpg",
+      "duration": "PT2H41M36S",
+      "duration_seconds": 9696,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-UCgFCEdxx0"
+    },
+    {
+      "video_id": "KkCwpQDk5dQ",
+      "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
+      "description": "The Boys Season 5 Episode 7 Trailer. Homelander Stops Holding Back, President Homelander, Butcher vs Homelander Ending, Soldier Boys & The Boys Season 5 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 6 https://www.youtube.com/watch?v=UfefkFE0DAY&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-11T19:16:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
+      "duration": "PT12M2S",
+      "duration_seconds": 722,
+      "view_count": 311247,
+      "like_count": 6373,
+      "comment_count": 931,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
+    },
+    {
       "video_id": "8NCaEveCxJ8",
       "title": "Our Airport Security Still Sucks...",
       "description": "Don’t worry guys, we invited Blarg this time.\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@Yumi \n@daukey \n@imSovi \n@Trippayy \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Att",
@@ -95,9 +129,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8NCaEveCxJ8/hqdefault.jpg",
       "duration": "PT36M33S",
       "duration_seconds": 2193,
-      "view_count": 1051142,
-      "like_count": 52780,
-      "comment_count": 1346,
+      "view_count": 1136465,
+      "like_count": 56531,
+      "comment_count": 1387,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -114,38 +148,21 @@
       "url": "https://www.youtube.com/watch?v=8NCaEveCxJ8"
     },
     {
-      "video_id": "KkCwpQDk5dQ",
-      "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
-      "description": "The Boys Season 5 Episode 7 Trailer. Homelander Stops Holding Back, President Homelander, Butcher vs Homelander Ending, Soldier Boys & The Boys Season 5 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 6 https://www.youtube.com/watch?v=UfefkFE0DAY&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-11T19:16:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
-      "duration": "PT12M2S",
-      "duration_seconds": 722,
-      "view_count": 288684,
-      "like_count": 6052,
-      "comment_count": 889,
-      "category_id": "24",
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 41819,
+      "like_count": 1846,
+      "comment_count": 224,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
-    },
-    {
-      "video_id": "wXdA1mzlg0o",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-12T06:35:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wXdA1mzlg0o/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wXdA1mzlg0o"
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "5BYVZBcPnj4",
@@ -157,9 +174,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 154470,
-      "like_count": 2135,
-      "comment_count": 161,
+      "view_count": 166035,
+      "like_count": 2244,
+      "comment_count": 173,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -175,78 +192,50 @@
       "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
     },
     {
-      "video_id": "fdYvqMf9Ir0",
-      "title": "Vegas Golden Knights at Anaheim Ducks",
-      "description": "The Ducks face the Golden Knights in Game 4 of the West second round at Honda Center. The Golden Knights lead 2-1 after a 6-2 Game 3 win. In Game 3, Mitch Marner had a historic performance, recording his first playoff hat trick and four points.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-11T12:06:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdYvqMf9Ir0/hqdefault.jpg",
-      "duration": "PT2H27M25S",
-      "duration_seconds": 8845,
+      "video_id": "XluHSF1JmtM",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-12T09:36:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XluHSF1JmtM/hqdefault.jpg",
+      "duration": "PT1H50S",
+      "duration_seconds": 3650,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fdYvqMf9Ir0"
+      "url": "https://www.youtube.com/watch?v=XluHSF1JmtM"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 40758,
-      "like_count": 1812,
-      "comment_count": 221,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "N-J-HR3quc4",
-      "title": "72 Hours | Kevin Hart | Official Trailer | Netflix",
-      "description": "A forty-year-old executive (Kevin Hart) hopes to save his flailing career by joining a group of twenty-somethings (Marcello Hernández, Mason Gooding, Kam Patterson, Ben Marshall) on a wild three-day bachelor party, after he’s inadvertently added to their group text.\n\nWatch on Netflix: https://www.netflix.com/title/81715790\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\n72 Hours | Kevin Hart | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-11T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N-J-HR3quc4/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1590901,
-      "like_count": 5097,
-      "comment_count": 270,
+      "video_id": "uXCA0QQsPIU",
+      "title": "Great Reasons To Be Mad",
+      "description": "In Week Five, the teams conquer the largest space in the house: the RV garage!; these massive blank canvases let the creativity flow as they take big risks in hopes of getting a win; Luann de Lesseps arrives to judge their incredible work.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-05-12T10:44:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uXCA0QQsPIU/hqdefault.jpg",
+      "duration": "PT1H32M6S",
+      "duration_seconds": 5526,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
-      "tags": [
-        "Bachelor Party",
-        "Bachelorette Party",
-        "Beach",
-        "Ben Marshall",
-        "Boat",
-        "Bottle Service",
-        "Comedy",
-        "Domingo",
-        "Family",
-        "Funny AF"
-      ],
-      "url": "https://www.youtube.com/watch?v=N-J-HR3quc4"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=uXCA0QQsPIU"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "NL7JuJrAULI",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "dvFA-Vk-Y4c",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-12T06:59:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NL7JuJrAULI/hqdefault.jpg",
+      "published_at": "2026-05-12T10:30:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dvFA-Vk-Y4c/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -254,7 +243,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=NL7JuJrAULI"
+      "url": "https://www.youtube.com/watch?v=dvFA-Vk-Y4c"
     },
     {
       "video_id": "lbDOegHVPP8",
@@ -266,9 +255,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 918034,
-      "like_count": 19436,
-      "comment_count": 608,
+      "view_count": 924475,
+      "like_count": 19572,
+      "comment_count": 610,
       "category_id": "23",
       "tags": [
         "snl",
@@ -285,6 +274,40 @@
       "url": "https://www.youtube.com/watch?v=lbDOegHVPP8"
     },
     {
+      "video_id": "-UCgFCEdxx0",
+      "title": "Seattle Mariners at Houston Astros",
+      "description": "The Seattle Mariners begin a four-game road series against the Houston Astros at Daikin Park. George Kirby is the projected starter for Seattle against Peter Lambert for Houston. Seattle currently leads the regular season series 4-0.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-12T10:37:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-UCgFCEdxx0/hqdefault.jpg",
+      "duration": "PT2H41M36S",
+      "duration_seconds": 9696,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=-UCgFCEdxx0"
+    },
+    {
+      "video_id": "KkCwpQDk5dQ",
+      "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
+      "description": "The Boys Season 5 Episode 7 Trailer. Homelander Stops Holding Back, President Homelander, Butcher vs Homelander Ending, Soldier Boys & The Boys Season 5 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 6 https://www.youtube.com/watch?v=UfefkFE0DAY&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-11T19:16:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
+      "duration": "PT12M2S",
+      "duration_seconds": 722,
+      "view_count": 311247,
+      "like_count": 6373,
+      "comment_count": 931,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
+    },
+    {
       "video_id": "8NCaEveCxJ8",
       "title": "Our Airport Security Still Sucks...",
       "description": "Don’t worry guys, we invited Blarg this time.\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@Yumi \n@daukey \n@imSovi \n@Trippayy \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Att",
@@ -294,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8NCaEveCxJ8/hqdefault.jpg",
       "duration": "PT36M33S",
       "duration_seconds": 2193,
-      "view_count": 1051142,
-      "like_count": 52780,
-      "comment_count": 1346,
+      "view_count": 1136465,
+      "like_count": 56531,
+      "comment_count": 1387,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -313,38 +336,21 @@
       "url": "https://www.youtube.com/watch?v=8NCaEveCxJ8"
     },
     {
-      "video_id": "KkCwpQDk5dQ",
-      "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
-      "description": "The Boys Season 5 Episode 7 Trailer. Homelander Stops Holding Back, President Homelander, Butcher vs Homelander Ending, Soldier Boys & The Boys Season 5 Episode 8 Finale ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 6 https://www.youtube.com/watch?v=UfefkFE0DAY&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-11T19:16:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
-      "duration": "PT12M2S",
-      "duration_seconds": 722,
-      "view_count": 288684,
-      "like_count": 6052,
-      "comment_count": 889,
-      "category_id": "24",
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 41819,
+      "like_count": 1846,
+      "comment_count": 224,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
-    },
-    {
-      "video_id": "wXdA1mzlg0o",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-12T06:35:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wXdA1mzlg0o/hqdefault.jpg",
-      "duration": "PT2H1M6S",
-      "duration_seconds": 7266,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wXdA1mzlg0o"
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "5BYVZBcPnj4",
@@ -356,9 +362,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
       "duration": "PT2M21S",
       "duration_seconds": 141,
-      "view_count": 154470,
-      "like_count": 2135,
-      "comment_count": 161,
+      "view_count": 166035,
+      "like_count": 2244,
+      "comment_count": 173,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -374,66 +380,38 @@
       "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
     },
     {
-      "video_id": "fdYvqMf9Ir0",
-      "title": "Vegas Golden Knights at Anaheim Ducks",
-      "description": "The Ducks face the Golden Knights in Game 4 of the West second round at Honda Center. The Golden Knights lead 2-1 after a 6-2 Game 3 win. In Game 3, Mitch Marner had a historic performance, recording his first playoff hat trick and four points.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-11T12:06:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdYvqMf9Ir0/hqdefault.jpg",
-      "duration": "PT2H27M25S",
-      "duration_seconds": 8845,
+      "video_id": "XluHSF1JmtM",
+      "title": "The Rachel Maddow Show",
+      "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-12T09:36:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XluHSF1JmtM/hqdefault.jpg",
+      "duration": "PT1H50S",
+      "duration_seconds": 3650,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fdYvqMf9Ir0"
+      "url": "https://www.youtube.com/watch?v=XluHSF1JmtM"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 40758,
-      "like_count": 1812,
-      "comment_count": 221,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "N-J-HR3quc4",
-      "title": "72 Hours | Kevin Hart | Official Trailer | Netflix",
-      "description": "A forty-year-old executive (Kevin Hart) hopes to save his flailing career by joining a group of twenty-somethings (Marcello Hernández, Mason Gooding, Kam Patterson, Ben Marshall) on a wild three-day bachelor party, after he’s inadvertently added to their group text.\n\nWatch on Netflix: https://www.netflix.com/title/81715790\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\n72 Hours | Kevin Hart | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-11T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N-J-HR3quc4/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 1590901,
-      "like_count": 5097,
-      "comment_count": 270,
+      "video_id": "uXCA0QQsPIU",
+      "title": "Great Reasons To Be Mad",
+      "description": "In Week Five, the teams conquer the largest space in the house: the RV garage!; these massive blank canvases let the creativity flow as they take big risks in hopes of getting a win; Luann de Lesseps arrives to judge their incredible work.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-05-12T10:44:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uXCA0QQsPIU/hqdefault.jpg",
+      "duration": "PT1H32M6S",
+      "duration_seconds": 5526,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
       "category_id": "24",
-      "tags": [
-        "Bachelor Party",
-        "Bachelorette Party",
-        "Beach",
-        "Ben Marshall",
-        "Boat",
-        "Bottle Service",
-        "Comedy",
-        "Domingo",
-        "Family",
-        "Funny AF"
-      ],
-      "url": "https://www.youtube.com/watch?v=N-J-HR3quc4"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=uXCA0QQsPIU"
     },
     {
       "video_id": "7i8PKBF3plY",
@@ -445,9 +423,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 981510,
-      "like_count": 23251,
-      "comment_count": 2659,
+      "view_count": 1033883,
+      "like_count": 24168,
+      "comment_count": 2766,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -467,73 +445,56 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "view_analysis": {
-        "average_views_per_video": 502549.9,
-        "high_engagement_indicators": [
-          {
-            "title": "The Boys Season 5 Episode 7 Trailer | 'The Penultimate Episode'",
-            "likely_high_interest": "Part of a popular series with a dedicated fanbase."
-          },
-          {
-            "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
-            "likely_high_interest": "Further engagement with the series, likely drawing fans of specific characters."
-          }
-        ]
-      },
-      "category_insights": {
-        "potential_categories": [
-          "Television and Entertainment",
-          "News and Politics",
-          "Comedy and Satire",
-          "Sports",
-          "Music"
-        ],
-        "trending_content_types": [
-          "TV Show Trailers",
-          "Movie Trailers",
-          "News Segments",
-          "Sports Highlights",
-          "Music Videos"
-        ]
+      "content_trends": {
+        "entertainment_dominance": {
+          "description": "The majority of trending videos are related to entertainment, including trailers for TV shows and movies.",
+          "evidence": [
+            "The Boys Season 5 Episode 7 Trailer",
+            "Mom Movie Trailer - SNL",
+            "THE RIVALS OF AMZIAH KING Official Trailer"
+          ],
+          "actionable_insight": "Content creators should focus on producing high-quality entertainment content, particularly trailers and reviews, to capture audience interest."
+        },
+        "news_and_commentary": {
+          "description": "News-related content also trends, indicating viewer interest in current events and commentary.",
+          "evidence": [
+            "Gutfeld!",
+            "The Rachel Maddow Show"
+          ],
+          "actionable_insight": "Channels focusing on news and political commentary should maintain regular uploads and engage with current topics to maintain relevance."
+        },
+        "sports_content": {
+          "description": "Sports events and related content, such as game highlights, remain trending topics.",
+          "evidence": [
+            "Seattle Mariners at Houston Astros"
+          ],
+          "actionable_insight": "Sports networks and enthusiasts can capitalize on live commentary and post-game analysis videos."
+        }
       },
       "creator_patterns": {
-        "diverse_content_sources": true,
-        "cross-industry representation": {
-          "entertainment": [
-            "Rotten Tomatoes TV",
-            "Emergency Awesome"
-          ],
-          "news": [
-            "FOX News"
-          ],
-          "comedy": [
-            "Saturday Night Live"
-          ],
-          "gaming": [
-            "SMii7Y"
-          ],
-          "music": [
-            "Tasik Yard X Wan Jam"
-          ]
+        "single_video_contribution": {
+          "description": "Each top channel has contributed only one video to the trending list.",
+          "implication": "Channels need to focus on quality and timing rather than quantity to achieve trending status."
         },
-        "single_video_contribution": "Each top channel contributed only one video, indicating a wide variety of content creators getting traction."
+        "cross-category success": {
+          "description": "Channels with content across different categories (entertainment, news, sports) are trending.",
+          "actionable_insight": "Diversify content offerings to include various trending categories to increase the likelihood of reaching trending status."
+        }
       },
       "market_opportunities": {
-        "emerging_trends": [
-          "Television series trailers are capturing significant interest, suggesting a high potential for content related to upcoming TV seasons.",
-          "Nostalgia and celebrity-led projects (e.g., Matthew McConaughey) hint at a market for content that leverages well-known personalities."
-        ],
-        "content gaps": [
-          "In-depth analysis or reaction videos to trending trailers could attract viewers who are looking for more content related to their interests.",
-          "Behind-the-scenes content or interviews related to trending TV shows and movies might engage viewers who want exclusive insights."
-        ],
-        "target audience": {
-          "demographics": [
-            "Fans of popular TV series and movies.",
-            "News consumers interested in primetime political commentary.",
-            "Comedy enthusiasts following sketch shows and parodies."
-          ],
-          "geographic focus": "The presence of diverse content types suggests global interest, with a potential focus on English-speaking regions."
+        "emerging_trends": {
+          "2026 future content": {
+            "description": "Content set in the future year of 2026 is generating interest.",
+            "evidence": [
+              "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.",
+              "THE RIVALS OF AMZIAH KING Official Trailer (2026)"
+            ],
+            "actionable_insight": "Consider exploring futuristic themes and long-term storytelling in content production to tap into emerging trends."
+          }
+        },
+        "underexplored_categories": {
+          "description": "There is potential in identifying and developing content in categories not represented in this trending list.",
+          "actionable_insight": "Conduct further research to identify popular but underrepresented categories on YouTube and create targeted content."
         }
       },
       "metadata_stats": {
@@ -542,7 +503,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 502549
+        "avg_views_per_video": 361392
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
