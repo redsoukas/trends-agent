@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-12T07:11:57.690602",
+  "timestamp": "2026-05-12T09:59:58.299312",
   "date": "2026-05-12",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 913655,
-      "like_count": 22331,
-      "comment_count": 2557,
+      "view_count": 981510,
+      "like_count": 23251,
+      "comment_count": 2659,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=7i8PKBF3plY"
     },
     {
-      "video_id": "tJaVu6rD2VU",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "NL7JuJrAULI",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-12T03:52:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tJaVu6rD2VU/hqdefault.jpg",
+      "published_at": "2026-05-12T06:59:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NL7JuJrAULI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=tJaVu6rD2VU"
+      "url": "https://www.youtube.com/watch?v=NL7JuJrAULI"
     },
     {
       "video_id": "lbDOegHVPP8",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 906957,
-      "like_count": 19329,
-      "comment_count": 607,
+      "view_count": 918034,
+      "like_count": 19436,
+      "comment_count": 608,
       "category_id": "23",
       "tags": [
         "snl",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8NCaEveCxJ8/hqdefault.jpg",
       "duration": "PT36M33S",
       "duration_seconds": 2193,
-      "view_count": 923899,
-      "like_count": 49330,
-      "comment_count": 1300,
+      "view_count": 1051142,
+      "like_count": 52780,
+      "comment_count": 1346,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -123,12 +123,56 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
       "duration": "PT12M2S",
       "duration_seconds": 722,
-      "view_count": 264278,
-      "like_count": 5747,
-      "comment_count": 843,
+      "view_count": 288684,
+      "like_count": 6052,
+      "comment_count": 889,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
+    },
+    {
+      "video_id": "wXdA1mzlg0o",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-12T06:35:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wXdA1mzlg0o/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=wXdA1mzlg0o"
+    },
+    {
+      "video_id": "5BYVZBcPnj4",
+      "title": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
+      "description": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey, Kurt Russell\n© 2026 - Black Bear",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-05-11T16:14:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
+      "duration": "PT2M21S",
+      "duration_seconds": 141,
+      "view_count": 154470,
+      "like_count": 2135,
+      "comment_count": 161,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Rivals of Amziah King",
+        "The Rivals of Amziah King Trailer",
+        "Matthew McConaughey",
+        "Kurt Russell"
+      ],
+      "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
     },
     {
       "video_id": "fdYvqMf9Ir0",
@@ -148,59 +192,21 @@
       "url": "https://www.youtube.com/watch?v=fdYvqMf9Ir0"
     },
     {
-      "video_id": "5BYVZBcPnj4",
-      "title": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
-      "description": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey, Kurt Russell\n© 2026 - Black Bear",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-05-11T16:14:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
-      "duration": "PT2M21S",
-      "duration_seconds": 141,
-      "view_count": 143292,
-      "like_count": 2041,
-      "comment_count": 150,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "The Rivals of Amziah King",
-        "The Rivals of Amziah King Trailer",
-        "Matthew McConaughey",
-        "Kurt Russell"
-      ],
-      "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
-    },
-    {
-      "video_id": "VL3_3rYSvec",
-      "title": "Mulberry County…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-05-11T22:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VL3_3rYSvec/hqdefault.jpg",
-      "duration": "PT1H10M11S",
-      "duration_seconds": 4211,
-      "view_count": 233239,
-      "like_count": 10257,
-      "comment_count": 808,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=VL3_3rYSvec"
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 40758,
+      "like_count": 1812,
+      "comment_count": 221,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "N-J-HR3quc4",
@@ -212,9 +218,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/N-J-HR3quc4/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 970400,
-      "like_count": 4795,
-      "comment_count": 258,
+      "view_count": 1590901,
+      "like_count": 5097,
+      "comment_count": 270,
       "category_id": "24",
       "tags": [
         "Bachelor Party",
@@ -229,35 +235,18 @@
         "Funny AF"
       ],
       "url": "https://www.youtube.com/watch?v=N-J-HR3quc4"
-    },
-    {
-      "video_id": "nB9-er1KwCw",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-11T21:28:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nB9-er1KwCw/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=nB9-er1KwCw"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "tJaVu6rD2VU",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "NL7JuJrAULI",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-12T03:52:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tJaVu6rD2VU/hqdefault.jpg",
+      "published_at": "2026-05-12T06:59:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NL7JuJrAULI/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -265,7 +254,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=tJaVu6rD2VU"
+      "url": "https://www.youtube.com/watch?v=NL7JuJrAULI"
     },
     {
       "video_id": "lbDOegHVPP8",
@@ -277,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbDOegHVPP8/hqdefault.jpg",
       "duration": "PT3M19S",
       "duration_seconds": 199,
-      "view_count": 906957,
-      "like_count": 19329,
-      "comment_count": 607,
+      "view_count": 918034,
+      "like_count": 19436,
+      "comment_count": 608,
       "category_id": "23",
       "tags": [
         "snl",
@@ -305,9 +294,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8NCaEveCxJ8/hqdefault.jpg",
       "duration": "PT36M33S",
       "duration_seconds": 2193,
-      "view_count": 923899,
-      "like_count": 49330,
-      "comment_count": 1300,
+      "view_count": 1051142,
+      "like_count": 52780,
+      "comment_count": 1346,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -333,12 +322,56 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KkCwpQDk5dQ/hqdefault.jpg",
       "duration": "PT12M2S",
       "duration_seconds": 722,
-      "view_count": 264278,
-      "like_count": 5747,
-      "comment_count": 843,
+      "view_count": 288684,
+      "like_count": 6052,
+      "comment_count": 889,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
+    },
+    {
+      "video_id": "wXdA1mzlg0o",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-12T06:35:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wXdA1mzlg0o/hqdefault.jpg",
+      "duration": "PT2H1M6S",
+      "duration_seconds": 7266,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=wXdA1mzlg0o"
+    },
+    {
+      "video_id": "5BYVZBcPnj4",
+      "title": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
+      "description": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey, Kurt Russell\n© 2026 - Black Bear",
+      "channel_title": "ONE Media",
+      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+      "published_at": "2026-05-11T16:14:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
+      "duration": "PT2M21S",
+      "duration_seconds": 141,
+      "view_count": 154470,
+      "like_count": 2135,
+      "comment_count": 161,
+      "category_id": "1",
+      "tags": [
+        "movie trailer",
+        "new trailer",
+        "trailer",
+        "official",
+        "2026",
+        "The Rivals of Amziah King",
+        "The Rivals of Amziah King Trailer",
+        "Matthew McConaughey",
+        "Kurt Russell"
+      ],
+      "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
     },
     {
       "video_id": "fdYvqMf9Ir0",
@@ -358,59 +391,21 @@
       "url": "https://www.youtube.com/watch?v=fdYvqMf9Ir0"
     },
     {
-      "video_id": "5BYVZBcPnj4",
-      "title": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
-      "description": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey, Kurt Russell\n© 2026 - Black Bear",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-05-11T16:14:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5BYVZBcPnj4/hqdefault.jpg",
-      "duration": "PT2M21S",
-      "duration_seconds": 141,
-      "view_count": 143292,
-      "like_count": 2041,
-      "comment_count": 150,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2026",
-        "The Rivals of Amziah King",
-        "The Rivals of Amziah King Trailer",
-        "Matthew McConaughey",
-        "Kurt Russell"
-      ],
-      "url": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
-    },
-    {
-      "video_id": "VL3_3rYSvec",
-      "title": "Mulberry County…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-05-11T22:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VL3_3rYSvec/hqdefault.jpg",
-      "duration": "PT1H10M11S",
-      "duration_seconds": 4211,
-      "view_count": 233239,
-      "like_count": 10257,
-      "comment_count": 808,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=VL3_3rYSvec"
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 40758,
+      "like_count": 1812,
+      "comment_count": 221,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "N-J-HR3quc4",
@@ -422,9 +417,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/N-J-HR3quc4/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 970400,
-      "like_count": 4795,
-      "comment_count": 258,
+      "view_count": 1590901,
+      "like_count": 5097,
+      "comment_count": 270,
       "category_id": "24",
       "tags": [
         "Bachelor Party",
@@ -439,23 +434,6 @@
         "Funny AF"
       ],
       "url": "https://www.youtube.com/watch?v=N-J-HR3quc4"
-    },
-    {
-      "video_id": "nB9-er1KwCw",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-11T21:28:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nB9-er1KwCw/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=nB9-er1KwCw"
     },
     {
       "video_id": "7i8PKBF3plY",
@@ -467,9 +445,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 913655,
-      "like_count": 22331,
-      "comment_count": 2557,
+      "view_count": 981510,
+      "like_count": 23251,
+      "comment_count": 2659,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -489,42 +467,73 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment_dominance": {
-          "description": "A significant portion of the trending videos (6 out of 10) are entertainment-related, including trailers and TV show content.",
-          "actionable_insight": "Content creators should focus on entertainment topics such as movie trailers, TV show previews, and celebrity news to capitalize on viewer interests."
-        },
-        "trailer_popularity": {
-          "description": "Three out of ten videos are trailers, indicating strong viewer interest in upcoming media releases.",
-          "actionable_insight": "Channels should consider creating content related to upcoming films and series, such as analysis, reviews, and reaction videos."
-        },
-        "diverse content types": {
-          "description": "The trending list includes a mix of news, comedy, sports, and general entertainment, indicating diverse viewer interests.",
-          "actionable_insight": "Content creators can explore combining multiple genres in their videos, such as comedic takes on current events or sports, to attract a broader audience."
-        }
+      "view_analysis": {
+        "average_views_per_video": 502549.9,
+        "high_engagement_indicators": [
+          {
+            "title": "The Boys Season 5 Episode 7 Trailer | 'The Penultimate Episode'",
+            "likely_high_interest": "Part of a popular series with a dedicated fanbase."
+          },
+          {
+            "title": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
+            "likely_high_interest": "Further engagement with the series, likely drawing fans of specific characters."
+          }
+        ]
+      },
+      "category_insights": {
+        "potential_categories": [
+          "Television and Entertainment",
+          "News and Politics",
+          "Comedy and Satire",
+          "Sports",
+          "Music"
+        ],
+        "trending_content_types": [
+          "TV Show Trailers",
+          "Movie Trailers",
+          "News Segments",
+          "Sports Highlights",
+          "Music Videos"
+        ]
       },
       "creator_patterns": {
-        "single-video dominance": {
-          "description": "Each top channel contributed only one video to the trending list, suggesting the impact of unique, high-engagement content.",
-          "actionable_insight": "Channels should focus on creating unique, high-quality videos that have the potential to stand out and go viral, rather than relying on volume."
+        "diverse_content_sources": true,
+        "cross-industry representation": {
+          "entertainment": [
+            "Rotten Tomatoes TV",
+            "Emergency Awesome"
+          ],
+          "news": [
+            "FOX News"
+          ],
+          "comedy": [
+            "Saturday Night Live"
+          ],
+          "gaming": [
+            "SMii7Y"
+          ],
+          "music": [
+            "Tasik Yard X Wan Jam"
+          ]
         },
-        "emerging platforms": {
-          "description": "Channels like Rotten Tomatoes TV and Emergency Awesome, which focus on entertainment analysis, are trending.",
-          "actionable_insight": "New or smaller channels can gain traction by focusing on niche content areas, such as detailed analysis or fan theories, within popular genres."
-        }
+        "single_video_contribution": "Each top channel contributed only one video, indicating a wide variety of content creators getting traction."
       },
       "market_opportunities": {
-        "trailer-centric content": {
-          "description": "High interest in trailers provides an opportunity for secondary content such as behind-the-scenes, interviews, and fan theories.",
-          "actionable_insight": "Channels can collaborate with film studios or create partnerships to gain early access to content, thereby producing exclusive and engaging content."
-        },
-        "cross-genre innovation": {
-          "description": "The presence of diverse video genres on the trending list suggests a market for innovative content that crosses traditional genre boundaries.",
-          "actionable_insight": "Develop content that blends elements from different genres, such as combining news analysis with comedic elements, to capture diverse audience segments."
-        },
-        "localized content opportunities": {
-          "description": "While the current trending videos are global, there is potential for localized content to reach trending status by addressing specific regional interests.",
-          "actionable_insight": "Content creators should identify and produce content relevant to local cultures or events to engage regional audiences more effectively."
+        "emerging_trends": [
+          "Television series trailers are capturing significant interest, suggesting a high potential for content related to upcoming TV seasons.",
+          "Nostalgia and celebrity-led projects (e.g., Matthew McConaughey) hint at a market for content that leverages well-known personalities."
+        ],
+        "content gaps": [
+          "In-depth analysis or reaction videos to trending trailers could attract viewers who are looking for more content related to their interests.",
+          "Behind-the-scenes content or interviews related to trending TV shows and movies might engage viewers who want exclusive insights."
+        ],
+        "target audience": {
+          "demographics": [
+            "Fans of popular TV series and movies.",
+            "News consumers interested in primetime political commentary.",
+            "Comedy enthusiasts following sketch shows and parodies."
+          ],
+          "geographic focus": "The presence of diverse content types suggests global interest, with a potential focus on English-speaking regions."
         }
       },
       "metadata_stats": {
@@ -533,7 +542,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 435572
+        "avg_views_per_video": 502549
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
