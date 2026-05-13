@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-13T09:59:15.414811",
+  "timestamp": "2026-05-13T12:57:16.159593",
   "date": "2026-05-13",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1ymnCXU6iyA/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 1396781,
-      "like_count": 55726,
-      "comment_count": 4792,
+      "view_count": 1425018,
+      "like_count": 55909,
+      "comment_count": 4866,
       "category_id": "20",
       "tags": [
         "Marvel",
@@ -39,21 +39,21 @@
       "url": "https://www.youtube.com/watch?v=1ymnCXU6iyA"
     },
     {
-      "video_id": "3mzL7RE-TUQ",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-13T07:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3mzL7RE-TUQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "TlxPnv5VMco",
+      "title": "Buffalo Sabres at Montreal Canadiens",
+      "description": "Montreal face Buffalo in Atlantic Division finals for Game 4 of the Eastern Conference Semifinals. Buffalo leans on Tage Thompson and his 40 goals to break through a Montreal defense unit that led the NHL in blocked shots this year.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-13T08:18:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TlxPnv5VMco/hqdefault.jpg",
+      "duration": "PT3H5M1S",
+      "duration_seconds": 11101,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=3mzL7RE-TUQ"
+      "url": "https://www.youtube.com/watch?v=TlxPnv5VMco"
     },
     {
       "video_id": "t8eXP3Apfac",
@@ -65,29 +65,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/t8eXP3Apfac/hqdefault.jpg",
       "duration": "PT8M33S",
       "duration_seconds": 513,
-      "view_count": 205565,
-      "like_count": 10635,
-      "comment_count": 948,
+      "view_count": 217479,
+      "like_count": 11156,
+      "comment_count": 974,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=t8eXP3Apfac"
     },
     {
-      "video_id": "Kf11-GIUosY",
-      "title": "Summer House",
-      "description": "Summer House invites viewers to spend the sunny season with a wild group of friends in one of the most exclusive beach areas on the East Coast.",
-      "channel_title": "Bravo",
-      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
-      "published_at": "2026-05-13T08:43:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kf11-GIUosY/hqdefault.jpg",
-      "duration": "PT1H31M5S",
-      "duration_seconds": 5465,
+      "video_id": "UiOeOJVigx8",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-13T09:41:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UiOeOJVigx8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Kf11-GIUosY"
+      "url": "https://www.youtube.com/watch?v=UiOeOJVigx8"
     },
     {
       "video_id": "HIqblanV6H8",
@@ -99,9 +99,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 47449,
-      "like_count": 1963,
-      "comment_count": 232,
+      "view_count": 48578,
+      "like_count": 1975,
+      "comment_count": 234,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
@@ -116,9 +116,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 1378656,
-      "like_count": 28875,
-      "comment_count": 3330,
+      "view_count": 1396506,
+      "like_count": 28817,
+      "comment_count": 3370,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -135,21 +135,21 @@
       "url": "https://www.youtube.com/watch?v=7i8PKBF3plY"
     },
     {
-      "video_id": "Db4qkvPwD20",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-13T04:19:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Db4qkvPwD20/hqdefault.jpg",
-      "duration": "PT2H1M9S",
-      "duration_seconds": 7269,
+      "video_id": "Kf11-GIUosY",
+      "title": "Summer House",
+      "description": "Summer House invites viewers to spend the sunny season with a wild group of friends in one of the most exclusive beach areas on the East Coast.",
+      "channel_title": "Bravo",
+      "channel_id": "UCbFaRGY8Bw3eLldVIFPDYhw",
+      "published_at": "2026-05-13T08:43:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kf11-GIUosY/hqdefault.jpg",
+      "duration": "PT1H31M5S",
+      "duration_seconds": 5465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=Db4qkvPwD20"
+      "url": "https://www.youtube.com/watch?v=Kf11-GIUosY"
     },
     {
       "video_id": "WihUVPVeZSw",
@@ -161,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WihUVPVeZSw/hqdefault.jpg",
       "duration": "PT1M",
       "duration_seconds": 60,
-      "view_count": 126502,
-      "like_count": 7008,
-      "comment_count": 619,
+      "view_count": 129197,
+      "like_count": 7033,
+      "comment_count": 623,
       "category_id": "20",
       "tags": [
         "LEGO Batman",
@@ -180,38 +180,38 @@
       "url": "https://www.youtube.com/watch?v=WihUVPVeZSw"
     },
     {
-      "video_id": "8i3NyY2yQN8",
-      "title": "Anderson Cooper 360",
-      "description": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-13T07:38:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8i3NyY2yQN8/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "sOH1lWpZj-Y",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-13T09:07:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sOH1lWpZj-Y/hqdefault.jpg",
+      "duration": "PT1H20S",
+      "duration_seconds": 3620,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=8i3NyY2yQN8"
+      "url": "https://www.youtube.com/watch?v=sOH1lWpZj-Y"
     },
     {
-      "video_id": "W2nmn9lTbj8",
-      "title": "Avengers: Endgame",
-      "description": "The remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos, the evil demigod who decimated the planet and the universe.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-13T07:08:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W2nmn9lTbj8/hqdefault.jpg",
-      "duration": "PT3H46M4S",
-      "duration_seconds": 13564,
+      "video_id": "qXsXM2-UWWw",
+      "title": "CNN NewsNight With Abby Phillip",
+      "description": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-13T09:25:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qXsXM2-UWWw/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=W2nmn9lTbj8"
+      "url": "https://www.youtube.com/watch?v=qXsXM2-UWWw"
     }
   ],
   "videos_with_transcripts": [],
@@ -226,9 +226,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1ymnCXU6iyA/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 1396781,
-      "like_count": 55726,
-      "comment_count": 4792,
+      "view_count": 1425018,
+      "like_count": 55909,
+      "comment_count": 4866,
       "category_id": "20",
       "tags": [
         "Marvel",
@@ -243,21 +243,21 @@
       "url": "https://www.youtube.com/watch?v=1ymnCXU6iyA"
     },
     {
-      "video_id": "3mzL7RE-TUQ",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-13T07:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3mzL7RE-TUQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "TlxPnv5VMco",
+      "title": "Buffalo Sabres at Montreal Canadiens",
+      "description": "Montreal face Buffalo in Atlantic Division finals for Game 4 of the Eastern Conference Semifinals. Buffalo leans on Tage Thompson and his 40 goals to break through a Montreal defense unit that led the NHL in blocked shots this year.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-13T08:18:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TlxPnv5VMco/hqdefault.jpg",
+      "duration": "PT3H5M1S",
+      "duration_seconds": 11101,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=3mzL7RE-TUQ"
+      "url": "https://www.youtube.com/watch?v=TlxPnv5VMco"
     },
     {
       "video_id": "t8eXP3Apfac",
@@ -269,12 +269,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/t8eXP3Apfac/hqdefault.jpg",
       "duration": "PT8M33S",
       "duration_seconds": 513,
-      "view_count": 205565,
-      "like_count": 10635,
-      "comment_count": 948,
+      "view_count": 217479,
+      "like_count": 11156,
+      "comment_count": 974,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=t8eXP3Apfac"
+    },
+    {
+      "video_id": "UiOeOJVigx8",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-13T09:41:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UiOeOJVigx8/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UiOeOJVigx8"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 48578,
+      "like_count": 1975,
+      "comment_count": 234,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "Kf11-GIUosY",
@@ -294,40 +328,6 @@
       "url": "https://www.youtube.com/watch?v=Kf11-GIUosY"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 47449,
-      "like_count": 1963,
-      "comment_count": 232,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
-    },
-    {
-      "video_id": "Db4qkvPwD20",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-13T04:19:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Db4qkvPwD20/hqdefault.jpg",
-      "duration": "PT2H1M9S",
-      "duration_seconds": 7269,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Db4qkvPwD20"
-    },
-    {
       "video_id": "WihUVPVeZSw",
       "title": "LEGO® Batman™: Legacy of the Dark Knight – Official Deluxe Edition Trailer",
       "description": "Alfred, it’s time to open the Deluxe wing of the Batcave.\n\nPre-order the Deluxe Edition of #LEGOBatmanGame and play early on May 19! \n\nPurchase Now: legobatmangame.com/#preorder \n\nLEGO Batman: Legacy of the Dark Knight is a brand-new open world action adventure video game that invites players to embark on Bruce Wayne’s epic journey to become the hero of Gotham City, inspired by decades of Batman films, television, comic books, and games, and jam-packed with Batman nostalgia, DC lore, and TT Games’ signature brand of fun-filled LEGO humor.  \n \nGotham City’s latest news, in the palm of your hand:   \nInstagram: https://go.wbgames.com/LEGOBatmanInstagram  \nFacebook:  https://go.wbgames.com/LEGOBatmanFacebook  \nTikTok: https://go.wbgames.com/WBGamesTikTok   \nX: https://go.wbgames.com/LEGOBatmanX\n \nFollow The LEGO Group:  \nInstagram: https://www.instagram.com/lego/   \nFacebook: https://www.facebook.com/LEGO/   \nYouTube: https://www.youtube.com/@LEGO   \nTikTok: https://www.tiktok.com/@lego   ",
@@ -337,9 +337,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WihUVPVeZSw/hqdefault.jpg",
       "duration": "PT1M",
       "duration_seconds": 60,
-      "view_count": 126502,
-      "like_count": 7008,
-      "comment_count": 619,
+      "view_count": 129197,
+      "like_count": 7033,
+      "comment_count": 623,
       "category_id": "20",
       "tags": [
         "LEGO Batman",
@@ -356,38 +356,38 @@
       "url": "https://www.youtube.com/watch?v=WihUVPVeZSw"
     },
     {
-      "video_id": "8i3NyY2yQN8",
-      "title": "Anderson Cooper 360",
-      "description": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-13T07:38:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8i3NyY2yQN8/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "video_id": "sOH1lWpZj-Y",
+      "title": "The Last Word With Lawrence O'Donnell",
+      "description": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-13T09:07:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sOH1lWpZj-Y/hqdefault.jpg",
+      "duration": "PT1H20S",
+      "duration_seconds": 3620,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=8i3NyY2yQN8"
+      "url": "https://www.youtube.com/watch?v=sOH1lWpZj-Y"
     },
     {
-      "video_id": "W2nmn9lTbj8",
-      "title": "Avengers: Endgame",
-      "description": "The remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos, the evil demigod who decimated the planet and the universe.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-13T07:08:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W2nmn9lTbj8/hqdefault.jpg",
-      "duration": "PT3H46M4S",
-      "duration_seconds": 13564,
+      "video_id": "qXsXM2-UWWw",
+      "title": "CNN NewsNight With Abby Phillip",
+      "description": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-13T09:25:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qXsXM2-UWWw/hqdefault.jpg",
+      "duration": "PT1H1M4S",
+      "duration_seconds": 3664,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=W2nmn9lTbj8"
+      "url": "https://www.youtube.com/watch?v=qXsXM2-UWWw"
     },
     {
       "video_id": "7i8PKBF3plY",
@@ -399,9 +399,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7i8PKBF3plY/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 1378656,
-      "like_count": 28875,
-      "comment_count": 3330,
+      "view_count": 1396506,
+      "like_count": 28817,
+      "comment_count": 3370,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -423,89 +423,52 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 3154953,
-        "average_views_per_video": 315495.3,
-        "unidentified_categories": true
+        "total_views": 3216778,
+        "average_views_per_video": 321678
       },
       "content_trends": {
-        "entertainment": {
-          "video_titles": [
-            "Devil Dinosaur: Prehistoric Powerhouse | Character Reveal Trailer | Marvel Rivals",
-            "Honest Trailers | A Knight's Tale",
-            "LEGO® Batman™: Legacy of the Dark Knight – Official Deluxe Edition Trailer",
-            "Avengers: Endgame"
-          ],
-          "key_insight": "Superhero and nostalgic entertainment content remains popular, with both Marvel and LEGO leveraging well-loved franchises to attract views."
-        },
-        "news_and_politics": {
-          "video_titles": [
-            "Jesse Watters Primetime",
-            "Deadline: White House",
-            "Anderson Cooper 360"
-          ],
-          "key_insight": "Consistent interest in political content, indicating a stable audience for news channels despite the category being unspecified."
-        },
-        "music_and_culture": {
-          "video_titles": [
-            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
-          ],
-          "key_insight": "Emerging music trends from specific regions (e.g., PNG) suggest potential growth in niche cultural music markets."
-        },
-        "television_and_series": {
-          "video_titles": [
-            "Summer House",
-            "The Boys Season 5 Episode 7 Trailer | 'The Penultimate Episode'"
-          ],
-          "key_insight": "Ongoing interest in reality TV and popular streaming series like 'The Boys' indicates a demand for serialized content, especially leading up to season finales."
-        }
+        "categories": [
+          "Entertainment",
+          "Sports",
+          "News",
+          "Music"
+        ],
+        "observations": [
+          "The content is diverse, spanning entertainment trailers, sports, news, and music.",
+          "Trailers, both for movies and TV shows, appear to be popular, indicating a strong interest in upcoming entertainment releases.",
+          "Sports content, represented by the 'Buffalo Sabres at Montreal Canadiens' video, is prominent, suggesting that live events or highlights are engaging for viewers."
+        ]
       },
       "creator_patterns": {
         "top_channels": [
-          {
-            "name": "Marvel Rivals",
-            "videos": 1,
-            "category_focus": "Entertainment"
-          },
-          {
-            "name": "FOX News",
-            "videos": 1,
-            "category_focus": "News & Politics"
-          },
-          {
-            "name": "Screen Junkies",
-            "videos": 1,
-            "category_focus": "Entertainment"
-          },
-          {
-            "name": "Bravo",
-            "videos": 1,
-            "category_focus": "Television & Series"
-          },
-          {
-            "name": "Tasik Yard",
-            "videos": 1,
-            "category_focus": "Music & Culture"
-          }
+          "Marvel Rivals",
+          "ESPN",
+          "Screen Junkies",
+          "FOX News",
+          "Tasik Yard"
         ],
-        "key_insight": "Channels with a strong brand identity in their niche (e.g., Marvel in entertainment, FOX in news) are effective in attracting views, suggesting that new creators should focus on building niche expertise and brand recognition."
+        "observations": [
+          "Channels with strong brand recognition, such as Marvel and ESPN, continue to capture viewer interest.",
+          "Diverse content from both mainstream media (FOX News, CNN) and niche creators (Tasik Yard) indicates a varied audience."
+        ]
       },
       "market_opportunities": {
-        "emerging_trends": [
-          {
-            "trend": "Geo-specific music content (e.g., PNG)",
-            "opportunity": "Developing content partnerships with local artists or exploring niche music genres can tap into underserved markets."
-          },
-          {
-            "trend": "Serialized streaming content",
-            "opportunity": "Creating companion content (e.g., reviews, discussions) around popular series can capitalize on viewer interest during peak release times."
-          }
-        ],
-        "unexplored_categories": [
-          {
-            "category": "Gaming",
-            "suggestion": "Consider exploring gaming content, especially with tie-ins to popular franchises like LEGO and Marvel, to leverage existing interest."
-          }
-        ]
+        "entertainment": {
+          "insight": "Invest in creating high-quality trailers and teasers for upcoming films, series, and games to capture audience interest.",
+          "action": "Collaborate with studios and gaming companies to produce exclusive reveal content."
+        },
+        "sports": {
+          "insight": "Leverage the popularity of sports content by focusing on highlight reels and commentary.",
+          "action": "Partner with sports leagues to provide behind-the-scenes content and expert analysis."
+        },
+        "news": {
+          "insight": "Capitalize on the demand for timely and engaging news content.",
+          "action": "Develop a strategy for quick-turnaround news segments that are both informative and engaging."
+        },
+        "music": {
+          "insight": "Emerging music videos, particularly from lesser-known artists, can engage niche audiences.",
+          "action": "Scout for up-and-coming artists and create music video content targeting specific cultural or regional markets."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -513,7 +476,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 315495
+        "avg_views_per_video": 321677
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
