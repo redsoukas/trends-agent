@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T18:46:37.372479",
+  "timestamp": "2026-05-14T21:33:00.892535",
   "date": "2026-05-14",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 650368,
-      "like_count": 20244,
-      "comment_count": 1716,
+      "view_count": 706831,
+      "like_count": 22057,
+      "comment_count": 1864,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 4595119,
-      "like_count": 95660,
-      "comment_count": 5491,
+      "view_count": 10775300,
+      "like_count": 103516,
+      "comment_count": 5869,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
@@ -101,21 +101,21 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 635565,
-      "like_count": 17396,
-      "comment_count": 1983,
+      "view_count": 694617,
+      "like_count": 17461,
+      "comment_count": 1989,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
     },
     {
-      "video_id": "ja3HI5Uqoa8",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "n2NuI01U3gA",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-14T08:10:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ja3HI5Uqoa8/hqdefault.jpg",
+      "published_at": "2026-05-14T19:50:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n2NuI01U3gA/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -123,7 +123,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ja3HI5Uqoa8"
+      "url": "https://www.youtube.com/watch?v=n2NuI01U3gA"
     },
     {
       "video_id": "HIqblanV6H8",
@@ -135,8 +135,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 56507,
-      "like_count": 2103,
+      "view_count": 56838,
+      "like_count": 2115,
       "comment_count": 241,
       "category_id": "22",
       "tags": [],
@@ -152,9 +152,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 1729989,
-      "like_count": 67695,
-      "comment_count": 4903,
+      "view_count": 1898593,
+      "like_count": 70594,
+      "comment_count": 5019,
       "category_id": "1",
       "tags": [
         "a24",
@@ -171,49 +171,40 @@
       "url": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
-      "video_id": "X9OUTrD_Rjg",
-      "title": "The Bourne Identity",
-      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-14T10:21:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X9OUTrD_Rjg/hqdefault.jpg",
-      "duration": "PT2H31M6S",
-      "duration_seconds": 9066,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=X9OUTrD_Rjg"
+      "video_id": "fPmrzygqO8U",
+      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-14T15:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
+      "duration": "PT2H6M10S",
+      "duration_seconds": 7570,
+      "view_count": 690632,
+      "like_count": 65624,
+      "comment_count": 5106,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
     },
     {
-      "video_id": "ga8bJyvnSYs",
-      "title": "The Hawk | Official Teaser | Netflix",
-      "description": "Get ready fore the return of an icon. The Hawk, a new Netflix comedy series starring Will Ferrell, debuts July 16, only on Netflix.\r\n\r\nLonnie Hawkins, (Will Ferrell) 2004's number one golfer, struggles on the back nine of his career to recapture his magic. His body says retire, but his heart says he's not done yet. His ex-wife and his son Lance, golf's new golden boy, know he's through. But with one more major to win to complete golf's Grand Slam, Lonnie refuses to believe he's anything other than one stroke away from the greatest comeback in golf history.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81695312\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThe Hawk | Official Teaser | Netflix\r\nhttps://www.youtube.com/@Netf",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-13T19:05:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ga8bJyvnSYs/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 214842,
-      "like_count": 3520,
-      "comment_count": 343,
+      "video_id": "nmI2a-Ivu88",
+      "title": "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!",
+      "description": "Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey X-Men, Hulk, Punisher One Last Kill Ending Explained, Spider-Man New Powers & Abilities & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-14T18:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
+      "duration": "PT12M57S",
+      "duration_seconds": 777,
+      "view_count": 51360,
+      "like_count": 2464,
+      "comment_count": 219,
       "category_id": "24",
-      "tags": [
-        "Anchorman",
-        "Chris Parnell",
-        "Comedy",
-        "Comedy Series",
-        "Elf",
-        "Fortune Feimster",
-        "Gloria Sanchez",
-        "Golf",
-        "Jimmy Tatro",
-        "Lonnie Hawkins"
-      ],
-      "url": "https://www.youtube.com/watch?v=ga8bJyvnSYs"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,9 +219,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 650368,
-      "like_count": 20244,
-      "comment_count": 1716,
+      "view_count": 706831,
+      "like_count": 22057,
+      "comment_count": 1864,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -273,9 +264,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 4595119,
-      "like_count": 95660,
-      "comment_count": 5491,
+      "view_count": 10775300,
+      "like_count": 103516,
+      "comment_count": 5869,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
@@ -298,13 +289,13 @@
       "url": "https://www.youtube.com/watch?v=JiEd-USDNAM"
     },
     {
-      "video_id": "ja3HI5Uqoa8",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.",
+      "video_id": "n2NuI01U3gA",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-14T08:10:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ja3HI5Uqoa8/hqdefault.jpg",
+      "published_at": "2026-05-14T19:50:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n2NuI01U3gA/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -312,7 +303,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ja3HI5Uqoa8"
+      "url": "https://www.youtube.com/watch?v=n2NuI01U3gA"
     },
     {
       "video_id": "HIqblanV6H8",
@@ -324,8 +315,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 56507,
-      "like_count": 2103,
+      "view_count": 56838,
+      "like_count": 2115,
       "comment_count": 241,
       "category_id": "22",
       "tags": [],
@@ -341,9 +332,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 1729989,
-      "like_count": 67695,
-      "comment_count": 4903,
+      "view_count": 1898593,
+      "like_count": 70594,
+      "comment_count": 5019,
       "category_id": "1",
       "tags": [
         "a24",
@@ -360,49 +351,40 @@
       "url": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
-      "video_id": "X9OUTrD_Rjg",
-      "title": "The Bourne Identity",
-      "description": "A woman helps an amnesiac, who has a dangerous past, to dodge assassins as he tries to learn about himself.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-14T10:21:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X9OUTrD_Rjg/hqdefault.jpg",
-      "duration": "PT2H31M6S",
-      "duration_seconds": 9066,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=X9OUTrD_Rjg"
+      "video_id": "fPmrzygqO8U",
+      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-14T15:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
+      "duration": "PT2H6M10S",
+      "duration_seconds": 7570,
+      "view_count": 690632,
+      "like_count": 65624,
+      "comment_count": 5106,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
     },
     {
-      "video_id": "ga8bJyvnSYs",
-      "title": "The Hawk | Official Teaser | Netflix",
-      "description": "Get ready fore the return of an icon. The Hawk, a new Netflix comedy series starring Will Ferrell, debuts July 16, only on Netflix.\r\n\r\nLonnie Hawkins, (Will Ferrell) 2004's number one golfer, struggles on the back nine of his career to recapture his magic. His body says retire, but his heart says he's not done yet. His ex-wife and his son Lance, golf's new golden boy, know he's through. But with one more major to win to complete golf's Grand Slam, Lonnie refuses to believe he's anything other than one stroke away from the greatest comeback in golf history.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81695312\r\n\r\nAbout Netflix:\r\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \r\n\r\nThe Hawk | Official Teaser | Netflix\r\nhttps://www.youtube.com/@Netf",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-13T19:05:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ga8bJyvnSYs/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 214842,
-      "like_count": 3520,
-      "comment_count": 343,
+      "video_id": "nmI2a-Ivu88",
+      "title": "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!",
+      "description": "Spider-Man Brand New Day Trailer 2026. Sadie Sink Jean Grey X-Men, Hulk, Punisher One Last Kill Ending Explained, Spider-Man New Powers & Abilities & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-14T18:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
+      "duration": "PT12M57S",
+      "duration_seconds": 777,
+      "view_count": 51360,
+      "like_count": 2464,
+      "comment_count": 219,
       "category_id": "24",
-      "tags": [
-        "Anchorman",
-        "Chris Parnell",
-        "Comedy",
-        "Comedy Series",
-        "Elf",
-        "Fortune Feimster",
-        "Gloria Sanchez",
-        "Golf",
-        "Jimmy Tatro",
-        "Lonnie Hawkins"
-      ],
-      "url": "https://www.youtube.com/watch?v=ga8bJyvnSYs"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
     },
     {
       "video_id": "v-SnFA5v9P8",
@@ -414,9 +396,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 635565,
-      "like_count": 17396,
-      "comment_count": 1983,
+      "view_count": 694617,
+      "like_count": 17461,
+      "comment_count": 1989,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
@@ -425,61 +407,92 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 14874171,
+        "average_views_per_video": 1487417.1,
+        "unknown_categories": true
+      },
       "content_trends": {
-        "insights": [
-          {
-            "trend": "Official Teasers and Trailers",
-            "observation": "3 out of 10 videos are official teasers or trailers from prominent platforms such as HBO Max, LAIKA Studios, and Netflix.",
-            "opportunity": "Capitalize on popular franchises or upcoming releases to generate interest. Consider collaborations or early access content."
-          },
-          {
-            "trend": "Sports Content",
-            "observation": "2 out of 10 videos are sports-related, specifically focusing on live events (NBA and NHL games).",
-            "opportunity": "Leverage real-time content and sports analytics to engage audiences, especially during game seasons."
-          },
-          {
-            "trend": "Music and Entertainment",
-            "observation": "Presence of unique music content (e.g., PNG Music) indicates a diverse audience interest.",
-            "opportunity": "Explore niche music genres or culturally unique content to attract targeted demographics."
-          },
-          {
-            "trend": "Established Media Franchises",
-            "observation": "Videos like 'The Bourne Identity' capitalize on established franchises.",
-            "opportunity": "Expand on legacy content by creating spin-offs, deep dives, or retrospective content."
-          }
-        ]
+        "entertainment": {
+          "description": "A strong presence of entertainment-focused content, including teasers and trailers for upcoming shows and movies.",
+          "videos": [
+            "Stuart Fails to Save the Universe | Official Teaser | HBO Max",
+            "Wildwood – Official Teaser Trailer",
+            "Backrooms | Official Promo | A24",
+            "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!"
+          ],
+          "insights": [
+            "Teasers and trailers are highly popular, suggesting a market demand for sneak peeks of upcoming entertainment content.",
+            "Collaborations with high-profile personalities (e.g., Sadie Sink) are likely driving increased engagement."
+          ]
+        },
+        "sports": {
+          "description": "Live sports events and discussions are capturing audience attention.",
+          "videos": [
+            "Cleveland Cavaliers at Detroit Pistons",
+            "Minnesota Wild at Colorado Avalanche"
+          ],
+          "insights": [
+            "Live sports content continues to attract significant viewership, suggesting opportunities for real-time content and live streaming.",
+            "Regional sports events have a dedicated audience, indicating potential for localized sports coverage expansion."
+          ]
+        },
+        "gaming": {
+          "description": "Gaming content, including new game releases and expansions, is trending.",
+          "videos": [
+            "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
+            "IT'S BEAUTIFUL | Subnautica 2 - Part 1"
+          ],
+          "insights": [
+            "New game releases and updates are key drivers of viewership in the gaming sector.",
+            "Highlighting unique features and updates in games can enhance viewer engagement."
+          ]
+        },
+        "news": {
+          "description": "News and commentary content are present, though less dominant.",
+          "videos": [
+            "FOX and Friends"
+          ],
+          "insights": [
+            "News channels maintain a steady viewership, offering potential for timely and analytical content."
+          ]
+        },
+        "music": {
+          "description": "Music videos and promotions, including niche and international music, are part of the trend.",
+          "videos": [
+            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
+          ],
+          "insights": [
+            "Emerging and international music content can capture niche audiences, indicating growth opportunities in less saturated markets."
+          ]
+        }
       },
       "creator_patterns": {
+        "top_channels": [
+          "HBO Max",
+          "ESPN",
+          "LAIKA Studios",
+          "TNT",
+          "Marvel Rivals"
+        ],
         "insights": [
-          {
-            "pattern": "Large Media Networks",
-            "observation": "Top channels such as HBO Max and ESPN leverage their brand presence to reach wide audiences.",
-            "opportunity": "Smaller creators can partner with large media networks for cross-promotion or feature guest appearances."
-          },
-          {
-            "pattern": "Diverse Content Formats",
-            "observation": "Content varies from teasers to live sports and music, highlighting varied consumption preferences.",
-            "opportunity": "Creators should diversify content formats to cater to different audience segments and increase engagement."
-          }
+          "Major entertainment and sports networks dominate trending content, indicating the influence of established brands.",
+          "Cross-promotional opportunities between different media types (e.g., movies, sports, gaming) could enhance audience reach."
         ]
       },
       "market_opportunities": {
-        "insights": [
-          {
-            "opportunity": "Emerging Trends in Niche Content",
-            "observation": "Videos like 'Innocent Tumas' suggest an interest in niche or lesser-known content.",
-            "actionable_step": "Conduct market research to identify emerging trends in niche markets and create content around them."
-          },
-          {
-            "opportunity": "Interactive and Engaging Content",
-            "observation": "The success of trailers and teasers indicates a demand for visually engaging and interactive content.",
-            "actionable_step": "Invest in high-quality production and interactive content features, such as polls or live Q&A sessions."
-          },
-          {
-            "opportunity": "Localized Content Strategies",
-            "observation": "Localized content, such as regional music, indicates potential in targeting specific geographic audiences.",
-            "actionable_step": "Develop content strategies that focus on localization and cultural relevance to increase market penetration."
-          }
+        "content_creation": [
+          "Invest in teaser and trailer content for upcoming entertainment releases to capture early interest.",
+          "Develop live sports event coverage, with a focus on local and regional sports to attract dedicated fan bases."
+        ],
+        "audience_engagement": [
+          "Leverage high-profile personalities and collaborations in content to boost viewer engagement.",
+          "Expand into niche music markets, particularly international genres, to tap into underserved audiences."
+        ],
+        "platform_strategy": [
+          "Consider partnerships with top channels to benefit from their established audience bases.",
+          "Explore multi-platform promotional strategies to maximize content visibility across diverse audience segments."
         ]
       },
       "metadata_stats": {
@@ -488,7 +501,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 788239
+        "avg_views_per_video": 1487417
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
