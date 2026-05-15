@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-15T01:03:21.933541",
+  "timestamp": "2026-05-15T04:28:21.850287",
   "date": "2026-05-15",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 759076,
-      "like_count": 23929,
-      "comment_count": 2021,
+      "view_count": 812497,
+      "like_count": 25535,
+      "comment_count": 2136,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
       "duration": "PT12M57S",
       "duration_seconds": 777,
-      "view_count": 109186,
-      "like_count": 3735,
-      "comment_count": 314,
+      "view_count": 147643,
+      "like_count": 4568,
+      "comment_count": 345,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
       "duration": "PT2H6M10S",
       "duration_seconds": 7570,
-      "view_count": 1122818,
-      "like_count": 83909,
-      "comment_count": 6127,
+      "view_count": 1470022,
+      "like_count": 98274,
+      "comment_count": 6913,
       "category_id": "20",
       "tags": [
         "jacksepticeye"
@@ -103,46 +103,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 17964421,
-      "like_count": 110997,
-      "comment_count": 6246,
+      "view_count": 18612265,
+      "like_count": 117021,
+      "comment_count": 6547,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
     },
     {
-      "video_id": "1V3pIp2GBXg",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "L7j1BRETRpg",
+      "title": "The Story With Martha MacCallum",
+      "description": "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-14T21:10:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1V3pIp2GBXg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-05-15T02:27:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L7j1BRETRpg/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1V3pIp2GBXg"
-    },
-    {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 57770,
-      "like_count": 2135,
-      "comment_count": 241,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=L7j1BRETRpg"
     },
     {
       "video_id": "2z6a6NUFlsU",
@@ -154,9 +137,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 2163987,
-      "like_count": 73388,
-      "comment_count": 5106,
+      "view_count": 2422269,
+      "like_count": 74570,
+      "comment_count": 5178,
       "category_id": "1",
       "tags": [
         "a24",
@@ -199,12 +182,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 701027,
-      "like_count": 17523,
-      "comment_count": 1992,
+      "view_count": 704170,
+      "like_count": 17573,
+      "comment_count": 1997,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
+    },
+    {
+      "video_id": "vjP6J-vpbmo",
+      "title": "LA Chargers Halo Schedule Release 2026",
+      "description": "The LA Chargers unveil their 2026 NFL Schedule Release video: Halo edition, on one of the league’s biggest announcement days of the year. Watch the Bolts roast the entire NFL in the world of Halo Infinite using Forge mode for unlimited customization and creativity.\n\nPrepare for the 2026 season with matchups featuring Justin Herbert and Drake Maye, plus Derwin James and Travis Kelce, as well as new faces like Fernando Mendoza, Jeremiyah Love, and Rueben Bain Jr.\n\nSee if you can spot cameos by Pat McAfee, Cam Newton, Jaylen Waddle, and Puka Nacua. How many easter eggs can you find? \n\n0:00 - Intro\n0:22 - Week 1 vs. Arizona Cardinals\n0:37 - Week 2 vs. Las Vegas Raiders\n0:51 - Week 3 at Buffalo Bills\n1:19 - Week 4 at Seattle Seahawks\n1:38 - Week 5 vs. Denver Broncos\n1:57 - Week 6 at Kansas City Chiefs\n2:10 - Week 7 BYE\n2:18 - Week 8 at Los Angeles Rams\n2:35 - Week 9 vs. Houston Texans\n2:56 - Week 10 at Baltimore Ravens [MNF]\n3:12 - Week 11 vs. New York Jets\n3:29 - Week 12 vs. New England Pa",
+      "channel_title": "Los Angeles Chargers",
+      "channel_id": "UCUyz_gEY_N-KBU4zjt2s-uQ",
+      "published_at": "2026-05-14T23:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vjP6J-vpbmo/hqdefault.jpg",
+      "duration": "PT6M22S",
+      "duration_seconds": 382,
+      "view_count": 95381,
+      "like_count": 7684,
+      "comment_count": 951,
+      "category_id": "17",
+      "tags": [
+        "Chargers",
+        "Los Angeles Chargers",
+        "LA Chargers",
+        "ESPN",
+        "Football News",
+        "NFL Rumors",
+        "Chargers Training Camp",
+        "NFL News",
+        "LA Chargers News",
+        "Football"
+      ],
+      "url": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
     }
   ],
   "videos_with_transcripts": [],
@@ -219,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 759076,
-      "like_count": 23929,
-      "comment_count": 2021,
+      "view_count": 812497,
+      "like_count": 25535,
+      "comment_count": 2136,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -264,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
       "duration": "PT12M57S",
       "duration_seconds": 777,
-      "view_count": 109186,
-      "like_count": 3735,
-      "comment_count": 314,
+      "view_count": 147643,
+      "like_count": 4568,
+      "comment_count": 345,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
@@ -281,9 +292,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
       "duration": "PT2H6M10S",
       "duration_seconds": 7570,
-      "view_count": 1122818,
-      "like_count": 83909,
-      "comment_count": 6127,
+      "view_count": 1470022,
+      "like_count": 98274,
+      "comment_count": 6913,
       "category_id": "20",
       "tags": [
         "jacksepticeye"
@@ -300,46 +311,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 17964421,
-      "like_count": 110997,
-      "comment_count": 6246,
+      "view_count": 18612265,
+      "like_count": 117021,
+      "comment_count": 6547,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
     },
     {
-      "video_id": "1V3pIp2GBXg",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
+      "video_id": "L7j1BRETRpg",
+      "title": "The Story With Martha MacCallum",
+      "description": "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-14T21:10:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1V3pIp2GBXg/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "published_at": "2026-05-15T02:27:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L7j1BRETRpg/hqdefault.jpg",
+      "duration": "PT1H1M6S",
+      "duration_seconds": 3666,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1V3pIp2GBXg"
-    },
-    {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 57770,
-      "like_count": 2135,
-      "comment_count": 241,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=L7j1BRETRpg"
     },
     {
       "video_id": "2z6a6NUFlsU",
@@ -351,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
       "duration": "PT1M7S",
       "duration_seconds": 67,
-      "view_count": 2163987,
-      "like_count": 73388,
-      "comment_count": 5106,
+      "view_count": 2422269,
+      "like_count": 74570,
+      "comment_count": 5178,
       "category_id": "1",
       "tags": [
         "a24",
@@ -387,6 +381,34 @@
       "url": "https://www.youtube.com/watch?v=JiEd-USDNAM"
     },
     {
+      "video_id": "vjP6J-vpbmo",
+      "title": "LA Chargers Halo Schedule Release 2026",
+      "description": "The LA Chargers unveil their 2026 NFL Schedule Release video: Halo edition, on one of the league’s biggest announcement days of the year. Watch the Bolts roast the entire NFL in the world of Halo Infinite using Forge mode for unlimited customization and creativity.\n\nPrepare for the 2026 season with matchups featuring Justin Herbert and Drake Maye, plus Derwin James and Travis Kelce, as well as new faces like Fernando Mendoza, Jeremiyah Love, and Rueben Bain Jr.\n\nSee if you can spot cameos by Pat McAfee, Cam Newton, Jaylen Waddle, and Puka Nacua. How many easter eggs can you find? \n\n0:00 - Intro\n0:22 - Week 1 vs. Arizona Cardinals\n0:37 - Week 2 vs. Las Vegas Raiders\n0:51 - Week 3 at Buffalo Bills\n1:19 - Week 4 at Seattle Seahawks\n1:38 - Week 5 vs. Denver Broncos\n1:57 - Week 6 at Kansas City Chiefs\n2:10 - Week 7 BYE\n2:18 - Week 8 at Los Angeles Rams\n2:35 - Week 9 vs. Houston Texans\n2:56 - Week 10 at Baltimore Ravens [MNF]\n3:12 - Week 11 vs. New York Jets\n3:29 - Week 12 vs. New England Pa",
+      "channel_title": "Los Angeles Chargers",
+      "channel_id": "UCUyz_gEY_N-KBU4zjt2s-uQ",
+      "published_at": "2026-05-14T23:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vjP6J-vpbmo/hqdefault.jpg",
+      "duration": "PT6M22S",
+      "duration_seconds": 382,
+      "view_count": 95381,
+      "like_count": 7684,
+      "comment_count": 951,
+      "category_id": "17",
+      "tags": [
+        "Chargers",
+        "Los Angeles Chargers",
+        "LA Chargers",
+        "ESPN",
+        "Football News",
+        "NFL Rumors",
+        "Chargers Training Camp",
+        "NFL News",
+        "LA Chargers News",
+        "Football"
+      ],
+      "url": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
+    },
+    {
       "video_id": "v-SnFA5v9P8",
       "title": "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
       "description": "✨ Step into the dawn of a new era and witness the power of Project: Heroic Age.\n\nAcross the timeline, a new stage of technological marvel unfolds. What began as a quest for ultimate stability has evolved into a masterclass of engineering and power. At the heart of this advancement lies the Punch Chronovium—a core capable of distorting space-time and unleashing dazzling energy disturbances that will redefine the battlefield.  \n\nUnlock exclusive rewards and elite cosmetics in the Season 8 Battle Pass: Project: Heroic Age. Witness the transformation as the Punch Chronovium ignites, shifting from a dull, dark red surface to a brilliant explosion of laser beams and shifting light.  \n\n🗓️ Season 8 begins on May 15th UTC!\n\nSecure your legacy. The Premium Battle Pass can be permanently unlocked after purchase, ensuring your progress through the Heroic Age is etched in history.  \n\nThe core is surging. The future is yours to claim. Power up in Project: Heroic Age.\n\nPlay free now on:\n \n🔹 Steam: ht",
@@ -396,9 +418,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 701027,
-      "like_count": 17523,
-      "comment_count": 1992,
+      "view_count": 704170,
+      "like_count": 17573,
+      "comment_count": 1997,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
@@ -408,37 +430,59 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_dominance": {
-          "description": "The majority of trending videos are centered around entertainment, including movie trailers, TV shows, and gaming content.",
-          "recommendation": "Creators should focus on releasing high-quality, engaging trailers and teasers to capture audience interest. Collaborating with popular franchises and exploring cross-media promotions can enhance visibility."
+        "entertainment_focus": {
+          "description": "A significant portion of trending content is related to entertainment, including movie trailers and teasers.",
+          "examples": [
+            "Stuart Fails to Save the Universe | Official Teaser | HBO Max",
+            "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!",
+            "Wildwood – Official Teaser Trailer",
+            "Backrooms | Official Promo | A24"
+          ],
+          "insight": "There is a strong demand for entertainment content, especially related to upcoming movies and shows. This aligns with the general interest in new releases and the anticipation they generate."
         },
-        "sports_and_news_content": {
-          "description": "Sports events and news-related content also appear in trending, indicating a steady interest in current events and sports.",
-          "recommendation": "Channels focusing on sports can benefit from timely highlights and commentary. News channels should emphasize breaking news and in-depth analysis to maintain interest."
+        "sports_content": {
+          "description": "Sports-related content is also part of the trending videos, focusing on live events and promotional schedules.",
+          "examples": [
+            "Cleveland Cavaliers at Detroit Pistons",
+            "Minnesota Wild at Colorado Avalanche",
+            "LA Chargers Halo Schedule Release 2026"
+          ],
+          "insight": "Sports content remains a staple in trending media, capturing a wide audience interested in live events and team updates."
         },
-        "gaming_influence": {
-          "description": "Gaming content, particularly related to popular franchises and new releases, remains a strong trend.",
-          "recommendation": "Gaming content creators should focus on new game releases, walkthroughs, and commentary. Collaborations with game developers for exclusive content can drive engagement."
+        "gaming_content": {
+          "description": "Gaming content continues to trend, with both gameplay and game-related announcements.",
+          "examples": [
+            "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+            "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals"
+          ],
+          "insight": "The gaming community remains highly engaged, with new game releases and updates drawing considerable attention."
         }
       },
       "creator_patterns": {
-        "high-profile_channels": {
-          "description": "Channels like HBO Max and ESPN are consistently trending, likely due to their established brand presence and high-quality content production.",
-          "recommendation": "Emerging creators should study these channels' content strategies, focusing on high production values and strategic partnerships to increase their reach."
+        "diverse_creators": {
+          "description": "A variety of channels from different niches are represented in the trending videos.",
+          "examples": [
+            "HBO Max",
+            "ESPN",
+            "Emergency Awesome",
+            "jacksepticeye",
+            "LAIKA Studios"
+          ],
+          "insight": "There is no single dominant creator, suggesting that trending status can be achieved by diverse content types and creators, from large networks to individual influencers."
         },
-        "diverse_content_strategies": {
-          "description": "Channels with diverse content types (such as Emergency Awesome and jacksepticeye) show that niche content can trend when aligned with current interests.",
-          "recommendation": "Creators should diversify their content offerings and stay attuned to trending topics within their niches to capture audience interest."
+        "potential_for_collaboration": {
+          "description": "Channels focusing on entertainment, sports, and gaming could benefit from cross-promotion.",
+          "insight": "Collaborative efforts between creators in similar or complementary niches could amplify reach and engagement."
         }
       },
       "market_opportunities": {
-        "cross-promotion_with_streaming_services": {
-          "description": "Trending content from HBO Max suggests opportunities for cross-promotion with streaming services.",
-          "recommendation": "Content creators can look to partner with streaming services for exclusive teasers, behind-the-scenes content, and interviews to expand their audience base."
+        "emerging_interests": {
+          "description": "The mix of entertainment, sports, and gaming indicates broad interest areas that can be tapped into.",
+          "insight": "Content creators and brands should consider producing content that intersects these categories, such as sports-themed gaming content or entertainment analysis related to sports events."
         },
-        "leveraging_trailer_releases": {
-          "description": "Trailers for upcoming films and series are consistently trending, indicating a strong audience interest.",
-          "recommendation": "Channels can capitalize on this trend by creating reaction videos, theory discussions, and breakdowns to engage fans of upcoming releases."
+        "content_format_exploration": {
+          "description": "Teasers and trailers are prominent, indicating a successful format for gaining views and engagement.",
+          "insight": "Exploring short, engaging video formats that highlight upcoming releases can capture audience interest effectively."
         }
       },
       "metadata_stats": {
@@ -447,7 +491,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2287828
+        "avg_views_per_video": 2426424
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
