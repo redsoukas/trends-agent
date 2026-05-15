@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-15T09:59:13.440181",
+  "timestamp": "2026-05-15T12:49:11.180806",
   "date": "2026-05-15",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,29 +22,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
       "duration": "PT12M57S",
       "duration_seconds": 777,
-      "view_count": 187209,
-      "like_count": 5221,
-      "comment_count": 380,
+      "view_count": 201615,
+      "like_count": 5577,
+      "comment_count": 398,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
     },
     {
-      "video_id": "DX0eFjAKfoM",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-15T07:08:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DX0eFjAKfoM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "kPt3iIbnrdk",
+      "title": "PGA Championship - Round 1",
+      "description": "First-round play begins at the PGA Championship. The world's top golfers gather to compete for the Wanamaker Trophy in the season's second major. Players look to establish an early lead on the leaderboard during today's opening 18 holes of play.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-15T07:50:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kPt3iIbnrdk/hqdefault.jpg",
+      "duration": "PT8H15S",
+      "duration_seconds": 28815,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=DX0eFjAKfoM"
+      "url": "https://www.youtube.com/watch?v=kPt3iIbnrdk"
     },
     {
       "video_id": "gnmc33Y55YI",
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 894611,
-      "like_count": 27168,
-      "comment_count": 2268,
+      "view_count": 916984,
+      "like_count": 28029,
+      "comment_count": 2346,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -75,23 +75,21 @@
       "url": "https://www.youtube.com/watch?v=gnmc33Y55YI"
     },
     {
-      "video_id": "fPmrzygqO8U",
-      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
-      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-05-14T15:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
-      "duration": "PT2H6M10S",
-      "duration_seconds": 7570,
-      "view_count": 1971238,
-      "like_count": 112693,
-      "comment_count": 7692,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
+      "video_id": "vQCGZCagY1w",
+      "title": "Montreal Canadiens at Buffalo Sabres",
+      "description": "Canadiens visit the Sabres for a pivotal Game 5 round of the Eastern Conference at KeyBank Center. The Sabres forward Zach Benson broke a 2-2 tie in Game 4 on a third-period power play on his 21st birthday in this matchup. The series is tied at 2-2.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-15T10:23:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vQCGZCagY1w/hqdefault.jpg",
+      "duration": "PT2H45M46S",
+      "duration_seconds": 9946,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vQCGZCagY1w"
     },
     {
       "video_id": "POneS8h1jyU",
@@ -103,119 +101,99 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 19659683,
-      "like_count": 123833,
-      "comment_count": 6899,
+      "view_count": 20519356,
+      "like_count": 127652,
+      "comment_count": 7063,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
     },
     {
-      "video_id": "byliYF8pot8",
-      "title": "Cleveland Cavaliers at Detroit Pistons",
-      "description": "Pistons host the Cavaliers for Game 5 of the Eastern Conference semifinals with the series tied 2-2.Detroit look to Cade Cunningham (23.9 PPG) to regain lead, while Cleveland relies on Donovan Mitchell following his 43-point performance in Game 4.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-14T11:49:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/byliYF8pot8/hqdefault.jpg",
-      "duration": "PT3H14M51S",
-      "duration_seconds": 11691,
+      "video_id": "LlhrIORIDOk",
+      "title": "Hannity",
+      "description": "Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-15T07:57:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LlhrIORIDOk/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=byliYF8pot8"
+      "url": "https://www.youtube.com/watch?v=LlhrIORIDOk"
     },
     {
-      "video_id": "2z6a6NUFlsU",
-      "title": "Backrooms | Official Promo | A24",
-      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nA film by Kane Parsons, starring Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett, and Lukita Maxwell. BACKROOMS – In Theaters May 29\n\nRELEASE DATE: May 29\nDIRECTOR: Kane Parsons\nCAST: Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett, and Lukita Maxwell\n\nGET TICKETS: https://backrooms.mov/\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: BACKROOMS, THE DEATH OF ROBIN HOOD, THE INVITE & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
-      "channel_title": "A24",
-      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
-      "published_at": "2026-05-13T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
-      "duration": "PT1M7S",
-      "duration_seconds": 67,
-      "view_count": 2641507,
-      "like_count": 75626,
-      "comment_count": 5218,
-      "category_id": "1",
-      "tags": [
-        "a24",
-        "a24 films",
-        "a24 trailers",
-        "independent films",
-        "trailer",
-        "HD",
-        "official",
-        "movie",
-        "film",
-        "a24 movies"
-      ],
-      "url": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "video_id": "vjP6J-vpbmo",
-      "title": "LA Chargers Halo Schedule Release 2026",
-      "description": "The LA Chargers unveil their 2026 NFL Schedule Release video: Halo edition, on one of the league’s biggest announcement days of the year. Watch the Bolts roast the entire NFL in the world of Halo Infinite using Forge mode for unlimited customization and creativity.\n\nPrepare for the 2026 season with matchups featuring Justin Herbert and Drake Maye, plus Derwin James and Travis Kelce, as well as new faces like Fernando Mendoza, Jeremiyah Love, and Rueben Bain Jr.\n\nSee if you can spot cameos by Pat McAfee, Cam Newton, Jaylen Waddle, and Puka Nacua. How many easter eggs can you find? \n\n0:00 - Intro\n0:22 - Week 1 vs. Arizona Cardinals\n0:37 - Week 2 vs. Las Vegas Raiders\n0:51 - Week 3 at Buffalo Bills\n1:19 - Week 4 at Seattle Seahawks\n1:38 - Week 5 vs. Denver Broncos\n1:57 - Week 6 at Kansas City Chiefs\n2:10 - Week 7 BYE\n2:18 - Week 8 at Los Angeles Rams\n2:35 - Week 9 vs. Houston Texans\n2:56 - Week 10 at Baltimore Ravens [MNF]\n3:12 - Week 11 vs. New York Jets\n3:29 - Week 12 vs. New England Pa",
-      "channel_title": "Los Angeles Chargers",
-      "channel_id": "UCUyz_gEY_N-KBU4zjt2s-uQ",
-      "published_at": "2026-05-14T23:31:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vjP6J-vpbmo/hqdefault.jpg",
-      "duration": "PT6M22S",
-      "duration_seconds": 382,
-      "view_count": 167323,
-      "like_count": 9463,
-      "comment_count": 1158,
-      "category_id": "17",
-      "tags": [
-        "Chargers",
-        "Los Angeles Chargers",
-        "LA Chargers",
-        "ESPN",
-        "Football News",
-        "NFL Rumors",
-        "Chargers Training Camp",
-        "NFL News",
-        "LA Chargers News",
-        "Football"
-      ],
-      "url": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
-    },
-    {
-      "video_id": "v-SnFA5v9P8",
-      "title": "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
-      "description": "✨ Step into the dawn of a new era and witness the power of Project: Heroic Age.\n\nAcross the timeline, a new stage of technological marvel unfolds. What began as a quest for ultimate stability has evolved into a masterclass of engineering and power. At the heart of this advancement lies the Punch Chronovium—a core capable of distorting space-time and unleashing dazzling energy disturbances that will redefine the battlefield.  \n\nUnlock exclusive rewards and elite cosmetics in the Season 8 Battle Pass: Project: Heroic Age. Witness the transformation as the Punch Chronovium ignites, shifting from a dull, dark red surface to a brilliant explosion of laser beams and shifting light.  \n\n🗓️ Season 8 begins on May 15th UTC!\n\nSecure your legacy. The Premium Battle Pass can be permanently unlocked after purchase, ensuring your progress through the Heroic Age is etched in history.  \n\nThe core is surging. The future is yours to claim. Power up in Project: Heroic Age.\n\nPlay free now on:\n \n🔹 Steam: ht",
-      "channel_title": "Marvel Rivals",
-      "channel_id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "published_at": "2026-05-13T16:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 710982,
-      "like_count": 17622,
-      "comment_count": 2004,
+      "video_id": "fPmrzygqO8U",
+      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-14T15:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
+      "duration": "PT2H6M10S",
+      "duration_seconds": 7570,
+      "view_count": 2124677,
+      "like_count": 118532,
+      "comment_count": 8035,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
     },
     {
-      "video_id": "JiEd-USDNAM",
-      "title": "Minnesota Wild at Colorado Avalanche",
-      "description": "The Avalanche host the Wild at Ball Arena for a pivotal Game 5 matchup. Following a recent 5-2 victory Colorado leads this series 3-1 . Minnesota looks to Kirill Kaprizov to avoid elimination and Counter a Colorado offense led by Nathan Mackinnon.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-14T11:35:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JiEd-USDNAM/hqdefault.jpg",
-      "duration": "PT3H11M25S",
-      "duration_seconds": 11485,
+      "video_id": "Nh0g5Y9OwUw",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-15T10:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nh0g5Y9OwUw/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=JiEd-USDNAM"
+      "url": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 61841,
+      "like_count": 2217,
+      "comment_count": 242,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+    },
+    {
+      "video_id": "1kuGNyNmpcs",
+      "title": "Philadelphia Phillies at Boston Red Sox",
+      "description": "From Fenway Park in Boston.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-05-15T11:25:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1kuGNyNmpcs/hqdefault.jpg",
+      "duration": "PT3H16M53S",
+      "duration_seconds": 11813,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
     }
   ],
   "videos_with_transcripts": [],
@@ -230,29 +208,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nmI2a-Ivu88/hqdefault.jpg",
       "duration": "PT12M57S",
       "duration_seconds": 777,
-      "view_count": 187209,
-      "like_count": 5221,
-      "comment_count": 380,
+      "view_count": 201615,
+      "like_count": 5577,
+      "comment_count": 398,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
     },
     {
-      "video_id": "DX0eFjAKfoM",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-15T07:08:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DX0eFjAKfoM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "kPt3iIbnrdk",
+      "title": "PGA Championship - Round 1",
+      "description": "First-round play begins at the PGA Championship. The world's top golfers gather to compete for the Wanamaker Trophy in the season's second major. Players look to establish an early lead on the leaderboard during today's opening 18 holes of play.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-15T07:50:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kPt3iIbnrdk/hqdefault.jpg",
+      "duration": "PT8H15S",
+      "duration_seconds": 28815,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=DX0eFjAKfoM"
+      "url": "https://www.youtube.com/watch?v=kPt3iIbnrdk"
     },
     {
       "video_id": "gnmc33Y55YI",
@@ -264,9 +242,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnmc33Y55YI/hqdefault.jpg",
       "duration": "PT2M",
       "duration_seconds": 120,
-      "view_count": 894611,
-      "like_count": 27168,
-      "comment_count": 2268,
+      "view_count": 916984,
+      "like_count": 28029,
+      "comment_count": 2346,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -283,23 +261,21 @@
       "url": "https://www.youtube.com/watch?v=gnmc33Y55YI"
     },
     {
-      "video_id": "fPmrzygqO8U",
-      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
-      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-05-14T15:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
-      "duration": "PT2H6M10S",
-      "duration_seconds": 7570,
-      "view_count": 1971238,
-      "like_count": 112693,
-      "comment_count": 7692,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
+      "video_id": "vQCGZCagY1w",
+      "title": "Montreal Canadiens at Buffalo Sabres",
+      "description": "Canadiens visit the Sabres for a pivotal Game 5 round of the Eastern Conference at KeyBank Center. The Sabres forward Zach Benson broke a 2-2 tie in Game 4 on a third-period power play on his 21st birthday in this matchup. The series is tied at 2-2.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-15T10:23:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vQCGZCagY1w/hqdefault.jpg",
+      "duration": "PT2H45M46S",
+      "duration_seconds": 9946,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vQCGZCagY1w"
     },
     {
       "video_id": "POneS8h1jyU",
@@ -311,160 +287,185 @@
       "thumbnail_url": "https://i.ytimg.com/vi/POneS8h1jyU/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 19659683,
-      "like_count": 123833,
-      "comment_count": 6899,
+      "view_count": 20519356,
+      "like_count": 127652,
+      "comment_count": 7063,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=POneS8h1jyU"
     },
     {
-      "video_id": "byliYF8pot8",
-      "title": "Cleveland Cavaliers at Detroit Pistons",
-      "description": "Pistons host the Cavaliers for Game 5 of the Eastern Conference semifinals with the series tied 2-2.Detroit look to Cade Cunningham (23.9 PPG) to regain lead, while Cleveland relies on Donovan Mitchell following his 43-point performance in Game 4.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-14T11:49:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/byliYF8pot8/hqdefault.jpg",
-      "duration": "PT3H14M51S",
-      "duration_seconds": 11691,
+      "video_id": "LlhrIORIDOk",
+      "title": "Hannity",
+      "description": "Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-15T07:57:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LlhrIORIDOk/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=byliYF8pot8"
+      "url": "https://www.youtube.com/watch?v=LlhrIORIDOk"
     },
     {
-      "video_id": "2z6a6NUFlsU",
-      "title": "Backrooms | Official Promo | A24",
-      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nA film by Kane Parsons, starring Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett, and Lukita Maxwell. BACKROOMS – In Theaters May 29\n\nRELEASE DATE: May 29\nDIRECTOR: Kane Parsons\nCAST: Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett, and Lukita Maxwell\n\nGET TICKETS: https://backrooms.mov/\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: BACKROOMS, THE DEATH OF ROBIN HOOD, THE INVITE & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
-      "channel_title": "A24",
-      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
-      "published_at": "2026-05-13T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg",
-      "duration": "PT1M7S",
-      "duration_seconds": 67,
-      "view_count": 2641507,
-      "like_count": 75626,
-      "comment_count": 5218,
-      "category_id": "1",
-      "tags": [
-        "a24",
-        "a24 films",
-        "a24 trailers",
-        "independent films",
-        "trailer",
-        "HD",
-        "official",
-        "movie",
-        "film",
-        "a24 movies"
-      ],
-      "url": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "video_id": "vjP6J-vpbmo",
-      "title": "LA Chargers Halo Schedule Release 2026",
-      "description": "The LA Chargers unveil their 2026 NFL Schedule Release video: Halo edition, on one of the league’s biggest announcement days of the year. Watch the Bolts roast the entire NFL in the world of Halo Infinite using Forge mode for unlimited customization and creativity.\n\nPrepare for the 2026 season with matchups featuring Justin Herbert and Drake Maye, plus Derwin James and Travis Kelce, as well as new faces like Fernando Mendoza, Jeremiyah Love, and Rueben Bain Jr.\n\nSee if you can spot cameos by Pat McAfee, Cam Newton, Jaylen Waddle, and Puka Nacua. How many easter eggs can you find? \n\n0:00 - Intro\n0:22 - Week 1 vs. Arizona Cardinals\n0:37 - Week 2 vs. Las Vegas Raiders\n0:51 - Week 3 at Buffalo Bills\n1:19 - Week 4 at Seattle Seahawks\n1:38 - Week 5 vs. Denver Broncos\n1:57 - Week 6 at Kansas City Chiefs\n2:10 - Week 7 BYE\n2:18 - Week 8 at Los Angeles Rams\n2:35 - Week 9 vs. Houston Texans\n2:56 - Week 10 at Baltimore Ravens [MNF]\n3:12 - Week 11 vs. New York Jets\n3:29 - Week 12 vs. New England Pa",
-      "channel_title": "Los Angeles Chargers",
-      "channel_id": "UCUyz_gEY_N-KBU4zjt2s-uQ",
-      "published_at": "2026-05-14T23:31:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vjP6J-vpbmo/hqdefault.jpg",
-      "duration": "PT6M22S",
-      "duration_seconds": 382,
-      "view_count": 167323,
-      "like_count": 9463,
-      "comment_count": 1158,
-      "category_id": "17",
-      "tags": [
-        "Chargers",
-        "Los Angeles Chargers",
-        "LA Chargers",
-        "ESPN",
-        "Football News",
-        "NFL Rumors",
-        "Chargers Training Camp",
-        "NFL News",
-        "LA Chargers News",
-        "Football"
-      ],
-      "url": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
-    },
-    {
-      "video_id": "JiEd-USDNAM",
-      "title": "Minnesota Wild at Colorado Avalanche",
-      "description": "The Avalanche host the Wild at Ball Arena for a pivotal Game 5 matchup. Following a recent 5-2 victory Colorado leads this series 3-1 . Minnesota looks to Kirill Kaprizov to avoid elimination and Counter a Colorado offense led by Nathan Mackinnon.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-14T11:35:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JiEd-USDNAM/hqdefault.jpg",
-      "duration": "PT3H11M25S",
-      "duration_seconds": 11485,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=JiEd-USDNAM"
-    },
-    {
-      "video_id": "v-SnFA5v9P8",
-      "title": "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
-      "description": "✨ Step into the dawn of a new era and witness the power of Project: Heroic Age.\n\nAcross the timeline, a new stage of technological marvel unfolds. What began as a quest for ultimate stability has evolved into a masterclass of engineering and power. At the heart of this advancement lies the Punch Chronovium—a core capable of distorting space-time and unleashing dazzling energy disturbances that will redefine the battlefield.  \n\nUnlock exclusive rewards and elite cosmetics in the Season 8 Battle Pass: Project: Heroic Age. Witness the transformation as the Punch Chronovium ignites, shifting from a dull, dark red surface to a brilliant explosion of laser beams and shifting light.  \n\n🗓️ Season 8 begins on May 15th UTC!\n\nSecure your legacy. The Premium Battle Pass can be permanently unlocked after purchase, ensuring your progress through the Heroic Age is etched in history.  \n\nThe core is surging. The future is yours to claim. Power up in Project: Heroic Age.\n\nPlay free now on:\n \n🔹 Steam: ht",
-      "channel_title": "Marvel Rivals",
-      "channel_id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "published_at": "2026-05-13T16:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v-SnFA5v9P8/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 710982,
-      "like_count": 17622,
-      "comment_count": 2004,
+      "video_id": "fPmrzygqO8U",
+      "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+      "description": "It's been a long time but we're back in the deep down dark deep down in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-14T15:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
+      "duration": "PT2H6M10S",
+      "duration_seconds": 7570,
+      "view_count": 2124677,
+      "like_count": 118532,
+      "comment_count": 8035,
       "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=fPmrzygqO8U"
+    },
+    {
+      "video_id": "Nh0g5Y9OwUw",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-15T10:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nh0g5Y9OwUw/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
+      "url": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 61841,
+      "like_count": 2217,
+      "comment_count": 242,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+    },
+    {
+      "video_id": "1kuGNyNmpcs",
+      "title": "Philadelphia Phillies at Boston Red Sox",
+      "description": "From Fenway Park in Boston.",
+      "channel_title": "NBC Sports Philadelphia",
+      "channel_id": "UC4oylkR3c_dt4d4m8WSfKHQ",
+      "published_at": "2026-05-15T11:25:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1kuGNyNmpcs/hqdefault.jpg",
+      "duration": "PT3H16M53S",
+      "duration_seconds": 11813,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "diverse_content": {
-          "description": "The trending list features a variety of content types, including movie trailers, sports highlights, video game playthroughs, and news segments.",
-          "insight": "Diversification in content types suggests broad audience interests and opportunities for creators in multiple genres."
+      "trendingPatterns": {
+        "overview": {
+          "averageViewsPerVideo": 2382447.3,
+          "totalVideos": 10,
+          "totalViews": 23824473,
+          "categoryDiversity": "unknown"
         },
-        "popularity_of_trailers": {
-          "description": "There are multiple trailers for upcoming movies or series, such as 'SPIDER-MAN BRAND NEW DAY' and 'Wildwood'.",
-          "insight": "Trailers and teasers continue to be popular content, driving anticipation and engagement. Opportunities exist for creators to capitalize on creating reaction and breakdown videos."
+        "contentTrends": {
+          "entertainment": [
+            {
+              "title": "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!",
+              "category": "superhero/entertainment",
+              "insight": "Superhero content, particularly related to popular franchises like Spider-Man, continues to attract significant attention. Collaborations with popular actors (e.g., Sadie Sink) and cross-franchise appearances (e.g., Hulk) enhance viewer interest."
+            },
+            {
+              "title": "Stuart Fails to Save the Universe | Official Teaser | HBO Max",
+              "category": "teaser/entertainment",
+              "insight": "Teaser trailers for anticipated series or movies, especially from major platforms like HBO Max, capture strong interest, suggesting high engagement for upcoming content announcements."
+            },
+            {
+              "title": "Wildwood – Official Teaser Trailer",
+              "category": "animation/entertainment",
+              "insight": "Animated content, particularly high-quality teasers from notable studios (such as LAIKA Studios), remain popular, indicating a robust audience interest in animated storytelling."
+            }
+          ],
+          "sports": [
+            {
+              "title": "PGA Championship - Round 1",
+              "category": "sports",
+              "insight": "Major sports events, particularly golf championships, continue to draw large viewership, highlighting opportunities for content around live sports analytics and fan engagement."
+            },
+            {
+              "title": "Philadelphia Phillies at Boston Red Sox",
+              "category": "sports",
+              "insight": "Live sports broadcasts and game highlights, especially from popular leagues, maintain a strong viewer base, emphasizing the value in real-time game coverage and post-game analysis."
+            }
+          ],
+          "gaming": [
+            {
+              "title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+              "category": "gaming",
+              "insight": "Gaming content, particularly sequels to popular games like Subnautica, remains highly engaging. There is an opportunity to create content that highlights new features and gameplay experiences."
+            }
+          ],
+          "music": [
+            {
+              "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.",
+              "category": "music",
+              "insight": "Music videos, especially those featuring collaborations or unique cultural elements, continue to trend, revealing opportunities in cross-cultural music production and promotion."
+            }
+          ]
         },
-        "gaming_content": {
-          "description": "Gaming content, such as 'Subnautica 2 - Part 1', remains popular within trending videos.",
-          "insight": "Video game-related content is a strong category with a dedicated following, suggesting opportunities for gaming channels to explore new game releases or updates."
-        }
-      },
-      "creator_patterns": {
-        "notable_channels": {
-          "description": "Prominent channels like Emergency Awesome, FOX News, and HBO Max are part of the trending list.",
-          "insight": "Established channels with a strong brand presence are able to consistently reach the trending page, indicating the importance of brand recognition and network leverage."
+        "creatorPatterns": {
+          "topChannels": [
+            {
+              "name": "Emergency Awesome",
+              "videos": 1,
+              "insight": "Channels focusing on entertainment breakdowns and analyses, such as Emergency Awesome, capitalize on trending topics in pop culture, demonstrating the effectiveness of niche expertise."
+            },
+            {
+              "name": "ESPN",
+              "videos": 1,
+              "insight": "Sports networks like ESPN consistently perform well with live sports and highlights, underlining the importance of timely sports coverage."
+            },
+            {
+              "name": "HBO Max",
+              "videos": 1,
+              "insight": "Major streaming platforms, such as HBO Max, effectively generate buzz with teaser trailers for upcoming releases, suggesting a high value in pre-release content marketing."
+            }
+          ]
         },
-        "single_video_trend": {
-          "description": "Each top channel contributed only one video to the trending list.",
-          "insight": "Single video contributions from channels indicate a competitive and dynamic environment where diverse content from varied creators can trend, offering opportunities for smaller creators to break through."
-        }
-      },
-      "market_opportunities": {
-        "content_collaboration": {
-          "description": "Various content categories and channels are trending, suggesting potential for cross-promotion and collaboration.",
-          "insight": "Opportunities exist for creators to collaborate across different genres, such as gaming and film, to reach wider audiences."
-        },
-        "untapped_categories": {
-          "description": "The trending list lacks specific categories like educational content or DIY.",
-          "insight": "There is potential for growth in underrepresented categories, suggesting a market gap for creators to explore educational or instructional content."
-        },
-        "engagement_driven_content": {
-          "description": "The presence of trailers and game playthroughs indicates high engagement content.",
-          "insight": "Creators should focus on content that drives engagement through anticipation and interaction, such as interactive series, live discussions, or commentary."
+        "marketOpportunities": {
+          "cross-categoryContent": {
+            "insight": "Creating content that combines elements from different popular categories, such as sports and entertainment, or gaming and pop culture, could engage diverse audiences and increase viewership."
+          },
+          "localizedContent": {
+            "insight": "Localized music or culturally specific content, as seen with the PNG music video, indicates a growing market for regional and culturally diverse productions."
+          },
+          "liveStreaming": {
+            "insight": "The popularity of live sports and event coverage suggests expanding into live streaming features for real-time audience interaction and engagement could be beneficial."
+          }
         }
       },
       "metadata_stats": {
@@ -473,7 +474,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2623255
+        "avg_views_per_video": 2382447
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
