@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T12:32:32.535313",
+  "timestamp": "2026-05-16T15:28:24.643303",
   "date": "2026-05-16",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vOGmktrRipk/hqdefault.jpg",
       "duration": "PT12M1S",
       "duration_seconds": 721,
-      "view_count": 368323,
-      "like_count": 8628,
-      "comment_count": 1352,
+      "view_count": 398436,
+      "like_count": 8873,
+      "comment_count": 1433,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=vOGmktrRipk"
@@ -56,9 +56,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mc7cOOqQClw/hqdefault.jpg",
       "duration": "PT15M46S",
       "duration_seconds": 946,
-      "view_count": 188509,
-      "like_count": 9098,
-      "comment_count": 1114,
+      "view_count": 207251,
+      "like_count": 9742,
+      "comment_count": 1174,
       "category_id": "20",
       "tags": [
         "GTA6 news",
@@ -118,8 +118,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 68793,
-      "like_count": 2344,
+      "view_count": 69811,
+      "like_count": 2365,
       "comment_count": 254,
       "category_id": "22",
       "tags": [],
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yTJc2KOVXfs/hqdefault.jpg",
       "duration": "PT3H28M53S",
       "duration_seconds": 12533,
-      "view_count": 489957,
-      "like_count": 18084,
-      "comment_count": 1480,
+      "view_count": 568775,
+      "like_count": 20122,
+      "comment_count": 1582,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -180,9 +180,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MeTbv6Wqfgg/hqdefault.jpg",
       "duration": "PT1H5M18S",
       "duration_seconds": 3918,
-      "view_count": 846181,
-      "like_count": 58750,
-      "comment_count": 3707,
+      "view_count": 967014,
+      "like_count": 65035,
+      "comment_count": 3955,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MeTbv6Wqfgg"
@@ -200,9 +200,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vOGmktrRipk/hqdefault.jpg",
       "duration": "PT12M1S",
       "duration_seconds": 721,
-      "view_count": 368323,
-      "like_count": 8628,
-      "comment_count": 1352,
+      "view_count": 398436,
+      "like_count": 8873,
+      "comment_count": 1433,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=vOGmktrRipk"
@@ -234,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mc7cOOqQClw/hqdefault.jpg",
       "duration": "PT15M46S",
       "duration_seconds": 946,
-      "view_count": 188509,
-      "like_count": 9098,
-      "comment_count": 1114,
+      "view_count": 207251,
+      "like_count": 9742,
+      "comment_count": 1174,
       "category_id": "20",
       "tags": [
         "GTA6 news",
@@ -296,8 +296,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 68793,
-      "like_count": 2344,
+      "view_count": 69811,
+      "like_count": 2365,
       "comment_count": 254,
       "category_id": "22",
       "tags": [],
@@ -313,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yTJc2KOVXfs/hqdefault.jpg",
       "duration": "PT3H28M53S",
       "duration_seconds": 12533,
-      "view_count": 489957,
-      "like_count": 18084,
-      "comment_count": 1480,
+      "view_count": 568775,
+      "like_count": 20122,
+      "comment_count": 1582,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -358,9 +358,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MeTbv6Wqfgg/hqdefault.jpg",
       "duration": "PT1H5M18S",
       "duration_seconds": 3918,
-      "view_count": 846181,
-      "like_count": 58750,
-      "comment_count": 3707,
+      "view_count": 967014,
+      "like_count": 65035,
+      "comment_count": 3955,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=MeTbv6Wqfgg"
@@ -370,72 +370,89 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment": {
-          "description": "Videos related to TV shows, gaming, and WWE are prominent.",
-          "patterns": [
-            "The presence of TV show trailers ('The Boys Season 5 Episode 8 Finale Trailer: Homelander Goes Crazy') suggests a strong interest in entertainment content.",
-            "Gaming content ('GTA6 TRAILER SOON? LEAKS & MORE', 'SUBNAUTICA 2 IS HERE', 'THE BEAUTIFUL TERRIFYING OCEAN | Subnautica 2 - Part 1') indicates an active audience for gaming updates and gameplay.",
-            "WWE content ('WWE Friday Night SmackDown') highlights a dedicated fan base for wrestling entertainment."
-          ]
-        },
-        "sports": {
-          "description": "Sports events and commentary videos are trending.",
-          "patterns": [
-            "Live sports events ('Washington Mystics at Indiana Fever', 'NCAA Tournament: Indiana vs. Virginia') show consistent interest in live sports coverage.",
-            "Sports commentary ('Gutfeld!') suggests an audience interested in analysis and discussion."
-          ]
-        },
-        "music": {
-          "description": "Music content from diverse genres is present.",
-          "patterns": [
-            "'Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music' indicates niche music content has the potential to trend."
-          ]
-        }
+        "genres": [
+          {
+            "genre": "Entertainment",
+            "examples": [
+              "The Boys Season 5 Episode 8 Finale Trailer: Homelander Goes Crazy",
+              "GTA6 TRAILER SOON? LEAKS & MORE",
+              "SUBNAUTICA 2 IS HERE",
+              "THE BEAUTIFUL TERRIFYING OCEAN | Subnautica 2 - Part 1"
+            ],
+            "insight": "Entertainment content, particularly trailers and game-related videos, are trending, indicating a strong audience interest in entertainment previews and gaming content."
+          },
+          {
+            "genre": "Sports",
+            "examples": [
+              "Washington Mystics at Indiana Fever",
+              "NCAA Tournament: Indiana vs. Virginia",
+              "WWE Friday Night SmackDown"
+            ],
+            "insight": "Sports content, particularly live events and major tournaments, continue to capture significant viewer attention."
+          },
+          {
+            "genre": "News & Commentary",
+            "examples": [
+              "Gutfeld!"
+            ],
+            "insight": "News and commentary content also features in trending, showing demand for current events and opinion pieces."
+          },
+          {
+            "genre": "Music",
+            "examples": [
+              "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
+            ],
+            "insight": "Music videos, though less frequent, still attract a niche audience, particularly for unique or regional music."
+          }
+        ],
+        "overall_insight": "The YouTube trending segment is dominated by entertainment and sports content, with occasional spikes in news and music."
       },
       "creator_patterns": {
-        "diversity": {
-          "description": "A diverse range of creators and content styles are trending.",
-          "patterns": [
-            "Channels like 'Emergency Awesome' and 'gameranx' suggest a mix of entertainment and gaming content creators are thriving.",
-            "Channels such as 'FOX News' and 'ESPN' indicate traditional media brands are maintaining relevance on YouTube."
-          ]
-        },
-        "engagement": {
-          "description": "Creators with established audiences are likely driving engagement.",
-          "patterns": [
-            "Channels with single videos in the trending list imply each has a significant follower base driving views."
-          ]
-        }
+        "top_channels": [
+          {
+            "channel": "Emergency Awesome",
+            "content_focus": "Entertainment",
+            "insight": "Focus on entertainment, especially popular series and movie trailers, which consistently draw high viewership."
+          },
+          {
+            "channel": "ION",
+            "content_focus": "Sports",
+            "insight": "Covers live sports events, leveraging real-time engagement."
+          },
+          {
+            "channel": "gameranx",
+            "content_focus": "Gaming",
+            "insight": "Focus on gaming news and updates, appealing to a dedicated gaming audience."
+          },
+          {
+            "channel": "FOX News",
+            "content_focus": "News & Commentary",
+            "insight": "Provides current events and commentary, aligning with audiences interested in news."
+          },
+          {
+            "channel": "ESPN",
+            "content_focus": "Sports",
+            "insight": "Specializes in sports coverage, capitalizing on live event viewership."
+          }
+        ],
+        "overall_insight": "Channels that specialize in specific niches (entertainment, sports, gaming, news) tend to perform well, indicating the importance of focused content strategy."
       },
       "market_opportunities": {
-        "gaming": {
-          "description": "High demand for gaming content presents growth potential.",
-          "strategies": [
-            "Capitalize on pre-release hype by creating content around game trailers, leaks, and gameplay.",
-            "Engage with gaming communities to understand upcoming trends and tailor content accordingly."
-          ]
-        },
-        "live sports": {
-          "description": "Live sports coverage continues to attract substantial viewership.",
-          "strategies": [
-            "Develop content around major sports events, including pre-game analysis and post-game reviews.",
-            "Collaborate with sports influencers to expand reach and engagement."
-          ]
-        },
-        "entertainment commentary": {
-          "description": "Commentary and analysis on popular TV shows and events can drive high engagement.",
-          "strategies": [
-            "Create timely reaction videos to trending TV shows and entertainment news.",
-            "Leverage SEO techniques to capture search traffic related to trending shows."
-          ]
-        }
-      },
-      "overall_insights": {
-        "description": "The current YouTube landscape exhibits a strong preference for entertainment, gaming, and sports.",
-        "recommendations": [
-          "Focus on creating diverse content that taps into multiple interest areas to maximize reach.",
-          "Utilize data analytics to track trending topics and optimize content strategy accordingly."
-        ]
+        "emerging_trends": [
+          {
+            "trend": "Gaming Content",
+            "opportunity": "With the success of gaming videos, creators could explore more in-depth gameplay analysis, game reviews, and community engagement through live streams."
+          },
+          {
+            "trend": "Sports Highlights & Analysis",
+            "opportunity": "Expanding on sports event coverage with detailed analysis, highlights, and fan interactions could attract more sports enthusiasts."
+          },
+          {
+            "trend": "Entertainment Previews",
+            "opportunity": "Given the popularity of trailers, creating content around predictions, fan theories, and behind-the-scenes could captivate the entertainment audience."
+          }
+        ],
+        "general_recommendation": "Creating content that aligns with trending categories and leverages niche audience interests can enhance viewer engagement and channel growth."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -443,7 +460,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 217973
+        "avg_views_per_video": 245698
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
