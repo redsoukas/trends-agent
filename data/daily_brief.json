@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T12:31:38.337440",
+  "timestamp": "2026-05-17T15:29:16.337884",
   "date": "2026-05-17",
   "summary": {
     "total_videos_analyzed": 10,
@@ -30,6 +30,23 @@
       "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
     },
     {
+      "video_id": "t3gRf_t_DZ8",
+      "title": "Top Gun: Maverick",
+      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "channel_title": "Paramount",
+      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
+      "published_at": "2026-05-17T11:35:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t3gRf_t_DZ8/hqdefault.jpg",
+      "duration": "PT3H11M5S",
+      "duration_seconds": 11465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=t3gRf_t_DZ8"
+    },
+    {
       "video_id": "8rVKnNHj7JU",
       "title": "FOX News Saturday Night With Jimmy Failla",
       "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
@@ -47,21 +64,21 @@
       "url": "https://www.youtube.com/watch?v=8rVKnNHj7JU"
     },
     {
-      "video_id": "iPz-Pp5RC5Y",
-      "title": "Star Wars: A New Hope",
-      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-17T08:55:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 75648,
+      "like_count": 2471,
+      "comment_count": 257,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "bP86n9nFoJY",
@@ -73,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bP86n9nFoJY/hqdefault.jpg",
       "duration": "PT1H11M56S",
       "duration_seconds": 4316,
-      "view_count": 2756400,
-      "like_count": 164658,
-      "comment_count": 39118,
+      "view_count": 2951394,
+      "like_count": 169847,
+      "comment_count": 39895,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -92,21 +109,21 @@
       "url": "https://www.youtube.com/watch?v=bP86n9nFoJY"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 74928,
-      "like_count": 2459,
-      "comment_count": 256,
-      "category_id": "22",
+      "video_id": "iPz-Pp5RC5Y",
+      "title": "Star Wars: A New Hope",
+      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-17T08:55:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
     },
     {
       "video_id": "8yjZxPrNkJE",
@@ -160,38 +177,23 @@
       "url": "https://www.youtube.com/watch?v=IIwWqFYQntw"
     },
     {
-      "video_id": "kQvVnzdztAI",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-17T08:22:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kQvVnzdztAI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=kQvVnzdztAI"
-    },
-    {
-      "video_id": "4z_slkyDjKk",
-      "title": "Baltimore Orioles at Washington Nationals",
-      "description": "Baltimore travels to face Washington for the second game of a three-game set. Chris Bassitt takes the mound for the Orioles, while the Nationals counter with Cade Cavalli. The Orioles look to better their away record against a high-scoring nationals.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-17T07:06:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4z_slkyDjKk/hqdefault.jpg",
-      "duration": "PT3H3M16S",
-      "duration_seconds": 10996,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=4z_slkyDjKk"
+      "video_id": "YJZWGGk0qvs",
+      "title": "TIME TO EXPLORE | Subnautica 2 - Part 3",
+      "description": "I got the tadpole in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-16T16:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YJZWGGk0qvs/hqdefault.jpg",
+      "duration": "PT2H13M39S",
+      "duration_seconds": 8019,
+      "view_count": 609830,
+      "like_count": 35444,
+      "comment_count": 3857,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=YJZWGGk0qvs"
     }
   ],
   "videos_with_transcripts": [],
@@ -214,6 +216,23 @@
       "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
     },
     {
+      "video_id": "t3gRf_t_DZ8",
+      "title": "Top Gun: Maverick",
+      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "channel_title": "Paramount",
+      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
+      "published_at": "2026-05-17T11:35:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t3gRf_t_DZ8/hqdefault.jpg",
+      "duration": "PT3H11M5S",
+      "duration_seconds": 11465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=t3gRf_t_DZ8"
+    },
+    {
       "video_id": "8rVKnNHj7JU",
       "title": "FOX News Saturday Night With Jimmy Failla",
       "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
@@ -231,21 +250,21 @@
       "url": "https://www.youtube.com/watch?v=8rVKnNHj7JU"
     },
     {
-      "video_id": "iPz-Pp5RC5Y",
-      "title": "Star Wars: A New Hope",
-      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
-      "channel_title": "AMC",
-      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-17T08:55:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 75648,
+      "like_count": 2471,
+      "comment_count": 257,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "bP86n9nFoJY",
@@ -257,9 +276,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bP86n9nFoJY/hqdefault.jpg",
       "duration": "PT1H11M56S",
       "duration_seconds": 4316,
-      "view_count": 2756400,
-      "like_count": 164658,
-      "comment_count": 39118,
+      "view_count": 2951394,
+      "like_count": 169847,
+      "comment_count": 39895,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -276,21 +295,21 @@
       "url": "https://www.youtube.com/watch?v=bP86n9nFoJY"
     },
     {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 74928,
-      "like_count": 2459,
-      "comment_count": 256,
-      "category_id": "22",
+      "video_id": "iPz-Pp5RC5Y",
+      "title": "Star Wars: A New Hope",
+      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-17T08:55:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
     },
     {
       "video_id": "8yjZxPrNkJE",
@@ -344,99 +363,96 @@
       "url": "https://www.youtube.com/watch?v=IIwWqFYQntw"
     },
     {
-      "video_id": "kQvVnzdztAI",
-      "title": "Real Time With Bill Maher",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-17T08:22:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kQvVnzdztAI/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=kQvVnzdztAI"
-    },
-    {
-      "video_id": "4z_slkyDjKk",
-      "title": "Baltimore Orioles at Washington Nationals",
-      "description": "Baltimore travels to face Washington for the second game of a three-game set. Chris Bassitt takes the mound for the Orioles, while the Nationals counter with Cade Cavalli. The Orioles look to better their away record against a high-scoring nationals.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-17T07:06:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4z_slkyDjKk/hqdefault.jpg",
-      "duration": "PT3H3M16S",
-      "duration_seconds": 10996,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=4z_slkyDjKk"
+      "video_id": "YJZWGGk0qvs",
+      "title": "TIME TO EXPLORE | Subnautica 2 - Part 3",
+      "description": "I got the tadpole in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
+      "channel_title": "jacksepticeye",
+      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "published_at": "2026-05-16T16:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YJZWGGk0qvs/hqdefault.jpg",
+      "duration": "PT2H13M39S",
+      "duration_seconds": 8019,
+      "view_count": 609830,
+      "like_count": 35444,
+      "comment_count": 3857,
+      "category_id": "20",
+      "tags": [
+        "jacksepticeye"
+      ],
+      "url": "https://www.youtube.com/watch?v=YJZWGGk0qvs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 2831328,
-        "average_views_per_video": 283132.8
+      "trending_content_analysis": {
+        "sports_and_entertainment": {
+          "description": "Sports events and related content are highly engaging, with 20% of the videos (2 out of 10) focused on the PGA Championship, which contributes to both live and highlight coverage.",
+          "actionable_insights": [
+            "Capitalize on live coverage and highlight reels for major sports events to drive engagement.",
+            "Collaborate with sports networks like ESPN for co-branded content to expand reach."
+          ]
+        },
+        "nostalgic_and_franchise_content": {
+          "description": "Classic and franchise-based content (e.g., 'Top Gun: Maverick' and 'Star Wars: A New Hope') continues to draw attention, indicating a strong market for nostalgia and established franchises.",
+          "actionable_insights": [
+            "Develop content around popular franchises or create spin-offs to capture existing fanbase interest.",
+            "Utilize anniversary editions or behind-the-scenes content to increase viewer engagement."
+          ]
+        },
+        "news_and_current_affairs": {
+          "description": "Timely news content, such as 'FOX News Saturday Night With Jimmy Failla,' resonates with audiences, indicating a demand for current affairs programming.",
+          "actionable_insights": [
+            "Invest in real-time news content delivery, leveraging breaking news and analysis.",
+            "Consider partnerships with news channels for exclusive content."
+          ]
+        },
+        "music_and_cultural_content": {
+          "description": "Music and culturally-specific content, such as 'Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music,' highlights the importance of regional and niche music markets.",
+          "actionable_insights": [
+            "Explore regional music trends and collaborate with local artists for unique content offerings.",
+            "Utilize platforms like YouTube Shorts to promote snippets of music for increased discoverability."
+          ]
+        },
+        "gaming_and_creation": {
+          "description": "Gaming content, exemplified by 'Unstable SMP: Civil War' and 'TIME TO EXPLORE | Subnautica 2 - Part 3,' showcases the ongoing popularity of gaming videos, particularly in episodic formats.",
+          "actionable_insights": [
+            "Create serialized gaming content to maintain viewer interest over multiple uploads.",
+            "Engage gaming influencers to reach wider audiences and leverage their follower base."
+          ]
+        }
       },
-      "content_trends": {
-        "observations": [
-          {
-            "trend": "Sports Content",
-            "description": "Sports-related videos, such as 'PGA Championship - Round 3', 'Live From the PGA Championship', and 'Baltimore Orioles at Washington Nationals', account for 30% of the trending videos.",
-            "insights": "Sports events are consistently popular, especially live events and highlights. Creating content around major sporting events can capture large audiences."
-          },
-          {
-            "trend": "News and Current Events",
-            "description": "Videos like 'FOX News Saturday Night With Jimmy Failla' and 'Real Time With Bill Maher' indicate a demand for current news and political commentary.",
-            "insights": "News and political commentary have a steady audience. Channels should consider timely content that engages with current events to maintain relevance."
-          },
-          {
-            "trend": "Entertainment and Pop Culture",
-            "description": "Entertainment, such as 'Star Wars: A New Hope' and 'Best Served Cold: A Hannah Swensen Mystery', show interest in classic and mystery genres.",
-            "insights": "There is a consistent audience for nostalgic and genre-specific entertainment content. Leveraging popular franchises or series can attract dedicated viewership."
-          },
-          {
-            "trend": "Gaming Content",
-            "description": "The video 'Unstable SMP: Civil War' suggests gaming content, particularly from popular multiplayer games, is trending.",
-            "insights": "Gaming content remains a strong category. Creating engaging, story-driven gaming content or collaborations in popular multiplayer games can capture significant viewership."
-          }
-        ]
-      },
-      "creator_patterns": {
-        "observations": [
-          {
-            "pattern": "Diverse Content Sources",
-            "description": "Top channels like ESPN, FOX News, and AMC reflect a range of content types from sports to news to entertainment.",
-            "insights": "Diversified content strategies across different genres can help channels capture a broader audience."
-          },
-          {
-            "pattern": "Channel Specificity",
-            "description": "Each top channel focuses on its niche, e.g., ESPN for sports, FOX News for news.",
-            "insights": "Channels should maintain a clear niche focus to build a loyal audience base while occasionally diversifying to attract new viewers."
-          }
-        ]
+      "creator_trends": {
+        "dominant_channels": {
+          "description": "Top channels include ESPN, Paramount, and FOX News, showing strong influence from established media brands.",
+          "actionable_insights": [
+            "Smaller creators should consider collaborations with major brands to amplify their reach.",
+            "Analyze content strategies of top channels for insights into successful video formats and themes."
+          ]
+        },
+        "diverse_content_creators": {
+          "description": "The presence of varied content types from different creators (e.g., Tasik Yard for music, Parrot for gaming) suggests a vibrant creator ecosystem.",
+          "actionable_insights": [
+            "Support diverse content creators to attract various audience segments.",
+            "Invest in creator tools and resources to help niche creators produce high-quality content."
+          ]
+        }
       },
       "market_opportunities": {
-        "opportunities": [
-          {
-            "opportunity": "Localized Content",
-            "description": "The video 'Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music' shows potential in localized music content.",
-            "insights": "There is an opportunity to tap into regional markets with localized content that resonates culturally and linguistically with specific audiences."
-          },
-          {
-            "opportunity": "Leveraging Nostalgia",
-            "description": "Classic content like 'Star Wars: A New Hope' indicates the potential for repackaging classic content.",
-            "insights": "Re-releasing or creating content around classic hits can attract both nostalgic audiences and new viewers discovering the content for the first time."
-          }
-        ]
+        "multilingual_and_cultural_content": {
+          "description": "Culturally diverse content presents an opportunity to tap into global markets with localized content offerings.",
+          "actionable_insights": [
+            "Develop content in multiple languages to cater to non-English speaking audiences.",
+            "Explore cultural festivals and events as content themes to attract international viewers."
+          ]
+        },
+        "technology_and_innovation": {
+          "description": "Trends in tech-based content, such as gaming, indicate a growing interest in innovative and immersive experiences.",
+          "actionable_insights": [
+            "Invest in AR/VR content production to offer immersive experiences.",
+            "Stay updated with the latest gaming trends to create timely and relevant content."
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -444,7 +460,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 283132
+        "avg_views_per_video": 363687
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
