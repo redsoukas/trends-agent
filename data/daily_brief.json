@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-17T07:09:12.852225",
+  "timestamp": "2026-05-17T09:40:54.685119",
   "date": "2026-05-17",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 7,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -30,13 +30,13 @@
       "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
     },
     {
-      "video_id": "d65ujHnLXy4",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "8rVKnNHj7JU",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-17T05:46:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d65ujHnLXy4/hqdefault.jpg",
+      "published_at": "2026-05-17T08:26:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8rVKnNHj7JU/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -44,7 +44,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=d65ujHnLXy4"
+      "url": "https://www.youtube.com/watch?v=8rVKnNHj7JU"
+    },
+    {
+      "video_id": "iPz-Pp5RC5Y",
+      "title": "Star Wars: A New Hope",
+      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-17T08:55:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
     },
     {
       "video_id": "bP86n9nFoJY",
@@ -56,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bP86n9nFoJY/hqdefault.jpg",
       "duration": "PT1H11M56S",
       "duration_seconds": 4316,
-      "view_count": 2372959,
-      "like_count": 153268,
-      "comment_count": 37339,
+      "view_count": 2565406,
+      "like_count": 159303,
+      "comment_count": 38261,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -75,23 +92,6 @@
       "url": "https://www.youtube.com/watch?v=bP86n9nFoJY"
     },
     {
-      "video_id": "cNF64WfCj28",
-      "title": "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE",
-      "description": "the cosmic garou update in roblox the strongest battlegrounds is almost here so its time to celebrate by playing and streaming the crazy event! like and subscribe cosmic garou is coming and so is free child emperor and the best custom new skill builder movesets.. ALSO ZOMBIE MAN...\n\nSubscribe for More! https://www.youtube.com/@1STUD\nDiscord: https://discord.gg/PdmtrxyPeC\nRoblox: https://www.roblox.com/groups/14253796/STUD-YouTube#!/about\n\n#roblox #stud #goobers #thestrongestbattlegrounds #bloxfruits #jujutsushenanigans\n\ntags: roblox, roblox blox fruits, blox fruit, roblox anime, roblox memes, funny moments, roblox robux, roblox funny moments, roblox memes, roblox tik tok, combat warriors, combatwarriors, best games, roblox best games, free games, mobile, mobile youtuber, the strongest battlegrounds, saitama battlegrounds, roblox battlegrounds, battleground, jujutsu shenanigans, jujutsu kaisen, stud, goobers",
-      "channel_title": "STUD",
-      "channel_id": "UCGa_1uanLCDTDdQun1NhrLg",
-      "published_at": "2026-05-17T00:24:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cNF64WfCj28/hqdefault.jpg",
-      "duration": "PT3H40M25S",
-      "duration_seconds": 13225,
-      "view_count": 831059,
-      "like_count": 50325,
-      "comment_count": 925,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=cNF64WfCj28"
-    },
-    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -101,76 +101,97 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 73273,
-      "like_count": 2430,
+      "view_count": 74048,
+      "like_count": 2450,
       "comment_count": 254,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "YJZWGGk0qvs",
-      "title": "TIME TO EXPLORE | Subnautica 2 - Part 3",
-      "description": "I got the tadpole in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-05-16T16:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YJZWGGk0qvs/hqdefault.jpg",
-      "duration": "PT2H13M39S",
-      "duration_seconds": 8019,
-      "view_count": 446758,
-      "like_count": 29477,
-      "comment_count": 3291,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=YJZWGGk0qvs"
-    },
-    {
-      "video_id": "e5s_X4lnp8E",
-      "title": "Call of Duty League Major III Tournament | Day 2",
-      "description": "Welcome to #CDL2026 Major III! Catch all the action from Apr 17 - May 17!\n\nSCUF - The official controller of the CDL https://scuf.co/CDL\n\nEarn Drops by watching on the Call of Duty Esports Twitch Channel: https://www.twitch.tv/callofduty_esports\n\n👉 Subscribe to never miss CDL action https://bit.ly/cdlsubscribe\n👉 Visit our channel for ALL VODs and matchups: https://www.youtube.com/@CODLeague/videos\n👉 Follow Us on Twitter https://twitter.com/CODLeague\n👉 Follow Us on TikTok https://tiktok.com/@callofdutyleague\n👉 Follow Us on Instagram https://www.instagram.com/codleague/\n\n#CDL2026 #CallofDuty #CODLeague",
-      "channel_title": "Call of Duty League",
-      "channel_id": "UCbLIqv9Puhyp9_ZjVtfOy7w",
-      "published_at": "2026-05-17T01:48:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5s_X4lnp8E/hqdefault.jpg",
-      "duration": "PT8H37M59S",
-      "duration_seconds": 31079,
-      "view_count": 438441,
-      "like_count": 2172,
-      "comment_count": 5,
-      "category_id": "20",
-      "tags": [
-        "Florida Mutineers",
-        "Los Angeles Guerrillas",
-        "Minnesota Røkkr",
-        "Vegas Legion",
-        "Seattle Surge",
-        "Toronto Ultra",
-        "Atlanta FaZe",
-        "London Royal Ravens",
-        "New York Subliners",
-        "OpTic"
-      ],
-      "url": "https://www.youtube.com/watch?v=e5s_X4lnp8E"
-    },
-    {
-      "video_id": "bG8i9y4-G3Y",
-      "title": "Chelsea vs. Manchester City",
-      "description": "Final.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-17T00:06:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bG8i9y4-G3Y/hqdefault.jpg",
-      "duration": "PT2H28M51S",
-      "duration_seconds": 8931,
+      "video_id": "8yjZxPrNkJE",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-17T09:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8yjZxPrNkJE/hqdefault.jpg",
+      "duration": "PT2H6M6S",
+      "duration_seconds": 7566,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=bG8i9y4-G3Y"
+      "url": "https://www.youtube.com/watch?v=8yjZxPrNkJE"
+    },
+    {
+      "video_id": "7MXEUt5heYM",
+      "title": "NCAA Tournament, Regionals: Teams TBA",
+      "description": "Action from women's college softball.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-17T06:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7MXEUt5heYM/hqdefault.jpg",
+      "duration": "PT1H11M4S",
+      "duration_seconds": 4264,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7MXEUt5heYM"
+    },
+    {
+      "video_id": "kQvVnzdztAI",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-17T08:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kQvVnzdztAI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=kQvVnzdztAI"
+    },
+    {
+      "video_id": "4z_slkyDjKk",
+      "title": "Baltimore Orioles at Washington Nationals",
+      "description": "Baltimore travels to face Washington for the second game of a three-game set. Chris Bassitt takes the mound for the Orioles, while the Nationals counter with Cade Cavalli. The Orioles look to better their away record against a high-scoring nationals.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-17T07:06:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4z_slkyDjKk/hqdefault.jpg",
+      "duration": "PT3H3M16S",
+      "duration_seconds": 10996,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=4z_slkyDjKk"
+    },
+    {
+      "video_id": "cNF64WfCj28",
+      "title": "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE",
+      "description": "the cosmic garou update in roblox the strongest battlegrounds is almost here so its time to celebrate by playing and streaming the crazy event! like and subscribe cosmic garou is coming and so is free child emperor and the best custom new skill builder movesets.. ALSO ZOMBIE MAN...\n\nSubscribe for More! https://www.youtube.com/@1STUD\nDiscord: https://discord.gg/PdmtrxyPeC\nRoblox: https://www.roblox.com/groups/14253796/STUD-YouTube#!/about\n\n#roblox #stud #goobers #thestrongestbattlegrounds #bloxfruits #jujutsushenanigans\n\ntags: roblox, roblox blox fruits, blox fruit, roblox anime, roblox memes, funny moments, roblox robux, roblox funny moments, roblox memes, roblox tik tok, combat warriors, combatwarriors, best games, roblox best games, free games, mobile, mobile youtuber, the strongest battlegrounds, saitama battlegrounds, roblox battlegrounds, battleground, jujutsu shenanigans, jujutsu kaisen, stud, goobers",
+      "channel_title": "STUD",
+      "channel_id": "UCGa_1uanLCDTDdQun1NhrLg",
+      "published_at": "2026-05-17T00:24:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNF64WfCj28/hqdefault.jpg",
+      "duration": "PT3H40M25S",
+      "duration_seconds": 13225,
+      "view_count": 850083,
+      "like_count": 51307,
+      "comment_count": 1114,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cNF64WfCj28"
     }
   ],
   "videos_with_transcripts": [],
@@ -193,13 +214,13 @@
       "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
     },
     {
-      "video_id": "d65ujHnLXy4",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "video_id": "8rVKnNHj7JU",
+      "title": "FOX News Saturday Night With Jimmy Failla",
+      "description": "Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-17T05:46:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d65ujHnLXy4/hqdefault.jpg",
+      "published_at": "2026-05-17T08:26:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8rVKnNHj7JU/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -207,7 +228,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=d65ujHnLXy4"
+      "url": "https://www.youtube.com/watch?v=8rVKnNHj7JU"
+    },
+    {
+      "video_id": "iPz-Pp5RC5Y",
+      "title": "Star Wars: A New Hope",
+      "description": "Robots and other allies help a youth (Mark Hamill) and a space jockey (Harrison Ford) rescue a rebel princess (Carrie Fisher) and battle dark forces bent on intergalactic rule.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-17T08:55:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPz-Pp5RC5Y/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=iPz-Pp5RC5Y"
     },
     {
       "video_id": "bP86n9nFoJY",
@@ -219,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bP86n9nFoJY/hqdefault.jpg",
       "duration": "PT1H11M56S",
       "duration_seconds": 4316,
-      "view_count": 2372959,
-      "like_count": 153268,
-      "comment_count": 37339,
+      "view_count": 2565406,
+      "like_count": 159303,
+      "comment_count": 38261,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -238,23 +276,6 @@
       "url": "https://www.youtube.com/watch?v=bP86n9nFoJY"
     },
     {
-      "video_id": "cNF64WfCj28",
-      "title": "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE",
-      "description": "the cosmic garou update in roblox the strongest battlegrounds is almost here so its time to celebrate by playing and streaming the crazy event! like and subscribe cosmic garou is coming and so is free child emperor and the best custom new skill builder movesets.. ALSO ZOMBIE MAN...\n\nSubscribe for More! https://www.youtube.com/@1STUD\nDiscord: https://discord.gg/PdmtrxyPeC\nRoblox: https://www.roblox.com/groups/14253796/STUD-YouTube#!/about\n\n#roblox #stud #goobers #thestrongestbattlegrounds #bloxfruits #jujutsushenanigans\n\ntags: roblox, roblox blox fruits, blox fruit, roblox anime, roblox memes, funny moments, roblox robux, roblox funny moments, roblox memes, roblox tik tok, combat warriors, combatwarriors, best games, roblox best games, free games, mobile, mobile youtuber, the strongest battlegrounds, saitama battlegrounds, roblox battlegrounds, battleground, jujutsu shenanigans, jujutsu kaisen, stud, goobers",
-      "channel_title": "STUD",
-      "channel_id": "UCGa_1uanLCDTDdQun1NhrLg",
-      "published_at": "2026-05-17T00:24:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cNF64WfCj28/hqdefault.jpg",
-      "duration": "PT3H40M25S",
-      "duration_seconds": 13225,
-      "view_count": 831059,
-      "like_count": 50325,
-      "comment_count": 925,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=cNF64WfCj28"
-    },
-    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -264,165 +285,170 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 73273,
-      "like_count": 2430,
+      "view_count": 74048,
+      "like_count": 2450,
       "comment_count": 254,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "YJZWGGk0qvs",
-      "title": "TIME TO EXPLORE | Subnautica 2 - Part 3",
-      "description": "I got the tadpole in Subnautica 2\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye\n\nEdited By: https://www.youtube.com/@treyyates",
-      "channel_title": "jacksepticeye",
-      "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-      "published_at": "2026-05-16T16:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YJZWGGk0qvs/hqdefault.jpg",
-      "duration": "PT2H13M39S",
-      "duration_seconds": 8019,
-      "view_count": 446758,
-      "like_count": 29477,
-      "comment_count": 3291,
-      "category_id": "20",
-      "tags": [
-        "jacksepticeye"
-      ],
-      "url": "https://www.youtube.com/watch?v=YJZWGGk0qvs"
-    },
-    {
-      "video_id": "e5s_X4lnp8E",
-      "title": "Call of Duty League Major III Tournament | Day 2",
-      "description": "Welcome to #CDL2026 Major III! Catch all the action from Apr 17 - May 17!\n\nSCUF - The official controller of the CDL https://scuf.co/CDL\n\nEarn Drops by watching on the Call of Duty Esports Twitch Channel: https://www.twitch.tv/callofduty_esports\n\n👉 Subscribe to never miss CDL action https://bit.ly/cdlsubscribe\n👉 Visit our channel for ALL VODs and matchups: https://www.youtube.com/@CODLeague/videos\n👉 Follow Us on Twitter https://twitter.com/CODLeague\n👉 Follow Us on TikTok https://tiktok.com/@callofdutyleague\n👉 Follow Us on Instagram https://www.instagram.com/codleague/\n\n#CDL2026 #CallofDuty #CODLeague",
-      "channel_title": "Call of Duty League",
-      "channel_id": "UCbLIqv9Puhyp9_ZjVtfOy7w",
-      "published_at": "2026-05-17T01:48:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5s_X4lnp8E/hqdefault.jpg",
-      "duration": "PT8H37M59S",
-      "duration_seconds": 31079,
-      "view_count": 438441,
-      "like_count": 2172,
-      "comment_count": 5,
-      "category_id": "20",
-      "tags": [
-        "Florida Mutineers",
-        "Los Angeles Guerrillas",
-        "Minnesota Røkkr",
-        "Vegas Legion",
-        "Seattle Surge",
-        "Toronto Ultra",
-        "Atlanta FaZe",
-        "London Royal Ravens",
-        "New York Subliners",
-        "OpTic"
-      ],
-      "url": "https://www.youtube.com/watch?v=e5s_X4lnp8E"
-    },
-    {
-      "video_id": "bG8i9y4-G3Y",
-      "title": "Chelsea vs. Manchester City",
-      "description": "Final.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-17T00:06:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bG8i9y4-G3Y/hqdefault.jpg",
-      "duration": "PT2H28M51S",
-      "duration_seconds": 8931,
+      "video_id": "8yjZxPrNkJE",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-17T09:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8yjZxPrNkJE/hqdefault.jpg",
+      "duration": "PT2H6M6S",
+      "duration_seconds": 7566,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=bG8i9y4-G3Y"
+      "url": "https://www.youtube.com/watch?v=8yjZxPrNkJE"
+    },
+    {
+      "video_id": "7MXEUt5heYM",
+      "title": "NCAA Tournament, Regionals: Teams TBA",
+      "description": "Action from women's college softball.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-17T06:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7MXEUt5heYM/hqdefault.jpg",
+      "duration": "PT1H11M4S",
+      "duration_seconds": 4264,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7MXEUt5heYM"
+    },
+    {
+      "video_id": "kQvVnzdztAI",
+      "title": "Real Time With Bill Maher",
+      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-17T08:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kQvVnzdztAI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=kQvVnzdztAI"
+    },
+    {
+      "video_id": "4z_slkyDjKk",
+      "title": "Baltimore Orioles at Washington Nationals",
+      "description": "Baltimore travels to face Washington for the second game of a three-game set. Chris Bassitt takes the mound for the Orioles, while the Nationals counter with Cade Cavalli. The Orioles look to better their away record against a high-scoring nationals.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-17T07:06:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4z_slkyDjKk/hqdefault.jpg",
+      "duration": "PT3H3M16S",
+      "duration_seconds": 10996,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=4z_slkyDjKk"
+    },
+    {
+      "video_id": "cNF64WfCj28",
+      "title": "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE",
+      "description": "the cosmic garou update in roblox the strongest battlegrounds is almost here so its time to celebrate by playing and streaming the crazy event! like and subscribe cosmic garou is coming and so is free child emperor and the best custom new skill builder movesets.. ALSO ZOMBIE MAN...\n\nSubscribe for More! https://www.youtube.com/@1STUD\nDiscord: https://discord.gg/PdmtrxyPeC\nRoblox: https://www.roblox.com/groups/14253796/STUD-YouTube#!/about\n\n#roblox #stud #goobers #thestrongestbattlegrounds #bloxfruits #jujutsushenanigans\n\ntags: roblox, roblox blox fruits, blox fruit, roblox anime, roblox memes, funny moments, roblox robux, roblox funny moments, roblox memes, roblox tik tok, combat warriors, combatwarriors, best games, roblox best games, free games, mobile, mobile youtuber, the strongest battlegrounds, saitama battlegrounds, roblox battlegrounds, battleground, jujutsu shenanigans, jujutsu kaisen, stud, goobers",
+      "channel_title": "STUD",
+      "channel_id": "UCGa_1uanLCDTDdQun1NhrLg",
+      "published_at": "2026-05-17T00:24:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNF64WfCj28/hqdefault.jpg",
+      "duration": "PT3H40M25S",
+      "duration_seconds": 13225,
+      "view_count": 850083,
+      "like_count": 51307,
+      "comment_count": 1114,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cNF64WfCj28"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 8,
-        "total_views": 4162490,
-        "average_views_per_video": 520311
-      },
-      "category_analysis": {
-        "sports": {
-          "videos": [
-            "PGA Championship - Round 3",
-            "Chelsea vs. Manchester City",
-            "Call of Duty League Major III Tournament | Day 2"
-          ],
-          "channels": [
-            "ESPN"
-          ],
-          "view_potential": "High, due to the popularity of live sports events and dedicated fan bases."
+      "analysis": {
+        "content_trends": {
+          "sports_and_live_events": {
+            "description": "Sports content and live events are prominently featured, accounting for a significant portion of total views.",
+            "evidence": [
+              "PGA Championship - Round 3",
+              "Live From the PGA Championship",
+              "NCAA Tournament, Regionals: Teams TBA",
+              "Baltimore Orioles at Washington Nationals"
+            ],
+            "insight": "Audiences are highly engaged with live sports and event coverage, suggesting a strong opportunity for real-time content in this category."
+          },
+          "entertainment_and_culture": {
+            "description": "Entertainment shows and cultural content also trend well.",
+            "evidence": [
+              "FOX News Saturday Night With Jimmy Failla",
+              "Star Wars: A New Hope",
+              "Real Time With Bill Maher"
+            ],
+            "insight": "There is a demand for entertainment and cultural discussions, indicating potential for content that combines pop culture with news or commentary."
+          },
+          "gaming_and_music": {
+            "description": "Gaming and music content appear in the trending list.",
+            "evidence": [
+              "Unstable SMP: Civil War",
+              "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.",
+              "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE"
+            ],
+            "insight": "Gaming and music continue to be popular, especially when integrated with live streaming and interactive elements."
+          }
         },
-        "gaming": {
-          "videos": [
-            "Unstable SMP: Civil War",
-            "TIME TO EXPLORE | Subnautica 2 - Part 3"
-          ],
-          "channels": [
-            "Parrot"
-          ],
-          "view_potential": "Moderate to High, especially for popular gaming franchises or multiplayer experiences."
+        "creator_patterns": {
+          "cross_category_creators": {
+            "description": "Channels are producing content across multiple categories.",
+            "evidence": [
+              "ESPN covers both sports events and highlights.",
+              "FOX News combines news with entertainment."
+            ],
+            "insight": "Channels can expand their audience by diversifying content across related categories."
+          },
+          "single_video_prominence": {
+            "description": "Top channels often have a single video trending, indicating targeted releases.",
+            "evidence": "Each top channel (ESPN, FOX News, AMC, Parrot, Tasik Yard) has only one video in the trending list.",
+            "insight": "Channels are likely focusing on quality over quantity, ensuring each release is strategically positioned to trend."
+          }
         },
-        "news": {
-          "videos": [
-            "The Big Weekend Show"
-          ],
-          "channels": [
-            "FOX News"
-          ],
-          "view_potential": "Consistently high, as news segments often attract regular viewership due to current events."
-        },
-        "music": {
-          "videos": [
-            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
-          ],
-          "channels": [
-            "Tasik Yard"
-          ],
-          "view_potential": "Moderate, with potential spikes if the music trends or goes viral."
-        },
-        "updates/livestreams": {
-          "videos": [
-            "UPDATE LIVESTREAM🔥The Strongest Battlegrounds🔥FACECAM + SUBSCRIBE"
-          ],
-          "channels": [
-            "STUD"
-          ],
-          "view_potential": "High, if the content is engaging and interactive, appealing to a live audience."
-        }
-      },
-      "creator_patterns": {
-        "diverse_content": "Channels focus on niche audiences, ranging from sports to gaming and news.",
-        "engagement_drivers": "Live events and engaging topics tend to drive higher views, as seen with sports and gaming content."
-      },
-      "market_opportunities": {
-        "sports_content": {
-          "opportunity": "Increase live coverage and highlight reels for major sports events to capitalize on high engagement rates.",
-          "suggestion": "Collaborate with sports influencers to expand reach."
-        },
-        "gaming_content": {
-          "opportunity": "Develop more episodic content or streaming series for popular games.",
-          "suggestion": "Utilize platforms like Twitch to cross-promote content."
-        },
-        "news_analysis": {
-          "opportunity": "Expand into daily news briefs or opinion segments to capture regular viewership.",
-          "suggestion": "Leverage trending news topics to attract a wider audience."
-        },
-        "music_promotion": {
-          "opportunity": "Promote music through collaborations and remixes to reach different audience demographics.",
-          "suggestion": "Utilize social media platforms like TikTok for viral challenges."
+        "market_opportunities": {
+          "live_event_coverage": {
+            "description": "High engagement in live sports and events.",
+            "opportunity": "Develop partnerships with sports leagues and event organizers to deliver exclusive live content."
+          },
+          "cross_promotion_between_new_and_established_content": {
+            "description": "Leveraging popular franchises and new concepts.",
+            "opportunity": "Combine established franchises, like Star Wars, with new formats or series to capture both existing fans and new viewers."
+          },
+          "interactive_and_community_driven_content": {
+            "description": "Interactive formats are gaining traction.",
+            "opportunity": "Invest in interactive elements such as live chats, viewer polls, and real-time feedback during live streams to increase viewer engagement and retention."
+          }
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 520311
+        "avg_views_per_video": 348953
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
