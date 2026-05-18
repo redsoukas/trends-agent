@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T13:29:33.263400",
+  "timestamp": "2026-05-18T16:12:46.824774",
   "date": "2026-05-18",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1296565,
-      "like_count": 35897,
-      "comment_count": 4062,
+      "view_count": 1368207,
+      "like_count": 36875,
+      "comment_count": 4182,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 2475855,
-      "like_count": 301009,
-      "comment_count": 11761,
+      "view_count": 4769711,
+      "like_count": 368284,
+      "comment_count": 13795,
       "category_id": "24",
       "tags": [
         "Peddi Trailer",
@@ -112,8 +112,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 80665,
-      "like_count": 2536,
+      "view_count": 82229,
+      "like_count": 2539,
       "comment_count": 259,
       "category_id": "22",
       "tags": [],
@@ -129,9 +129,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 418502,
-      "like_count": 22034,
-      "comment_count": 1179,
+      "view_count": 515036,
+      "like_count": 25667,
+      "comment_count": 1348,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
@@ -163,9 +163,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
       "duration": "PT13M23S",
       "duration_seconds": 803,
-      "view_count": 437821,
-      "like_count": 8781,
-      "comment_count": 1446,
+      "view_count": 461098,
+      "like_count": 9080,
+      "comment_count": 1491,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
@@ -234,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 2475855,
-      "like_count": 301009,
-      "comment_count": 11761,
+      "view_count": 4769711,
+      "like_count": 368284,
+      "comment_count": 13795,
       "category_id": "24",
       "tags": [
         "Peddi Trailer",
@@ -279,8 +279,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 80665,
-      "like_count": 2536,
+      "view_count": 82229,
+      "like_count": 2539,
       "comment_count": 259,
       "category_id": "22",
       "tags": [],
@@ -296,9 +296,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 418502,
-      "like_count": 22034,
-      "comment_count": 1179,
+      "view_count": 515036,
+      "like_count": 25667,
+      "comment_count": 1348,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
@@ -330,9 +330,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
       "duration": "PT13M23S",
       "duration_seconds": 803,
-      "view_count": 437821,
-      "like_count": 8781,
-      "comment_count": 1446,
+      "view_count": 461098,
+      "like_count": 9080,
+      "comment_count": 1491,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
@@ -381,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1296565,
-      "like_count": 35897,
-      "comment_count": 4062,
+      "view_count": 1368207,
+      "like_count": 36875,
+      "comment_count": 4182,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -404,70 +404,64 @@
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 10,
-        "total_views": 4709408,
-        "average_views_per_video": 470940.8
+        "average_views_per_video": 719628.1,
+        "categories": "Unknown"
       },
       "content_trends": {
-        "entertainment": {
-          "description": "The entertainment category, including trailers and teasers, occupies a significant portion of trending content.",
-          "videos": [
+        "entertainment_trend": {
+          "description": "Content related to entertainment, particularly TV series trailers and movie teasers, is prominent.",
+          "evidence": [
             "The Boys Season 5 Episode 8 Series Finale Trailer",
-            "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
-            "HOPE - Official Teaser - In Theaters Fall 2026",
+            "Peddi Official Trailer (Telugu)",
+            "HOPE - Official Teaser",
             "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending"
           ],
-          "insights": "High demand for trailers and teasers, particularly for popular series like 'The Boys' and upcoming movies, indicating a strong audience interest in previews of known and new entertainment properties."
+          "insight": "Trailers and teasers generate significant interest and views. This suggests a strong viewer base interested in upcoming series and movies."
         },
-        "sports": {
-          "description": "Sports content is highly represented, focusing on live events and championships.",
-          "videos": [
+        "sports_trend": {
+          "description": "Sports content is also trending, including live events or highlights.",
+          "evidence": [
             "Seattle Storm at Indiana Fever",
             "NASCAR All-Star Race",
             "PGA Championship - Final Round"
           ],
-          "insights": "Live sports events consistently capture viewer interest, suggesting opportunities for content around major sports events, highlights, and analysis."
+          "insight": "Sports events maintain a solid viewership, indicating opportunities for live coverage and highlight reels."
         },
-        "music": {
-          "description": "Music content remains a staple with culturally specific offerings.",
-          "videos": [
-            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music."
+        "music_trend": {
+          "description": "Music content, specifically regional or international music, is present.",
+          "evidence": [
+            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music"
           ],
-          "insights": "Niche and culturally specific music content has trend potential, indicating opportunities for global music content that targets various cultural backgrounds."
-        },
-        "news_and_talk": {
-          "description": "News and talk content trend with a focus on national issues.",
-          "videos": [
-            "One Nation With Brian Kilmeade"
-          ],
-          "insights": "Political and national discussions maintain relevance, suggesting a steady audience for news and opinion content."
-        },
-        "educational": {
-          "description": "Content that focuses on converting complex topics into understandable insights.",
-          "videos": [
-            "Turning Numbers Into Dreams"
-          ],
-          "insights": "Educational content that simplifies complex topics appeals to a broad audience, presenting opportunities in creating informative and transformative content."
+          "insight": "There's potential for growth in niche music content, particularly international genres that may have untapped audiences."
         }
       },
       "creator_patterns": {
-        "single_video_channels": {
-          "description": "Each channel in the top channels list contributed only one video to the trending list.",
-          "insights": "This pattern suggests a diverse range of content creators with no single creator dominating the trending list. Opportunities lie in increasing the frequency of uploads to capitalize on trending potential."
+        "channel_specialization": {
+          "description": "Channels appear to specialize in specific content areas, such as movie trailers or sports events.",
+          "evidence": [
+            "Rotten Tomatoes TV featuring series finales",
+            "NBCSN and FS1 featuring sports content",
+            "Vriddhi Cinemas focusing on regional cinema"
+          ],
+          "insight": "Channels that focus on niche content areas can effectively capture dedicated audiences. There's a trend towards specialization."
+        },
+        "cross-category potential": {
+          "description": "Channels have opportunities to cross-promote content across different categories.",
+          "example": "A channel like Rotten Tomatoes TV could potentially expand into covering more sports-related series."
         }
       },
       "market_opportunities": {
-        "cultural_diversity": {
-          "description": "Inclusion of culturally diverse content such as Telugu movies and PNG music.",
-          "insights": "Expanding content offerings to include diverse cultural perspectives can tap into underrepresented market segments."
+        "international_content": {
+          "description": "The presence of regional content indicates a growing interest in international media.",
+          "opportunity": "Expand offerings in regional languages and international content to capture diverse audiences."
         },
-        "timely_content": {
-          "description": "Trending sports and news content reflect the importance of timing.",
-          "insights": "Creating timely content around current events and live happenings can boost engagement and trend potential."
+        "sports and events": {
+          "description": "Consistent interest in sports suggests opportunities for content related to live coverage, analytical commentary, and behind-the-scenes footage.",
+          "opportunity": "Develop partnerships with sports leagues and events to provide exclusive content."
         },
-        "pre-release content": {
-          "description": "Trailers and teasers for series and movies are significant trend drivers.",
-          "insights": "Leveraging pre-release hype by creating speculative content, analysis, or fan theories can enhance engagement and viewership."
+        "technology and data": {
+          "description": "Content like 'Turning Numbers Into Dreams' suggests a niche interest in technology and data-driven narratives.",
+          "opportunity": "Create educational and informative content that merges storytelling with data insights to attract tech-savvy viewers."
         }
       },
       "metadata_stats": {
@@ -476,7 +470,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 470940
+        "avg_views_per_video": 719628
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
