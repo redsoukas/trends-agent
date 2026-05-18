@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-18T07:39:57.599524",
+  "timestamp": "2026-05-18T10:38:08.869953",
   "date": "2026-05-18",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 3,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1104393,
-      "like_count": 33121,
-      "comment_count": 3780,
+      "view_count": 1217244,
+      "like_count": 34735,
+      "comment_count": 3937,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 1320474,
-      "like_count": 85189,
-      "comment_count": 11628,
+      "view_count": 1405373,
+      "like_count": 92172,
+      "comment_count": 12291,
       "category_id": "24",
       "tags": [
         "ZEROBASEONE",
@@ -86,21 +86,21 @@
       "url": "https://www.youtube.com/watch?v=7QGRDC7ngpE"
     },
     {
-      "video_id": "9XrYxqBa2bU",
-      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
-      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-17T18:25:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
-      "duration": "PT13M23S",
-      "duration_seconds": 803,
-      "view_count": 380036,
-      "like_count": 7924,
-      "comment_count": 1327,
-      "category_id": "24",
+      "video_id": "Vt7860xZFXk",
+      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
+      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "channel_title": "NEON",
+      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
+      "published_at": "2026-05-18T01:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 327086,
+      "like_count": 18153,
+      "comment_count": 1016,
+      "category_id": "1",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
+      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
     },
     {
       "video_id": "EOE5qdR7GlM",
@@ -120,40 +120,6 @@
       "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
     },
     {
-      "video_id": "Vt7860xZFXk",
-      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
-      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "channel_title": "NEON",
-      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
-      "published_at": "2026-05-18T01:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 209362,
-      "like_count": 13887,
-      "comment_count": 816,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
-    },
-    {
-      "video_id": "35_7RqerOKs",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-18T06:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/35_7RqerOKs/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=35_7RqerOKs"
-    },
-    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -163,57 +129,80 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 78830,
-      "like_count": 2513,
-      "comment_count": 258,
+      "view_count": 79689,
+      "like_count": 2529,
+      "comment_count": 259,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "v4Xfw1HT6ME",
-      "title": "Teardown Added Multiplayer...",
-      "description": "Teardown is back and somehow worse than ever before…\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Kryoz \nhttps://www.twitch.tv/EliLikesRice\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative ",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-05-17T19:13:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v4Xfw1HT6ME/hqdefault.jpg",
-      "duration": "PT21M31S",
-      "duration_seconds": 1291,
-      "view_count": 826707,
-      "like_count": 61670,
-      "comment_count": 2228,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "teardown",
-        "teardown gameplay",
-        "teardown mods",
-        "teardown game",
-        "teardown destruction",
-        "teardown funny moments"
-      ],
-      "url": "https://www.youtube.com/watch?v=v4Xfw1HT6ME"
+      "video_id": "9XrYxqBa2bU",
+      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
+      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-17T18:25:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
+      "duration": "PT13M23S",
+      "duration_seconds": 803,
+      "view_count": 413140,
+      "like_count": 8362,
+      "comment_count": 1384,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
     },
     {
-      "video_id": "7SCDbe27-6g",
-      "title": "NCAA Tournament: Virginia at Tennessee",
-      "description": "Knoxville Regional, Game 6.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-18T02:43:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7SCDbe27-6g/hqdefault.jpg",
-      "duration": "PT2H29M",
-      "duration_seconds": 8940,
+      "video_id": "VH7NtZrHoAU",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-18T08:21:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VH7NtZrHoAU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7SCDbe27-6g"
+      "url": "https://www.youtube.com/watch?v=VH7NtZrHoAU"
+    },
+    {
+      "video_id": "ugILckQ9ePg",
+      "title": "Turning Numbers Into Dreams",
+      "description": "Ben and Erin help their friends open the first public retail space in the hotel, Scotsman Company. Tensions rise as money's tight with a big loan delayed, but a newly discovered space offers hope if they can agree on how to use it.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-05-18T07:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ugILckQ9ePg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ugILckQ9ePg"
+    },
+    {
+      "video_id": "S1UOK7RMjdQ",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-18T08:11:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S1UOK7RMjdQ/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=S1UOK7RMjdQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -245,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 1320474,
-      "like_count": 85189,
-      "comment_count": 11628,
+      "view_count": 1405373,
+      "like_count": 92172,
+      "comment_count": 12291,
       "category_id": "24",
       "tags": [
         "ZEROBASEONE",
@@ -264,21 +253,21 @@
       "url": "https://www.youtube.com/watch?v=7QGRDC7ngpE"
     },
     {
-      "video_id": "9XrYxqBa2bU",
-      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
-      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-17T18:25:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
-      "duration": "PT13M23S",
-      "duration_seconds": 803,
-      "view_count": 380036,
-      "like_count": 7924,
-      "comment_count": 1327,
-      "category_id": "24",
+      "video_id": "Vt7860xZFXk",
+      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
+      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "channel_title": "NEON",
+      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
+      "published_at": "2026-05-18T01:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 327086,
+      "like_count": 18153,
+      "comment_count": 1016,
+      "category_id": "1",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
+      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
     },
     {
       "video_id": "EOE5qdR7GlM",
@@ -298,40 +287,6 @@
       "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
     },
     {
-      "video_id": "Vt7860xZFXk",
-      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
-      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "channel_title": "NEON",
-      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
-      "published_at": "2026-05-18T01:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 209362,
-      "like_count": 13887,
-      "comment_count": 816,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
-    },
-    {
-      "video_id": "35_7RqerOKs",
-      "title": "The Big Weekend Show",
-      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-18T06:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/35_7RqerOKs/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=35_7RqerOKs"
-    },
-    {
       "video_id": "HIqblanV6H8",
       "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
       "description": "",
@@ -341,57 +296,80 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 78830,
-      "like_count": 2513,
-      "comment_count": 258,
+      "view_count": 79689,
+      "like_count": 2529,
+      "comment_count": 259,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "v4Xfw1HT6ME",
-      "title": "Teardown Added Multiplayer...",
-      "description": "Teardown is back and somehow worse than ever before…\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Kryoz \nhttps://www.twitch.tv/EliLikesRice\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative ",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-05-17T19:13:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v4Xfw1HT6ME/hqdefault.jpg",
-      "duration": "PT21M31S",
-      "duration_seconds": 1291,
-      "view_count": 826707,
-      "like_count": 61670,
-      "comment_count": 2228,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "teardown",
-        "teardown gameplay",
-        "teardown mods",
-        "teardown game",
-        "teardown destruction",
-        "teardown funny moments"
-      ],
-      "url": "https://www.youtube.com/watch?v=v4Xfw1HT6ME"
+      "video_id": "9XrYxqBa2bU",
+      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
+      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-17T18:25:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
+      "duration": "PT13M23S",
+      "duration_seconds": 803,
+      "view_count": 413140,
+      "like_count": 8362,
+      "comment_count": 1384,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
     },
     {
-      "video_id": "7SCDbe27-6g",
-      "title": "NCAA Tournament: Virginia at Tennessee",
-      "description": "Knoxville Regional, Game 6.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-18T02:43:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7SCDbe27-6g/hqdefault.jpg",
-      "duration": "PT2H29M",
-      "duration_seconds": 8940,
+      "video_id": "VH7NtZrHoAU",
+      "title": "One Nation With Brian Kilmeade",
+      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-18T08:21:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VH7NtZrHoAU/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7SCDbe27-6g"
+      "url": "https://www.youtube.com/watch?v=VH7NtZrHoAU"
+    },
+    {
+      "video_id": "ugILckQ9ePg",
+      "title": "Turning Numbers Into Dreams",
+      "description": "Ben and Erin help their friends open the first public retail space in the hotel, Scotsman Company. Tensions rise as money's tight with a big loan delayed, but a newly discovered space offers hope if they can agree on how to use it.",
+      "channel_title": "HGTV",
+      "channel_id": "UClxYtgBSuQzBdpIsGHXJx5g",
+      "published_at": "2026-05-18T07:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ugILckQ9ePg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ugILckQ9ePg"
+    },
+    {
+      "video_id": "S1UOK7RMjdQ",
+      "title": "Live From the PGA Championship",
+      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
+      "channel_title": "Golf Channel",
+      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
+      "published_at": "2026-05-18T08:11:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S1UOK7RMjdQ/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=S1UOK7RMjdQ"
     },
     {
       "video_id": "Ks_VD4xy8ow",
@@ -403,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1104393,
-      "like_count": 33121,
-      "comment_count": 3780,
+      "view_count": 1217244,
+      "like_count": 34735,
+      "comment_count": 3937,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -426,68 +404,52 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_and_sports_dominance": {
-          "description": "The majority of trending videos fall into the entertainment and sports categories. This includes TV series trailers, sports events, and music videos.",
-          "data": {
-            "related_videos": 8,
-            "percentage_of_total": 80
-          },
-          "insight": "Content creators focusing on these areas may see higher engagement and visibility."
+        "entertainment_dominance": {
+          "observation": "Entertainment content, particularly related to TV series and music, is dominant.",
+          "evidence": [
+            "Videos related to 'The Boys' series finale appear twice, indicating high interest in TV series finales.",
+            "Music video by ZEROBASEONE is also trending, showing the appeal of K-pop or international music."
+          ]
         },
-        "trailer_and_teaser_popularity": {
-          "description": "Trailers and teasers for TV series and movies, such as 'The Boys' and 'HOPE', are trending.",
-          "data": {
-            "related_videos": 3,
-            "percentage_of_total": 30
-          },
-          "insight": "There's a strong audience interest in upcoming releases, indicating a market opportunity for early promotional content."
-        },
-        "music_video_trend": {
-          "description": "Music videos continue to be a significant trend, as seen with ZEROBASEONE's MV.",
-          "data": {
-            "related_videos": 1,
-            "percentage_of_total": 10
-          },
-          "insight": "Music videos remain a staple in trending content, offering opportunities for artists to reach wide audiences."
-        },
-        "sports_event_highlights": {
-          "description": "Sports events like NASCAR, PGA, and NCAA are featured prominently.",
-          "data": {
-            "related_videos": 3,
-            "percentage_of_total": 30
-          },
-          "insight": "Highlight reels and coverage of major sports events attract significant views, suggesting potential for content creators to focus on sports analysis and summaries."
+        "sports_interest": {
+          "observation": "Sports events hold significant viewer interest.",
+          "evidence": [
+            "NASCAR and PGA Championship both have videos trending, indicating strong engagement with live sports and highlights."
+          ]
         }
       },
       "creator_patterns": {
-        "single_video_success": {
-          "description": "Top channels each have only one trending video, indicating that a single piece of content can achieve significant reach.",
-          "data": {
-            "channels_with_one_video": 5,
-            "percentage_of_total_channels": 100
-          },
-          "insight": "Channels can maximize impact by focusing on high-quality, engaging content that resonates with current trends."
+        "diverse_channels": {
+          "observation": "Trending videos come from a variety of channels, suggesting diverse content appeal.",
+          "evidence": [
+            "Top channels include Rotten Tomatoes TV, FS1, ZEROBASEONE, NEON, and ESPN, spanning entertainment reviews, sports, music, and film."
+          ]
         },
-        "diverse_content_appeal": {
-          "description": "The diversity in content types (trailers, sports, music) suggests a broad audience interest.",
-          "data": {
-            "distinct_content_types": 5
-          },
-          "insight": "Creators should consider diversifying content offerings to attract different audience segments."
+        "repeated_themes": {
+          "observation": "Certain themes are repeated by creators to maintain audience interest.",
+          "evidence": [
+            "Multiple trailers and teasers for 'The Boys' suggest a strategy to build anticipation for series finales."
+          ]
         }
       },
       "market_opportunities": {
-        "strategic_collaborations": {
-          "description": "Collaborations between content creators in related fields (e.g., sports and entertainment) could enhance reach.",
-          "insight": "Cross-promotion and partnerships can lead to shared audiences and increased engagement."
+        "cross-promotion": {
+          "opportunity": "There is potential for cross-promotional content between entertainment and sports.",
+          "strategy": "Leverage the popularity of entertainment to engage sports audiences through themed campaigns, such as athlete appearances in TV or music promos."
         },
-        "timely_content_releases": {
-          "description": "Timing releases around major events or series finales could enhance visibility.",
-          "insight": "Launch content strategically aligned with popular events. For instance, sports commentary during major championships or trailers before anticipated series finales."
-        },
-        "exploration_of_new_formats": {
-          "description": "Experimentation with different video formats like teasers, episodic content, and highlight reels.",
-          "insight": "Consider producing various types of content to see which format resonates best with your audience."
+        "international_music": {
+          "opportunity": "International music, especially from Asia, has strong appeal.",
+          "strategy": "Consider collaborations with international artists and feature diverse music genres in content to tap into global fanbases."
+        }
+      },
+      "viewer_engagement": {
+        "high_viewership": {
+          "observation": "Average views per video are relatively high, indicating effective viewer engagement.",
+          "calculation": {
+            "average_views_per_video": 344253.2,
+            "total_views": 3442532,
+            "total_videos": 10
+          }
         }
       },
       "metadata_stats": {
@@ -496,7 +458,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 391980
+        "avg_views_per_video": 344253
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
