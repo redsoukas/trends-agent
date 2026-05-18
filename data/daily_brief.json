@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T18:46:45.464436",
+  "timestamp": "2026-05-18T21:33:59.768549",
   "date": "2026-05-18",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 517157,
-      "like_count": 43015,
-      "comment_count": 3393,
+      "view_count": 825271,
+      "like_count": 53282,
+      "comment_count": 4053,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -39,6 +39,51 @@
         "hbo max teaser"
       ],
       "url": "https://www.youtube.com/watch?v=XmcIjxwLJcY"
+    },
+    {
+      "video_id": "qzOVWOoNXwg",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-18T20:12:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qzOVWOoNXwg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=qzOVWOoNXwg"
+    },
+    {
+      "video_id": "sF2dj7ycZvA",
+      "title": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
+      "description": "His arena. His rules. 🔥\nHis game begins now ❤️‍🔥\n \n#PEDDITrailer OUT NOW 💥\n\n#PEDDI in cinemas worldwide on 4th June.\n#GetReadyForPeddi 💥💥\n\nCast: Mega PowerStar Ram Charan, Janhvi Kapoor, Shiva Rajkumar, Jagapathi Babu, Divyendu Sharma\n\nTechnical Crew:\nWriter, Director: Buchi Babu Sana\nPresents: Mythri Movie Makers, Sukumar Writings\nBanner: Vriddhi Cinemas\nProducer: Venkata Satish Kilaru\nCo-producer: Ishan Saksena\nMusic Director: AR Rahman\nDOP: Ratnavelu ISC\nEditor: Navin Nooli\nProduction Design: Avinash Kolla\nChoreographer: Bosco Martis\nExecutive Producer: V. Y. Praveen Kumar\nVFX Supervisor - Sanath PC\nMarketing: First Show\nMusic Label: T-Series\nDI: Annapurna Studios\nTrailer Cut: Vijaycuts (Vijay vardhan K)\n\n#RamCharan #JanhviKapoor #ARRahman #BuchiBabuSana #VriddhiCinemas",
+      "channel_title": "Vriddhi Cinemas",
+      "channel_id": "UC6lsO963dMizsl_EC5qAfJQ",
+      "published_at": "2026-05-18T10:35:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
+      "duration": "PT3M7S",
+      "duration_seconds": 187,
+      "view_count": 11002183,
+      "like_count": 406085,
+      "comment_count": 15243,
+      "category_id": "24",
+      "tags": [
+        "Peddi Trailer",
+        "Peddi Official Trailer",
+        "Peddi Telugu Trailer",
+        "Ram Charan Peddi",
+        "Ram Charan New Movie",
+        "Peddi Movie",
+        "Janhvi Kapoor Telugu Movie",
+        "AR Rahman Peddi",
+        "Buchi Babu Sana",
+        "Peddi Release"
+      ],
+      "url": "https://www.youtube.com/watch?v=sF2dj7ycZvA"
     },
     {
       "video_id": "W5UNBSzC8wI",
@@ -58,66 +103,21 @@
       "url": "https://www.youtube.com/watch?v=W5UNBSzC8wI"
     },
     {
-      "video_id": "sF2dj7ycZvA",
-      "title": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
-      "description": "His arena. His rules. 🔥\nHis game begins now ❤️‍🔥\n \n#PEDDITrailer OUT NOW 💥\n\n#PEDDI in cinemas worldwide on 4th June.\n#GetReadyForPeddi 💥💥\n\nCast: Mega PowerStar Ram Charan, Janhvi Kapoor, Shiva Rajkumar, Jagapathi Babu, Divyendu Sharma\n\nTechnical Crew:\nWriter, Director: Buchi Babu Sana\nPresents: Mythri Movie Makers, Sukumar Writings\nBanner: Vriddhi Cinemas\nProducer: Venkata Satish Kilaru\nCo-producer: Ishan Saksena\nMusic Director: AR Rahman\nDOP: Ratnavelu ISC\nEditor: Navin Nooli\nProduction Design: Avinash Kolla\nChoreographer: Bosco Martis\nExecutive Producer: V. Y. Praveen Kumar\nVFX Supervisor - Sanath PC\nMarketing: First Show\nMusic Label: T-Series\nDI: Annapurna Studios\nTrailer Cut: Vijaycuts (Vijay vardhan K)\n\n#RamCharan #JanhviKapoor #ARRahman #BuchiBabuSana #VriddhiCinemas",
-      "channel_title": "Vriddhi Cinemas",
-      "channel_id": "UC6lsO963dMizsl_EC5qAfJQ",
-      "published_at": "2026-05-18T10:35:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
-      "duration": "PT3M7S",
-      "duration_seconds": 187,
-      "view_count": 7365434,
-      "like_count": 398418,
-      "comment_count": 14846,
-      "category_id": "24",
-      "tags": [
-        "Peddi Trailer",
-        "Peddi Official Trailer",
-        "Peddi Telugu Trailer",
-        "Ram Charan Peddi",
-        "Ram Charan New Movie",
-        "Peddi Movie",
-        "Janhvi Kapoor Telugu Movie",
-        "AR Rahman Peddi",
-        "Buchi Babu Sana",
-        "Peddi Release"
-      ],
-      "url": "https://www.youtube.com/watch?v=sF2dj7ycZvA"
-    },
-    {
-      "video_id": "5JtEIm2BIeY",
-      "title": "NASCAR All-Star Race",
-      "description": "NASCAR Cup Series heads to Dover Motor Speedway for the annual All-Star Race. Top drivers compete for a $1 million prize in this non-points exhibition. The field includes 2025 and 2026 race winners looking to join the ranks of past event champions.",
-      "channel_title": "FS1",
-      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
-      "published_at": "2026-05-18T03:29:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5JtEIm2BIeY/hqdefault.jpg",
-      "duration": "PT4H19M40S",
-      "duration_seconds": 15580,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=5JtEIm2BIeY"
-    },
-    {
-      "video_id": "HIqblanV6H8",
-      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
-      "description": "",
-      "channel_title": "Tasik Yard",
-      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
-      "published_at": "2026-05-07T08:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
-      "duration": "PT4M13S",
-      "duration_seconds": 253,
-      "view_count": 81415,
-      "like_count": 2542,
-      "comment_count": 260,
+      "video_id": "6GIlwd5rhq8",
+      "title": "Reik - Te Fuiste De Aqui (Letra)",
+      "description": "Te fuiste de aqui sin pensarlo\nDijiste que no me amabas más\nYo te supliqué quédate aquí\nYo no se que haria sin ti\nNo creo soportarlo\n\nTe fuiste de aqui y todo ha acabado\nY llora mi alma en soledad\nLa vida me puso junto a ti\nNunca pude predecir\nMe convertiría en tu pasado\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nTe fuiste de aqui y todo es silencio\nQuedaron las huellas de nuestro amor\nSueño que te abrazo una vez más\nMe despierto y ya no estas\nMe estoy ahogando en el vacío\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste de aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nY aún siento en el aire que me acaricia tu voz\nMe robast",
+      "channel_title": "Secondverse",
+      "channel_id": "UC7VlFZzLxACJ3yexHMNyK5Q",
+      "published_at": "2026-05-13T20:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6GIlwd5rhq8/hqdefault.jpg",
+      "duration": "PT3M44S",
+      "duration_seconds": 224,
+      "view_count": 317973,
+      "like_count": 325,
+      "comment_count": 1,
       "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+      "url": "https://www.youtube.com/watch?v=6GIlwd5rhq8"
     },
     {
       "video_id": "Ks_VD4xy8ow",
@@ -129,9 +129,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1442905,
-      "like_count": 38213,
-      "comment_count": 4297,
+      "view_count": 1523385,
+      "like_count": 39291,
+      "comment_count": 4395,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -148,6 +148,57 @@
       "url": "https://www.youtube.com/watch?v=Ks_VD4xy8ow"
     },
     {
+      "video_id": "5JtEIm2BIeY",
+      "title": "NASCAR All-Star Race",
+      "description": "NASCAR Cup Series heads to Dover Motor Speedway for the annual All-Star Race. Top drivers compete for a $1 million prize in this non-points exhibition. The field includes 2025 and 2026 race winners looking to join the ranks of past event champions.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-18T03:29:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5JtEIm2BIeY/hqdefault.jpg",
+      "duration": "PT4H19M40S",
+      "duration_seconds": 15580,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=5JtEIm2BIeY"
+    },
+    {
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 81639,
+      "like_count": 2547,
+      "comment_count": 260,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+    },
+    {
+      "video_id": "Vt7860xZFXk",
+      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
+      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "channel_title": "NEON",
+      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
+      "published_at": "2026-05-18T01:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 666306,
+      "like_count": 31119,
+      "comment_count": 1520,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
+    },
+    {
       "video_id": "EOE5qdR7GlM",
       "title": "PGA Championship - Final Round",
       "description": "The PGA Championship concludes with the final round at Aronimink Golf Club in Pennsylvania. The remaining field navigates the 7,394-yard, par-70 layout over the final 18 holes to secure a share of the $19 million tournament prize purse.",
@@ -163,57 +214,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
-    },
-    {
-      "video_id": "Vt7860xZFXk",
-      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
-      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "channel_title": "NEON",
-      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
-      "published_at": "2026-05-18T01:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 591273,
-      "like_count": 28526,
-      "comment_count": 1428,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
-    },
-    {
-      "video_id": "VH7NtZrHoAU",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-18T08:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VH7NtZrHoAU/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=VH7NtZrHoAU"
-    },
-    {
-      "video_id": "6GIlwd5rhq8",
-      "title": "Reik - Te Fuiste De Aqui (Letra)",
-      "description": "Te fuiste de aqui sin pensarlo\nDijiste que no me amabas más\nYo te supliqué quédate aquí\nYo no se que haria sin ti\nNo creo soportarlo\n\nTe fuiste de aqui y todo ha acabado\nY llora mi alma en soledad\nLa vida me puso junto a ti\nNunca pude predecir\nMe convertiría en tu pasado\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nTe fuiste de aqui y todo es silencio\nQuedaron las huellas de nuestro amor\nSueño que te abrazo una vez más\nMe despierto y ya no estas\nMe estoy ahogando en el vacío\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste de aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nY aún siento en el aire que me acaricia tu voz\nMe robast",
-      "channel_title": "Secondverse",
-      "channel_id": "UC7VlFZzLxACJ3yexHMNyK5Q",
-      "published_at": "2026-05-13T20:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6GIlwd5rhq8/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 267701,
-      "like_count": 289,
-      "comment_count": 1,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6GIlwd5rhq8"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 517157,
-      "like_count": 43015,
-      "comment_count": 3393,
+      "view_count": 825271,
+      "like_count": 53282,
+      "comment_count": 4053,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -245,6 +245,51 @@
         "hbo max teaser"
       ],
       "url": "https://www.youtube.com/watch?v=XmcIjxwLJcY"
+    },
+    {
+      "video_id": "qzOVWOoNXwg",
+      "title": "FOX and Friends",
+      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-18T20:12:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qzOVWOoNXwg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=qzOVWOoNXwg"
+    },
+    {
+      "video_id": "sF2dj7ycZvA",
+      "title": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
+      "description": "His arena. His rules. 🔥\nHis game begins now ❤️‍🔥\n \n#PEDDITrailer OUT NOW 💥\n\n#PEDDI in cinemas worldwide on 4th June.\n#GetReadyForPeddi 💥💥\n\nCast: Mega PowerStar Ram Charan, Janhvi Kapoor, Shiva Rajkumar, Jagapathi Babu, Divyendu Sharma\n\nTechnical Crew:\nWriter, Director: Buchi Babu Sana\nPresents: Mythri Movie Makers, Sukumar Writings\nBanner: Vriddhi Cinemas\nProducer: Venkata Satish Kilaru\nCo-producer: Ishan Saksena\nMusic Director: AR Rahman\nDOP: Ratnavelu ISC\nEditor: Navin Nooli\nProduction Design: Avinash Kolla\nChoreographer: Bosco Martis\nExecutive Producer: V. Y. Praveen Kumar\nVFX Supervisor - Sanath PC\nMarketing: First Show\nMusic Label: T-Series\nDI: Annapurna Studios\nTrailer Cut: Vijaycuts (Vijay vardhan K)\n\n#RamCharan #JanhviKapoor #ARRahman #BuchiBabuSana #VriddhiCinemas",
+      "channel_title": "Vriddhi Cinemas",
+      "channel_id": "UC6lsO963dMizsl_EC5qAfJQ",
+      "published_at": "2026-05-18T10:35:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
+      "duration": "PT3M7S",
+      "duration_seconds": 187,
+      "view_count": 11002183,
+      "like_count": 406085,
+      "comment_count": 15243,
+      "category_id": "24",
+      "tags": [
+        "Peddi Trailer",
+        "Peddi Official Trailer",
+        "Peddi Telugu Trailer",
+        "Ram Charan Peddi",
+        "Ram Charan New Movie",
+        "Peddi Movie",
+        "Janhvi Kapoor Telugu Movie",
+        "AR Rahman Peddi",
+        "Buchi Babu Sana",
+        "Peddi Release"
+      ],
+      "url": "https://www.youtube.com/watch?v=sF2dj7ycZvA"
     },
     {
       "video_id": "W5UNBSzC8wI",
@@ -264,32 +309,21 @@
       "url": "https://www.youtube.com/watch?v=W5UNBSzC8wI"
     },
     {
-      "video_id": "sF2dj7ycZvA",
-      "title": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
-      "description": "His arena. His rules. 🔥\nHis game begins now ❤️‍🔥\n \n#PEDDITrailer OUT NOW 💥\n\n#PEDDI in cinemas worldwide on 4th June.\n#GetReadyForPeddi 💥💥\n\nCast: Mega PowerStar Ram Charan, Janhvi Kapoor, Shiva Rajkumar, Jagapathi Babu, Divyendu Sharma\n\nTechnical Crew:\nWriter, Director: Buchi Babu Sana\nPresents: Mythri Movie Makers, Sukumar Writings\nBanner: Vriddhi Cinemas\nProducer: Venkata Satish Kilaru\nCo-producer: Ishan Saksena\nMusic Director: AR Rahman\nDOP: Ratnavelu ISC\nEditor: Navin Nooli\nProduction Design: Avinash Kolla\nChoreographer: Bosco Martis\nExecutive Producer: V. Y. Praveen Kumar\nVFX Supervisor - Sanath PC\nMarketing: First Show\nMusic Label: T-Series\nDI: Annapurna Studios\nTrailer Cut: Vijaycuts (Vijay vardhan K)\n\n#RamCharan #JanhviKapoor #ARRahman #BuchiBabuSana #VriddhiCinemas",
-      "channel_title": "Vriddhi Cinemas",
-      "channel_id": "UC6lsO963dMizsl_EC5qAfJQ",
-      "published_at": "2026-05-18T10:35:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sF2dj7ycZvA/hqdefault.jpg",
-      "duration": "PT3M7S",
-      "duration_seconds": 187,
-      "view_count": 7365434,
-      "like_count": 398418,
-      "comment_count": 14846,
-      "category_id": "24",
-      "tags": [
-        "Peddi Trailer",
-        "Peddi Official Trailer",
-        "Peddi Telugu Trailer",
-        "Ram Charan Peddi",
-        "Ram Charan New Movie",
-        "Peddi Movie",
-        "Janhvi Kapoor Telugu Movie",
-        "AR Rahman Peddi",
-        "Buchi Babu Sana",
-        "Peddi Release"
-      ],
-      "url": "https://www.youtube.com/watch?v=sF2dj7ycZvA"
+      "video_id": "6GIlwd5rhq8",
+      "title": "Reik - Te Fuiste De Aqui (Letra)",
+      "description": "Te fuiste de aqui sin pensarlo\nDijiste que no me amabas más\nYo te supliqué quédate aquí\nYo no se que haria sin ti\nNo creo soportarlo\n\nTe fuiste de aqui y todo ha acabado\nY llora mi alma en soledad\nLa vida me puso junto a ti\nNunca pude predecir\nMe convertiría en tu pasado\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nTe fuiste de aqui y todo es silencio\nQuedaron las huellas de nuestro amor\nSueño que te abrazo una vez más\nMe despierto y ya no estas\nMe estoy ahogando en el vacío\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste de aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nY aún siento en el aire que me acaricia tu voz\nMe robast",
+      "channel_title": "Secondverse",
+      "channel_id": "UC7VlFZzLxACJ3yexHMNyK5Q",
+      "published_at": "2026-05-13T20:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6GIlwd5rhq8/hqdefault.jpg",
+      "duration": "PT3M44S",
+      "duration_seconds": 224,
+      "view_count": 317973,
+      "like_count": 325,
+      "comment_count": 1,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6GIlwd5rhq8"
     },
     {
       "video_id": "5JtEIm2BIeY",
@@ -318,12 +352,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 81415,
-      "like_count": 2542,
+      "view_count": 81639,
+      "like_count": 2547,
       "comment_count": 260,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
+    },
+    {
+      "video_id": "Vt7860xZFXk",
+      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
+      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "channel_title": "NEON",
+      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
+      "published_at": "2026-05-18T01:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 666306,
+      "like_count": 31119,
+      "comment_count": 1520,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
     },
     {
       "video_id": "EOE5qdR7GlM",
@@ -343,57 +394,6 @@
       "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
     },
     {
-      "video_id": "Vt7860xZFXk",
-      "title": "HOPE - Official Teaser - In Theaters Fall 2026",
-      "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village.  In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "channel_title": "NEON",
-      "channel_id": "UCpy5dRhZd-JbZP4NsrnLt1w",
-      "published_at": "2026-05-18T01:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vt7860xZFXk/hqdefault.jpg",
-      "duration": "PT1M39S",
-      "duration_seconds": 99,
-      "view_count": 591273,
-      "like_count": 28526,
-      "comment_count": 1428,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Vt7860xZFXk"
-    },
-    {
-      "video_id": "VH7NtZrHoAU",
-      "title": "One Nation With Brian Kilmeade",
-      "description": "In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-18T08:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VH7NtZrHoAU/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=VH7NtZrHoAU"
-    },
-    {
-      "video_id": "6GIlwd5rhq8",
-      "title": "Reik - Te Fuiste De Aqui (Letra)",
-      "description": "Te fuiste de aqui sin pensarlo\nDijiste que no me amabas más\nYo te supliqué quédate aquí\nYo no se que haria sin ti\nNo creo soportarlo\n\nTe fuiste de aqui y todo ha acabado\nY llora mi alma en soledad\nLa vida me puso junto a ti\nNunca pude predecir\nMe convertiría en tu pasado\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nTe fuiste de aqui y todo es silencio\nQuedaron las huellas de nuestro amor\nSueño que te abrazo una vez más\nMe despierto y ya no estas\nMe estoy ahogando en el vacío\n\nTe fuiste de aquí encontraste otra vida\nTe fuiste de aquí enterraste la mía\nY aunque no estés yo sigo respirando aquel amor\nTe fuiste de aquí descubriste otros brazos\nBorraste mis besos, me hiciste pedazos\nY duele ver que le entregaste a otro el corazón\n\nY aún siento en el aire que me acaricia tu voz\nMe robast",
-      "channel_title": "Secondverse",
-      "channel_id": "UC7VlFZzLxACJ3yexHMNyK5Q",
-      "published_at": "2026-05-13T20:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6GIlwd5rhq8/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "duration_seconds": 224,
-      "view_count": 267701,
-      "like_count": 289,
-      "comment_count": 1,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=6GIlwd5rhq8"
-    },
-    {
       "video_id": "Ks_VD4xy8ow",
       "title": "The Boys Season 5 Episode 8 Series Finale Trailer",
       "description": "Check out the new The Boys Season 5 Episode 8 Trailer starring Karl Urban!\n► Learn more: https://www.rottentomatoes.com/tv/the_boys_2019/?cmp=RTTV_YouTube_Desc \n \nSubscribe to the channel and click the bell icon to be notified of all the latest TV & streaming series: http://bit.ly/2qTF6ZY  \n\n► Shop Rotten Tomatoes: http://bit.ly/3m59uhu\n► Download the app: https://bit.ly/4lcQqHs\n\nUS Air Date: May 20, 2026\nStarring: Karl Urban, Jack Quaid, Antony Starr\nNetwork: Prime Video\nSynopsis: Can't show ya much without spoilin' the whole kit and caboodle. But Wednesday, we're going all the way. No matter the cost. Til the job's fuckin' done.\n\nWatch More:  \n► Rotten Tomatoes Originals: http://bit.ly/2D3sipV  \n► What to Watch: https://bit.ly/3x6Q01d\n► Fresh New Clips: https://bit.ly/3mJePrv    \n► Hot New Trailers: http://bit.ly/2qThrsF   \n► New TV This Week: http://bit.ly/2Cq3wzc \n\nRotten Tomatoes TV delivers Fresh TV at a click! Subscribe now for the best trailers, clips, sneak peeks, and binge gu",
@@ -403,9 +403,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 1442905,
-      "like_count": 38213,
-      "comment_count": 4297,
+      "view_count": 1523385,
+      "like_count": 39291,
+      "comment_count": 4395,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -425,87 +425,41 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment_focus": {
-          "description": "The majority of trending content is entertainment-focused, with teasers and trailers being prominently featured.",
-          "data_points": {
-            "total_entertainment_videos": 6,
-            "examples": [
-              "Lanterns | Official Teaser 2 | HBO Max",
-              "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
-              "The Boys Season 5 Episode 8 Series Finale Trailer",
-              "HOPE - Official Teaser - In Theaters Fall 2026"
-            ]
+      "trending_analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 14416757,
+          "average_views_per_video": 1441675.7
+        },
+        "content_trends": {
+          "entertainment_dominance": {
+            "description": "Entertainment content seems to dominate the trending list, with official trailers and teasers from HBO Max and Vriddhi Cinemas indicating high engagement in cinematic content.",
+            "actionable_insight": "Consider creating teaser or trailer content for upcoming projects to capture audience interest and increase viewership."
+          },
+          "diverse_interest": {
+            "description": "The trending list shows a variety of interests, from sports (NASCAR, PGA Championship) to music (Reik, Innocent Tumas) and news (FOX and Friends).",
+            "actionable_insight": "Explore content that taps into current events and diverse interests to appeal to a broader audience base."
           }
         },
-        "sports_content": {
-          "description": "Sports content remains popular, capturing significant viewer interest.",
-          "data_points": {
-            "total_sports_videos": 3,
-            "examples": [
-              "Seattle Storm at Indiana Fever",
-              "NASCAR All-Star Race",
-              "PGA Championship - Final Round"
-            ]
+        "creator_patterns": {
+          "top_channels_emphasis": {
+            "description": "Top channels like HBO Max and FOX News each have one video in the trending list, showing that established channels with large followings can effectively push content to trend.",
+            "actionable_insight": "Leverage partnerships with established channels or influencers to boost content visibility and increase chances of trending."
+          },
+          "language_and_cultural_inclusion": {
+            "description": "The inclusion of a Telugu trailer suggests a trend towards regional and language-specific content gaining traction.",
+            "actionable_insight": "Create content that resonates with regional languages and cultures to tap into niche markets and boost engagement."
           }
         },
-        "music_inclusion": {
-          "description": "Music content, particularly international and regional music, is represented in trending videos.",
-          "data_points": {
-            "total_music_videos": 2,
-            "examples": [
-              "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music.",
-              "Reik - Te Fuiste De Aqui (Letra)"
-            ]
+        "market_opportunities": {
+          "regional_content_expansion": {
+            "description": "The presence of Telugu content indicates an opportunity to expand into regional markets with targeted content.",
+            "actionable_insight": "Identify key regional markets and develop content strategies that cater to those specific audiences, potentially collaborating with local creators."
+          },
+          "cross-platform collaboration": {
+            "description": "The mix of different content types suggests potential in cross-platform promotions and collaborations.",
+            "actionable_insight": "Engage in collaborations that span different content types and platforms (e.g., trailers on YouTube and promotions on streaming services) to maximize reach."
           }
-        }
-      },
-      "creator_patterns": {
-        "diverse_sources": {
-          "description": "Trending content is sourced from a diverse range of channels, indicating a healthy variety of content creators.",
-          "data_points": {
-            "unique_channels": 5,
-            "examples": [
-              "HBO Max",
-              "NBCSN",
-              "Vriddhi Cinemas",
-              "FS1",
-              "Tasik Yard"
-            ]
-          }
-        },
-        "platforms": {
-          "description": "Channels associated with major platforms and networks, such as HBO Max and NBCSN, continue to have strong visibility in trending lists.",
-          "data_points": {
-            "major_platform_videos": 2,
-            "examples": [
-              "HBO Max",
-              "NBCSN"
-            ]
-          }
-        }
-      },
-      "market_opportunities": {
-        "regional_content_expansion": {
-          "description": "There is an opportunity to expand regional content, as seen with Telugu and PNG music videos trending.",
-          "action_points": [
-            "Increase investment in regional content production.",
-            "Collaborate with regional influencers and creators."
-          ]
-        },
-        "sports and event coverage": {
-          "description": "Live sports and event coverage show strong potential for viewer engagement.",
-          "action_points": [
-            "Partner with sports leagues and event organizers for exclusive content.",
-            "Enhance real-time engagement features during live sports broadcasts."
-          ]
-        },
-        "cross-platform promotion": {
-          "description": "Utilize trending networks like HBO Max to cross-promote content across different platforms.",
-          "action_points": [
-            "Develop integrated marketing campaigns that leverage cross-platform synergies.",
-            "Explore co-productions with established platforms to access their audience base."
-          ]
         }
       },
       "metadata_stats": {
@@ -514,7 +468,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1026588
+        "avg_views_per_video": 1441675
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
