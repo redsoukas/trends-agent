@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-17T21:24:30.191257",
-  "date": "2026-05-17",
+  "timestamp": "2026-05-18T01:08:21.923611",
+  "date": "2026-05-18",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 383608,
-      "like_count": 20411,
-      "comment_count": 2423,
+      "view_count": 775659,
+      "like_count": 26349,
+      "comment_count": 3091,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -41,38 +41,21 @@
       "url": "https://www.youtube.com/watch?v=Ks_VD4xy8ow"
     },
     {
-      "video_id": "LjxSnEu8r-Y",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-17T20:17:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LjxSnEu8r-Y/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "EOE5qdR7GlM",
+      "title": "PGA Championship - Final Round",
+      "description": "The PGA Championship concludes with the final round at Aronimink Golf Club in Pennsylvania. The remaining field navigates the 7,394-yard, par-70 layout over the final 18 holes to secure a share of the $19 million tournament prize purse.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-18T00:03:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EOE5qdR7GlM/hqdefault.jpg",
+      "duration": "PT3H5S",
+      "duration_seconds": 10805,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LjxSnEu8r-Y"
-    },
-    {
-      "video_id": "9XrYxqBa2bU",
-      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
-      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-17T18:25:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
-      "duration": "PT13M23S",
-      "duration_seconds": 803,
-      "view_count": 81757,
-      "like_count": 3717,
-      "comment_count": 764,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
+      "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
     },
     {
       "video_id": "7QGRDC7ngpE",
@@ -84,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 767428,
-      "like_count": 55765,
-      "comment_count": 8851,
+      "view_count": 1121507,
+      "like_count": 68767,
+      "comment_count": 9950,
       "category_id": "24",
       "tags": [
         "ZEROBASEONE",
@@ -103,55 +86,83 @@
       "url": "https://www.youtube.com/watch?v=7QGRDC7ngpE"
     },
     {
-      "video_id": "0syjdGLMBMg",
-      "title": "PGA Championship - Round 3",
-      "description": "The PGA Championship continues with the third round at Aronimink Golf Club in Pennsylvania. The major tournament returns to the 7,394-yard, par-70 layout for the first time since 1962 as the remaining field competes for a $19 million purse.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-17T00:19:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0syjdGLMBMg/hqdefault.jpg",
-      "duration": "PT3H1M",
-      "duration_seconds": 10860,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "9XrYxqBa2bU",
+      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
+      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-17T18:25:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
+      "duration": "PT13M23S",
+      "duration_seconds": 803,
+      "view_count": 244215,
+      "like_count": 5991,
+      "comment_count": 1135,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
+      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
     },
     {
-      "video_id": "t3gRf_t_DZ8",
-      "title": "Top Gun: Maverick",
-      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
-      "channel_title": "Paramount",
-      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
-      "published_at": "2026-05-17T11:35:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t3gRf_t_DZ8/hqdefault.jpg",
-      "duration": "PT3H11M5S",
-      "duration_seconds": 11465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "Q4ejn165owA",
+      "title": "The Boys S5 Finale Trailer Just Set Up The WORST Death…",
+      "description": "The Boys Season 5 Episode 8 trailer just released and it's safe to say that we are about to see a lot of major characters die.  From Homelander potentially taking out Ryan, to Starlight killing The Deep, to Butcher releasing the supe-killing virus and becoming the final villain, in this video I breakdown every theory surrounding The Boys S5 finale trailer...\n\nFOLLOW ME ON KICK: https://kick.com/dnadz\n\nBECOME A MEMBER: https://www.youtube.com/channel/UCkZSlTQJ4kdyDCLcICvkkeg/join\n\nJOIN THE DISCORD: https://discord.gg/DgSM2HzbMH\n\nSUPPORT ME ON PATREON: https://www.patreon.com/dnadz\n\nI am not claiming any ownership of the clips used in this video except for my own personal commentary and the highly edited videos within.\n\n#theboys #homelander #theboysamazon #billybutcheredit #series #soldierboy #theboysfinalseason",
+      "channel_title": "dnadz",
+      "channel_id": "UCkZSlTQJ4kdyDCLcICvkkeg",
+      "published_at": "2026-05-17T17:25:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q4ejn165owA/hqdefault.jpg",
+      "duration": "PT9M11S",
+      "duration_seconds": 551,
+      "view_count": 70471,
+      "like_count": 1963,
+      "comment_count": 378,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=t3gRf_t_DZ8"
+      "tags": [
+        "The Boys Season 5",
+        "The Boys S5",
+        "The Boys finale",
+        "The Boys episode 8",
+        "The Boys S5 episode 8",
+        "The Boys trailer breakdown",
+        "The Boys finale trailer",
+        "Homelander",
+        "Ryan Butcher",
+        "Homelander kills Ryan"
+      ],
+      "url": "https://www.youtube.com/watch?v=Q4ejn165owA"
     },
     {
-      "video_id": "eXnFPvZ0Gi4",
-      "title": "Manchester United vs. Nottingham Forest",
-      "description": "Manchester United host Nottingham Forest at Old Trafford in Matchweek 37. As the season concludes, United aims for dominant home performance against a Forest side looking to disrupt the Red Devils' late-season momentum and climb up the league table.",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-05-17T20:23:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eXnFPvZ0Gi4/hqdefault.jpg",
-      "duration": "PT2H14M41S",
-      "duration_seconds": 8081,
+      "video_id": "ER-mMTQcEew",
+      "title": "The Sunday Briefing",
+      "description": "",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-17T23:24:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ER-mMTQcEew/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=eXnFPvZ0Gi4"
+      "url": "https://www.youtube.com/watch?v=ER-mMTQcEew"
+    },
+    {
+      "video_id": "hnEHH1yKpiU",
+      "title": "CDL ATLANTA MAJOR 3 GRAND FINALS!! OpTic TEXAS vs LA THIEVES",
+      "description": "LIKE and SUBSCRIBE with NOTIFICATIONS ON if you enjoyed the video! 👍\n\n🎥 Main Channel: @Scumpii   \n🎥 Second Channel: @MoreScump  \n\nFollow me on my Socials:\n📺 Twitch | http://www.twitch.tv/Scump\n🐥 Twitter | http://www.twitter.com/Scump\n📷 Instagram | https://www.instagram.com/scumpabner/\n📱 TikTok | https://www.tiktok.com/@scump\n\nCoD Creator Code: SCUMP\n\nFollow OpTic:\n👉 https://twitter.com/OpTic\n👉 https://twitter.com/OpTicTexas\n📺 https://opticgaming.com/nation\n\n🔥SPONSORS:\nOakley | https://www.oakley.com/en-us/lp/e-sports | Code SCUMP\nRazer | https://bit.ly/3mxvK3j\nMonster Energy | http://monsterenergy.com/gaming\nPrizePicks | https://www.prizepicks.com/\nUSAA | https://opticgaming.com/wallace-warriors\n\n🎥 Edited by Tru | https://twitter.com/TruEdits\n\n#callofduty #scump",
+      "channel_title": "Scump",
+      "channel_id": "UCCWSG8MXoqvIEBPRnOSxwzw",
+      "published_at": "2026-05-17T22:52:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hnEHH1yKpiU/hqdefault.jpg",
+      "duration": "PT7H47M53S",
+      "duration_seconds": 28073,
+      "view_count": 683816,
+      "like_count": 8319,
+      "comment_count": 135,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=hnEHH1yKpiU"
     },
     {
       "video_id": "HIqblanV6H8",
@@ -163,66 +174,77 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 76455,
-      "like_count": 2476,
+      "view_count": 77186,
+      "like_count": 2488,
       "comment_count": 257,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "kFq8oRP_8i8",
-      "title": "Live From the PGA Championship",
-      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-17T19:29:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kFq8oRP_8i8/hqdefault.jpg",
-      "duration": "PT7H57M50S",
-      "duration_seconds": 28670,
+      "video_id": "0fiygtShvVY",
+      "title": "Dover All-Star Race",
+      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-17T23:31:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0fiygtShvVY/hqdefault.jpg",
+      "duration": "PT52M6S",
+      "duration_seconds": 3126,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=kFq8oRP_8i8"
+      "url": "https://www.youtube.com/watch?v=0fiygtShvVY"
+    },
+    {
+      "video_id": "v4Xfw1HT6ME",
+      "title": "Teardown Added Multiplayer...",
+      "description": "Teardown is back and somehow worse than ever before…\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Kryoz \nhttps://www.twitch.tv/EliLikesRice\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative ",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-17T19:13:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v4Xfw1HT6ME/hqdefault.jpg",
+      "duration": "PT21M31S",
+      "duration_seconds": 1291,
+      "view_count": 448152,
+      "like_count": 42696,
+      "comment_count": 1831,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "teardown",
+        "teardown gameplay",
+        "teardown mods",
+        "teardown game",
+        "teardown destruction",
+        "teardown funny moments"
+      ],
+      "url": "https://www.youtube.com/watch?v=v4Xfw1HT6ME"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "LjxSnEu8r-Y",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-17T20:17:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LjxSnEu8r-Y/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "EOE5qdR7GlM",
+      "title": "PGA Championship - Final Round",
+      "description": "The PGA Championship concludes with the final round at Aronimink Golf Club in Pennsylvania. The remaining field navigates the 7,394-yard, par-70 layout over the final 18 holes to secure a share of the $19 million tournament prize purse.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-18T00:03:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EOE5qdR7GlM/hqdefault.jpg",
+      "duration": "PT3H5S",
+      "duration_seconds": 10805,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LjxSnEu8r-Y"
-    },
-    {
-      "video_id": "9XrYxqBa2bU",
-      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
-      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-17T18:25:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
-      "duration": "PT13M23S",
-      "duration_seconds": 803,
-      "view_count": 81757,
-      "like_count": 3717,
-      "comment_count": 764,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
+      "url": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
     },
     {
       "video_id": "7QGRDC7ngpE",
@@ -234,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg",
       "duration": "PT2M32S",
       "duration_seconds": 152,
-      "view_count": 767428,
-      "like_count": 55765,
-      "comment_count": 8851,
+      "view_count": 1121507,
+      "like_count": 68767,
+      "comment_count": 9950,
       "category_id": "24",
       "tags": [
         "ZEROBASEONE",
@@ -253,55 +275,83 @@
       "url": "https://www.youtube.com/watch?v=7QGRDC7ngpE"
     },
     {
-      "video_id": "0syjdGLMBMg",
-      "title": "PGA Championship - Round 3",
-      "description": "The PGA Championship continues with the third round at Aronimink Golf Club in Pennsylvania. The major tournament returns to the 7,394-yard, par-70 layout for the first time since 1962 as the remaining field competes for a $19 million purse.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-17T00:19:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0syjdGLMBMg/hqdefault.jpg",
-      "duration": "PT3H1M",
-      "duration_seconds": 10860,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "9XrYxqBa2bU",
+      "title": "The Boys Season 5 Episode 8 Finale Trailer: Homelander’s WTF Ending",
+      "description": "The Boys Season 5 Episode 8 Finale Trailer. Homelander Ending, Butcher vs, Kimiko Soldier Boy Powers, The Boys Ending Explained & Jensen Ackles Vought Rising Teaser► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 7 https://www.youtube.com/watch?v=L8hvaCAyopQ&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&t=394s&pp=iAQB0gcJCQQLAYcqIYzvsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nThe Boys Season 5 Episode 5 https://www.youtube.com/watch?v=6CQNBDL5jRg&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=2&t=1s&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeY",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-17T18:25:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XrYxqBa2bU/hqdefault.jpg",
+      "duration": "PT13M23S",
+      "duration_seconds": 803,
+      "view_count": 244215,
+      "like_count": 5991,
+      "comment_count": 1135,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=0syjdGLMBMg"
+      "url": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
     },
     {
-      "video_id": "t3gRf_t_DZ8",
-      "title": "Top Gun: Maverick",
-      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
-      "channel_title": "Paramount",
-      "channel_id": "UCIZnLsx7JgR0b47tsmO9j1g",
-      "published_at": "2026-05-17T11:35:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t3gRf_t_DZ8/hqdefault.jpg",
-      "duration": "PT3H11M5S",
-      "duration_seconds": 11465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "Q4ejn165owA",
+      "title": "The Boys S5 Finale Trailer Just Set Up The WORST Death…",
+      "description": "The Boys Season 5 Episode 8 trailer just released and it's safe to say that we are about to see a lot of major characters die.  From Homelander potentially taking out Ryan, to Starlight killing The Deep, to Butcher releasing the supe-killing virus and becoming the final villain, in this video I breakdown every theory surrounding The Boys S5 finale trailer...\n\nFOLLOW ME ON KICK: https://kick.com/dnadz\n\nBECOME A MEMBER: https://www.youtube.com/channel/UCkZSlTQJ4kdyDCLcICvkkeg/join\n\nJOIN THE DISCORD: https://discord.gg/DgSM2HzbMH\n\nSUPPORT ME ON PATREON: https://www.patreon.com/dnadz\n\nI am not claiming any ownership of the clips used in this video except for my own personal commentary and the highly edited videos within.\n\n#theboys #homelander #theboysamazon #billybutcheredit #series #soldierboy #theboysfinalseason",
+      "channel_title": "dnadz",
+      "channel_id": "UCkZSlTQJ4kdyDCLcICvkkeg",
+      "published_at": "2026-05-17T17:25:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q4ejn165owA/hqdefault.jpg",
+      "duration": "PT9M11S",
+      "duration_seconds": 551,
+      "view_count": 70471,
+      "like_count": 1963,
+      "comment_count": 378,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=t3gRf_t_DZ8"
+      "tags": [
+        "The Boys Season 5",
+        "The Boys S5",
+        "The Boys finale",
+        "The Boys episode 8",
+        "The Boys S5 episode 8",
+        "The Boys trailer breakdown",
+        "The Boys finale trailer",
+        "Homelander",
+        "Ryan Butcher",
+        "Homelander kills Ryan"
+      ],
+      "url": "https://www.youtube.com/watch?v=Q4ejn165owA"
     },
     {
-      "video_id": "eXnFPvZ0Gi4",
-      "title": "Manchester United vs. Nottingham Forest",
-      "description": "Manchester United host Nottingham Forest at Old Trafford in Matchweek 37. As the season concludes, United aims for dominant home performance against a Forest side looking to disrupt the Red Devils' late-season momentum and climb up the league table.",
-      "channel_title": "USA",
-      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
-      "published_at": "2026-05-17T20:23:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eXnFPvZ0Gi4/hqdefault.jpg",
-      "duration": "PT2H14M41S",
-      "duration_seconds": 8081,
+      "video_id": "ER-mMTQcEew",
+      "title": "The Sunday Briefing",
+      "description": "",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-17T23:24:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ER-mMTQcEew/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=eXnFPvZ0Gi4"
+      "url": "https://www.youtube.com/watch?v=ER-mMTQcEew"
+    },
+    {
+      "video_id": "hnEHH1yKpiU",
+      "title": "CDL ATLANTA MAJOR 3 GRAND FINALS!! OpTic TEXAS vs LA THIEVES",
+      "description": "LIKE and SUBSCRIBE with NOTIFICATIONS ON if you enjoyed the video! 👍\n\n🎥 Main Channel: @Scumpii   \n🎥 Second Channel: @MoreScump  \n\nFollow me on my Socials:\n📺 Twitch | http://www.twitch.tv/Scump\n🐥 Twitter | http://www.twitter.com/Scump\n📷 Instagram | https://www.instagram.com/scumpabner/\n📱 TikTok | https://www.tiktok.com/@scump\n\nCoD Creator Code: SCUMP\n\nFollow OpTic:\n👉 https://twitter.com/OpTic\n👉 https://twitter.com/OpTicTexas\n📺 https://opticgaming.com/nation\n\n🔥SPONSORS:\nOakley | https://www.oakley.com/en-us/lp/e-sports | Code SCUMP\nRazer | https://bit.ly/3mxvK3j\nMonster Energy | http://monsterenergy.com/gaming\nPrizePicks | https://www.prizepicks.com/\nUSAA | https://opticgaming.com/wallace-warriors\n\n🎥 Edited by Tru | https://twitter.com/TruEdits\n\n#callofduty #scump",
+      "channel_title": "Scump",
+      "channel_id": "UCCWSG8MXoqvIEBPRnOSxwzw",
+      "published_at": "2026-05-17T22:52:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hnEHH1yKpiU/hqdefault.jpg",
+      "duration": "PT7H47M53S",
+      "duration_seconds": 28073,
+      "view_count": 683816,
+      "like_count": 8319,
+      "comment_count": 135,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=hnEHH1yKpiU"
     },
     {
       "video_id": "HIqblanV6H8",
@@ -313,29 +363,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
       "duration": "PT4M13S",
       "duration_seconds": 253,
-      "view_count": 76455,
-      "like_count": 2476,
+      "view_count": 77186,
+      "like_count": 2488,
       "comment_count": 257,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
-      "video_id": "kFq8oRP_8i8",
-      "title": "Live From the PGA Championship",
-      "description": "Comprehensive news coverage surrounding the PGA Championship focusing on emerging storylines, analysis, features and guest interviews.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-17T19:29:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kFq8oRP_8i8/hqdefault.jpg",
-      "duration": "PT7H57M50S",
-      "duration_seconds": 28670,
+      "video_id": "0fiygtShvVY",
+      "title": "Dover All-Star Race",
+      "description": "Behind the scenes and up-to-the-minute reports from the garage prior to the start of each NASCAR Cup Series race.",
+      "channel_title": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "published_at": "2026-05-17T23:31:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0fiygtShvVY/hqdefault.jpg",
+      "duration": "PT52M6S",
+      "duration_seconds": 3126,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=kFq8oRP_8i8"
+      "url": "https://www.youtube.com/watch?v=0fiygtShvVY"
+    },
+    {
+      "video_id": "v4Xfw1HT6ME",
+      "title": "Teardown Added Multiplayer...",
+      "description": "Teardown is back and somehow worse than ever before…\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@daukey \n@imSovi \n@Kryoz \nhttps://www.twitch.tv/EliLikesRice\n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative ",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-17T19:13:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v4Xfw1HT6ME/hqdefault.jpg",
+      "duration": "PT21M31S",
+      "duration_seconds": 1291,
+      "view_count": 448152,
+      "like_count": 42696,
+      "comment_count": 1831,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "teardown",
+        "teardown gameplay",
+        "teardown mods",
+        "teardown game",
+        "teardown destruction",
+        "teardown funny moments"
+      ],
+      "url": "https://www.youtube.com/watch?v=v4Xfw1HT6ME"
     },
     {
       "video_id": "Ks_VD4xy8ow",
@@ -347,9 +425,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ks_VD4xy8ow/hqdefault.jpg",
       "duration": "PT46S",
       "duration_seconds": 46,
-      "view_count": 383608,
-      "like_count": 20411,
-      "comment_count": 2423,
+      "view_count": 775659,
+      "like_count": 26349,
+      "comment_count": 3091,
       "category_id": "1",
       "tags": [
         "The Boys",
@@ -370,107 +448,102 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment": {
-          "description": "Videos related to popular TV shows and movies such as 'The Boys' and 'Top Gun: Maverick' are trending.",
-          "insights": [
-            {
-              "title": "The Boys Season 5 Episode 8 Series Finale Trailer",
-              "views": "High engagement due to series finale anticipation.",
-              "opportunity": "Leverage the momentum of series finales for related content, like reviews or fan theories."
-            },
-            {
-              "title": "Top Gun: Maverick",
-              "views": "Consistent interest due to nostalgia and franchise popularity.",
-              "opportunity": "Create content around the legacy of 'Top Gun' and its cultural impact."
-            }
+        "total_videos": 10,
+        "total_views": 3421006,
+        "average_views_per_video": 342100.6,
+        "categories": "Entertainment, Sports, Music, Technology",
+        "dominant_genres": [
+          "Television Trailers",
+          "Sports Highlights",
+          "Music Videos",
+          "Gaming"
+        ],
+        "trailer_analysis": {
+          "number_of_trailers": 3,
+          "percentage_of_total_videos": 30,
+          "total_views_for_trailers": 1026301,
+          "average_views_per_trailer": 342100.33,
+          "popular_themes": [
+            "The Boys Series",
+            "Cliffhanger Endings",
+            "Character Analysis"
           ]
         },
-        "sports": {
-          "description": "Sports events, particularly golf and football, are popular.",
-          "insights": [
-            {
-              "title": "PGA Championship - Round 3",
-              "views": "Significant interest in live sports coverage.",
-              "opportunity": "Expand into sports analysis, highlights, and expert commentary."
-            },
-            {
-              "title": "Manchester United vs. Nottingham Forest",
-              "views": "High views from a large global football fanbase.",
-              "opportunity": "Produce content focused on match predictions and player performance reviews."
-            }
+        "sports_content": {
+          "number_of_videos": 2,
+          "percentage_of_total_videos": 20,
+          "total_views_for_sports": 684201,
+          "average_views_per_sports_video": 342100.5,
+          "popular_events": [
+            "PGA Championship",
+            "CDL Grand Finals"
           ]
         },
-        "news_and_analysis": {
-          "description": "Current events and news coverage are consistently viewed.",
-          "insights": [
-            {
-              "title": "Fox & Friends Weekend",
-              "views": "Continued interest in political and social commentary.",
-              "opportunity": "Develop content that provides deeper analysis or alternative perspectives on trending news."
-            }
-          ]
-        },
-        "music": {
-          "description": "Music videos from emerging artists like ZEROBASEONE are gaining traction.",
-          "insights": [
-            {
-              "title": "ZEROBASEONE (제로베이스원) 'TOP 5' MV",
-              "views": "Growing interest in K-pop and global music trends.",
-              "opportunity": "Explore collaborations or interviews with rising music artists and feature them in playlists."
-            }
+        "music_content": {
+          "number_of_videos": 1,
+          "percentage_of_total_videos": 10,
+          "total_views_for_music": 342100,
+          "trending_music_genres": [
+            "K-pop"
           ]
         }
       },
       "creator_patterns": {
-        "major_channels": {
-          "description": "Channels with established reputations in specific niches are driving views.",
-          "insights": [
-            {
-              "channel": "Rotten Tomatoes TV",
-              "focus": "Expertise in entertainment reviews.",
-              "opportunity": "Expand content to include interactive viewer polls and live discussions."
-            },
-            {
-              "channel": "FOX News",
-              "focus": "Political and social news coverage.",
-              "opportunity": "Utilize live streaming for real-time viewer engagement during major news events."
-            }
-          ]
-        },
-        "emerging_creators": {
-          "description": "New creators like ZEROBASEONE are breaking into trending lists.",
-          "insights": [
-            {
-              "channel": "ZEROBASEONE",
-              "focus": "Music and entertainment.",
-              "opportunity": "Leverage social media platforms to engage with international audiences and expand reach."
-            }
-          ]
-        }
+        "top_channels": [
+          {
+            "name": "Rotten Tomatoes TV",
+            "video_content": "Television Trailers"
+          },
+          {
+            "name": "ESPN",
+            "video_content": "Sports Highlights"
+          },
+          {
+            "name": "ZEROBASEONE",
+            "video_content": "Music Videos"
+          },
+          {
+            "name": "Emergency Awesome",
+            "video_content": "TV Analysis"
+          },
+          {
+            "name": "dnadz",
+            "video_content": "Music"
+          }
+        ],
+        "average_views_per_channel": 342100.6
       },
       "market_opportunities": {
-        "diversified_content": {
-          "description": "Viewers are interested in a wide range of topics, from entertainment and sports to news and music.",
-          "strategies": [
-            "Develop cross-category content that combines elements from different trending genres.",
-            "Create community-driven content such as fan theories or interactive Q&A sessions."
-          ]
-        },
-        "data-driven optimization": {
-          "description": "Utilize viewership data to refine content strategy.",
-          "strategies": [
-            "Analyze viewer demographics and engagement metrics to tailor content for specific audience segments.",
-            "Experiment with different video formats and lengths to maximize viewer retention."
-          ]
-        }
+        "emerging_trends": [
+          "Increased interest in series finales and episode trailers, especially for popular shows.",
+          "High engagement with live sports events and highlights.",
+          "Growing traction of K-pop music videos."
+        ],
+        "content_gap_analysis": [
+          {
+            "opportunity": "Create more in-depth analysis videos for trending TV shows.",
+            "potential_audience_engagement": "High",
+            "suggested_content_format": "Breakdown videos, character analysis, fan theories"
+          },
+          {
+            "opportunity": "Capitalize on live sports events by providing real-time updates and analysis.",
+            "potential_audience_engagement": "Moderate to High",
+            "suggested_content_format": "Live commentary, post-match analysis"
+          },
+          {
+            "opportunity": "Develop multilingual K-pop content to reach broader audiences.",
+            "potential_audience_engagement": "High",
+            "suggested_content_format": "Subtitled music videos, fan interaction segments"
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 145472
+        "avg_views_per_video": 342100
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
