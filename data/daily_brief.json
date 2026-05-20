@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-20T07:27:31.099154",
+  "timestamp": "2026-05-20T10:13:10.207599",
   "date": "2026-05-20",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 3,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 1913576,
-      "like_count": 84336,
-      "comment_count": 5818,
+      "view_count": 1966279,
+      "like_count": 85351,
+      "comment_count": 5868,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -41,13 +41,13 @@
       "url": "https://www.youtube.com/watch?v=XmcIjxwLJcY"
     },
     {
-      "video_id": "fKB2YulgJrk",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "fPZKB4fk770",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-20T04:28:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fKB2YulgJrk/hqdefault.jpg",
+      "published_at": "2026-05-20T06:54:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPZKB4fk770/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -55,7 +55,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fKB2YulgJrk"
+      "url": "https://www.youtube.com/watch?v=fPZKB4fk770"
     },
     {
       "video_id": "AkXdmOfc0mc",
@@ -67,8 +67,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AkXdmOfc0mc/hqdefault.jpg",
       "duration": "PT4M",
       "duration_seconds": 240,
-      "view_count": 214945,
-      "like_count": 729,
+      "view_count": 240046,
+      "like_count": 783,
       "comment_count": 5,
       "category_id": "22",
       "tags": [
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Px1xodGZAT0/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 341961,
-      "like_count": 26583,
-      "comment_count": 1621,
+      "view_count": 372559,
+      "like_count": 28146,
+      "comment_count": 1676,
       "category_id": "1",
       "tags": [
         "viz media",
@@ -140,29 +140,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QurZzARCihA/hqdefault.jpg",
       "duration": "PT8M3S",
       "duration_seconds": 483,
-      "view_count": 258093,
-      "like_count": 14553,
-      "comment_count": 1058,
+      "view_count": 281177,
+      "like_count": 15288,
+      "comment_count": 1096,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QurZzARCihA"
     },
     {
-      "video_id": "7I1Seh8aims",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-20T05:50:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7I1Seh8aims/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "33jXJokfclc",
+      "title": "Anderson Cooper 360",
+      "description": "Live coverage of election results in Georgia, Kentucky and Pennsylvania.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-20T07:26:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/33jXJokfclc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7I1Seh8aims"
+      "url": "https://www.youtube.com/watch?v=33jXJokfclc"
     },
     {
       "video_id": "U7RT9LZ_6M0",
@@ -174,9 +174,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U7RT9LZ_6M0/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 133492,
-      "like_count": 4968,
-      "comment_count": 978,
+      "view_count": 152530,
+      "like_count": 5190,
+      "comment_count": 1007,
       "category_id": "24",
       "tags": [
         "Power book III",
@@ -193,58 +193,38 @@
       "url": "https://www.youtube.com/watch?v=U7RT9LZ_6M0"
     },
     {
-      "video_id": "0rDrr0ydsw8",
-      "title": "I'M (slowly) LEARNING!! | Subnautica 2 - Part 3",
-      "description": "I'm proud of using my big brain to learn how to survive in the depths of Subnautica 2! If only that was true... But I do progress the story a bit and build a new base and other things!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @LixianTV  \nEdited By ► @NerdFiction  \nEdited By ► @radRYT\nEdited By ► @Diceroll  \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-19T20:17:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0rDrr0ydsw8/hqdefault.jpg",
-      "duration": "PT48M42S",
-      "duration_seconds": 2922,
-      "view_count": 363334,
-      "like_count": 28572,
-      "comment_count": 1916,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 3"
-      ],
-      "url": "https://www.youtube.com/watch?v=0rDrr0ydsw8"
+      "video_id": "rBewSGYee38",
+      "title": "The Briefing With Jen Psaki",
+      "description": "Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-20T07:50:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rBewSGYee38/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rBewSGYee38"
     },
     {
-      "video_id": "kg862Lq6v3Y",
-      "title": "Hey, This LANTERNS Trailer Looks Great! (Also Some Details You Missed)",
-      "description": "Lanterns Trailer Breakdown! Easter Eggs & Details You Missed by New Rockstars! Happy FlexiSpot 10th Brand Day & Memorial Day Sales, up to 80% OFF! You also have the chance to win free orders. Use my code \"YTE730\" and \"WP30OFF\" to get EXTRA $30 off on the MotionX Ultra WPM03 treadmill and E7/E7 Pro standing desk\n\nFlexiSpot E7 standing desk: https://go.flexispot.com/NewRockstar-E7\nFlexiSpot WPM03 treadmill: https://go.flexispot.com/NewRockstar-WPM03\n\nDC Studios LANTERNS is coming to HBO on August 16! New Rockstars’ Erik Voss breaks down this trailer for details you missed and what to expect from this Green Lantern series!\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-05-19T19:52:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kg862Lq6v3Y/hqdefault.jpg",
-      "duration": "PT16M41S",
-      "duration_seconds": 1001,
-      "view_count": 94282,
-      "like_count": 4925,
-      "comment_count": 172,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "lanterns",
-        "green lantern",
-        "dc studios",
-        "lanterns trailer",
-        "hbo lanterns",
-        "lanterns hbo",
-        "superman"
-      ],
-      "url": "https://www.youtube.com/watch?v=kg862Lq6v3Y"
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 88935,
+      "like_count": 2658,
+      "comment_count": 267,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     }
   ],
   "videos_with_transcripts": [],
@@ -259,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 1913576,
-      "like_count": 84336,
-      "comment_count": 5818,
+      "view_count": 1966279,
+      "like_count": 85351,
+      "comment_count": 5868,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -278,13 +258,13 @@
       "url": "https://www.youtube.com/watch?v=XmcIjxwLJcY"
     },
     {
-      "video_id": "fKB2YulgJrk",
-      "title": "The Five",
-      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "video_id": "fPZKB4fk770",
+      "title": "Jesse Watters Primetime",
+      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-20T04:28:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fKB2YulgJrk/hqdefault.jpg",
+      "published_at": "2026-05-20T06:54:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fPZKB4fk770/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -292,7 +272,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=fKB2YulgJrk"
+      "url": "https://www.youtube.com/watch?v=fPZKB4fk770"
     },
     {
       "video_id": "Px1xodGZAT0",
@@ -304,9 +284,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Px1xodGZAT0/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 341961,
-      "like_count": 26583,
-      "comment_count": 1621,
+      "view_count": 372559,
+      "like_count": 28146,
+      "comment_count": 1676,
       "category_id": "1",
       "tags": [
         "viz media",
@@ -349,29 +329,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QurZzARCihA/hqdefault.jpg",
       "duration": "PT8M3S",
       "duration_seconds": 483,
-      "view_count": 258093,
-      "like_count": 14553,
-      "comment_count": 1058,
+      "view_count": 281177,
+      "like_count": 15288,
+      "comment_count": 1096,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=QurZzARCihA"
     },
     {
-      "video_id": "7I1Seh8aims",
-      "title": "Deadline: White House",
-      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
-      "channel_title": "MSNBC",
-      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-20T05:50:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7I1Seh8aims/hqdefault.jpg",
-      "duration": "PT2H1M5S",
-      "duration_seconds": 7265,
+      "video_id": "33jXJokfclc",
+      "title": "Anderson Cooper 360",
+      "description": "Live coverage of election results in Georgia, Kentucky and Pennsylvania.",
+      "channel_title": "CNN",
+      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
+      "published_at": "2026-05-20T07:26:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/33jXJokfclc/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=7I1Seh8aims"
+      "url": "https://www.youtube.com/watch?v=33jXJokfclc"
     },
     {
       "video_id": "U7RT9LZ_6M0",
@@ -383,9 +363,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U7RT9LZ_6M0/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 133492,
-      "like_count": 4968,
-      "comment_count": 978,
+      "view_count": 152530,
+      "like_count": 5190,
+      "comment_count": 1007,
       "category_id": "24",
       "tags": [
         "Power book III",
@@ -402,58 +382,38 @@
       "url": "https://www.youtube.com/watch?v=U7RT9LZ_6M0"
     },
     {
-      "video_id": "0rDrr0ydsw8",
-      "title": "I'M (slowly) LEARNING!! | Subnautica 2 - Part 3",
-      "description": "I'm proud of using my big brain to learn how to survive in the depths of Subnautica 2! If only that was true... But I do progress the story a bit and build a new base and other things!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @LixianTV  \nEdited By ► @NerdFiction  \nEdited By ► @radRYT\nEdited By ► @Diceroll  \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-19T20:17:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0rDrr0ydsw8/hqdefault.jpg",
-      "duration": "PT48M42S",
-      "duration_seconds": 2922,
-      "view_count": 363334,
-      "like_count": 28572,
-      "comment_count": 1916,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 3"
-      ],
-      "url": "https://www.youtube.com/watch?v=0rDrr0ydsw8"
+      "video_id": "rBewSGYee38",
+      "title": "The Briefing With Jen Psaki",
+      "description": "Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-20T07:50:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rBewSGYee38/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=rBewSGYee38"
     },
     {
-      "video_id": "kg862Lq6v3Y",
-      "title": "Hey, This LANTERNS Trailer Looks Great! (Also Some Details You Missed)",
-      "description": "Lanterns Trailer Breakdown! Easter Eggs & Details You Missed by New Rockstars! Happy FlexiSpot 10th Brand Day & Memorial Day Sales, up to 80% OFF! You also have the chance to win free orders. Use my code \"YTE730\" and \"WP30OFF\" to get EXTRA $30 off on the MotionX Ultra WPM03 treadmill and E7/E7 Pro standing desk\n\nFlexiSpot E7 standing desk: https://go.flexispot.com/NewRockstar-E7\nFlexiSpot WPM03 treadmill: https://go.flexispot.com/NewRockstar-WPM03\n\nDC Studios LANTERNS is coming to HBO on August 16! New Rockstars’ Erik Voss breaks down this trailer for details you missed and what to expect from this Green Lantern series!\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get updates when we release new music: https://open.spotify.com/artist/00FXqz5AkEpUTJ1",
-      "channel_title": "New Rockstars",
-      "channel_id": "UC7yRILFFJ2QZCykymr8LPwA",
-      "published_at": "2026-05-19T19:52:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kg862Lq6v3Y/hqdefault.jpg",
-      "duration": "PT16M41S",
-      "duration_seconds": 1001,
-      "view_count": 94282,
-      "like_count": 4925,
-      "comment_count": 172,
-      "category_id": "24",
-      "tags": [
-        "new rockstars",
-        "new rockstars youtube",
-        "youtube new rockstars",
-        "lanterns",
-        "green lantern",
-        "dc studios",
-        "lanterns trailer",
-        "hbo lanterns",
-        "lanterns hbo",
-        "superman"
-      ],
-      "url": "https://www.youtube.com/watch?v=kg862Lq6v3Y"
+      "video_id": "HIqblanV6H8",
+      "title": "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music. ",
+      "description": "",
+      "channel_title": "Tasik Yard",
+      "channel_id": "UClY3lJ-dym2ftz8cjP74DeA",
+      "published_at": "2026-05-07T08:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIqblanV6H8/hqdefault.jpg",
+      "duration": "PT4M13S",
+      "duration_seconds": 253,
+      "view_count": 88935,
+      "like_count": 2658,
+      "comment_count": 267,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HIqblanV6H8"
     },
     {
       "video_id": "AkXdmOfc0mc",
@@ -465,8 +425,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AkXdmOfc0mc/hqdefault.jpg",
       "duration": "PT4M",
       "duration_seconds": 240,
-      "view_count": 214945,
-      "like_count": 729,
+      "view_count": 240046,
+      "like_count": 783,
       "comment_count": 5,
       "category_id": "22",
       "tags": [
@@ -487,89 +447,64 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "insights": {
-        "content_trends": {
-          "categories": {
-            "entertainment": {
-              "description": "Includes trailers, teasers, and lyrical content.",
-              "video_count": 4,
-              "titles": [
-                "Lanterns | Official Teaser 2 | HBO Max",
-                "The Neighbourhood - Sweater Weather (Lyrics)",
-                "Official Trailer | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
-                "Official Trailer | Power Book III: Raising Kanan | Season 5"
-              ]
-            },
-            "gaming": {
-              "description": "Content related to video games and gameplay.",
-              "video_count": 1,
-              "titles": [
-                "I'M (slowly) LEARNING!! | Subnautica 2 - Part 3"
-              ]
-            },
-            "news_and_analysis": {
-              "description": "Includes news coverage and analytical commentary.",
-              "video_count": 3,
-              "titles": [
-                "The Five",
-                "Deadline: White House",
-                "Honest Trailers | Project Hail Mary"
-              ]
-            },
-            "sports": {
-              "description": "Content related to sports events and commentary.",
-              "video_count": 1,
-              "titles": [
-                "NBA Tip-Off"
-              ]
-            },
-            "meta-analysis": {
-              "description": "Content analyzing or commenting on other content.",
-              "video_count": 1,
-              "titles": [
-                "Hey, This LANTERNS Trailer Looks Great! (Also Some Details You Missed)"
-              ]
-            }
-          }
+      "content_trends": {
+        "entertainment_focus": {
+          "description": "A significant portion of the trending videos fall under entertainment, including teasers, trailers, and music.",
+          "examples": [
+            "Lanterns | Official Teaser 2 | HBO Max",
+            "Official Trailer | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
+            "The Neighbourhood - Sweater Weather (Lyrics)"
+          ],
+          "insights": "Leverage the popularity of entertainment content by focusing on creating engaging trailers or lyric videos."
         },
-        "creator_patterns": {
-          "top_channels": {
-            "HBO Max": {
-              "video_contribution": 1,
-              "focus": "Entertainment trailers and teasers."
-            },
-            "FOX News": {
-              "video_contribution": 1,
-              "focus": "News and political commentary."
-            },
-            "The Cinematic": {
-              "video_contribution": 1,
-              "focus": "Entertainment analysis and commentary."
-            },
-            "vizmedia": {
-              "video_contribution": 1,
-              "focus": "Anime-related content."
-            },
-            "ESPN": {
-              "video_contribution": 1,
-              "focus": "Sports coverage and commentary."
-            }
-          }
+        "news_and_analysis": {
+          "description": "News and commentary content also trends well, with videos from recognized news channels.",
+          "examples": [
+            "Jesse Watters Primetime",
+            "Anderson Cooper 360",
+            "The Briefing With Jen Psaki"
+          ],
+          "insights": "Capitalize on current events and provide analysis or commentary to attract viewers interested in news."
         },
-        "market_opportunities": {
-          "cross_category_trends": {
-            "entertainment_and_meta_analysis": {
-              "opportunity": "Increased engagement through content that analyzes popular entertainment releases, leveraging both hype and analytical interest."
-            },
-            "gaming_and_entertainment": {
-              "opportunity": "Creating crossover content that merges popular gaming titles with entertainment media can attract multi-interest audiences."
-            }
-          },
-          "underrepresented_categories": {
-            "educational_content": {
-              "opportunity": "Introduce educational content to fill a gap in the current trending videos, potentially reaching untapped audience segments."
-            }
-          }
+        "niche_music_content": {
+          "description": "Unique or niche music content, like 'Innocent Tumas' from emerging markets, can capture audience interest.",
+          "examples": [
+            "Innocent Tumas (Tasik Yard X Wan Jam) 2026 Official PNG Music"
+          ],
+          "insights": "Explore underrepresented music genres or international music trends to diversify content offerings."
+        }
+      },
+      "creator_patterns": {
+        "major_networks_and_brands": {
+          "description": "Top channels like HBO Max, FOX News, and ESPN have consistent representation in trending videos.",
+          "examples": [
+            "HBO Max",
+            "FOX News",
+            "ESPN"
+          ],
+          "insights": "Establish partnerships with large networks or create branded content to enhance visibility and leverage their audience reach."
+        },
+        "diversified_content_types": {
+          "description": "Videos span diverse types, including teasers, trailers, and commentary.",
+          "examples": [
+            "Official Trailer | Power Book III: Raising Kanan | Season 5",
+            "Honest Trailers | Project Hail Mary"
+          ],
+          "insights": "Diversify content offerings to include different formats such as trailers and commentary to appeal to a broader audience base."
+        }
+      },
+      "market_opportunities": {
+        "cross-platform promotion": {
+          "description": "Promoting content across platforms like YouTube and streaming services can boost visibility.",
+          "insights": "Utilize cross-promotion strategies across YouTube and streaming platforms to maximize audience engagement and reach."
+        },
+        "targeted content for emerging markets": {
+          "description": "Niche content from emerging markets, like PNG music, can present untapped opportunities.",
+          "insights": "Explore and produce content tailored to emerging markets to tap into new and growing audiences."
+        },
+        "real-time engagement": {
+          "description": "Leveraging real-time events, such as sports and news, can create timely and relevant content.",
+          "insights": "Integrate real-time updates and live coverage of events to capture audience interest and increase engagement."
         }
       },
       "metadata_stats": {
@@ -578,7 +513,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 331968
+        "avg_views_per_video": 310152
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
