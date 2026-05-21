@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T13:21:55.515075",
+  "timestamp": "2026-05-21T16:09:26.586605",
   "date": "2026-05-21",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
       "duration": "PT1M57S",
       "duration_seconds": 117,
-      "view_count": 2304539,
-      "like_count": 14329,
-      "comment_count": 1394,
+      "view_count": 2487406,
+      "like_count": 15190,
+      "comment_count": 1457,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bWtrFcerKE0/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 317676,
-      "like_count": 10615,
-      "comment_count": 521,
+      "view_count": 358717,
+      "like_count": 11825,
+      "comment_count": 571,
       "category_id": "24",
       "tags": [
         "Bro",
@@ -112,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zh0xYqckuPc/hqdefault.jpg",
       "duration": "PT16M57S",
       "duration_seconds": 1017,
-      "view_count": 53633,
-      "like_count": 4049,
-      "comment_count": 314,
+      "view_count": 60677,
+      "like_count": 4439,
+      "comment_count": 331,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zh0xYqckuPc"
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZjwNBxqAhV8/hqdefault.jpg",
       "duration": "PT26M28S",
       "duration_seconds": 1588,
-      "view_count": 120265,
-      "like_count": 11687,
-      "comment_count": 699,
+      "view_count": 133417,
+      "like_count": 12675,
+      "comment_count": 741,
       "category_id": "20",
       "tags": [
         "the sims",
@@ -211,9 +211,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
       "duration": "PT1M57S",
       "duration_seconds": 117,
-      "view_count": 2304539,
-      "like_count": 14329,
-      "comment_count": 1394,
+      "view_count": 2487406,
+      "like_count": 15190,
+      "comment_count": 1457,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -256,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bWtrFcerKE0/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 317676,
-      "like_count": 10615,
-      "comment_count": 521,
+      "view_count": 358717,
+      "like_count": 11825,
+      "comment_count": 571,
       "category_id": "24",
       "tags": [
         "Bro",
@@ -301,9 +301,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zh0xYqckuPc/hqdefault.jpg",
       "duration": "PT16M57S",
       "duration_seconds": 1017,
-      "view_count": 53633,
-      "like_count": 4049,
-      "comment_count": 314,
+      "view_count": 60677,
+      "like_count": 4439,
+      "comment_count": 331,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zh0xYqckuPc"
@@ -335,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZjwNBxqAhV8/hqdefault.jpg",
       "duration": "PT26M28S",
       "duration_seconds": 1588,
-      "view_count": 120265,
-      "like_count": 11687,
-      "comment_count": 699,
+      "view_count": 133417,
+      "like_count": 12675,
+      "comment_count": 741,
       "category_id": "20",
       "tags": [
         "the sims",
@@ -391,68 +391,82 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "entertainment": {
-          "trailer_and_movies": {
-            "description": "A significant portion of the trending content includes trailers and movie-related videos.",
-            "examples": [
-              "Masters of The Universe – Official Final Trailer",
-              "Little Brother | Official Trailer | Netflix",
-              "The Batman 2 Set Video, Minecraft 2 Photos, He Man First Reactions & MORE!!"
-            ],
-            "insights": "Trailers and movie teasers are highly engaging and often drive significant views due to anticipation and established fan bases."
-          },
-          "gaming": {
-            "description": "Gaming content remains popular, with specific focus on new game announcements and reactions.",
-            "examples": [
-              "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction"
-            ],
-            "insights": "Reaction videos to new game announcements are a key engagement driver for gaming channels."
-          }
-        },
-        "sports": {
-          "description": "Sports content, particularly live sports events and highlights, is a major trend.",
-          "examples": [
-            "Vegas Golden Knights at Colorado Avalanche",
-            "SEC Tournament: LSU vs. Auburn",
-            "Portland Fire at Indiana Fever"
+      "overview": {
+        "total_videos": 9,
+        "total_views": 3040217,
+        "average_views_per_video": 337802,
+        "category_insights": "Categories are unknown, but inferred through titles and channels."
+      },
+      "trending_content_patterns": {
+        "trailer_and_movies": {
+          "description": "Trailers and movie-related content appear to be trending, with three videos directly related to films or trailers.",
+          "titles": [
+            "Masters of The Universe – Official Final Trailer",
+            "Little Brother | Official Trailer | Netflix",
+            "The Batman 2 Set Video, Minecraft 2 Photos, He Man First Reactions & MORE!!"
           ],
-          "insights": "Live sports content captures real-time audience interest and can lead to sustained viewer engagement."
+          "channels": [
+            "Amazon MGM Studios",
+            "Netflix",
+            "3C Films"
+          ]
         },
-        "news_and_politics": {
-          "description": "News and political commentary are consistently trending categories.",
-          "examples": [
+        "sports_events": {
+          "description": "Sporting events are also a significant part of the trending list, indicating high viewer interest.",
+          "titles": [
+            "Vegas Golden Knights at Colorado Avalanche",
+            "Portland Fire at Indiana Fever",
+            "SEC Tournament: LSU vs. Auburn"
+          ],
+          "channels": [
+            "ESPN"
+          ]
+        },
+        "news_and_political_content": {
+          "description": "Political and news content maintain a strong presence in trending videos.",
+          "titles": [
             "Jesse Watters Primetime",
             "The Last Word With Lawrence O'Donnell"
           ],
-          "insights": "Political and news content often trends due to its relevance and the constant demand for updates and analysis."
+          "channels": [
+            "FOX News"
+          ]
+        },
+        "gaming": {
+          "description": "Gaming content is represented by a reaction video, which suggests an interest in gaming news and updates.",
+          "titles": [
+            "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction"
+          ],
+          "channels": []
         }
       },
       "creator_patterns": {
-        "diverse_sources": {
-          "description": "Trending videos are sourced from a variety of channels, indicating diverse content consumption.",
-          "top_channels": [
+        "top_channels": {
+          "description": "Channels with established reputations in their respective fields are trending.",
+          "list": [
             "Amazon MGM Studios",
             "ESPN",
             "Netflix",
             "FOX News",
             "3C Films"
-          ],
-          "insights": "Leveraging diverse content types and cross-collaborations can help channels increase their reach and engagement."
+          ]
+        },
+        "variety_of_content": {
+          "description": "Trending content spans various interests including entertainment, sports, news, and gaming, showcasing diverse content preferences."
         }
       },
       "market_opportunities": {
-        "cross_promotion": {
-          "description": "Opportunities exist for cross-promotion between entertainment and gaming channels.",
-          "strategy": "Channels can collaborate on content that ties into trending movie releases or game announcements."
+        "entertainment_and_trailers": {
+          "opportunity": "Increased viewer interest in movie trailers and entertainment news suggests an opportunity to create content around upcoming releases and fan theories."
         },
-        "sports_community_engagement": {
-          "description": "Engaging with sports communities can lead to increased viewership during live events.",
-          "strategy": "Developing interactive content such as live commentary, fan polls, and highlight reels can enhance engagement."
+        "sports_highlights_and_discussions": {
+          "opportunity": "Content that covers sports highlights, analysis, and discussions could capture the attention of sports enthusiasts."
         },
-        "news_relevance": {
-          "description": "Staying updated with current events can drive trends in news content.",
-          "strategy": "Timely content creation and leveraging breaking news can attract a consistent audience base interested in real-time information."
+        "news_political_commentary": {
+          "opportunity": "There is a market for news and political commentary, especially with a focus on current events and major news stories."
+        },
+        "gaming_trailers_and_reactions": {
+          "opportunity": "Gaming trailers and reaction videos can tap into the gaming community, particularly with new game announcements and updates."
         }
       },
       "metadata_stats": {
@@ -461,7 +475,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 310679
+        "avg_views_per_video": 337801
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
