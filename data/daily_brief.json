@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-20T21:40:21.258305",
-  "date": "2026-05-20",
+  "timestamp": "2026-05-21T01:10:29.145859",
+  "date": "2026-05-21",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
       "duration": "PT1M57S",
       "duration_seconds": 117,
-      "view_count": 352712,
-      "like_count": 8509,
-      "comment_count": 792,
+      "view_count": 974726,
+      "like_count": 10649,
+      "comment_count": 1015,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bWtrFcerKE0/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 168658,
-      "like_count": 6973,
-      "comment_count": 361,
+      "view_count": 204068,
+      "like_count": 7792,
+      "comment_count": 401,
       "category_id": "24",
       "tags": [
         "Bro",
@@ -86,21 +86,66 @@
       "url": "https://www.youtube.com/watch?v=bWtrFcerKE0"
     },
     {
-      "video_id": "LlPZh0HTS-Q",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "8es0wZavxLg",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-20T18:09:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LlPZh0HTS-Q/hqdefault.jpg",
-      "duration": "PT59M45S",
-      "duration_seconds": 3585,
+      "published_at": "2026-05-20T20:53:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8es0wZavxLg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LlPZh0HTS-Q"
+      "url": "https://www.youtube.com/watch?v=8es0wZavxLg"
+    },
+    {
+      "video_id": "ZjwNBxqAhV8",
+      "title": "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction",
+      "description": "I'M SOOOOOOOOOOOOOO EXCITED \n\nI'll stream Paralives on Monday! Follow now so you don't miss it: https://www.twitch.tv/lilsimsie\nDonate to our fundraiser! https://tiltify.com/@lilsimsie/stjude-2026\n\nFollow @Paralives for more updates from them!\nTrailer: https://youtu.be/ecbHUPrFEDg?si=IA3mxom0PwRDA0lk\n45min of Gameplay: https://youtu.be/rug6P62mfyA?si=LXNfNFb5dd-GzUcJ\nGame on Steam: https://store.steampowered.com/app/1118520/Paralives/\n\nCheck out my merch! https://lilsimsie.shop/\n\nFind me elsewhere!\n★ Instagram: https://www.instagram.com/lilsimsie/\n★ TikTok: https://www.tiktok.com/@lilsimsie\n★ Bluesky: https://bsky.app/profile/lilsimsie.bsky.social\n★ Twitch Streams: https://www.twitch.tv/lilsimsie\n★ Stream Reuploads: https://www.youtube.com/c/moresimsie\n★ Sims Gallery: lilsimsie\n\nThis video is family friendly, but The Sims 4 is rated T for Teen and this video is intended for an audience aged 13 and up.\n\nBusiness Inquiries: lilsimsie@iso-ent.com",
+      "channel_title": "lilsimsie",
+      "channel_id": "UC_TYFButglZuuDbD-0Q_IzQ",
+      "published_at": "2026-05-20T18:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZjwNBxqAhV8/hqdefault.jpg",
+      "duration": "PT26M28S",
+      "duration_seconds": 1588,
+      "view_count": 54736,
+      "like_count": 7112,
+      "comment_count": 459,
+      "category_id": "20",
+      "tags": [
+        "the sims",
+        "ts4",
+        "ts3",
+        "sims 4",
+        "sims 3",
+        "fixer upper",
+        "lilsimsie",
+        "kayla sims",
+        "kayla",
+        "gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZjwNBxqAhV8"
+    },
+    {
+      "video_id": "Bq9HIP0EUyg",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-20T22:33:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bq9HIP0EUyg/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Bq9HIP0EUyg"
     },
     {
       "video_id": "XmcIjxwLJcY",
@@ -112,9 +157,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 2107830,
-      "like_count": 88219,
-      "comment_count": 6014,
+      "view_count": 2130960,
+      "like_count": 88665,
+      "comment_count": 6039,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -157,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U7RT9LZ_6M0/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 255031,
-      "like_count": 6600,
-      "comment_count": 1230,
+      "view_count": 320489,
+      "like_count": 7075,
+      "comment_count": 1267,
       "category_id": "24",
       "tags": [
         "Power book III",
@@ -176,77 +221,21 @@
       "url": "https://www.youtube.com/watch?v=U7RT9LZ_6M0"
     },
     {
-      "video_id": "4deKGMB6cyg",
-      "title": "SEC Tournament: LSU vs. Oklahoma",
-      "description": "First Round, Game 4.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-05-20T13:47:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4deKGMB6cyg/hqdefault.jpg",
-      "duration": "PT3H39M41S",
-      "duration_seconds": 13181,
+      "video_id": "cEq3zn0SAz4",
+      "title": "Squawk on the Street",
+      "description": "Taking viewers onto the floor of the exchange, right to the posts where the big companies in the world trade; tick charts track the action of every trade of every stock; the treasury, currency and commodity action in real time.",
+      "channel_title": "CNBC",
+      "channel_id": "UCBvMULs2YrbFjhPJQBKILhw",
+      "published_at": "2026-05-20T22:21:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cEq3zn0SAz4/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=4deKGMB6cyg"
-    },
-    {
-      "video_id": "AkXdmOfc0mc",
-      "title": "The Neighbourhood - Sweater Weather (Lyrics)",
-      "description": "The Neighbourhood - Sweater Weather\nSweater Weather by The Neighbourhood Lyrics\n\nStream/DL: https://TheNeighbourhood.lnk.to/listenYD \n\n🔔 Support me :\n✔Facebook : / bomvibe02\n✔Instagram : / markuspaul39\n\nFollow The Neighbourhood:\n✔Facebook: https://TheNeighbourhood.lnk.to/followFI\n✔Spotify: https://TheNeighbourhood.lnk.to/followSI\n✔Twitter: https://TheNeighbourhood.lnk.to/followTI\n✔Site: https://TheNeighbourhood.lnk.to/followWI\n✔Instagram: https://TheNeighbourhood.lnk.to/followII\n✔Youtube: https://TheNeighbourhood.lnk.to/subscribeYD\n✔Apple Music: https://music.apple.com/us/artist/the-neighbourhood/219350813\n✔Soundcloud: https://soundcloud.com/theneighbourhood\n\nLyrics:\n0:00 [Verse 1]\nAnd all I am is a man\nI want the world in my hands\nI hate the beach, but I stand\nIn California with my toes in the sand\nUse the sleeves of my sweater, let's have an adventure\nHead in the clouds, but my gravity's centered\nTouch my neck and I'll touch yours\nYou in those little high-waisted shorts, oh\n\n0:38 [Pr",
-      "channel_title": "The Cinematic",
-      "channel_id": "UC6AdFpdciGSgj0LMW-8_9Xg",
-      "published_at": "2026-05-18T17:10:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AkXdmOfc0mc/hqdefault.jpg",
-      "duration": "PT4M",
-      "duration_seconds": 240,
-      "view_count": 461199,
-      "like_count": 1300,
-      "comment_count": 9,
-      "category_id": "22",
-      "tags": [
-        "the neighbourhood sweater weather lyrics",
-        "sweater weather the neighbourhood lyrics",
-        "the neighbourhood sweater weather",
-        "sweater weather lyrics",
-        "lyrics sweater weather the neighbourhood",
-        "sweater weather the neighbourhood",
-        "indie rock songs lyrics",
-        "alternative songs lyrics",
-        "the neighbourhood songs lyrics",
-        "the neighbourhood lyrics"
-      ],
-      "url": "https://www.youtube.com/watch?v=AkXdmOfc0mc"
-    },
-    {
-      "video_id": "tL2nzLFIcXg",
-      "title": "F1 25: 2026 Season Pack Reveal Trailer",
-      "description": "Wishlist F1 25: 2026 Season Pack on Xbox, Steam & EA App. Releasing June 3, 2026 on PlayStation 5, Xbox Series X|S and PC 👉 https://x.ea.com/89231\n\nDrive the groundbreaking new era of F1® with the 2026 rules and regulations, delivering action-packed racing as you tactically use the new Overtake mode and active aerodynamics to outsmart the grid and propel yourself to victory. \n\nMaster the new MADRING circuit and forge your racing legacy to fight for Championship Glory in Career mode, or take control of your own team and become the 12th team on the grid in My Team, where you can customize your car and line up alongside new teams, Audi and Cadillac.\n\nGet all the F1® 25: 2026 Season Pack information here 👉\nSubscribe to @EASPORTSF1 for upcoming F1® 25 trailers and news.\n\nFollow all the EA SPORTS F1 social channels 👉 https://linktr.ee/easportsf1\n\nhttps://x.com/EASPORTSF1\n\nhttps://www.instagram.com/EASPORTSF1",
-      "channel_title": "EA SPORTS F1",
-      "channel_id": "UCU5PZpCWQgak5w4ztWo9u6w",
-      "published_at": "2026-05-20T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tL2nzLFIcXg/hqdefault.jpg",
-      "duration": "PT1M26S",
-      "duration_seconds": 86,
-      "view_count": 214436,
-      "like_count": 14770,
-      "comment_count": 992,
-      "category_id": "20",
-      "tags": [
-        "F1 25",
-        "f1 25 game",
-        "f1 2025 game",
-        "f1 25 track and driver updates",
-        "f1 25 trailer",
-        "f1 25 gameplay",
-        "EA SPORTS F1",
-        "EA SPORTS F1 25",
-        "F1 game",
-        "F1 videogame"
-      ],
-      "url": "https://www.youtube.com/watch?v=tL2nzLFIcXg"
+      "url": "https://www.youtube.com/watch?v=cEq3zn0SAz4"
     }
   ],
   "videos_with_transcripts": [],
@@ -261,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
       "duration": "PT1M57S",
       "duration_seconds": 117,
-      "view_count": 352712,
-      "like_count": 8509,
-      "comment_count": 792,
+      "view_count": 974726,
+      "like_count": 10649,
+      "comment_count": 1015,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -306,9 +295,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bWtrFcerKE0/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 168658,
-      "like_count": 6973,
-      "comment_count": 361,
+      "view_count": 204068,
+      "like_count": 7792,
+      "comment_count": 401,
       "category_id": "24",
       "tags": [
         "Bro",
@@ -325,21 +314,66 @@
       "url": "https://www.youtube.com/watch?v=bWtrFcerKE0"
     },
     {
-      "video_id": "LlPZh0HTS-Q",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "8es0wZavxLg",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-20T18:09:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LlPZh0HTS-Q/hqdefault.jpg",
-      "duration": "PT59M45S",
-      "duration_seconds": 3585,
+      "published_at": "2026-05-20T20:53:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8es0wZavxLg/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=LlPZh0HTS-Q"
+      "url": "https://www.youtube.com/watch?v=8es0wZavxLg"
+    },
+    {
+      "video_id": "ZjwNBxqAhV8",
+      "title": "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction",
+      "description": "I'M SOOOOOOOOOOOOOO EXCITED \n\nI'll stream Paralives on Monday! Follow now so you don't miss it: https://www.twitch.tv/lilsimsie\nDonate to our fundraiser! https://tiltify.com/@lilsimsie/stjude-2026\n\nFollow @Paralives for more updates from them!\nTrailer: https://youtu.be/ecbHUPrFEDg?si=IA3mxom0PwRDA0lk\n45min of Gameplay: https://youtu.be/rug6P62mfyA?si=LXNfNFb5dd-GzUcJ\nGame on Steam: https://store.steampowered.com/app/1118520/Paralives/\n\nCheck out my merch! https://lilsimsie.shop/\n\nFind me elsewhere!\n★ Instagram: https://www.instagram.com/lilsimsie/\n★ TikTok: https://www.tiktok.com/@lilsimsie\n★ Bluesky: https://bsky.app/profile/lilsimsie.bsky.social\n★ Twitch Streams: https://www.twitch.tv/lilsimsie\n★ Stream Reuploads: https://www.youtube.com/c/moresimsie\n★ Sims Gallery: lilsimsie\n\nThis video is family friendly, but The Sims 4 is rated T for Teen and this video is intended for an audience aged 13 and up.\n\nBusiness Inquiries: lilsimsie@iso-ent.com",
+      "channel_title": "lilsimsie",
+      "channel_id": "UC_TYFButglZuuDbD-0Q_IzQ",
+      "published_at": "2026-05-20T18:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZjwNBxqAhV8/hqdefault.jpg",
+      "duration": "PT26M28S",
+      "duration_seconds": 1588,
+      "view_count": 54736,
+      "like_count": 7112,
+      "comment_count": 459,
+      "category_id": "20",
+      "tags": [
+        "the sims",
+        "ts4",
+        "ts3",
+        "sims 4",
+        "sims 3",
+        "fixer upper",
+        "lilsimsie",
+        "kayla sims",
+        "kayla",
+        "gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZjwNBxqAhV8"
+    },
+    {
+      "video_id": "Bq9HIP0EUyg",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-20T22:33:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bq9HIP0EUyg/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Bq9HIP0EUyg"
     },
     {
       "video_id": "XmcIjxwLJcY",
@@ -351,9 +385,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XmcIjxwLJcY/hqdefault.jpg",
       "duration": "PT1M58S",
       "duration_seconds": 118,
-      "view_count": 2107830,
-      "like_count": 88219,
-      "comment_count": 6014,
+      "view_count": 2130960,
+      "like_count": 88665,
+      "comment_count": 6039,
       "category_id": "24",
       "tags": [
         "hbo max",
@@ -396,9 +430,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U7RT9LZ_6M0/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 255031,
-      "like_count": 6600,
-      "comment_count": 1230,
+      "view_count": 320489,
+      "like_count": 7075,
+      "comment_count": 1267,
       "category_id": "24",
       "tags": [
         "Power book III",
@@ -415,152 +449,82 @@
       "url": "https://www.youtube.com/watch?v=U7RT9LZ_6M0"
     },
     {
-      "video_id": "4deKGMB6cyg",
-      "title": "SEC Tournament: LSU vs. Oklahoma",
-      "description": "First Round, Game 4.",
-      "channel_title": "SEC Network",
-      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
-      "published_at": "2026-05-20T13:47:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4deKGMB6cyg/hqdefault.jpg",
-      "duration": "PT3H39M41S",
-      "duration_seconds": 13181,
+      "video_id": "cEq3zn0SAz4",
+      "title": "Squawk on the Street",
+      "description": "Taking viewers onto the floor of the exchange, right to the posts where the big companies in the world trade; tick charts track the action of every trade of every stock; the treasury, currency and commodity action in real time.",
+      "channel_title": "CNBC",
+      "channel_id": "UCBvMULs2YrbFjhPJQBKILhw",
+      "published_at": "2026-05-20T22:21:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cEq3zn0SAz4/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=4deKGMB6cyg"
-    },
-    {
-      "video_id": "tL2nzLFIcXg",
-      "title": "F1 25: 2026 Season Pack Reveal Trailer",
-      "description": "Wishlist F1 25: 2026 Season Pack on Xbox, Steam & EA App. Releasing June 3, 2026 on PlayStation 5, Xbox Series X|S and PC 👉 https://x.ea.com/89231\n\nDrive the groundbreaking new era of F1® with the 2026 rules and regulations, delivering action-packed racing as you tactically use the new Overtake mode and active aerodynamics to outsmart the grid and propel yourself to victory. \n\nMaster the new MADRING circuit and forge your racing legacy to fight for Championship Glory in Career mode, or take control of your own team and become the 12th team on the grid in My Team, where you can customize your car and line up alongside new teams, Audi and Cadillac.\n\nGet all the F1® 25: 2026 Season Pack information here 👉\nSubscribe to @EASPORTSF1 for upcoming F1® 25 trailers and news.\n\nFollow all the EA SPORTS F1 social channels 👉 https://linktr.ee/easportsf1\n\nhttps://x.com/EASPORTSF1\n\nhttps://www.instagram.com/EASPORTSF1",
-      "channel_title": "EA SPORTS F1",
-      "channel_id": "UCU5PZpCWQgak5w4ztWo9u6w",
-      "published_at": "2026-05-20T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tL2nzLFIcXg/hqdefault.jpg",
-      "duration": "PT1M26S",
-      "duration_seconds": 86,
-      "view_count": 214436,
-      "like_count": 14770,
-      "comment_count": 992,
-      "category_id": "20",
-      "tags": [
-        "F1 25",
-        "f1 25 game",
-        "f1 2025 game",
-        "f1 25 track and driver updates",
-        "f1 25 trailer",
-        "f1 25 gameplay",
-        "EA SPORTS F1",
-        "EA SPORTS F1 25",
-        "F1 game",
-        "F1 videogame"
-      ],
-      "url": "https://www.youtube.com/watch?v=tL2nzLFIcXg"
-    },
-    {
-      "video_id": "AkXdmOfc0mc",
-      "title": "The Neighbourhood - Sweater Weather (Lyrics)",
-      "description": "The Neighbourhood - Sweater Weather\nSweater Weather by The Neighbourhood Lyrics\n\nStream/DL: https://TheNeighbourhood.lnk.to/listenYD \n\n🔔 Support me :\n✔Facebook : / bomvibe02\n✔Instagram : / markuspaul39\n\nFollow The Neighbourhood:\n✔Facebook: https://TheNeighbourhood.lnk.to/followFI\n✔Spotify: https://TheNeighbourhood.lnk.to/followSI\n✔Twitter: https://TheNeighbourhood.lnk.to/followTI\n✔Site: https://TheNeighbourhood.lnk.to/followWI\n✔Instagram: https://TheNeighbourhood.lnk.to/followII\n✔Youtube: https://TheNeighbourhood.lnk.to/subscribeYD\n✔Apple Music: https://music.apple.com/us/artist/the-neighbourhood/219350813\n✔Soundcloud: https://soundcloud.com/theneighbourhood\n\nLyrics:\n0:00 [Verse 1]\nAnd all I am is a man\nI want the world in my hands\nI hate the beach, but I stand\nIn California with my toes in the sand\nUse the sleeves of my sweater, let's have an adventure\nHead in the clouds, but my gravity's centered\nTouch my neck and I'll touch yours\nYou in those little high-waisted shorts, oh\n\n0:38 [Pr",
-      "channel_title": "The Cinematic",
-      "channel_id": "UC6AdFpdciGSgj0LMW-8_9Xg",
-      "published_at": "2026-05-18T17:10:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AkXdmOfc0mc/hqdefault.jpg",
-      "duration": "PT4M",
-      "duration_seconds": 240,
-      "view_count": 461199,
-      "like_count": 1300,
-      "comment_count": 9,
-      "category_id": "22",
-      "tags": [
-        "the neighbourhood sweater weather lyrics",
-        "sweater weather the neighbourhood lyrics",
-        "the neighbourhood sweater weather",
-        "sweater weather lyrics",
-        "lyrics sweater weather the neighbourhood",
-        "sweater weather the neighbourhood",
-        "indie rock songs lyrics",
-        "alternative songs lyrics",
-        "the neighbourhood songs lyrics",
-        "the neighbourhood lyrics"
-      ],
-      "url": "https://www.youtube.com/watch?v=AkXdmOfc0mc"
+      "url": "https://www.youtube.com/watch?v=cEq3zn0SAz4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "movie_and_series_trailers": {
-          "description": "Trailers for upcoming movies and TV series are a significant portion of trending content.",
-          "examples": [
-            "Masters of The Universe – Official Final Trailer",
-            "Little Brother | Official Trailer | Netflix",
-            "Lanterns | Official Teaser 2 | HBO Max",
-            "Official Trailer | Power Book III: Raising Kanan | Season 5"
-          ],
-          "insight": "There is a high demand for exclusive previews and trailers, indicating an effective strategy for entertainment channels to generate buzz around new releases."
+      "analysis": {
+        "overview": {
+          "total_videos": 10,
+          "total_views": 3684979,
+          "average_views_per_video": 368497.9
         },
-        "sports_content": {
-          "description": "Sports events and related content are prominently featured in trending videos.",
-          "examples": [
-            "Cleveland Cavaliers at New York Knicks",
-            "SEC Tournament: LSU vs. Oklahoma"
-          ],
-          "insight": "Live sports events and highlights remain a strong draw for audiences, suggesting opportunities for channels to capitalize on live sports coverage and post-event analysis."
+        "content_trends": {
+          "trailer_dominance": {
+            "description": "A significant portion of the trending videos are official trailers, indicating high audience interest in new media releases.",
+            "count": 4,
+            "videos": [
+              "Masters of The Universe – Official Final Trailer",
+              "Little Brother | Official Trailer | Netflix",
+              "Official Trailer | Power Book III: Raising Kanan | Season 5",
+              "Lanterns | Official Teaser 2 | HBO Max"
+            ]
+          },
+          "news_and_sports": {
+            "description": "News and sports content are also trending, showcasing ongoing viewer engagement with current events and sports.",
+            "count": 3,
+            "videos": [
+              "Cleveland Cavaliers at New York Knicks",
+              "America's Newsroom",
+              "Morning Joe"
+            ]
+          },
+          "gaming_and_reactions": {
+            "description": "Gaming content, specifically reaction videos, are trending, indicating a niche viewer interest in gaming commentary.",
+            "count": 1,
+            "videos": [
+              "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction"
+            ]
+          }
         },
-        "music_and_entertainment": {
-          "description": "Music and entertainment content continues to attract significant attention.",
-          "examples": [
-            "The Neighbourhood - Sweater Weather (Lyrics)"
-          ],
-          "insight": "Music videos and lyric videos maintain their popularity, indicating a continued opportunity for artists and labels to engage with audiences through new releases and creative video formats."
+        "creator_patterns": {
+          "top_channels": {
+            "description": "Diverse range of top channels, with no single channel dominating the trending list, suggesting varied content consumption.",
+            "channels": [
+              "Amazon MGM Studios",
+              "ESPN",
+              "Netflix",
+              "FOX News",
+              "lilsimsie"
+            ]
+          }
         },
-        "news_and_politics": {
-          "description": "News broadcasts and political commentary are represented in trending content.",
-          "examples": [
-            "FOX and Friends"
-          ],
-          "insight": "Current events and political shows remain relevant, offering channels an opportunity to engage audiences with timely content and commentary."
-        },
-        "gaming": {
-          "description": "Gaming content, including trailers for new releases, is a part of trending content.",
-          "examples": [
-            "F1 25: 2026 Season Pack Reveal Trailer"
-          ],
-          "insight": "The gaming industry continues to thrive, with interest in game releases and updates providing a strong avenue for engagement with gaming communities."
-        }
-      },
-      "creator_patterns": {
-        "diversified_content_production": {
-          "description": "Top channels are producing a diverse range of content, from sports to entertainment.",
-          "channels": [
-            "Amazon MGM Studios",
-            "ESPN",
-            "Netflix",
-            "FOX News",
-            "HBO Max"
-          ],
-          "insight": "Successful channels leverage a mix of content types to appeal to varied audience interests, suggesting a strategy of diversification can enhance audience reach and engagement."
-        },
-        "single_video_contribution": {
-          "description": "Each top channel contributed a single video to the trending list.",
-          "insight": "This pattern indicates that high-quality, targeted content can achieve trending status even with limited release volume, emphasizing the importance of strategic content release."
-        }
-      },
-      "market_opportunities": {
-        "cross-category_collaborations": {
-          "description": "Opportunities exist for collaborations across different content categories, such as sports and entertainment.",
-          "insight": "Cross-promotional content can tap into multiple audience segments, enhancing reach and engagement across platforms."
-        },
-        "live_and_interactive_content": {
-          "description": "There is potential in expanding live and interactive content offerings, especially in sports and news.",
-          "insight": "As audiences show strong interest in real-time engagement, channels that offer live streaming and interactive features could see increased viewer retention and involvement."
-        },
-        "localized_and_personalized content": {
-          "description": "Creating localized and personalized content can cater to niche audiences within broader categories.",
-          "insight": "By addressing specific audience needs and preferences, creators can build dedicated communities and increase content loyalty."
+        "market_opportunities": {
+          "media_trailers": {
+            "insight": "Given the high interest in trailers, there is an opportunity for content creators and media companies to focus on high-quality teaser releases and collaborations to engage audiences."
+          },
+          "news_and_sports_content": {
+            "insight": "Consistent interest in news and sports content presents opportunities for channels to develop in-depth analysis segments, live streams, and interactive discussions to further captivate audiences."
+          },
+          "gaming_reactions": {
+            "insight": "Reaction videos, particularly within gaming, show potential for growth. Creators can explore collaborations, gameplay tutorials, and community engagement to capitalize on this trend."
+          }
         }
       },
       "metadata_stats": {
@@ -569,7 +533,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 355986
+        "avg_views_per_video": 368497
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
