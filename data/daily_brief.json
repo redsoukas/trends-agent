@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-22T01:08:44.431012",
+  "timestamp": "2026-05-22T04:32:38.080205",
   "date": "2026-05-22",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 84331,
-      "like_count": 10760,
-      "comment_count": 837,
+      "view_count": 102975,
+      "like_count": 11864,
+      "comment_count": 902,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/38mXmzdJF9Q/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 224603,
-      "like_count": 21234,
-      "comment_count": 2215,
+      "view_count": 264884,
+      "like_count": 23169,
+      "comment_count": 2387,
       "category_id": "20",
       "tags": [
         "Fatshark",
@@ -56,6 +56,40 @@
         "Gameplay"
       ],
       "url": "https://www.youtube.com/watch?v=38mXmzdJF9Q"
+    },
+    {
+      "video_id": "C9XFYQhWMII",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-22T02:32:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C9XFYQhWMII/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C9XFYQhWMII"
+    },
+    {
+      "video_id": "vtEnjikCXyA",
+      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
+      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
+      "channel_title": "RoadsideFlix",
+      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
+      "published_at": "2026-05-21T14:59:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 92556,
+      "like_count": 1561,
+      "comment_count": 244,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
     },
     {
       "video_id": "64ls6a8ftIU",
@@ -75,66 +109,21 @@
       "url": "https://www.youtube.com/watch?v=64ls6a8ftIU"
     },
     {
-      "video_id": "rJSmz-zhDxE",
-      "title": "Masters of The Universe – Official Final Trailer",
-      "description": "Over 40 years ago… He saved his universe. He inspired a generation. Now, He-Man returns. Watch the final theatrical trailer for Masters Of The Universe - only in theaters June 5. Get tickets now.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MG",
-      "channel_title": "Amazon MGM Studios",
-      "channel_id": "UCf5CjDJvsFvtVIhkfmKAwAA",
-      "published_at": "2026-05-20T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
-      "duration": "PT1M57S",
-      "duration_seconds": 117,
-      "view_count": 3532168,
-      "like_count": 16999,
-      "comment_count": 1609,
-      "category_id": "24",
-      "tags": [
-        "MGM",
-        "MGM Studios",
-        "Metro-Goldwyn- Mayer",
-        "Metro Pictures Corporations",
-        "Goldwyn Pictures",
-        "Louis B. Mayer Pictures",
-        "MGM Pictures",
-        "United Artists",
-        "Metro MGM/UA",
-        "Amazon MGM"
-      ],
-      "url": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
-    },
-    {
-      "video_id": "dI_YjmqNSxQ",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-21T20:58:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dI_YjmqNSxQ/hqdefault.jpg",
-      "duration": "PT59M15S",
-      "duration_seconds": 3555,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "KfHbj_fY9Vo",
+      "title": "THE BOYS VOUGHT RISING TRAILER 2027: Homelander’s Aftermath",
+      "description": "The Boys Vought Rising Trailer 2027. The Boys Season 5 Episode 8 Finale Homelander Ending Aftermath, what happens next. Jensen Ackles Soldier Boy, Stormfront Returns & Vought Rising Episode 1 ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-21T22:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KfHbj_fY9Vo/hqdefault.jpg",
+      "duration": "PT13M52S",
+      "duration_seconds": 832,
+      "view_count": 129364,
+      "like_count": 3326,
+      "comment_count": 470,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dI_YjmqNSxQ"
-    },
-    {
-      "video_id": "vtEnjikCXyA",
-      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
-      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
-      "channel_title": "RoadsideFlix",
-      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
-      "published_at": "2026-05-21T14:59:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 71007,
-      "like_count": 1316,
-      "comment_count": 220,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
+      "url": "https://www.youtube.com/watch?v=KfHbj_fY9Vo"
     },
     {
       "video_id": "_6ucSC1-7ZI",
@@ -146,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_6ucSC1-7ZI/hqdefault.jpg",
       "duration": "PT1H58M54S",
       "duration_seconds": 7134,
-      "view_count": 1858463,
-      "like_count": 145199,
-      "comment_count": 24262,
+      "view_count": 2245819,
+      "like_count": 157115,
+      "comment_count": 24413,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -165,47 +154,6 @@
       "url": "https://www.youtube.com/watch?v=_6ucSC1-7ZI"
     },
     {
-      "video_id": "j-XIlS8uO9c",
-      "title": "Pokémon TCG Pocket: Paradox Drive | Official Trailer",
-      "description": "Discover Koraidon ex, Miraidon ex, and other Paradox Pokémon found in the depths of Area Zero in the new Pokémon TCG Pocket: Paradox Drive expansion, coming May 28!\n\nFind all your favorite Pokémon merchandise at the official Pokémon Center: https://www.pokemoncenter.com/\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat",
-      "channel_title": "The Official Pokémon YouTube channel",
-      "channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
-      "published_at": "2026-05-21T13:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j-XIlS8uO9c/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 115337,
-      "like_count": 3345,
-      "comment_count": 388,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=j-XIlS8uO9c"
-    },
-    {
-      "video_id": "NyvItRTjM1Q",
-      "title": "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
-      "description": "Check the Patch Notes: https://supr.cl/Update_June26\n\nComing with the update:\n🃏 Collection Levels\n💎 Mastery Rework\n\nOver the next season:\n❄️ EVO Princess\n💀 HERO Tombstone\n👑 Princess Gambit\n🏟️ Seasonal Arenas\n🩷 Victory Run Event\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Car",
-      "channel_title": "Clash Royale",
-      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
-      "published_at": "2026-05-21T14:55:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NyvItRTjM1Q/hqdefault.jpg",
-      "duration": "PT4M5S",
-      "duration_seconds": 245,
-      "view_count": 1270738,
-      "like_count": 43079,
-      "comment_count": 1601,
-      "category_id": "20",
-      "tags": [
-        "Clash Royale",
-        "Clash Royale Game",
-        "Supercell",
-        "Supercell Game",
-        "Clash Royale Supercell",
-        "Mobile Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=NyvItRTjM1Q"
-    },
-    {
       "video_id": "gDvbGANDH4E",
       "title": "007 First Light - Launch Trailer | PS5 Games",
       "description": "https://www.playstation.com/games/007-first-light\n\nA James Bond re-imagined origin story begins on May 27, 2026.\n\nAre you ready to go on this globetrotting adventure and #EarnTheNumber?\n\nPre-order now and get a free Deluxe Edition upgrade, including 24h early access.\n\n\n#ps5 #ps5games #EarnTheNumber #007firstlight",
@@ -215,9 +163,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gDvbGANDH4E/hqdefault.jpg",
       "duration": "PT1M3S",
       "duration_seconds": 63,
-      "view_count": 44880,
-      "like_count": 3694,
-      "comment_count": 255,
+      "view_count": 67668,
+      "like_count": 4498,
+      "comment_count": 291,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -231,6 +179,58 @@
         "IO Interactive"
       ],
       "url": "https://www.youtube.com/watch?v=gDvbGANDH4E"
+    },
+    {
+      "video_id": "NyvItRTjM1Q",
+      "title": "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
+      "description": "Check the Patch Notes: https://supr.cl/Update_June26\n\nComing with the update:\n🃏 Collection Levels\n💎 Mastery Rework\n\nOver the next season:\n❄️ EVO Princess\n💀 HERO Tombstone\n👑 Princess Gambit\n🏟️ Seasonal Arenas\n🩷 Victory Run Event\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Car",
+      "channel_title": "Clash Royale",
+      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
+      "published_at": "2026-05-21T14:55:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NyvItRTjM1Q/hqdefault.jpg",
+      "duration": "PT4M5S",
+      "duration_seconds": 245,
+      "view_count": 1423076,
+      "like_count": 45449,
+      "comment_count": 1668,
+      "category_id": "20",
+      "tags": [
+        "Clash Royale",
+        "Clash Royale Game",
+        "Supercell",
+        "Supercell Game",
+        "Clash Royale Supercell",
+        "Mobile Game"
+      ],
+      "url": "https://www.youtube.com/watch?v=NyvItRTjM1Q"
+    },
+    {
+      "video_id": "rJSmz-zhDxE",
+      "title": "Masters of The Universe – Official Final Trailer",
+      "description": "Over 40 years ago… He saved his universe. He inspired a generation. Now, He-Man returns. Watch the final theatrical trailer for Masters Of The Universe - only in theaters June 5. Get tickets now.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MG",
+      "channel_title": "Amazon MGM Studios",
+      "channel_id": "UCf5CjDJvsFvtVIhkfmKAwAA",
+      "published_at": "2026-05-20T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
+      "duration": "PT1M57S",
+      "duration_seconds": 117,
+      "view_count": 4069271,
+      "like_count": 18124,
+      "comment_count": 1743,
+      "category_id": "24",
+      "tags": [
+        "MGM",
+        "MGM Studios",
+        "Metro-Goldwyn- Mayer",
+        "Metro Pictures Corporations",
+        "Goldwyn Pictures",
+        "Louis B. Mayer Pictures",
+        "MGM Pictures",
+        "United Artists",
+        "Metro MGM/UA",
+        "Amazon MGM"
+      ],
+      "url": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
     }
   ],
   "videos_with_transcripts": [],
@@ -245,9 +245,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 84331,
-      "like_count": 10760,
-      "comment_count": 837,
+      "view_count": 102975,
+      "like_count": 11864,
+      "comment_count": 902,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
@@ -262,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/38mXmzdJF9Q/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 224603,
-      "like_count": 21234,
-      "comment_count": 2215,
+      "view_count": 264884,
+      "like_count": 23169,
+      "comment_count": 2387,
       "category_id": "20",
       "tags": [
         "Fatshark",
@@ -279,6 +279,40 @@
         "Gameplay"
       ],
       "url": "https://www.youtube.com/watch?v=38mXmzdJF9Q"
+    },
+    {
+      "video_id": "C9XFYQhWMII",
+      "title": "The Will Cain Show",
+      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-22T02:32:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C9XFYQhWMII/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C9XFYQhWMII"
+    },
+    {
+      "video_id": "vtEnjikCXyA",
+      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
+      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
+      "channel_title": "RoadsideFlix",
+      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
+      "published_at": "2026-05-21T14:59:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 92556,
+      "like_count": 1561,
+      "comment_count": 244,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
     },
     {
       "video_id": "64ls6a8ftIU",
@@ -298,66 +332,21 @@
       "url": "https://www.youtube.com/watch?v=64ls6a8ftIU"
     },
     {
-      "video_id": "rJSmz-zhDxE",
-      "title": "Masters of The Universe – Official Final Trailer",
-      "description": "Over 40 years ago… He saved his universe. He inspired a generation. Now, He-Man returns. Watch the final theatrical trailer for Masters Of The Universe - only in theaters June 5. Get tickets now.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MG",
-      "channel_title": "Amazon MGM Studios",
-      "channel_id": "UCf5CjDJvsFvtVIhkfmKAwAA",
-      "published_at": "2026-05-20T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
-      "duration": "PT1M57S",
-      "duration_seconds": 117,
-      "view_count": 3532168,
-      "like_count": 16999,
-      "comment_count": 1609,
-      "category_id": "24",
-      "tags": [
-        "MGM",
-        "MGM Studios",
-        "Metro-Goldwyn- Mayer",
-        "Metro Pictures Corporations",
-        "Goldwyn Pictures",
-        "Louis B. Mayer Pictures",
-        "MGM Pictures",
-        "United Artists",
-        "Metro MGM/UA",
-        "Amazon MGM"
-      ],
-      "url": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
-    },
-    {
-      "video_id": "dI_YjmqNSxQ",
-      "title": "America's Newsroom",
-      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-21T20:58:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dI_YjmqNSxQ/hqdefault.jpg",
-      "duration": "PT59M15S",
-      "duration_seconds": 3555,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
+      "video_id": "KfHbj_fY9Vo",
+      "title": "THE BOYS VOUGHT RISING TRAILER 2027: Homelander’s Aftermath",
+      "description": "The Boys Vought Rising Trailer 2027. The Boys Season 5 Episode 8 Finale Homelander Ending Aftermath, what happens next. Jensen Ackles Soldier Boy, Stormfront Returns & Vought Rising Episode 1 ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-21T22:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KfHbj_fY9Vo/hqdefault.jpg",
+      "duration": "PT13M52S",
+      "duration_seconds": 832,
+      "view_count": 129364,
+      "like_count": 3326,
+      "comment_count": 470,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dI_YjmqNSxQ"
-    },
-    {
-      "video_id": "vtEnjikCXyA",
-      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
-      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
-      "channel_title": "RoadsideFlix",
-      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
-      "published_at": "2026-05-21T14:59:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 71007,
-      "like_count": 1316,
-      "comment_count": 220,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
+      "url": "https://www.youtube.com/watch?v=KfHbj_fY9Vo"
     },
     {
       "video_id": "_6ucSC1-7ZI",
@@ -369,9 +358,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_6ucSC1-7ZI/hqdefault.jpg",
       "duration": "PT1H58M54S",
       "duration_seconds": 7134,
-      "view_count": 1858463,
-      "like_count": 145199,
-      "comment_count": 24262,
+      "view_count": 2245819,
+      "like_count": 157115,
+      "comment_count": 24413,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -388,30 +377,6 @@
       "url": "https://www.youtube.com/watch?v=_6ucSC1-7ZI"
     },
     {
-      "video_id": "NyvItRTjM1Q",
-      "title": "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
-      "description": "Check the Patch Notes: https://supr.cl/Update_June26\n\nComing with the update:\n🃏 Collection Levels\n💎 Mastery Rework\n\nOver the next season:\n❄️ EVO Princess\n💀 HERO Tombstone\n👑 Princess Gambit\n🏟️ Seasonal Arenas\n🩷 Victory Run Event\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Car",
-      "channel_title": "Clash Royale",
-      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
-      "published_at": "2026-05-21T14:55:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NyvItRTjM1Q/hqdefault.jpg",
-      "duration": "PT4M5S",
-      "duration_seconds": 245,
-      "view_count": 1270738,
-      "like_count": 43079,
-      "comment_count": 1601,
-      "category_id": "20",
-      "tags": [
-        "Clash Royale",
-        "Clash Royale Game",
-        "Supercell",
-        "Supercell Game",
-        "Clash Royale Supercell",
-        "Mobile Game"
-      ],
-      "url": "https://www.youtube.com/watch?v=NyvItRTjM1Q"
-    },
-    {
       "video_id": "gDvbGANDH4E",
       "title": "007 First Light - Launch Trailer | PS5 Games",
       "description": "https://www.playstation.com/games/007-first-light\n\nA James Bond re-imagined origin story begins on May 27, 2026.\n\nAre you ready to go on this globetrotting adventure and #EarnTheNumber?\n\nPre-order now and get a free Deluxe Edition upgrade, including 24h early access.\n\n\n#ps5 #ps5games #EarnTheNumber #007firstlight",
@@ -421,9 +386,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gDvbGANDH4E/hqdefault.jpg",
       "duration": "PT1M3S",
       "duration_seconds": 63,
-      "view_count": 44880,
-      "like_count": 3694,
-      "comment_count": 255,
+      "view_count": 67668,
+      "like_count": 4498,
+      "comment_count": 291,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -439,116 +404,93 @@
       "url": "https://www.youtube.com/watch?v=gDvbGANDH4E"
     },
     {
-      "video_id": "j-XIlS8uO9c",
-      "title": "Pokémon TCG Pocket: Paradox Drive | Official Trailer",
-      "description": "Discover Koraidon ex, Miraidon ex, and other Paradox Pokémon found in the depths of Area Zero in the new Pokémon TCG Pocket: Paradox Drive expansion, coming May 28!\n\nFind all your favorite Pokémon merchandise at the official Pokémon Center: https://www.pokemoncenter.com/\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat",
-      "channel_title": "The Official Pokémon YouTube channel",
-      "channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
-      "published_at": "2026-05-21T13:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j-XIlS8uO9c/hqdefault.jpg",
-      "duration": "PT55S",
-      "duration_seconds": 55,
-      "view_count": 115337,
-      "like_count": 3345,
-      "comment_count": 388,
+      "video_id": "NyvItRTjM1Q",
+      "title": "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
+      "description": "Check the Patch Notes: https://supr.cl/Update_June26\n\nComing with the update:\n🃏 Collection Levels\n💎 Mastery Rework\n\nOver the next season:\n❄️ EVO Princess\n💀 HERO Tombstone\n👑 Princess Gambit\n🏟️ Seasonal Arenas\n🩷 Victory Run Event\n\nX ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Car",
+      "channel_title": "Clash Royale",
+      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
+      "published_at": "2026-05-21T14:55:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NyvItRTjM1Q/hqdefault.jpg",
+      "duration": "PT4M5S",
+      "duration_seconds": 245,
+      "view_count": 1423076,
+      "like_count": 45449,
+      "comment_count": 1668,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=j-XIlS8uO9c"
+      "tags": [
+        "Clash Royale",
+        "Clash Royale Game",
+        "Supercell",
+        "Supercell Game",
+        "Clash Royale Supercell",
+        "Mobile Game"
+      ],
+      "url": "https://www.youtube.com/watch?v=NyvItRTjM1Q"
+    },
+    {
+      "video_id": "rJSmz-zhDxE",
+      "title": "Masters of The Universe – Official Final Trailer",
+      "description": "Over 40 years ago… He saved his universe. He inspired a generation. Now, He-Man returns. Watch the final theatrical trailer for Masters Of The Universe - only in theaters June 5. Get tickets now.\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MG",
+      "channel_title": "Amazon MGM Studios",
+      "channel_id": "UCf5CjDJvsFvtVIhkfmKAwAA",
+      "published_at": "2026-05-20T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rJSmz-zhDxE/hqdefault.jpg",
+      "duration": "PT1M57S",
+      "duration_seconds": 117,
+      "view_count": 4069271,
+      "like_count": 18124,
+      "comment_count": 1743,
+      "category_id": "24",
+      "tags": [
+        "MGM",
+        "MGM Studios",
+        "Metro-Goldwyn- Mayer",
+        "Metro Pictures Corporations",
+        "Goldwyn Pictures",
+        "Louis B. Mayer Pictures",
+        "MGM Pictures",
+        "United Artists",
+        "Metro MGM/UA",
+        "Amazon MGM"
+      ],
+      "url": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 7201527,
-        "average_views_per_video": 720152.7
-      },
       "content_trends": {
         "gaming": {
-          "description": "Videos related to gaming are prominent in the trending list, particularly those associated with popular franchises like Warhammer 40,000 and Minecraft.",
-          "videos": [
-            "Warhammer 40,000: Darktide - Skitarii | Class Reveal Trailer",
-            "1000 Players Simulate UNDERGROUND Civilization in Minecraft"
-          ],
-          "insight": "There is a strong audience interest in gaming, particularly in established franchises and innovative multiplayer scenarios."
+          "description": "Gaming-related content is highly prevalent, with notable mentions including 'Warhammer 40,000: Darktide' and '1000 Players Simulate UNDERGROUND Civilization in Minecraft'. This indicates a strong audience interest in gaming trailers and innovative gameplay simulations.",
+          "opportunities": "Consider creating content around trending games, such as tutorials, gameplay strategies, and reviews to capture the gaming audience segment."
         },
         "entertainment": {
-          "description": "Trailers for movies and TV shows are trending, indicating significant interest in upcoming releases.",
-          "videos": [
-            "Masters of The Universe – Official Final Trailer",
-            "Lucky Strike | Official Trailer | In Theaters June 26",
-            "007 First Light - Launch Trailer | PS5 Games"
-          ],
-          "insight": "Promotional content for new entertainment media is effective in capturing audience attention."
-        },
-        "news_and_information": {
-          "description": "News content is also trending, showcasing the demand for current events and timely information.",
-          "videos": [
-            "America's Newsroom"
-          ],
-          "insight": "Timely and relevant news content remains a staple in audience engagement, especially from established networks."
+          "description": "Trailers for upcoming releases, such as 'Lucky Strike' and 'Masters of The Universe', suggest a high interest in entertainment content, particularly related to new movie and TV show releases.",
+          "opportunities": "Leverage the anticipation for upcoming releases by producing content such as reaction videos, predictions, and behind-the-scenes insights to engage with entertainment enthusiasts."
         },
         "sports": {
-          "description": "Sports content, particularly related to major leagues or events, is attracting viewers.",
-          "videos": [
-            "Vegas Golden Knights at Colorado Avalanche"
-          ],
-          "insight": "Live sports and highlights continue to draw significant audience interest."
-        },
-        "unique_content": {
-          "description": "Unusual or niche topics, like the Skitarii class in a game or a unique game mode in a mobile game, are capturing niche audiences.",
-          "videos": [
-            "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
-            "Pokémon TCG Pocket: Paradox Drive | Official Trailer"
-          ],
-          "insight": "Unique and niche content can effectively capture specific audience segments, offering opportunities for differentiation."
+          "description": "The presence of content like 'Vegas Golden Knights at Colorado Avalanche' indicates an interest in live sports content.",
+          "opportunities": "Capitalize on this trend by offering game highlights, expert analysis, and fan interaction content to appeal to the sports audience."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "PRESIDENT",
-            "videos": 1,
-            "insight": "This channel has managed to trend with a single video, indicating strong content or existing audience engagement."
-          },
-          {
-            "name": "Fatshark",
-            "videos": 1,
-            "insight": "Specialized gaming content from recognized developers can easily trend due to existing fan bases."
-          },
-          {
-            "name": "ESPN",
-            "videos": 1,
-            "insight": "Major sports networks consistently trend, highlighting the ongoing demand for sports content."
-          },
-          {
-            "name": "Amazon MGM Studios",
-            "videos": 1,
-            "insight": "Studios with well-known franchises can leverage their brand to maintain trending status."
-          },
-          {
-            "name": "FOX News",
-            "videos": 1,
-            "insight": "Established news channels are able to capture trending slots with timely content."
-          }
-        ]
+        "diverse_genres": {
+          "description": "Top channels are producing content across a wide range of genres, including news, gaming, and entertainment.",
+          "strategy": "Creators should consider diversifying their content offerings to engage with multiple audience segments and maximize reach."
+        },
+        "single_video_contributors": {
+          "description": "Each top channel has contributed only one video to the trending list, suggesting that a single hit video can significantly impact a channel's visibility.",
+          "strategy": "Focus on producing high-quality, unique content that has the potential to go viral, as even a single successful video can boost channel visibility."
+        }
       },
       "market_opportunities": {
-        "gaming": {
-          "opportunity": "Develop content around popular franchises or innovative multiplayer modes to capture audience interest."
+        "cross-industry collaboration": {
+          "description": "Collaboration between industries such as gaming and entertainment could capture wider audience interest, as seen with cross-genre content like gaming trailers.",
+          "actionable_step": "Explore partnerships between gaming companies and film studios to create crossover content that appeals to both gaming and movie audiences."
         },
-        "entertainment": {
-          "opportunity": "Produce promotional content for upcoming releases to engage audiences anticipating new entertainment media."
-        },
-        "news": {
-          "opportunity": "Provide timely and relevant news coverage from credible sources to maintain audience engagement."
-        },
-        "niche_content": {
-          "opportunity": "Explore unique angles or lesser-known topics within popular genres to attract niche audiences."
-        },
-        "cross-promotion": {
-          "opportunity": "Collaborate with trending channels or creators within similar verticals to expand reach and audience base."
+        "emerging content formats": {
+          "description": "The variety in content formats, including trailers, simulation videos, and news shows, indicates a market openness to diverse content types.",
+          "actionable_step": "Experiment with different content formats, such as interactive live streams or episodic content, to engage with audiences in fresh, compelling ways."
         }
       },
       "metadata_stats": {
@@ -557,7 +499,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 720152
+        "avg_views_per_video": 839561
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
