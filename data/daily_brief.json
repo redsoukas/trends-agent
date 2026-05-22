@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T13:03:30.911389",
+  "timestamp": "2026-05-22T15:57:47.606845",
   "date": "2026-05-22",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/38mXmzdJF9Q/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 322535,
-      "like_count": 25446,
-      "comment_count": 2586,
+      "view_count": 336220,
+      "like_count": 26049,
+      "comment_count": 2662,
       "category_id": "20",
       "tags": [
         "Fatshark",
@@ -41,21 +41,21 @@
       "url": "https://www.youtube.com/watch?v=38mXmzdJF9Q"
     },
     {
-      "video_id": "boVLQbNGiFM",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-22T07:57:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/boVLQbNGiFM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "y2PAJNJ7MWs",
+      "title": "Cleveland Cavaliers at New York Knicks",
+      "description": "The New York Knicks and Cleveland Cavaliers collide in Game 2 of the Eastern Conference Finals. New York leads 1-0 after a 115-104 OT win led by Jalen Brunson's 38 points. Donovan Mitchell and Karl-Anthony Towns tip off at Madison Square Garden.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-22T11:47:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y2PAJNJ7MWs/hqdefault.jpg",
+      "duration": "PT2H47M21S",
+      "duration_seconds": 10041,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=boVLQbNGiFM"
+      "url": "https://www.youtube.com/watch?v=y2PAJNJ7MWs"
     },
     {
       "video_id": "KfHbj_fY9Vo",
@@ -67,12 +67,63 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KfHbj_fY9Vo/hqdefault.jpg",
       "duration": "PT13M52S",
       "duration_seconds": 832,
-      "view_count": 194905,
-      "like_count": 4373,
-      "comment_count": 584,
+      "view_count": 208565,
+      "like_count": 4610,
+      "comment_count": 625,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KfHbj_fY9Vo"
+    },
+    {
+      "video_id": "ZEAm48mcZTE",
+      "title": "Montreal Canadiens at Carolina Hurricanes",
+      "description": "The Montreal Canadiens and Carolina Hurricanes battle in Game 1 of the Eastern Finals. Coach Martin St. Louis and Lane Hutson bring a top power play against a stout penalty kill led by coach Rod Brind'Amour and Frederik Andersen in Raleigh.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-22T11:55:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZEAm48mcZTE/hqdefault.jpg",
+      "duration": "PT2H44M6S",
+      "duration_seconds": 9846,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
+    },
+    {
+      "video_id": "vtEnjikCXyA",
+      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
+      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
+      "channel_title": "RoadsideFlix",
+      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
+      "published_at": "2026-05-21T14:59:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 198723,
+      "like_count": 2342,
+      "comment_count": 336,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
+    },
+    {
+      "video_id": "J8H5p7JCgEM",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-22T09:29:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J8H5p7JCgEM/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=J8H5p7JCgEM"
     },
     {
       "video_id": "ry8N3d1FqVs",
@@ -92,84 +143,6 @@
       "url": "https://www.youtube.com/watch?v=ry8N3d1FqVs"
     },
     {
-      "video_id": "O_yO9c7zSIw",
-      "title": "PRESIDENT - DOOM LOOP",
-      "description": "C I T I Z E N S,\n\nThe debut full-length address:\n\nB L O O D  O F  Y O U R  E M P I R E\n\nis now available to pre-order via  https://www.presidentband.com\n\nD O O M  L O O P, the latest transmission, is out now.\n\nThe campaign escalates.",
-      "channel_title": "PRESIDENT",
-      "channel_id": "UCCAxEuKZzOWyUZHFzuoTcjA",
-      "published_at": "2026-05-21T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
-      "duration": "PT4M1S",
-      "duration_seconds": 241,
-      "view_count": 130418,
-      "like_count": 13265,
-      "comment_count": 988,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
-    },
-    {
-      "video_id": "vtEnjikCXyA",
-      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
-      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
-      "channel_title": "RoadsideFlix",
-      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
-      "published_at": "2026-05-21T14:59:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 174744,
-      "like_count": 2045,
-      "comment_count": 311,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
-    },
-    {
-      "video_id": "wakSU6KJRLc",
-      "title": "NBA Tip-Off",
-      "description": "Ernie Johnson, Shaquille O'Neal, Charles Barkley and Kenny Smith readies viewers for NBA action.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-22T07:04:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wakSU6KJRLc/hqdefault.jpg",
-      "duration": "PT54M5S",
-      "duration_seconds": 3245,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wakSU6KJRLc"
-    },
-    {
-      "video_id": "gDvbGANDH4E",
-      "title": "007 First Light - Launch Trailer | PS5 Games",
-      "description": "https://www.playstation.com/games/007-first-light\n\nA James Bond re-imagined origin story begins on May 27, 2026.\n\nAre you ready to go on this globetrotting adventure and #EarnTheNumber?\n\nPre-order now and get a free Deluxe Edition upgrade, including 24h early access.\n\n\n#ps5 #ps5games #EarnTheNumber #007firstlight",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-05-21T20:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gDvbGANDH4E/hqdefault.jpg",
-      "duration": "PT1M3S",
-      "duration_seconds": 63,
-      "view_count": 109934,
-      "like_count": 5953,
-      "comment_count": 367,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "Earn the Number",
-        "007",
-        "007 First Light",
-        "IO Interactive"
-      ],
-      "url": "https://www.youtube.com/watch?v=gDvbGANDH4E"
-    },
-    {
       "video_id": "G57iwLb3Mxs",
       "title": "The CJ Cup Byron Nelson, First Round",
       "description": "The opening round of the PGA Tour Byron Nelson tournament tees off at TPC Craig Ranch. Defending 2025 champion Scottie Scheffler navigates the field as marquee morning pairings begin 72 holes of stroke play today in McKinney, Texas.",
@@ -187,6 +160,23 @@
       "url": "https://www.youtube.com/watch?v=G57iwLb3Mxs"
     },
     {
+      "video_id": "O_yO9c7zSIw",
+      "title": "PRESIDENT - DOOM LOOP",
+      "description": "C I T I Z E N S,\n\nThe debut full-length address:\n\nB L O O D  O F  Y O U R  E M P I R E\n\nis now available to pre-order via  https://www.presidentband.com\n\nD O O M  L O O P, the latest transmission, is out now.\n\nThe campaign escalates.",
+      "channel_title": "PRESIDENT",
+      "channel_id": "UCCAxEuKZzOWyUZHFzuoTcjA",
+      "published_at": "2026-05-21T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
+      "duration": "PT4M1S",
+      "duration_seconds": 241,
+      "view_count": 142250,
+      "like_count": 13849,
+      "comment_count": 1036,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
+    },
+    {
       "video_id": "_6ucSC1-7ZI",
       "title": "1000 Players Simulate UNDERGROUND Civilization in Minecraft",
       "description": "kingdom of the caves\n\n1000 Players Simulate UNDERGROUND Civilization in Minecraft\n\nUnstable SMP:\n➜  ⁨@FlameFragsMC \n➜  @Spokeishere \n➜  @ParrotX2 \n➜  ⁨@wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN @FlameFragsMC @saparata @ParrotX2 @TheobaldTheBird \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/user/andreaszoellermusic\nhttps://www.youtube.com/@Kalamity_Music\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks,",
@@ -196,9 +186,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_6ucSC1-7ZI/hqdefault.jpg",
       "duration": "PT1H58M54S",
       "duration_seconds": 7134,
-      "view_count": 3019918,
-      "like_count": 178575,
-      "comment_count": 27369,
+      "view_count": 3270954,
+      "like_count": 184079,
+      "comment_count": 27328,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -227,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/38mXmzdJF9Q/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 322535,
-      "like_count": 25446,
-      "comment_count": 2586,
+      "view_count": 336220,
+      "like_count": 26049,
+      "comment_count": 2662,
       "category_id": "20",
       "tags": [
         "Fatshark",
@@ -246,21 +236,21 @@
       "url": "https://www.youtube.com/watch?v=38mXmzdJF9Q"
     },
     {
-      "video_id": "boVLQbNGiFM",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-22T07:57:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/boVLQbNGiFM/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
+      "video_id": "y2PAJNJ7MWs",
+      "title": "Cleveland Cavaliers at New York Knicks",
+      "description": "The New York Knicks and Cleveland Cavaliers collide in Game 2 of the Eastern Conference Finals. New York leads 1-0 after a 115-104 OT win led by Jalen Brunson's 38 points. Donovan Mitchell and Karl-Anthony Towns tip off at Madison Square Garden.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-22T11:47:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y2PAJNJ7MWs/hqdefault.jpg",
+      "duration": "PT2H47M21S",
+      "duration_seconds": 10041,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=boVLQbNGiFM"
+      "url": "https://www.youtube.com/watch?v=y2PAJNJ7MWs"
     },
     {
       "video_id": "KfHbj_fY9Vo",
@@ -272,12 +262,63 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KfHbj_fY9Vo/hqdefault.jpg",
       "duration": "PT13M52S",
       "duration_seconds": 832,
-      "view_count": 194905,
-      "like_count": 4373,
-      "comment_count": 584,
+      "view_count": 208565,
+      "like_count": 4610,
+      "comment_count": 625,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=KfHbj_fY9Vo"
+    },
+    {
+      "video_id": "ZEAm48mcZTE",
+      "title": "Montreal Canadiens at Carolina Hurricanes",
+      "description": "The Montreal Canadiens and Carolina Hurricanes battle in Game 1 of the Eastern Finals. Coach Martin St. Louis and Lane Hutson bring a top power play against a stout penalty kill led by coach Rod Brind'Amour and Frederik Andersen in Raleigh.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-22T11:55:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZEAm48mcZTE/hqdefault.jpg",
+      "duration": "PT2H44M6S",
+      "duration_seconds": 9846,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
+    },
+    {
+      "video_id": "vtEnjikCXyA",
+      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
+      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
+      "channel_title": "RoadsideFlix",
+      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
+      "published_at": "2026-05-21T14:59:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 198723,
+      "like_count": 2342,
+      "comment_count": 336,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
+    },
+    {
+      "video_id": "J8H5p7JCgEM",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-22T09:29:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J8H5p7JCgEM/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=J8H5p7JCgEM"
     },
     {
       "video_id": "ry8N3d1FqVs",
@@ -297,84 +338,6 @@
       "url": "https://www.youtube.com/watch?v=ry8N3d1FqVs"
     },
     {
-      "video_id": "O_yO9c7zSIw",
-      "title": "PRESIDENT - DOOM LOOP",
-      "description": "C I T I Z E N S,\n\nThe debut full-length address:\n\nB L O O D  O F  Y O U R  E M P I R E\n\nis now available to pre-order via  https://www.presidentband.com\n\nD O O M  L O O P, the latest transmission, is out now.\n\nThe campaign escalates.",
-      "channel_title": "PRESIDENT",
-      "channel_id": "UCCAxEuKZzOWyUZHFzuoTcjA",
-      "published_at": "2026-05-21T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
-      "duration": "PT4M1S",
-      "duration_seconds": 241,
-      "view_count": 130418,
-      "like_count": 13265,
-      "comment_count": 988,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
-    },
-    {
-      "video_id": "vtEnjikCXyA",
-      "title": "Lucky Strike | Official Trailer | In Theaters June 26",
-      "description": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home. \n\nThe film reunites director Rod Lurie, producer Marc Frydman and star and producer Scott Eastwood following their acclaimed film The Outpost.",
-      "channel_title": "RoadsideFlix",
-      "channel_id": "UCH45phx_o8pNt9PwbjxWhcA",
-      "published_at": "2026-05-21T14:59:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vtEnjikCXyA/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 174744,
-      "like_count": 2045,
-      "comment_count": 311,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vtEnjikCXyA"
-    },
-    {
-      "video_id": "wakSU6KJRLc",
-      "title": "NBA Tip-Off",
-      "description": "Ernie Johnson, Shaquille O'Neal, Charles Barkley and Kenny Smith readies viewers for NBA action.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-22T07:04:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wakSU6KJRLc/hqdefault.jpg",
-      "duration": "PT54M5S",
-      "duration_seconds": 3245,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wakSU6KJRLc"
-    },
-    {
-      "video_id": "gDvbGANDH4E",
-      "title": "007 First Light - Launch Trailer | PS5 Games",
-      "description": "https://www.playstation.com/games/007-first-light\n\nA James Bond re-imagined origin story begins on May 27, 2026.\n\nAre you ready to go on this globetrotting adventure and #EarnTheNumber?\n\nPre-order now and get a free Deluxe Edition upgrade, including 24h early access.\n\n\n#ps5 #ps5games #EarnTheNumber #007firstlight",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-05-21T20:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gDvbGANDH4E/hqdefault.jpg",
-      "duration": "PT1M3S",
-      "duration_seconds": 63,
-      "view_count": 109934,
-      "like_count": 5953,
-      "comment_count": 367,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "Earn the Number",
-        "007",
-        "007 First Light",
-        "IO Interactive"
-      ],
-      "url": "https://www.youtube.com/watch?v=gDvbGANDH4E"
-    },
-    {
       "video_id": "G57iwLb3Mxs",
       "title": "The CJ Cup Byron Nelson, First Round",
       "description": "The opening round of the PGA Tour Byron Nelson tournament tees off at TPC Craig Ranch. Defending 2025 champion Scottie Scheffler navigates the field as marquee morning pairings begin 72 holes of stroke play today in McKinney, Texas.",
@@ -392,6 +355,23 @@
       "url": "https://www.youtube.com/watch?v=G57iwLb3Mxs"
     },
     {
+      "video_id": "O_yO9c7zSIw",
+      "title": "PRESIDENT - DOOM LOOP",
+      "description": "C I T I Z E N S,\n\nThe debut full-length address:\n\nB L O O D  O F  Y O U R  E M P I R E\n\nis now available to pre-order via  https://www.presidentband.com\n\nD O O M  L O O P, the latest transmission, is out now.\n\nThe campaign escalates.",
+      "channel_title": "PRESIDENT",
+      "channel_id": "UCCAxEuKZzOWyUZHFzuoTcjA",
+      "published_at": "2026-05-21T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O_yO9c7zSIw/hqdefault.jpg",
+      "duration": "PT4M1S",
+      "duration_seconds": 241,
+      "view_count": 142250,
+      "like_count": 13849,
+      "comment_count": 1036,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
+    },
+    {
       "video_id": "_6ucSC1-7ZI",
       "title": "1000 Players Simulate UNDERGROUND Civilization in Minecraft",
       "description": "kingdom of the caves\n\n1000 Players Simulate UNDERGROUND Civilization in Minecraft\n\nUnstable SMP:\n➜  ⁨@FlameFragsMC \n➜  @Spokeishere \n➜  @ParrotX2 \n➜  ⁨@wemmbumc \n\nminor spoilers below\n\nfeaturing: @yungymc @JadenMAN @FlameFragsMC @saparata @ParrotX2 @TheobaldTheBird \n\nmusic from:\nhttps://www.youtube.com/channel/UC9UKPs9ZisfhMJdalnETLRg (tons of the music I use is by AZALI so check him out!) \nhttps://www.youtube.com/user/andreaszoellermusic\nhttps://www.youtube.com/@Kalamity_Music\n\nThis is a Minecraft video recorded in the Unstable Universe / Unstable SMP that is staged for story-telling purposes; any more staged videos I upload will have a disclaimer in the description saying that they are also staged. Also, a lot of the game mechanics/glitches/redstone discussed in Unstable SMP videos are unique to the Unstable SMP / Unstable Universe and either will not work the same/do not exist in vanilla Minecraft. \n\nmusic also from: official minecraft soundtrack, official elder scrolls soundtracks,",
@@ -401,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_6ucSC1-7ZI/hqdefault.jpg",
       "duration": "PT1H58M54S",
       "duration_seconds": 7134,
-      "view_count": 3019918,
-      "like_count": 178575,
-      "comment_count": 27369,
+      "view_count": 3270954,
+      "like_count": 184079,
+      "comment_count": 27328,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -425,79 +405,80 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 3952454,
-        "average_views_per_video": 395245.4
+        "total_views": 4156712,
+        "average_views_per_video": 415671.2,
+        "categories_identified": [
+          "Gaming",
+          "Sports",
+          "Entertainment",
+          "News/Political Commentary"
+        ]
       },
       "content_trends": {
         "gaming": {
-          "videos": 3,
-          "titles": [
+          "video_count": 2,
+          "videos": [
             "Warhammer 40,000: Darktide - Skitarii | Class Reveal Trailer",
-            "007 First Light - Launch Trailer | PS5 Games",
             "1000 Players Simulate UNDERGROUND Civilization in Minecraft"
           ],
-          "insights": "Gaming videos are popular, with diverse sub-genres like trailers and simulation games. This indicates a strong engagement in gaming content, especially with new releases or unique gameplay concepts."
-        },
-        "entertainment": {
-          "videos": 2,
-          "titles": [
-            "THE BOYS VOUGHT RISING TRAILER 2027: Homelander’s Aftermath",
-            "Lucky Strike | Official Trailer | In Theaters June 26"
-          ],
-          "insights": "Trailer releases for movies and series are trending, indicating a strong interest in upcoming entertainment releases. This category can be expanded with behind-the-scenes or speculative content."
+          "average_views": 415671.2,
+          "insight": "Gaming content continues to be a strong performer, with both game trailers and creative gameplay simulation drawing significant attention."
         },
         "sports": {
-          "videos": 2,
-          "titles": [
+          "video_count": 4,
+          "videos": [
+            "Cleveland Cavaliers at New York Knicks",
+            "Montreal Canadiens at Carolina Hurricanes",
             "NCAA Tournament: Georgia at Tennessee",
             "The CJ Cup Byron Nelson, First Round"
           ],
-          "insights": "Live sports events and highlights are consistently trending, suggesting opportunities for coverage of live events, commentary, and analysis."
+          "average_views": 415671.2,
+          "insight": "Sports events, especially those involving popular teams or tournaments, consistently attract large audiences. Highlighting key matchups or unique sports moments can enhance engagement."
         },
-        "news": {
-          "videos": 2,
-          "titles": [
-            "Jesse Watters Primetime",
+        "entertainment": {
+          "video_count": 3,
+          "videos": [
+            "THE BOYS VOUGHT RISING TRAILER 2027: Homelander’s Aftermath",
+            "Lucky Strike | Official Trailer | In Theaters June 26",
             "PRESIDENT - DOOM LOOP"
           ],
-          "insights": "News and political commentary videos are trending, showing an audience for current events and political analysis. Embedding analysis and opinion pieces could capture this audience."
+          "average_views": 415671.2,
+          "insight": "Trailers for upcoming shows or movies generate significant attention, particularly when tied to popular franchises or intriguing storylines."
+        },
+        "news/political_commentary": {
+          "video_count": 1,
+          "videos": [
+            "Gutfeld!"
+          ],
+          "average_views": 415671.2,
+          "insight": "Political commentary and news satire can attract audiences by providing unique perspectives or humor on current events."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "Fatshark",
-            "videos": 1,
-            "category_suggestion": "Gaming and Entertainment"
-          },
-          {
-            "name": "FOX News",
-            "videos": 1,
-            "category_suggestion": "News and Politics"
-          },
-          {
-            "name": "Emergency Awesome",
-            "videos": 1,
-            "category_suggestion": "Entertainment and Speculative Content"
-          },
-          {
-            "name": "ESPN2",
-            "videos": 1,
-            "category_suggestion": "Sports and Event Highlights"
-          },
-          {
-            "name": "PRESIDENT",
-            "videos": 1,
-            "category_suggestion": "Political Commentary and Analysis"
-          }
-        ],
-        "insights": "Channels with a single video presence suggest diversification opportunities. Channels could expand into related content arenas, e.g., gaming channels could explore hardware reviews or game development stories."
+        "single_video_channels": {
+          "channels": [
+            "Fatshark",
+            "ESPN",
+            "Emergency Awesome",
+            "TNT",
+            "RoadsideFlix"
+          ],
+          "insight": "Channels that focus on a specific niche or event, even with a single video, can achieve trending status if the content is timely and relevant."
+        }
       },
       "market_opportunities": {
-        "gaming": "Expand into interactive content like livestreams or collaborative gameplay sessions.",
-        "entertainment": "Create speculative content or 'fan theories' around popular series and movies.",
-        "sports": "Develop content around player profiles, game analytics, and fan engagement activities.",
-        "news": "Provide deep dives or panel discussions on trending topics to capture more engagement."
+        "gaming": {
+          "opportunity": "Leverage the popularity of game trailers and in-game simulations by creating content that explores game mechanics or community challenges."
+        },
+        "sports": {
+          "opportunity": "Capitalize on interest in major sporting events by offering exclusive behind-the-scenes content or expert analysis."
+        },
+        "entertainment": {
+          "opportunity": "Develop engaging content around upcoming movies or TV shows, including reviews, breakdowns, or fan theories."
+        },
+        "news/political_commentary": {
+          "opportunity": "Expand on current events with in-depth analysis or comedic takes to capture audiences looking for alternative perspectives."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -505,7 +486,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 395245
+        "avg_views_per_video": 415671
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
