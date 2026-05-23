@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-23T04:22:32.751024",
+  "timestamp": "2026-05-23T07:06:54.006530",
   "date": "2026-05-23",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 6,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 596203,
-      "like_count": 37043,
-      "comment_count": 3488,
+      "view_count": 657269,
+      "like_count": 39202,
+      "comment_count": 3650,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RnaCUol3Ow8/hqdefault.jpg",
       "duration": "PT1M38S",
       "duration_seconds": 98,
-      "view_count": 142386,
-      "like_count": 4926,
-      "comment_count": 708,
+      "view_count": 154137,
+      "like_count": 5097,
+      "comment_count": 733,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -84,6 +84,85 @@
         "Soldier Boy"
       ],
       "url": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
+    },
+    {
+      "video_id": "0qsj9CfY49o",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-23T05:04:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0qsj9CfY49o/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0qsj9CfY49o"
+    },
+    {
+      "video_id": "FrAvy80EPxY",
+      "title": "X-MEN 97 SEASON 2 TRAILER 2026: Kang, Apocalypse & Avengers Doomsday",
+      "description": "X-Men 97 Season 2 Trailer 2026. Kang The Conqueror, Apocalypse, Wolverine, New X-Men Characters, Avengers Doomsday Trailer & Spider-Man Brand New Day Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBs",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-22T22:18:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FrAvy80EPxY/hqdefault.jpg",
+      "duration": "PT18M29S",
+      "duration_seconds": 1109,
+      "view_count": 71712,
+      "like_count": 2749,
+      "comment_count": 207,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FrAvy80EPxY"
+    },
+    {
+      "video_id": "WPQzx8Rya6Y",
+      "title": "NCAA Tournament: Oklahoma State at Nebraska",
+      "description": "Super Regional, Game 1. Completion of suspended game from 5/21.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-23T05:44:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WPQzx8Rya6Y/hqdefault.jpg",
+      "duration": "PT1H43M20S",
+      "duration_seconds": 6200,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=WPQzx8Rya6Y"
+    },
+    {
+      "video_id": "B8jGP2eBQgc",
+      "title": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
+      "description": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed. We breakdown and explain the brand new Vought Rising Trailer from Amazon that shows the origins of Soldier Boy, Stormfront and more.\n\n#TheBoys #VoughtRising #Season5 #Episode8 #EasterEggs #EndingExplained #Review #ThingsYouMissed #Homelander #BlackNoir #SoldierBoy #Comics #reaction #FireCracker #SoldierBoy \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our discount link here - https://prf.hn/l/Qx891yN\n\nTreat yourself to a suit from the James Bond collection by Anthony Sinclair and take yourself to 00-heaven through the link here - https://masonandsons.myshop",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-05-22T14:48:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B8jGP2eBQgc/hqdefault.jpg",
+      "duration": "PT12M47S",
+      "duration_seconds": 767,
+      "view_count": 84037,
+      "like_count": 2558,
+      "comment_count": 310,
+      "category_id": "24",
+      "tags": [
+        "the boys",
+        "vought rising",
+        "the boys vought rising",
+        "vought rising trailer",
+        "vought rising trailer breakdown",
+        "the boys vought rising trailer reaction",
+        "easter eggs",
+        "trailer",
+        "trailer breakdown",
+        "the boys season 5"
+      ],
+      "url": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
     },
     {
       "video_id": "ZEAm48mcZTE",
@@ -103,127 +182,21 @@
       "url": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
     },
     {
-      "video_id": "FrAvy80EPxY",
-      "title": "X-MEN 97 SEASON 2 TRAILER 2026: Kang, Apocalypse & Avengers Doomsday",
-      "description": "X-Men 97 Season 2 Trailer 2026. Kang The Conqueror, Apocalypse, Wolverine, New X-Men Characters, Avengers Doomsday Trailer & Spider-Man Brand New Day Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBs",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-22T22:18:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FrAvy80EPxY/hqdefault.jpg",
-      "duration": "PT18M29S",
-      "duration_seconds": 1109,
-      "view_count": 52883,
-      "like_count": 2386,
-      "comment_count": 178,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=FrAvy80EPxY"
-    },
-    {
-      "video_id": "jzaFNXTQw6s",
-      "title": "The Story With Martha MacCallum",
-      "description": "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T02:45:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jzaFNXTQw6s/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jzaFNXTQw6s"
-    },
-    {
-      "video_id": "qh-fXqRcUQ8",
-      "title": "Vought Rising - RUINED THE BOYS FOR THIS?! - Angry Trailer Reaction!",
-      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe, OtherJoe, & Alex give their First Reactions and Impressions to Vought Rising still ANGRY from The Boys Finale DISASTER! Does this show look like its WORTH IT? Find out!\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
-      "channel_title": "AngryJoeShow",
-      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
-      "published_at": "2026-05-22T17:38:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qh-fXqRcUQ8/hqdefault.jpg",
-      "duration": "PT14M28S",
-      "duration_seconds": 868,
-      "view_count": 66698,
-      "like_count": 2633,
-      "comment_count": 807,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
-    },
-    {
-      "video_id": "l_hSYCBfHSM",
-      "title": "PART 4 DOESN'T EXIST | Subnautica 2 - Part 5",
-      "description": "There was never a Part 4 of Subnautica 2. Don't ask about part 4. It never was. It will never be. STOP ASKING ABOUT PART 4.\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @LixianTV  \nEdited By ► @NerdFiction  \nEdited By ► @radRYT\nEdited By ► @Diceroll  \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-22T20:36:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l_hSYCBfHSM/hqdefault.jpg",
-      "duration": "PT41M29S",
-      "duration_seconds": 2489,
-      "view_count": 267173,
-      "like_count": 24030,
-      "comment_count": 1731,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 5",
-        "part 4"
-      ],
-      "url": "https://www.youtube.com/watch?v=l_hSYCBfHSM"
-    },
-    {
-      "video_id": "B8jGP2eBQgc",
-      "title": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
-      "description": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed. We breakdown and explain the brand new Vought Rising Trailer from Amazon that shows the origins of Soldier Boy, Stormfront and more.\n\n#TheBoys #VoughtRising #Season5 #Episode8 #EasterEggs #EndingExplained #Review #ThingsYouMissed #Homelander #BlackNoir #SoldierBoy #Comics #reaction #FireCracker #SoldierBoy \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our discount link here - https://prf.hn/l/Qx891yN\n\nTreat yourself to a suit from the James Bond collection by Anthony Sinclair and take yourself to 00-heaven through the link here - https://masonandsons.myshop",
-      "channel_title": "Heavy Spoilers",
-      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
-      "published_at": "2026-05-22T14:48:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B8jGP2eBQgc/hqdefault.jpg",
-      "duration": "PT12M47S",
-      "duration_seconds": 767,
-      "view_count": 77385,
-      "like_count": 2427,
-      "comment_count": 294,
-      "category_id": "24",
-      "tags": [
-        "the boys",
-        "vought rising",
-        "the boys vought rising",
-        "vought rising trailer",
-        "vought rising trailer breakdown",
-        "the boys vought rising trailer reaction",
-        "easter eggs",
-        "trailer",
-        "trailer breakdown",
-        "the boys season 5"
-      ],
-      "url": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
-    },
-    {
-      "video_id": "AiO0Tgyo50I",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "video_id": "ZUe0Oskmq4g",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-22T21:11:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AiO0Tgyo50I/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "published_at": "2026-05-23T05:13:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZUe0Oskmq4g/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=AiO0Tgyo50I"
+      "url": "https://www.youtube.com/watch?v=ZUe0Oskmq4g"
     }
   ],
   "videos_with_transcripts": [],
@@ -238,9 +211,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 596203,
-      "like_count": 37043,
-      "comment_count": 3488,
+      "view_count": 657269,
+      "like_count": 39202,
+      "comment_count": 3650,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -283,9 +256,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RnaCUol3Ow8/hqdefault.jpg",
       "duration": "PT1M38S",
       "duration_seconds": 98,
-      "view_count": 142386,
-      "like_count": 4926,
-      "comment_count": 708,
+      "view_count": 154137,
+      "like_count": 5097,
+      "comment_count": 733,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -300,6 +273,85 @@
         "Soldier Boy"
       ],
       "url": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
+    },
+    {
+      "video_id": "0qsj9CfY49o",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-23T05:04:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0qsj9CfY49o/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0qsj9CfY49o"
+    },
+    {
+      "video_id": "FrAvy80EPxY",
+      "title": "X-MEN 97 SEASON 2 TRAILER 2026: Kang, Apocalypse & Avengers Doomsday",
+      "description": "X-Men 97 Season 2 Trailer 2026. Kang The Conqueror, Apocalypse, Wolverine, New X-Men Characters, Avengers Doomsday Trailer & Spider-Man Brand New Day Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBs",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-05-22T22:18:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FrAvy80EPxY/hqdefault.jpg",
+      "duration": "PT18M29S",
+      "duration_seconds": 1109,
+      "view_count": 71712,
+      "like_count": 2749,
+      "comment_count": 207,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FrAvy80EPxY"
+    },
+    {
+      "video_id": "WPQzx8Rya6Y",
+      "title": "NCAA Tournament: Oklahoma State at Nebraska",
+      "description": "Super Regional, Game 1. Completion of suspended game from 5/21.",
+      "channel_title": "ESPN2",
+      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
+      "published_at": "2026-05-23T05:44:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WPQzx8Rya6Y/hqdefault.jpg",
+      "duration": "PT1H43M20S",
+      "duration_seconds": 6200,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=WPQzx8Rya6Y"
+    },
+    {
+      "video_id": "B8jGP2eBQgc",
+      "title": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
+      "description": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed. We breakdown and explain the brand new Vought Rising Trailer from Amazon that shows the origins of Soldier Boy, Stormfront and more.\n\n#TheBoys #VoughtRising #Season5 #Episode8 #EasterEggs #EndingExplained #Review #ThingsYouMissed #Homelander #BlackNoir #SoldierBoy #Comics #reaction #FireCracker #SoldierBoy \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our discount link here - https://prf.hn/l/Qx891yN\n\nTreat yourself to a suit from the James Bond collection by Anthony Sinclair and take yourself to 00-heaven through the link here - https://masonandsons.myshop",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-05-22T14:48:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B8jGP2eBQgc/hqdefault.jpg",
+      "duration": "PT12M47S",
+      "duration_seconds": 767,
+      "view_count": 84037,
+      "like_count": 2558,
+      "comment_count": 310,
+      "category_id": "24",
+      "tags": [
+        "the boys",
+        "vought rising",
+        "the boys vought rising",
+        "vought rising trailer",
+        "vought rising trailer breakdown",
+        "the boys vought rising trailer reaction",
+        "easter eggs",
+        "trailer",
+        "trailer breakdown",
+        "the boys season 5"
+      ],
+      "url": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
     },
     {
       "video_id": "ZEAm48mcZTE",
@@ -319,243 +371,78 @@
       "url": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
     },
     {
-      "video_id": "FrAvy80EPxY",
-      "title": "X-MEN 97 SEASON 2 TRAILER 2026: Kang, Apocalypse & Avengers Doomsday",
-      "description": "X-Men 97 Season 2 Trailer 2026. Kang The Conqueror, Apocalypse, Wolverine, New X-Men Characters, Avengers Doomsday Trailer & Spider-Man Brand New Day Trailer ► https://bit.ly/AwesomeSubscribe\nThe Boys Season 5 Episode 8 https://www.youtube.com/watch?v=yhotqbc_GmM&list=PLOIeYdZ3QczzDVHUrq_EeqCBhLjzXfKlR&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Cinemacon Trailer https://www.youtube.com/watch?v=XnbV1nunjzk&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&&pp=iAQBsAgC\nClayface Trailer https://www.youtube.com/watch?v=bZVn_fVn7SY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQB0gcJCdQKAYcqIYzvsAgC\nAvengers Doomsday CinemaCon Trailer https://www.youtube.com/watch?v=dDrWFxkhCuA&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nInvincible Season 4 Episode 8 https://www.youtube.com/watch?v=h1p_sVexsKA&list=PLOIeYdZ3QczxJXJRwmzIBW9nsgB9Qu_lc&index=1&pp=iAQBsAgC\nLanterns Trailer https://www.youtube.com/watch?v=kPkbV4TVQ3A&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBs",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-05-22T22:18:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FrAvy80EPxY/hqdefault.jpg",
-      "duration": "PT18M29S",
-      "duration_seconds": 1109,
-      "view_count": 52883,
-      "like_count": 2386,
-      "comment_count": 178,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=FrAvy80EPxY"
-    },
-    {
-      "video_id": "jzaFNXTQw6s",
-      "title": "The Story With Martha MacCallum",
-      "description": "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T02:45:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jzaFNXTQw6s/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=jzaFNXTQw6s"
-    },
-    {
-      "video_id": "qh-fXqRcUQ8",
-      "title": "Vought Rising - RUINED THE BOYS FOR THIS?! - Angry Trailer Reaction!",
-      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe, OtherJoe, & Alex give their First Reactions and Impressions to Vought Rising still ANGRY from The Boys Finale DISASTER! Does this show look like its WORTH IT? Find out!\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
-      "channel_title": "AngryJoeShow",
-      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
-      "published_at": "2026-05-22T17:38:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qh-fXqRcUQ8/hqdefault.jpg",
-      "duration": "PT14M28S",
-      "duration_seconds": 868,
-      "view_count": 66698,
-      "like_count": 2633,
-      "comment_count": 807,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
-    },
-    {
-      "video_id": "l_hSYCBfHSM",
-      "title": "PART 4 DOESN'T EXIST | Subnautica 2 - Part 5",
-      "description": "There was never a Part 4 of Subnautica 2. Don't ask about part 4. It never was. It will never be. STOP ASKING ABOUT PART 4.\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @LixianTV  \nEdited By ► @NerdFiction  \nEdited By ► @radRYT\nEdited By ► @Diceroll  \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo\n\nFollow my Instagram ► http://instagram.com/markiplier\nJoin us on Reddit! ► https://www.reddit.com/r/Markiplier/\n\nHorror Outro ► https://soundcloud.com/shurkofficial/haunted\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-22T20:36:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l_hSYCBfHSM/hqdefault.jpg",
-      "duration": "PT41M29S",
-      "duration_seconds": 2489,
-      "view_count": 267173,
-      "like_count": 24030,
-      "comment_count": 1731,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 5",
-        "part 4"
-      ],
-      "url": "https://www.youtube.com/watch?v=l_hSYCBfHSM"
-    },
-    {
-      "video_id": "B8jGP2eBQgc",
-      "title": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
-      "description": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed. We breakdown and explain the brand new Vought Rising Trailer from Amazon that shows the origins of Soldier Boy, Stormfront and more.\n\n#TheBoys #VoughtRising #Season5 #Episode8 #EasterEggs #EndingExplained #Review #ThingsYouMissed #Homelander #BlackNoir #SoldierBoy #Comics #reaction #FireCracker #SoldierBoy \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our discount link here - https://prf.hn/l/Qx891yN\n\nTreat yourself to a suit from the James Bond collection by Anthony Sinclair and take yourself to 00-heaven through the link here - https://masonandsons.myshop",
-      "channel_title": "Heavy Spoilers",
-      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
-      "published_at": "2026-05-22T14:48:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B8jGP2eBQgc/hqdefault.jpg",
-      "duration": "PT12M47S",
-      "duration_seconds": 767,
-      "view_count": 77385,
-      "like_count": 2427,
-      "comment_count": 294,
-      "category_id": "24",
-      "tags": [
-        "the boys",
-        "vought rising",
-        "the boys vought rising",
-        "vought rising trailer",
-        "vought rising trailer breakdown",
-        "the boys vought rising trailer reaction",
-        "easter eggs",
-        "trailer",
-        "trailer breakdown",
-        "the boys season 5"
-      ],
-      "url": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
-    },
-    {
-      "video_id": "AiO0Tgyo50I",
-      "title": "Morning Joe",
-      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "video_id": "ZUe0Oskmq4g",
+      "title": "Deadline: White House",
+      "description": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
       "channel_title": "MSNBC",
       "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
-      "published_at": "2026-05-22T21:11:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AiO0Tgyo50I/hqdefault.jpg",
-      "duration": "PT4H1M5S",
-      "duration_seconds": 14465,
+      "published_at": "2026-05-23T05:13:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZUe0Oskmq4g/hqdefault.jpg",
+      "duration": "PT2H1M5S",
+      "duration_seconds": 7265,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=AiO0Tgyo50I"
+      "url": "https://www.youtube.com/watch?v=ZUe0Oskmq4g"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 1202728,
-        "averageViewsPerVideo": 120272.8,
-        "categories": "Unknown",
-        "dominantThemes": [
-          "Entertainment",
-          "Sports",
-          "News"
+      "content_trends": {
+        "themes": [
+          "Superhero and Sci-Fi Content",
+          "Sports Events",
+          "News and Political Commentary"
+        ],
+        "observations": [
+          "There is a strong interest in superhero and science fiction content, particularly related to popular franchises such as 'The Boys' and 'X-Men'.",
+          "Live sports events and game highlights, such as NBA and NCAA tournaments, continue to capture substantial viewer interest.",
+          "Political and news commentary remains relevant, with channels like FOX News and MSNBC contributing to the trending content."
         ]
       },
-      "trendingPatterns": {
-        "contentThemes": {
-          "entertainment": {
-            "description": "Videos related to TV shows and movies, specifically focusing on 'Vought Rising', a spin-off from 'The Boys', and other superhero content like 'X-MEN 97'.",
-            "percentage": 50,
-            "insights": [
-              "High interest in spin-off series and superhero content.",
-              "Potential to capitalize on nostalgia and established franchises."
-            ]
-          },
-          "sports": {
-            "description": "Coverage of sports events, specifically NBA and NHL games.",
-            "percentage": 20,
-            "insights": [
-              "Live sports events generate significant views.",
-              "Opportunities for channels to create highlight reels and analysis."
-            ]
-          },
-          "news": {
-            "description": "Content related to current events and political commentary.",
-            "percentage": 20,
-            "insights": [
-              "Consistent demand for news commentary and analysis.",
-              "Potential for growth in political and current affairs coverage."
-            ]
-          }
+      "creator_patterns": {
+        "diversification": [
+          "Channels that produce content based on popular series or franchises, such as Prime Video and Emergency Awesome, are able to leverage existing fan bases to boost views.",
+          "Channels like ESPN, which focus on sports content, capitalize on live events and highlight reels to engage viewers."
+        ],
+        "cross-platform promotion": [
+          "Prime Video and other content creators often release trailers and exclusive first looks to build anticipation and drive cross-platform viewership."
+        ]
+      },
+      "market_opportunities": {
+        "superhero_genre": {
+          "opportunity": "Develop content that explores behind-the-scenes, fan theories, and deeper analysis of popular superhero franchises.",
+          "justification": "The success of trailers and breakdowns indicates a strong audience desire for additional content related to existing franchises."
         },
-        "creatorPatterns": {
-          "topChannels": {
-            "Prime Video": {
-              "videoCount": 1,
-              "contentType": "Entertainment",
-              "insights": [
-                "Leveraging original content and streaming platform exclusives.",
-                "Engagement through exclusive first looks and trailers."
-              ]
-            },
-            "ESPN": {
-              "videoCount": 1,
-              "contentType": "Sports",
-              "insights": [
-                "Capitalizing on live sports coverage.",
-                "Potential to diversify into other sports genres."
-              ]
-            },
-            "ONE Media": {
-              "videoCount": 1,
-              "contentType": "Entertainment",
-              "insights": [
-                "Focus on trailers and movie promotions.",
-                "Opportunity to expand into behind-the-scenes content."
-              ]
-            },
-            "TNT": {
-              "videoCount": 1,
-              "contentType": "Sports",
-              "insights": [
-                "Highlighting major sports matchups.",
-                "Potential for collaboration with sports analysts."
-              ]
-            },
-            "Emergency Awesome": {
-              "videoCount": 1,
-              "contentType": "Entertainment",
-              "insights": [
-                "Specializes in breakdowns and Easter egg analysis.",
-                "Strong engagement through detailed content analysis."
-              ]
-            }
-          }
+        "sports_highlights": {
+          "opportunity": "Create short-form, engaging highlight reels and analysis for trending sports events.",
+          "justification": "Sports events still capture significant viewership, particularly when presented in concise, engaging formats."
+        },
+        "news_analysis": {
+          "opportunity": "Expand coverage on trending political topics and provide in-depth analysis to attract a dedicated audience.",
+          "justification": "Channels focusing on news and political commentary continue to trend, showing a market for informed, thoughtful content."
         }
       },
-      "marketOpportunities": {
-        "emergingTrends": [
-          "Increased demand for spin-off and franchise content.",
-          "Growing interest in detailed content analysis and breakdowns.",
-          "Consistent viewership for sports content, especially live events."
+      "actionable_insights": {
+        "content_creation": [
+          "Focus on producing in-depth analysis and breakdowns of popular series to engage dedicated fan bases.",
+          "Capitalize on trending sports events by providing timely and engaging content."
         ],
-        "strategicRecommendations": [
-          {
-            "action": "Develop more in-depth analysis and breakdown videos, especially for popular franchises.",
-            "justification": "High engagement with content like 'THE BOYS Vought Rising Trailer Breakdown'."
-          },
-          {
-            "action": "Expand coverage of live sports events and provide post-game analysis.",
-            "justification": "Significant viewership for sports content like 'Cleveland Cavaliers at New York Knicks'."
-          },
-          {
-            "action": "Leverage nostalgia and established franchises to create new content.",
-            "justification": "Success of 'X-MEN 97 SEASON 2 TRAILER 2026' indicates strong interest in legacy content."
-          }
+        "audience_engagement": [
+          "Utilize social media and other platforms to promote content releases, maximizing initial viewership and engagement.",
+          "Encourage viewer interaction through comments and polls to increase audience retention and loyalty."
         ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 120272
+        "avg_views_per_video": 107461
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
