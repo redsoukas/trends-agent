@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T12:31:38.284823",
+  "timestamp": "2026-05-23T15:30:55.859401",
   "date": "2026-05-23",
   "summary": {
     "total_videos_analyzed": 8,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 770229,
-      "like_count": 42219,
-      "comment_count": 3887,
+      "view_count": 825440,
+      "like_count": 44308,
+      "comment_count": 4043,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -56,34 +56,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=5YkaI8pH4QU"
-    },
-    {
-      "video_id": "RnaCUol3Ow8",
-      "title": "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off",
-      "description": "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off, Soldier Boy\n© 2026 - Prime Video",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-05-22T14:08:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RnaCUol3Ow8/hqdefault.jpg",
-      "duration": "PT1M38S",
-      "duration_seconds": 98,
-      "view_count": 170899,
-      "like_count": 5300,
-      "comment_count": 780,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2027",
-        "Vought Rising",
-        "Vought Rising Trailer",
-        "The Boys",
-        "The Boys spin-off",
-        "Soldier Boy"
-      ],
-      "url": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
     },
     {
       "video_id": "aGoqVJfOSsc",
@@ -169,6 +141,23 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=tDHj3cY70P8"
+    },
+    {
+      "video_id": "0b98h0tr7N4",
+      "title": "WWE Friday Night SmackDown",
+      "description": "Tiffany Stratton hosts an Open Challenge for her US title, and Shinsuke Nakamura vs. Talla Tonga!",
+      "channel_title": "USA",
+      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
+      "published_at": "2026-05-23T11:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0b98h0tr7N4/hqdefault.jpg",
+      "duration": "PT3H1M10S",
+      "duration_seconds": 10870,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0b98h0tr7N4"
     }
   ],
   "videos_with_transcripts": [],
@@ -183,9 +172,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 770229,
-      "like_count": 42219,
-      "comment_count": 3887,
+      "view_count": 825440,
+      "like_count": 44308,
+      "comment_count": 4043,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -217,34 +206,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=5YkaI8pH4QU"
-    },
-    {
-      "video_id": "RnaCUol3Ow8",
-      "title": "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off",
-      "description": "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off, Soldier Boy\n© 2026 - Prime Video",
-      "channel_title": "ONE Media",
-      "channel_id": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
-      "published_at": "2026-05-22T14:08:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RnaCUol3Ow8/hqdefault.jpg",
-      "duration": "PT1M38S",
-      "duration_seconds": 98,
-      "view_count": 170899,
-      "like_count": 5300,
-      "comment_count": 780,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "trailer",
-        "official",
-        "2027",
-        "Vought Rising",
-        "Vought Rising Trailer",
-        "The Boys",
-        "The Boys spin-off",
-        "Soldier Boy"
-      ],
-      "url": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
     },
     {
       "video_id": "aGoqVJfOSsc",
@@ -330,92 +291,86 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=tDHj3cY70P8"
+    },
+    {
+      "video_id": "0b98h0tr7N4",
+      "title": "WWE Friday Night SmackDown",
+      "description": "Tiffany Stratton hosts an Open Challenge for her US title, and Shinsuke Nakamura vs. Talla Tonga!",
+      "channel_title": "USA",
+      "channel_id": "UCxXjdrevcsy6xh0_O3KhokA",
+      "published_at": "2026-05-23T11:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0b98h0tr7N4/hqdefault.jpg",
+      "duration": "PT3H1M10S",
+      "duration_seconds": 10870,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0b98h0tr7N4"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "categories": {
-          "entertainment": {
-            "description": "Includes trailers and first looks for upcoming shows or spin-offs.",
-            "examples": [
-              "Vought Rising - First Look | Prime Video",
-              "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off",
-              "Top Gun: Maverick"
-            ],
-            "total_views": 350,
-            "percentage_of_total_views": 37.18
-          },
-          "sports": {
-            "description": "Content related to live sports events and highlights.",
-            "examples": [
-              "Vegas Golden Knights at Colorado Avalanche",
-              "Golden State Valkyries at Indiana Fever",
-              "The CJ Cup Byron Nelson, Second Round",
-              "NCAA Tournament: LSU at Alabama"
-            ],
-            "total_views": 450,
-            "percentage_of_total_views": 47.82
-          },
-          "news_and_talk": {
-            "description": "Talk shows and news commentary.",
-            "examples": [
-              "Gutfeld!"
-            ],
-            "total_views": 141,
-            "percentage_of_total_views": 15.0
-          }
+        "sports_dominance": {
+          "description": "Sports-related content is a significant trend.",
+          "evidence": [
+            "Vegas Golden Knights at Colorado Avalanche",
+            "Golden State Valkyries at Indiana Fever",
+            "The CJ Cup Byron Nelson, Second Round",
+            "NCAA Tournament: LSU at Alabama",
+            "WWE Friday Night SmackDown"
+          ],
+          "percentage": "62.5%",
+          "opportunity": "Capitalize on high demand for live sports coverage and highlights."
+        },
+        "entertainment_content": {
+          "description": "High interest in entertainment and fictional content.",
+          "evidence": [
+            "Vought Rising - First Look | Prime Video",
+            "Top Gun: Maverick"
+          ],
+          "percentage": "25%",
+          "opportunity": "Develop behind-the-scenes and exclusive content to engage audiences."
+        },
+        "news_and_discussion": {
+          "description": "News and opinion shows also attract significant attention.",
+          "evidence": [
+            "Gutfeld!"
+          ],
+          "percentage": "12.5%",
+          "opportunity": "Create content around trending news and discussions to capture viewer interest."
         }
       },
       "creator_patterns": {
-        "prime_video": {
-          "focus": "Entertainment",
-          "viewership": 37.18,
-          "opportunity": "Capitalize on popular franchises and spin-offs."
+        "top_channels": {
+          "description": "Channels with established reputations dominate the trending list.",
+          "evidence": [
+            "Prime Video",
+            "ESPN",
+            "FOX News"
+          ],
+          "strategy": "Leverage partnerships with high-profile channels to boost visibility."
         },
-        "espn": {
-          "focus": "Live Sports",
-          "viewership": 25.0,
-          "opportunity": "Engage with sports enthusiasts through exclusive content and highlights."
-        },
-        "one_media": {
-          "focus": "Entertainment Trailers",
-          "viewership": 12.18,
-          "opportunity": "Expand into different entertainment genres."
-        },
-        "ion": {
-          "focus": "Sports",
-          "viewership": 5.0,
-          "opportunity": "Increase sports coverage diversity."
-        },
-        "golf_channel": {
-          "focus": "Golf Sports Events",
-          "viewership": 5.0,
-          "opportunity": "Promote niche sports to specialized audiences."
+        "content_diversity": {
+          "description": "Diverse range of topics from different creators.",
+          "strategy": "Encourage creators to explore niche areas within popular categories to stand out."
         }
       },
       "market_opportunities": {
-        "entertainment": {
-          "trends": "High demand for exclusive content and spin-offs.",
-          "strategies": [
-            "Develop content partnerships for exclusive releases.",
-            "Leverage popular franchises for more spin-off content."
-          ]
+        "cross-category_content": {
+          "description": "Potential for cross-category content that combines sports with entertainment.",
+          "actionable_insight": "Develop content that merges sports and entertainment, such as athlete interviews, documentaries, and sports films."
         },
-        "sports": {
-          "trends": "Consistent engagement with live sports content.",
-          "strategies": [
-            "Enhance live event coverage with interactive features.",
-            "Collaborate with sports leagues for exclusive rights."
-          ]
+        "localized_content": {
+          "description": "Localized content for specific sports teams or events can attract regional audiences.",
+          "actionable_insight": "Target regional audiences with localized content featuring popular local sports teams or events."
         },
-        "news_and_talk": {
-          "trends": "Moderate interest in talk and commentary shows.",
-          "strategies": [
-            "Diversify content to include current affairs and trending topics.",
-            "Integrate audience interaction through live Q&A sessions."
-          ]
+        "digital_exclusives": {
+          "description": "Exclusive digital content continues to be a draw for audiences.",
+          "actionable_insight": "Create exclusive online releases for films or series to drive viewership and engagement."
         }
       },
       "metadata_stats": {
@@ -424,7 +379,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 117641
+        "avg_views_per_video": 103180
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
