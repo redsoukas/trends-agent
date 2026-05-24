@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-24T04:34:06.822034",
+  "timestamp": "2026-05-24T07:17:36.950728",
   "date": "2026-05-24",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 5137009,
-      "like_count": 509233,
-      "comment_count": 38571,
+      "view_count": 6016560,
+      "like_count": 559146,
+      "comment_count": 41382,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 651546,
-      "like_count": 61612,
-      "comment_count": 5280,
+      "view_count": 699166,
+      "like_count": 63540,
+      "comment_count": 5432,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -80,9 +80,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 1036528,
-      "like_count": 49684,
-      "comment_count": 4495,
+      "view_count": 1060156,
+      "like_count": 50436,
+      "comment_count": 4568,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -99,21 +99,21 @@
       "url": "https://www.youtube.com/watch?v=2RydunKJrBU"
     },
     {
-      "video_id": "FO9kMeIQI7M",
-      "title": "10 YouTubers vs 1 Secret Traitor",
-      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-05-23T16:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
-      "duration": "PT22M39S",
-      "duration_seconds": 1359,
-      "view_count": 7360035,
-      "like_count": 250586,
-      "comment_count": 12118,
-      "category_id": "20",
+      "video_id": "0mUR_FHpMH4",
+      "title": "NCAA Tournament: Oklahoma State at Nebraska",
+      "description": "Super Regional, Game 2.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-24T06:17:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0mUR_FHpMH4/hqdefault.jpg",
+      "duration": "PT2H29M25S",
+      "duration_seconds": 8965,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
+      "url": "https://www.youtube.com/watch?v=0mUR_FHpMH4"
     },
     {
       "video_id": "CC2tvtBKGcw",
@@ -125,9 +125,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
       "duration": "PT50S",
       "duration_seconds": 50,
-      "view_count": 101851,
-      "like_count": 3774,
-      "comment_count": 578,
+      "view_count": 103943,
+      "like_count": 3788,
+      "comment_count": 583,
       "category_id": "20",
       "tags": [
         "Dead by Daylight Jason",
@@ -144,30 +144,13 @@
       "url": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
     },
     {
-      "video_id": "C1uyUs8q-Z8",
-      "title": "NCAA Tournament: Mississippi State at Oklahoma",
-      "description": "Super Regional, Game 2.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-24T02:17:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C1uyUs8q-Z8/hqdefault.jpg",
-      "duration": "PT2H21M5S",
-      "duration_seconds": 8465,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=C1uyUs8q-Z8"
-    },
-    {
-      "video_id": "TsEdXTjkORk",
-      "title": "Saturday in America",
-      "description": "",
+      "video_id": "C_EjvwwyN6A",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T21:49:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TsEdXTjkORk/hqdefault.jpg",
+      "published_at": "2026-05-24T05:04:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C_EjvwwyN6A/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -175,24 +158,58 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TsEdXTjkORk"
+      "url": "https://www.youtube.com/watch?v=C_EjvwwyN6A"
     },
     {
-      "video_id": "vInMDP-Y7U8",
-      "title": "NCAA Tournament, Second Semifinal: Syracuse vs. Notre Dame",
-      "description": "From Scott Stadium in Charlottesville, Va.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-24T03:44:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vInMDP-Y7U8/hqdefault.jpg",
-      "duration": "PT2H31M51S",
-      "duration_seconds": 9111,
+      "video_id": "FO9kMeIQI7M",
+      "title": "10 YouTubers vs 1 Secret Traitor",
+      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-05-23T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
+      "duration": "PT22M39S",
+      "duration_seconds": 1359,
+      "view_count": 8856152,
+      "like_count": 282635,
+      "comment_count": 13300,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
+    },
+    {
+      "video_id": "8ZXGjjK61u4",
+      "title": "SEC Tournament: Florida vs. Georgia",
+      "description": "First Semifinal.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-05-24T04:59:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8ZXGjjK61u4/hqdefault.jpg",
+      "duration": "PT4H52M30S",
+      "duration_seconds": 17550,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=vInMDP-Y7U8"
+      "url": "https://www.youtube.com/watch?v=8ZXGjjK61u4"
+    },
+    {
+      "video_id": "7vNOj6kzvck",
+      "title": "ICON SKIN REVEAL!!",
+      "description": "Today I'm announcing my biggest announcement ever!\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-05-24T04:24:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7vNOj6kzvck/hqdefault.jpg",
+      "duration": "PT9H42M5S",
+      "duration_seconds": 34925,
+      "view_count": 735946,
+      "like_count": 32312,
+      "comment_count": 208,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7vNOj6kzvck"
     }
   ],
   "videos_with_transcripts": [],
@@ -207,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 5137009,
-      "like_count": 509233,
-      "comment_count": 38571,
+      "view_count": 6016560,
+      "like_count": 559146,
+      "comment_count": 41382,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -241,9 +258,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 1036528,
-      "like_count": 49684,
-      "comment_count": 4495,
+      "view_count": 1060156,
+      "like_count": 50436,
+      "comment_count": 4568,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -260,6 +277,40 @@
       "url": "https://www.youtube.com/watch?v=2RydunKJrBU"
     },
     {
+      "video_id": "0mUR_FHpMH4",
+      "title": "NCAA Tournament: Oklahoma State at Nebraska",
+      "description": "Super Regional, Game 2.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-24T06:17:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0mUR_FHpMH4/hqdefault.jpg",
+      "duration": "PT2H29M25S",
+      "duration_seconds": 8965,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0mUR_FHpMH4"
+    },
+    {
+      "video_id": "C_EjvwwyN6A",
+      "title": "The Big Weekend Show",
+      "description": "Rotating panelists discuss the big news of the day and react to the top stories.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-24T05:04:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C_EjvwwyN6A/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=C_EjvwwyN6A"
+    },
+    {
       "video_id": "FO9kMeIQI7M",
       "title": "10 YouTubers vs 1 Secret Traitor",
       "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
@@ -269,63 +320,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
       "duration": "PT22M39S",
       "duration_seconds": 1359,
-      "view_count": 7360035,
-      "like_count": 250586,
-      "comment_count": 12118,
+      "view_count": 8856152,
+      "like_count": 282635,
+      "comment_count": 13300,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
     },
     {
-      "video_id": "C1uyUs8q-Z8",
-      "title": "NCAA Tournament: Mississippi State at Oklahoma",
-      "description": "Super Regional, Game 2.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-24T02:17:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C1uyUs8q-Z8/hqdefault.jpg",
-      "duration": "PT2H21M5S",
-      "duration_seconds": 8465,
+      "video_id": "8ZXGjjK61u4",
+      "title": "SEC Tournament: Florida vs. Georgia",
+      "description": "First Semifinal.",
+      "channel_title": "SEC Network",
+      "channel_id": "UCpj5ieQ9I6GFSsRnON4AOBQ",
+      "published_at": "2026-05-24T04:59:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8ZXGjjK61u4/hqdefault.jpg",
+      "duration": "PT4H52M30S",
+      "duration_seconds": 17550,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=C1uyUs8q-Z8"
+      "url": "https://www.youtube.com/watch?v=8ZXGjjK61u4"
     },
     {
-      "video_id": "TsEdXTjkORk",
-      "title": "Saturday in America",
-      "description": "",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T21:49:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TsEdXTjkORk/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "7vNOj6kzvck",
+      "title": "ICON SKIN REVEAL!!",
+      "description": "Today I'm announcing my biggest announcement ever!\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-05-24T04:24:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7vNOj6kzvck/hqdefault.jpg",
+      "duration": "PT9H42M5S",
+      "duration_seconds": 34925,
+      "view_count": 735946,
+      "like_count": 32312,
+      "comment_count": 208,
+      "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=TsEdXTjkORk"
-    },
-    {
-      "video_id": "vInMDP-Y7U8",
-      "title": "NCAA Tournament, Second Semifinal: Syracuse vs. Notre Dame",
-      "description": "From Scott Stadium in Charlottesville, Va.",
-      "channel_title": "ESPN2",
-      "channel_id": "UCOtYFLYvZEiaZw4YpSjOndw",
-      "published_at": "2026-05-24T03:44:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vInMDP-Y7U8/hqdefault.jpg",
-      "duration": "PT2H31M51S",
-      "duration_seconds": 9111,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=vInMDP-Y7U8"
+      "url": "https://www.youtube.com/watch?v=7vNOj6kzvck"
     },
     {
       "video_id": "YebqRYaTVNg",
@@ -337,9 +371,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 651546,
-      "like_count": 61612,
-      "comment_count": 5280,
+      "view_count": 699166,
+      "like_count": 63540,
+      "comment_count": 5432,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -361,9 +395,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
       "duration": "PT50S",
       "duration_seconds": 50,
-      "view_count": 101851,
-      "like_count": 3774,
-      "comment_count": 578,
+      "view_count": 103943,
+      "like_count": 3788,
+      "comment_count": 583,
       "category_id": "20",
       "tags": [
         "Dead by Daylight Jason",
@@ -383,81 +417,56 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "music_and_entertainment": {
-          "description": "The presence of a music video by Shakira and a trailer for a popular video game indicates a strong interest in music and gaming content.",
-          "data": {
-            "music_video": "Shakira, Burna Boy - Dai Dai (Official Video)",
-            "gaming_trailer": [
-              "Dead by Daylight | Jason | Official Trailer",
-              "Dead by Daylight Jason Reveal Trailer"
-            ],
-            "views_contribution": "A significant portion of views likely stems from these high-profile content types."
+      "insights": {
+        "contentTrends": {
+          "musicAndEntertainment": {
+            "observation": "Music videos and entertainment content lead in viewership, as seen with Shakira's video.",
+            "actionableInsight": "Invest in music collaborations with popular artists and promote through official video releases to capture audience interest.",
+            "dataPoint": "Shakira's music video is one of the leading content types, indicating high audience engagement in music."
+          },
+          "gaming": {
+            "observation": "Gaming trailers, especially those related to popular franchises like 'Dead by Daylight', are trending.",
+            "actionableInsight": "Create engaging trailers and teasers for upcoming games or updates to leverage the gaming community's enthusiasm.",
+            "dataPoint": "Two videos related to 'Dead by Daylight' suggest a strong interest in gaming content."
+          },
+          "sports": {
+            "observation": "Sports content, particularly related to major tournaments, is trending.",
+            "actionableInsight": "Develop content around live sports events and highlight key moments to attract sports fans.",
+            "dataPoint": "Videos related to NCAA and SEC tournaments indicate a strong viewer base for college sports."
           }
         },
-        "sports_events": {
-          "description": "Multiple sports-related videos suggest an interest in live events and sporting competitions.",
-          "data": {
-            "videos": [
-              "The CJ Cup Byron Nelson, Third Round",
-              "NCAA Tournament: Mississippi State at Oklahoma",
-              "NCAA Tournament, Second Semifinal: Syracuse vs. Notre Dame"
-            ],
-            "potential_interest": "Viewership spikes around major sports events and tournaments."
+        "creatorPatterns": {
+          "diversifiedContent": {
+            "observation": "Channels are engaging in multiple content types, from music to sports to trailers.",
+            "actionableInsight": "Encourage content creators to diversify their offerings to capture a broader audience base.",
+            "dataPoint": "Top channels like Shakira and Prime Video are not limited to a single content type."
+          },
+          "frequencyAndEngagement": {
+            "observation": "Engagement is higher for channels that consistently release high-quality content.",
+            "actionableInsight": "Maintain a consistent content release schedule and engage with audiences through comments and community posts.",
+            "dataPoint": "Top channels maintain a steady release of content, keeping their audience engaged."
           }
         },
-        "entertainment_platforms": {
-          "description": "The presence of a Prime Video teaser indicates interest in upcoming series or movies.",
-          "data": {
-            "video": "Vought Rising - First Look | Prime Video",
-            "implication": "Opportunities for cross-promotion with streaming platforms."
+        "marketOpportunities": {
+          "crossPromotion": {
+            "observation": "Cross-promotion between music, gaming, and sports content can harness overlapping audience interests.",
+            "actionableInsight": "Collaborate with creators across different genres to introduce content to new audiences and increase viewership.",
+            "dataPoint": "The presence of diverse content types provides a platform for cross-promotional opportunities."
+          },
+          "emergingPlatforms": {
+            "observation": "Prime Video’s presence suggests growing opportunities for streaming platforms.",
+            "actionableInsight": "Explore partnerships with streaming platforms to expand content distribution and access new viewer segments.",
+            "dataPoint": "Prime Video's entry indicates the potential for streaming platforms in the trending video space."
           }
-        },
-        "community_engagement": {
-          "description": "Interactive content such as challenges is appealing as seen with MrBeast Gaming’s video.",
-          "data": {
-            "video": "10 YouTubers vs 1 Secret Traitor",
-            "engagement_factor": "Interactive and community-driven content fosters viewer engagement."
-          }
-        }
-      },
-      "creator_patterns": {
-        "top_channels_analysis": {
-          "diversity_of_content": "Top channels reflect a diverse range of interests from music to sports to interactive gaming.",
-          "data": {
-            "music": "Shakira",
-            "gaming": "Dead by Daylight",
-            "sports": "Golf Channel",
-            "entertainment": "Prime Video",
-            "interactive_content": "MrBeast Gaming"
-          }
-        },
-        "frequency_and_engagement": {
-          "insight": "High engagement from single videos suggests that each channel is leveraging existing fan bases efficiently.",
-          "suggestion": "Channels might benefit from releasing more frequent content to maintain engagement."
-        }
-      },
-      "market_opportunities": {
-        "cross-industry_collaborations": {
-          "description": "Potential collaborations between music artists and gaming companies could capture wider audiences.",
-          "example": "Shakira and Dead by Daylight collaboration or similar cross-promotions."
-        },
-        "sports_and_streaming_synergy": {
-          "description": "Leveraging live sports events for promotional content on streaming platforms could enhance viewership.",
-          "suggestion": "Channels could explore partnerships with sports leagues to offer exclusive content."
-        },
-        "interactive_content_trends": {
-          "description": "Increasing demand for participatory content suggests opportunities for new interactive formats.",
-          "suggestion": "Develop content that allows audience participation or decision-making to increase engagement."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1587441
+        "avg_views_per_video": 1747192
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
