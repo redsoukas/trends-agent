@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-24T09:42:41.146081",
+  "timestamp": "2026-05-24T12:34:52.860509",
   "date": "2026-05-24",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 6656829,
-      "like_count": 593336,
-      "comment_count": 43356,
+      "view_count": 7143572,
+      "like_count": 634366,
+      "comment_count": 45873,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 734763,
-      "like_count": 64826,
-      "comment_count": 5504,
+      "view_count": 764072,
+      "like_count": 66296,
+      "comment_count": 5582,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -80,9 +80,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 1088164,
-      "like_count": 51095,
-      "comment_count": 4606,
+      "view_count": 1111960,
+      "like_count": 51802,
+      "comment_count": 4654,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -114,34 +114,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qFAGf8Y_xFU"
-    },
-    {
-      "video_id": "CC2tvtBKGcw",
-      "title": "Dead by Daylight Jason Reveal Trailer",
-      "description": "Dead by Daylight Jason Reveal Trailer showcases the official reveal of the iconic horror character joining the game. Watch the full trailer featuring cinematic moments, atmosphere, and a first look at Jason in Dead by Daylight.\n━━━━FOLLOW US━━━━━\nSubscribe for all the latest trailers, gameplay, credits, reviews, previews and unboxings here!: https://www.youtube.com/@GamersPrey/\nBecome a member! https://www.youtube.com/channel/UClFuUQ2pO1ED3BNorWf9huA/join\nJoin our Discord server: https://discord.gg/7J9puGC\nFollow us on Twitter: https://twitter.com/GamersPrey \nLike us on Facebook: https://www.facebook.com/GamersPrey/\nBecome a patron: https://www.patreon.com/gamersprey\n\n#gamersprey #DeadByDaylight #Jason #RevealTrailer #HorrorGames",
-      "channel_title": "GamersPrey",
-      "channel_id": "UClFuUQ2pO1ED3BNorWf9huA",
-      "published_at": "2026-05-23T14:07:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
-      "duration": "PT50S",
-      "duration_seconds": 50,
-      "view_count": 105211,
-      "like_count": 3801,
-      "comment_count": 586,
-      "category_id": "20",
-      "tags": [
-        "Dead by Daylight Jason",
-        "Dead by Daylight Jason Reveal Trailer",
-        "Jason Voorhees Dead by Daylight",
-        "Dead by Daylight Friday the 13th",
-        "Dead by Daylight New Killer",
-        "Dead by Daylight Jason Gameplay",
-        "Dead by Daylight Trailer",
-        "Jason Reveal Trailer 4K",
-        "Dead by Daylight Horror Game",
-        "Dead by Daylight 4K"
-      ],
-      "url": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
     },
     {
       "video_id": "nZLjtTpvJxM",
@@ -187,29 +159,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
       "duration": "PT22M39S",
       "duration_seconds": 1359,
-      "view_count": 10140092,
-      "like_count": 306977,
-      "comment_count": 14262,
+      "view_count": 11292586,
+      "like_count": 332964,
+      "comment_count": 15166,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
     },
     {
-      "video_id": "e8lIvNA0LhI",
-      "title": "Top Gun: Maverick",
-      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "video_id": "7t6Jl1NhRtc",
+      "title": "The Dark Knight Rises",
+      "description": "Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman is forced out of his self-imposed exile by a cunning cat burglar and a merciless terrorist called Bane.",
       "channel_title": "AMC",
       "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-24T07:50:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e8lIvNA0LhI/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
+      "published_at": "2026-05-24T11:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7t6Jl1NhRtc/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=e8lIvNA0LhI"
+      "url": "https://www.youtube.com/watch?v=7t6Jl1NhRtc"
+    },
+    {
+      "video_id": "HbCvMSEP8GU",
+      "title": "Montreal Canadiens at Carolina Hurricanes",
+      "description": "The Carolina Hurricanes and Montreal Canadiens clash in Game 2 of the Eastern Conference Final. Montreal leads 1-0 following a 6-2 win led by Juraj Slafkovsky. The Hurricanes prepare to face the puck drop alongside forward Seth Jarvis.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-05-24T10:50:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HbCvMSEP8GU/hqdefault.jpg",
+      "duration": "PT2H56M50S",
+      "duration_seconds": 10610,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HbCvMSEP8GU"
     }
   ],
   "videos_with_transcripts": [],
@@ -224,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 6656829,
-      "like_count": 593336,
-      "comment_count": 43356,
+      "view_count": 7143572,
+      "like_count": 634366,
+      "comment_count": 45873,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -258,9 +247,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 1088164,
-      "like_count": 51095,
-      "comment_count": 4606,
+      "view_count": 1111960,
+      "like_count": 51802,
+      "comment_count": 4654,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -337,29 +326,46 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
       "duration": "PT22M39S",
       "duration_seconds": 1359,
-      "view_count": 10140092,
-      "like_count": 306977,
-      "comment_count": 14262,
+      "view_count": 11292586,
+      "like_count": 332964,
+      "comment_count": 15166,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
     },
     {
-      "video_id": "e8lIvNA0LhI",
-      "title": "Top Gun: Maverick",
-      "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+      "video_id": "7t6Jl1NhRtc",
+      "title": "The Dark Knight Rises",
+      "description": "Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman is forced out of his self-imposed exile by a cunning cat burglar and a merciless terrorist called Bane.",
       "channel_title": "AMC",
       "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
-      "published_at": "2026-05-24T07:50:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e8lIvNA0LhI/hqdefault.jpg",
-      "duration": "PT3H1M5S",
-      "duration_seconds": 10865,
+      "published_at": "2026-05-24T11:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7t6Jl1NhRtc/hqdefault.jpg",
+      "duration": "PT4H1M5S",
+      "duration_seconds": 14465,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=e8lIvNA0LhI"
+      "url": "https://www.youtube.com/watch?v=7t6Jl1NhRtc"
+    },
+    {
+      "video_id": "HbCvMSEP8GU",
+      "title": "Montreal Canadiens at Carolina Hurricanes",
+      "description": "The Carolina Hurricanes and Montreal Canadiens clash in Game 2 of the Eastern Conference Final. Montreal leads 1-0 following a 6-2 win led by Juraj Slafkovsky. The Hurricanes prepare to face the puck drop alongside forward Seth Jarvis.",
+      "channel_title": "truTV",
+      "channel_id": "UCp9TSEVSOM5TrZR1xyftSDQ",
+      "published_at": "2026-05-24T10:50:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HbCvMSEP8GU/hqdefault.jpg",
+      "duration": "PT2H56M50S",
+      "duration_seconds": 10610,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HbCvMSEP8GU"
     },
     {
       "video_id": "YebqRYaTVNg",
@@ -371,9 +377,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 734763,
-      "like_count": 64826,
-      "comment_count": 5504,
+      "view_count": 764072,
+      "like_count": 66296,
+      "comment_count": 5582,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -384,34 +390,6 @@
         "survival horror"
       ],
       "url": "https://www.youtube.com/watch?v=YebqRYaTVNg"
-    },
-    {
-      "video_id": "CC2tvtBKGcw",
-      "title": "Dead by Daylight Jason Reveal Trailer",
-      "description": "Dead by Daylight Jason Reveal Trailer showcases the official reveal of the iconic horror character joining the game. Watch the full trailer featuring cinematic moments, atmosphere, and a first look at Jason in Dead by Daylight.\n━━━━FOLLOW US━━━━━\nSubscribe for all the latest trailers, gameplay, credits, reviews, previews and unboxings here!: https://www.youtube.com/@GamersPrey/\nBecome a member! https://www.youtube.com/channel/UClFuUQ2pO1ED3BNorWf9huA/join\nJoin our Discord server: https://discord.gg/7J9puGC\nFollow us on Twitter: https://twitter.com/GamersPrey \nLike us on Facebook: https://www.facebook.com/GamersPrey/\nBecome a patron: https://www.patreon.com/gamersprey\n\n#gamersprey #DeadByDaylight #Jason #RevealTrailer #HorrorGames",
-      "channel_title": "GamersPrey",
-      "channel_id": "UClFuUQ2pO1ED3BNorWf9huA",
-      "published_at": "2026-05-23T14:07:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
-      "duration": "PT50S",
-      "duration_seconds": 50,
-      "view_count": 105211,
-      "like_count": 3801,
-      "comment_count": 586,
-      "category_id": "20",
-      "tags": [
-        "Dead by Daylight Jason",
-        "Dead by Daylight Jason Reveal Trailer",
-        "Jason Voorhees Dead by Daylight",
-        "Dead by Daylight Friday the 13th",
-        "Dead by Daylight New Killer",
-        "Dead by Daylight Jason Gameplay",
-        "Dead by Daylight Trailer",
-        "Jason Reveal Trailer 4K",
-        "Dead by Daylight Horror Game",
-        "Dead by Daylight 4K"
-      ],
-      "url": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
     }
   ],
   "analysis": {
@@ -419,98 +397,85 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 18725059,
-        "average_views_per_video": 1872505.9,
-        "categories": "Unknown"
+        "total_views": 20312190,
+        "average_views_per_video": 2031219
       },
       "content_trends": {
-        "music": {
-          "video_titles": [
-            "Shakira, Burna Boy - Dai Dai (Official Video)"
+        "entertainment": {
+          "description": "Music and movie-related content show strong viewer interest.",
+          "examples": [
+            "Shakira, Burna Boy - Dai Dai (Official Video)",
+            "The Dark Knight Rises"
           ],
-          "view_trends": "Music videos continue to attract high engagement, leveraging popular artists like Shakira and Burna Boy."
+          "insights": "High-profile music videos and movie trailers continue to attract significant viewership. Collaborations, such as Shakira with Burna Boy, are particularly effective in drawing diverse audiences."
         },
         "gaming": {
-          "video_titles": [
-            "Dead by Daylight | Jason | Official Trailer",
-            "Dead by Daylight Jason Reveal Trailer"
+          "description": "Gaming content remains popular, especially with iconic game characters.",
+          "examples": [
+            "Dead by Daylight | Jason | Official Trailer"
           ],
-          "view_trends": "Gaming content, especially around popular franchises, maintains strong engagement, with multiple entries in the trending list."
+          "insights": "Integration of renowned characters or franchises (e.g., Jason) into gaming content can drive engagement and leverage existing fan bases."
         },
         "sports": {
-          "video_titles": [
+          "description": "Live sports and tournament highlights attract significant attention.",
+          "examples": [
             "NCAA Tournament: Arizona State at Texas",
+            "Big 12 Tournament: Kansas vs. West Virginia",
             "The CJ Cup Byron Nelson, Third Round",
-            "Big 12 Tournament: Kansas vs. West Virginia"
+            "Montreal Canadiens at Carolina Hurricanes"
           ],
-          "view_trends": "Live sports and tournaments are significant drivers of engagement, tapping into the real-time viewing habits of audiences."
+          "insights": "Coverage of live sports events and tournaments is a reliable driver of views. There's potential to expand content offerings with exclusive behind-the-scenes or analytical content."
         },
-        "entertainment": {
-          "video_titles": [
-            "Vought Rising - First Look | Prime Video",
-            "Top Gun: Maverick"
+        "television": {
+          "description": "Series and movie previews create anticipation.",
+          "examples": [
+            "Vought Rising - First Look | Prime Video"
           ],
-          "view_trends": "High-budget entertainment and exclusive previews, particularly from major studios, continue to perform well, indicating a strong interest in upcoming releases."
+          "insights": "First-look previews and teasers for upcoming series or movies maintain audience interest and can help build anticipation for new releases."
         },
-        "news_and_discussion": {
-          "video_titles": [
+        "news": {
+          "description": "Current events and news analysis gain traction.",
+          "examples": [
             "The Big Weekend Show"
           ],
-          "view_trends": "Current events and discussion formats, particularly from established networks like FOX News, gain traction, reflecting a demand for timely content."
-        },
-        "social_experiments": {
-          "video_titles": [
-            "10 YouTubers vs 1 Secret Traitor"
-          ],
-          "view_trends": "Social and interactive content formats that involve audience participation or unique concepts remain popular."
+          "insights": "News channels can capitalize on timely, analytical content that provides deeper insights into ongoing events or trends."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "name": "Shakira",
-            "video_count": 1,
-            "category": "Music",
-            "insights": "Leverage star power and cross-genre collaborations to maximize reach."
-          },
-          {
-            "name": "Dead by Daylight",
-            "video_count": 1,
-            "category": "Gaming",
-            "insights": "Consistent updates and character reveals keep the audience engaged."
-          },
-          {
-            "name": "ESPN",
-            "video_count": 1,
-            "category": "Sports",
-            "insights": "Capitalize on live events and highlight reels to maintain high viewership."
-          },
-          {
-            "name": "Prime Video",
-            "video_count": 1,
-            "category": "Entertainment",
-            "insights": "Utilize first-look and exclusive content to draw in curious viewers."
-          },
-          {
-            "name": "FOX News",
-            "video_count": 1,
-            "category": "News",
-            "insights": "Focus on current event coverage and panel discussions to engage a viewership interested in news."
-          }
-        ]
+        "high-profile_creators": {
+          "description": "Established brands and personalities dominate viewership.",
+          "examples": [
+            "Shakira",
+            "Dead by Daylight",
+            "Prime Video",
+            "FOX News"
+          ],
+          "insights": "Channels with established followings or brand recognition benefit from pre-existing audiences. New creators should consider collaborations or leveraging trending topics to gain visibility."
+        },
+        "diverse_content": {
+          "description": "A variety of content types attract different viewer segments.",
+          "examples": [
+            "Music",
+            "Gaming",
+            "Sports",
+            "Television",
+            "News"
+          ],
+          "insights": "Creators should diversify content offerings to capture different audience interests, potentially increasing reach and engagement."
+        }
       },
       "market_opportunities": {
-        "cross-genre collaborations": {
-          "insight": "Explore partnerships between music and other genres such as gaming or film to create unique content that appeals to multiple audience segments."
+        "cross-promotion": {
+          "description": "Leverage collaborations and partnerships for broader reach.",
+          "insights": "Creators can explore cross-promotions with other popular channels or brands to tap into new audiences and enhance content visibility."
         },
-        "interactive content formats": {
-          "insight": "Develop innovative content formats that encourage audience participation, such as quizzes or live interactions, to increase engagement."
+        "niche_content": {
+          "description": "Exploit niche interests within larger categories.",
+          "insights": "Identifying sub-genres within popular categories like sports analysis or gaming strategy can capture dedicated audiences looking for specific content."
         },
-        "sports and live events": {
-          "insight": "Invest in broadcasting and creating content around live sports events, tapping into the real-time engagement potential."
-        },
-        "exclusive previews and releases": {
-          "insight": "Offer exclusive content previews and behind-the-scenes looks to create anticipation and encourage sharing among fans."
+        "interactive_content": {
+          "description": "Enhance engagement through viewer participation.",
+          "insights": "Interactive formats, such as '10 YouTubers vs 1 Secret Traitor,' can drive engagement by involving viewers in the content, fostering community, and encouraging shareability."
         }
       },
       "metadata_stats": {
@@ -519,7 +484,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1872505
+        "avg_views_per_video": 2031219
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
