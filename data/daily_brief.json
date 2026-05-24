@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-23T21:23:54.766042",
-  "date": "2026-05-23",
+  "timestamp": "2026-05-24T01:09:40.401871",
+  "date": "2026-05-24",
   "summary": {
-    "total_videos_analyzed": 10,
+    "total_videos_analyzed": 9,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 1658073,
-      "like_count": 283826,
-      "comment_count": 25228,
+      "view_count": 3637462,
+      "like_count": 416396,
+      "comment_count": 33057,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 415106,
-      "like_count": 49615,
-      "comment_count": 4458,
+      "view_count": 560444,
+      "like_count": 57781,
+      "comment_count": 5001,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -80,9 +80,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 955338,
-      "like_count": 47485,
-      "comment_count": 4309,
+      "view_count": 1004480,
+      "like_count": 48686,
+      "comment_count": 4423,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -99,21 +99,21 @@
       "url": "https://www.youtube.com/watch?v=2RydunKJrBU"
     },
     {
-      "video_id": "eiTquUHtEnQ",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T20:04:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eiTquUHtEnQ/hqdefault.jpg",
-      "duration": "PT1H1M5S",
-      "duration_seconds": 3665,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
+      "video_id": "FO9kMeIQI7M",
+      "title": "10 YouTubers vs 1 Secret Traitor",
+      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-05-23T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
+      "duration": "PT22M39S",
+      "duration_seconds": 1359,
+      "view_count": 5407812,
+      "like_count": 207457,
+      "comment_count": 10674,
+      "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=eiTquUHtEnQ"
+      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
     },
     {
       "video_id": "CC2tvtBKGcw",
@@ -125,9 +125,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
       "duration": "PT50S",
       "duration_seconds": 50,
-      "view_count": 87929,
-      "like_count": 3678,
-      "comment_count": 566,
+      "view_count": 97523,
+      "like_count": 3741,
+      "comment_count": 575,
       "category_id": "20",
       "tags": [
         "Dead by Daylight Jason",
@@ -144,6 +144,23 @@
       "url": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
     },
     {
+      "video_id": "TsEdXTjkORk",
+      "title": "Saturday in America",
+      "description": "",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-23T21:49:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TsEdXTjkORk/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=TsEdXTjkORk"
+    },
+    {
       "video_id": "aGoqVJfOSsc",
       "title": "Golden State Valkyries at Indiana Fever",
       "description": "The Golden State Valkyries travel to Gainbridge Fieldhouse to face the Indiana Fever. Golden State seeks to rebound after losing to Chicago, while Indiana beat Seattle 89-78 behind 21 points from Caitlin Clark in an early-season matchup.",
@@ -161,66 +178,21 @@
       "url": "https://www.youtube.com/watch?v=aGoqVJfOSsc"
     },
     {
-      "video_id": "rFOdIv1jwhc",
-      "title": "Hai Jawani Toh Ishq Hona Hai - Trailer | Varun | Mrunal | Pooja | David | In Cinemas 5th June 2026",
-      "description": "Get ready for fun, romance & full entertainment! 🎬✨\nPresenting the Trailer of Hai Jawani Toh Ishq Hona Hai starring Varun Dhawan, Mrunal Thakur & Pooja Hegde, directed by David Dhawan.\nA perfect mix of comedy, love, confusion & family drama awaits you on the big screen! ❤️🔥\n\nHai Jawani Toh Ishq Hona Hai\nReleasing In Cinemas Worldwide on 5th June 2026\n\nMovie Details: \nTips Films Ltd Presents\nHai Jawani Toh Ishq Hona Hai\nDirected By David Dhawan\nProduced By Ramesh Taurani\nCast: Varun Dhawan, Mrunal Thakur, Pooja Hegde, Maniesh Paul, Chunky Pandey, Jimmy Shergill, Mouni Roy\nCo-Producer: Gaurav Bose (Maximilian Films UK)\nDOP: Ayananka Bose\nStory & Screenplay Writer: Yunus Sajawal\nDialogue Writer: Farhad Samji\nMusic: White Noise Collectives, Tanishk Bagchi, Rony Ajnali, Gill Macchrai (Classy Beats), Javed - Mohsin, Akshay & IP\nLyrics: Vayu, Jairaj, Mohsin Shaikh, Rony Ajnali & Gill Macchrai (Classy Beats), IP Singh\nDirector Of Choreography: Remo D'souza, Bosco Martis, Vijay Ganguly\nEditor: ",
-      "channel_title": "Tips Films",
-      "channel_id": "UCqXO3ktBw0D0sw1z5hZFeDg",
-      "published_at": "2026-05-23T06:32:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rFOdIv1jwhc/hqdefault.jpg",
-      "duration": "PT3M16S",
-      "duration_seconds": 196,
-      "view_count": 5923672,
-      "like_count": 54746,
-      "comment_count": 3223,
-      "category_id": "24",
-      "tags": [
-        "hai jawani toh ishq hona hai trailer",
-        "hai jawani toh ishq hona hai official trailer",
-        "hai jawani toh ishq hona hai movie trailer",
-        "hai jawani toh ishq hona hai movie",
-        "hai jawani toh ishq hona hai",
-        "hai jawani toh ishq hona hai song",
-        "varun dhawan new movie",
-        "varun dhawan hai jawani to ishq hona hai",
-        "hai jawani toh ishq hona hai teaser",
-        "bollywood movies"
-      ],
-      "url": "https://www.youtube.com/watch?v=rFOdIv1jwhc"
-    },
-    {
-      "video_id": "FO9kMeIQI7M",
-      "title": "10 YouTubers vs 1 Secret Traitor",
-      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-05-23T16:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
-      "duration": "PT22M39S",
-      "duration_seconds": 1359,
-      "view_count": 3086667,
-      "like_count": 154011,
-      "comment_count": 9103,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
-    },
-    {
-      "video_id": "QGIYTZo7xp8",
-      "title": "The CJ Cup Byron Nelson, Second Round",
-      "description": "The second round of the PGA Tour Byron Nelson tournament continues at TPC Craig Ranch. The player field battles the standard 36-hole cut line as only the top 65 golfers and ties advance to the competitive weekend in McKinney, Texas.",
+      "video_id": "2JlvQRnCVyA",
+      "title": "Golf Central Pregame",
+      "description": "Golf Central Pregame preps viewers for all the tournament action, with up-to-date scores, interviews, and analysis.",
       "channel_title": "Golf Channel",
       "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-23T07:26:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QGIYTZo7xp8/hqdefault.jpg",
-      "duration": "PT3H59M21S",
-      "duration_seconds": 14361,
+      "published_at": "2026-05-23T23:20:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2JlvQRnCVyA/hqdefault.jpg",
+      "duration": "PT48M50S",
+      "duration_seconds": 2930,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=QGIYTZo7xp8"
+      "url": "https://www.youtube.com/watch?v=2JlvQRnCVyA"
     }
   ],
   "videos_with_transcripts": [],
@@ -235,9 +207,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 1658073,
-      "like_count": 283826,
-      "comment_count": 25228,
+      "view_count": 3637462,
+      "like_count": 416396,
+      "comment_count": 33057,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -269,9 +241,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2RydunKJrBU/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 955338,
-      "like_count": 47485,
-      "comment_count": 4309,
+      "view_count": 1004480,
+      "like_count": 48686,
+      "comment_count": 4423,
       "category_id": "24",
       "tags": [
         "vought rising",
@@ -288,13 +260,30 @@
       "url": "https://www.youtube.com/watch?v=2RydunKJrBU"
     },
     {
-      "video_id": "eiTquUHtEnQ",
-      "title": "Fox & Friends Weekend",
-      "description": "FOX & Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.",
+      "video_id": "FO9kMeIQI7M",
+      "title": "10 YouTubers vs 1 Secret Traitor",
+      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-05-23T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
+      "duration": "PT22M39S",
+      "duration_seconds": 1359,
+      "view_count": 5407812,
+      "like_count": 207457,
+      "comment_count": 10674,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
+    },
+    {
+      "video_id": "TsEdXTjkORk",
+      "title": "Saturday in America",
+      "description": "",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-23T20:04:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eiTquUHtEnQ/hqdefault.jpg",
+      "published_at": "2026-05-23T21:49:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TsEdXTjkORk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -302,7 +291,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=eiTquUHtEnQ"
+      "url": "https://www.youtube.com/watch?v=TsEdXTjkORk"
     },
     {
       "video_id": "aGoqVJfOSsc",
@@ -322,66 +311,21 @@
       "url": "https://www.youtube.com/watch?v=aGoqVJfOSsc"
     },
     {
-      "video_id": "rFOdIv1jwhc",
-      "title": "Hai Jawani Toh Ishq Hona Hai - Trailer | Varun | Mrunal | Pooja | David | In Cinemas 5th June 2026",
-      "description": "Get ready for fun, romance & full entertainment! 🎬✨\nPresenting the Trailer of Hai Jawani Toh Ishq Hona Hai starring Varun Dhawan, Mrunal Thakur & Pooja Hegde, directed by David Dhawan.\nA perfect mix of comedy, love, confusion & family drama awaits you on the big screen! ❤️🔥\n\nHai Jawani Toh Ishq Hona Hai\nReleasing In Cinemas Worldwide on 5th June 2026\n\nMovie Details: \nTips Films Ltd Presents\nHai Jawani Toh Ishq Hona Hai\nDirected By David Dhawan\nProduced By Ramesh Taurani\nCast: Varun Dhawan, Mrunal Thakur, Pooja Hegde, Maniesh Paul, Chunky Pandey, Jimmy Shergill, Mouni Roy\nCo-Producer: Gaurav Bose (Maximilian Films UK)\nDOP: Ayananka Bose\nStory & Screenplay Writer: Yunus Sajawal\nDialogue Writer: Farhad Samji\nMusic: White Noise Collectives, Tanishk Bagchi, Rony Ajnali, Gill Macchrai (Classy Beats), Javed - Mohsin, Akshay & IP\nLyrics: Vayu, Jairaj, Mohsin Shaikh, Rony Ajnali & Gill Macchrai (Classy Beats), IP Singh\nDirector Of Choreography: Remo D'souza, Bosco Martis, Vijay Ganguly\nEditor: ",
-      "channel_title": "Tips Films",
-      "channel_id": "UCqXO3ktBw0D0sw1z5hZFeDg",
-      "published_at": "2026-05-23T06:32:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rFOdIv1jwhc/hqdefault.jpg",
-      "duration": "PT3M16S",
-      "duration_seconds": 196,
-      "view_count": 5923672,
-      "like_count": 54746,
-      "comment_count": 3223,
-      "category_id": "24",
-      "tags": [
-        "hai jawani toh ishq hona hai trailer",
-        "hai jawani toh ishq hona hai official trailer",
-        "hai jawani toh ishq hona hai movie trailer",
-        "hai jawani toh ishq hona hai movie",
-        "hai jawani toh ishq hona hai",
-        "hai jawani toh ishq hona hai song",
-        "varun dhawan new movie",
-        "varun dhawan hai jawani to ishq hona hai",
-        "hai jawani toh ishq hona hai teaser",
-        "bollywood movies"
-      ],
-      "url": "https://www.youtube.com/watch?v=rFOdIv1jwhc"
-    },
-    {
-      "video_id": "FO9kMeIQI7M",
-      "title": "10 YouTubers vs 1 Secret Traitor",
-      "description": "I wanted to try something different, let me know if I should do more!\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-05-23T16:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
-      "duration": "PT22M39S",
-      "duration_seconds": 1359,
-      "view_count": 3086667,
-      "like_count": 154011,
-      "comment_count": 9103,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
-    },
-    {
-      "video_id": "QGIYTZo7xp8",
-      "title": "The CJ Cup Byron Nelson, Second Round",
-      "description": "The second round of the PGA Tour Byron Nelson tournament continues at TPC Craig Ranch. The player field battles the standard 36-hole cut line as only the top 65 golfers and ties advance to the competitive weekend in McKinney, Texas.",
+      "video_id": "2JlvQRnCVyA",
+      "title": "Golf Central Pregame",
+      "description": "Golf Central Pregame preps viewers for all the tournament action, with up-to-date scores, interviews, and analysis.",
       "channel_title": "Golf Channel",
       "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-23T07:26:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QGIYTZo7xp8/hqdefault.jpg",
-      "duration": "PT3H59M21S",
-      "duration_seconds": 14361,
+      "published_at": "2026-05-23T23:20:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2JlvQRnCVyA/hqdefault.jpg",
+      "duration": "PT48M50S",
+      "duration_seconds": 2930,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=QGIYTZo7xp8"
+      "url": "https://www.youtube.com/watch?v=2JlvQRnCVyA"
     },
     {
       "video_id": "YebqRYaTVNg",
@@ -393,9 +337,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 415106,
-      "like_count": 49615,
-      "comment_count": 4458,
+      "view_count": 560444,
+      "like_count": 57781,
+      "comment_count": 5001,
       "category_id": "20",
       "tags": [
         "dead by daylight",
@@ -417,9 +361,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CC2tvtBKGcw/hqdefault.jpg",
       "duration": "PT50S",
       "duration_seconds": 50,
-      "view_count": 87929,
-      "like_count": 3678,
-      "comment_count": 566,
+      "view_count": 97523,
+      "like_count": 3741,
+      "comment_count": 575,
       "category_id": "20",
       "tags": [
         "Dead by Daylight Jason",
@@ -439,111 +383,74 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 12126785,
-        "average_views_per_video": 1212678.5,
-        "categories": "Unknown"
-      },
-      "content_trends": {
-        "music": {
-          "videos": [
-            "Shakira, Burna Boy - Dai Dai (Official Video)"
-          ],
-          "insights": {
-            "popularity": "High potential for viral reach due to influential artists and music genre appeal.",
-            "engagement": "Likely high due to global fanbase and cross-cultural collaboration."
-          }
-        },
-        "gaming": {
-          "videos": [
-            "Dead by Daylight | Jason | Official Trailer",
-            "Dead by Daylight Jason Reveal Trailer"
-          ],
-          "insights": {
-            "popularity": "High engagement potential among gaming communities, especially with popular franchises like Dead by Daylight.",
-            "audience": "Target demographic includes gamers interested in horror and suspense."
-          }
-        },
-        "sports": {
-          "videos": [
-            "Vegas Golden Knights at Colorado Avalanche",
-            "Golden State Valkyries at Indiana Fever",
-            "The CJ Cup Byron Nelson, Second Round"
-          ],
-          "insights": {
-            "popularity": "Consistent interest among sports enthusiasts, with potential spikes during live events or unique matchups.",
-            "engagement": "Real-time commentary and highlights could drive higher interaction."
-          }
-        },
-        "entertainment": {
-          "videos": [
-            "Vought Rising - First Look | Prime Video",
-            "Hai Jawani Toh Ishq Hona Hai - Trailer | Varun | Mrunal | Pooja | David | In Cinemas 5th June 2026",
-            "10 YouTubers vs 1 Secret Traitor"
-          ],
-          "insights": {
-            "popularity": "High potential for engagement due to recognizable brands and personalities.",
-            "audience": "Diverse, ranging from fans of thriller content to general entertainment seekers."
-          }
-        },
-        "news": {
-          "videos": [
-            "Fox & Friends Weekend"
-          ],
-          "insights": {
-            "popularity": "Consistent engagement among viewers interested in current events and political commentary.",
-            "audience": "Primarily adults interested in news and political discourse."
-          }
-        }
-      },
-      "creator_patterns": {
-        "top_channels": [
+      "insights": {
+        "trending_content_types": [
           {
-            "name": "Shakira",
-            "video_count": 1,
-            "engagement_strategy": "Leveraging music and celebrity influence for high reach."
+            "category": "Music",
+            "indicator": "Shakira, Burna Boy - Dai Dai (Official Video)",
+            "insight": "Music videos continue to dominate YouTube's trending section. Collaborations between high-profile artists like Shakira and Burna Boy are likely to attract significant views and engagement."
           },
           {
-            "name": "Dead by Daylight",
-            "video_count": 1,
-            "engagement_strategy": "Utilizing popular gaming franchises to attract core gaming audiences."
+            "category": "Gaming",
+            "indicator": [
+              "Dead by Daylight | Jason | Official Trailer",
+              "Dead by Daylight Jason Reveal Trailer",
+              "10 YouTubers vs 1 Secret Traitor"
+            ],
+            "insight": "Gaming content remains highly popular, with both official trailers for games like 'Dead by Daylight' and interactive content featuring popular YouTubers capturing audience interest. The presence of two trailers for the same game suggests a strong existing fanbase and interest in horror-themed games."
           },
           {
-            "name": "ESPN",
-            "video_count": 1,
-            "engagement_strategy": "Capitalizing on live sports coverage and highlights to maintain viewer interest."
+            "category": "Sports",
+            "indicator": [
+              "Vegas Golden Knights at Colorado Avalanche",
+              "Golden State Valkyries at Indiana Fever",
+              "Golf Central Pregame"
+            ],
+            "insight": "Live sports events and related analysis content continue to draw views, indicating a robust interest in both traditional and emerging sports."
           },
           {
-            "name": "Prime Video",
-            "video_count": 1,
-            "engagement_strategy": "Promoting exclusive content and first looks to attract entertainment seekers."
+            "category": "TV and Entertainment",
+            "indicator": "Vought Rising - First Look | Prime Video",
+            "insight": "Teasers and trailers for upcoming TV shows and movies, such as those from streaming platforms like Prime Video, maintain a strong presence in trending sections, highlighting consumer interest in new content releases."
           },
           {
-            "name": "FOX News",
-            "video_count": 1,
-            "engagement_strategy": "Consistent news coverage and political analysis to engage a dedicated viewer base."
+            "category": "Lifestyle and Culture",
+            "indicator": "Saturday in America",
+            "insight": "Cultural and lifestyle content that captures everyday experiences or special events can also trend, especially if they resonate with a broad audience."
+          }
+        ],
+        "creator_patterns": [
+          {
+            "pattern": "Collaborations",
+            "insight": "Collaborative content, especially between high-profile creators or brands, tends to generate more views and engagement. This is evident from Shakira's collaboration with Burna Boy."
+          },
+          {
+            "pattern": "Gaming Trailers",
+            "insight": "Releasing multiple trailers or teasers for the same game, as seen with 'Dead by Daylight,' can sustain viewer interest and anticipation over time."
+          }
+        ],
+        "market_opportunities": [
+          {
+            "opportunity": "Localized Sports Content",
+            "insight": "There is potential to expand into localized sports content, offering in-depth analysis and coverage for regional teams and events, as demonstrated by the trending sports videos."
+          },
+          {
+            "opportunity": "Interactive Gaming Content",
+            "insight": "Developing interactive gaming experiences featuring popular YouTubers or streamers can capitalize on the existing interest in gaming content as seen with '10 YouTubers vs 1 Secret Traitor'."
+          },
+          {
+            "opportunity": "Music Video Collaborations",
+            "insight": "Encouraging cross-genre or cross-regional artist collaborations can widen audience reach and engagement, as shown by the success of Shakira and Burna Boy's video."
           }
         ]
       },
-      "market_opportunities": {
-        "cross-category content": {
-          "insight": "There is potential to create crossover content that blends music, gaming, and entertainment to capture diverse audience interests."
-        },
-        "live interaction": {
-          "insight": "Inclusion of live elements or interactive features could significantly boost engagement, particularly in sports and gaming."
-        },
-        "celebrity collaborations": {
-          "insight": "Leveraging celebrity collaborations, as seen with Shakira and Burna Boy, can significantly enhance reach and engagement."
-        }
-      },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1212678
+        "avg_views_per_video": 1189746
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
