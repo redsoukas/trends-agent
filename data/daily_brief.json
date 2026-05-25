@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T13:22:47.192455",
+  "timestamp": "2026-05-25T16:01:13.418826",
   "date": "2026-05-25",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 14760485,
-      "like_count": 1009095,
-      "comment_count": 63582,
+      "view_count": 15580018,
+      "like_count": 1053709,
+      "comment_count": 65465,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 996044,
-      "like_count": 69674,
-      "comment_count": 8689,
+      "view_count": 1054739,
+      "like_count": 72229,
+      "comment_count": 8944,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
@@ -73,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 205282,
-      "like_count": 4837,
-      "comment_count": 1274,
+      "view_count": 240008,
+      "like_count": 5210,
+      "comment_count": 1376,
       "category_id": "20",
       "tags": [
         "Action",
@@ -186,9 +186,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lCChrhhIUWo/hqdefault.jpg",
       "duration": "PT48M58S",
       "duration_seconds": 2938,
-      "view_count": 219602,
-      "like_count": 584,
-      "comment_count": 141,
+      "view_count": 226964,
+      "like_count": 608,
+      "comment_count": 137,
       "category_id": "20",
       "tags": [
         "shrine",
@@ -217,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 14760485,
-      "like_count": 1009095,
-      "comment_count": 63582,
+      "view_count": 15580018,
+      "like_count": 1053709,
+      "comment_count": 65465,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -234,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 996044,
-      "like_count": 69674,
-      "comment_count": 8689,
+      "view_count": 1054739,
+      "like_count": 72229,
+      "comment_count": 8944,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
@@ -268,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 205282,
-      "like_count": 4837,
-      "comment_count": 1274,
+      "view_count": 240008,
+      "like_count": 5210,
+      "comment_count": 1376,
       "category_id": "20",
       "tags": [
         "Action",
@@ -381,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lCChrhhIUWo/hqdefault.jpg",
       "duration": "PT48M58S",
       "duration_seconds": 2938,
-      "view_count": 219602,
-      "like_count": 584,
-      "comment_count": 141,
+      "view_count": 226964,
+      "like_count": 608,
+      "comment_count": 137,
       "category_id": "20",
       "tags": [
         "shrine",
@@ -405,117 +405,75 @@
     "metadata_based": {
       "content_trends": {
         "music_and_entertainment": {
-          "description": "Music videos and entertainment-related content, such as video game trailers, are prominent on the trending list.",
-          "evidence": [
-            {
-              "video": "Shakira, Burna Boy - Dai Dai (Official Video)",
-              "category": "Music"
-            },
-            {
-              "video": "TEKKEN 8 – Yujiro Hanma Teaser",
-              "category": "Gaming/Entertainment"
-            },
-            {
-              "video": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
-              "category": "Gaming/Technology"
-            }
-          ],
-          "actionable_insights": [
-            "Content creators and brands should focus on collaborations and partnerships with popular music artists or gaming franchises to leverage their large fan bases.",
-            "Consider releasing teaser content or behind-the-scenes footage to engage audiences early."
+          "trend": "High engagement with music and entertainment content",
+          "data_points": {
+            "music_video": "Shakira, Burna Boy - Dai Dai (Official Video)",
+            "gaming_trailer": "TEKKEN 8 – Yujiro Hanma Teaser",
+            "gaming_announcement": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer"
+          },
+          "insights": [
+            "Music videos and gaming trailers are consistently popular, indicating a strong audience interest in these areas.",
+            "Collaborations, such as those seen in music videos, may enhance viewership due to cross-audience appeal."
           ]
         },
-        "sports_and_live_events": {
-          "description": "Live sports events and related content are gaining traction on YouTube.",
-          "evidence": [
-            {
-              "video": "Colorado Avalanche at Vegas Golden Knights",
-              "category": "Sports"
-            },
-            {
-              "video": "The CJ Cup Byron Nelson, Final Round",
-              "category": "Sports"
-            },
-            {
-              "video": "Texas Rangers at Los Angeles Angels",
-              "category": "Sports"
-            }
-          ],
-          "actionable_insights": [
-            "Sports networks and channels should capitalize on live streaming and highlight reels to capture real-time viewership.",
-            "Engage fans with interactive content such as polls, live chats, or Q&A sessions during events."
+        "sports_content": {
+          "trend": "Strong interest in live sports and sports-related content",
+          "data_points": {
+            "hockey_game": "Colorado Avalanche at Vegas Golden Knights",
+            "golf_tournament": "The CJ Cup Byron Nelson, Final Round",
+            "baseball_game": "Texas Rangers at Los Angeles Angels"
+          },
+          "insights": [
+            "Live sports events maintain high engagement, suggesting opportunities for real-time content and highlight reels.",
+            "Sports channels and related content creators should focus on timely uploads to capture live-event excitement."
           ]
         },
-        "diverse_content_categories": {
-          "description": "There is a variety of content types trending, indicating diverse viewer interests.",
-          "evidence": [
-            {
-              "video": "Pearl Harbor",
-              "category": "History/Documentary"
-            },
-            {
-              "video": "One Nation With Brian Kilmeade",
-              "category": "News/Politics"
-            },
-            {
-              "video": "Chef's Kiss",
-              "category": "Food/Cooking"
-            },
-            {
-              "video": "Blue Prince - #16 - Sometimes Hallways",
-              "category": "Vlogs/Personal"
-            }
-          ],
-          "actionable_insights": [
-            "Creators should explore niche topics and underrepresented genres to cater to specific audience segments.",
-            "Utilize metadata and viewer analytics to identify emerging interests and tailor content accordingly."
+        "miscellaneous_content": {
+          "trend": "Diverse content topics ranging from historical to lifestyle",
+          "data_points": {
+            "historical_content": "Pearl Harbor",
+            "news_and_politics": "One Nation With Brian Kilmeade",
+            "culinary_content": "Chef's Kiss",
+            "creative_content": "Blue Prince - #16 - Sometimes Hallways"
+          },
+          "insights": [
+            "Diverse content topics indicate a wide range of audience interests that can be targeted through niche content.",
+            "Historical and news-related content might see peaks during relevant anniversaries or current events, suggesting timing strategies."
           ]
         }
       },
       "creator_patterns": {
-        "top_channels_focus": {
-          "description": "Top channels are primarily from well-known entities in music, gaming, and sports.",
-          "evidence": [
-            "Shakira, Bandai Namco Entertainment America, ESPN, IGN, Golf Channel"
+        "top_channels": {
+          "names": [
+            "Shakira",
+            "Bandai Namco Entertainment America",
+            "ESPN",
+            "IGN",
+            "Golf Channel"
           ],
-          "actionable_insights": [
-            "New creators should consider collaborating with established channels to increase visibility.",
-            "Focus on high-quality production and professional collaborations to match the standards of leading channels."
+          "insights": [
+            "Top channels often belong to established brands or personalities with pre-existing fan bases.",
+            "Leveraging cross-platform promotion and collaborations with popular creators can enhance visibility."
           ]
         },
-        "cross-platform_promotion": {
-          "description": "Successful channels likely engage in cross-platform promotion to drive traffic to YouTube.",
-          "actionable_insights": [
-            "Utilize other social media platforms to promote YouTube content, leveraging the reach of each platform's audience.",
-            "Implement consistent branding across platforms to strengthen brand recognition and recall."
+        "upload_frequency_and_timing": {
+          "insights": [
+            "Consistent upload schedules aligned with trending topics can improve engagement.",
+            "Timely uploads around major events (e.g., sports finals, game releases) can capitalize on peak interest."
           ]
         }
       },
       "market_opportunities": {
-        "emerging_technology": {
-          "description": "Technological advancements, such as new gaming engines, are capturing viewer interest.",
-          "evidence": [
-            {
-              "video": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
-              "category": "Gaming/Technology"
-            }
-          ],
-          "actionable_insights": [
-            "Develop content that explores new technologies, such as tutorials, reviews, or impact analyses.",
-            "Partner with tech companies to showcase the latest innovations and applications."
+        "emerging_trends": {
+          "insights": [
+            "The integration of gaming and cinematic experiences (e.g., Rocket League and Unreal Engine 6) shows potential for growth in interactive content.",
+            "Localized content and multilingual videos can tap into varied demographics and increase global reach."
           ]
         },
-        "cultural_and_historical_content": {
-          "description": "There is a notable interest in cultural and historical content.",
-          "evidence": [
-            {
-              "video": "Pearl Harbor",
-              "category": "History/Documentary"
-            }
-          ],
-          "actionable_insights": [
-            "Content creators can develop series or documentaries focusing on significant historical events or cultural topics.",
-            "Engage historians or cultural experts to provide informative and authoritative content."
+        "audience_engagement": {
+          "insights": [
+            "Interactive elements such as live Q&A, polls, and behind-the-scenes content can boost engagement.",
+            "Engagement with niche communities through targeted content can build loyal follower bases."
           ]
         }
       },
@@ -525,7 +483,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1618141
+        "avg_views_per_video": 1710172
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
