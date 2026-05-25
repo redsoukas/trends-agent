@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-25T10:40:51.159593",
+  "timestamp": "2026-05-25T13:22:47.192455",
   "date": "2026-05-25",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 2,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 14115485,
-      "like_count": 975703,
-      "comment_count": 62021,
+      "view_count": 14760485,
+      "like_count": 1009095,
+      "comment_count": 63582,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,29 +39,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 937441,
-      "like_count": 68056,
-      "comment_count": 8389,
+      "view_count": 996044,
+      "like_count": 69674,
+      "comment_count": 8689,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
     },
     {
-      "video_id": "dWVTyoKhq9c",
-      "title": "NCAA Tournament: Arizona State at Texas",
-      "description": "Super Regional, Game 3.",
+      "video_id": "IpzsiGdI3F4",
+      "title": "Colorado Avalanche at Vegas Golden Knights",
+      "description": "The Colorado Avalanche and Vegas Golden Knights clash in Game 3 of the Western Conference Final. Vegas leads 2-0 after a 3-1 win fueled by Ivan Barbashev. Vegas tries to build its streak while Colorado aims to bounce back as rivals drop the puck.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-25T05:22:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dWVTyoKhq9c/hqdefault.jpg",
-      "duration": "PT1H58M11S",
-      "duration_seconds": 7091,
+      "published_at": "2026-05-25T10:02:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IpzsiGdI3F4/hqdefault.jpg",
+      "duration": "PT3H3M50S",
+      "duration_seconds": 11030,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dWVTyoKhq9c"
+      "url": "https://www.youtube.com/watch?v=IpzsiGdI3F4"
     },
     {
       "video_id": "p5d7y1cbWIk",
@@ -73,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 200208,
-      "like_count": 4573,
-      "comment_count": 1181,
+      "view_count": 205282,
+      "like_count": 4837,
+      "comment_count": 1274,
       "category_id": "20",
       "tags": [
         "Action",
@@ -109,28 +109,38 @@
       "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
     },
     {
-      "video_id": "YebqRYaTVNg",
-      "title": "Dead by Daylight | Jason | Official Trailer",
-      "description": "The mask is on. The machete is dripping. The massacre has begun.   \nDead by Daylight: Jason.  \n\n06. 16. 26. \n\nTrapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadbyDaylight\n- Instagram:  https://www.instagram.com/deadbydaylight/\n- TikTok: https://www.tiktok.com/@deadbydaylight \n\n#DbD",
-      "channel_title": "Dead by Daylight",
-      "channel_id": "UCaSgsFdGbwjfdawl3rOXiwQ",
-      "published_at": "2026-05-23T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
-      "duration": "PT48S",
-      "duration_seconds": 48,
-      "view_count": 1011357,
-      "like_count": 77996,
-      "comment_count": 6341,
-      "category_id": "20",
-      "tags": [
-        "dead by daylight",
-        "dbd",
-        "behaviour interactive",
-        "bhvr",
-        "slasher game",
-        "survival horror"
-      ],
-      "url": "https://www.youtube.com/watch?v=YebqRYaTVNg"
+      "video_id": "KN4kDDBBo1I",
+      "title": "Texas Rangers at Los Angeles Angels",
+      "description": "The Los Angeles Angels host the Texas Rangers in Game 3 of a three-game regular-season series. Left-handed pitcher Reid Detmers starts for Los Angeles, while slugger Jake Burger leads the Texas lineup in this AL West clash at Angel Stadium.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-25T11:10:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KN4kDDBBo1I/hqdefault.jpg",
+      "duration": "PT3H3M35S",
+      "duration_seconds": 11015,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KN4kDDBBo1I"
+    },
+    {
+      "video_id": "6Fs7lBInBtY",
+      "title": "Pearl Harbor",
+      "description": "Two pilots and lifelong friends (Ben Affleck, Josh Hartnett) fall for the same woman, but must put aside their differences when the Japanese attack their naval base on Dec. 7, 1941.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-25T12:03:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Fs7lBInBtY/hqdefault.jpg",
+      "duration": "PT3H31M6S",
+      "duration_seconds": 12666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6Fs7lBInBtY"
     },
     {
       "video_id": "hLKjcbPeH6Y",
@@ -167,23 +177,6 @@
       "url": "https://www.youtube.com/watch?v=i1IDORwnsYk"
     },
     {
-      "video_id": "fvW9FBH-uUY",
-      "title": "Montreal Canadiens at Carolina Hurricanes",
-      "description": "The Carolina Hurricanes and Montreal Canadiens clash in Game 2 of the Eastern Conference Final. Montreal leads 1-0 following a 6-2 win led by Juraj Slafkovsky. The Hurricanes prepare to face the puck drop alongside forward Seth Jarvis.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-24T12:45:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fvW9FBH-uUY/hqdefault.jpg",
-      "duration": "PT2H56M51S",
-      "duration_seconds": 10611,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fvW9FBH-uUY"
-    },
-    {
       "video_id": "lCChrhhIUWo",
       "title": "Blue Prince - #16 - Sometimes Hallways",
       "description": "Everything in moderation.\n\nSupport us on Patreon! ► https://patreon.com/playframe\n\n\n_______▼ PLAYLIST ▼_______\n\nWatch the full playthrough! ► https://www.youtube.com/playlist?list=PLvFQJa1XAXzypTjcd2R48QiH5fGdg-ZUv\n\n\n________▼ TWITCH ▼_________\n\nWe're also streaming on Twitch! ► https://twitch.tv/playframeplus\n\n\n________▼ SOCIALS ▼_________\n\nBlueSky:\nhttps://bsky.app/profile/playframe.bsky.social\nhttps://bsky.app/profile/danfloydplus.bsky.social\nhttps://bsky.app/profile/carriefloyd.bsky.social\n\n\nTo hear Dan talk MUCH more about game animation, check out New Frame Plus! ► http://www.youtube.com/c/newframeplus\n\n\n\n_______▼ CREDITS ▼________\n\nEdited by Carrie Floyd\n\nThumbnail art by Dan Jones\n\n\n\n________▼ MUSIC ▼_________\n\n♫ “Gone Shoppin'” by Dj CUTMAN\nhttps://www.youtube.com/watch?v=gZjV3uJhgFc\n\n\n\n\n#PlayFrame #BluePrince",
@@ -193,9 +186,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lCChrhhIUWo/hqdefault.jpg",
       "duration": "PT48M58S",
       "duration_seconds": 2938,
-      "view_count": 209786,
-      "like_count": 568,
-      "comment_count": 133,
+      "view_count": 219602,
+      "like_count": 584,
+      "comment_count": 141,
       "category_id": "20",
       "tags": [
         "shrine",
@@ -224,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 14115485,
-      "like_count": 975703,
-      "comment_count": 62021,
+      "view_count": 14760485,
+      "like_count": 1009095,
+      "comment_count": 63582,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -241,29 +234,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 937441,
-      "like_count": 68056,
-      "comment_count": 8389,
+      "view_count": 996044,
+      "like_count": 69674,
+      "comment_count": 8689,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
     },
     {
-      "video_id": "dWVTyoKhq9c",
-      "title": "NCAA Tournament: Arizona State at Texas",
-      "description": "Super Regional, Game 3.",
+      "video_id": "IpzsiGdI3F4",
+      "title": "Colorado Avalanche at Vegas Golden Knights",
+      "description": "The Colorado Avalanche and Vegas Golden Knights clash in Game 3 of the Western Conference Final. Vegas leads 2-0 after a 3-1 win fueled by Ivan Barbashev. Vegas tries to build its streak while Colorado aims to bounce back as rivals drop the puck.",
       "channel_title": "ESPN",
       "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-25T05:22:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dWVTyoKhq9c/hqdefault.jpg",
-      "duration": "PT1H58M11S",
-      "duration_seconds": 7091,
+      "published_at": "2026-05-25T10:02:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IpzsiGdI3F4/hqdefault.jpg",
+      "duration": "PT3H3M50S",
+      "duration_seconds": 11030,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=dWVTyoKhq9c"
+      "url": "https://www.youtube.com/watch?v=IpzsiGdI3F4"
     },
     {
       "video_id": "p5d7y1cbWIk",
@@ -275,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 200208,
-      "like_count": 4573,
-      "comment_count": 1181,
+      "view_count": 205282,
+      "like_count": 4837,
+      "comment_count": 1274,
       "category_id": "20",
       "tags": [
         "Action",
@@ -309,6 +302,40 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
+    },
+    {
+      "video_id": "KN4kDDBBo1I",
+      "title": "Texas Rangers at Los Angeles Angels",
+      "description": "The Los Angeles Angels host the Texas Rangers in Game 3 of a three-game regular-season series. Left-handed pitcher Reid Detmers starts for Los Angeles, while slugger Jake Burger leads the Texas lineup in this AL West clash at Angel Stadium.",
+      "channel_title": "NBCSN",
+      "channel_id": "UC2tza2d01CFaPEYsFxYoqvQ",
+      "published_at": "2026-05-25T11:10:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KN4kDDBBo1I/hqdefault.jpg",
+      "duration": "PT3H3M35S",
+      "duration_seconds": 11015,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=KN4kDDBBo1I"
+    },
+    {
+      "video_id": "6Fs7lBInBtY",
+      "title": "Pearl Harbor",
+      "description": "Two pilots and lifelong friends (Ben Affleck, Josh Hartnett) fall for the same woman, but must put aside their differences when the Japanese attack their naval base on Dec. 7, 1941.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-25T12:03:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Fs7lBInBtY/hqdefault.jpg",
+      "duration": "PT3H31M6S",
+      "duration_seconds": 12666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=6Fs7lBInBtY"
     },
     {
       "video_id": "hLKjcbPeH6Y",
@@ -345,23 +372,6 @@
       "url": "https://www.youtube.com/watch?v=i1IDORwnsYk"
     },
     {
-      "video_id": "fvW9FBH-uUY",
-      "title": "Montreal Canadiens at Carolina Hurricanes",
-      "description": "The Carolina Hurricanes and Montreal Canadiens clash in Game 2 of the Eastern Conference Final. Montreal leads 1-0 following a 6-2 win led by Juraj Slafkovsky. The Hurricanes prepare to face the puck drop alongside forward Seth Jarvis.",
-      "channel_title": "TNT",
-      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
-      "published_at": "2026-05-24T12:45:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fvW9FBH-uUY/hqdefault.jpg",
-      "duration": "PT2H56M51S",
-      "duration_seconds": 10611,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=fvW9FBH-uUY"
-    },
-    {
       "video_id": "lCChrhhIUWo",
       "title": "Blue Prince - #16 - Sometimes Hallways",
       "description": "Everything in moderation.\n\nSupport us on Patreon! ► https://patreon.com/playframe\n\n\n_______▼ PLAYLIST ▼_______\n\nWatch the full playthrough! ► https://www.youtube.com/playlist?list=PLvFQJa1XAXzypTjcd2R48QiH5fGdg-ZUv\n\n\n________▼ TWITCH ▼_________\n\nWe're also streaming on Twitch! ► https://twitch.tv/playframeplus\n\n\n________▼ SOCIALS ▼_________\n\nBlueSky:\nhttps://bsky.app/profile/playframe.bsky.social\nhttps://bsky.app/profile/danfloydplus.bsky.social\nhttps://bsky.app/profile/carriefloyd.bsky.social\n\n\nTo hear Dan talk MUCH more about game animation, check out New Frame Plus! ► http://www.youtube.com/c/newframeplus\n\n\n\n_______▼ CREDITS ▼________\n\nEdited by Carrie Floyd\n\nThumbnail art by Dan Jones\n\n\n\n________▼ MUSIC ▼_________\n\n♫ “Gone Shoppin'” by Dj CUTMAN\nhttps://www.youtube.com/watch?v=gZjV3uJhgFc\n\n\n\n\n#PlayFrame #BluePrince",
@@ -371,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lCChrhhIUWo/hqdefault.jpg",
       "duration": "PT48M58S",
       "duration_seconds": 2938,
-      "view_count": 209786,
-      "like_count": 568,
-      "comment_count": 133,
+      "view_count": 219602,
+      "like_count": 584,
+      "comment_count": 141,
       "category_id": "20",
       "tags": [
         "shrine",
@@ -388,111 +398,125 @@
         "floor plan"
       ],
       "url": "https://www.youtube.com/watch?v=lCChrhhIUWo"
-    },
-    {
-      "video_id": "YebqRYaTVNg",
-      "title": "Dead by Daylight | Jason | Official Trailer",
-      "description": "The mask is on. The machete is dripping. The massacre has begun.   \nDead by Daylight: Jason.  \n\n06. 16. 26. \n\nTrapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadbyDaylight\n- Instagram:  https://www.instagram.com/deadbydaylight/\n- TikTok: https://www.tiktok.com/@deadbydaylight \n\n#DbD",
-      "channel_title": "Dead by Daylight",
-      "channel_id": "UCaSgsFdGbwjfdawl3rOXiwQ",
-      "published_at": "2026-05-23T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YebqRYaTVNg/hqdefault.jpg",
-      "duration": "PT48S",
-      "duration_seconds": 48,
-      "view_count": 1011357,
-      "like_count": 77996,
-      "comment_count": 6341,
-      "category_id": "20",
-      "tags": [
-        "dead by daylight",
-        "dbd",
-        "behaviour interactive",
-        "bhvr",
-        "slasher game",
-        "survival horror"
-      ],
-      "url": "https://www.youtube.com/watch?v=YebqRYaTVNg"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_patterns_analysis": {
-        "total_videos": 10,
-        "total_views": 16474277,
-        "average_views_per_video": 1647427.7,
-        "content_trends": {
-          "music": {
-            "video_count": 1,
-            "representative_video": "Shakira, Burna Boy - Dai Dai (Official Video)",
-            "insights": "Music videos, especially collaborations with popular artists, consistently attract high viewership. The Shakira and Burna Boy collaboration indicates a strong interest in global music collaborations."
-          },
-          "gaming": {
-            "video_count": 3,
-            "representative_videos": [
-              "TEKKEN 8 – Yujiro Hanma Teaser",
-              "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
-              "Dead by Daylight | Jason | Official Trailer"
-            ],
-            "insights": "Gaming content, including teasers and trailers for upcoming releases, is highly engaging. The focus on popular franchises and new technology (Unreal Engine 6) highlights a strong market for gaming advancements and cross-promotional content."
-          },
-          "sports": {
-            "video_count": 3,
-            "representative_videos": [
-              "NCAA Tournament: Arizona State at Texas",
-              "The CJ Cup Byron Nelson, Final Round",
-              "Montreal Canadiens at Carolina Hurricanes"
-            ],
-            "insights": "Live sports events and highlights continue to draw significant attention. Content featuring major tournaments and league matches are particularly effective at engaging viewers."
-          },
-          "news_and_talk_shows": {
-            "video_count": 1,
-            "representative_video": "One Nation With Brian Kilmeade",
-            "insights": "Political and news commentary shows maintain a dedicated audience. This reflects a consistent demand for current affairs and opinion-based content."
-          },
-          "lifestyle_and_entertainment": {
-            "video_count": 2,
-            "representative_videos": [
-              "Chef's Kiss",
-              "Blue Prince - #16 - Sometimes Hallways"
-            ],
-            "insights": "Lifestyle content, including cooking shows and narrative series, provides diverse entertainment options. The varied themes suggest opportunities for niche content to achieve viral status."
-          }
-        },
-        "creator_patterns": {
-          "top_creators": [
+      "content_trends": {
+        "music_and_entertainment": {
+          "description": "Music videos and entertainment-related content, such as video game trailers, are prominent on the trending list.",
+          "evidence": [
             {
-              "name": "Shakira",
-              "video_count": 1,
-              "insights": "Artists with global recognition, such as Shakira, leverage their brand to achieve high engagement quickly."
+              "video": "Shakira, Burna Boy - Dai Dai (Official Video)",
+              "category": "Music"
             },
             {
-              "name": "Bandai Namco Entertainment America",
-              "video_count": 1,
-              "insights": "Gaming companies maintain a strong presence with teasers for anticipated releases, indicating effective use of hype generation."
+              "video": "TEKKEN 8 – Yujiro Hanma Teaser",
+              "category": "Gaming/Entertainment"
             },
             {
-              "name": "ESPN",
-              "video_count": 1,
-              "insights": "Major sports networks continually capitalize on live events and highlights to maintain viewer interest."
-            },
-            {
-              "name": "IGN",
-              "video_count": 1,
-              "insights": "Entertainment and gaming media outlets use trailers and exclusive reveals to engage a dedicated audience."
-            },
-            {
-              "name": "Golf Channel",
-              "video_count": 1,
-              "insights": "Niche sports channels can achieve significant reach by focusing on dedicated fanbases and major tournament coverage."
+              "video": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
+              "category": "Gaming/Technology"
             }
+          ],
+          "actionable_insights": [
+            "Content creators and brands should focus on collaborations and partnerships with popular music artists or gaming franchises to leverage their large fan bases.",
+            "Consider releasing teaser content or behind-the-scenes footage to engage audiences early."
           ]
         },
-        "market_opportunities": {
-          "cross-promotional_content": "Collaborations between popular music artists and gaming franchises can expand audience reach and engagement.",
-          "live_event_coverage": "Increasing the frequency and quality of live sports and event coverage can capture larger audiences, particularly during peak seasons.",
-          "emerging_technology": "Leveraging new technologies, such as Unreal Engine 6, in gaming content can attract tech-savvy and gaming enthusiasts.",
-          "diversified_niche_content": "Exploring diverse lifestyle and entertainment themes can attract niche audiences and lead to unexpected viral success."
+        "sports_and_live_events": {
+          "description": "Live sports events and related content are gaining traction on YouTube.",
+          "evidence": [
+            {
+              "video": "Colorado Avalanche at Vegas Golden Knights",
+              "category": "Sports"
+            },
+            {
+              "video": "The CJ Cup Byron Nelson, Final Round",
+              "category": "Sports"
+            },
+            {
+              "video": "Texas Rangers at Los Angeles Angels",
+              "category": "Sports"
+            }
+          ],
+          "actionable_insights": [
+            "Sports networks and channels should capitalize on live streaming and highlight reels to capture real-time viewership.",
+            "Engage fans with interactive content such as polls, live chats, or Q&A sessions during events."
+          ]
+        },
+        "diverse_content_categories": {
+          "description": "There is a variety of content types trending, indicating diverse viewer interests.",
+          "evidence": [
+            {
+              "video": "Pearl Harbor",
+              "category": "History/Documentary"
+            },
+            {
+              "video": "One Nation With Brian Kilmeade",
+              "category": "News/Politics"
+            },
+            {
+              "video": "Chef's Kiss",
+              "category": "Food/Cooking"
+            },
+            {
+              "video": "Blue Prince - #16 - Sometimes Hallways",
+              "category": "Vlogs/Personal"
+            }
+          ],
+          "actionable_insights": [
+            "Creators should explore niche topics and underrepresented genres to cater to specific audience segments.",
+            "Utilize metadata and viewer analytics to identify emerging interests and tailor content accordingly."
+          ]
+        }
+      },
+      "creator_patterns": {
+        "top_channels_focus": {
+          "description": "Top channels are primarily from well-known entities in music, gaming, and sports.",
+          "evidence": [
+            "Shakira, Bandai Namco Entertainment America, ESPN, IGN, Golf Channel"
+          ],
+          "actionable_insights": [
+            "New creators should consider collaborating with established channels to increase visibility.",
+            "Focus on high-quality production and professional collaborations to match the standards of leading channels."
+          ]
+        },
+        "cross-platform_promotion": {
+          "description": "Successful channels likely engage in cross-platform promotion to drive traffic to YouTube.",
+          "actionable_insights": [
+            "Utilize other social media platforms to promote YouTube content, leveraging the reach of each platform's audience.",
+            "Implement consistent branding across platforms to strengthen brand recognition and recall."
+          ]
+        }
+      },
+      "market_opportunities": {
+        "emerging_technology": {
+          "description": "Technological advancements, such as new gaming engines, are capturing viewer interest.",
+          "evidence": [
+            {
+              "video": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
+              "category": "Gaming/Technology"
+            }
+          ],
+          "actionable_insights": [
+            "Develop content that explores new technologies, such as tutorials, reviews, or impact analyses.",
+            "Partner with tech companies to showcase the latest innovations and applications."
+          ]
+        },
+        "cultural_and_historical_content": {
+          "description": "There is a notable interest in cultural and historical content.",
+          "evidence": [
+            {
+              "video": "Pearl Harbor",
+              "category": "History/Documentary"
+            }
+          ],
+          "actionable_insights": [
+            "Content creators can develop series or documentaries focusing on significant historical events or cultural topics.",
+            "Engage historians or cultural experts to provide informative and authoritative content."
+          ]
         }
       },
       "metadata_stats": {
@@ -501,7 +525,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1647427
+        "avg_views_per_video": 1618141
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
