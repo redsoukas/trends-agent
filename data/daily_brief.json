@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-26T04:31:44.383151",
+  "timestamp": "2026-05-26T07:26:53.009038",
   "date": "2026-05-26",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 3,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,46 +22,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 19858556,
-      "like_count": 1207172,
-      "comment_count": 71014,
+      "view_count": 20399210,
+      "like_count": 1229564,
+      "comment_count": 71906,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
-    },
-    {
-      "video_id": "bvXW2ArNz7Q",
-      "title": "TEKKEN 8 – Yujiro Hanma Teaser",
-      "description": "The Strongest Creature on Earth\nJOINS THE BATTLE!!💥\n\nYujiro Hanma joins the #TEKKEN8 roster as the 4th additional playable character in early 2027🔥",
-      "channel_title": "Bandai Namco Entertainment America",
-      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
-      "published_at": "2026-05-24T21:54:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
-      "duration": "PT1M36S",
-      "duration_seconds": 96,
-      "view_count": 1267462,
-      "like_count": 81044,
-      "comment_count": 9660,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
-    },
-    {
-      "video_id": "IpzsiGdI3F4",
-      "title": "Colorado Avalanche at Vegas Golden Knights",
-      "description": "The Colorado Avalanche and Vegas Golden Knights clash in Game 3 of the Western Conference Final. Vegas leads 2-0 after a 3-1 win fueled by Ivan Barbashev. Vegas tries to build its streak while Colorado aims to bounce back as rivals drop the puck.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-25T10:02:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IpzsiGdI3F4/hqdefault.jpg",
-      "duration": "PT3H3M50S",
-      "duration_seconds": 11030,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=IpzsiGdI3F4"
     },
     {
       "video_id": "B9d-wISnm8s",
@@ -73,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/B9d-wISnm8s/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 959899,
-      "like_count": 34846,
-      "comment_count": 1276,
+      "view_count": 1223343,
+      "like_count": 41293,
+      "comment_count": 1421,
       "category_id": "24",
       "tags": [
         "maa inti bangaram",
@@ -92,13 +58,47 @@
       "url": "https://www.youtube.com/watch?v=B9d-wISnm8s"
     },
     {
-      "video_id": "n5XwlroFcM8",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "3csVWs4ac98",
+      "title": "New York Yankees at Kansas City Royals",
+      "description": "The New York Yankees and the Kansas City Royals meet at Kauffman Stadium for a series opener match. Cam Schlittler is the projected starter for the New York Yankees. Bobby Witt Jr. leads the Royals in batting average while Ben Rice leads the Yankees.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-26T05:12:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3csVWs4ac98/hqdefault.jpg",
+      "duration": "PT2H36M11S",
+      "duration_seconds": 9371,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3csVWs4ac98"
+    },
+    {
+      "video_id": "bvXW2ArNz7Q",
+      "title": "TEKKEN 8 – Yujiro Hanma Teaser",
+      "description": "The Strongest Creature on Earth\nJOINS THE BATTLE!!💥\n\nYujiro Hanma joins the #TEKKEN8 roster as the 4th additional playable character in early 2027🔥",
+      "channel_title": "Bandai Namco Entertainment America",
+      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
+      "published_at": "2026-05-24T21:54:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
+      "duration": "PT1M36S",
+      "duration_seconds": 96,
+      "view_count": 1291543,
+      "like_count": 82047,
+      "comment_count": 9723,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
+    },
+    {
+      "video_id": "RMs7BRDLJQk",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-26T03:53:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n5XwlroFcM8/hqdefault.jpg",
+      "published_at": "2026-05-26T05:22:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RMs7BRDLJQk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -106,7 +106,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=n5XwlroFcM8"
+      "url": "https://www.youtube.com/watch?v=RMs7BRDLJQk"
     },
     {
       "video_id": "BD9-lHuu2zw",
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BD9-lHuu2zw/hqdefault.jpg",
       "duration": "PT12M15S",
       "duration_seconds": 735,
-      "view_count": 60565,
-      "like_count": 2514,
-      "comment_count": 238,
+      "view_count": 85998,
+      "like_count": 3024,
+      "comment_count": 265,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=BD9-lHuu2zw"
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FEropZ_Tq7Y/hqdefault.jpg",
       "duration": "PT2H49M6S",
       "duration_seconds": 10146,
-      "view_count": 1368166,
-      "like_count": 86618,
-      "comment_count": 20040,
+      "view_count": 1621422,
+      "like_count": 93923,
+      "comment_count": 21287,
       "category_id": "20",
       "tags": [
         "spoke",
@@ -154,32 +154,38 @@
       "url": "https://www.youtube.com/watch?v=FEropZ_Tq7Y"
     },
     {
-      "video_id": "b1u1kUdDOys",
-      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
-      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
-      "channel_title": "VALORANT",
-      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
-      "published_at": "2026-05-25T13:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 415983,
-      "like_count": 18061,
-      "comment_count": 1117,
-      "category_id": "20",
-      "tags": [
-        "VALORANT trailer",
-        "VALORANT",
-        "VALORANT game",
-        "valorant act IV",
-        "Season 2026",
-        "S26",
-        "VALORANT act 4",
-        "fps",
-        "shooters",
-        "tactical FPS"
-      ],
-      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
+      "video_id": "inkuorcf9MM",
+      "title": "Day 2, Evening Session",
+      "description": "From Roland Garros Stadium in Paris, France.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-26T05:57:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/inkuorcf9MM/hqdefault.jpg",
+      "duration": "PT3H44M11S",
+      "duration_seconds": 13451,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=inkuorcf9MM"
+    },
+    {
+      "video_id": "bFJBbzJsAYc",
+      "title": "Pearl Harbor",
+      "description": "Two pilots and lifelong friends (Ben Affleck, Josh Hartnett) fall for the same woman, but must put aside their differences when the Japanese attack their naval base on Dec. 7, 1941.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-05-26T04:33:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bFJBbzJsAYc/hqdefault.jpg",
+      "duration": "PT3H31M6S",
+      "duration_seconds": 12666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bFJBbzJsAYc"
     },
     {
       "video_id": "pJ0StErUAU8",
@@ -197,23 +203,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=pJ0StErUAU8"
-    },
-    {
-      "video_id": "EMJuk-s8rCs",
-      "title": "The CJ Cup Byron Nelson, Final Round",
-      "description": "The fourth and final round of the PGA Tour Byron Nelson concludes at TPC Craig Ranch. The surviving leaders battle through Championship Sunday to conquer the final 18 holes of stroke play and secure the tournament trophy in McKinney, Texas.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-25T03:39:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EMJuk-s8rCs/hqdefault.jpg",
-      "duration": "PT2H5M20S",
-      "duration_seconds": 7520,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
     }
   ],
   "videos_with_transcripts": [],
@@ -228,46 +217,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 19858556,
-      "like_count": 1207172,
-      "comment_count": 71014,
+      "view_count": 20399210,
+      "like_count": 1229564,
+      "comment_count": 71906,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
-    },
-    {
-      "video_id": "bvXW2ArNz7Q",
-      "title": "TEKKEN 8 – Yujiro Hanma Teaser",
-      "description": "The Strongest Creature on Earth\nJOINS THE BATTLE!!💥\n\nYujiro Hanma joins the #TEKKEN8 roster as the 4th additional playable character in early 2027🔥",
-      "channel_title": "Bandai Namco Entertainment America",
-      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
-      "published_at": "2026-05-24T21:54:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
-      "duration": "PT1M36S",
-      "duration_seconds": 96,
-      "view_count": 1267462,
-      "like_count": 81044,
-      "comment_count": 9660,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
-    },
-    {
-      "video_id": "IpzsiGdI3F4",
-      "title": "Colorado Avalanche at Vegas Golden Knights",
-      "description": "The Colorado Avalanche and Vegas Golden Knights clash in Game 3 of the Western Conference Final. Vegas leads 2-0 after a 3-1 win fueled by Ivan Barbashev. Vegas tries to build its streak while Colorado aims to bounce back as rivals drop the puck.",
-      "channel_title": "ESPN",
-      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
-      "published_at": "2026-05-25T10:02:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IpzsiGdI3F4/hqdefault.jpg",
-      "duration": "PT3H3M50S",
-      "duration_seconds": 11030,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=IpzsiGdI3F4"
     },
     {
       "video_id": "B9d-wISnm8s",
@@ -279,9 +234,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/B9d-wISnm8s/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 959899,
-      "like_count": 34846,
-      "comment_count": 1276,
+      "view_count": 1223343,
+      "like_count": 41293,
+      "comment_count": 1421,
       "category_id": "24",
       "tags": [
         "maa inti bangaram",
@@ -298,13 +253,47 @@
       "url": "https://www.youtube.com/watch?v=B9d-wISnm8s"
     },
     {
-      "video_id": "n5XwlroFcM8",
-      "title": "The Will Cain Show",
-      "description": "Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.",
+      "video_id": "3csVWs4ac98",
+      "title": "New York Yankees at Kansas City Royals",
+      "description": "The New York Yankees and the Kansas City Royals meet at Kauffman Stadium for a series opener match. Cam Schlittler is the projected starter for the New York Yankees. Bobby Witt Jr. leads the Royals in batting average while Ben Rice leads the Yankees.",
+      "channel_title": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "published_at": "2026-05-26T05:12:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3csVWs4ac98/hqdefault.jpg",
+      "duration": "PT2H36M11S",
+      "duration_seconds": 9371,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=3csVWs4ac98"
+    },
+    {
+      "video_id": "bvXW2ArNz7Q",
+      "title": "TEKKEN 8 – Yujiro Hanma Teaser",
+      "description": "The Strongest Creature on Earth\nJOINS THE BATTLE!!💥\n\nYujiro Hanma joins the #TEKKEN8 roster as the 4th additional playable character in early 2027🔥",
+      "channel_title": "Bandai Namco Entertainment America",
+      "channel_id": "UC_ntXHv-XdKCD7CPynVvnQw",
+      "published_at": "2026-05-24T21:54:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
+      "duration": "PT1M36S",
+      "duration_seconds": 96,
+      "view_count": 1291543,
+      "like_count": 82047,
+      "comment_count": 9723,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
+    },
+    {
+      "video_id": "RMs7BRDLJQk",
+      "title": "The Five",
+      "description": "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-26T03:53:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n5XwlroFcM8/hqdefault.jpg",
+      "published_at": "2026-05-26T05:22:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RMs7BRDLJQk/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -312,7 +301,7 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=n5XwlroFcM8"
+      "url": "https://www.youtube.com/watch?v=RMs7BRDLJQk"
     },
     {
       "video_id": "BD9-lHuu2zw",
@@ -324,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BD9-lHuu2zw/hqdefault.jpg",
       "duration": "PT12M15S",
       "duration_seconds": 735,
-      "view_count": 60565,
-      "like_count": 2514,
-      "comment_count": 238,
+      "view_count": 85998,
+      "like_count": 3024,
+      "comment_count": 265,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=BD9-lHuu2zw"
@@ -341,9 +330,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FEropZ_Tq7Y/hqdefault.jpg",
       "duration": "PT2H49M6S",
       "duration_seconds": 10146,
-      "view_count": 1368166,
-      "like_count": 86618,
-      "comment_count": 20040,
+      "view_count": 1621422,
+      "like_count": 93923,
+      "comment_count": 21287,
       "category_id": "20",
       "tags": [
         "spoke",
@@ -360,32 +349,38 @@
       "url": "https://www.youtube.com/watch?v=FEropZ_Tq7Y"
     },
     {
-      "video_id": "b1u1kUdDOys",
-      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
-      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
-      "channel_title": "VALORANT",
-      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
-      "published_at": "2026-05-25T13:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 415983,
-      "like_count": 18061,
-      "comment_count": 1117,
-      "category_id": "20",
-      "tags": [
-        "VALORANT trailer",
-        "VALORANT",
-        "VALORANT game",
-        "valorant act IV",
-        "Season 2026",
-        "S26",
-        "VALORANT act 4",
-        "fps",
-        "shooters",
-        "tactical FPS"
-      ],
-      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
+      "video_id": "inkuorcf9MM",
+      "title": "Day 2, Evening Session",
+      "description": "From Roland Garros Stadium in Paris, France.",
+      "channel_title": "TNT",
+      "channel_id": "UCMrLeKNQLIcj2l1k4yqkILQ",
+      "published_at": "2026-05-26T05:57:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/inkuorcf9MM/hqdefault.jpg",
+      "duration": "PT3H44M11S",
+      "duration_seconds": 13451,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=inkuorcf9MM"
+    },
+    {
+      "video_id": "bFJBbzJsAYc",
+      "title": "Pearl Harbor",
+      "description": "Two pilots and lifelong friends (Ben Affleck, Josh Hartnett) fall for the same woman, but must put aside their differences when the Japanese attack their naval base on Dec. 7, 1941.",
+      "channel_title": "TBS",
+      "channel_id": "UCD9-oAYJYLAX5GAKCz_48SA",
+      "published_at": "2026-05-26T04:33:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bFJBbzJsAYc/hqdefault.jpg",
+      "duration": "PT3H31M6S",
+      "duration_seconds": 12666,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=bFJBbzJsAYc"
     },
     {
       "video_id": "pJ0StErUAU8",
@@ -403,23 +398,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=pJ0StErUAU8"
-    },
-    {
-      "video_id": "EMJuk-s8rCs",
-      "title": "The CJ Cup Byron Nelson, Final Round",
-      "description": "The fourth and final round of the PGA Tour Byron Nelson concludes at TPC Craig Ranch. The surviving leaders battle through Championship Sunday to conquer the final 18 holes of stroke play and secure the tournament trophy in McKinney, Texas.",
-      "channel_title": "Golf Channel",
-      "channel_id": "UCChSzsVWe1H3Kc2Fqn4atEQ",
-      "published_at": "2026-05-25T03:39:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EMJuk-s8rCs/hqdefault.jpg",
-      "duration": "PT2H5M20S",
-      "duration_seconds": 7520,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
     }
   ],
   "analysis": {
@@ -427,74 +405,61 @@
     "metadata_based": {
       "overview": {
         "total_videos": 10,
-        "total_views": 23930631,
-        "average_views_per_video": 2393063.1
+        "total_views": 24621516
       },
       "content_trends": {
         "music_and_entertainment": {
-          "description": "Music and entertainment continue to dominate YouTube trends, as evidenced by Shakira's video and the TEKKEN 8 teaser.",
-          "insights": [
-            "Music videos have a high engagement rate, often leading to viral trends.",
-            "Gaming teasers and trailers, such as TEKKEN 8, consistently attract significant viewership."
-          ]
-        },
-        "gaming": {
-          "description": "Gaming content remains a popular category with diverse sub-genres, including teasers, trailers, and gameplay simulations.",
-          "insights": [
-            "The VALORANT and Minecraft videos indicate a strong interest in both competitive gaming content and creative gameplay challenges."
-          ]
+          "description": "Music and entertainment videos, such as Shakira's and the Spider-Man trailer, are prevalent. These genres consistently attract high viewer engagement.",
+          "percentage": 20,
+          "market_opportunity": "Capitalize on high-profile collaborations and popular franchises to drive engagement."
         },
         "sports": {
-          "description": "Sports content, such as the Colorado Avalanche game and The CJ Cup, garners substantial interest, especially major league and tournament events.",
-          "insights": [
-            "Live sports events and highlight reels are potent drivers of viewership on digital platforms."
-          ]
+          "description": "Sports-related content, like the New York Yankees game, continues to capture significant attention.",
+          "percentage": 10,
+          "market_opportunity": "Leverage major sporting events and highlights to attract sports enthusiasts."
+        },
+        "gaming": {
+          "description": "Gaming content, as seen with TEKKEN 8 and Minecraft, shows strong appeal, particularly in the teaser format.",
+          "percentage": 20,
+          "market_opportunity": "Engage gaming audiences with exclusive content, trailers, and community-driven events."
         },
         "news_and_politics": {
-          "description": "News and political content, as represented by The Will Cain Show, continue to attract audiences looking for commentary and analysis.",
-          "insights": [
-            "Timely news content can drive engagement, particularly around trending topics or significant events."
-          ]
+          "description": "News segments, represented by 'The Five', indicate ongoing interest in current events.",
+          "percentage": 10,
+          "market_opportunity": "Position news content around trending topics and breaking news for increased visibility."
         },
-        "regional_cinema": {
-          "description": "Regional cinema, such as the Telugu trailer 'Maa Inti Bangaaram,' captures niche audiences.",
-          "insights": [
-            "There is growing interest in regional content, suggesting opportunities for creators to tap into localized markets."
-          ]
+        "historical_and_documentary": {
+          "description": "Interest in historical and documentary content, such as 'Pearl Harbor', suggests a niche but engaged audience.",
+          "percentage": 10,
+          "market_opportunity": "Develop in-depth, educational content to attract viewers interested in historical narratives."
         }
       },
       "creator_patterns": {
-        "celebrity_influence": {
-          "description": "Celebrity channels, like Shakira's, have a powerful influence on driving traffic and engagement.",
-          "insights": [
-            "Leveraging celebrity status can significantly boost viewership and broaden audience reach."
-          ]
+        "collaborations": {
+          "description": "Collaborative content featuring notable personalities, such as Shakira with Burna Boy, tends to perform well.",
+          "strategy": "Encourage creators to collaborate with influencers or celebrities to expand reach."
         },
-        "gaming_channels": {
-          "description": "Channels dedicated to gaming, such as Bandai Namco, consistently engage a dedicated audience base.",
-          "insights": [
-            "Gaming channels should focus on timely releases of content, such as trailer launches and game updates, to maximize engagement."
-          ]
+        "trailer_and_teaser_effectiveness": {
+          "description": "Trailers and teasers, as seen with TEKKEN 8 and Spider-Man, generate excitement and anticipation.",
+          "strategy": "Utilize teaser content to build hype for upcoming releases or events."
+        },
+        "language_and_region_specific_content": {
+          "description": "Content in regional languages, like 'Maa Inti Bangaaram', targets specific demographics effectively.",
+          "strategy": "Create localized content to connect with regional audiences and tap into diverse markets."
         }
       },
       "market_opportunities": {
-        "cross-market_collaborations": {
-          "description": "Opportunities exist for cross-market collaborations, especially between music and gaming.",
-          "actionable_suggestions": [
-            "Explore partnerships between musicians and game developers to create unique crossover content."
-          ]
+        "emerging_genres": {
+          "description": "Capitalize on emerging genres, such as simulation and immersive experiences in gaming.",
+          "actionable_insights": "Invest in innovative content formats like VR/AR experiences to capture forward-thinking audiences."
         },
-        "localized_content": {
-          "description": "Localized content, including regional films and series, has untapped potential.",
-          "actionable_suggestions": [
-            "Invest in regional content production and localized marketing strategies to capture specific demographic segments."
-          ]
+        "cross-platform promotion": {
+          "description": "Utilize cross-platform promotion to amplify reach, especially for sports and entertainment content.",
+          "actionable_insights": "Integrate with social media campaigns and partner with streaming platforms for broader exposure."
         },
-        "live_and_interactive_content": {
-          "description": "Interactive content, such as live sports and gaming streams, is ripe for growth.",
-          "actionable_suggestions": [
-            "Enhance live streaming capabilities and incorporate interactive elements to increase viewer engagement."
-          ]
+        "audience_engagement": {
+          "description": "Interactive content, like '1000 Players Simulate PRISON in Hardcore Minecraft', fosters high engagement.",
+          "actionable_insights": "Encourage audience participation through challenges, live streams, and user-generated content."
         }
       },
       "metadata_stats": {
@@ -503,7 +468,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2393063
+        "avg_views_per_video": 2462151
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
