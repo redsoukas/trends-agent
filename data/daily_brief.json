@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-25T21:32:09.724988",
-  "date": "2026-05-25",
+  "timestamp": "2026-05-26T01:06:27.143776",
+  "date": "2026-05-26",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 17832259,
-      "like_count": 1137950,
-      "comment_count": 68646,
+      "view_count": 18949348,
+      "like_count": 1173990,
+      "comment_count": 69898,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 1160907,
-      "like_count": 76979,
-      "comment_count": 9350,
+      "view_count": 1227400,
+      "like_count": 79437,
+      "comment_count": 9545,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
@@ -73,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/B9d-wISnm8s/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 740253,
-      "like_count": 25839,
-      "comment_count": 1032,
+      "view_count": 823232,
+      "like_count": 27490,
+      "comment_count": 1079,
       "category_id": "24",
       "tags": [
         "maa inti bangaram",
@@ -90,6 +90,51 @@
         "new movie teasers"
       ],
       "url": "https://www.youtube.com/watch?v=B9d-wISnm8s"
+    },
+    {
+      "video_id": "UN5xcfngNvI",
+      "title": "Fox News Live",
+      "description": "Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-25T21:22:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UN5xcfngNvI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UN5xcfngNvI"
+    },
+    {
+      "video_id": "b1u1kUdDOys",
+      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
+      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
+      "channel_title": "VALORANT",
+      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
+      "published_at": "2026-05-25T13:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
+      "duration": "PT1M32S",
+      "duration_seconds": 92,
+      "view_count": 385094,
+      "like_count": 17418,
+      "comment_count": 1070,
+      "category_id": "20",
+      "tags": [
+        "VALORANT trailer",
+        "VALORANT",
+        "VALORANT game",
+        "valorant act IV",
+        "Season 2026",
+        "S26",
+        "VALORANT act 4",
+        "fps",
+        "shooters",
+        "tactical FPS"
+      ],
+      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
     },
     {
       "video_id": "EMJuk-s8rCs",
@@ -109,51 +154,6 @@
       "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
     },
     {
-      "video_id": "b1u1kUdDOys",
-      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
-      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
-      "channel_title": "VALORANT",
-      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
-      "published_at": "2026-05-25T13:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 340401,
-      "like_count": 16409,
-      "comment_count": 1021,
-      "category_id": "20",
-      "tags": [
-        "VALORANT trailer",
-        "VALORANT",
-        "VALORANT game",
-        "valorant act IV",
-        "Season 2026",
-        "S26",
-        "VALORANT act 4",
-        "fps",
-        "shooters",
-        "tactical FPS"
-      ],
-      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
-    },
-    {
-      "video_id": "1CyMjLnYh50",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-25T18:08:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1CyMjLnYh50/hqdefault.jpg",
-      "duration": "PT1H1M30S",
-      "duration_seconds": 3690,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1CyMjLnYh50"
-    },
-    {
       "video_id": "JdM39bSS-JY",
       "title": "Paralives - Launch Trailer",
       "description": "🗣PARALIVES IS OUT NOW ‼️\n\nPlay in Early Access now on Steam with 10% off during the release week! \n\n➡️ Get Paralives on Steam now: https://store.steampowered.com/app/1118520/Paralives/\n\n💛 Thank you so much to all our Patrons who've supported the development on Patreon: https://www.patreon.com/c/alexmasse\n\n🗣️ Join the Discord community to share ideas: https://discord.com/invite/paralives\n\nThe music is by our in-house composer, Andrei Castañon.\n\n#Paralives #LifeSim",
@@ -163,9 +163,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JdM39bSS-JY/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 89502,
-      "like_count": 12337,
-      "comment_count": 824,
+      "view_count": 113686,
+      "like_count": 13568,
+      "comment_count": 905,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JdM39bSS-JY"
@@ -173,16 +173,16 @@
     {
       "video_id": "FEropZ_Tq7Y",
       "title": "1000 Players Simulate PRISON in Hardcore Minecraft",
-      "description": "On the Unstable SMP,  over 1000 players have been captured and trapped inside the largest prison on the server. This is the full story of how I escaped Purgatory...\n\n1000 Players Simulate PRISON in Hardcore Minecraft\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @jamatopecan @MapiccMc @jumperwho @Vixuality @devMCchamp2 ItsAli @found2fast(twitch) @n3tm3tr1x (https://www.youtube.com/@n3tm3tr1x) & all of the trusted members!\n\nmusic: \nHollow Knight: Silksong soundtrack by Christopher Larkin (https://www.youtube.com/watch?v=Q6is6K8jbho&pp=ygUTc2lsa3Nvbmcgc291bmR0cmFjaw%3D%3D)\nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best storie",
+      "description": "On the Unstable SMP,  over 1000 players have been captured and trapped inside the largest prison on the server. This is the full story of how I escaped Purgatory...\n\n1000 Players Simulate PRISON in Hardcore Minecraft\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @jamatopecan @MapiccMc @jumperwho @devMCchamp2 ItsAli @found2fast(twitch) @n3tm3tr1x (https://www.youtube.com/@n3tm3tr1x) & all of the trusted members!\n\nmusic: \nHollow Knight: Silksong soundtrack by Christopher Larkin (https://www.youtube.com/watch?v=Q6is6K8jbho&pp=ygUTc2lsa3Nvbmcgc291bmR0cmFjaw%3D%3D)\nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible.",
       "channel_title": "Spoke",
       "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
       "published_at": "2026-05-25T16:11:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FEropZ_Tq7Y/hqdefault.jpg",
       "duration": "PT2H49M6S",
       "duration_seconds": 10146,
-      "view_count": 624200,
-      "like_count": 63140,
-      "comment_count": 15943,
+      "view_count": 1068885,
+      "like_count": 76668,
+      "comment_count": 18292,
       "category_id": "20",
       "tags": [
         "spoke",
@@ -199,32 +199,21 @@
       "url": "https://www.youtube.com/watch?v=FEropZ_Tq7Y"
     },
     {
-      "video_id": "p5d7y1cbWIk",
-      "title": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
-      "description": "Don't miss the Unreal Engine 6 Reveal Announcement for Rocket League, the hit action vehicular football (soccer) game developed by Psyonix and Epic Games. Players can get the first look at the new era of Rocket League announced at the Paris Majors, with the reveal of a new version of Rocket League coming soon that's powered by Unreal Engine 6. Get the first look at Unreal Engine 6 in Rocket League, coming soon to consoles and PC.\n\n#ign #gaming",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-05-24T17:20:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
-      "duration": "PT1M20S",
-      "duration_seconds": 80,
-      "view_count": 282915,
-      "like_count": 5930,
-      "comment_count": 1475,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Futuristic",
-        "Live Service",
-        "Nintendo Switch",
-        "Online",
-        "PC",
-        "Panic Button",
-        "PlayStation 4",
-        "Psyonix",
-        "Racing"
-      ],
-      "url": "https://www.youtube.com/watch?v=p5d7y1cbWIk"
+      "video_id": "pDWe1kaM2fU",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-25T22:11:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pDWe1kaM2fU/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pDWe1kaM2fU"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +228,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fcnDmrtj6Sk/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 17832259,
-      "like_count": 1137950,
-      "comment_count": 68646,
+      "view_count": 18949348,
+      "like_count": 1173990,
+      "comment_count": 69898,
       "category_id": "26",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
@@ -256,9 +245,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bvXW2ArNz7Q/hqdefault.jpg",
       "duration": "PT1M36S",
       "duration_seconds": 96,
-      "view_count": 1160907,
-      "like_count": 76979,
-      "comment_count": 9350,
+      "view_count": 1227400,
+      "like_count": 79437,
+      "comment_count": 9545,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
@@ -290,9 +279,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/B9d-wISnm8s/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 740253,
-      "like_count": 25839,
-      "comment_count": 1032,
+      "view_count": 823232,
+      "like_count": 27490,
+      "comment_count": 1079,
       "category_id": "24",
       "tags": [
         "maa inti bangaram",
@@ -307,6 +296,51 @@
         "new movie teasers"
       ],
       "url": "https://www.youtube.com/watch?v=B9d-wISnm8s"
+    },
+    {
+      "video_id": "UN5xcfngNvI",
+      "title": "Fox News Live",
+      "description": "Covering the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.",
+      "channel_title": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "published_at": "2026-05-25T21:22:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UN5xcfngNvI/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=UN5xcfngNvI"
+    },
+    {
+      "video_id": "b1u1kUdDOys",
+      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
+      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
+      "channel_title": "VALORANT",
+      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
+      "published_at": "2026-05-25T13:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
+      "duration": "PT1M32S",
+      "duration_seconds": 92,
+      "view_count": 385094,
+      "like_count": 17418,
+      "comment_count": 1070,
+      "category_id": "20",
+      "tags": [
+        "VALORANT trailer",
+        "VALORANT",
+        "VALORANT game",
+        "valorant act IV",
+        "Season 2026",
+        "S26",
+        "VALORANT act 4",
+        "fps",
+        "shooters",
+        "tactical FPS"
+      ],
+      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
     },
     {
       "video_id": "EMJuk-s8rCs",
@@ -326,51 +360,6 @@
       "url": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
     },
     {
-      "video_id": "b1u1kUdDOys",
-      "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
-      "description": "Defy, advance, and go Rogue with a tactical kit engineered for precision.\n\nThe Rogue skinline includes a Push Dagger Melee, Vandal, Bucky, Operator, and Bandit.\n\n—\nMusic:\n“Undertow” by Brand X Music\nMusic Supervision: Riot Games Music Team\n\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n#VALORANT #RIOTGAMES #ROGUE",
-      "channel_title": "VALORANT",
-      "channel_id": "UC8CX0LD98EDXl4UYX1MDCXg",
-      "published_at": "2026-05-25T13:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b1u1kUdDOys/hqdefault.jpg",
-      "duration": "PT1M32S",
-      "duration_seconds": 92,
-      "view_count": 340401,
-      "like_count": 16409,
-      "comment_count": 1021,
-      "category_id": "20",
-      "tags": [
-        "VALORANT trailer",
-        "VALORANT",
-        "VALORANT game",
-        "valorant act IV",
-        "Season 2026",
-        "S26",
-        "VALORANT act 4",
-        "fps",
-        "shooters",
-        "tactical FPS"
-      ],
-      "url": "https://www.youtube.com/watch?v=b1u1kUdDOys"
-    },
-    {
-      "video_id": "1CyMjLnYh50",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
-      "channel_title": "FOX News",
-      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-25T18:08:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1CyMjLnYh50/hqdefault.jpg",
-      "duration": "PT1H1M30S",
-      "duration_seconds": 3690,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=1CyMjLnYh50"
-    },
-    {
       "video_id": "JdM39bSS-JY",
       "title": "Paralives - Launch Trailer",
       "description": "🗣PARALIVES IS OUT NOW ‼️\n\nPlay in Early Access now on Steam with 10% off during the release week! \n\n➡️ Get Paralives on Steam now: https://store.steampowered.com/app/1118520/Paralives/\n\n💛 Thank you so much to all our Patrons who've supported the development on Patreon: https://www.patreon.com/c/alexmasse\n\n🗣️ Join the Discord community to share ideas: https://discord.com/invite/paralives\n\nThe music is by our in-house composer, Andrei Castañon.\n\n#Paralives #LifeSim",
@@ -380,9 +369,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JdM39bSS-JY/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 89502,
-      "like_count": 12337,
-      "comment_count": 824,
+      "view_count": 113686,
+      "like_count": 13568,
+      "comment_count": 905,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=JdM39bSS-JY"
@@ -390,16 +379,16 @@
     {
       "video_id": "FEropZ_Tq7Y",
       "title": "1000 Players Simulate PRISON in Hardcore Minecraft",
-      "description": "On the Unstable SMP,  over 1000 players have been captured and trapped inside the largest prison on the server. This is the full story of how I escaped Purgatory...\n\n1000 Players Simulate PRISON in Hardcore Minecraft\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @jamatopecan @MapiccMc @jumperwho @Vixuality @devMCchamp2 ItsAli @found2fast(twitch) @n3tm3tr1x (https://www.youtube.com/@n3tm3tr1x) & all of the trusted members!\n\nmusic: \nHollow Knight: Silksong soundtrack by Christopher Larkin (https://www.youtube.com/watch?v=Q6is6K8jbho&pp=ygUTc2lsa3Nvbmcgc291bmR0cmFjaw%3D%3D)\nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best storie",
+      "description": "On the Unstable SMP,  over 1000 players have been captured and trapped inside the largest prison on the server. This is the full story of how I escaped Purgatory...\n\n1000 Players Simulate PRISON in Hardcore Minecraft\n\n\nUnstable SMP Members\n➜ @wemmbumc \n➜ @FlameFragsMC \n➜ @ParrotX2 \n➜ @Spokeishere \n\n\n\n\n\npossible spoilers below this point\n\nFeatures: @jamatopecan @MapiccMc @jumperwho @devMCchamp2 ItsAli @found2fast(twitch) @n3tm3tr1x (https://www.youtube.com/@n3tm3tr1x) & all of the trusted members!\n\nmusic: \nHollow Knight: Silksong soundtrack by Christopher Larkin (https://www.youtube.com/watch?v=Q6is6K8jbho&pp=ygUTc2lsa3Nvbmcgc291bmR0cmFjaw%3D%3D)\nIvory /  @ivoryfrill  &  @MythrodakTV  \nDM DOKURO /  @DMDOKURO  \nChris Christodoulou /  @AstronautDown  \nPascal Stiefel /  @Plasma3Music  \nLena Raine / @LenaRaine \nC418 / @C418\nPeter McConnell\n\nThis is a video on the Unstable Universe: a staged Minecraft server where Spoke, Wemmbu, FlameFrags, and ParrotX2 aim to tell the best stories possible.",
       "channel_title": "Spoke",
       "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
       "published_at": "2026-05-25T16:11:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FEropZ_Tq7Y/hqdefault.jpg",
       "duration": "PT2H49M6S",
       "duration_seconds": 10146,
-      "view_count": 624200,
-      "like_count": 63140,
-      "comment_count": 15943,
+      "view_count": 1068885,
+      "like_count": 76668,
+      "comment_count": 18292,
       "category_id": "20",
       "tags": [
         "spoke",
@@ -416,90 +405,83 @@
       "url": "https://www.youtube.com/watch?v=FEropZ_Tq7Y"
     },
     {
-      "video_id": "p5d7y1cbWIk",
-      "title": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
-      "description": "Don't miss the Unreal Engine 6 Reveal Announcement for Rocket League, the hit action vehicular football (soccer) game developed by Psyonix and Epic Games. Players can get the first look at the new era of Rocket League announced at the Paris Majors, with the reveal of a new version of Rocket League coming soon that's powered by Unreal Engine 6. Get the first look at Unreal Engine 6 in Rocket League, coming soon to consoles and PC.\n\n#ign #gaming",
-      "channel_title": "IGN",
-      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "published_at": "2026-05-24T17:20:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p5d7y1cbWIk/hqdefault.jpg",
-      "duration": "PT1M20S",
-      "duration_seconds": 80,
-      "view_count": 282915,
-      "like_count": 5930,
-      "comment_count": 1475,
-      "category_id": "20",
-      "tags": [
-        "Action",
-        "Futuristic",
-        "Live Service",
-        "Nintendo Switch",
-        "Online",
-        "PC",
-        "Panic Button",
-        "PlayStation 4",
-        "Psyonix",
-        "Racing"
-      ],
-      "url": "https://www.youtube.com/watch?v=p5d7y1cbWIk"
+      "video_id": "pDWe1kaM2fU",
+      "title": "Morning Joe",
+      "description": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+      "channel_title": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "published_at": "2026-05-25T22:11:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pDWe1kaM2fU/hqdefault.jpg",
+      "duration": "PT4H1M6S",
+      "duration_seconds": 14466,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=pDWe1kaM2fU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "totalVideos": 10,
-        "totalViews": 21070437,
-        "averageViewsPerVideo": 2107043.7,
-        "categories": "Unknown"
+        "total_videos": 10,
+        "total_views": 22567645,
+        "average_views_per_video": 2256764.5
       },
-      "contentTrends": {
-        "musicAndEntertainment": {
-          "description": "Music videos, particularly collaborations with popular artists like Shakira and Burna Boy, continue to be highly engaging. This suggests a strong audience interest in music and entertainment content.",
-          "marketOpportunity": "Leverage collaborations with trending artists to boost video engagement."
+      "content_trends": {
+        "music_and_entertainment": {
+          "description": "Music and entertainment-related videos, such as music videos and trailers, are prominently featured, indicating high engagement.",
+          "examples": [
+            "Shakira, Burna Boy - Dai Dai (Official Video)",
+            "TEKKEN 8 – Yujiro Hanma Teaser",
+            "Maa Inti Bangaaram - Official Trailer"
+          ],
+          "insight": "Investing in high-quality production and featuring popular artists or franchises can lead to increased viewer engagement."
         },
         "gaming": {
-          "description": "Gaming-related content remains popular with titles like 'TEKKEN 8', 'VALORANT', and 'Rocket League'.",
-          "marketOpportunity": "Create content around new game releases and updates to capture audience interest in the gaming sector."
+          "description": "Gaming content, such as trailers and gameplay simulations, is trending.",
+          "examples": [
+            "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
+            "1000 Players Simulate PRISON in Hardcore Minecraft"
+          ],
+          "insight": "Gaming remains a strong category on YouTube, with opportunities for growth in content related to major game releases and community-driven simulations."
         },
-        "sports": {
-          "description": "Sports events coverage, such as the 'Colorado Avalanche at Vegas Golden Knights' and 'The CJ Cup Byron Nelson, Final Round', are trending, indicating a consistent interest in sports content.",
-          "marketOpportunity": "Explore partnerships with sports channels or create content that offers in-depth analysis or highlights of trending sports events."
-        },
-        "trailersAndAnnouncements": {
-          "description": "Video game and movie trailers, such as 'Maa Inti Bangaaram' and 'Paralives', are among the trending content.",
-          "marketOpportunity": "Focus on creating exclusive content around upcoming releases and behind-the-scenes insights to attract viewers."
+        "news_and_sports": {
+          "description": "News and sports events maintain a steady presence among trending content.",
+          "examples": [
+            "Fox News Live",
+            "Colorado Avalanche at Vegas Golden Knights"
+          ],
+          "insight": "Timely coverage of current events and sports can capture the attention of a diverse audience, particularly when associated with major networks or popular teams."
         }
       },
-      "creatorPatterns": {
-        "topChannels": [
-          "Shakira",
-          "Bandai Namco Entertainment America",
-          "ESPN",
-          "Think Music Telugu",
-          "Golf Channel"
-        ],
-        "diversityOfContent": {
-          "description": "The top channels are diverse, covering music, gaming, sports, and regional content.",
-          "strategy": "Consider cross-collaborations between different content types to reach broader audiences."
+      "creator_patterns": {
+        "dominant_channels": {
+          "description": "Channels with strong brand recognition, such as Shakira and FOX News, are more likely to feature in trending lists.",
+          "examples": [
+            "Shakira",
+            "Bandai Namco Entertainment America",
+            "FOX News"
+          ],
+          "insight": "Leveraging established brand names and partnerships with popular artists or franchises can enhance visibility and viewer engagement."
         },
-        "videoEngagement": {
-          "description": "High view counts suggest effective engagement tactics. These could include strategic video releases, leveraging audience anticipation, and active promotion.",
-          "recommendation": "Utilize similar strategies like strategic release timing and promotional campaigns."
+        "diversity_in_content": {
+          "description": "Trending videos span a variety of content types, including music, gaming, sports, and news.",
+          "insight": "Creators should consider diversifying their content to reach broader audiences and maintain viewer interest across different demographics."
         }
       },
-      "marketOpportunities": {
-        "crossPromotion": {
-          "description": "Diverse channel topics suggest potential for cross-promotional activities between music, gaming, and sports.",
-          "action": "Identify and collaborate with channels in complementary niches for audience cross-pollination."
+      "market_opportunities": {
+        "cross-promotion": {
+          "description": "Opportunities exist for cross-promotional content between entertainment and other sectors.",
+          "example": "A collaboration between gaming and music artists for a game soundtrack or special in-game event.",
+          "insight": "Leveraging cross-industry collaborations can expand audience reach and create unique content experiences."
         },
-        "regionalContent": {
-          "description": "The presence of regional content like 'Maa Inti Bangaaram' indicates a niche market for localized content.",
-          "action": "Develop content tailored to regional audiences to tap into localized markets."
-        },
-        "eventCoverage": {
-          "description": "Trending sports event coverage offers opportunities for real-time engagement.",
-          "action": "Capitalize on live events and trending sports topics by providing timely content updates and analyses."
+        "localized_content": {
+          "description": "Given the presence of regional content, such as Telugu trailers, there is potential in targeting regional markets with localized content.",
+          "example": "Maa Inti Bangaaram - Official Trailer | Samantha | Raj Nidimoru | Nandini Reddy",
+          "insight": "Creating content that resonates with regional cultures and languages can tap into niche markets and foster community engagement."
         }
       },
       "metadata_stats": {
@@ -508,7 +490,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2107043
+        "avg_views_per_video": 2256764
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
