@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-27T21:39:58.720427",
-  "date": "2026-05-27",
+  "timestamp": "2026-05-28T01:03:15.455273",
+  "date": "2026-05-28",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 3,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 1128868,
-      "like_count": 97535,
-      "comment_count": 6501,
+      "view_count": 1592773,
+      "like_count": 110470,
+      "comment_count": 7077,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -59,9 +59,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 431314,
-      "like_count": 97643,
-      "comment_count": 7062,
+      "view_count": 518044,
+      "like_count": 106332,
+      "comment_count": 7388,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
@@ -76,9 +76,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 662124,
-      "like_count": 34367,
-      "comment_count": 1737,
+      "view_count": 804719,
+      "like_count": 37444,
+      "comment_count": 1804,
       "category_id": "24",
       "tags": [
         "Action",
@@ -95,13 +95,13 @@
       "url": "https://www.youtube.com/watch?v=g1fq327snPU"
     },
     {
-      "video_id": "ffJEDMvOTfY",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "LWj1tiDD4xw",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-27T20:32:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ffJEDMvOTfY/hqdefault.jpg",
+      "published_at": "2026-05-27T20:48:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LWj1tiDD4xw/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -109,7 +109,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ffJEDMvOTfY"
+      "url": "https://www.youtube.com/watch?v=LWj1tiDD4xw"
+    },
+    {
+      "video_id": "0is_VwWU3EE",
+      "title": "A Perfect Circle - \"Starless\" (Official Visualizer)",
+      "description": "“Starless” \n\nStream, download or get the limited-edition 7-inch vinyl: https://apc.lnk.to/Starless\n\nGet tickets to our upcoming tour: https://www.aperfectcircle.com/\n\n3 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n4 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n6 June   Nürnberg, DE  Rock Im Park\n7 June   Nürburg, DE  Rock Am Ring\n9 June   München, DE   Zenith ^\n10 June   Warszawa, PL   Torwar ^\n12 June   Wien, AT   Nova Rock Festival\n13 June   Ferrara, IT   Ferrara Summer Festival ^!\n15 June   Budapest, HU   Budapest Park ^\n16 June   Zagreb, HR   SRC Šalata !\n18 June   Zürich, CH   Halle622 ^\n20 June  Clisson, FR  Hellfest\n21 June   Düsseldorf, DE   Mitsubishi Hall ^\n23 June  Tilburg, NL  Poppodium 013 !\n24 June   Amsterdam, NL   AFAS Live !\n26 June   København, DK  Copenhell\n27 June   Oslo, NO  Tons of Rock\n28 June   Stockholm, SE   Gröna Lund\n1 July   Berlin, DE   Zitadelle ^\n2 July   Praha, CZ   Forum Karlín ^\n4 July   Esch-sur-Alzette, LU   Rockhal\n5 July   Werchter, ",
+      "channel_title": "A Perfect Circle",
+      "channel_id": "UC0UUsQjUpLtlG6dF60DQeIQ",
+      "published_at": "2026-05-27T14:59:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
+      "duration": "PT4M33S",
+      "duration_seconds": 273,
+      "view_count": 99717,
+      "like_count": 13210,
+      "comment_count": 1415,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
     },
     {
       "video_id": "sCRie0bKvtE",
@@ -121,9 +138,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sCRie0bKvtE/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 78895,
-      "like_count": 4245,
-      "comment_count": 767,
+      "view_count": 112655,
+      "like_count": 5151,
+      "comment_count": 880,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sCRie0bKvtE"
@@ -146,77 +163,53 @@
       "url": "https://www.youtube.com/watch?v=Bl3I_eqBVUs"
     },
     {
-      "video_id": "_Fh2xDTDLiw",
-      "title": "My Singing Monsters - Current Affairs (Official Crystal Islet Trailer)",
-      "description": "DOWNLOAD MY SINGING MONSTERS\nhttps://bigbl.be/PlayMySingingMonsters\n\nBUY MY SINGING MONSTERS OFFICIAL MERCH\nhttps://singingmonsters.store/\n\nJOIN THE DISCORD\nhttps://discord.gg/mysingingmonsters\n\nMY SINGING MONSTERS WEB SHOP\nhttps://store.mysingingmonsters.com/\n\nFOLLOW MY SINGING MONSTERS\nhttps://www.tiktok.com/@mysingingmonsters\nhttps://www.instagram.com/MySingingMonsters\nhttps://bsky.app/profile/mysingingmonsters.com\nhttps://www.facebook.com/MySingingMonsters\nhttps://www.twitter.com/SingingMonsters\nhttps://www.bigbluebubble.com/my-singing-monsters-series/\n\nCollect a cast of charming Monsters with a passion for song in the award-winning My Singing Monsters! Download for free: https://bigbl.be/PlayMySingingMonsters\nBreed and feed hundreds of quirky musical Monsters with their own unique sounds to form a furry and feathery orchestra. Then place your Monsters on beautifully decorated and fully-customizable Islands to create catchy tunes that you’ll be singing along to in no time! With so ",
-      "channel_title": "My Singing Monsters",
-      "channel_id": "UCngRsuvI1zxHR9vwNZvpTAw",
-      "published_at": "2026-05-27T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Fh2xDTDLiw/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "duration_seconds": 145,
-      "view_count": 147368,
-      "like_count": 10097,
-      "comment_count": 1853,
-      "category_id": "20",
-      "tags": [
-        "My Singing Monsters",
-        "Mobile Gaming",
-        "Fun",
-        "iOS",
-        "Android",
-        "apps",
-        "mammott",
-        "furcorn",
-        "wublins",
-        "msm"
-      ],
-      "url": "https://www.youtube.com/watch?v=_Fh2xDTDLiw"
-    },
-    {
-      "video_id": "0is_VwWU3EE",
-      "title": "A Perfect Circle - \"Starless\" (Official Visualizer)",
-      "description": "“Starless” \n\nStream, download or get the limited-edition 7-inch vinyl: https://apc.lnk.to/Starless\n\nGet tickets to our upcoming tour: https://www.aperfectcircle.com/\n\n3 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n4 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n6 June   Nürnberg, DE  Rock Im Park\n7 June   Nürburg, DE  Rock Am Ring\n9 June   München, DE   Zenith ^\n10 June   Warszawa, PL   Torwar ^\n12 June   Wien, AT   Nova Rock Festival\n13 June   Ferrara, IT   Ferrara Summer Festival ^!\n15 June   Budapest, HU   Budapest Park ^\n16 June   Zagreb, HR   SRC Šalata !\n18 June   Zürich, CH   Halle622 ^\n20 June  Clisson, FR  Hellfest\n21 June   Düsseldorf, DE   Mitsubishi Hall ^\n23 June  Tilburg, NL  Poppodium 013 !\n24 June   Amsterdam, NL   AFAS Live !\n26 June   København, DK  Copenhell\n27 June   Oslo, NO  Tons of Rock\n28 June   Stockholm, SE   Gröna Lund\n1 July   Berlin, DE   Zitadelle ^\n2 July   Praha, CZ   Forum Karlín ^\n4 July   Esch-sur-Alzette, LU   Rockhal\n5 July   Werchter, ",
-      "channel_title": "A Perfect Circle",
-      "channel_id": "UC0UUsQjUpLtlG6dF60DQeIQ",
-      "published_at": "2026-05-27T14:59:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
-      "duration": "PT4M33S",
-      "duration_seconds": 273,
-      "view_count": 58110,
-      "like_count": 10452,
-      "comment_count": 1158,
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 2232030,
+      "like_count": 24169,
+      "comment_count": 2985,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
+      "tags": [
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
+      ],
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
-      "video_id": "2NomizORoqU",
-      "title": "No Man's Sky The Swarm Trailer",
-      "description": "A new danger has appeared in the No Man's Sky universe. Something terrible hangs in the sky: a huge, foreboding Hive-like ship, unlike anything we've seen before. It has nigh-on impenetrable defences, not least a swarm of smaller and nimbler battle drones which must be neutralised to get close enough to target its primary weapon systems, notably the biggest laser cannon our universe has ever witnessed. \n\nIt will take a combined community effort to take it down, but the Traveller soul is fragmented into three; all three groups are competing for glory, but will also need to co-operate and strategise to take down this existential threat to the universe.\n\nEpic and chaotic space battles await for the bravest and nimblest space pilots who dare to take on this faceless but formidable technological terror which has mysteriously appeared. Fully decked out S-Class ships assemble!\n\nFull patch notes here: https://www.nomanssky.com/swarm-update",
-      "channel_title": "HelloGamesTube",
-      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
-      "published_at": "2026-05-27T12:58:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2NomizORoqU/hqdefault.jpg",
-      "duration": "PT1M31S",
-      "duration_seconds": 91,
-      "view_count": 188332,
-      "like_count": 20047,
-      "comment_count": 2075,
+      "video_id": "shkhWL9eLek",
+      "title": "We Suck at This Basketball Game",
+      "description": "Third Person Basketball is still hilarious. Should we play more? Leave a like.\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Trippayy \n@Yumi \n@imSovi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: ",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-27T20:23:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/shkhWL9eLek/hqdefault.jpg",
+      "duration": "PT41M1S",
+      "duration_seconds": 2461,
+      "view_count": 279774,
+      "like_count": 23527,
+      "comment_count": 1035,
       "category_id": "20",
       "tags": [
-        "no man's sky",
-        "gameplay no man's sky",
-        "nms",
-        "nomanssky",
-        "no mans sky",
-        "nomansky",
-        "no man sky",
-        "nms update",
-        "no mans sky update",
-        "swarm"
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "tpbc",
+        "third person basketball court",
+        "third person basketball court game",
+        "nba 2k",
+        "nba 2k steam game",
+        "fun steam game"
       ],
-      "url": "https://www.youtube.com/watch?v=2NomizORoqU"
+      "url": "https://www.youtube.com/watch?v=shkhWL9eLek"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 1128868,
-      "like_count": 97535,
-      "comment_count": 6501,
+      "view_count": 1592773,
+      "like_count": 110470,
+      "comment_count": 7077,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -268,9 +261,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 431314,
-      "like_count": 97643,
-      "comment_count": 7062,
+      "view_count": 518044,
+      "like_count": 106332,
+      "comment_count": 7388,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
@@ -285,9 +278,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 662124,
-      "like_count": 34367,
-      "comment_count": 1737,
+      "view_count": 804719,
+      "like_count": 37444,
+      "comment_count": 1804,
       "category_id": "24",
       "tags": [
         "Action",
@@ -304,13 +297,13 @@
       "url": "https://www.youtube.com/watch?v=g1fq327snPU"
     },
     {
-      "video_id": "ffJEDMvOTfY",
-      "title": "FOX and Friends",
-      "description": "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.",
+      "video_id": "LWj1tiDD4xw",
+      "title": "America's Newsroom",
+      "description": "Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-27T20:32:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ffJEDMvOTfY/hqdefault.jpg",
+      "published_at": "2026-05-27T20:48:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LWj1tiDD4xw/hqdefault.jpg",
       "duration": "PT1H1M5S",
       "duration_seconds": 3665,
       "view_count": 0,
@@ -318,7 +311,24 @@
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=ffJEDMvOTfY"
+      "url": "https://www.youtube.com/watch?v=LWj1tiDD4xw"
+    },
+    {
+      "video_id": "0is_VwWU3EE",
+      "title": "A Perfect Circle - \"Starless\" (Official Visualizer)",
+      "description": "“Starless” \n\nStream, download or get the limited-edition 7-inch vinyl: https://apc.lnk.to/Starless\n\nGet tickets to our upcoming tour: https://www.aperfectcircle.com/\n\n3 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n4 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n6 June   Nürnberg, DE  Rock Im Park\n7 June   Nürburg, DE  Rock Am Ring\n9 June   München, DE   Zenith ^\n10 June   Warszawa, PL   Torwar ^\n12 June   Wien, AT   Nova Rock Festival\n13 June   Ferrara, IT   Ferrara Summer Festival ^!\n15 June   Budapest, HU   Budapest Park ^\n16 June   Zagreb, HR   SRC Šalata !\n18 June   Zürich, CH   Halle622 ^\n20 June  Clisson, FR  Hellfest\n21 June   Düsseldorf, DE   Mitsubishi Hall ^\n23 June  Tilburg, NL  Poppodium 013 !\n24 June   Amsterdam, NL   AFAS Live !\n26 June   København, DK  Copenhell\n27 June   Oslo, NO  Tons of Rock\n28 June   Stockholm, SE   Gröna Lund\n1 July   Berlin, DE   Zitadelle ^\n2 July   Praha, CZ   Forum Karlín ^\n4 July   Esch-sur-Alzette, LU   Rockhal\n5 July   Werchter, ",
+      "channel_title": "A Perfect Circle",
+      "channel_id": "UC0UUsQjUpLtlG6dF60DQeIQ",
+      "published_at": "2026-05-27T14:59:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
+      "duration": "PT4M33S",
+      "duration_seconds": 273,
+      "view_count": 99717,
+      "like_count": 13210,
+      "comment_count": 1415,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
     },
     {
       "video_id": "sCRie0bKvtE",
@@ -330,9 +340,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sCRie0bKvtE/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 78895,
-      "like_count": 4245,
-      "comment_count": 767,
+      "view_count": 112655,
+      "like_count": 5151,
+      "comment_count": 880,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=sCRie0bKvtE"
@@ -355,144 +365,121 @@
       "url": "https://www.youtube.com/watch?v=Bl3I_eqBVUs"
     },
     {
-      "video_id": "_Fh2xDTDLiw",
-      "title": "My Singing Monsters - Current Affairs (Official Crystal Islet Trailer)",
-      "description": "DOWNLOAD MY SINGING MONSTERS\nhttps://bigbl.be/PlayMySingingMonsters\n\nBUY MY SINGING MONSTERS OFFICIAL MERCH\nhttps://singingmonsters.store/\n\nJOIN THE DISCORD\nhttps://discord.gg/mysingingmonsters\n\nMY SINGING MONSTERS WEB SHOP\nhttps://store.mysingingmonsters.com/\n\nFOLLOW MY SINGING MONSTERS\nhttps://www.tiktok.com/@mysingingmonsters\nhttps://www.instagram.com/MySingingMonsters\nhttps://bsky.app/profile/mysingingmonsters.com\nhttps://www.facebook.com/MySingingMonsters\nhttps://www.twitter.com/SingingMonsters\nhttps://www.bigbluebubble.com/my-singing-monsters-series/\n\nCollect a cast of charming Monsters with a passion for song in the award-winning My Singing Monsters! Download for free: https://bigbl.be/PlayMySingingMonsters\nBreed and feed hundreds of quirky musical Monsters with their own unique sounds to form a furry and feathery orchestra. Then place your Monsters on beautifully decorated and fully-customizable Islands to create catchy tunes that you’ll be singing along to in no time! With so ",
-      "channel_title": "My Singing Monsters",
-      "channel_id": "UCngRsuvI1zxHR9vwNZvpTAw",
-      "published_at": "2026-05-27T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Fh2xDTDLiw/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "duration_seconds": 145,
-      "view_count": 147368,
-      "like_count": 10097,
-      "comment_count": 1853,
-      "category_id": "20",
-      "tags": [
-        "My Singing Monsters",
-        "Mobile Gaming",
-        "Fun",
-        "iOS",
-        "Android",
-        "apps",
-        "mammott",
-        "furcorn",
-        "wublins",
-        "msm"
-      ],
-      "url": "https://www.youtube.com/watch?v=_Fh2xDTDLiw"
-    },
-    {
-      "video_id": "0is_VwWU3EE",
-      "title": "A Perfect Circle - \"Starless\" (Official Visualizer)",
-      "description": "“Starless” \n\nStream, download or get the limited-edition 7-inch vinyl: https://apc.lnk.to/Starless\n\nGet tickets to our upcoming tour: https://www.aperfectcircle.com/\n\n3 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n4 June   London, UK   O2 Academy Brixton  SOLD OUT ^&\n6 June   Nürnberg, DE  Rock Im Park\n7 June   Nürburg, DE  Rock Am Ring\n9 June   München, DE   Zenith ^\n10 June   Warszawa, PL   Torwar ^\n12 June   Wien, AT   Nova Rock Festival\n13 June   Ferrara, IT   Ferrara Summer Festival ^!\n15 June   Budapest, HU   Budapest Park ^\n16 June   Zagreb, HR   SRC Šalata !\n18 June   Zürich, CH   Halle622 ^\n20 June  Clisson, FR  Hellfest\n21 June   Düsseldorf, DE   Mitsubishi Hall ^\n23 June  Tilburg, NL  Poppodium 013 !\n24 June   Amsterdam, NL   AFAS Live !\n26 June   København, DK  Copenhell\n27 June   Oslo, NO  Tons of Rock\n28 June   Stockholm, SE   Gröna Lund\n1 July   Berlin, DE   Zitadelle ^\n2 July   Praha, CZ   Forum Karlín ^\n4 July   Esch-sur-Alzette, LU   Rockhal\n5 July   Werchter, ",
-      "channel_title": "A Perfect Circle",
-      "channel_id": "UC0UUsQjUpLtlG6dF60DQeIQ",
-      "published_at": "2026-05-27T14:59:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
-      "duration": "PT4M33S",
-      "duration_seconds": 273,
-      "view_count": 58110,
-      "like_count": 10452,
-      "comment_count": 1158,
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 2232030,
+      "like_count": 24169,
+      "comment_count": 2985,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
+      "tags": [
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
+      ],
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
-      "video_id": "2NomizORoqU",
-      "title": "No Man's Sky The Swarm Trailer",
-      "description": "A new danger has appeared in the No Man's Sky universe. Something terrible hangs in the sky: a huge, foreboding Hive-like ship, unlike anything we've seen before. It has nigh-on impenetrable defences, not least a swarm of smaller and nimbler battle drones which must be neutralised to get close enough to target its primary weapon systems, notably the biggest laser cannon our universe has ever witnessed. \n\nIt will take a combined community effort to take it down, but the Traveller soul is fragmented into three; all three groups are competing for glory, but will also need to co-operate and strategise to take down this existential threat to the universe.\n\nEpic and chaotic space battles await for the bravest and nimblest space pilots who dare to take on this faceless but formidable technological terror which has mysteriously appeared. Fully decked out S-Class ships assemble!\n\nFull patch notes here: https://www.nomanssky.com/swarm-update",
-      "channel_title": "HelloGamesTube",
-      "channel_id": "UCGKx5XhGuf09VERiw_QIemA",
-      "published_at": "2026-05-27T12:58:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2NomizORoqU/hqdefault.jpg",
-      "duration": "PT1M31S",
-      "duration_seconds": 91,
-      "view_count": 188332,
-      "like_count": 20047,
-      "comment_count": 2075,
+      "video_id": "shkhWL9eLek",
+      "title": "We Suck at This Basketball Game",
+      "description": "Third Person Basketball is still hilarious. Should we play more? Leave a like.\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Trippayy \n@Yumi \n@imSovi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: ",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-05-27T20:23:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/shkhWL9eLek/hqdefault.jpg",
+      "duration": "PT41M1S",
+      "duration_seconds": 2461,
+      "view_count": 279774,
+      "like_count": 23527,
+      "comment_count": 1035,
       "category_id": "20",
       "tags": [
-        "no man's sky",
-        "gameplay no man's sky",
-        "nms",
-        "nomanssky",
-        "no mans sky",
-        "nomansky",
-        "no man sky",
-        "nms update",
-        "no mans sky update",
-        "swarm"
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "tpbc",
+        "third person basketball court",
+        "third person basketball court game",
+        "nba 2k",
+        "nba 2k steam game",
+        "fun steam game"
       ],
-      "url": "https://www.youtube.com/watch?v=2NomizORoqU"
+      "url": "https://www.youtube.com/watch?v=shkhWL9eLek"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 2695011,
-        "average_views_per_video": 269501.1
-      },
       "content_trends": {
-        "categories": [
-          "Entertainment",
-          "Sports",
-          "Music",
-          "Gaming",
-          "News"
-        ],
-        "dominant_categories": [
-          "Entertainment",
-          "Gaming"
-        ],
-        "emerging_trends": [
-          "Animation",
-          "Teasers/Trailers"
+        "genres": {
+          "entertainment": 5,
+          "sports": 1,
+          "news": 1,
+          "music": 1,
+          "gaming": 1,
+          "miscellaneous": 1
+        },
+        "insights": [
+          {
+            "trend": "Entertainment content dominates the trending list with 50% representation",
+            "actionable_insight": "Content creators should focus on producing engaging entertainment content, particularly trailers and teasers, as they attract significant viewership."
+          },
+          {
+            "trend": "Trailers and teasers for upcoming releases (e.g., movies, games) generate high interest",
+            "actionable_insight": "Brands and creators should leverage teasers and trailers as promotional tools to build anticipation and audience engagement."
+          },
+          {
+            "trend": "Sports content maintains a strong presence in trending videos",
+            "actionable_insight": "Sports channels and creators should continue to focus on live events and highlights, particularly those involving popular teams or events."
+          },
+          {
+            "trend": "Music videos and visualizers maintain a position in trending content",
+            "actionable_insight": "Musicians and record labels should focus on creative and visually engaging music videos to capture audience interest."
+          }
         ]
       },
       "creator_patterns": {
-        "top_channels": [
+        "channel_diversity": {
+          "unique_channels": 5,
+          "channels_with_multiple_videos": 0
+        },
+        "insights": [
           {
-            "name": "Marvel Entertainment",
-            "category": "Entertainment",
-            "video_count": 1
+            "trend": "No single channel dominates the trending list, indicating diverse content sources",
+            "actionable_insight": "New and emerging creators have opportunities to break into trending lists by focusing on niche content or high-quality production."
           },
           {
-            "name": "ESPN",
-            "category": "Sports",
-            "video_count": 1
-          },
-          {
-            "name": "XLOV",
-            "category": "Music",
-            "video_count": 1
-          },
-          {
-            "name": "Netflix",
-            "category": "Entertainment",
-            "video_count": 1
-          },
-          {
-            "name": "FOX News",
-            "category": "News",
-            "video_count": 1
+            "trend": "Established brands like Marvel and Netflix are consistently present in trending lists",
+            "actionable_insight": "Collaboration with established brands can be a strategic move for creators seeking to increase visibility and reach."
           }
-        ],
-        "average_views_by_top_channels": 539002.2,
-        "single_video_channel_opportunity": "Channels like Marvel and Netflix, despite having only one video, achieve high visibility, indicating strong brand influence and fanbase engagement."
+        ]
       },
       "market_opportunities": {
-        "animation_and_teasers": "There is a significant interest in animated series and teaser trailers, suggesting an opportunity for creators to focus on producing high-quality, engaging short-form content in these areas.",
-        "cross-category content": "With categories like Entertainment and Gaming dominating the trends, there is potential for crossover content that appeals to audiences interested in both genres.",
-        "localization": "Given the presence of international content like 'XLOV 엑스러브 'SERVE' MV', there's an opportunity for content creators to localize their content to cater to global audiences."
-      },
-      "practical_insights": {
-        "increase_engagement": "Creators should consider leveraging short-form, high-impact content like trailers and music videos to capture audience attention quickly.",
-        "collaborations": "Channels can explore collaborations with established brands in trending categories to expand their reach and diversify content offerings.",
-        "data-driven content creation": "Utilize YouTube Analytics to identify the best-performing content types and times to post, tailoring content strategies to audience preferences."
+        "categories": {
+          "entertainment": {
+            "potential": "High",
+            "recommendation": "Invest in high-quality production and storytelling in entertainment categories, especially focusing on sequels and popular franchises."
+          },
+          "sports": {
+            "potential": "Moderate",
+            "recommendation": "Capitalize on live events and exclusive sports content, possibly exploring interactive or commentary-based formats."
+          },
+          "news": {
+            "potential": "Moderate",
+            "recommendation": "Focus on timely and relevant news coverage with a particular emphasis on breaking news and in-depth analysis."
+          },
+          "gaming": {
+            "potential": "Emerging",
+            "recommendation": "Explore content related to new game releases and community engagement through gameplay and reviews."
+          }
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -500,7 +487,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 269501
+        "avg_views_per_video": 563971
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
