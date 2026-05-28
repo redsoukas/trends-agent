@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-28T10:32:38.849811",
+  "timestamp": "2026-05-28T13:29:51.243329",
   "date": "2026-05-28",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 2,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2229671,
-      "like_count": 123120,
-      "comment_count": 7649,
+      "view_count": 2357754,
+      "like_count": 124220,
+      "comment_count": 7743,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -59,40 +59,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 658523,
-      "like_count": 119053,
-      "comment_count": 7962,
+      "view_count": 699747,
+      "like_count": 121859,
+      "comment_count": 8187,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
     },
     {
-      "video_id": "g1fq327snPU",
-      "title": "Enola Holmes 3 | Official Teaser | Netflix",
-      "description": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before. Directed by Philip Barantini (the Emmy Award-winning director of ‘Adolescence’), the film stars Millie Bobby Brown, Louis Partridge, Henry Cavill, and Helena Bonham Carter. ENOLA HOLMES 3 premieres JULY 1, only on Netflix.\n\nENOLA HOLMES 1 and ENOLA HOLMES 2 are NOW PLAYING.\n\nWatch on Netflix: https://www.netflix.com/title/81605886\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nEnola Holmes 3 | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-27T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
-      "duration": "PT1M21S",
-      "duration_seconds": 81,
-      "view_count": 1074677,
-      "like_count": 45025,
-      "comment_count": 1997,
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 3189965,
+      "like_count": 34865,
+      "comment_count": 3963,
       "category_id": "24",
       "tags": [
-        "Action",
-        "Adventure",
-        "Blockbuster",
-        "Enola Holmes 3",
-        "Film",
-        "Helena Bonham Carter",
-        "Henry Cavill",
-        "Louis Partridge",
-        "MBB",
-        "Millie Bobby Brown"
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
       ],
-      "url": "https://www.youtube.com/watch?v=g1fq327snPU"
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
       "video_id": "nUwYosgP6B0",
@@ -121,9 +114,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
       "duration": "PT4M33S",
       "duration_seconds": 273,
-      "view_count": 159298,
-      "like_count": 17383,
-      "comment_count": 1746,
+      "view_count": 171709,
+      "like_count": 18351,
+      "comment_count": 1835,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
@@ -138,9 +131,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClEgwDh-x-M/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 76753,
-      "like_count": 3392,
-      "comment_count": 243,
+      "view_count": 85226,
+      "like_count": 3780,
+      "comment_count": 271,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -155,6 +148,51 @@
         "brand new day trailer"
       ],
       "url": "https://www.youtube.com/watch?v=ClEgwDh-x-M"
+    },
+    {
+      "video_id": "N9pNbpHcITM",
+      "title": "Shooter",
+      "description": "Reluctantly pressed into service again, a former military sniper plots revenge against his powerful foes after being betrayed and wounded.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-28T11:51:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N9pNbpHcITM/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=N9pNbpHcITM"
+    },
+    {
+      "video_id": "g1fq327snPU",
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "description": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before. Directed by Philip Barantini (the Emmy Award-winning director of ‘Adolescence’), the film stars Millie Bobby Brown, Louis Partridge, Henry Cavill, and Helena Bonham Carter. ENOLA HOLMES 3 premieres JULY 1, only on Netflix.\n\nENOLA HOLMES 1 and ENOLA HOLMES 2 are NOW PLAYING.\n\nWatch on Netflix: https://www.netflix.com/title/81605886\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nEnola Holmes 3 | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-27T12:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
+      "duration": "PT1M21S",
+      "duration_seconds": 81,
+      "view_count": 1151499,
+      "like_count": 47570,
+      "comment_count": 2061,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Blockbuster",
+        "Enola Holmes 3",
+        "Film",
+        "Helena Bonham Carter",
+        "Henry Cavill",
+        "Louis Partridge",
+        "MBB",
+        "Millie Bobby Brown"
+      ],
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU"
     },
     {
       "video_id": "Y76HZP_h7TY",
@@ -172,44 +210,6 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Y76HZP_h7TY"
-    },
-    {
-      "video_id": "icDuEHSxE-w",
-      "title": "Disclosure Day | Final Trailer",
-      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-05-27T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 2868088,
-      "like_count": 32867,
-      "comment_count": 3749,
-      "category_id": "24",
-      "tags": [
-        "universal pictures",
-        "disclosure day",
-        "Steven Spielberg"
-      ],
-      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "video_id": "3VFbLaOBcnE",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-28T08:34:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3VFbLaOBcnE/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3VFbLaOBcnE"
     }
   ],
   "videos_with_transcripts": [],
@@ -224,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2229671,
-      "like_count": 123120,
-      "comment_count": 7649,
+      "view_count": 2357754,
+      "like_count": 124220,
+      "comment_count": 7743,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -261,40 +261,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 658523,
-      "like_count": 119053,
-      "comment_count": 7962,
+      "view_count": 699747,
+      "like_count": 121859,
+      "comment_count": 8187,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
     },
     {
-      "video_id": "g1fq327snPU",
-      "title": "Enola Holmes 3 | Official Teaser | Netflix",
-      "description": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before. Directed by Philip Barantini (the Emmy Award-winning director of ‘Adolescence’), the film stars Millie Bobby Brown, Louis Partridge, Henry Cavill, and Helena Bonham Carter. ENOLA HOLMES 3 premieres JULY 1, only on Netflix.\n\nENOLA HOLMES 1 and ENOLA HOLMES 2 are NOW PLAYING.\n\nWatch on Netflix: https://www.netflix.com/title/81605886\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nEnola Holmes 3 | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-05-27T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
-      "duration": "PT1M21S",
-      "duration_seconds": 81,
-      "view_count": 1074677,
-      "like_count": 45025,
-      "comment_count": 1997,
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 3189965,
+      "like_count": 34865,
+      "comment_count": 3963,
       "category_id": "24",
       "tags": [
-        "Action",
-        "Adventure",
-        "Blockbuster",
-        "Enola Holmes 3",
-        "Film",
-        "Helena Bonham Carter",
-        "Henry Cavill",
-        "Louis Partridge",
-        "MBB",
-        "Millie Bobby Brown"
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
       ],
-      "url": "https://www.youtube.com/watch?v=g1fq327snPU"
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
       "video_id": "nUwYosgP6B0",
@@ -323,9 +316,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
       "duration": "PT4M33S",
       "duration_seconds": 273,
-      "view_count": 159298,
-      "like_count": 17383,
-      "comment_count": 1746,
+      "view_count": 171709,
+      "like_count": 18351,
+      "comment_count": 1835,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
@@ -340,9 +333,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClEgwDh-x-M/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 76753,
-      "like_count": 3392,
-      "comment_count": 243,
+      "view_count": 85226,
+      "like_count": 3780,
+      "comment_count": 271,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -357,6 +350,51 @@
         "brand new day trailer"
       ],
       "url": "https://www.youtube.com/watch?v=ClEgwDh-x-M"
+    },
+    {
+      "video_id": "N9pNbpHcITM",
+      "title": "Shooter",
+      "description": "Reluctantly pressed into service again, a former military sniper plots revenge against his powerful foes after being betrayed and wounded.",
+      "channel_title": "AMC",
+      "channel_id": "UCbjVsshw_-h8ZRQBYAacA2Q",
+      "published_at": "2026-05-28T11:51:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N9pNbpHcITM/hqdefault.jpg",
+      "duration": "PT3H1M5S",
+      "duration_seconds": 10865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=N9pNbpHcITM"
+    },
+    {
+      "video_id": "g1fq327snPU",
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "description": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before. Directed by Philip Barantini (the Emmy Award-winning director of ‘Adolescence’), the film stars Millie Bobby Brown, Louis Partridge, Henry Cavill, and Helena Bonham Carter. ENOLA HOLMES 3 premieres JULY 1, only on Netflix.\n\nENOLA HOLMES 1 and ENOLA HOLMES 2 are NOW PLAYING.\n\nWatch on Netflix: https://www.netflix.com/title/81605886\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nEnola Holmes 3 | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-05-27T12:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
+      "duration": "PT1M21S",
+      "duration_seconds": 81,
+      "view_count": 1151499,
+      "like_count": 47570,
+      "comment_count": 2061,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Blockbuster",
+        "Enola Holmes 3",
+        "Film",
+        "Helena Bonham Carter",
+        "Henry Cavill",
+        "Louis Partridge",
+        "MBB",
+        "Millie Bobby Brown"
+      ],
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU"
     },
     {
       "video_id": "Y76HZP_h7TY",
@@ -374,120 +412,112 @@
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Y76HZP_h7TY"
-    },
-    {
-      "video_id": "icDuEHSxE-w",
-      "title": "Disclosure Day | Final Trailer",
-      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-05-27T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 2868088,
-      "like_count": 32867,
-      "comment_count": 3749,
-      "category_id": "24",
-      "tags": [
-        "universal pictures",
-        "disclosure day",
-        "Steven Spielberg"
-      ],
-      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "video_id": "3VFbLaOBcnE",
-      "title": "The Source With Kaitlan Collins",
-      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "channel_title": "CNN",
-      "channel_id": "UCStfhR2V58QkCCyq_8dlk6g",
-      "published_at": "2026-05-28T08:34:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3VFbLaOBcnE/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=3VFbLaOBcnE"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "entertainment_dominance": {
-          "description": "The majority of trending videos are related to entertainment, including trailers and music videos.",
-          "evidence": [
-            "Marvel Animation's X-Men ‘97 Season 2 | Official Trailer",
-            "XLOV 엑스러브 'SERVE' MV",
-            "Enola Holmes 3 | Official Teaser | Netflix",
-            "A Perfect Circle - 'Starless' (Official Visualizer)"
-          ],
-          "opportunity": "Creators and brands in the entertainment industry should focus on releasing high-quality trailers, teasers, and music videos to capture trending spots."
-        },
-        "sports_content": {
-          "description": "Sports content is also trending, indicating a strong interest in live events and sports analysis.",
-          "evidence": [
-            "Tampa Bay Rays at Baltimore Orioles",
-            "Colorado Avalanche at Vegas Golden Knights"
-          ],
-          "opportunity": "Sports channels can capitalize on this trend by offering live commentary, behind-the-scenes footage, and highlight reels."
-        },
-        "news_and_analysis": {
-          "description": "News and analysis content is present, reflecting audience interest in current events and detailed breakdowns.",
-          "evidence": [
-            "Jesse Watters Primetime",
-            "The Source With Kaitlan Collins",
-            "X-MEN 97 Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed!"
-          ],
-          "opportunity": "Content creators in the news sector can leverage detailed analysis and commentary to engage viewers, particularly around popular media."
-        }
+        "categories": [
+          {
+            "category": "Entertainment",
+            "indicators": [
+              "Marvel Animation’s X-Men ‘97 Season 2 | Official Trailer",
+              "X-MEN 97 Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed!",
+              "Enola Holmes 3 | Official Teaser | Netflix"
+            ],
+            "insights": "The presence of multiple trailers and breakdowns suggests a strong interest in entertainment content, specifically in franchises and sequels."
+          },
+          {
+            "category": "Music",
+            "indicators": [
+              "XLOV 엑스러브 'SERVE' MV",
+              "A Perfect Circle - 'Starless' (Official Visualizer)"
+            ],
+            "insights": "Music videos and visualizers continue to capture significant attention, indicating the importance of visual content in music promotion."
+          },
+          {
+            "category": "Sports",
+            "indicators": [
+              "Tampa Bay Rays at Baltimore Orioles",
+              "Colorado Avalanche at Vegas Golden Knights"
+            ],
+            "insights": "Live sports events remain popular, reflecting ongoing viewer interest in sports content on digital platforms."
+          },
+          {
+            "category": "News",
+            "indicators": [
+              "Jesse Watters Primetime",
+              "Disclosure Day | Final Trailer"
+            ],
+            "insights": "News and current events maintain relevance, particularly when tied to significant announcements or releases."
+          }
+        ]
       },
       "creator_patterns": {
-        "brand_dominance": {
-          "description": "Top channels like Marvel Entertainment, FOX News, and Netflix have significant influence, often landing on trending lists.",
-          "evidence": [
-            "Marvel Entertainment (1 videos)",
-            "FOX News (1 videos)",
-            "Netflix (1 videos)"
-          ],
-          "strategy": "Small creators can benefit by collaborating with larger brands or focusing on niche areas that big brands do not cover extensively."
-        },
-        "diverse_content_types": {
-          "description": "A variety of content types are trending, including official trailers, music videos, and visualizers.",
-          "evidence": [
-            "Official Trailer",
-            "Music Video",
-            "Official Visualizer"
-          ],
-          "strategy": "Creators should diversify their content offerings to include different formats like trailers, music videos, and visual analyses to broaden their audience reach."
-        }
+        "top_channels": [
+          {
+            "channel_name": "Marvel Entertainment",
+            "video_count": 1,
+            "content_focus": "Entertainment",
+            "insights": "Marvel Entertainment's continued success with trailer releases suggests high engagement with existing fan communities."
+          },
+          {
+            "channel_name": "FOX News",
+            "video_count": 1,
+            "content_focus": "News",
+            "insights": "FOX News' popularity indicates a stable audience interested in political commentary and current events."
+          },
+          {
+            "channel_name": "XLOV",
+            "video_count": 1,
+            "content_focus": "Music",
+            "insights": "Emerging music channels like XLOV are gaining traction, highlighting opportunities for new artists."
+          },
+          {
+            "channel_name": "Universal Pictures",
+            "video_count": 1,
+            "content_focus": "Entertainment",
+            "insights": "Universal Pictures' teaser releases are effective in generating buzz and audience anticipation."
+          },
+          {
+            "channel_name": "FS1",
+            "video_count": 1,
+            "content_focus": "Sports",
+            "insights": "Sports networks like FS1 are leveraging digital platforms to reach broader audiences beyond traditional TV broadcasts."
+          }
+        ]
       },
       "market_opportunities": {
-        "collaboration_with_entertainment": {
-          "description": "Collaborations with entertainment giants can help smaller creators gain visibility.",
-          "tactics": [
-            "Reach out to entertainment companies for potential collaborations or exclusive content opportunities.",
-            "Create content that aligns with popular entertainment trends to attract partnerships."
-          ]
-        },
-        "sports_highlights_and_commentary": {
-          "description": "There is a significant audience for sports-related content.",
-          "tactics": [
-            "Develop content around major sports events, focusing on highlights and expert commentary.",
-            "Engage with sports communities to crowdsource ideas and insights for content creation."
-          ]
-        },
-        "news_analysis_and_breakdowns": {
-          "description": "In-depth news analysis and media breakdowns are appealing to audiences.",
-          "tactics": [
-            "Produce detailed breakdowns of popular media, focusing on easter eggs and hidden details.",
-            "Regularly update content to reflect ongoing news trends and developments."
+        "emerging_trends": [
+          {
+            "trend": "Franchise and Sequel Content",
+            "opportunity": "Investing in creating and promoting content related to popular franchises could yield high engagement and viewership."
+          },
+          {
+            "trend": "Music Visual Content",
+            "opportunity": "Utilizing high-quality visualizers and music videos can enhance audience reach for musicians and labels."
+          },
+          {
+            "trend": "Live Sports Streaming",
+            "opportunity": "Enhancing live streaming capabilities and coverage for sports events can attract dedicated sports fans."
+          },
+          {
+            "trend": "Current Events and News",
+            "opportunity": "Focusing on timely news releases and exclusive insights can capture audiences seeking up-to-date information."
+          }
+        ],
+        "content_production": {
+          "recommendations": [
+            "Collaborate with popular franchises to produce exclusive content or behind-the-scenes footage.",
+            "Explore partnerships with emerging music artists to create engaging music videos.",
+            "Develop interactive experiences or live discussions around major sports events to increase viewer engagement."
           ]
         }
+      },
+      "data_analysis": {
+        "average_views_per_video": 765590,
+        "insights": "The average views per video suggest a high level of engagement across different content types, indicating a healthy demand for diverse video content."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -495,7 +525,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 706701
+        "avg_views_per_video": 765590
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
