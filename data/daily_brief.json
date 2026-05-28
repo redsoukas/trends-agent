@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-28T16:31:14.786917",
+  "timestamp": "2026-05-28T19:03:10.950846",
   "date": "2026-05-28",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
+    "music_videos_filtered": 2,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2492639,
-      "like_count": 125963,
-      "comment_count": 7868,
+      "view_count": 2604929,
+      "like_count": 128047,
+      "comment_count": 7966,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -59,9 +59,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 3474861,
-      "like_count": 37777,
-      "comment_count": 4306,
+      "view_count": 3714836,
+      "like_count": 40438,
+      "comment_count": 4641,
       "category_id": "24",
       "tags": [
         "universal pictures",
@@ -71,21 +71,21 @@
       "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
-      "video_id": "zvOwzn7Hwdo",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+      "video_id": "Y59Xp3sFLUo",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-28T06:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zvOwzn7Hwdo/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-05-28T09:06:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y59Xp3sFLUo/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zvOwzn7Hwdo"
+      "url": "https://www.youtube.com/watch?v=Y59Xp3sFLUo"
     },
     {
       "video_id": "0is_VwWU3EE",
@@ -97,9 +97,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
       "duration": "PT4M33S",
       "duration_seconds": 273,
-      "view_count": 196053,
-      "like_count": 19517,
-      "comment_count": 1934,
+      "view_count": 213608,
+      "like_count": 20665,
+      "comment_count": 2025,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
@@ -114,9 +114,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClEgwDh-x-M/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 96358,
-      "like_count": 4170,
-      "comment_count": 304,
+      "view_count": 104067,
+      "like_count": 4442,
+      "comment_count": 329,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -159,9 +159,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 750773,
-      "like_count": 125297,
-      "comment_count": 8390,
+      "view_count": 784602,
+      "like_count": 128520,
+      "comment_count": 8547,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
@@ -176,9 +176,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 1254597,
-      "like_count": 50021,
-      "comment_count": 2128,
+      "view_count": 1334225,
+      "like_count": 51835,
+      "comment_count": 2174,
       "category_id": "24",
       "tags": [
         "Action",
@@ -224,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2492639,
-      "like_count": 125963,
-      "comment_count": 7868,
+      "view_count": 2604929,
+      "like_count": 128047,
+      "comment_count": 7966,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -261,9 +261,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
       "duration": "PT2M44S",
       "duration_seconds": 164,
-      "view_count": 3474861,
-      "like_count": 37777,
-      "comment_count": 4306,
+      "view_count": 3714836,
+      "like_count": 40438,
+      "comment_count": 4641,
       "category_id": "24",
       "tags": [
         "universal pictures",
@@ -273,21 +273,21 @@
       "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
-      "video_id": "zvOwzn7Hwdo",
-      "title": "Jesse Watters Primetime",
-      "description": "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+      "video_id": "Y59Xp3sFLUo",
+      "title": "Gutfeld!",
+      "description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.",
       "channel_title": "FOX News",
       "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
-      "published_at": "2026-05-28T06:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zvOwzn7Hwdo/hqdefault.jpg",
-      "duration": "PT1H1M6S",
-      "duration_seconds": 3666,
+      "published_at": "2026-05-28T09:06:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y59Xp3sFLUo/hqdefault.jpg",
+      "duration": "PT1H1M5S",
+      "duration_seconds": 3665,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
       "category_id": "24",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=zvOwzn7Hwdo"
+      "url": "https://www.youtube.com/watch?v=Y59Xp3sFLUo"
     },
     {
       "video_id": "0is_VwWU3EE",
@@ -299,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0is_VwWU3EE/hqdefault.jpg",
       "duration": "PT4M33S",
       "duration_seconds": 273,
-      "view_count": 196053,
-      "like_count": 19517,
-      "comment_count": 1934,
+      "view_count": 213608,
+      "like_count": 20665,
+      "comment_count": 2025,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0is_VwWU3EE"
@@ -316,9 +316,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ClEgwDh-x-M/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 96358,
-      "like_count": 4170,
-      "comment_count": 304,
+      "view_count": 104067,
+      "like_count": 4442,
+      "comment_count": 329,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -361,9 +361,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg",
       "duration": "PT3M23S",
       "duration_seconds": 203,
-      "view_count": 750773,
-      "like_count": 125297,
-      "comment_count": 8390,
+      "view_count": 784602,
+      "like_count": 128520,
+      "comment_count": 8547,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1IzZezTfwE0"
@@ -378,9 +378,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
       "duration": "PT1M21S",
       "duration_seconds": 81,
-      "view_count": 1254597,
-      "like_count": 50021,
-      "comment_count": 2128,
+      "view_count": 1334225,
+      "like_count": 51835,
+      "comment_count": 2174,
       "category_id": "24",
       "tags": [
         "Action",
@@ -417,94 +417,75 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 8265281,
-        "average_views_per_video": 826528.1
-      },
       "content_trends": {
-        "popular_content_types": [
-          "Entertainment Trailers",
-          "Sports Highlights",
-          "Music Visualizers"
-        ],
-        "trending_themes": [
-          {
-            "theme": "Superheroes",
-            "related_videos": [
-              "Marvel Animation’s X-Men ‘97 Season 2 | Official Trailer",
-              "X-MEN 97 Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed!"
-            ],
-            "channel_involvement": [
-              "Marvel Entertainment"
-            ]
-          },
-          {
-            "theme": "Movies & TV Shows",
-            "related_videos": [
-              "Disclosure Day | Final Trailer",
-              "Enola Holmes 3 | Official Teaser | Netflix"
-            ],
-            "platform_involvement": [
-              "Netflix",
-              "Universal Pictures"
-            ]
-          }
-        ],
-        "sports_content": {
-          "videos": [
+        "superhero_and_animation": {
+          "description": "Superhero-themed content, particularly Marvel animations, is prominently featured.",
+          "evidence": [
+            "Marvel Animation’s X-Men ‘97 Season 2 | Official Trailer",
+            "X-MEN 97 Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed!"
+          ],
+          "insight": "There is a strong audience interest in superhero and animation content, suggesting opportunities for creators in producing related content or analysis videos."
+        },
+        "sports": {
+          "description": "Sports content, especially NHL games, is trending.",
+          "evidence": [
             "Carolina Hurricanes at Montreal Canadiens",
             "Tampa Bay Rays at Baltimore Orioles"
           ],
-          "trend_insights": "Sports highlights continue to engage a broad audience, indicating a consistent interest in live sports events."
+          "insight": "Live sports broadcasts and highlights continue to draw significant views, indicating a consistent demand for sports-related content."
         },
-        "music_content": {
-          "videos": [
-            "A Perfect Circle - \"Starless\" (Official Visualizer)"
+        "movies_and_entertainment": {
+          "description": "Trailers and teasers for upcoming movies and series are popular.",
+          "evidence": [
+            "Disclosure Day | Final Trailer",
+            "Enola Holmes 3 | Official Teaser | Netflix"
           ],
-          "trend_insights": "Music visualizers are gaining traction, reflecting a shift towards more visual content consumption in music."
+          "insight": "Maintaining engagement through teasers and trailers is effective for building anticipation and viewer interest."
+        },
+        "music": {
+          "description": "Music content remains a staple in trending videos.",
+          "evidence": [
+            "A Perfect Circle - 'Starless' (Official Visualizer)",
+            "XLOV 엑스러브 'SERVE' MV"
+          ],
+          "insight": "Music videos, both official and visualizers, continue to attract views, suggesting potential in diverse music genres and innovative visual presentations."
+        },
+        "news_and_talk_shows": {
+          "description": "News commentary and talk shows are present in trending content.",
+          "evidence": [
+            "Gutfeld!"
+          ],
+          "insight": "There is an audience for opinion and commentary-based content, particularly on current events and news."
         }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel_name": "Marvel Entertainment",
-            "video_count": 1,
-            "content_focus": "Superhero Trailers"
-          },
-          {
-            "channel_name": "FOX News",
-            "video_count": 1,
-            "content_focus": "Political Commentary"
-          }
-        ],
-        "multimedia utilization": {
-          "observations": [
-            "Channels are leveraging a mix of trailers, visualizers, and teasers to engage audiences.",
-            "There is a noticeable trend of multi-platform content release strategies, especially in the entertainment industry."
-          ]
+        "diverse_content_range": {
+          "description": "A variety of content types from different channels are trending.",
+          "implication": "Channels that diversify their content offerings may increase their chances of appearing in trending lists."
+        },
+        "brand_power": {
+          "description": "Established brands and media houses feature prominently.",
+          "evidence": [
+            "Marvel Entertainment",
+            "Universal Pictures",
+            "FOX News"
+          ],
+          "insight": "Leveraging brand recognition can significantly enhance content visibility and engagement."
         }
       },
       "market_opportunities": {
-        "emerging_opportunities": [
-          {
-            "opportunity": "Enhanced Engagement in Superhero Content",
-            "insights": "With multiple X-Men related videos trending, there is an opportunity for creators to delve deeper into superhero lore and behind-the-scenes content."
-          },
-          {
-            "opportunity": "Expanding Music Visual Content",
-            "insights": "Given the popularity of A Perfect Circle’s visualizer, music artists and labels can explore more visual content to complement audio releases."
-          },
-          {
-            "opportunity": "Localized Sports Content",
-            "insights": "Local sports highlights are attracting significant viewership, suggesting potential for expanding localized sports content coverage."
-          }
-        ],
-        "strategic_recommendations": [
-          "Invest in cross-platform promotional strategies, especially for entertainment content.",
-          "Develop interactive content for superhero and movie trailers to capture and retain audience interest.",
-          "Explore partnerships with sports leagues to create exclusive behind-the-scenes or post-game analysis content."
-        ]
+        "niche_analysis_content": {
+          "description": "High engagement with breakdowns and analysis of popular series.",
+          "opportunity": "Create detailed analysis and Easter egg breakdowns for popular shows and trailers to capture niche audiences."
+        },
+        "localized_sports_content": {
+          "description": "Interest in specific sports teams and games.",
+          "opportunity": "Develop localized or team-specific content for sports fans, offering in-depth analysis and commentary."
+        },
+        "collaborative_content": {
+          "description": "Potential for cross-promotion between different entertainment sectors.",
+          "opportunity": "Explore collaborations between music, movies, and series to create unique content that taps into multiple fan bases."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -512,7 +493,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 826528
+        "avg_views_per_video": 875626
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
