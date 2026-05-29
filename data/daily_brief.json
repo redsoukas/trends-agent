@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-29T04:35:36.308266",
+  "timestamp": "2026-05-29T07:34:56.735692",
   "date": "2026-05-29",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "music_videos_filtered": 5,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jLbst85USN8/hqdefault.jpg",
       "duration": "PT2M50S",
       "duration_seconds": 170,
-      "view_count": 6691120,
-      "like_count": 142345,
-      "comment_count": 15848,
+      "view_count": 10851371,
+      "like_count": 148167,
+      "comment_count": 16384,
       "category_id": "20",
       "tags": [
         "call of duty",
@@ -63,15 +63,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2756366,
-      "like_count": 132168,
-      "comment_count": 8180,
+      "view_count": 2785844,
+      "like_count": 132809,
+      "comment_count": 8209,
       "category_id": "24",
       "tags": [
         "marvel",
         "comics"
       ],
       "url": "https://www.youtube.com/watch?v=mfUtseK27pc"
+    },
+    {
+      "video_id": "EnFEi4N3Q4I",
+      "title": "🔴LIVE | 007 First Light | The Name's Nut, Pea-Nut",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-05-29T06:05:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EnFEi4N3Q4I/hqdefault.jpg",
+      "duration": "PT6H51M9S",
+      "duration_seconds": 24669,
+      "view_count": 497697,
+      "like_count": 9893,
+      "comment_count": 31,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=EnFEi4N3Q4I"
+    },
+    {
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 5991427,
+      "like_count": 46913,
+      "comment_count": 5447,
+      "category_id": "24",
+      "tags": [
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
+      ],
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
       "video_id": "Y59Xp3sFLUo",
@@ -91,98 +133,6 @@
       "url": "https://www.youtube.com/watch?v=Y59Xp3sFLUo"
     },
     {
-      "video_id": "icDuEHSxE-w",
-      "title": "Disclosure Day | Final Trailer",
-      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-05-27T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 5441996,
-      "like_count": 45439,
-      "comment_count": 5309,
-      "category_id": "24",
-      "tags": [
-        "universal pictures",
-        "disclosure day",
-        "Steven Spielberg"
-      ],
-      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "video_id": "s1d-912Ox6w",
-      "title": "Call of Duty: Modern Warfare 4 - Angry Trailer Reaction!",
-      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe & OtherJoe give their first reactions & impressions of Call of Duty: Modern Warfare 4's Reveal Trailer! We are BEING INVADED BY NORTH KOREA in this NEW Globe Spanning Crisis! What do you think?\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
-      "channel_title": "AngryJoeShow",
-      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
-      "published_at": "2026-05-28T20:37:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s1d-912Ox6w/hqdefault.jpg",
-      "duration": "PT21M16S",
-      "duration_seconds": 1276,
-      "view_count": 58926,
-      "like_count": 2622,
-      "comment_count": 1006,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=s1d-912Ox6w"
-    },
-    {
-      "video_id": "a4VPL1FtPcA",
-      "title": "THE HOT ZONE | Subnautica 2 - Part 7",
-      "description": "The ocean in Subnautica gets HOT the deeper you go! But bigger dangers means bigger treasures!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nPlay Subnautica 2 ► https://store.steampowered.com/app/1962700/Subnautica_2/\n\nEdited By ► @LixianTV \nThumbnail By ► @NerdFiction \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-29T00:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a4VPL1FtPcA/hqdefault.jpg",
-      "duration": "PT45M31S",
-      "duration_seconds": 2731,
-      "view_count": 121188,
-      "like_count": 14768,
-      "comment_count": 963,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 7"
-      ],
-      "url": "https://www.youtube.com/watch?v=a4VPL1FtPcA"
-    },
-    {
-      "video_id": "Wrleuiw4_QA",
-      "title": "Le Hice Caso Al Corazón - Grupo Firme style (Music Video)",
-      "description": "🔔Voz y música generadas con IA. Canción y letra originales por Flow Firme.\nInspirada en el género Regional Mexicano/Banda. No afiliada a ningún artista o sello.\n🎧 Escúchala en Spotify:\nhttps://distrokid.com/hyperfollow/flowfirme/le-hice-caso-al-corazn\n\n\n📩 Contacto / negocios:\nmusicurban79@gmail.com\n\n📝 Aviso: Esta obra es ficción y solo para entretenimiento. No representa hechos reales ni promueve violencia.\n\n🎵Lyrics:\n\nCuando te fuiste aquella tarde\nyo pensé “dale tiempo”\nPorque el amor cuando es real\nsiempre encuentra el momento\nMe quedé cuidando lo nuestro\ncomo quien cuida una ilusión\nMientras tú te alejabas lento\ny yo lleno de esperanza y dolor\n\nY qué triste\nfue entender\nQue yo seguía esperándote\nmientras tú aprendías a no volver\n\nLe hice caso al corazón\ny me quedé esperando\nPensando que con el tiempo\nibas a seguirme amando\nLe hice caso al corazón\ny terminé perdiendo\nPorque mientras yo te esperaba\ntú ya me estabas olvidando\n\nLe di tiempo a tu distancia\npensando que iba a sanar\nPero e",
-      "channel_title": "Flow Firme",
-      "channel_id": "UCVugnNyJDDZSmxqevCHhkSQ",
-      "published_at": "2026-05-27T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wrleuiw4_QA/hqdefault.jpg",
-      "duration": "PT3M19S",
-      "duration_seconds": 199,
-      "view_count": 207556,
-      "like_count": 2315,
-      "comment_count": 16,
-      "category_id": "22",
-      "tags": [
-        "Grupo Firme",
-        "Por Última Vez",
-        "Eduin Caz",
-        "Letra",
-        "Norteño",
-        "Banda",
-        "Regional Mexicano",
-        "Canciones para superar a tu ex",
-        "Desamor",
-        "Para Llorar"
-      ],
-      "url": "https://www.youtube.com/watch?v=Wrleuiw4_QA"
-    },
-    {
       "video_id": "WqBkcgR5jaM",
       "title": "X-MEN ’97 Season 2 Trailer Breakdown! Easter Eggs You Missed!",
       "description": "Here’s every easter egg and detail you missed in that X-Men '97 Season 2 trailer! Thank you to Mint Mobile for partnering with us on this video! Shop plans starting at 15 bucks a month at https://www.mintmobile.com/NEWROCKSTARS. Upfront payment of $45 for 3-month 5 gigabyte plan required (equivalent to $15/mo.). New customer offer for first 3 months only, then full-price plan options available. Taxes & fees extra. See https://www.mintmobile.com.\n\nSeason 2 of X-Men '97 kicks off July 1st on Disney+ and the first official trailer shows a LOT of interesting potential storylines. What timeline are all the X-Men in? What new faces will we see? And which characters won't make it out of the season alive?\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get upd",
@@ -192,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WqBkcgR5jaM/hqdefault.jpg",
       "duration": "PT16M54S",
       "duration_seconds": 1014,
-      "view_count": 42931,
-      "like_count": 3226,
-      "comment_count": 230,
+      "view_count": 61991,
+      "like_count": 3804,
+      "comment_count": 252,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -211,32 +161,75 @@
       "url": "https://www.youtube.com/watch?v=WqBkcgR5jaM"
     },
     {
-      "video_id": "jAPd5xDFL-I",
-      "title": "Can I Make GUNS From EVERY BLOCK In Minecraft!",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://preston.gg/FireMerchPlayz\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://preston.gg/TikTokPlayz\n☛ Instagram -  https://preston.gg/InstagramPlayz\n☛ Twitter -  https://preston.gg/XTwitterPlayz\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://preston.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-05-28T20:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jAPd5xDFL-I/hqdefault.jpg",
-      "duration": "PT21M55S",
-      "duration_seconds": 1315,
-      "view_count": 195994,
-      "like_count": 4574,
-      "comment_count": 298,
+      "video_id": "a4VPL1FtPcA",
+      "title": "THE HOT ZONE | Subnautica 2 - Part 7",
+      "description": "The ocean in Subnautica gets HOT the deeper you go! But bigger dangers means bigger treasures!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nPlay Subnautica 2 ► https://store.steampowered.com/app/1962700/Subnautica_2/\n\nEdited By ► @LixianTV \nThumbnail By ► @NerdFiction \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-05-29T00:27:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a4VPL1FtPcA/hqdefault.jpg",
+      "duration": "PT45M31S",
+      "duration_seconds": 2731,
+      "view_count": 211989,
+      "like_count": 20235,
+      "comment_count": 1155,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
+        "markiplier",
+        "subnautica",
+        "subnautica 2",
+        "gameplay",
+        "playthrough",
+        "walkthrough",
+        "lets play",
+        "part 7"
       ],
-      "url": "https://www.youtube.com/watch?v=jAPd5xDFL-I"
+      "url": "https://www.youtube.com/watch?v=a4VPL1FtPcA"
+    },
+    {
+      "video_id": "s1d-912Ox6w",
+      "title": "Call of Duty: Modern Warfare 4 - Angry Trailer Reaction!",
+      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe & OtherJoe give their first reactions & impressions of Call of Duty: Modern Warfare 4's Reveal Trailer! We are BEING INVADED BY NORTH KOREA in this NEW Globe Spanning Crisis! What do you think?\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
+      "channel_title": "AngryJoeShow",
+      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
+      "published_at": "2026-05-28T20:37:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s1d-912Ox6w/hqdefault.jpg",
+      "duration": "PT21M16S",
+      "duration_seconds": 1276,
+      "view_count": 71513,
+      "like_count": 2881,
+      "comment_count": 1093,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=s1d-912Ox6w"
+    },
+    {
+      "video_id": "TGaimTUvg4Y",
+      "title": "Surviving A Ship Wreck…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-05-28T22:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TGaimTUvg4Y/hqdefault.jpg",
+      "duration": "PT1H31M",
+      "duration_seconds": 5460,
+      "view_count": 193937,
+      "like_count": 8755,
+      "comment_count": 748,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=TGaimTUvg4Y"
     }
   ],
   "videos_with_transcripts": [],
@@ -251,9 +244,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jLbst85USN8/hqdefault.jpg",
       "duration": "PT2M50S",
       "duration_seconds": 170,
-      "view_count": 6691120,
-      "like_count": 142345,
-      "comment_count": 15848,
+      "view_count": 10851371,
+      "like_count": 148167,
+      "comment_count": 16384,
       "category_id": "20",
       "tags": [
         "call of duty",
@@ -292,15 +285,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mfUtseK27pc/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 2756366,
-      "like_count": 132168,
-      "comment_count": 8180,
+      "view_count": 2785844,
+      "like_count": 132809,
+      "comment_count": 8209,
       "category_id": "24",
       "tags": [
         "marvel",
         "comics"
       ],
       "url": "https://www.youtube.com/watch?v=mfUtseK27pc"
+    },
+    {
+      "video_id": "EnFEi4N3Q4I",
+      "title": "🔴LIVE | 007 First Light | The Name's Nut, Pea-Nut",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-05-29T06:05:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EnFEi4N3Q4I/hqdefault.jpg",
+      "duration": "PT6H51M9S",
+      "duration_seconds": 24669,
+      "view_count": 497697,
+      "like_count": 9893,
+      "comment_count": 31,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=EnFEi4N3Q4I"
+    },
+    {
+      "video_id": "icDuEHSxE-w",
+      "title": "Disclosure Day | Final Trailer",
+      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2026-05-27T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
+      "duration": "PT2M44S",
+      "duration_seconds": 164,
+      "view_count": 5991427,
+      "like_count": 46913,
+      "comment_count": 5447,
+      "category_id": "24",
+      "tags": [
+        "universal pictures",
+        "disclosure day",
+        "Steven Spielberg"
+      ],
+      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
       "video_id": "Y59Xp3sFLUo",
@@ -320,98 +355,6 @@
       "url": "https://www.youtube.com/watch?v=Y59Xp3sFLUo"
     },
     {
-      "video_id": "icDuEHSxE-w",
-      "title": "Disclosure Day | Final Trailer",
-      "description": "Believe it when you see it. Get tickets now. Disclosure Day only in theaters June 12.\n______\nIf you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you? This summer, the truth belongs to eight billion people. \nWe are coming close to … Disclosure Day. \n\nUniversal Pictures is proud to release a new original event film created and directed by Steven Spielberg. The film stars SAG winner and Oscar® nominee Emily Blunt (Oppenheimer, A Quiet Place), Emmy and Golden Globe winner Josh O’Connor (Challengers, The Crown), Oscar® winner Colin Firth (The King’s Speech, Kingsman franchise), Eve Hewson (Bad Sisters, The Perfect Couple) and two-time Oscar® nominee Colman Domingo (Sing Sing, Rustin).\n \nBased on a story by Spielberg, the screenplay is by David Koepp, whose previous work with Spielberg includes the scripts for Jurassic Park, The Lost World: Jurassic Park, War of the Worlds and Indiana Jones and the Kingdom of the Crystal Skull. Combined, those film",
-      "channel_title": "Universal Pictures",
-      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
-      "published_at": "2026-05-27T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/icDuEHSxE-w/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "duration_seconds": 164,
-      "view_count": 5441996,
-      "like_count": 45439,
-      "comment_count": 5309,
-      "category_id": "24",
-      "tags": [
-        "universal pictures",
-        "disclosure day",
-        "Steven Spielberg"
-      ],
-      "url": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "video_id": "s1d-912Ox6w",
-      "title": "Call of Duty: Modern Warfare 4 - Angry Trailer Reaction!",
-      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe & OtherJoe give their first reactions & impressions of Call of Duty: Modern Warfare 4's Reveal Trailer! We are BEING INVADED BY NORTH KOREA in this NEW Globe Spanning Crisis! What do you think?\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
-      "channel_title": "AngryJoeShow",
-      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
-      "published_at": "2026-05-28T20:37:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s1d-912Ox6w/hqdefault.jpg",
-      "duration": "PT21M16S",
-      "duration_seconds": 1276,
-      "view_count": 58926,
-      "like_count": 2622,
-      "comment_count": 1006,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=s1d-912Ox6w"
-    },
-    {
-      "video_id": "a4VPL1FtPcA",
-      "title": "THE HOT ZONE | Subnautica 2 - Part 7",
-      "description": "The ocean in Subnautica gets HOT the deeper you go! But bigger dangers means bigger treasures!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nPlay Subnautica 2 ► https://store.steampowered.com/app/1962700/Subnautica_2/\n\nEdited By ► @LixianTV \nThumbnail By ► @NerdFiction \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-05-29T00:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a4VPL1FtPcA/hqdefault.jpg",
-      "duration": "PT45M31S",
-      "duration_seconds": 2731,
-      "view_count": 121188,
-      "like_count": 14768,
-      "comment_count": 963,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "subnautica",
-        "subnautica 2",
-        "gameplay",
-        "playthrough",
-        "walkthrough",
-        "lets play",
-        "part 7"
-      ],
-      "url": "https://www.youtube.com/watch?v=a4VPL1FtPcA"
-    },
-    {
-      "video_id": "Wrleuiw4_QA",
-      "title": "Le Hice Caso Al Corazón - Grupo Firme style (Music Video)",
-      "description": "🔔Voz y música generadas con IA. Canción y letra originales por Flow Firme.\nInspirada en el género Regional Mexicano/Banda. No afiliada a ningún artista o sello.\n🎧 Escúchala en Spotify:\nhttps://distrokid.com/hyperfollow/flowfirme/le-hice-caso-al-corazn\n\n\n📩 Contacto / negocios:\nmusicurban79@gmail.com\n\n📝 Aviso: Esta obra es ficción y solo para entretenimiento. No representa hechos reales ni promueve violencia.\n\n🎵Lyrics:\n\nCuando te fuiste aquella tarde\nyo pensé “dale tiempo”\nPorque el amor cuando es real\nsiempre encuentra el momento\nMe quedé cuidando lo nuestro\ncomo quien cuida una ilusión\nMientras tú te alejabas lento\ny yo lleno de esperanza y dolor\n\nY qué triste\nfue entender\nQue yo seguía esperándote\nmientras tú aprendías a no volver\n\nLe hice caso al corazón\ny me quedé esperando\nPensando que con el tiempo\nibas a seguirme amando\nLe hice caso al corazón\ny terminé perdiendo\nPorque mientras yo te esperaba\ntú ya me estabas olvidando\n\nLe di tiempo a tu distancia\npensando que iba a sanar\nPero e",
-      "channel_title": "Flow Firme",
-      "channel_id": "UCVugnNyJDDZSmxqevCHhkSQ",
-      "published_at": "2026-05-27T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wrleuiw4_QA/hqdefault.jpg",
-      "duration": "PT3M19S",
-      "duration_seconds": 199,
-      "view_count": 207556,
-      "like_count": 2315,
-      "comment_count": 16,
-      "category_id": "22",
-      "tags": [
-        "Grupo Firme",
-        "Por Última Vez",
-        "Eduin Caz",
-        "Letra",
-        "Norteño",
-        "Banda",
-        "Regional Mexicano",
-        "Canciones para superar a tu ex",
-        "Desamor",
-        "Para Llorar"
-      ],
-      "url": "https://www.youtube.com/watch?v=Wrleuiw4_QA"
-    },
-    {
       "video_id": "WqBkcgR5jaM",
       "title": "X-MEN ’97 Season 2 Trailer Breakdown! Easter Eggs You Missed!",
       "description": "Here’s every easter egg and detail you missed in that X-Men '97 Season 2 trailer! Thank you to Mint Mobile for partnering with us on this video! Shop plans starting at 15 bucks a month at https://www.mintmobile.com/NEWROCKSTARS. Upfront payment of $45 for 3-month 5 gigabyte plan required (equivalent to $15/mo.). New customer offer for first 3 months only, then full-price plan options available. Taxes & fees extra. See https://www.mintmobile.com.\n\nSeason 2 of X-Men '97 kicks off July 1st on Disney+ and the first official trailer shows a LOT of interesting potential storylines. What timeline are all the X-Men in? What new faces will we see? And which characters won't make it out of the season alive?\n\nNEW ROCKSTARS NETWORK\nyoutube.com/@WitchingHourNR\nyoutube.com/@BreakroomNR\nyoutube.com/@DeepDiveNR\nyoutube.com/@HighlightsNR\n\nJoin the NR Underground for exclusive audio shows: https://nrunderground.supercast.com\n\nCheck out our merch! http://www.NerdRiot.shop\n\nFollow us on Spotify to get upd",
@@ -421,9 +364,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WqBkcgR5jaM/hqdefault.jpg",
       "duration": "PT16M54S",
       "duration_seconds": 1014,
-      "view_count": 42931,
-      "like_count": 3226,
-      "comment_count": 230,
+      "view_count": 61991,
+      "like_count": 3804,
+      "comment_count": 252,
       "category_id": "24",
       "tags": [
         "new rockstars",
@@ -440,101 +383,139 @@
       "url": "https://www.youtube.com/watch?v=WqBkcgR5jaM"
     },
     {
-      "video_id": "jAPd5xDFL-I",
-      "title": "Can I Make GUNS From EVERY BLOCK In Minecraft!",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://preston.gg/FireMerchPlayz\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://preston.gg/TikTokPlayz\n☛ Instagram -  https://preston.gg/InstagramPlayz\n☛ Twitter -  https://preston.gg/XTwitterPlayz\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://preston.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-05-28T20:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jAPd5xDFL-I/hqdefault.jpg",
-      "duration": "PT21M55S",
-      "duration_seconds": 1315,
-      "view_count": 195994,
-      "like_count": 4574,
-      "comment_count": 298,
+      "video_id": "a4VPL1FtPcA",
+      "title": "THE HOT ZONE | Subnautica 2 - Part 7",
+      "description": "The ocean in Subnautica gets HOT the deeper you go! But bigger dangers means bigger treasures!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nPlay Subnautica 2 ► https://store.steampowered.com/app/1962700/Subnautica_2/\n\nEdited By ► @LixianTV \nThumbnail By ► @NerdFiction \n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-05-29T00:27:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a4VPL1FtPcA/hqdefault.jpg",
+      "duration": "PT45M31S",
+      "duration_seconds": 2731,
+      "view_count": 211989,
+      "like_count": 20235,
+      "comment_count": 1155,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
+        "markiplier",
+        "subnautica",
+        "subnautica 2",
+        "gameplay",
+        "playthrough",
+        "walkthrough",
+        "lets play",
+        "part 7"
       ],
-      "url": "https://www.youtube.com/watch?v=jAPd5xDFL-I"
+      "url": "https://www.youtube.com/watch?v=a4VPL1FtPcA"
+    },
+    {
+      "video_id": "s1d-912Ox6w",
+      "title": "Call of Duty: Modern Warfare 4 - Angry Trailer Reaction!",
+      "description": "💥Patreon ► https://www.patreon.com/AngryJoeShow\n🔥YT Join ► https://youtube.com/angryjoeshow/join\n🖥️Our NEW PC's! STARFORGE ► https://starforgepc.com/AngryJoeShow \nAngryJoe & OtherJoe give their first reactions & impressions of Call of Duty: Modern Warfare 4's Reveal Trailer! We are BEING INVADED BY NORTH KOREA in this NEW Globe Spanning Crisis! What do you think?\n\nSupport Us!\n🔴AngryJoeShowLIVE ► https://bit.ly/38VZ4aY\n👕 New AJSA Shirts! ► https://www.roguesapparel.com\n📺Twitch ► http://twitch.tv/angryjoeshow\n🐦Twitter ► http://twitter.com/AngryJoeShow\n🐦Twitter ► http://twitter.com/OtherJoe_AJS\n🌎AJSA Community ► http://ajsagaming.com",
+      "channel_title": "AngryJoeShow",
+      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
+      "published_at": "2026-05-28T20:37:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s1d-912Ox6w/hqdefault.jpg",
+      "duration": "PT21M16S",
+      "duration_seconds": 1276,
+      "view_count": 71513,
+      "like_count": 2881,
+      "comment_count": 1093,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=s1d-912Ox6w"
+    },
+    {
+      "video_id": "TGaimTUvg4Y",
+      "title": "Surviving A Ship Wreck…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-05-28T22:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TGaimTUvg4Y/hqdefault.jpg",
+      "duration": "PT1H31M",
+      "duration_seconds": 5460,
+      "view_count": 193937,
+      "like_count": 8755,
+      "comment_count": 748,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=TGaimTUvg4Y"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "trending_analysis": {
-        "content_trends": {
-          "gaming": {
-            "dominance": 20,
-            "videos": [
+      "content_trends": {
+        "gaming": {
+          "popularity": {
+            "evidence": [
               "Call of Duty: Modern Warfare 4 | Reveal Trailer",
               "Call of Duty: Modern Warfare 4 - Angry Trailer Reaction!",
-              "THE HOT ZONE | Subnautica 2 - Part 7",
-              "Can I Make GUNS From EVERY BLOCK In Minecraft!"
+              "THE HOT ZONE | Subnautica 2 - Part 7"
             ],
-            "insight": "Gaming content, particularly new releases and reactions related to popular franchises like Call of Duty and Minecraft, continue to capture significant viewer interest."
-          },
-          "entertainment": {
-            "dominance": 20,
-            "videos": [
+            "insights": "Gaming-related content, particularly around popular franchises like Call of Duty and Subnautica, continues to generate significant interest. This suggests a strong and engaged audience base for gaming content."
+          }
+        },
+        "entertainment": {
+          "popularity": {
+            "evidence": [
               "Marvel Animation’s X-Men ‘97 Season 2 | Official Trailer",
               "X-MEN ’97 Season 2 Trailer Breakdown! Easter Eggs You Missed!"
             ],
-            "insight": "There is a strong interest in superhero content, specifically related to animated series and their detailed breakdowns."
-          },
-          "sports": {
-            "dominance": 10,
-            "videos": [
-              "Carolina Hurricanes at Montreal Canadiens"
-            ],
-            "insight": "Live sports events and highlights maintain a consistent viewership, indicating the potential for real-time content."
-          },
-          "news_and_politics": {
-            "dominance": 10,
-            "videos": [
-              "Gutfeld!"
-            ],
-            "insight": "Political commentary and news analysis attract a niche but engaged audience, suggesting opportunities in timely and opinionated content."
-          },
-          "music": {
-            "dominance": 10,
-            "videos": [
-              "Le Hice Caso Al Corazón - Grupo Firme style (Music Video)"
-            ],
-            "insight": "Music videos, particularly those with unique styles or cultural ties, continue to engage viewers."
-          },
-          "science_fiction": {
-            "dominance": 10,
-            "videos": [
-              "Disclosure Day | Final Trailer"
-            ],
-            "insight": "Sci-fi trailers generate interest, indicating a market for speculative and imaginative content."
+            "insights": "The resurgence of classic franchises, such as Marvel's X-Men, indicates a high level of viewer interest in nostalgic content, especially around well-known and beloved series."
           }
         },
-        "creator_patterns": {
-          "diverse_channels": {
-            "insight": "The presence of top channels like Call of Duty, Marvel Entertainment, and FOX News across different genres indicates that established brands maintain a strong influence on viewership."
-          },
-          "independent_creators": {
-            "insight": "Independent creators focusing on niche breakdowns and reactions, such as those related to gaming and superhero content, are carving out substantial followings."
+        "live_streaming": {
+          "popularity": {
+            "evidence": [
+              "🔴LIVE | 007 First Light | The Name's Nut, Pea-Nut"
+            ],
+            "insights": "Live streaming content, especially with interactive or unique premises, is trending. This format offers real-time engagement opportunities that are appealing to audiences seeking dynamic and participatory experiences."
           }
+        }
+      },
+      "creator_patterns": {
+        "top_channels": {
+          "Call of Duty": {
+            "video_count": 1,
+            "description": "Known for high-impact, action-packed content that appeals to a broad gaming audience."
+          },
+          "Marvel Entertainment": {
+            "video_count": 1,
+            "description": "Leverages nostalgia and established franchises to maintain viewer interest."
+          }
+        }
+      },
+      "market_opportunities": {
+        "gaming": {
+          "suggestions": [
+            "Develop content around upcoming game releases and expansions to capture the initial wave of interest.",
+            "Explore crossover opportunities between gaming and other genres, such as creating narrative-driven content or live-action adaptations."
+          ]
         },
-        "market_opportunities": {
-          "cross-genre_content": {
-            "insight": "Opportunities exist for cross-genre content, such as combining gaming with cinematic elements or incorporating sports narratives into broader entertainment stories."
-          },
-          "engagement_driven_content": {
-            "insight": "Content that encourages viewer interaction, like reaction videos or breakdowns, shows potential for higher engagement and repeat viewership."
-          }
+        "entertainment": {
+          "suggestions": [
+            "Capitalize on the revival of classic franchises by offering in-depth analyses, behind-the-scenes content, or fan theory discussions.",
+            "Consider creating content that compares and contrasts original series with their modern adaptations to engage both new and long-time fans."
+          ]
+        },
+        "live_streaming": {
+          "suggestions": [
+            "Enhance viewer engagement by introducing interactive elements, such as polls, Q&As, or real-time challenges during live streams.",
+            "Create themed live events around trending topics or significant dates in pop culture to attract a larger audience."
+          ]
         }
       },
       "metadata_stats": {
@@ -543,7 +524,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1551607
+        "avg_views_per_video": 2066576
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
