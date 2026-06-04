@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-04T07:50:55.810638",
+  "timestamp": "2026-06-04T10:23:59.192407",
   "date": "2026-06-04",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HLMX2w3cwuE/hqdefault.jpg",
       "duration": "PT23M45S",
       "duration_seconds": 1425,
-      "view_count": 4438049,
-      "like_count": 302298,
-      "comment_count": 22182,
+      "view_count": 4554299,
+      "like_count": 307917,
+      "comment_count": 22550,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -49,9 +49,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YIoLf9XGqwA/hqdefault.jpg",
       "duration": "PT1H42M9S",
       "duration_seconds": 6129,
-      "view_count": 284817,
-      "like_count": 12297,
-      "comment_count": 877,
+      "view_count": 359870,
+      "like_count": 13713,
+      "comment_count": 918,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -77,9 +77,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tzlY8XD1CGg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 426074,
-      "like_count": 28674,
-      "comment_count": 1907,
+      "view_count": 457606,
+      "like_count": 29392,
+      "comment_count": 1956,
       "category_id": "1",
       "tags": [
         "2026",
@@ -105,9 +105,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NT2Is90lFoI/hqdefault.jpg",
       "duration": "PT1H17M55S",
       "duration_seconds": 4675,
-      "view_count": 2261444,
-      "like_count": 145361,
-      "comment_count": 29667,
+      "view_count": 2437943,
+      "like_count": 149769,
+      "comment_count": 30280,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -133,12 +133,97 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ej8pjisr0Pc/hqdefault.jpg",
       "duration": "PT2M51S",
       "duration_seconds": 171,
-      "view_count": 5586049,
-      "like_count": 10125,
-      "comment_count": 838,
+      "view_count": 5751999,
+      "like_count": 10639,
+      "comment_count": 873,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=ej8pjisr0Pc"
+    },
+    {
+      "video_id": "sam4rDAW4Lc",
+      "title": "🔴LIVE | ESCAPE FROM BUNGUS | HUTCHMF | 5 MILLION RUBLE CHALLENGE | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-04T07:52:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sam4rDAW4Lc/hqdefault.jpg",
+      "duration": "PT7H13M2S",
+      "duration_seconds": 25982,
+      "view_count": 422610,
+      "like_count": 8604,
+      "comment_count": 42,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=sam4rDAW4Lc"
+    },
+    {
+      "video_id": "2JeUjIqK_4c",
+      "title": "ICE CREAM MAN | Official Red Band Trailer | STUDIOCANAL",
+      "description": "This summer, the children are having a meltdown. 🍦  Witness the new RED BAND trailer for Eli Roth's ICE CREAM MAN.  In cinemas August 7th.\n\nAn idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.\n\n#icecreamman #eliroth #studiocanal \n\nVisit our website for more: https://www.studiocanal.co.uk",
+      "channel_title": "StudiocanalUK",
+      "channel_id": "UCFSILgKCKo35QYGz8Kob51g",
+      "published_at": "2026-06-03T12:58:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2JeUjIqK_4c/hqdefault.jpg",
+      "duration": "PT2M12S",
+      "duration_seconds": 132,
+      "view_count": 105863,
+      "like_count": 3654,
+      "comment_count": 739,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=2JeUjIqK_4c"
+    },
+    {
+      "video_id": "7fkymw3afAU",
+      "title": "It All Came Down To ONE PITCH! Wheel of MLB The Show! Ep. #2",
+      "description": "THE WHEEL OF MLB THE SHOW IS BACK! After a historic series opener (and night clapping cheeks after TRUEEEEUEUE), we're back for episode 2! Can we continue our winning ways, or will MMChoke appear and lose our first game?\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-06-03T22:34:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7fkymw3afAU/hqdefault.jpg",
+      "duration": "PT33M35S",
+      "duration_seconds": 2015,
+      "view_count": 153536,
+      "like_count": 7892,
+      "comment_count": 629,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=7fkymw3afAU"
+    },
+    {
+      "video_id": "GAbT5qCTXR8",
+      "title": "Lucky — Official Trailer | Apple TV",
+      "description": "Wish her luck.\n\nCatch Lucky on Apple TV - July 15 https://apple.co/_Lucky \n\nBased on the best-selling book, Lucky is a crime-drama created by Jonathan Tropper and Reese Witherspoon, premiering *July 15* on Apple TV. Starring Anya Taylor-Joy, Drew Starkey, Timothy Olyphant, and Annette Bening.\n\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nFAQ: \n\nWhen does Lucky premiere? \nLucky premieres July 15 on Apple TV.\n\nWhere can I watch Lucky?\nWatch Lucky on Apple TV.\n\nWho stars in Lucky?\nLucky features Anya Taylor-Joy, Drew Starkey, Timothy Olyphant, Annette Bening, Aunjanue Ellis-Taylor, William Fichtner, Eric Lange, Clifton Collins Jr.\n\nWhat is Lucky about? \nWhen a multi-million-dollar heist ",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-06-03T13:59:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GAbT5qCTXR8/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 1043719,
+      "like_count": 10123,
+      "comment_count": 442,
+      "category_id": "24",
+      "tags": [
+        "lucky",
+        "lucky trailer",
+        "lucky official trailer",
+        "lucky apple tv",
+        "lucky apple tv+",
+        "lucky series",
+        "lucky tv series",
+        "lucky teaser",
+        "apple tv lucky",
+        "anya taylor-joy"
+      ],
+      "url": "https://www.youtube.com/watch?v=GAbT5qCTXR8"
     },
     {
       "video_id": "bAHLEzE2sgs",
@@ -150,8 +235,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bAHLEzE2sgs/hqdefault.jpg",
       "duration": "PT16M12S",
       "duration_seconds": 972,
-      "view_count": 336763,
-      "like_count": 1351,
+      "view_count": 359243,
+      "like_count": 1354,
       "comment_count": 272,
       "category_id": "20",
       "tags": [
@@ -167,90 +252,6 @@
         "new"
       ],
       "url": "https://www.youtube.com/watch?v=bAHLEzE2sgs"
-    },
-    {
-      "video_id": "2JeUjIqK_4c",
-      "title": "ICE CREAM MAN | Official Red Band Trailer | STUDIOCANAL",
-      "description": "This summer, the children are having a meltdown. 🍦  Witness the new RED BAND trailer for Eli Roth's ICE CREAM MAN.  In cinemas August 7th.\n\nAn idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.\n\n#icecreamman #eliroth #studiocanal \n\nVisit our website for more: https://www.studiocanal.co.uk",
-      "channel_title": "StudiocanalUK",
-      "channel_id": "UCFSILgKCKo35QYGz8Kob51g",
-      "published_at": "2026-06-03T12:58:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2JeUjIqK_4c/hqdefault.jpg",
-      "duration": "PT2M12S",
-      "duration_seconds": 132,
-      "view_count": 96627,
-      "like_count": 3484,
-      "comment_count": 717,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=2JeUjIqK_4c"
-    },
-    {
-      "video_id": "7fkymw3afAU",
-      "title": "It All Came Down To ONE PITCH! Wheel of MLB The Show! Ep. #2",
-      "description": "THE WHEEL OF MLB THE SHOW IS BACK! After a historic series opener (and night clapping cheeks after TRUEEEEUEUE), we're back for episode 2! Can we continue our winning ways, or will MMChoke appear and lose our first game?\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-06-03T22:34:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7fkymw3afAU/hqdefault.jpg",
-      "duration": "PT33M35S",
-      "duration_seconds": 2015,
-      "view_count": 128128,
-      "like_count": 7467,
-      "comment_count": 613,
-      "category_id": "17",
-      "tags": [
-        "mmg"
-      ],
-      "url": "https://www.youtube.com/watch?v=7fkymw3afAU"
-    },
-    {
-      "video_id": "vrY1THC_NQE",
-      "title": "IShowSpeed - World Cup (Champions) [Official Music Video]",
-      "description": "LISTEN ON ALL PLATFORMS - https://ishowspeed.lnk.to/ChampionsWC26\n\nIShowSpeed performing his new song \"World Cup (Champions)\" - Official Music Video\n\nExec Produced by @shotbyslipz and @amesjward\nDirected by @softboyhard\nDP Joanna Nguyen\nCreative Directors @barelymanic and Wyatt Richards\n\ntts donations here/ https://streamlabs.com/ishowspeed\n\nFOLLOW ME 👀  http://link.me/ishowspeed\nMERCH 👕 -  https://speed.store/\nMEMBERSHIPS ✅  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@LiveSpeedy?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@SpeedUniverse?si=XUMYeIWoUY4TIjFl",
-      "channel_title": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "published_at": "2026-06-01T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vrY1THC_NQE/hqdefault.jpg",
-      "duration": "PT4M59S",
-      "duration_seconds": 299,
-      "view_count": 14568777,
-      "like_count": 1555877,
-      "comment_count": 102019,
-      "category_id": "20",
-      "tags": [
-        "ishowspeed",
-        "world cup"
-      ],
-      "url": "https://www.youtube.com/watch?v=vrY1THC_NQE"
-    },
-    {
-      "video_id": "GAbT5qCTXR8",
-      "title": "Lucky — Official Trailer | Apple TV",
-      "description": "Wish her luck.\n\nCatch Lucky on Apple TV - July 15 https://apple.co/_Lucky \n\nBased on the best-selling book, Lucky is a crime-drama created by Jonathan Tropper and Reese Witherspoon, premiering *July 15* on Apple TV. Starring Anya Taylor-Joy, Drew Starkey, Timothy Olyphant, and Annette Bening.\n\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nFAQ: \n\nWhen does Lucky premiere? \nLucky premieres July 15 on Apple TV.\n\nWhere can I watch Lucky?\nWatch Lucky on Apple TV.\n\nWho stars in Lucky?\nLucky features Anya Taylor-Joy, Drew Starkey, Timothy Olyphant, Annette Bening, Aunjanue Ellis-Taylor, William Fichtner, Eric Lange, Clifton Collins Jr.\n\nWhat is Lucky about? \nWhen a multi-million-dollar heist ",
-      "channel_title": "Apple TV",
-      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
-      "published_at": "2026-06-03T13:59:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GAbT5qCTXR8/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 965667,
-      "like_count": 9416,
-      "comment_count": 411,
-      "category_id": "24",
-      "tags": [
-        "lucky",
-        "lucky trailer",
-        "lucky official trailer",
-        "lucky apple tv",
-        "lucky apple tv+",
-        "lucky series",
-        "lucky tv series",
-        "lucky teaser",
-        "apple tv lucky",
-        "anya taylor-joy"
-      ],
-      "url": "https://www.youtube.com/watch?v=GAbT5qCTXR8"
     }
   ],
   "videos_with_transcripts": [],
@@ -265,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HLMX2w3cwuE/hqdefault.jpg",
       "duration": "PT23M45S",
       "duration_seconds": 1425,
-      "view_count": 4438049,
-      "like_count": 302298,
-      "comment_count": 22182,
+      "view_count": 4554299,
+      "like_count": 307917,
+      "comment_count": 22550,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -292,9 +293,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YIoLf9XGqwA/hqdefault.jpg",
       "duration": "PT1H42M9S",
       "duration_seconds": 6129,
-      "view_count": 284817,
-      "like_count": 12297,
-      "comment_count": 877,
+      "view_count": 359870,
+      "like_count": 13713,
+      "comment_count": 918,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -320,9 +321,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tzlY8XD1CGg/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 426074,
-      "like_count": 28674,
-      "comment_count": 1907,
+      "view_count": 457606,
+      "like_count": 29392,
+      "comment_count": 1956,
       "category_id": "1",
       "tags": [
         "2026",
@@ -348,9 +349,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NT2Is90lFoI/hqdefault.jpg",
       "duration": "PT1H17M55S",
       "duration_seconds": 4675,
-      "view_count": 2261444,
-      "like_count": 145361,
-      "comment_count": 29667,
+      "view_count": 2437943,
+      "like_count": 149769,
+      "comment_count": 30280,
       "category_id": "20",
       "tags": [
         "Minecraft",
@@ -376,40 +377,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ej8pjisr0Pc/hqdefault.jpg",
       "duration": "PT2M51S",
       "duration_seconds": 171,
-      "view_count": 5586049,
-      "like_count": 10125,
-      "comment_count": 838,
+      "view_count": 5751999,
+      "like_count": 10639,
+      "comment_count": 873,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=ej8pjisr0Pc"
     },
     {
-      "video_id": "bAHLEzE2sgs",
-      "title": "I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress",
-      "description": "Thank you so much for watching! 💞\n💟 ⇉ Make sure to SUBSCRIBE for daily ROBLOX content! ⇇ 💟\n🌠★ All About Me: https://callmehhaley.carrd.co/ ★🌠\n🛍️ MERCH: https://callmehhaley.com/\n⚠️ Business Inquiries: callmehhaley@altlymedia.com\n✄------------------------------------------------------------------------------------\n🌈 Hey guys! It's Haley here. Welcome back to another Roblox video on my channel. In today's video I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress This squishy video is filled with needohs, cheese, dumplings & more satisfying squishies!\n✄------------------------------------------------------------------------------------\n💫 Important Links:\n❤️ Merch: https://callmehhaley.com/\n🧡 Youtube Channels:\n・Main - https://www.youtube.com/@callmehhaley/videos\n・Vlog Channel - https://www.youtube.com/@HaleyBear/videos\n💛 Instagram: https://www.instagram.com/callmehhaley/\n💚 Twitter: https://twitter.com/callmehhaleyx\n💙 Tiktok: https://www.tiktok.com/@callmehhaley?la",
-      "channel_title": "callmehhaley",
-      "channel_id": "UCfV-uR6HJDUtKIE8gACgQNQ",
-      "published_at": "2026-05-28T16:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bAHLEzE2sgs/hqdefault.jpg",
-      "duration": "PT16M12S",
-      "duration_seconds": 972,
-      "view_count": 336763,
-      "like_count": 1351,
-      "comment_count": 272,
+      "video_id": "sam4rDAW4Lc",
+      "title": "🔴LIVE | ESCAPE FROM BUNGUS | HUTCHMF | 5 MILLION RUBLE CHALLENGE | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-04T07:52:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sam4rDAW4Lc/hqdefault.jpg",
+      "duration": "PT7H13M2S",
+      "duration_seconds": 25982,
+      "view_count": 422610,
+      "like_count": 8604,
+      "comment_count": 42,
       "category_id": "20",
       "tags": [
-        "dress to impress update",
-        "roblox",
-        "dress to impress roblox",
-        "callmehhaley",
-        "new update",
-        "update",
-        "update out",
-        "dress to impress",
-        "items",
-        "new"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=bAHLEzE2sgs"
+      "url": "https://www.youtube.com/watch?v=sam4rDAW4Lc"
     },
     {
       "video_id": "2JeUjIqK_4c",
@@ -421,9 +415,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2JeUjIqK_4c/hqdefault.jpg",
       "duration": "PT2M12S",
       "duration_seconds": 132,
-      "view_count": 96627,
-      "like_count": 3484,
-      "comment_count": 717,
+      "view_count": 105863,
+      "like_count": 3654,
+      "comment_count": 739,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=2JeUjIqK_4c"
@@ -438,9 +432,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7fkymw3afAU/hqdefault.jpg",
       "duration": "PT33M35S",
       "duration_seconds": 2015,
-      "view_count": 128128,
-      "like_count": 7467,
-      "comment_count": 613,
+      "view_count": 153536,
+      "like_count": 7892,
+      "comment_count": 629,
       "category_id": "17",
       "tags": [
         "mmg"
@@ -457,9 +451,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GAbT5qCTXR8/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 965667,
-      "like_count": 9416,
-      "comment_count": 411,
+      "view_count": 1043719,
+      "like_count": 10123,
+      "comment_count": 442,
       "category_id": "24",
       "tags": [
         "lucky",
@@ -476,74 +470,103 @@
       "url": "https://www.youtube.com/watch?v=GAbT5qCTXR8"
     },
     {
-      "video_id": "vrY1THC_NQE",
-      "title": "IShowSpeed - World Cup (Champions) [Official Music Video]",
-      "description": "LISTEN ON ALL PLATFORMS - https://ishowspeed.lnk.to/ChampionsWC26\n\nIShowSpeed performing his new song \"World Cup (Champions)\" - Official Music Video\n\nExec Produced by @shotbyslipz and @amesjward\nDirected by @softboyhard\nDP Joanna Nguyen\nCreative Directors @barelymanic and Wyatt Richards\n\ntts donations here/ https://streamlabs.com/ishowspeed\n\nFOLLOW ME 👀  http://link.me/ishowspeed\nMERCH 👕 -  https://speed.store/\nMEMBERSHIPS ✅  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@LiveSpeedy?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@SpeedUniverse?si=XUMYeIWoUY4TIjFl",
-      "channel_title": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "published_at": "2026-06-01T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vrY1THC_NQE/hqdefault.jpg",
-      "duration": "PT4M59S",
-      "duration_seconds": 299,
-      "view_count": 14568777,
-      "like_count": 1555877,
-      "comment_count": 102019,
+      "video_id": "bAHLEzE2sgs",
+      "title": "I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress",
+      "description": "Thank you so much for watching! 💞\n💟 ⇉ Make sure to SUBSCRIBE for daily ROBLOX content! ⇇ 💟\n🌠★ All About Me: https://callmehhaley.carrd.co/ ★🌠\n🛍️ MERCH: https://callmehhaley.com/\n⚠️ Business Inquiries: callmehhaley@altlymedia.com\n✄------------------------------------------------------------------------------------\n🌈 Hey guys! It's Haley here. Welcome back to another Roblox video on my channel. In today's video I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress This squishy video is filled with needohs, cheese, dumplings & more satisfying squishies!\n✄------------------------------------------------------------------------------------\n💫 Important Links:\n❤️ Merch: https://callmehhaley.com/\n🧡 Youtube Channels:\n・Main - https://www.youtube.com/@callmehhaley/videos\n・Vlog Channel - https://www.youtube.com/@HaleyBear/videos\n💛 Instagram: https://www.instagram.com/callmehhaley/\n💚 Twitter: https://twitter.com/callmehhaleyx\n💙 Tiktok: https://www.tiktok.com/@callmehhaley?la",
+      "channel_title": "callmehhaley",
+      "channel_id": "UCfV-uR6HJDUtKIE8gACgQNQ",
+      "published_at": "2026-05-28T16:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bAHLEzE2sgs/hqdefault.jpg",
+      "duration": "PT16M12S",
+      "duration_seconds": 972,
+      "view_count": 359243,
+      "like_count": 1354,
+      "comment_count": 272,
       "category_id": "20",
       "tags": [
-        "ishowspeed",
-        "world cup"
+        "dress to impress update",
+        "roblox",
+        "dress to impress roblox",
+        "callmehhaley",
+        "new update",
+        "update",
+        "update out",
+        "dress to impress",
+        "items",
+        "new"
       ],
-      "url": "https://www.youtube.com/watch?v=vrY1THC_NQE"
+      "url": "https://www.youtube.com/watch?v=bAHLEzE2sgs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 15646688,
+        "average_views_per_video": 1564668.8
+      },
       "content_trends": {
         "gaming": {
-          "popularity": "High",
-          "evidence": "Videos like 'God of War Laufey - Gameplay Reveal Trailer | PS5 Games' and 'I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress' indicate strong interest in gaming content.",
-          "opportunities": "Invest in high-quality gameplay reveals and interactive gaming challenges to capture audience interest."
+          "videos": [
+            "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
+            "I Added A DTI SQUISHY TOWER w/ An INSANE Challenge! | ROBLOX Dress to Impress",
+            "It All Came Down To ONE PITCH! Wheel of MLB The Show! Ep. #2"
+          ],
+          "insight": "Gaming content continues to be a strong trend, with popular franchises like 'God of War' and interactive gaming experiences like ROBLOX driving significant viewership."
         },
-        "trailers_and_movies": {
-          "popularity": "Moderate to High",
-          "evidence": "Multiple trailers like 'By Any Means | Official Trailer (2026 Movie)' and 'ICE CREAM MAN | Official Red Band Trailer' show a steady audience for new movie content.",
-          "opportunities": "Release timely trailers and exclusive content to leverage movie release buzz."
+        "movies_and_trailers": {
+          "videos": [
+            "By Any Means | Official Trailer (2026 Movie) – Yahya Abdul-Mateen II, Mark Wahlberg",
+            "ICE CREAM MAN | Official Red Band Trailer | STUDIOCANAL",
+            "Lucky — Official Trailer | Apple TV"
+          ],
+          "insight": "Movie trailers and upcoming film releases are key drivers of interest, particularly with high-profile actors and intriguing plots."
         },
-        "music": {
-          "popularity": "Consistent",
-          "evidence": "'IShowSpeed - World Cup (Champions) [Official Music Video]' shows continued interest in music videos.",
-          "opportunities": "Collaborate with popular creators to launch music videos and capitalize on trending themes like sports."
+        "streaming_and_live_content": {
+          "videos": [
+            "🔴LIVE | ESCAPE FROM BUNGUS | HUTCHMF | 5 MILLION RUBLE CHALLENGE | #BUNGULATE"
+          ],
+          "insight": "Live streaming events and interactive content, such as challenges, are gaining traction. This format fosters real-time engagement and viewer interaction."
         },
-        "sports": {
-          "popularity": "Emerging",
-          "evidence": "'It All Came Down To ONE PITCH! Wheel of MLB The Show! Ep. #2' indicates niche interest in sports gaming content.",
-          "opportunities": "Develop content around key sports events and leverage sports gaming crossovers."
+        "unique_themes": {
+          "videos": [
+            "I Opened My Own Casino…",
+            "Unstable SMP: Civil War FINALE",
+            "Supergirl | Tickets on Sale Now"
+          ],
+          "insight": "Unique and niche themes, such as personal ventures (casino opening) and community-driven narratives (SMP finales), capture audience interest by offering fresh perspectives."
         }
       },
       "creator_patterns": {
-        "diverse_content": {
-          "observation": "Creators are producing a wide variety of content from gaming to music videos and movie trailers.",
-          "strategy": "Encourage content diversification to reach broader audiences."
-        },
-        "collaborations": {
-          "observation": "Involvement of notable personalities like Yahya Abdul-Mateen II and Mark Wahlberg in trailers.",
-          "strategy": "Maximize reach by engaging celebrities and influencers in content production."
-        }
+        "top_creators": [
+          "PlayStation",
+          "CaseOh",
+          "DC",
+          "Parrot",
+          "Paramount Pictures"
+        ],
+        "insight": "Established brands and content creators continue to dominate the trending list, leveraging their existing fanbase and production quality to maintain visibility."
       },
       "market_opportunities": {
-        "cross-platform_promotion": {
-          "opportunity": "Leverage platforms like Apple TV and gaming consoles for cross-promotion.",
-          "actionable_step": "Create integrated marketing campaigns that span YouTube and other media platforms."
-        },
-        "localization": {
-          "opportunity": "Localized content could expand reach in diverse geographic markets.",
-          "actionable_step": "Invest in translating and adapting content for non-English speaking audiences."
-        },
-        "interactive_content": {
-          "opportunity": "High engagement potential with interactive content such as 'Unstable SMP: Civil War FINALE'.",
-          "actionable_step": "Develop interactive series that involve audience participation and real-time decision-making."
-        }
+        "recommendations": [
+          {
+            "category": "Interactive Gaming",
+            "opportunity": "Develop more interactive and challenge-based content to engage viewers in real-time involvement."
+          },
+          {
+            "category": "Upcoming Films",
+            "opportunity": "Capitalize on the anticipation for upcoming films by creating behind-the-scenes content and actor interviews to boost engagement."
+          },
+          {
+            "category": "Live Streaming",
+            "opportunity": "Explore diverse live streaming formats to tap into the real-time interaction trend, potentially collaborating with influencers to broaden reach."
+          },
+          {
+            "category": "Niche Ventures",
+            "opportunity": "Invest in content that explores unique or unconventional themes to stand out and attract niche audiences looking for novelty."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -551,7 +574,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2909239
+        "avg_views_per_video": 1564668
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
