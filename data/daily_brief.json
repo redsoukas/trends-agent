@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-05T07:43:32.744052",
+  "timestamp": "2026-06-05T10:27:18.809761",
   "date": "2026-06-05",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/a-JpwwMa5aM/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 196911,
-      "like_count": 9180,
-      "comment_count": 769,
+      "view_count": 217690,
+      "like_count": 9575,
+      "comment_count": 795,
       "category_id": "20",
       "tags": [
         "madden",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4hdImodqQks/hqdefault.jpg",
       "duration": "PT1H55M36S",
       "duration_seconds": 6936,
-      "view_count": 442597,
-      "like_count": 13081,
-      "comment_count": 286,
+      "view_count": 459672,
+      "like_count": 13263,
+      "comment_count": 311,
       "category_id": "20",
       "tags": [
         "madden",
@@ -78,9 +78,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-TWYj6sw2NQ/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 471236,
-      "like_count": 43555,
-      "comment_count": 5273,
+      "view_count": 488503,
+      "like_count": 44022,
+      "comment_count": 5344,
       "category_id": "20",
       "tags": [
         "Destiny",
@@ -106,9 +106,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HLMX2w3cwuE/hqdefault.jpg",
       "duration": "PT23M45S",
       "duration_seconds": 1425,
-      "view_count": 5500436,
-      "like_count": 354151,
-      "comment_count": 25740,
+      "view_count": 5572578,
+      "like_count": 356833,
+      "comment_count": 25972,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -133,9 +133,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wsUj-bNnGB4/hqdefault.jpg",
       "duration": "PT1H14M15S",
       "duration_seconds": 4455,
-      "view_count": 167305,
-      "like_count": 5217,
-      "comment_count": 291,
+      "view_count": 189046,
+      "like_count": 5584,
+      "comment_count": 314,
       "category_id": "20",
       "tags": [
         "college football 27",
@@ -153,9 +153,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/45q18ujEYyk/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 268094,
-      "like_count": 18807,
-      "comment_count": 1918,
+      "view_count": 277600,
+      "like_count": 18980,
+      "comment_count": 1940,
       "category_id": "20",
       "tags": [
         "2xko",
@@ -181,9 +181,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YR1m6j3H3UM/hqdefault.jpg",
       "duration": "PT35M17S",
       "duration_seconds": 2117,
-      "view_count": 612806,
-      "like_count": 42213,
-      "comment_count": 1914,
+      "view_count": 676890,
+      "like_count": 44502,
+      "comment_count": 1983,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -209,9 +209,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Rsztt5qDj_A/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 623326,
-      "like_count": 13027,
-      "comment_count": 1045,
+      "view_count": 725186,
+      "like_count": 14273,
+      "comment_count": 1085,
       "category_id": "1",
       "tags": [
         "Fall 2 Deadpoint",
@@ -228,32 +228,25 @@
       "url": "https://www.youtube.com/watch?v=Rsztt5qDj_A"
     },
     {
-      "video_id": "wyZHyKce5XY",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-06-04T22:22:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wyZHyKce5XY/hqdefault.jpg",
-      "duration": "PT10S",
-      "duration_seconds": 10,
-      "view_count": 397742,
-      "like_count": 3041,
-      "comment_count": 1,
+      "video_id": "fuVyK1bVbic",
+      "title": "🔴LIVE | TARKOBUNGUS | THICC MEN THURSDAY | WERE POOR AGAIN | BUT NOT FOR LONG | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-05T07:25:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fuVyK1bVbic/hqdefault.jpg",
+      "duration": "PT6H48M20S",
+      "duration_seconds": 24500,
+      "view_count": 431227,
+      "like_count": 8244,
+      "comment_count": 25,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=wyZHyKce5XY"
+      "url": "https://www.youtube.com/watch?v=fuVyK1bVbic"
     }
   ],
   "videos_with_transcripts": [],
@@ -268,9 +261,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/a-JpwwMa5aM/hqdefault.jpg",
       "duration": "PT1M59S",
       "duration_seconds": 119,
-      "view_count": 196911,
-      "like_count": 9180,
-      "comment_count": 769,
+      "view_count": 217690,
+      "like_count": 9575,
+      "comment_count": 795,
       "category_id": "20",
       "tags": [
         "madden",
@@ -296,9 +289,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4hdImodqQks/hqdefault.jpg",
       "duration": "PT1H55M36S",
       "duration_seconds": 6936,
-      "view_count": 442597,
-      "like_count": 13081,
-      "comment_count": 286,
+      "view_count": 459672,
+      "like_count": 13263,
+      "comment_count": 311,
       "category_id": "20",
       "tags": [
         "madden",
@@ -324,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-TWYj6sw2NQ/hqdefault.jpg",
       "duration": "PT2M13S",
       "duration_seconds": 133,
-      "view_count": 471236,
-      "like_count": 43555,
-      "comment_count": 5273,
+      "view_count": 488503,
+      "like_count": 44022,
+      "comment_count": 5344,
       "category_id": "20",
       "tags": [
         "Destiny",
@@ -352,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HLMX2w3cwuE/hqdefault.jpg",
       "duration": "PT23M45S",
       "duration_seconds": 1425,
-      "view_count": 5500436,
-      "like_count": 354151,
-      "comment_count": 25740,
+      "view_count": 5572578,
+      "like_count": 356833,
+      "comment_count": 25972,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -379,9 +372,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wsUj-bNnGB4/hqdefault.jpg",
       "duration": "PT1H14M15S",
       "duration_seconds": 4455,
-      "view_count": 167305,
-      "like_count": 5217,
-      "comment_count": 291,
+      "view_count": 189046,
+      "like_count": 5584,
+      "comment_count": 314,
       "category_id": "20",
       "tags": [
         "college football 27",
@@ -399,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/45q18ujEYyk/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 268094,
-      "like_count": 18807,
-      "comment_count": 1918,
+      "view_count": 277600,
+      "like_count": 18980,
+      "comment_count": 1940,
       "category_id": "20",
       "tags": [
         "2xko",
@@ -427,9 +420,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YR1m6j3H3UM/hqdefault.jpg",
       "duration": "PT35M17S",
       "duration_seconds": 2117,
-      "view_count": 612806,
-      "like_count": 42213,
-      "comment_count": 1914,
+      "view_count": 676890,
+      "like_count": 44502,
+      "comment_count": 1983,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -455,9 +448,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Rsztt5qDj_A/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 623326,
-      "like_count": 13027,
-      "comment_count": 1045,
+      "view_count": 725186,
+      "like_count": 14273,
+      "comment_count": 1085,
       "category_id": "1",
       "tags": [
         "Fall 2 Deadpoint",
@@ -474,80 +467,98 @@
       "url": "https://www.youtube.com/watch?v=Rsztt5qDj_A"
     },
     {
-      "video_id": "wyZHyKce5XY",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-06-04T22:22:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wyZHyKce5XY/hqdefault.jpg",
-      "duration": "PT10S",
-      "duration_seconds": 10,
-      "view_count": 397742,
-      "like_count": 3041,
-      "comment_count": 1,
+      "video_id": "fuVyK1bVbic",
+      "title": "🔴LIVE | TARKOBUNGUS | THICC MEN THURSDAY | WERE POOR AGAIN | BUT NOT FOR LONG | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-05T07:25:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fuVyK1bVbic/hqdefault.jpg",
+      "duration": "PT6H48M20S",
+      "duration_seconds": 24500,
+      "view_count": 431227,
+      "like_count": 8244,
+      "comment_count": 25,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=wyZHyKce5XY"
+      "url": "https://www.youtube.com/watch?v=fuVyK1bVbic"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 9,
-        "total_views": 8680453,
-        "average_views_per_video": 964495.89
-      },
       "content_trends": {
-        "gaming_dominance": {
-          "description": "The majority of trending videos are related to gaming, particularly sports games and popular franchises like Destiny 2 and God of War.",
-          "percentage_of_gaming_videos": 66.67,
-          "implication": "There is a strong viewer interest in gaming content, especially in trailers and gameplay reveals, indicating a lucrative opportunity for gaming content creators and marketers."
+        "gaming_focus": {
+          "description": "The majority of trending content revolves around gaming, specifically focused on popular franchises such as EA SPORTS, Destiny 2, and God of War.",
+          "evidence": [
+            "5 out of 9 video titles are related to gaming.",
+            "Top channels include EA SPORTS and PlayStation, which are well-known gaming brands."
+          ],
+          "opportunities": [
+            "Potential for increased engagement with gaming content, particularly with upcoming game releases.",
+            "Opportunity for cross-promotion between gaming channels and gaming accessory brands."
+          ]
         },
-        "trailer_interest": {
-          "description": "A significant portion of the trending videos are game reveal trailers.",
-          "number_of_trailers": 6,
-          "implication": "Trailers, especially those linked with well-known franchises, have a high potential to trend. This suggests that investing in high-quality, engaging trailers for new releases is effective for visibility."
+        "trailer_and_reveal_focus": {
+          "description": "A significant portion of the trending videos are trailers or reveal events, indicating a strong viewer interest in upcoming releases and new content.",
+          "evidence": [
+            "4 out of 9 video titles contain 'Reveal Trailer' or 'Official Trailer'.",
+            "High viewership for trailers related to anticipated games."
+          ],
+          "opportunities": [
+            "Brands can capitalize on the hype of new releases by creating teaser content and engaging viewers with countdowns or sneak peeks.",
+            "Collaborations with influencers or gaming personalities to create reaction or commentary content."
+          ]
         }
       },
       "creator_patterns": {
-        "top_channels": {
-          "EA SPORTS": {
-            "description": "Channels like EA SPORTS College and EA SPORTS MADDEN NFL are consistently producing trending content.",
-            "shared_trend": "Sports gaming is a strong niche."
-          },
-          "PlayStation": {
-            "description": "PlayStation's content, particularly associated with major game releases, trends well.",
-            "insight": "Leveraging exclusive titles and high-quality content can enhance visibility."
-          }
+        "brand_channels": {
+          "description": "Prominent video content is being produced by established brand channels, indicating their continued influence and reach.",
+          "evidence": [
+            "Channels like EA SPORTS, Destiny 2, and PlayStation are among the top channels.",
+            "These channels produce high-quality, professional content that garners significant attention."
+          ],
+          "opportunities": [
+            "Smaller creators can collaborate with these brands for increased visibility.",
+            "Brands can leverage their reach to introduce limited-time events or exclusive content to maintain viewer interest."
+          ]
         },
-        "new_comers": {
-          "description": "Emerging creators like Bordeaux and less conventional titles like 'HUMAN SHAPED' are gaining traction.",
-          "implication": "There is room for niche or unique content to trend, suggesting opportunities for new creators to break into trending lists by focusing on unique angles or untapped niches."
+        "individual_creator_engagement": {
+          "description": "Individual creators are also gaining traction by streaming live events and engaging directly with audiences.",
+          "evidence": [
+            "Video title such as '🔴LIVE | TARKOBUNGUS | THICC MEN THURSDAY' suggests live engagement strategies.",
+            "These videos provide a more interactive experience compared to pre-recorded content."
+          ],
+          "opportunities": [
+            "Encourage more creators to host live events or Q&A sessions to boost real-time engagement.",
+            "Utilize interactive features like polls or live chats to increase viewer participation."
+          ]
         }
       },
       "market_opportunities": {
-        "gaming_expansion": {
-          "description": "Given the high interest in gaming content, there's an opportunity to expand into gameplay tutorials, walkthroughs, and eSports."
+        "emerging_interests": {
+          "description": "Interest in niche gaming experiences and updates like 'Monument of Triumph Update' for Destiny 2 suggests a market for specialized content.",
+          "evidence": [
+            "Specific updates to games are highlighted in titles, indicating viewer interest in detailed game aspects."
+          ],
+          "opportunities": [
+            "Develop content around in-depth game analysis, updates, and strategies to attract dedicated gaming enthusiasts.",
+            "Create community-driven content that allows viewers to share tips and experiences related to niche game aspects."
+          ]
         },
-        "cross-platform synergy": {
-          "description": "With channels like PlayStation and EA SPORTS involved, there's potential to create cross-platform content that leverages both YouTube and gaming consoles."
-        },
-        "seasonal_trends": {
-          "description": "Timing releases around major gaming events or seasons can maximize engagement.",
-          "strategic_timing": "Consider aligning video releases with gaming conferences, new game releases, or seasonal sports events."
+        "cross-platform promotion": {
+          "description": "The integration of gaming content across different platforms provides an opportunity for cross-platform promotion and collaboration.",
+          "evidence": [
+            "PlayStation and EA SPORTS content on YouTube indicates cross-platform reach."
+          ],
+          "opportunities": [
+            "Promote content simultaneously on YouTube and other platforms like Twitch, Instagram, or TikTok for wider reach.",
+            "Collaborate with platform-specific influencers to tap into different audience segments."
+          ]
         }
       },
       "metadata_stats": {
@@ -556,7 +567,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 964494
+        "avg_views_per_video": 1004265
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
