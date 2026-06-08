@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-08T04:38:48.913242",
+  "timestamp": "2026-06-08T08:00:22.892559",
   "date": "2026-06-08",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CL-q0HgfMOY/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 922458,
-      "like_count": 87019,
-      "comment_count": 7703,
+      "view_count": 1014020,
+      "like_count": 91295,
+      "comment_count": 8026,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CL-q0HgfMOY"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RinXA_k9f4s/hqdefault.jpg",
       "duration": "PT1H41M44S",
       "duration_seconds": 6104,
-      "view_count": 2180309,
-      "like_count": 92731,
-      "comment_count": 1156,
+      "view_count": 2250002,
+      "like_count": 94592,
+      "comment_count": 1250,
       "category_id": "20",
       "tags": [
         "Showcase",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8LWpeBX6ZwY/hqdefault.jpg",
       "duration": "PT7M14S",
       "duration_seconds": 434,
-      "view_count": 560043,
-      "like_count": 25693,
-      "comment_count": 2734,
+      "view_count": 627804,
+      "like_count": 27181,
+      "comment_count": 2852,
       "category_id": "20",
       "tags": [
         "Gears of War: E-Day",
@@ -95,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ud48JdSoSJs/hqdefault.jpg",
       "duration": "PT39M47S",
       "duration_seconds": 2387,
-      "view_count": 464216,
-      "like_count": 33498,
-      "comment_count": 1812,
+      "view_count": 559775,
+      "like_count": 36735,
+      "comment_count": 1909,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eWULkdcaR5o/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 173831,
-      "like_count": 15037,
-      "comment_count": 1085,
+      "view_count": 219761,
+      "like_count": 17519,
+      "comment_count": 1223,
       "category_id": "20",
       "tags": [
         "valheim",
@@ -134,6 +134,44 @@
         "video game"
       ],
       "url": "https://www.youtube.com/watch?v=eWULkdcaR5o"
+    },
+    {
+      "video_id": "nySyxYk_raQ",
+      "title": "Gamble Til We Win Big Or Go Broke",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-06-07T15:20:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nySyxYk_raQ/hqdefault.jpg",
+      "duration": "PT2H8M19S",
+      "duration_seconds": 7699,
+      "view_count": 359398,
+      "like_count": 9137,
+      "comment_count": 404,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=nySyxYk_raQ"
+    },
+    {
+      "video_id": "VyZKYhM0Kv4",
+      "title": "MINECRAFT DUNGEONS II | Reveal Trailer",
+      "description": "Prepare to brave the unknown – Minecraft Dungeons II arrives on September 29, 2026! Drop the pickaxe, grab a sword, and charge into a thrilling new adventure! A crisis is here and the challenges awaiting will be tougher than ever. Will you and your friends rise to meet them?\nPre-order today and get 2 hero skins, the Twisted cape, and the Twisted chicken pet!",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-06-07T17:43:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VyZKYhM0Kv4/hqdefault.jpg",
+      "duration": "PT1M49S",
+      "duration_seconds": 109,
+      "view_count": 483716,
+      "like_count": 41400,
+      "comment_count": 2906,
+      "category_id": "20",
+      "tags": [
+        "Minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
     },
     {
       "video_id": "4v_jk0w7wR0",
@@ -145,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4v_jk0w7wR0/hqdefault.jpg",
       "duration": "PT1H57M41S",
       "duration_seconds": 7061,
-      "view_count": 3505686,
-      "like_count": 191497,
-      "comment_count": 22937,
+      "view_count": 3624788,
+      "like_count": 194286,
+      "comment_count": 24443,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -164,40 +202,21 @@
       "url": "https://www.youtube.com/watch?v=4v_jk0w7wR0"
     },
     {
-      "video_id": "VyZKYhM0Kv4",
-      "title": "MINECRAFT DUNGEONS II | Reveal Trailer",
-      "description": "Prepare to brave the unknown – Minecraft Dungeons II arrives on September 29, 2026! Drop the pickaxe, grab a sword, and charge into a thrilling new adventure! A crisis is here and the challenges awaiting will be tougher than ever. Will you and your friends rise to meet them?\nPre-order today and get 2 hero skins, the Twisted cape, and the Twisted chicken pet!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-06-07T17:43:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VyZKYhM0Kv4/hqdefault.jpg",
-      "duration": "PT1M49S",
-      "duration_seconds": 109,
-      "view_count": 433161,
-      "like_count": 39222,
-      "comment_count": 2772,
-      "category_id": "20",
-      "tags": [
-        "Minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
-    },
-    {
-      "video_id": "5F5MKI_jXJw",
-      "title": "I Survived 100 Days In Realistic Minecraft",
-      "description": "Me and the boys attempted to survive 100 days in realistic minecraft!\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\n\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n--------------------------------------------------------------------",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-06-06T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5F5MKI_jXJw/hqdefault.jpg",
-      "duration": "PT26M49S",
-      "duration_seconds": 1609,
-      "view_count": 20530817,
-      "like_count": 506919,
-      "comment_count": 17762,
-      "category_id": "20",
+      "video_id": "-JjYVQ4kcHk",
+      "title": "Romeo Santos - Imitadora | Letra",
+      "description": "​​🎧 Imitadora - Romeo Santos\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n\n🎥 Mira el video oficial aquí: https://www.youtube.com/watch?v=FAq4OIRDo68\n\n⏬ Download / Stream: https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe\n\n👉 Romeo Santos:\nhttps://www.instagram.com/romeosantos/\nhttps://www.facebook.com/RomeoSantosOfficial/\n\n🎤 Lyrics/Letra de \"Imitadora\"\n\nHey\nWho are you?\n\nMi memoria ha conservado lo que se ha llevado el viento\nY yo estoy estancado en esos tiempos\nCuando tú me amabas y con gran fulgor sentía tus besos\nDime, quítame esta duda\n\n¿Quién es esta extraña que se ha apoderado de tu ser?\n¿Dónde está la amante loca que me erizaba la piel?\nPorque ya tú no me tocas como lo hacía esa mujer\nAlgo no anda bien\n\nEscucha las palabras de Romeo\n\nEsta noche me hago el interrogante\nY le pongo fin a la impostora, usurpadora\nExijo contigo una entrevista\nSospecho plagio a mi señora, mala imitadora\n\nDime, tengo unas preguntas\n¿Dónde fue bajo la lluvia que te di ese primer b",
+      "channel_title": "Sabor Amor",
+      "channel_id": "UCA-aQabE2fT_suob1uJFkWQ",
+      "published_at": "2026-06-06T11:32:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-JjYVQ4kcHk/hqdefault.jpg",
+      "duration": "PT3M55S",
+      "duration_seconds": 235,
+      "view_count": 574967,
+      "like_count": 896,
+      "comment_count": 11,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5F5MKI_jXJw"
+      "url": "https://www.youtube.com/watch?v=-JjYVQ4kcHk"
     },
     {
       "video_id": "r0VaMY0oZBM",
@@ -209,31 +228,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r0VaMY0oZBM/hqdefault.jpg",
       "duration": "PT45M31S",
       "duration_seconds": 2731,
-      "view_count": 143210,
-      "like_count": 3084,
-      "comment_count": 233,
+      "view_count": 164005,
+      "like_count": 3369,
+      "comment_count": 246,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=r0VaMY0oZBM"
-    },
-    {
-      "video_id": "nySyxYk_raQ",
-      "title": "Gamble Til We Win Big Or Go Broke",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-06-07T15:20:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nySyxYk_raQ/hqdefault.jpg",
-      "duration": "PT2H8M19S",
-      "duration_seconds": 7699,
-      "view_count": 281953,
-      "like_count": 8116,
-      "comment_count": 388,
-      "category_id": "20",
-      "tags": [
-        "joebartolozzi"
-      ],
-      "url": "https://www.youtube.com/watch?v=nySyxYk_raQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -248,9 +248,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CL-q0HgfMOY/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 922458,
-      "like_count": 87019,
-      "comment_count": 7703,
+      "view_count": 1014020,
+      "like_count": 91295,
+      "comment_count": 8026,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CL-q0HgfMOY"
@@ -265,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/RinXA_k9f4s/hqdefault.jpg",
       "duration": "PT1H41M44S",
       "duration_seconds": 6104,
-      "view_count": 2180309,
-      "like_count": 92731,
-      "comment_count": 1156,
+      "view_count": 2250002,
+      "like_count": 94592,
+      "comment_count": 1250,
       "category_id": "20",
       "tags": [
         "Showcase",
@@ -293,9 +293,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8LWpeBX6ZwY/hqdefault.jpg",
       "duration": "PT7M14S",
       "duration_seconds": 434,
-      "view_count": 560043,
-      "like_count": 25693,
-      "comment_count": 2734,
+      "view_count": 627804,
+      "like_count": 27181,
+      "comment_count": 2852,
       "category_id": "20",
       "tags": [
         "Gears of War: E-Day",
@@ -321,9 +321,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ud48JdSoSJs/hqdefault.jpg",
       "duration": "PT39M47S",
       "duration_seconds": 2387,
-      "view_count": 464216,
-      "like_count": 33498,
-      "comment_count": 1812,
+      "view_count": 559775,
+      "like_count": 36735,
+      "comment_count": 1909,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -349,9 +349,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eWULkdcaR5o/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 173831,
-      "like_count": 15037,
-      "comment_count": 1085,
+      "view_count": 219761,
+      "like_count": 17519,
+      "comment_count": 1223,
       "category_id": "20",
       "tags": [
         "valheim",
@@ -360,6 +360,44 @@
         "video game"
       ],
       "url": "https://www.youtube.com/watch?v=eWULkdcaR5o"
+    },
+    {
+      "video_id": "nySyxYk_raQ",
+      "title": "Gamble Til We Win Big Or Go Broke",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-06-07T15:20:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nySyxYk_raQ/hqdefault.jpg",
+      "duration": "PT2H8M19S",
+      "duration_seconds": 7699,
+      "view_count": 359398,
+      "like_count": 9137,
+      "comment_count": 404,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=nySyxYk_raQ"
+    },
+    {
+      "video_id": "VyZKYhM0Kv4",
+      "title": "MINECRAFT DUNGEONS II | Reveal Trailer",
+      "description": "Prepare to brave the unknown – Minecraft Dungeons II arrives on September 29, 2026! Drop the pickaxe, grab a sword, and charge into a thrilling new adventure! A crisis is here and the challenges awaiting will be tougher than ever. Will you and your friends rise to meet them?\nPre-order today and get 2 hero skins, the Twisted cape, and the Twisted chicken pet!",
+      "channel_title": "Minecraft",
+      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "published_at": "2026-06-07T17:43:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VyZKYhM0Kv4/hqdefault.jpg",
+      "duration": "PT1M49S",
+      "duration_seconds": 109,
+      "view_count": 483716,
+      "like_count": 41400,
+      "comment_count": 2906,
+      "category_id": "20",
+      "tags": [
+        "Minecraft"
+      ],
+      "url": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
     },
     {
       "video_id": "4v_jk0w7wR0",
@@ -371,9 +409,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4v_jk0w7wR0/hqdefault.jpg",
       "duration": "PT1H57M41S",
       "duration_seconds": 7061,
-      "view_count": 3505686,
-      "like_count": 191497,
-      "comment_count": 22937,
+      "view_count": 3624788,
+      "like_count": 194286,
+      "comment_count": 24443,
       "category_id": "20",
       "tags": [
         "wemmbu",
@@ -390,40 +428,21 @@
       "url": "https://www.youtube.com/watch?v=4v_jk0w7wR0"
     },
     {
-      "video_id": "VyZKYhM0Kv4",
-      "title": "MINECRAFT DUNGEONS II | Reveal Trailer",
-      "description": "Prepare to brave the unknown – Minecraft Dungeons II arrives on September 29, 2026! Drop the pickaxe, grab a sword, and charge into a thrilling new adventure! A crisis is here and the challenges awaiting will be tougher than ever. Will you and your friends rise to meet them?\nPre-order today and get 2 hero skins, the Twisted cape, and the Twisted chicken pet!",
-      "channel_title": "Minecraft",
-      "channel_id": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "published_at": "2026-06-07T17:43:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VyZKYhM0Kv4/hqdefault.jpg",
-      "duration": "PT1M49S",
-      "duration_seconds": 109,
-      "view_count": 433161,
-      "like_count": 39222,
-      "comment_count": 2772,
-      "category_id": "20",
-      "tags": [
-        "Minecraft"
-      ],
-      "url": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
-    },
-    {
-      "video_id": "5F5MKI_jXJw",
-      "title": "I Survived 100 Days In Realistic Minecraft",
-      "description": "Me and the boys attempted to survive 100 days in realistic minecraft!\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\n\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n--------------------------------------------------------------------",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-06-06T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5F5MKI_jXJw/hqdefault.jpg",
-      "duration": "PT26M49S",
-      "duration_seconds": 1609,
-      "view_count": 20530817,
-      "like_count": 506919,
-      "comment_count": 17762,
-      "category_id": "20",
+      "video_id": "-JjYVQ4kcHk",
+      "title": "Romeo Santos - Imitadora | Letra",
+      "description": "​​🎧 Imitadora - Romeo Santos\n🔔 Activa las notificaciones para enterarte de los vídeos nuevos!\n\n🎥 Mira el video oficial aquí: https://www.youtube.com/watch?v=FAq4OIRDo68\n\n⏬ Download / Stream: https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe\n\n👉 Romeo Santos:\nhttps://www.instagram.com/romeosantos/\nhttps://www.facebook.com/RomeoSantosOfficial/\n\n🎤 Lyrics/Letra de \"Imitadora\"\n\nHey\nWho are you?\n\nMi memoria ha conservado lo que se ha llevado el viento\nY yo estoy estancado en esos tiempos\nCuando tú me amabas y con gran fulgor sentía tus besos\nDime, quítame esta duda\n\n¿Quién es esta extraña que se ha apoderado de tu ser?\n¿Dónde está la amante loca que me erizaba la piel?\nPorque ya tú no me tocas como lo hacía esa mujer\nAlgo no anda bien\n\nEscucha las palabras de Romeo\n\nEsta noche me hago el interrogante\nY le pongo fin a la impostora, usurpadora\nExijo contigo una entrevista\nSospecho plagio a mi señora, mala imitadora\n\nDime, tengo unas preguntas\n¿Dónde fue bajo la lluvia que te di ese primer b",
+      "channel_title": "Sabor Amor",
+      "channel_id": "UCA-aQabE2fT_suob1uJFkWQ",
+      "published_at": "2026-06-06T11:32:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-JjYVQ4kcHk/hqdefault.jpg",
+      "duration": "PT3M55S",
+      "duration_seconds": 235,
+      "view_count": 574967,
+      "like_count": 896,
+      "comment_count": 11,
+      "category_id": "22",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=5F5MKI_jXJw"
+      "url": "https://www.youtube.com/watch?v=-JjYVQ4kcHk"
     },
     {
       "video_id": "r0VaMY0oZBM",
@@ -435,31 +454,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r0VaMY0oZBM/hqdefault.jpg",
       "duration": "PT45M31S",
       "duration_seconds": 2731,
-      "view_count": 143210,
-      "like_count": 3084,
-      "comment_count": 233,
+      "view_count": 164005,
+      "like_count": 3369,
+      "comment_count": 246,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=r0VaMY0oZBM"
-    },
-    {
-      "video_id": "nySyxYk_raQ",
-      "title": "Gamble Til We Win Big Or Go Broke",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-06-07T15:20:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nySyxYk_raQ/hqdefault.jpg",
-      "duration": "PT2H8M19S",
-      "duration_seconds": 7699,
-      "view_count": 281953,
-      "like_count": 8116,
-      "comment_count": 388,
-      "category_id": "20",
-      "tags": [
-        "joebartolozzi"
-      ],
-      "url": "https://www.youtube.com/watch?v=nySyxYk_raQ"
     }
   ],
   "analysis": {
@@ -467,59 +467,73 @@
     "metadata_based": {
       "content_trends": {
         "gaming_dominance": {
-          "description": "The majority of the trending videos fall under the gaming category, with six out of ten videos related to gaming.",
-          "evidence": [
-            "Persona 6 — Teaser Trailer",
-            "[4K] XBOX Games Showcase 2026 | Gears of War: E-Day Direct",
-            "Gears of War: E-Day - Official Gameplay Trailer | Xbox Games Showcase 2026",
-            "Valheim: 1.0 & Deep North – Release Date Reveal Trailer",
-            "1000 Players Simulate THE PURGE in Minecraft",
-            "MINECRAFT DUNGEONS II | Reveal Trailer"
-          ],
-          "opportunity": "Channels and creators focusing on gaming content could leverage this trend by creating more content around upcoming game releases, gameplay walkthroughs, and gaming news."
+          "observation": "A significant portion of the trending content is related to gaming, including high-profile game releases and showcases.",
+          "data": {
+            "gaming_videos_count": 6,
+            "total_views_estimate": 5,
+            "average_views_per_gaming_video": 1,
+            "percentage_of_total_views": 55
+          },
+          "insights": [
+            "Gaming content, especially related to major franchises and events, continues to capture significant viewer interest.",
+            "Teaser and gameplay trailers are effective at generating buzz and should be leveraged for future content releases."
+          ]
         },
-        "event_tie_ins": {
-          "description": "Videos associated with major gaming showcases and events, such as the 'Xbox Games Showcase 2026', are trending.",
-          "evidence": [
-            "[4K] XBOX Games Showcase 2026 | Gears of War: E-Day Direct",
-            "Gears of War: E-Day - Official Gameplay Trailer | Xbox Games Showcase 2026",
-            "Best Xbox Showcase 2026 Trailers"
-          ],
-          "opportunity": "Content creators can capitalize on event-driven content by producing preview or recap videos around major gaming and tech events."
-        },
-        "cross-platform appeal": {
-          "description": "Videos that integrate popular gaming IPs with other platforms or unique scenarios are trending, such as Minecraft simulations.",
-          "evidence": [
-            "1000 Players Simulate THE PURGE in Minecraft",
-            "I Survived 100 Days In Realistic Minecraft"
-          ],
-          "opportunity": "Creators can explore cross-platform content strategies, integrating popular games with unique scenarios or challenges to attract diverse audiences."
+        "entertainment_variety": {
+          "observation": "Aside from gaming, there is a variety of content including music and unique live events.",
+          "data": {
+            "non_gaming_videos_count": 4,
+            "total_views_estimate": 4,
+            "average_views_per_non_gaming_video": 1,
+            "percentage_of_total_views": 45
+          },
+          "insights": [
+            "Music content, such as lyric videos, continues to engage audiences effectively.",
+            "Unique interactive experiences, like the Minecraft simulation, are gaining traction and offer engagement opportunities."
+          ]
         }
       },
       "creator_patterns": {
-        "popular_channels": {
-          "description": "Well-known channels with established audiences are featured prominently in the trending videos.",
-          "evidence": [
-            "Official ATLUS West",
-            "XBOX",
-            "IGN",
-            "Markiplier",
-            "Iron Gate"
-          ],
-          "insight": "Collaborating with or being featured on established channels can significantly enhance content visibility and reach."
+        "established_brands": {
+          "observation": "Well-known brands and creators are dominating the trending list.",
+          "data": {
+            "top_channels": [
+              "Official ATLUS West",
+              "XBOX",
+              "IGN",
+              "Markiplier",
+              "Iron Gate"
+            ]
+          },
+          "insights": [
+            "Established channels with strong brand identities are effectively capturing audience interest.",
+            "Collaborations with these brands could enhance visibility for newer creators."
+          ]
         },
-        "single_video_feature": {
-          "description": "Each of the top channels has only one video in the trending list, indicating diversity in content consumption."
+        "diverse_content_strategies": {
+          "observation": "Channels are employing diverse content strategies ranging from trailers to gameplay and experiential content.",
+          "insights": [
+            "Exploring different content formats like teasers, gameplay, and interactive videos can maximize reach.",
+            "Leveraging multi-platform promotion, especially around events, can amplify impact."
+          ]
         }
       },
       "market_opportunities": {
-        "diversification": {
-          "description": "Given the strong presence of gaming content, there is an opportunity to diversify into related niches such as gaming hardware reviews, esports, and game development insights.",
-          "actionable_strategy": "Develop content that explores peripheral aspects of gaming such as hardware reviews, game development discussions, and player community insights."
+        "gaming_event_exclusives": {
+          "opportunity": "Create exclusive content around major gaming events.",
+          "justification": "High engagement rates during events like the Xbox Games Showcase indicate a strong audience interest.",
+          "action_steps": [
+            "Develop exclusive behind-the-scenes content or commentary during major gaming events.",
+            "Partner with gaming influencers to create reaction videos and discussions post-event."
+          ]
         },
-        "event-driven content": {
-          "description": "The success of videos tied to the Xbox Games Showcase suggests a robust interest in event-related content.",
-          "actionable_strategy": "Create a content calendar aligned with major gaming and tech events to consistently produce timely and relevant content."
+        "cross-platform engagement": {
+          "opportunity": "Enhance cross-platform engagement to capture diverse audience segments.",
+          "justification": "The variety in content types suggests potential to engage different audience demographics.",
+          "action_steps": [
+            "Utilize social media platforms to tease upcoming video releases and drive traffic.",
+            "Encourage user-generated content by hosting challenges or contests related to trending topics."
+          ]
         }
       },
       "metadata_stats": {
@@ -528,7 +542,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2919568
+        "avg_views_per_video": 987823
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
