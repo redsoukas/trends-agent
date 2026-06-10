@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-09T21:40:17.188050",
-  "date": "2026-06-09",
+  "timestamp": "2026-06-10T01:13:37.742338",
+  "date": "2026-06-10",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Kf3c53eX7Lg/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 862225,
-      "like_count": 61037,
-      "comment_count": 5276,
+      "view_count": 1199604,
+      "like_count": 68004,
+      "comment_count": 5683,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -45,9 +45,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PvUPDSDZg1k/hqdefault.jpg",
       "duration": "PT2H33M35S",
       "duration_seconds": 9215,
-      "view_count": 4025096,
-      "like_count": 123987,
-      "comment_count": 2020,
+      "view_count": 4248137,
+      "like_count": 128175,
+      "comment_count": 2540,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -73,9 +73,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j151ek2rYs0/hqdefault.jpg",
       "duration": "PT1M27S",
       "duration_seconds": 87,
-      "view_count": 596633,
-      "like_count": 53752,
-      "comment_count": 6801,
+      "view_count": 723973,
+      "like_count": 58461,
+      "comment_count": 7212,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=j151ek2rYs0"
@@ -90,8 +90,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ft9cQnxFoKc/hqdefault.jpg",
       "duration": "PT1H26M1S",
       "duration_seconds": 5161,
-      "view_count": 261993,
-      "like_count": 6959,
+      "view_count": 353250,
+      "like_count": 8202,
       "comment_count": 0,
       "category_id": "20",
       "tags": [
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UKJL7JfIvNg/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 607619,
-      "like_count": 50209,
-      "comment_count": 4033,
+      "view_count": 771323,
+      "like_count": 55409,
+      "comment_count": 4495,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -138,9 +138,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vY6QT50zrf0/hqdefault.jpg",
       "duration": "PT55M7S",
       "duration_seconds": 3307,
-      "view_count": 274155,
-      "like_count": 7633,
-      "comment_count": 1167,
+      "view_count": 337886,
+      "like_count": 8346,
+      "comment_count": 1252,
       "category_id": "20",
       "tags": [
         "Nintendo",
@@ -157,27 +157,23 @@
       "url": "https://www.youtube.com/watch?v=vY6QT50zrf0"
     },
     {
-      "video_id": "rN9viJlnir4",
-      "title": "Streamer University 2026 | Official Enrollment Trailer",
-      "description": "Streamer University 2026 | Official Enrollment Trailer\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
-      "channel_title": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "published_at": "2026-06-08T19:13:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rN9viJlnir4/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 1079258,
-      "like_count": 91719,
-      "comment_count": 10674,
-      "category_id": "24",
+      "video_id": "67ho3OxCmmM",
+      "title": "Whalefall | Official Teaser | In Theaters October 16",
+      "description": "The odds of being swallowed alive by a whale are not zero.\n\nWatch the new teaser for #Whalefall and see the film only in theaters October 16.\n\nFollowing the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-06-09T16:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/67ho3OxCmmM/hqdefault.jpg",
+      "duration": "PT2M26S",
+      "duration_seconds": 146,
+      "view_count": 1118998,
+      "like_count": 17492,
+      "comment_count": 2773,
+      "category_id": "1",
       "tags": [
-        "Kai Cenat",
-        "Kai Cenat Live",
-        "Kai Cenat Livestream",
-        "Kai Live",
-        "Kai Cenat Funny"
+        "Trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=rN9viJlnir4"
+      "url": "https://www.youtube.com/watch?v=67ho3OxCmmM"
     },
     {
       "video_id": "Ym2wmd19S_c",
@@ -189,9 +185,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ym2wmd19S_c/hqdefault.jpg",
       "duration": "PT52M56S",
       "duration_seconds": 3176,
-      "view_count": 1576564,
-      "like_count": 110167,
-      "comment_count": 19555,
+      "view_count": 1832433,
+      "like_count": 116144,
+      "comment_count": 20232,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -212,9 +208,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MGsiJGZ2j7g/hqdefault.jpg",
       "duration": "PT3M58S",
       "duration_seconds": 238,
-      "view_count": 87462,
-      "like_count": 9434,
-      "comment_count": 1805,
+      "view_count": 113466,
+      "like_count": 10561,
+      "comment_count": 1948,
       "category_id": "20",
       "tags": [
         "thegamersjoint twitch",
@@ -229,6 +225,32 @@
         "anime"
       ],
       "url": "https://www.youtube.com/watch?v=MGsiJGZ2j7g"
+    },
+    {
+      "video_id": "ElUQcoMI1MA",
+      "title": "I Pretended to be a BABY DRAGON on ONE CHUNK!",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-06-09T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ElUQcoMI1MA/hqdefault.jpg",
+      "duration": "PT21M45S",
+      "duration_seconds": 1305,
+      "view_count": 285835,
+      "like_count": 4910,
+      "comment_count": 779,
+      "category_id": "24",
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=ElUQcoMI1MA"
     }
   ],
   "videos_with_transcripts": [],
@@ -243,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Kf3c53eX7Lg/hqdefault.jpg",
       "duration": "PT1M1S",
       "duration_seconds": 61,
-      "view_count": 862225,
-      "like_count": 61037,
-      "comment_count": 5276,
+      "view_count": 1199604,
+      "like_count": 68004,
+      "comment_count": 5683,
       "category_id": "20",
       "tags": [
         "Marvel Rivals",
@@ -266,9 +288,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PvUPDSDZg1k/hqdefault.jpg",
       "duration": "PT2H33M35S",
       "duration_seconds": 9215,
-      "view_count": 4025096,
-      "like_count": 123987,
-      "comment_count": 2020,
+      "view_count": 4248137,
+      "like_count": 128175,
+      "comment_count": 2540,
       "category_id": "20",
       "tags": [
         "nintendo",
@@ -294,9 +316,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/j151ek2rYs0/hqdefault.jpg",
       "duration": "PT1M27S",
       "duration_seconds": 87,
-      "view_count": 596633,
-      "like_count": 53752,
-      "comment_count": 6801,
+      "view_count": 723973,
+      "like_count": 58461,
+      "comment_count": 7212,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=j151ek2rYs0"
@@ -311,8 +333,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ft9cQnxFoKc/hqdefault.jpg",
       "duration": "PT1H26M1S",
       "duration_seconds": 5161,
-      "view_count": 261993,
-      "like_count": 6959,
+      "view_count": 353250,
+      "like_count": 8202,
       "comment_count": 0,
       "category_id": "20",
       "tags": [
@@ -339,9 +361,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UKJL7JfIvNg/hqdefault.jpg",
       "duration": "PT4M1S",
       "duration_seconds": 241,
-      "view_count": 607619,
-      "like_count": 50209,
-      "comment_count": 4033,
+      "view_count": 771323,
+      "like_count": 55409,
+      "comment_count": 4495,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -359,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vY6QT50zrf0/hqdefault.jpg",
       "duration": "PT55M7S",
       "duration_seconds": 3307,
-      "view_count": 274155,
-      "like_count": 7633,
-      "comment_count": 1167,
+      "view_count": 337886,
+      "like_count": 8346,
+      "comment_count": 1252,
       "category_id": "20",
       "tags": [
         "Nintendo",
@@ -378,27 +400,23 @@
       "url": "https://www.youtube.com/watch?v=vY6QT50zrf0"
     },
     {
-      "video_id": "rN9viJlnir4",
-      "title": "Streamer University 2026 | Official Enrollment Trailer",
-      "description": "Streamer University 2026 | Official Enrollment Trailer\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
-      "channel_title": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "published_at": "2026-06-08T19:13:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rN9viJlnir4/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 1079258,
-      "like_count": 91719,
-      "comment_count": 10674,
-      "category_id": "24",
+      "video_id": "67ho3OxCmmM",
+      "title": "Whalefall | Official Teaser | In Theaters October 16",
+      "description": "The odds of being swallowed alive by a whale are not zero.\n\nWatch the new teaser for #Whalefall and see the film only in theaters October 16.\n\nFollowing the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2026-06-09T16:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/67ho3OxCmmM/hqdefault.jpg",
+      "duration": "PT2M26S",
+      "duration_seconds": 146,
+      "view_count": 1118998,
+      "like_count": 17492,
+      "comment_count": 2773,
+      "category_id": "1",
       "tags": [
-        "Kai Cenat",
-        "Kai Cenat Live",
-        "Kai Cenat Livestream",
-        "Kai Live",
-        "Kai Cenat Funny"
+        "Trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=rN9viJlnir4"
+      "url": "https://www.youtube.com/watch?v=67ho3OxCmmM"
     },
     {
       "video_id": "Ym2wmd19S_c",
@@ -410,9 +428,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ym2wmd19S_c/hqdefault.jpg",
       "duration": "PT52M56S",
       "duration_seconds": 3176,
-      "view_count": 1576564,
-      "like_count": 110167,
-      "comment_count": 19555,
+      "view_count": 1832433,
+      "like_count": 116144,
+      "comment_count": 20232,
       "category_id": "20",
       "tags": [
         "minecraft",
@@ -433,9 +451,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MGsiJGZ2j7g/hqdefault.jpg",
       "duration": "PT3M58S",
       "duration_seconds": 238,
-      "view_count": 87462,
-      "like_count": 9434,
-      "comment_count": 1805,
+      "view_count": 113466,
+      "like_count": 10561,
+      "comment_count": 1948,
       "category_id": "20",
       "tags": [
         "thegamersjoint twitch",
@@ -450,73 +468,111 @@
         "anime"
       ],
       "url": "https://www.youtube.com/watch?v=MGsiJGZ2j7g"
+    },
+    {
+      "video_id": "ElUQcoMI1MA",
+      "title": "I Pretended to be a BABY DRAGON on ONE CHUNK!",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-06-09T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ElUQcoMI1MA/hqdefault.jpg",
+      "duration": "PT21M45S",
+      "duration_seconds": 1305,
+      "view_count": 285835,
+      "like_count": 4910,
+      "comment_count": 779,
+      "category_id": "24",
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=ElUQcoMI1MA"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 9,
-        "total_views": 9371005,
-        "average_views_per_video": 1041222,
-        "categories": "Unknown",
-        "notable_trends": {
-          "prevalence_of_trailers": "High",
-          "gaming_content": "High",
-          "reaction_videos": "Presence noted"
-        }
-      },
-      "video_titles_analysis": {
-        "trailers_and_reveals": [
-          "Cyclops: The Fearless Leader | Character Reveal Trailer | Marvel Rivals",
-          "KINGDOM HEARTS IV Teaser Trailer | June 2026",
-          "End of the Line | Shion Hero Trailer | Overwatch",
-          "KINGDOM HEARTS 4 2026 Trailer REACTION"
-        ],
-        "nintendo_focus": [
-          "Nintendo Direct 6.9.2026 + Nintendo Treehouse: Live | June 2026",
-          "Nintendo Direct – 10/06/2026",
-          "Nintendo Direct – 09/06/2026"
-        ],
-        "unique_concepts": [
-          "Streamer University 2026 | Official Enrollment Trailer",
-          "I Became the Strongest on the Unstable SMP"
+      "trending_analysis": {
+        "total_videos": 10,
+        "total_views": 10984905,
+        "average_views_per_video": 1098490.5,
+        "common_themes": [
+          "Gaming",
+          "Entertainment",
+          "Trailers"
         ]
       },
-      "top_channels_analysis": {
-        "channel_focus": {
-          "Marvel Rivals": "Character introduction and gaming",
-          "Nintendo of America": "Direct announcements",
-          "KINGDOM HEARTS": "Franchise teasers and reactions",
-          "NintendoAU": "Regional Nintendo Direct",
-          "PlayOverwatch": "Character updates in games"
+      "video_title_analysis": {
+        "character_reveal_trailers": 2,
+        "gaming_event_coverage": 3,
+        "teaser_trailers": 3,
+        "reaction_videos": 1,
+        "gaming_experiments": 2
+      },
+      "category_analysis": {
+        "gaming": {
+          "video_count": 7,
+          "estimated_views": 7695435,
+          "channels": [
+            "Nintendo of America",
+            "NintendoAU",
+            "PlayOverwatch",
+            "KINGDOM HEARTS"
+          ]
         },
-        "engagement_strategies": {
-          "cross-promotion": "Channels use trailers and teasers to build anticipation",
-          "event-centric": "Nintendo Direct events are scheduled strategically for maximum impact"
+        "entertainment": {
+          "video_count": 3,
+          "estimated_views": 3299470,
+          "channels": [
+            "Marvel Rivals",
+            "KINGDOM HEARTS"
+          ]
+        }
+      },
+      "channel_analysis": {
+        "dominant_channels": [
+          "Nintendo of America",
+          "NintendoAU"
+        ],
+        "channel_focus": {
+          "Nintendo": {
+            "video_count": 3,
+            "focus": "gaming event coverage"
+          },
+          "Marvel Rivals": {
+            "video_count": 1,
+            "focus": "character reveal trailers"
+          }
         }
       },
       "market_opportunities": {
-        "gaming_trailers": {
-          "insight": "High demand for gaming-related trailers and teasers",
-          "actionable_recommendation": "Increase production of high-quality trailers for upcoming games"
+        "gaming_events": {
+          "insight": "Frequent Nintendo Directs indicate strong audience engagement with event coverage. Expanding to other gaming events could capture similar interest.",
+          "actionable_strategy": "Create content around major gaming conferences and events to leverage existing audience interest."
         },
-        "live_stream_events": {
-          "insight": "Nintendo Directs show strong engagement; potential for other franchises",
-          "actionable_recommendation": "Develop live stream events for major announcements across other gaming franchises"
+        "reaction_content": {
+          "insight": "Reaction videos, such as the 'KINGDOM HEARTS 4 2026 Trailer REACTION', present opportunities for engagement and community building.",
+          "actionable_strategy": "Incorporate more reaction-style content to capitalize on community interaction and viewership spikes during trailer releases."
         },
-        "reaction_videos": {
-          "insight": "Presence of reaction videos indicates audience interest",
-          "actionable_recommendation": "Encourage influencers to create reaction content for major trailers"
+        "character_reveals": {
+          "insight": "Character reveals, especially in popular franchises like Marvel and Overwatch, show high engagement potential.",
+          "actionable_strategy": "Develop content that dives deeper into character lore and analysis following reveals to maintain viewer interest post-launch."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1041222
+        "avg_views_per_video": 1098490
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
