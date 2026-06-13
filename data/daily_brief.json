@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-13T10:04:33.441498",
+  "timestamp": "2026-06-13T12:48:21.064607",
   "date": "2026-06-13",
   "summary": {
     "total_videos_analyzed": 8,
     "music_videos_filtered": 6,
-    "high_potential_videos": 6,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fEkFkFZyx5w/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 993077,
-      "like_count": 48525,
-      "comment_count": 4211,
+      "view_count": 1002250,
+      "like_count": 48632,
+      "comment_count": 4191,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -42,9 +42,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PtZVmOWw1Xs/hqdefault.jpg",
       "duration": "PT20M51S",
       "duration_seconds": 1251,
-      "view_count": 1222320,
-      "like_count": 97453,
-      "comment_count": 11190,
+      "view_count": 1551906,
+      "like_count": 113167,
+      "comment_count": 12328,
       "category_id": "20",
       "tags": [
         "minecraft horror",
@@ -63,9 +63,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NIKfR_uF_d0/hqdefault.jpg",
       "duration": "PT59S",
       "duration_seconds": 59,
-      "view_count": 2365798,
-      "like_count": 55336,
-      "comment_count": 3285,
+      "view_count": 2374556,
+      "like_count": 55613,
+      "comment_count": 3308,
       "category_id": "1",
       "tags": [
         "Pixar",
@@ -86,9 +86,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ljakgN0ifuY/hqdefault.jpg",
       "duration": "PT2H50M9S",
       "duration_seconds": 10209,
-      "view_count": 1381458,
-      "like_count": 61233,
-      "comment_count": 3495,
+      "view_count": 1434498,
+      "like_count": 62723,
+      "comment_count": 3559,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -114,9 +114,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JFQcDFhNh4o/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 12443270,
-      "like_count": 54335,
-      "comment_count": 2607,
+      "view_count": 12546290,
+      "like_count": 56326,
+      "comment_count": 2673,
       "category_id": "1",
       "tags": [
         "Heart of the beast",
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P88rFDSc9wc/hqdefault.jpg",
       "duration": "PT7H30M53S",
       "duration_seconds": 27053,
-      "view_count": 546478,
-      "like_count": 9098,
-      "comment_count": 75,
+      "view_count": 568499,
+      "like_count": 9272,
+      "comment_count": 92,
       "category_id": "20",
       "tags": [
         "funny",
@@ -152,10 +152,10 @@
       "description": "The boys eagerly anticipate the trailer to the new Terrance and Philip movie.",
       "channel_title": "Comedy Central",
       "channel_id": "UCwig0jo9FYVff261Pd05MgQ",
-      "published_at": "2026-05-30T01:09:20Z",
+      "published_at": "2026-06-13T12:24:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ScS4Gu0t_MI/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
+      "duration": "PT31M5S",
+      "duration_seconds": 1865,
       "view_count": 0,
       "like_count": 0,
       "comment_count": 0,
@@ -173,9 +173,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZaN13444eiY/hqdefault.jpg",
       "duration": "PT15M50S",
       "duration_seconds": 950,
-      "view_count": 615678,
-      "like_count": 12272,
-      "comment_count": 3000,
+      "view_count": 714745,
+      "like_count": 13527,
+      "comment_count": 3194,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -204,9 +204,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fEkFkFZyx5w/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 993077,
-      "like_count": 48525,
-      "comment_count": 4211,
+      "view_count": 1002250,
+      "like_count": 48632,
+      "comment_count": 4191,
       "category_id": "20",
       "tags": [
         "Overwatch 2",
@@ -224,9 +224,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PtZVmOWw1Xs/hqdefault.jpg",
       "duration": "PT20M51S",
       "duration_seconds": 1251,
-      "view_count": 1222320,
-      "like_count": 97453,
-      "comment_count": 11190,
+      "view_count": 1551906,
+      "like_count": 113167,
+      "comment_count": 12328,
       "category_id": "20",
       "tags": [
         "minecraft horror",
@@ -245,9 +245,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ljakgN0ifuY/hqdefault.jpg",
       "duration": "PT2H50M9S",
       "duration_seconds": 10209,
-      "view_count": 1381458,
-      "like_count": 61233,
-      "comment_count": 3495,
+      "view_count": 1434498,
+      "like_count": 62723,
+      "comment_count": 3559,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -273,9 +273,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JFQcDFhNh4o/hqdefault.jpg",
       "duration": "PT2M26S",
       "duration_seconds": 146,
-      "view_count": 12443270,
-      "like_count": 54335,
-      "comment_count": 2607,
+      "view_count": 12546290,
+      "like_count": 56326,
+      "comment_count": 2673,
       "category_id": "1",
       "tags": [
         "Heart of the beast",
@@ -294,9 +294,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P88rFDSc9wc/hqdefault.jpg",
       "duration": "PT7H30M53S",
       "duration_seconds": 27053,
-      "view_count": 546478,
-      "like_count": 9098,
-      "comment_count": 75,
+      "view_count": 568499,
+      "like_count": 9272,
+      "comment_count": 92,
       "category_id": "20",
       "tags": [
         "funny",
@@ -304,6 +304,23 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=P88rFDSc9wc"
+    },
+    {
+      "video_id": "ScS4Gu0t_MI",
+      "title": "The New Terrance and Phillip Movie Trailer",
+      "description": "The boys eagerly anticipate the trailer to the new Terrance and Philip movie.",
+      "channel_title": "Comedy Central",
+      "channel_id": "UCwig0jo9FYVff261Pd05MgQ",
+      "published_at": "2026-06-13T12:24:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ScS4Gu0t_MI/hqdefault.jpg",
+      "duration": "PT31M5S",
+      "duration_seconds": 1865,
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=ScS4Gu0t_MI"
     },
     {
       "video_id": "ZaN13444eiY",
@@ -315,9 +332,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZaN13444eiY/hqdefault.jpg",
       "duration": "PT15M50S",
       "duration_seconds": 950,
-      "view_count": 615678,
-      "like_count": 12272,
-      "comment_count": 3000,
+      "view_count": 714745,
+      "like_count": 13527,
+      "comment_count": 3194,
       "category_id": "20",
       "tags": [
         "foltyn",
@@ -343,9 +360,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NIKfR_uF_d0/hqdefault.jpg",
       "duration": "PT59S",
       "duration_seconds": 59,
-      "view_count": 2365798,
-      "like_count": 55336,
-      "comment_count": 3285,
+      "view_count": 2374556,
+      "like_count": 55613,
+      "comment_count": 3308,
       "category_id": "1",
       "tags": [
         "Pixar",
@@ -355,107 +372,126 @@
         "Animation"
       ],
       "url": "https://www.youtube.com/watch?v=NIKfR_uF_d0"
-    },
-    {
-      "video_id": "ScS4Gu0t_MI",
-      "title": "The New Terrance and Phillip Movie Trailer",
-      "description": "The boys eagerly anticipate the trailer to the new Terrance and Philip movie.",
-      "channel_title": "Comedy Central",
-      "channel_id": "UCwig0jo9FYVff261Pd05MgQ",
-      "published_at": "2026-05-30T01:09:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ScS4Gu0t_MI/hqdefault.jpg",
-      "duration": "P0D",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "like_count": 0,
-      "comment_count": 0,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=ScS4Gu0t_MI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "gaming": {
-          "description": "Gaming content, specifically related to popular franchises like Overwatch and Elden Ring, is prominent. The inclusion of a new hero gameplay trailer and a live stream event suggests high viewer engagement with interactive and dynamic content.",
-          "insights": [
+        "gaming_and_entertainment": {
+          "description": "A significant portion of trending content is related to gaming and entertainment, including new game releases, trailers, and gameplay.",
+          "data_points": [
             {
-              "trend": "Hero Gameplay Trailers",
-              "opportunity": "Develop more content around new hero releases and updates for existing games to capitalize on viewer interest."
+              "video_title": "Shion | New Hero Gameplay Trailer | Overwatch",
+              "channel": "PlayOverwatch"
             },
             {
-              "trend": "Live Streaming",
-              "opportunity": "Engage audience with live events, collaborations, and real-time interactions to foster community and increase viewer loyalty."
+              "video_title": "🔴LIVE | ELDEN RING NUTREIGN w/ Cloakzy & HutchMF | FREAK BOB FRIDAY | #BUNGULATE"
+            },
+            {
+              "video_title": "Roblox Would You Rather, But Its CURSED.."
             }
+          ],
+          "insights": [
+            "Gaming content continues to attract significant viewership, indicating strong audience engagement within this niche.",
+            "Live streaming events and gameplay discussions (e.g., Elden Ring live event) are emerging as popular formats."
+          ],
+          "opportunities": [
+            "Brands can capitalize on collaborations with popular gamers or streamers to increase product visibility.",
+            "Creating content around new game releases can drive engagement and viewership spikes."
           ]
         },
-        "horror": {
-          "description": "Horror-themed videos, including 'Something is Inside Your House...' and 'FEARS TO FATHOM SCRATCH CREEK', are attracting attention. This indicates a strong viewer interest in suspense and horror genres.",
-          "insights": [
+        "movie_trailers_and_teasers": {
+          "description": "Multiple video entries are trailers or teasers for upcoming movies, showcasing strong interest in entertainment previews.",
+          "data_points": [
             {
-              "trend": "Horror and Suspense",
-              "opportunity": "Create serialized horror content or collaborate with horror creators to tap into the suspense genre's dedicated audience."
+              "video_title": "Gatto | Teaser Trailer | In Theaters March 5, 2027",
+              "channel": "Pixar"
+            },
+            {
+              "video_title": "Heart of the Beast | Official Trailer (2026 Movie) - Brad Pitt, J.K. Simmons, Anna Lambe"
+            },
+            {
+              "video_title": "The New Terrance and Phillip Movie Trailer"
             }
+          ],
+          "insights": [
+            "Trailers for upcoming films consistently attract high view counts, reflecting an audience eager for new entertainment offerings.",
+            "Featuring well-known actors or franchises in trailers can significantly boost viewer interest."
+          ],
+          "opportunities": [
+            "Investing in high-quality trailers with compelling storytelling can maximize pre-release hype.",
+            "Engaging in cross-promotions with major film studios can enhance a channel's visibility."
           ]
         },
-        "movies_and_trailers": {
-          "description": "Movie trailers such as 'Heart of the Beast' and 'Gatto' highlight continued interest in upcoming film releases.",
-          "insights": [
+        "horror_and_mystery": {
+          "description": "Horror and mystery themes are evident in trending content, indicating a niche audience interest.",
+          "data_points": [
             {
-              "trend": "Anticipated Movie Releases",
-              "opportunity": "Leverage early release of trailers and exclusive behind-the-scenes content to build hype and engage with film enthusiasts."
-            }
-          ]
-        },
-        "animation_and_comedy": {
-          "description": "Animated and comedic content like 'The New Terrance and Phillip Movie Trailer' shows ongoing demand for humor and animation.",
-          "insights": [
+              "video_title": "Something is Inside Your House..."
+            },
             {
-              "trend": "Animation and Comedy",
-              "opportunity": "Develop animated comedic shorts or parody content to resonate with audiences seeking humor and lighthearted entertainment."
+              "video_title": "FEARS TO FATHOM SCRATCH CREEK"
             }
+          ],
+          "insights": [
+            "Horror-themed content often generates intrigue due to its suspenseful nature, appealing to fans of the genre.",
+            "Short-form horror content or teasers can effectively capture audience attention with minimal investment."
+          ],
+          "opportunities": [
+            "Developing series or episodic content in the horror genre could sustain audience interest over time.",
+            "Collaborations with horror-focused creators could expand reach within this niche."
           ]
         }
       },
       "creator_patterns": {
-        "diverse_content": {
-          "description": "Creators are diversifying content types, including gameplay, live streaming, horror, and movie trailers.",
-          "insights": [
+        "diverse_channels": {
+          "description": "Trending content is distributed across a variety of channels, each featuring different genres.",
+          "data_points": [
             {
-              "pattern": "Content Diversification",
-              "opportunity": "Encourage creators to explore multiple content types to broaden their audience base and increase content variety."
-            }
-          ]
-        },
-        "collaborations": {
-          "description": "Collaborative live streams, as seen with 'ELDEN RING NUTREIGN', are popular.",
-          "insights": [
+              "channel": "PlayOverwatch",
+              "videos": 1
+            },
             {
-              "pattern": "Collaborative Content",
-              "opportunity": "Promote collaborations between popular creators to merge audiences and enhance content reach."
+              "channel": "ThatMob",
+              "videos": 1
+            },
+            {
+              "channel": "Pixar",
+              "videos": 1
+            },
+            {
+              "channel": "CaseOh",
+              "videos": 1
+            },
+            {
+              "channel": "Paramount Pictures",
+              "videos": 1
             }
+          ],
+          "insights": [
+            "No single channel dominates the trending list, suggesting diverse audience interests and opportunities for various creators to gain traction.",
+            "Channels associated with established brands or franchises tend to garner immediate attention."
+          ],
+          "opportunities": [
+            "Emerging creators can leverage niche content to carve out unique spaces in the market.",
+            "Consistent engagement through various content types (trailers, gameplay, live events) can build channel authority."
           ]
         }
       },
       "market_opportunities": {
-        "platform_trends": {
-          "description": "YouTube's algorithm favors diverse content ranging from interactive live streams to cinematic trailers.",
-          "insights": [
-            {
-              "trend": "Algorithmic Favoritism",
-              "opportunity": "Optimize video descriptions, tags, and thumbnails to align with trending content and increase discoverability."
-            }
+        "engagement_strategies": {
+          "description": "The current landscape presents several avenues for enhanced audience engagement.",
+          "strategies": [
+            "Incorporating interactive elements such as live Q&A sessions or viewer polls during premieres.",
+            "Utilizing cross-platform promotions to drive traffic from social media to YouTube content."
           ]
         },
-        "engagement_strategies": {
-          "description": "High engagement is noted with interactive content and trailers.",
-          "insights": [
-            {
-              "strategy": "Interactive Engagement",
-              "opportunity": "Incorporate polls, Q&A sessions, and interactive comments to boost viewer participation and retention."
-            }
+        "collaborative_content_creation": {
+          "description": "Collaboration with other creators and brands can amplify reach and diversify content offerings.",
+          "opportunities": [
+            "Partnering with influencers in gaming and entertainment for co-branded content.",
+            "Creating multi-channel networks to share audiences and resources."
           ]
         }
       },
@@ -465,7 +501,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2446009
+        "avg_views_per_video": 2524093
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
