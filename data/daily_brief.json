@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-21T07:51:49.147368",
+  "timestamp": "2026-06-21T10:19:35.633633",
   "date": "2026-06-21",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s8cP1Vt5US8/hqdefault.jpg",
       "duration": "PT1M31S",
       "duration_seconds": 91,
-      "view_count": 4201715,
-      "like_count": 324800,
-      "comment_count": 11409,
+      "view_count": 4332076,
+      "like_count": 329938,
+      "comment_count": 11576,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=s8cP1Vt5US8"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z8U_0y4ShW0/hqdefault.jpg",
       "duration": "PT28M21S",
       "duration_seconds": 1701,
-      "view_count": 2040831,
-      "like_count": 144853,
-      "comment_count": 3240,
+      "view_count": 2301987,
+      "like_count": 156104,
+      "comment_count": 3375,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kchopi72JBs/hqdefault.jpg",
       "duration": "PT11M37S",
       "duration_seconds": 697,
-      "view_count": 185734,
-      "like_count": 4483,
-      "comment_count": 374,
+      "view_count": 198746,
+      "like_count": 4654,
+      "comment_count": 385,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kchopi72JBs"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wZW016nna48/hqdefault.jpg",
       "duration": "PT34M14S",
       "duration_seconds": 2054,
-      "view_count": 7764049,
-      "like_count": 246123,
-      "comment_count": 8842,
+      "view_count": 8670128,
+      "like_count": 266017,
+      "comment_count": 9261,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=wZW016nna48"
@@ -101,9 +101,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VxSgqK5a4Sc/hqdefault.jpg",
       "duration": "PT13M16S",
       "duration_seconds": 796,
-      "view_count": 85767,
-      "like_count": 4867,
-      "comment_count": 883,
+      "view_count": 97021,
+      "like_count": 5256,
+      "comment_count": 952,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -120,23 +120,25 @@
       "url": "https://www.youtube.com/watch?v=VxSgqK5a4Sc"
     },
     {
-      "video_id": "Ud5e2iI8JQE",
-      "title": "Escaping The Monsters In The Middle Of The Ocean...",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-06-20T14:49:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ud5e2iI8JQE/hqdefault.jpg",
-      "duration": "PT1H26M22S",
-      "duration_seconds": 5182,
-      "view_count": 330788,
-      "like_count": 10961,
-      "comment_count": 623,
+      "video_id": "JatMjM4FIcM",
+      "title": "🔴LIVE | LIARS BAR w/ Gimmick x Coconut x Gingy | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-21T08:19:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JatMjM4FIcM/hqdefault.jpg",
+      "duration": "PT7H35M38S",
+      "duration_seconds": 27338,
+      "view_count": 550655,
+      "like_count": 9380,
+      "comment_count": 14,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=Ud5e2iI8JQE"
+      "url": "https://www.youtube.com/watch?v=JatMjM4FIcM"
     },
     {
       "video_id": "62bIsvRcPv0",
@@ -148,40 +150,59 @@
       "thumbnail_url": "https://i.ytimg.com/vi/62bIsvRcPv0/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 19689468,
-      "like_count": 563509,
-      "comment_count": 22944,
+      "view_count": 19877198,
+      "like_count": 565285,
+      "comment_count": 22988,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=62bIsvRcPv0"
     },
     {
-      "video_id": "yA6pvflvKM0",
-      "title": "This Serial Killer Was Relentless…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\nCheck out ⬇️\nMusic by Karl Casey @ White Bat Audio https://www.youtube.com/whitebataudio\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-06-20T22:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yA6pvflvKM0/hqdefault.jpg",
-      "duration": "PT1H49M54S",
-      "duration_seconds": 6594,
-      "view_count": 226105,
-      "like_count": 10716,
-      "comment_count": 772,
+      "video_id": "Ud5e2iI8JQE",
+      "title": "Escaping The Monsters In The Middle Of The Ocean...",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-06-20T14:49:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ud5e2iI8JQE/hqdefault.jpg",
+      "duration": "PT1H26M22S",
+      "duration_seconds": 5182,
+      "view_count": 368567,
+      "like_count": 11563,
+      "comment_count": 645,
       "category_id": "20",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "joebartolozzi"
       ],
-      "url": "https://www.youtube.com/watch?v=yA6pvflvKM0"
+      "url": "https://www.youtube.com/watch?v=Ud5e2iI8JQE"
+    },
+    {
+      "video_id": "Cy7W6D0A5QM",
+      "title": "Chris Brown - Deuces (Lyrics) Ft. Tyga, Kevin McCall",
+      "description": "#deuces #chrisbrown #tyga #kevinmccall #lyrics\nLyrics:\n\n[Verse 1: Chris Brown, with Kevin McCall]\nAll that bullshit's for the birds\nYou ain't nothin' but a vulture-ure-ure-ure\nAlways hoping for the worst\nWaiting for me to fuck up\nYou'll regret the day when I find another girl, yeah\nThat knows just what I need, she know just what I mean\nWhen I tell her keep it drama free\n(Whoa-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nChu-Chuckin' up them deuces\n(Oh-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nYeah, yeah, told you that I'm leaving, deuces\n(Oh-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nWoah, oh\nI know you mad, but so what? I wish you best of luck\nAnd now I'm finna throw them deuces up\n\n[Chorus: Chris Brown & Kevin McCall]\nI'm on some new shit\nI'm chuckin' my deuces up to her (Deuces)\nI'm moving on to something better, better, better\nNo more tryna make it work (Deuces)\nYou made me wanna say bye-bye (Say bye-bye)\nSay bye-bye (Say bye-bye)\nSay bye-bye to her (Say bye-bye, deuces)\nYou made me wanna say bye-bye (S",
+      "channel_title": "S&R",
+      "channel_id": "UCDhKMez849J7ErTAP-z2bSA",
+      "published_at": "2026-06-15T04:09:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cy7W6D0A5QM/hqdefault.jpg",
+      "duration": "PT4M37S",
+      "duration_seconds": 277,
+      "view_count": 52081,
+      "like_count": 167,
+      "comment_count": 2,
+      "category_id": "22",
+      "tags": [
+        "Chris Brown",
+        "Deuces",
+        "Chris Brown Deuces",
+        "Deuces Chris Brown",
+        "Chris Brown Deuces lyrics",
+        "Chris Brown Deuces TikTok remix lyrics",
+        "Deuces lyrics",
+        "Chris Brown Deuces remix",
+        "Deuces lyrics Chris Brown",
+        "Chris Brown Deuces lyrics ft Tyga"
+      ],
+      "url": "https://www.youtube.com/watch?v=Cy7W6D0A5QM"
     },
     {
       "video_id": "UyuTKdIsSAA",
@@ -193,9 +214,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UyuTKdIsSAA/hqdefault.jpg",
       "duration": "PT14M56S",
       "duration_seconds": 896,
-      "view_count": 38502,
-      "like_count": 3288,
-      "comment_count": 316,
+      "view_count": 41332,
+      "like_count": 3445,
+      "comment_count": 328,
       "category_id": "1",
       "tags": [
         "Spider-Man Brand New Day",
@@ -210,32 +231,6 @@
         "Destin Daniel Cretton"
       ],
       "url": "https://www.youtube.com/watch?v=UyuTKdIsSAA"
-    },
-    {
-      "video_id": "ppPWhnKonhQ",
-      "title": "FGTeeV Plays Squid Game for $456,000!",
-      "description": "FGTeeV Family (Duddy, Moomy, Lex, Mike, Chase, and Shawn) Play Roblox Squid Game and Compete For $456,000... Enjoy!\n👍 *SUBSCRIBE* https://www.youtube.com/@fgteev (Press the 🔔 for good luck)\n\n🆕FGTeeV The Big Shrink *NEW BOOK* 🤏 🆕 ➡ https://amzn.to/3JpkhPm\n🆕FGTeeV Level Up Activity Book 🆕➡ https://amzn.to/40R0Jbv\n🐺 FGTeeV Campfire Tales: The Werehouse 🐺➡ https://amzn.to/4nwhNfZ\n👕FGTeeV Merch here ➡ http://shop.fgteev.com",
-      "channel_title": "FGTeeV",
-      "channel_id": "UCC-RHF_77zQdKcA75hr5oTQ",
-      "published_at": "2026-06-20T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ppPWhnKonhQ/hqdefault.jpg",
-      "duration": "PT30M28S",
-      "duration_seconds": 1828,
-      "view_count": 416746,
-      "like_count": 14656,
-      "comment_count": 3183,
-      "category_id": "20",
-      "tags": [
-        "fgteev",
-        "fgteev youtube",
-        "youtube fgteev",
-        "fgteev gaming",
-        "fgteev minecraft",
-        "fgteev roblox",
-        "gameplay",
-        "fgteev skit"
-      ],
-      "url": "https://www.youtube.com/watch?v=ppPWhnKonhQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -250,9 +245,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/s8cP1Vt5US8/hqdefault.jpg",
       "duration": "PT1M31S",
       "duration_seconds": 91,
-      "view_count": 4201715,
-      "like_count": 324800,
-      "comment_count": 11409,
+      "view_count": 4332076,
+      "like_count": 329938,
+      "comment_count": 11576,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=s8cP1Vt5US8"
@@ -267,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z8U_0y4ShW0/hqdefault.jpg",
       "duration": "PT28M21S",
       "duration_seconds": 1701,
-      "view_count": 2040831,
-      "like_count": 144853,
-      "comment_count": 3240,
+      "view_count": 2301987,
+      "like_count": 156104,
+      "comment_count": 3375,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -295,9 +290,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kchopi72JBs/hqdefault.jpg",
       "duration": "PT11M37S",
       "duration_seconds": 697,
-      "view_count": 185734,
-      "like_count": 4483,
-      "comment_count": 374,
+      "view_count": 198746,
+      "like_count": 4654,
+      "comment_count": 385,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kchopi72JBs"
@@ -312,9 +307,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wZW016nna48/hqdefault.jpg",
       "duration": "PT34M14S",
       "duration_seconds": 2054,
-      "view_count": 7764049,
-      "like_count": 246123,
-      "comment_count": 8842,
+      "view_count": 8670128,
+      "like_count": 266017,
+      "comment_count": 9261,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=wZW016nna48"
@@ -329,9 +324,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VxSgqK5a4Sc/hqdefault.jpg",
       "duration": "PT13M16S",
       "duration_seconds": 796,
-      "view_count": 85767,
-      "like_count": 4867,
-      "comment_count": 883,
+      "view_count": 97021,
+      "like_count": 5256,
+      "comment_count": 952,
       "category_id": "20",
       "tags": [
         "maximilian",
@@ -348,23 +343,25 @@
       "url": "https://www.youtube.com/watch?v=VxSgqK5a4Sc"
     },
     {
-      "video_id": "Ud5e2iI8JQE",
-      "title": "Escaping The Monsters In The Middle Of The Ocean...",
-      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
-      "channel_title": "Joe Bart Games",
-      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
-      "published_at": "2026-06-20T14:49:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ud5e2iI8JQE/hqdefault.jpg",
-      "duration": "PT1H26M22S",
-      "duration_seconds": 5182,
-      "view_count": 330788,
-      "like_count": 10961,
-      "comment_count": 623,
+      "video_id": "JatMjM4FIcM",
+      "title": "🔴LIVE | LIARS BAR w/ Gimmick x Coconut x Gingy | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-06-21T08:19:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JatMjM4FIcM/hqdefault.jpg",
+      "duration": "PT7H35M38S",
+      "duration_seconds": 27338,
+      "view_count": 550655,
+      "like_count": 9380,
+      "comment_count": 14,
       "category_id": "20",
       "tags": [
-        "joebartolozzi"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=Ud5e2iI8JQE"
+      "url": "https://www.youtube.com/watch?v=JatMjM4FIcM"
     },
     {
       "video_id": "62bIsvRcPv0",
@@ -376,40 +373,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/62bIsvRcPv0/hqdefault.jpg",
       "duration": "PT2M42S",
       "duration_seconds": 162,
-      "view_count": 19689468,
-      "like_count": 563509,
-      "comment_count": 22944,
+      "view_count": 19877198,
+      "like_count": 565285,
+      "comment_count": 22988,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=62bIsvRcPv0"
     },
     {
-      "video_id": "yA6pvflvKM0",
-      "title": "This Serial Killer Was Relentless…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\nCheck out ⬇️\nMusic by Karl Casey @ White Bat Audio https://www.youtube.com/whitebataudio\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-06-20T22:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yA6pvflvKM0/hqdefault.jpg",
-      "duration": "PT1H49M54S",
-      "duration_seconds": 6594,
-      "view_count": 226105,
-      "like_count": 10716,
-      "comment_count": 772,
+      "video_id": "Ud5e2iI8JQE",
+      "title": "Escaping The Monsters In The Middle Of The Ocean...",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-06-20T14:49:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ud5e2iI8JQE/hqdefault.jpg",
+      "duration": "PT1H26M22S",
+      "duration_seconds": 5182,
+      "view_count": 368567,
+      "like_count": 11563,
+      "comment_count": 645,
       "category_id": "20",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "joebartolozzi"
       ],
-      "url": "https://www.youtube.com/watch?v=yA6pvflvKM0"
+      "url": "https://www.youtube.com/watch?v=Ud5e2iI8JQE"
     },
     {
       "video_id": "UyuTKdIsSAA",
@@ -421,9 +409,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UyuTKdIsSAA/hqdefault.jpg",
       "duration": "PT14M56S",
       "duration_seconds": 896,
-      "view_count": 38502,
-      "like_count": 3288,
-      "comment_count": 316,
+      "view_count": 41332,
+      "like_count": 3445,
+      "comment_count": 328,
       "category_id": "1",
       "tags": [
         "Spider-Man Brand New Day",
@@ -440,82 +428,131 @@
       "url": "https://www.youtube.com/watch?v=UyuTKdIsSAA"
     },
     {
-      "video_id": "ppPWhnKonhQ",
-      "title": "FGTeeV Plays Squid Game for $456,000!",
-      "description": "FGTeeV Family (Duddy, Moomy, Lex, Mike, Chase, and Shawn) Play Roblox Squid Game and Compete For $456,000... Enjoy!\n👍 *SUBSCRIBE* https://www.youtube.com/@fgteev (Press the 🔔 for good luck)\n\n🆕FGTeeV The Big Shrink *NEW BOOK* 🤏 🆕 ➡ https://amzn.to/3JpkhPm\n🆕FGTeeV Level Up Activity Book 🆕➡ https://amzn.to/40R0Jbv\n🐺 FGTeeV Campfire Tales: The Werehouse 🐺➡ https://amzn.to/4nwhNfZ\n👕FGTeeV Merch here ➡ http://shop.fgteev.com",
-      "channel_title": "FGTeeV",
-      "channel_id": "UCC-RHF_77zQdKcA75hr5oTQ",
-      "published_at": "2026-06-20T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ppPWhnKonhQ/hqdefault.jpg",
-      "duration": "PT30M28S",
-      "duration_seconds": 1828,
-      "view_count": 416746,
-      "like_count": 14656,
-      "comment_count": 3183,
-      "category_id": "20",
+      "video_id": "Cy7W6D0A5QM",
+      "title": "Chris Brown - Deuces (Lyrics) Ft. Tyga, Kevin McCall",
+      "description": "#deuces #chrisbrown #tyga #kevinmccall #lyrics\nLyrics:\n\n[Verse 1: Chris Brown, with Kevin McCall]\nAll that bullshit's for the birds\nYou ain't nothin' but a vulture-ure-ure-ure\nAlways hoping for the worst\nWaiting for me to fuck up\nYou'll regret the day when I find another girl, yeah\nThat knows just what I need, she know just what I mean\nWhen I tell her keep it drama free\n(Whoa-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nChu-Chuckin' up them deuces\n(Oh-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nYeah, yeah, told you that I'm leaving, deuces\n(Oh-whoa-whoa-whoa-whoa-whoa-whoa-whoa)\nWoah, oh\nI know you mad, but so what? I wish you best of luck\nAnd now I'm finna throw them deuces up\n\n[Chorus: Chris Brown & Kevin McCall]\nI'm on some new shit\nI'm chuckin' my deuces up to her (Deuces)\nI'm moving on to something better, better, better\nNo more tryna make it work (Deuces)\nYou made me wanna say bye-bye (Say bye-bye)\nSay bye-bye (Say bye-bye)\nSay bye-bye to her (Say bye-bye, deuces)\nYou made me wanna say bye-bye (S",
+      "channel_title": "S&R",
+      "channel_id": "UCDhKMez849J7ErTAP-z2bSA",
+      "published_at": "2026-06-15T04:09:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cy7W6D0A5QM/hqdefault.jpg",
+      "duration": "PT4M37S",
+      "duration_seconds": 277,
+      "view_count": 52081,
+      "like_count": 167,
+      "comment_count": 2,
+      "category_id": "22",
       "tags": [
-        "fgteev",
-        "fgteev youtube",
-        "youtube fgteev",
-        "fgteev gaming",
-        "fgteev minecraft",
-        "fgteev roblox",
-        "gameplay",
-        "fgteev skit"
+        "Chris Brown",
+        "Deuces",
+        "Chris Brown Deuces",
+        "Deuces Chris Brown",
+        "Chris Brown Deuces lyrics",
+        "Chris Brown Deuces TikTok remix lyrics",
+        "Deuces lyrics",
+        "Chris Brown Deuces remix",
+        "Deuces lyrics Chris Brown",
+        "Chris Brown Deuces lyrics ft Tyga"
       ],
-      "url": "https://www.youtube.com/watch?v=ppPWhnKonhQ"
+      "url": "https://www.youtube.com/watch?v=Cy7W6D0A5QM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "anime_and_manga": {
-          "popularity": "High",
-          "evidence": "MAPPA CHANNEL's Chainsaw Man teaser is trending, indicating a strong interest in anime trailers and new arcs.",
-          "opportunities": "Creating content around popular anime releases, teasers, and reviews could capture significant viewer interest."
-        },
-        "pop_culture_and_superheroes": {
-          "popularity": "High",
-          "evidence": "Videos related to Avengers and Spider-Man are trending, showcasing continued interest in superhero franchises.",
-          "opportunities": "Producing breakdowns, theories, and reaction videos for upcoming superhero films and trailers can attract a large audience."
-        },
-        "gaming_and_reactions": {
-          "popularity": "Moderate to High",
-          "evidence": "MrBeast Gaming's Squid Game video and Maximilian Dood's reaction content are trending, highlighting the appeal of gaming and reaction videos.",
-          "opportunities": "Leveraging popular games and creating engaging reaction content or challenges can drive significant engagement."
-        },
-        "mystery_and_thrillers": {
-          "popularity": "Moderate",
-          "evidence": "Content like 'This Serial Killer Was Relentless…' indicates a niche interest in true crime and thriller content.",
-          "opportunities": "Developing content around unsolved mysteries, crime analysis, and thriller storytelling could attract viewers interested in suspenseful narratives."
+      "overview": {
+        "total_videos": 10,
+        "total_views": 36489791,
+        "average_views_per_video": 3648979.1,
+        "categories": "Unknown"
+      },
+      "trending_patterns": {
+        "video_titles": {
+          "anime_and_manga": [
+            {
+              "title": "『チェンソーマン 刺客篇』ティザーPV②／Chainsaw Man – Assassins Arc Official Trailer 2",
+              "channel": "MAPPA CHANNEL",
+              "trend": "High interest in anime and manga trailers, particularly popular titles like Chainsaw Man."
+            }
+          ],
+          "gaming_and_reactions": [
+            {
+              "title": "Meccha Chameleon spots that make you say 'That Pain't Me'",
+              "channel": "SMii7Y",
+              "trend": "Continued interest in unique and comedic gaming content."
+            },
+            {
+              "title": "MAX REACTS: KENSHIRO Trailer/Gameplay - FATAL FURY COTW",
+              "channel": "Maximilian Dood",
+              "trend": "Reaction videos to gaming content continue to engage audiences."
+            },
+            {
+              "title": "If You Build It, I'll Buy It!",
+              "channel": "MrBeast Gaming",
+              "trend": "High engagement with challenge-based gaming content."
+            }
+          ],
+          "entertainment_and_analysis": [
+            {
+              "title": "Avengers Doomsday Doctor Doom First Look Breakdown",
+              "channel": "Emergency Awesome",
+              "trend": "Strong audience interest in breakdowns and analyses of upcoming movies and shows."
+            },
+            {
+              "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+              "trend": "Consistent popularity of superhero content, especially related to Spider-Man."
+            }
+          ],
+          "music": [
+            {
+              "title": "Chris Brown - Deuces (Lyrics) Ft. Tyga, Kevin McCall",
+              "trend": "Lyric videos for popular songs continue to attract views."
+            }
+          ]
         }
       },
       "creator_patterns": {
-        "diversification": {
-          "trend": "High",
-          "evidence": "Creators like MrBeast are expanding into gaming, showcasing a trend where creators diversify content to capture multiple audience segments.",
-          "opportunities": "Content creators should explore branching into adjacent content categories to increase reach and audience engagement."
-        },
-        "international_content": {
-          "trend": "Growing",
-          "evidence": "Chainsaw Man's Japanese teaser indicates a strong international presence in trending videos.",
-          "opportunities": "Localizing content for international audiences or creating bilingual content can tap into diverse viewer bases."
-        }
+        "top_channels": [
+          {
+            "channel_name": "MAPPA CHANNEL",
+            "content_focus": "Anime trailers",
+            "opportunity": "Leveraging popular anime releases for high engagement."
+          },
+          {
+            "channel_name": "SMii7Y",
+            "content_focus": "Gaming commentary and humor",
+            "opportunity": "Further exploration of trending games and meme culture."
+          },
+          {
+            "channel_name": "Emergency Awesome",
+            "content_focus": "Entertainment analysis",
+            "opportunity": "In-depth content analysis of upcoming shows and movies."
+          },
+          {
+            "channel_name": "MrBeast Gaming",
+            "content_focus": "Challenge-based gaming",
+            "opportunity": "Creating unique gaming challenges to maintain viewer interest."
+          }
+        ]
       },
       "market_opportunities": {
-        "cross-platform_promotion": {
-          "strategy": "Utilize platforms like TikTok and Instagram to promote YouTube content, especially for trailers and teasers.",
-          "rationale": "Short-form content platforms can drive traffic to YouTube through engaging snippets and teasers."
-        },
-        "collaborations": {
-          "strategy": "Collaborate with other popular creators within the same or complementary niches to expand audience reach.",
-          "rationale": "Cross-channel collaborations can introduce creators to new audiences and create shared viewer bases."
-        },
-        "timely_releases": {
-          "strategy": "Align content releases with major events or releases in the entertainment industry for maximum impact.",
-          "rationale": "Releasing content around the time of major film trailers, game releases, or events can increase visibility and engagement."
-        }
+        "content_creation": [
+          {
+            "category": "Anime and Manga",
+            "insight": "Create content around popular anime series and upcoming releases to capture the interest of anime fans."
+          },
+          {
+            "category": "Gaming",
+            "insight": "Develop engaging and humorous content centered around trending games and challenges."
+          },
+          {
+            "category": "Entertainment",
+            "insight": "Produce detailed analyses and breakdowns of upcoming blockbuster movies and popular TV series."
+          },
+          {
+            "category": "Music",
+            "insight": "Explore the creation of lyric videos for trending music tracks to attract views."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -523,7 +560,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3497970
+        "avg_views_per_video": 3648979
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
