@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-22T08:19:40.233449",
+  "timestamp": "2026-06-22T11:05:58.032094",
   "date": "2026-06-22",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 6,
-    "high_potential_videos": 7,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
@@ -12,6 +12,23 @@
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "xZUavocHU2g",
+      "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
+      "description": "Justice will be taken, one crumb at a time. Watch new episodes of House of the Dragon, Sundays at 9pm on HBO Max. #HOTD",
+      "channel_title": "GameofThrones",
+      "channel_id": "UCQzdMyuz0Lf4zo4uGcEujFw",
+      "published_at": "2026-06-22T02:13:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xZUavocHU2g/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 215693,
+      "like_count": 6856,
+      "comment_count": 678,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xZUavocHU2g"
+    },
     {
       "video_id": "OjOTclvjPw0",
       "title": "INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy",
@@ -22,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OjOTclvjPw0/hqdefault.jpg",
       "duration": "PT58M33S",
       "duration_seconds": 3513,
-      "view_count": 766465,
-      "like_count": 53397,
-      "comment_count": 2413,
+      "view_count": 862419,
+      "like_count": 56983,
+      "comment_count": 2511,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -50,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3kMr6JCbppI/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 452654,
-      "like_count": 36110,
-      "comment_count": 1579,
+      "view_count": 479912,
+      "like_count": 37038,
+      "comment_count": 1626,
       "category_id": "20",
       "tags": [
         "Summit",
@@ -78,9 +95,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XyJ8jGjogic/hqdefault.jpg",
       "duration": "PT37M25S",
       "duration_seconds": 2245,
-      "view_count": 820863,
-      "like_count": 53488,
-      "comment_count": 1706,
+      "view_count": 921644,
+      "like_count": 57329,
+      "comment_count": 1784,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -97,23 +114,6 @@
       "url": "https://www.youtube.com/watch?v=XyJ8jGjogic"
     },
     {
-      "video_id": "xZUavocHU2g",
-      "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
-      "description": "Justice will be taken, one crumb at a time. Watch new episodes of House of the Dragon, Sundays at 9pm on HBO Max. #HOTD",
-      "channel_title": "GameofThrones",
-      "channel_id": "UCQzdMyuz0Lf4zo4uGcEujFw",
-      "published_at": "2026-06-22T02:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xZUavocHU2g/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 132861,
-      "like_count": 5335,
-      "comment_count": 561,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xZUavocHU2g"
-    },
-    {
       "video_id": "ueb59rJDF8g",
       "title": "GRIEF 97% 🔴 75%+ x30 🔴 STREAM 365",
       "description": "GET NEW DOGGIE MERCH: https://doggie-shop.com/\n\nBecome a member! https://www.youtube.com/channel/UC3ZhM0fDxU9bqqlwWRMHwuw/join\n\nDonations are appreciated :) \nhttps://streamlabs.com/doggiegd/tip\n\nMy discord server: https://discord.gg/sGSHg8W\nMy Twitter: https://twitter.com/DasherDoggie\n\nFAQ:\nQ: When will you verify GRIEF?\nA: Either today or tomorrow\n\nQ: How old are you?\nA: 20 years old (Birthday is April 5th)\n\nQ: What's your hardest demon?\nA: Acheron as of 11/1/22\n\nQ: When did you start playing GD?\nA: November 30th 2014 (beginning of 1.9)\n\nQ: Where do you live?\nA: New York\n\nQ: Where can I download your texture pack?\nA: There is a video on @IrvingSoluble YouTube channel\n\nStream Transition by: @qdzjoe \n\nDiscord: @doggiegd",
@@ -123,9 +123,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ueb59rJDF8g/hqdefault.jpg",
       "duration": "PT2H48M16S",
       "duration_seconds": 10096,
-      "view_count": 698954,
-      "like_count": 25245,
-      "comment_count": 360,
+      "view_count": 718298,
+      "like_count": 25559,
+      "comment_count": 403,
       "category_id": "20",
       "tags": [
         "geometry dash",
@@ -151,40 +151,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbr8yc1_ljQ/hqdefault.jpg",
       "duration": "PT12M26S",
       "duration_seconds": 746,
-      "view_count": 107700,
-      "like_count": 3671,
-      "comment_count": 445,
+      "view_count": 118758,
+      "like_count": 3879,
+      "comment_count": 464,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lbr8yc1_ljQ"
     },
     {
-      "video_id": "lXWBRLZoyEI",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-06-22T00:39:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lXWBRLZoyEI/hqdefault.jpg",
-      "duration": "PT8S",
-      "duration_seconds": 8,
-      "view_count": 469723,
-      "like_count": 3365,
-      "comment_count": 1,
+      "video_id": "F8SKbLtJhUU",
+      "title": "We’re Trying New Spots (Meccha Chameleon)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-06-21T22:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F8SKbLtJhUU/hqdefault.jpg",
+      "duration": "PT1H45M1S",
+      "duration_seconds": 6301,
+      "view_count": 366039,
+      "like_count": 12486,
+      "comment_count": 978,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=lXWBRLZoyEI"
+      "url": "https://www.youtube.com/watch?v=F8SKbLtJhUU"
     },
     {
       "video_id": "ny8zeqDaLlI",
@@ -196,9 +196,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ny8zeqDaLlI/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 32358,
-      "like_count": 197,
-      "comment_count": 29,
+      "view_count": 46543,
+      "like_count": 265,
+      "comment_count": 36,
       "category_id": "24",
       "tags": [
         "house of the dragon",
@@ -215,36 +215,47 @@
       "url": "https://www.youtube.com/watch?v=ny8zeqDaLlI"
     },
     {
-      "video_id": "Z8U_0y4ShW0",
-      "title": "Meccha Chameleon spots that make you say \"That Pain't Me\"",
-      "description": "Finally... More Meccha Chameleon\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@daukey \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommo",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-06-20T19:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z8U_0y4ShW0/hqdefault.jpg",
-      "duration": "PT28M21S",
-      "duration_seconds": 1701,
-      "view_count": 3647581,
-      "like_count": 210486,
-      "comment_count": 3937,
+      "video_id": "HorICRtODpY",
+      "title": "MECCHA CHAMELEON CUSTOM MAPS ARE HILARIOUS",
+      "description": "USE CODE \"GRIZ\" FOR 10% OFF GSUPPS!► https://gamersupps.gg/griz\n\nPODCAST: https://www.youtube.com/@CloolessPodcast\n\nSUB 2 MY OTHER CHANNELS:\nhttps://www.youtube.com/@MoreGrizzy\nhttps://www.youtube.com/@grizzytv\nhttps://www.youtube.com/@GrizzyVODS\n\nTwitch ►https://www.twitch.tv/Grizzy\nTwitter ► https://twitter.com/SoGrizzy\nInstagram ► https://www.instagram.com/sogrizzy\n\nEdited by: @ThatDeadBlade \n\nMusic In The Video► http://www.epidemicsound.com/\n\nBusiness Inquires: businessgrizzy@gmail.com",
+      "channel_title": "Grizzy",
+      "channel_id": "UCPbGiUt4Yu8EsaFM-KAmgjg",
+      "published_at": "2026-06-21T20:43:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HorICRtODpY/hqdefault.jpg",
+      "duration": "PT45M3S",
+      "duration_seconds": 2703,
+      "view_count": 306068,
+      "like_count": 15741,
+      "comment_count": 228,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "meccha chameleon",
-        "meccha chameleon game",
-        "meccha chameleon funny moments",
-        "meccha chameleon gameplay",
-        "camouflage game",
-        "chameleon game meme"
+        "grizzy",
+        "grizzytv",
+        "moregrizzy",
+        "grizzyvods"
       ],
-      "url": "https://www.youtube.com/watch?v=Z8U_0y4ShW0"
+      "url": "https://www.youtube.com/watch?v=HorICRtODpY"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
+    {
+      "video_id": "xZUavocHU2g",
+      "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
+      "description": "Justice will be taken, one crumb at a time. Watch new episodes of House of the Dragon, Sundays at 9pm on HBO Max. #HOTD",
+      "channel_title": "GameofThrones",
+      "channel_id": "UCQzdMyuz0Lf4zo4uGcEujFw",
+      "published_at": "2026-06-22T02:13:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xZUavocHU2g/hqdefault.jpg",
+      "duration": "PT2M13S",
+      "duration_seconds": 133,
+      "view_count": 215693,
+      "like_count": 6856,
+      "comment_count": 678,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xZUavocHU2g"
+    },
     {
       "video_id": "OjOTclvjPw0",
       "title": "INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy",
@@ -255,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OjOTclvjPw0/hqdefault.jpg",
       "duration": "PT58M33S",
       "duration_seconds": 3513,
-      "view_count": 766465,
-      "like_count": 53397,
-      "comment_count": 2413,
+      "view_count": 862419,
+      "like_count": 56983,
+      "comment_count": 2511,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -283,9 +294,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3kMr6JCbppI/hqdefault.jpg",
       "duration": "PT3M6S",
       "duration_seconds": 186,
-      "view_count": 452654,
-      "like_count": 36110,
-      "comment_count": 1579,
+      "view_count": 479912,
+      "like_count": 37038,
+      "comment_count": 1626,
       "category_id": "20",
       "tags": [
         "Summit",
@@ -311,9 +322,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XyJ8jGjogic/hqdefault.jpg",
       "duration": "PT37M25S",
       "duration_seconds": 2245,
-      "view_count": 820863,
-      "like_count": 53488,
-      "comment_count": 1706,
+      "view_count": 921644,
+      "like_count": 57329,
+      "comment_count": 1784,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -330,23 +341,6 @@
       "url": "https://www.youtube.com/watch?v=XyJ8jGjogic"
     },
     {
-      "video_id": "xZUavocHU2g",
-      "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
-      "description": "Justice will be taken, one crumb at a time. Watch new episodes of House of the Dragon, Sundays at 9pm on HBO Max. #HOTD",
-      "channel_title": "GameofThrones",
-      "channel_id": "UCQzdMyuz0Lf4zo4uGcEujFw",
-      "published_at": "2026-06-22T02:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xZUavocHU2g/hqdefault.jpg",
-      "duration": "PT2M13S",
-      "duration_seconds": 133,
-      "view_count": 132861,
-      "like_count": 5335,
-      "comment_count": 561,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xZUavocHU2g"
-    },
-    {
       "video_id": "ueb59rJDF8g",
       "title": "GRIEF 97% 🔴 75%+ x30 🔴 STREAM 365",
       "description": "GET NEW DOGGIE MERCH: https://doggie-shop.com/\n\nBecome a member! https://www.youtube.com/channel/UC3ZhM0fDxU9bqqlwWRMHwuw/join\n\nDonations are appreciated :) \nhttps://streamlabs.com/doggiegd/tip\n\nMy discord server: https://discord.gg/sGSHg8W\nMy Twitter: https://twitter.com/DasherDoggie\n\nFAQ:\nQ: When will you verify GRIEF?\nA: Either today or tomorrow\n\nQ: How old are you?\nA: 20 years old (Birthday is April 5th)\n\nQ: What's your hardest demon?\nA: Acheron as of 11/1/22\n\nQ: When did you start playing GD?\nA: November 30th 2014 (beginning of 1.9)\n\nQ: Where do you live?\nA: New York\n\nQ: Where can I download your texture pack?\nA: There is a video on @IrvingSoluble YouTube channel\n\nStream Transition by: @qdzjoe \n\nDiscord: @doggiegd",
@@ -356,9 +350,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ueb59rJDF8g/hqdefault.jpg",
       "duration": "PT2H48M16S",
       "duration_seconds": 10096,
-      "view_count": 698954,
-      "like_count": 25245,
-      "comment_count": 360,
+      "view_count": 718298,
+      "like_count": 25559,
+      "comment_count": 403,
       "category_id": "20",
       "tags": [
         "geometry dash",
@@ -384,68 +378,62 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lbr8yc1_ljQ/hqdefault.jpg",
       "duration": "PT12M26S",
       "duration_seconds": 746,
-      "view_count": 107700,
-      "like_count": 3671,
-      "comment_count": 445,
+      "view_count": 118758,
+      "like_count": 3879,
+      "comment_count": 464,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lbr8yc1_ljQ"
     },
     {
-      "video_id": "Z8U_0y4ShW0",
-      "title": "Meccha Chameleon spots that make you say \"That Pain't Me\"",
-      "description": "Finally... More Meccha Chameleon\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@BlargMyShnoople \n@daukey \n@Yumi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommo",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-06-20T19:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z8U_0y4ShW0/hqdefault.jpg",
-      "duration": "PT28M21S",
-      "duration_seconds": 1701,
-      "view_count": 3647581,
-      "like_count": 210486,
-      "comment_count": 3937,
+      "video_id": "F8SKbLtJhUU",
+      "title": "We’re Trying New Spots (Meccha Chameleon)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-06-21T22:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F8SKbLtJhUU/hqdefault.jpg",
+      "duration": "PT1H45M1S",
+      "duration_seconds": 6301,
+      "view_count": 366039,
+      "like_count": 12486,
+      "comment_count": 978,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "meccha chameleon",
-        "meccha chameleon game",
-        "meccha chameleon funny moments",
-        "meccha chameleon gameplay",
-        "camouflage game",
-        "chameleon game meme"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=Z8U_0y4ShW0"
+      "url": "https://www.youtube.com/watch?v=F8SKbLtJhUU"
     },
     {
-      "video_id": "lXWBRLZoyEI",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-06-22T00:39:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lXWBRLZoyEI/hqdefault.jpg",
-      "duration": "PT8S",
-      "duration_seconds": 8,
-      "view_count": 469723,
-      "like_count": 3365,
-      "comment_count": 1,
+      "video_id": "HorICRtODpY",
+      "title": "MECCHA CHAMELEON CUSTOM MAPS ARE HILARIOUS",
+      "description": "USE CODE \"GRIZ\" FOR 10% OFF GSUPPS!► https://gamersupps.gg/griz\n\nPODCAST: https://www.youtube.com/@CloolessPodcast\n\nSUB 2 MY OTHER CHANNELS:\nhttps://www.youtube.com/@MoreGrizzy\nhttps://www.youtube.com/@grizzytv\nhttps://www.youtube.com/@GrizzyVODS\n\nTwitch ►https://www.twitch.tv/Grizzy\nTwitter ► https://twitter.com/SoGrizzy\nInstagram ► https://www.instagram.com/sogrizzy\n\nEdited by: @ThatDeadBlade \n\nMusic In The Video► http://www.epidemicsound.com/\n\nBusiness Inquires: businessgrizzy@gmail.com",
+      "channel_title": "Grizzy",
+      "channel_id": "UCPbGiUt4Yu8EsaFM-KAmgjg",
+      "published_at": "2026-06-21T20:43:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HorICRtODpY/hqdefault.jpg",
+      "duration": "PT45M3S",
+      "duration_seconds": 2703,
+      "view_count": 306068,
+      "like_count": 15741,
+      "comment_count": 228,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "grizzy",
+        "grizzytv",
+        "moregrizzy",
+        "grizzyvods"
       ],
-      "url": "https://www.youtube.com/watch?v=lXWBRLZoyEI"
+      "url": "https://www.youtube.com/watch?v=HorICRtODpY"
     },
     {
       "video_id": "ny8zeqDaLlI",
@@ -457,9 +445,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ny8zeqDaLlI/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 32358,
-      "like_count": 197,
-      "comment_count": 29,
+      "view_count": 46543,
+      "like_count": 265,
+      "comment_count": 36,
       "category_id": "24",
       "tags": [
         "house of the dragon",
@@ -481,63 +469,83 @@
     "metadata_based": {
       "overview": {
         "total_videos": 9,
-        "total_views": 7129159,
-        "average_views_per_video": 792128.78
+        "total_views": 4035374,
+        "average_views_per_video": 448375
       },
       "content_trends": {
-        "categories_inference": [
-          "Gaming",
+        "themes": [
           "Entertainment",
-          "Television",
-          "Pop Culture"
+          "Gaming",
+          "Trailers and Promos"
         ],
-        "gaming_dominance": {
-          "description": "A significant portion of trending videos are related to gaming, including titles like 'Through the Cracks // Summit Official Map Reveal Trailer - VALORANT', 'Being a Burglin' Gnome is harder than it looks...', and 'roblox best gameplay'. This indicates a strong interest in gaming content.",
-          "opportunity": "Brands and creators should emphasize gaming content, focusing on new releases, gameplay strategies, and related entertainment to capitalize on this trend."
-        },
-        "entertainment_appeal": {
-          "description": "High interest in entertainment content is evident with titles like 'House of the Dragon | S3 Weeks Ahead Trailer | HBO Max' and 'Spider-Man Brand New Day Trailer'.",
-          "opportunity": "There is value in creating companion content such as reviews, breakdowns, and fan theories around popular shows and movies to engage audiences."
-        },
-        "mixed-media content": {
-          "description": "Videos such as 'INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy' and 'Meccha Chameleon spots that make you say \"That Pain't Me\"' suggest experimental and creative content is gaining traction.",
-          "opportunity": "Creators can explore innovative formats and hybrid content types that combine elements from different genres to attract diverse audiences."
+        "popular_topics": [
+          "House of the Dragon",
+          "VALORANT",
+          "Spider-Man"
+        ],
+        "content_format": [
+          "Trailers",
+          "Promotional Content",
+          "Gameplay/Streaming"
+        ],
+        "insights": {
+          "trailers_and_promos": {
+            "video_count": 4,
+            "notable_titles": [
+              "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
+              "THROUGH THE CRACKS // Summit Official Map Reveal Trailer - VALORANT"
+            ],
+            "average_views": 900000
+          },
+          "gaming_content": {
+            "video_count": 4,
+            "notable_titles": [
+              "INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy",
+              "Being a Burglin' Gnome is harder than it looks..."
+            ],
+            "average_views": 500000
+          }
         }
       },
       "creator_patterns": {
-        "top_creators": [
-          "Markiplier",
-          "VALORANT",
-          "SMii7Yplus",
+        "top_channels": [
           "GameofThrones",
-          "Doggie"
+          "VALORANT",
+          "Markiplier"
         ],
-        "cross-genre success": {
-          "description": "Creators like Markiplier, known for gaming, are diversifying their content to include more entertainment-focused videos.",
-          "opportunity": "Diversification can help creators tap into broader audiences. New creators should consider cross-pollination of content between gaming and popular culture for maximum reach."
+        "channel_type_analysis": {
+          "entertainment_focus": {
+            "channels": [
+              "GameofThrones"
+            ],
+            "video_count": 2
+          },
+          "gaming_focus": {
+            "channels": [
+              "VALORANT",
+              "Markiplier",
+              "SMii7Yplus"
+            ],
+            "video_count": 4
+          }
         }
       },
       "market_opportunities": {
-        "gaming_expansion": {
-          "description": "With gaming content leading trends, there is potential for new channels and creators to enter the gaming market.",
-          "actionable_insights": [
-            "Develop series focused on new game releases and updates.",
-            "Foster community engagement through live streams and interactive content."
-          ]
+        "growing_interest": {
+          "fantasy_series": {
+            "suggested_action": "Invest in creating content around upcoming fantasy series like 'House of the Dragon'."
+          },
+          "gaming_trailers": {
+            "suggested_action": "Capitalize on the popularity of game reveal trailers and create content that dives deeper into game mechanics and strategies."
+          }
         },
-        "entertainment synergies": {
-          "description": "Collaborations between entertainment channels and gaming influencers could create unique crossover content.",
-          "actionable_insights": [
-            "Explore partnerships with entertainment brands for special series or event coverage.",
-            "Leverage popular franchises for themed content."
-          ]
-        },
-        "multimedia storytelling": {
-          "description": "Increased interest in multimedia and creative storytelling formats suggests a market for innovative content approaches.",
-          "actionable_insights": [
-            "Experiment with narrative-driven content that utilizes animation, live-action, and other multimedia elements.",
-            "Invest in high-quality production to differentiate content."
-          ]
+        "untapped_areas": {
+          "interactive_content": {
+            "suggested_action": "Develop interactive videos or live streams to engage the audience in real-time."
+          },
+          "cross-category_collaborations": {
+            "suggested_action": "Collaborate between entertainment and gaming channels to cross-promote content and expand audience reach."
+          }
         }
       },
       "metadata_stats": {
@@ -546,7 +554,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 792128
+        "avg_views_per_video": 448374
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
