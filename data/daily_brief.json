@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-03T12:47:35.648573",
+  "timestamp": "2026-07-03T15:43:48.598326",
   "date": "2026-07-03",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pymiBl59Kow/hqdefault.jpg",
       "duration": "PT13M27S",
       "duration_seconds": 807,
-      "view_count": 148040,
-      "like_count": 4508,
-      "comment_count": 399,
+      "view_count": 164363,
+      "like_count": 4879,
+      "comment_count": 438,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=pymiBl59Kow"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WxKMQCUHgj8/hqdefault.jpg",
       "duration": "PT25M57S",
       "duration_seconds": 1557,
-      "view_count": 1056680,
-      "like_count": 58176,
-      "comment_count": 1766,
+      "view_count": 1141338,
+      "like_count": 62052,
+      "comment_count": 1803,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AyIZ9tiiN8I/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 3694601,
-      "like_count": 49975,
-      "comment_count": 13133,
+      "view_count": 3751353,
+      "like_count": 50890,
+      "comment_count": 13781,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3vMkXY9dSl0/hqdefault.jpg",
       "duration": "PT1H55M16S",
       "duration_seconds": 6916,
-      "view_count": 263236,
-      "like_count": 8547,
-      "comment_count": 829,
+      "view_count": 293211,
+      "like_count": 9296,
+      "comment_count": 856,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -105,16 +105,16 @@
     {
       "video_id": "098m8TLTb4Y",
       "title": "Rylo Rodriguez - Neighborhood Starz (ft. Lil Baby & Kevin Gates) (Visualizer)",
-      "description": "",
+      "description": "Stream S.K.A.T.E Everywhere:\n\nHttps://rylorodriguez.lnk.to/SKATE\n\nFollow Rylo Rodriguez: \nhttps://rylorodriguez.lnk.to/instagram\nhttps://rylorodriguez.lnk.to/Twitter \nhttps://rylorodriguez.lnk.to/tiktok",
       "channel_title": "Rylo Rodriguez",
       "channel_id": "UC4jjDHIjC-U4I6XdbyIZoTg",
       "published_at": "2026-07-03T04:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/098m8TLTb4Y/hqdefault.jpg",
       "duration": "PT4M16S",
       "duration_seconds": 256,
-      "view_count": 22906,
-      "like_count": 2106,
-      "comment_count": 149,
+      "view_count": 31734,
+      "like_count": 2777,
+      "comment_count": 188,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=098m8TLTb4Y"
@@ -129,9 +129,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0TvIHeS0mpw/hqdefault.jpg",
       "duration": "PT19M35S",
       "duration_seconds": 1175,
-      "view_count": 79201,
-      "like_count": 6108,
-      "comment_count": 774,
+      "view_count": 83531,
+      "like_count": 6385,
+      "comment_count": 796,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0TvIHeS0mpw"
@@ -146,9 +146,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nj1LDgDZy8w/hqdefault.jpg",
       "duration": "PT9H17M15S",
       "duration_seconds": 33435,
-      "view_count": 447808,
-      "like_count": 8051,
-      "comment_count": 31,
+      "view_count": 465915,
+      "like_count": 8228,
+      "comment_count": 46,
       "category_id": "20",
       "tags": [
         "funny",
@@ -167,9 +167,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r70AWJ-zJS4/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 70510,
-      "like_count": 5345,
-      "comment_count": 491,
+      "view_count": 81427,
+      "like_count": 5869,
+      "comment_count": 547,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=r70AWJ-zJS4"
@@ -184,9 +184,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_USAoRuPdl4/hqdefault.jpg",
       "duration": "PT8H25M11S",
       "duration_seconds": 30311,
-      "view_count": 1077965,
-      "like_count": 7765,
-      "comment_count": 24,
+      "view_count": 1190093,
+      "like_count": 7982,
+      "comment_count": 40,
       "category_id": "20",
       "tags": [
         "League of Legends",
@@ -203,32 +203,32 @@
       "url": "https://www.youtube.com/watch?v=_USAoRuPdl4"
     },
     {
-      "video_id": "HP5wg0kTh54",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』予告｜2026年12月11日（金）公開",
-      "description": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる！\n『劇場版 薬屋のひとりごと 亡妃の秘宝』2026/12/11(金) 公開決定✨\n\nシリーズ初となる劇場版は、原作者・日向夏による完全新作ストーリー！\n\n【ストーリー】\n帝から壬氏にとある命が下された。\nそれは、5 年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。\n遺体の謎を解き明かすため、猫猫は壬氏に連れられ、南の地へと旅に出る。\n辿り着いたのは、活気あふれる水上都市。\nそこに隠された秘宝を巡り、新たなミステリーの幕が上がる！！\n\n【スタッフ】\n原作／ストーリー原案：日向夏（ヒーロー文庫／イマジカインフォス刊）\nキャラクター原案：しのとうこ\n監督：長沼範裕　\n脚本：柿原優子　\nキャラクターデザイン／総作画監督：中谷友紀子　\n色彩設計：相田美里                                                                      \n助監督：谷元麻佑 平池綾子　\n美術監督：三宅昌和　\n美術設定：森岡賢一　青木智由紀　イノセユキエ　\n美術ボード：丹治 匠　TJ\nCGプロデューサー：町田政彌 　\nCGディレクター：向井択海　\n撮影監督：武山 篤　\n編集：今井大介　\n音響監督：はた しょう二　\n音楽：神前 暁　Kevin Penkin　桶狭間ありさ　\nアニメーション制作：TOHO animation STUDIO\n製作：劇場版「薬屋のひとりごと」製作委員会\n\n【キャスト】\n猫猫：悠木碧　壬氏：大塚剛央　沐清：伊瀬茉莉也\n\n【TVアニメ情報】\nアニメ『薬屋のひとりごと』第3期　\n2026年10月より、日本テレビ系にて分割2クールで放送！\n （第1クール2026年10月／第2クール2027年4月）\n\n≪配信情報はこちら≫　\nhttps://kusuriyanohitorigoto.jp/streaming/\n★公式HP：http://kusuriyanohitorigoto.jp\n★公式X：https://x.com/kusuriya_PR?s=20\n★公式TikTok：https://t.co/IUm6rUecdx\n★公式LINE：http://lin.ee/vwUgIM0 \n\n#薬屋のひとりごと #TheApothecaryDiarie",
-      "channel_title": "TOHO animation チャンネル",
-      "channel_id": "UC14Yc2Qv92DMuyNRlHvpo2Q",
-      "published_at": "2026-07-02T21:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HP5wg0kTh54/hqdefault.jpg",
-      "duration": "PT52S",
-      "duration_seconds": 52,
-      "view_count": 280290,
-      "like_count": 18251,
-      "comment_count": 542,
-      "category_id": "1",
+      "video_id": "41iba4liFuQ",
+      "title": "PANIC: Woke Odyssey Trailer Officially RATIOED! +100K Dislikes on YouTube | The Comment Section is…🔥",
+      "description": "Join the Angel Guild for movies you’ll actually enjoy: \n\nhttps://www.angel.com/benny\n\nTake advantage of our special offer and become a premium member for the lowest price of the season. You’ll get 2 free\ntickets to see Young Washington in theaters this Independence Day, and be part of making this\nfilm the #1 movie in America for our nation’s 250th birthday.\n\nIf you want to help support independent journalism, become a Member:\nhttps://www.youtube.com/channel/UCLdP3jmBYe9lAZQbY6OSYjw/join\n\nFOLLOW BENNY ON SOCIALS:\nhttps://www.bennyjohnson.com/follow\n\nCHECK OUT OUR MERCH: \nhttps://shop.bennyjohnson.com/\n\n\nSign up for The Benny Newsletter:\nhttps://www.bennyjohnson.com/newsletter\n\nSUBSCRIBE TO THE PODCAST\nhttps://www.bennyjohnson.com/thebennyshow",
+      "channel_title": "Benny Johnson",
+      "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+      "published_at": "2026-07-02T16:05:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/41iba4liFuQ/hqdefault.jpg",
+      "duration": "PT9M34S",
+      "duration_seconds": 574,
+      "view_count": 185356,
+      "like_count": 10823,
+      "comment_count": 1874,
+      "category_id": "25",
       "tags": [
-        "東宝",
-        "TOHO",
-        "anime",
-        "公式",
-        "オフィシャル",
-        "アニメ",
-        "Entertainment",
-        "配給",
-        "宣伝",
-        "キャラクター"
+        "Benny Johnson",
+        "Benny",
+        "TPUSA",
+        "Charlie Kirk",
+        "Steven Crowder",
+        "TimCast",
+        "Brandon Tatum",
+        "Breaking",
+        "Just in",
+        "News"
       ],
-      "url": "https://www.youtube.com/watch?v=HP5wg0kTh54"
+      "url": "https://www.youtube.com/watch?v=41iba4liFuQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -243,9 +243,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pymiBl59Kow/hqdefault.jpg",
       "duration": "PT13M27S",
       "duration_seconds": 807,
-      "view_count": 148040,
-      "like_count": 4508,
-      "comment_count": 399,
+      "view_count": 164363,
+      "like_count": 4879,
+      "comment_count": 438,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=pymiBl59Kow"
@@ -260,9 +260,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WxKMQCUHgj8/hqdefault.jpg",
       "duration": "PT25M57S",
       "duration_seconds": 1557,
-      "view_count": 1056680,
-      "like_count": 58176,
-      "comment_count": 1766,
+      "view_count": 1141338,
+      "like_count": 62052,
+      "comment_count": 1803,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -288,9 +288,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AyIZ9tiiN8I/hqdefault.jpg",
       "duration": "PT2M31S",
       "duration_seconds": 151,
-      "view_count": 3694601,
-      "like_count": 49975,
-      "comment_count": 13133,
+      "view_count": 3751353,
+      "like_count": 50890,
+      "comment_count": 13781,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
@@ -305,9 +305,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3vMkXY9dSl0/hqdefault.jpg",
       "duration": "PT1H55M16S",
       "duration_seconds": 6916,
-      "view_count": 263236,
-      "like_count": 8547,
-      "comment_count": 829,
+      "view_count": 293211,
+      "like_count": 9296,
+      "comment_count": 856,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -326,16 +326,16 @@
     {
       "video_id": "098m8TLTb4Y",
       "title": "Rylo Rodriguez - Neighborhood Starz (ft. Lil Baby & Kevin Gates) (Visualizer)",
-      "description": "",
+      "description": "Stream S.K.A.T.E Everywhere:\n\nHttps://rylorodriguez.lnk.to/SKATE\n\nFollow Rylo Rodriguez: \nhttps://rylorodriguez.lnk.to/instagram\nhttps://rylorodriguez.lnk.to/Twitter \nhttps://rylorodriguez.lnk.to/tiktok",
       "channel_title": "Rylo Rodriguez",
       "channel_id": "UC4jjDHIjC-U4I6XdbyIZoTg",
       "published_at": "2026-07-03T04:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/098m8TLTb4Y/hqdefault.jpg",
       "duration": "PT4M16S",
       "duration_seconds": 256,
-      "view_count": 22906,
-      "like_count": 2106,
-      "comment_count": 149,
+      "view_count": 31734,
+      "like_count": 2777,
+      "comment_count": 188,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=098m8TLTb4Y"
@@ -350,9 +350,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0TvIHeS0mpw/hqdefault.jpg",
       "duration": "PT19M35S",
       "duration_seconds": 1175,
-      "view_count": 79201,
-      "like_count": 6108,
-      "comment_count": 774,
+      "view_count": 83531,
+      "like_count": 6385,
+      "comment_count": 796,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=0TvIHeS0mpw"
@@ -367,9 +367,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nj1LDgDZy8w/hqdefault.jpg",
       "duration": "PT9H17M15S",
       "duration_seconds": 33435,
-      "view_count": 447808,
-      "like_count": 8051,
-      "comment_count": 31,
+      "view_count": 465915,
+      "like_count": 8228,
+      "comment_count": 46,
       "category_id": "20",
       "tags": [
         "funny",
@@ -388,9 +388,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/r70AWJ-zJS4/hqdefault.jpg",
       "duration": "PT2M7S",
       "duration_seconds": 127,
-      "view_count": 70510,
-      "like_count": 5345,
-      "comment_count": 491,
+      "view_count": 81427,
+      "like_count": 5869,
+      "comment_count": 547,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=r70AWJ-zJS4"
@@ -405,9 +405,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_USAoRuPdl4/hqdefault.jpg",
       "duration": "PT8H25M11S",
       "duration_seconds": 30311,
-      "view_count": 1077965,
-      "like_count": 7765,
-      "comment_count": 24,
+      "view_count": 1190093,
+      "like_count": 7982,
+      "comment_count": 40,
       "category_id": "20",
       "tags": [
         "League of Legends",
@@ -424,32 +424,32 @@
       "url": "https://www.youtube.com/watch?v=_USAoRuPdl4"
     },
     {
-      "video_id": "HP5wg0kTh54",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』予告｜2026年12月11日（金）公開",
-      "description": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる！\n『劇場版 薬屋のひとりごと 亡妃の秘宝』2026/12/11(金) 公開決定✨\n\nシリーズ初となる劇場版は、原作者・日向夏による完全新作ストーリー！\n\n【ストーリー】\n帝から壬氏にとある命が下された。\nそれは、5 年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。\n遺体の謎を解き明かすため、猫猫は壬氏に連れられ、南の地へと旅に出る。\n辿り着いたのは、活気あふれる水上都市。\nそこに隠された秘宝を巡り、新たなミステリーの幕が上がる！！\n\n【スタッフ】\n原作／ストーリー原案：日向夏（ヒーロー文庫／イマジカインフォス刊）\nキャラクター原案：しのとうこ\n監督：長沼範裕　\n脚本：柿原優子　\nキャラクターデザイン／総作画監督：中谷友紀子　\n色彩設計：相田美里                                                                      \n助監督：谷元麻佑 平池綾子　\n美術監督：三宅昌和　\n美術設定：森岡賢一　青木智由紀　イノセユキエ　\n美術ボード：丹治 匠　TJ\nCGプロデューサー：町田政彌 　\nCGディレクター：向井択海　\n撮影監督：武山 篤　\n編集：今井大介　\n音響監督：はた しょう二　\n音楽：神前 暁　Kevin Penkin　桶狭間ありさ　\nアニメーション制作：TOHO animation STUDIO\n製作：劇場版「薬屋のひとりごと」製作委員会\n\n【キャスト】\n猫猫：悠木碧　壬氏：大塚剛央　沐清：伊瀬茉莉也\n\n【TVアニメ情報】\nアニメ『薬屋のひとりごと』第3期　\n2026年10月より、日本テレビ系にて分割2クールで放送！\n （第1クール2026年10月／第2クール2027年4月）\n\n≪配信情報はこちら≫　\nhttps://kusuriyanohitorigoto.jp/streaming/\n★公式HP：http://kusuriyanohitorigoto.jp\n★公式X：https://x.com/kusuriya_PR?s=20\n★公式TikTok：https://t.co/IUm6rUecdx\n★公式LINE：http://lin.ee/vwUgIM0 \n\n#薬屋のひとりごと #TheApothecaryDiarie",
-      "channel_title": "TOHO animation チャンネル",
-      "channel_id": "UC14Yc2Qv92DMuyNRlHvpo2Q",
-      "published_at": "2026-07-02T21:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HP5wg0kTh54/hqdefault.jpg",
-      "duration": "PT52S",
-      "duration_seconds": 52,
-      "view_count": 280290,
-      "like_count": 18251,
-      "comment_count": 542,
-      "category_id": "1",
+      "video_id": "41iba4liFuQ",
+      "title": "PANIC: Woke Odyssey Trailer Officially RATIOED! +100K Dislikes on YouTube | The Comment Section is…🔥",
+      "description": "Join the Angel Guild for movies you’ll actually enjoy: \n\nhttps://www.angel.com/benny\n\nTake advantage of our special offer and become a premium member for the lowest price of the season. You’ll get 2 free\ntickets to see Young Washington in theaters this Independence Day, and be part of making this\nfilm the #1 movie in America for our nation’s 250th birthday.\n\nIf you want to help support independent journalism, become a Member:\nhttps://www.youtube.com/channel/UCLdP3jmBYe9lAZQbY6OSYjw/join\n\nFOLLOW BENNY ON SOCIALS:\nhttps://www.bennyjohnson.com/follow\n\nCHECK OUT OUR MERCH: \nhttps://shop.bennyjohnson.com/\n\n\nSign up for The Benny Newsletter:\nhttps://www.bennyjohnson.com/newsletter\n\nSUBSCRIBE TO THE PODCAST\nhttps://www.bennyjohnson.com/thebennyshow",
+      "channel_title": "Benny Johnson",
+      "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+      "published_at": "2026-07-02T16:05:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/41iba4liFuQ/hqdefault.jpg",
+      "duration": "PT9M34S",
+      "duration_seconds": 574,
+      "view_count": 185356,
+      "like_count": 10823,
+      "comment_count": 1874,
+      "category_id": "25",
       "tags": [
-        "東宝",
-        "TOHO",
-        "anime",
-        "公式",
-        "オフィシャル",
-        "アニメ",
-        "Entertainment",
-        "配給",
-        "宣伝",
-        "キャラクター"
+        "Benny Johnson",
+        "Benny",
+        "TPUSA",
+        "Charlie Kirk",
+        "Steven Crowder",
+        "TimCast",
+        "Brandon Tatum",
+        "Breaking",
+        "Just in",
+        "News"
       ],
-      "url": "https://www.youtube.com/watch?v=HP5wg0kTh54"
+      "url": "https://www.youtube.com/watch?v=41iba4liFuQ"
     }
   ],
   "analysis": {
@@ -457,48 +457,64 @@
     "metadata_based": {
       "content_trends": {
         "superhero_content": {
-          "popularity": "High",
-          "evidence": "Two videos related to Spider-Man, one trailer and one discussion video, indicating strong audience interest in superhero content.",
-          "opportunity": "Capitalizing on the upcoming superhero movie releases by creating behind-the-scenes content, explanations, and theory videos."
+          "observation": "Superhero-related content, particularly Spider-Man, is trending.",
+          "evidence": [
+            "Two videos related to Spider-Man are among the top 10 trending.",
+            "Spider-Man content often garners high engagement due to its broad fan base."
+          ],
+          "opportunity": "Create content that dives deeper into the Spider-Man universe, such as theory videos, Easter egg breakdowns, or fan theories."
         },
-        "game_related_content": {
-          "popularity": "Moderate",
-          "evidence": "Titles such as 'This Game is Nothing but Trail & Error' and 'G2 vs TES | MSI 2026' indicate interest in both gaming commentary and eSports.",
-          "opportunity": "Create more live commentary and analysis videos on popular games and eSports events."
+        "gaming_content": {
+          "observation": "Gaming content maintains a strong presence.",
+          "evidence": [
+            "Titles such as 'This Game is Nothing but Trail & Error' and 'G2 vs TES | MSI 2026' indicate interest in both gaming trailers and esports events."
+          ],
+          "opportunity": "Leverage gaming content by collaborating with gaming influencers or creating content around new game releases and esports tournaments."
         },
-        "music_visuals": {
-          "popularity": "Moderate",
-          "evidence": "Rylo Rodriguez's 'Neighborhood Starz' visualizer suggests a trend towards engaging music videos, particularly in the hip-hop genre.",
-          "opportunity": "Produce visually creative music videos or visualizers to engage the audience actively."
-        },
-        "cultural_and_anime_content": {
-          "popularity": "Emerging",
-          "evidence": "Anime-related content such as 'Star Wars: Visions' and Japanese movie trailers are gaining traction.",
-          "opportunity": "Explore collaborations with anime creators or cover more culturally diverse content to capture a diverse audience."
+        "music_visualizers": {
+          "observation": "Music visualizers are trending, particularly in the hip-hop genre.",
+          "evidence": [
+            "Rylo Rodriguez's visualizer featuring prominent artists like Lil Baby and Kevin Gates is trending."
+          ],
+          "opportunity": "Explore the creation of more visually appealing music videos or visualizers, especially in collaboration with popular artists."
         }
       },
       "creator_patterns": {
-        "channel_diversity": {
-          "insight": "Each top channel appears to focus on specific content niches, from movie discussions to gaming and music.",
-          "strategy": "Channels should continue to specialize but occasionally cross-over trending topics to attract new audiences."
+        "multi-genre channels": {
+          "observation": "Channels producing varied content types are likely reaching broad audiences.",
+          "evidence": [
+            "Emergency Awesome covers superhero content, gaming news, and more, showing versatility."
+          ],
+          "strategy": "Channels should diversify content while maintaining a coherent brand to capture different audience segments."
         },
-        "engagement_tactics": {
-          "insight": "Live streaming ('🔴LIVE | SAND: RAIDERS OF SOPHIE') is used to engage audiences in real-time, enhancing community interaction.",
-          "strategy": "Leverage live streams for direct audience interaction and feedback, increasing engagement and viewer retention."
+        "live streaming": {
+          "observation": "Live streams are part of the trending content.",
+          "evidence": [
+            "Video titled '🔴LIVE | SAND: RAIDERS OF SOPHIE w/ GIMMICK & HABIBI' indicates live content is attractive."
+          ],
+          "opportunity": "Incorporate live streaming sessions to engage with audiences in real-time, possibly through Q&A or live reactions."
         }
       },
       "market_opportunities": {
-        "cross-platform engagement": {
-          "opportunity": "Utilize platforms like TikTok and Instagram for short-form content teaser promotion to drive YouTube traffic.",
-          "justification": "Short-form content can attract viewers who are then directed to YouTube for full-length content."
+        "content_collaboration": {
+          "strategy": "Collaborate with trending content creators such as Emergency Awesome or Rylo Rodriguez for cross-promotional opportunities."
         },
-        "collaborative content": {
-          "opportunity": "Partner with creators in similar niches to produce collaborative content, increasing reach and audience crossover.",
-          "justification": "Collaborations can introduce different audience segments to each other's content, broadening the viewer base."
+        "niche exploitation": {
+          "strategy": "Capitalize on niche interests such as 'Star Wars: Visions' or 'Evil Dead' reactions which have dedicated fan bases and less saturation."
         },
-        "diversified language content": {
-          "opportunity": "Create multilingual content or subtitles, as seen in the Japanese movie trailer, to reach non-English speaking audiences.",
-          "justification": "Providing content in multiple languages can tap into global markets and increase accessibility."
+        "social media engagement": {
+          "strategy": "Use social media platforms to boost engagement for content like trailers or visualizers by creating short, shareable clips."
+        }
+      },
+      "data_analysis": {
+        "average_views": {
+          "calculation": "Total Views / Total Videos",
+          "result": 738,
+          "insight": "The average views per video are approximately 738,832, indicating strong viewership across all videos."
+        },
+        "genre_diversity": {
+          "observation": "Diverse genres are represented, including trailers, music, gaming, live streams, and reaction videos.",
+          "insight": "Diversifying content genres can attract a wider audience, enhancing channel growth potential."
         }
       },
       "metadata_stats": {
@@ -507,7 +523,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 714123
+        "avg_views_per_video": 738832
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
