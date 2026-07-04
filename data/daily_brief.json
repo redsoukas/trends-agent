@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-04T18:27:54.367357",
+  "timestamp": "2026-07-04T21:23:32.723363",
   "date": "2026-07-04",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BkGOs3_q79I/hqdefault.jpg",
       "duration": "PT8M24S",
       "duration_seconds": 504,
-      "view_count": 1661854,
-      "like_count": 113260,
-      "comment_count": 16592,
+      "view_count": 1746901,
+      "like_count": 116869,
+      "comment_count": 17111,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -47,12 +47,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
       "duration": "PT2M46S",
       "duration_seconds": 166,
-      "view_count": 11803,
-      "like_count": 5750,
-      "comment_count": 463,
+      "view_count": 181014,
+      "like_count": 9187,
+      "comment_count": 666,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
+    },
+    {
+      "video_id": "nH9R0Jpqeqc",
+      "title": "10 YouTubers vs 2 Secret Traitors",
+      "description": "I can't believe how this ended\n\nGo get yourself some Feastables peanut butter cups 👉 https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-07-04T16:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nH9R0Jpqeqc/hqdefault.jpg",
+      "duration": "PT18M15S",
+      "duration_seconds": 1095,
+      "view_count": 2498907,
+      "like_count": 113093,
+      "comment_count": 7889,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nH9R0Jpqeqc"
+    },
+    {
+      "video_id": "43qoWFJbWF0",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-07-03T23:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
+      "duration": "PT2M2S",
+      "duration_seconds": 122,
+      "view_count": 335169,
+      "like_count": 22079,
+      "comment_count": 1770,
+      "category_id": "24",
+      "tags": [
+        "JoJo’s Bizarre Adventure 2nd stage",
+        "JoJo’s Bizarre Adventure 3rd stage",
+        "jojo's bizarre adventure",
+        "steel ball run",
+        "steel ball run trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
     },
     {
       "video_id": "CRUCxK9xpJw",
@@ -64,9 +104,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CRUCxK9xpJw/hqdefault.jpg",
       "duration": "PT31M24S",
       "duration_seconds": 1884,
-      "view_count": 536846,
-      "like_count": 28152,
-      "comment_count": 872,
+      "view_count": 608251,
+      "like_count": 30292,
+      "comment_count": 896,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -83,57 +123,6 @@
       "url": "https://www.youtube.com/watch?v=CRUCxK9xpJw"
     },
     {
-      "video_id": "43qoWFJbWF0",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
-      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-07-03T23:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
-      "duration": "PT2M2S",
-      "duration_seconds": 122,
-      "view_count": 308462,
-      "like_count": 20645,
-      "comment_count": 1668,
-      "category_id": "24",
-      "tags": [
-        "JoJo’s Bizarre Adventure 2nd stage",
-        "JoJo’s Bizarre Adventure 3rd stage",
-        "jojo's bizarre adventure",
-        "steel ball run",
-        "steel ball run trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
-    },
-    {
-      "video_id": "VI9igkwFNI0",
-      "title": "BLG vs T1 | MSI 2026 |  Bracket Stage Day 2",
-      "description": "CALL YOUR SHOT.\n\nThe International Competition is ramping up with MSI 2026 in Daejeon, South Korea, at the Daejeon Convention Center.  The Play-In Stage features a 4-team, double-elimination bracket, which qualifies one team into the Bracket Stage— where they will compete against seven other teams. \n\nTo learn more about the MSI format, check out https://riot.com/4o3QR9r\n\nPlay-Ins: June 28 - July 1\nBracket Stage: July 3-6 & 8-12\nUpper Final: July 9\nLower Final: July 11\nGrand Final: July 12\n\nFollow LoL Esports to stay up to date with the best of #MSI2026 and competitive League of Legends Esports around the world:\n\nWeb: http://lolesports.com\nX: http://twitter.com/lolesports\nFacebook: http://facebook.com/lolesports\nInstagram: http://instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports\nMeta Threads: https://www.threads.net/@lolesports\nWhatsapp: https://www.whatsapp.com/channel/0029VaoXKW0HwXbHjXvCdC34\nDownload League of Legends now: http://leagueoflegends.com/download",
-      "channel_title": "LoL Esports",
-      "channel_id": "UCvqRdlKsE5Q8mf8YXbdIJLw",
-      "published_at": "2026-07-04T11:23:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VI9igkwFNI0/hqdefault.jpg",
-      "duration": "PT8H57M41S",
-      "duration_seconds": 32261,
-      "view_count": 1606399,
-      "like_count": 10909,
-      "comment_count": 88,
-      "category_id": "20",
-      "tags": [
-        "League of Legends",
-        "League of Legends esports",
-        "LoL Esports",
-        "lolesports",
-        "lol esports",
-        "league esports",
-        "LoL 2026",
-        "Worlds",
-        "Worlds 2026",
-        "LoL Worlds"
-      ],
-      "url": "https://www.youtube.com/watch?v=VI9igkwFNI0"
-    },
-    {
       "video_id": "TL-IGyJGf-w",
       "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Teaser | Crunchyroll",
       "description": "The Guy She Was Interested In Wasn't a Guy At All is coming to Crunchyroll in 2027!\n\nABOUT THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\nFashionable and upbeat high schooler Aya loves listening to rock, but no one else seems to share her interest…until she meets a cool, stylish employee at a CD shop. Dressed in black from head to toe, he has this air of mystery about him, and his taste in music is impeccable. Aya falls hard for him—not knowing her crush is actually her female classmate Mitsuki! For her part, Mitsuki generally keeps to herself and avoids standing out at school. But given that she sits right next to Aya, Mitsuki’s all too aware of the other girl’s feelings, and she’s afraid to reveal the truth. So why does she find herself talking with Aya more and more…?\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n",
@@ -143,9 +132,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TL-IGyJGf-w/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 234785,
-      "like_count": 29263,
-      "comment_count": 925,
+      "view_count": 261904,
+      "like_count": 32537,
+      "comment_count": 1001,
       "category_id": "1",
       "tags": [
         "the guy she was interested in wasnt a guy at all",
@@ -159,41 +148,32 @@
       "url": "https://www.youtube.com/watch?v=TL-IGyJGf-w"
     },
     {
-      "video_id": "k3yK7udoJ54",
-      "title": "MECCHA CHAMELEON but my friends SUCK",
-      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-04T09:28:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
-      "duration": "PT36M58S",
-      "duration_seconds": 2218,
-      "view_count": 278691,
-      "like_count": 19506,
-      "comment_count": 2584,
+      "video_id": "N_S2hrY6gLo",
+      "title": "CAPTCHA.exe",
+      "description": "No, it's not quite like SONIC.exe or any of the other exe games. This is a doppleganger test based on those captchas you do online all the time!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nPlay the Game ► https://reichiv.itch.io/captchaexe\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-07-04T16:10:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N_S2hrY6gLo/hqdefault.jpg",
+      "duration": "PT32M5S",
+      "duration_seconds": 1925,
+      "view_count": 219382,
+      "like_count": 21595,
+      "comment_count": 1945,
       "category_id": "20",
       "tags": [
-        "Family",
-        "friendly"
+        "markiplier",
+        "scary games",
+        "lair of torment",
+        "horror games",
+        "jumpscares",
+        "jump scares",
+        "reactions",
+        "scares",
+        "scary game reactions",
+        "scare reactions"
       ],
-      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
-    },
-    {
-      "video_id": "098m8TLTb4Y",
-      "title": "Rylo Rodriguez - Neighborhood Starz (ft. Lil Baby & Kevin Gates) (Visualizer)",
-      "description": "Stream S.K.A.T.E Everywhere:\n\nHttps://rylorodriguez.lnk.to/SKATE\n\nFollow Rylo Rodriguez: \nhttps://rylorodriguez.lnk.to/instagram\nhttps://rylorodriguez.lnk.to/Twitter \nhttps://rylorodriguez.lnk.to/tiktok",
-      "channel_title": "Rylo Rodriguez",
-      "channel_id": "UC4jjDHIjC-U4I6XdbyIZoTg",
-      "published_at": "2026-07-03T04:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/098m8TLTb4Y/hqdefault.jpg",
-      "duration": "PT4M16S",
-      "duration_seconds": 256,
-      "view_count": 143163,
-      "like_count": 6232,
-      "comment_count": 342,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=098m8TLTb4Y"
+      "url": "https://www.youtube.com/watch?v=N_S2hrY6gLo"
     },
     {
       "video_id": "jXtG_lcR9P4",
@@ -205,9 +185,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jXtG_lcR9P4/hqdefault.jpg",
       "duration": "PT1M44S",
       "duration_seconds": 104,
-      "view_count": 531865,
-      "like_count": 36855,
-      "comment_count": 1678,
+      "view_count": 559506,
+      "like_count": 37963,
+      "comment_count": 1719,
       "category_id": "1",
       "tags": [
         "ジョニィ･ジョースター",
@@ -224,32 +204,24 @@
       "url": "https://www.youtube.com/watch?v=jXtG_lcR9P4"
     },
     {
-      "video_id": "KSBe_syXcs8",
-      "title": "How Big Can Verity Get?",
-      "description": "How Big Can Verity Get?\n\n👍 Like and Subscribe to never miss a Video!\n\n📱 Check Out My Other Stuff For More!\nDiscord:https://discord.gg/R5eGAx4n92\n\nToday I Test out scary minecraft myths about the real verity mod and how big it can get These are Minecraft's scariest seeds that scare me and my friends.😱\n\nOriginal Mod by  ⁨@ThatMob\n\n\n #Minecraft #MinecraftSMP #scaryvideos",
-      "channel_title": "Pepper",
-      "channel_id": "UCB2ymZNDRo4sm-SXVPykMbA",
-      "published_at": "2026-07-04T11:13:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KSBe_syXcs8/hqdefault.jpg",
-      "duration": "PT25M25S",
-      "duration_seconds": 1525,
-      "view_count": 230073,
-      "like_count": 4765,
-      "comment_count": 218,
+      "video_id": "k3yK7udoJ54",
+      "title": "MECCHA CHAMELEON but my friends SUCK",
+      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-04T09:28:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
+      "duration": "PT36M58S",
+      "duration_seconds": 2218,
+      "view_count": 375458,
+      "like_count": 22977,
+      "comment_count": 2696,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "pepper",
-        "pepper minecraft",
-        "minecraft smp",
-        "How Big Can Verity Get?",
-        "verity minecraft",
-        "VERITY minecraft",
-        "scary minecraft",
-        "modded minecraft",
-        "scary minecraft myths"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=KSBe_syXcs8"
+      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
     }
   ],
   "videos_with_transcripts": [],
@@ -264,9 +236,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BkGOs3_q79I/hqdefault.jpg",
       "duration": "PT8M24S",
       "duration_seconds": 504,
-      "view_count": 1661854,
-      "like_count": 113260,
-      "comment_count": 16592,
+      "view_count": 1746901,
+      "like_count": 116869,
+      "comment_count": 17111,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -289,12 +261,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
       "duration": "PT2M46S",
       "duration_seconds": 166,
-      "view_count": 11803,
-      "like_count": 5750,
-      "comment_count": 463,
+      "view_count": 181014,
+      "like_count": 9187,
+      "comment_count": 666,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
+    },
+    {
+      "video_id": "nH9R0Jpqeqc",
+      "title": "10 YouTubers vs 2 Secret Traitors",
+      "description": "I can't believe how this ended\n\nGo get yourself some Feastables peanut butter cups 👉 https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+      "channel_title": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "published_at": "2026-07-04T16:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nH9R0Jpqeqc/hqdefault.jpg",
+      "duration": "PT18M15S",
+      "duration_seconds": 1095,
+      "view_count": 2498907,
+      "like_count": 113093,
+      "comment_count": 7889,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=nH9R0Jpqeqc"
+    },
+    {
+      "video_id": "43qoWFJbWF0",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-07-03T23:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
+      "duration": "PT2M2S",
+      "duration_seconds": 122,
+      "view_count": 335169,
+      "like_count": 22079,
+      "comment_count": 1770,
+      "category_id": "24",
+      "tags": [
+        "JoJo’s Bizarre Adventure 2nd stage",
+        "JoJo’s Bizarre Adventure 3rd stage",
+        "jojo's bizarre adventure",
+        "steel ball run",
+        "steel ball run trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
     },
     {
       "video_id": "CRUCxK9xpJw",
@@ -306,9 +318,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CRUCxK9xpJw/hqdefault.jpg",
       "duration": "PT31M24S",
       "duration_seconds": 1884,
-      "view_count": 536846,
-      "like_count": 28152,
-      "comment_count": 872,
+      "view_count": 608251,
+      "like_count": 30292,
+      "comment_count": 896,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -325,92 +337,32 @@
       "url": "https://www.youtube.com/watch?v=CRUCxK9xpJw"
     },
     {
-      "video_id": "43qoWFJbWF0",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
-      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-07-03T23:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
-      "duration": "PT2M2S",
-      "duration_seconds": 122,
-      "view_count": 308462,
-      "like_count": 20645,
-      "comment_count": 1668,
-      "category_id": "24",
-      "tags": [
-        "JoJo’s Bizarre Adventure 2nd stage",
-        "JoJo’s Bizarre Adventure 3rd stage",
-        "jojo's bizarre adventure",
-        "steel ball run",
-        "steel ball run trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
-    },
-    {
-      "video_id": "VI9igkwFNI0",
-      "title": "BLG vs T1 | MSI 2026 |  Bracket Stage Day 2",
-      "description": "CALL YOUR SHOT.\n\nThe International Competition is ramping up with MSI 2026 in Daejeon, South Korea, at the Daejeon Convention Center.  The Play-In Stage features a 4-team, double-elimination bracket, which qualifies one team into the Bracket Stage— where they will compete against seven other teams. \n\nTo learn more about the MSI format, check out https://riot.com/4o3QR9r\n\nPlay-Ins: June 28 - July 1\nBracket Stage: July 3-6 & 8-12\nUpper Final: July 9\nLower Final: July 11\nGrand Final: July 12\n\nFollow LoL Esports to stay up to date with the best of #MSI2026 and competitive League of Legends Esports around the world:\n\nWeb: http://lolesports.com\nX: http://twitter.com/lolesports\nFacebook: http://facebook.com/lolesports\nInstagram: http://instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports\nMeta Threads: https://www.threads.net/@lolesports\nWhatsapp: https://www.whatsapp.com/channel/0029VaoXKW0HwXbHjXvCdC34\nDownload League of Legends now: http://leagueoflegends.com/download",
-      "channel_title": "LoL Esports",
-      "channel_id": "UCvqRdlKsE5Q8mf8YXbdIJLw",
-      "published_at": "2026-07-04T11:23:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VI9igkwFNI0/hqdefault.jpg",
-      "duration": "PT8H57M41S",
-      "duration_seconds": 32261,
-      "view_count": 1606399,
-      "like_count": 10909,
-      "comment_count": 88,
+      "video_id": "N_S2hrY6gLo",
+      "title": "CAPTCHA.exe",
+      "description": "No, it's not quite like SONIC.exe or any of the other exe games. This is a doppleganger test based on those captchas you do online all the time!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nPlay the Game ► https://reichiv.itch.io/captchaexe\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-07-04T16:10:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N_S2hrY6gLo/hqdefault.jpg",
+      "duration": "PT32M5S",
+      "duration_seconds": 1925,
+      "view_count": 219382,
+      "like_count": 21595,
+      "comment_count": 1945,
       "category_id": "20",
       "tags": [
-        "League of Legends",
-        "League of Legends esports",
-        "LoL Esports",
-        "lolesports",
-        "lol esports",
-        "league esports",
-        "LoL 2026",
-        "Worlds",
-        "Worlds 2026",
-        "LoL Worlds"
+        "markiplier",
+        "scary games",
+        "lair of torment",
+        "horror games",
+        "jumpscares",
+        "jump scares",
+        "reactions",
+        "scares",
+        "scary game reactions",
+        "scare reactions"
       ],
-      "url": "https://www.youtube.com/watch?v=VI9igkwFNI0"
-    },
-    {
-      "video_id": "k3yK7udoJ54",
-      "title": "MECCHA CHAMELEON but my friends SUCK",
-      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-04T09:28:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
-      "duration": "PT36M58S",
-      "duration_seconds": 2218,
-      "view_count": 278691,
-      "like_count": 19506,
-      "comment_count": 2584,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
-    },
-    {
-      "video_id": "098m8TLTb4Y",
-      "title": "Rylo Rodriguez - Neighborhood Starz (ft. Lil Baby & Kevin Gates) (Visualizer)",
-      "description": "Stream S.K.A.T.E Everywhere:\n\nHttps://rylorodriguez.lnk.to/SKATE\n\nFollow Rylo Rodriguez: \nhttps://rylorodriguez.lnk.to/instagram\nhttps://rylorodriguez.lnk.to/Twitter \nhttps://rylorodriguez.lnk.to/tiktok",
-      "channel_title": "Rylo Rodriguez",
-      "channel_id": "UC4jjDHIjC-U4I6XdbyIZoTg",
-      "published_at": "2026-07-03T04:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/098m8TLTb4Y/hqdefault.jpg",
-      "duration": "PT4M16S",
-      "duration_seconds": 256,
-      "view_count": 143163,
-      "like_count": 6232,
-      "comment_count": 342,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=098m8TLTb4Y"
+      "url": "https://www.youtube.com/watch?v=N_S2hrY6gLo"
     },
     {
       "video_id": "jXtG_lcR9P4",
@@ -422,9 +374,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jXtG_lcR9P4/hqdefault.jpg",
       "duration": "PT1M44S",
       "duration_seconds": 104,
-      "view_count": 531865,
-      "like_count": 36855,
-      "comment_count": 1678,
+      "view_count": 559506,
+      "like_count": 37963,
+      "comment_count": 1719,
       "category_id": "1",
       "tags": [
         "ジョニィ･ジョースター",
@@ -441,32 +393,24 @@
       "url": "https://www.youtube.com/watch?v=jXtG_lcR9P4"
     },
     {
-      "video_id": "KSBe_syXcs8",
-      "title": "How Big Can Verity Get?",
-      "description": "How Big Can Verity Get?\n\n👍 Like and Subscribe to never miss a Video!\n\n📱 Check Out My Other Stuff For More!\nDiscord:https://discord.gg/R5eGAx4n92\n\nToday I Test out scary minecraft myths about the real verity mod and how big it can get These are Minecraft's scariest seeds that scare me and my friends.😱\n\nOriginal Mod by  ⁨@ThatMob\n\n\n #Minecraft #MinecraftSMP #scaryvideos",
-      "channel_title": "Pepper",
-      "channel_id": "UCB2ymZNDRo4sm-SXVPykMbA",
-      "published_at": "2026-07-04T11:13:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KSBe_syXcs8/hqdefault.jpg",
-      "duration": "PT25M25S",
-      "duration_seconds": 1525,
-      "view_count": 230073,
-      "like_count": 4765,
-      "comment_count": 218,
+      "video_id": "k3yK7udoJ54",
+      "title": "MECCHA CHAMELEON but my friends SUCK",
+      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-04T09:28:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
+      "duration": "PT36M58S",
+      "duration_seconds": 2218,
+      "view_count": 375458,
+      "like_count": 22977,
+      "comment_count": 2696,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "pepper",
-        "pepper minecraft",
-        "minecraft smp",
-        "How Big Can Verity Get?",
-        "verity minecraft",
-        "VERITY minecraft",
-        "scary minecraft",
-        "modded minecraft",
-        "scary minecraft myths"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=KSBe_syXcs8"
+      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
     },
     {
       "video_id": "TL-IGyJGf-w",
@@ -478,9 +422,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TL-IGyJGf-w/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 234785,
-      "like_count": 29263,
-      "comment_count": 925,
+      "view_count": 261904,
+      "like_count": 32537,
+      "comment_count": 1001,
       "category_id": "1",
       "tags": [
         "the guy she was interested in wasnt a guy at all",
@@ -497,63 +441,54 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "pop_culture_and_entertainment": {
-          "description": "A significant portion of trending content is related to pop culture and entertainment, including trailers and teasers for upcoming films and series.",
-          "examples": [
-            "The Hunger Games: Sunrise on the Reaping (2026)",
-            "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
-            "The Guy She Was Interested In Wasn't a Guy At All | Official Teaser | Crunchyroll"
-          ],
-          "insights": "Viewers show strong interest in upcoming media releases, suggesting opportunities for content creators to produce review, reaction, and theory videos on popular franchises."
+      "insights": {
+        "view_analysis": {
+          "average_views_per_video": 754,
+          "total_views": 6786492,
+          "total_videos": 9
         },
-        "anime_and_gaming": {
-          "description": "Anime and gaming content have notable representation, indicating a strong audience interest in these areas.",
-          "examples": [
-            "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE",
-            "BLG vs T1 | MSI 2026",
-            "Meccha Chameleon"
-          ],
-          "insights": "Content related to anime and gaming, particularly involving major franchises or events, tends to draw significant attention. Channels could capitalize by creating related content, such as reviews, gameplay, and commentary videos."
+        "content_trends": {
+          "movie_and_series_trailers": {
+            "description": "Videos related to upcoming movie and series releases, such as 'The Hunger Games: Sunrise on the Reaping' and 'STEEL BALL RUN JoJo's Bizarre Adventure', are trending, indicating high interest in popular franchises and adaptations.",
+            "recommendation": "Content creators should consider producing related content such as reviews, theories, or behind-the-scenes analysis to leverage the interest in these popular franchises."
+          },
+          "anime_and_japanese_content": {
+            "description": "Videos related to anime, such as 'STEEL BALL RUN JoJo's Bizarre Adventure' and 'The Guy She Was Interested In Wasn't a Guy At All', show a strong presence, highlighting the continuing global engagement with anime content.",
+            "recommendation": "Channels could expand into anime-related content, including reviews, discussions, and fan theories, to capture the anime audience."
+          },
+          "interactive_and_challenge_content": {
+            "description": "Interactive content such as '10 YouTubers vs 2 Secret Traitors' indicates a trend toward engaging, participatory videos that involve audiences in games or challenges.",
+            "recommendation": "Creators should explore interactive content formats, possibly integrating audience participation through comments, polls, or live-streaming events."
+          }
         },
-        "music_and_visualizers": {
-          "description": "Music content, particularly visualizers and collaborations, is part of the trending list.",
-          "examples": [
-            "Rylo Rodriguez - Neighborhood Starz (ft. Lil Baby & Kevin Gates) (Visualizer)"
-          ],
-          "insights": "Music visualizers and collaborations can capture viewer interest, providing an opportunity for musicians and creators to leverage visual storytelling in their music promotional strategies."
-        }
-      },
-      "creator_patterns": {
-        "diverse_creator_presence": {
-          "description": "The trending videos feature a variety of creators, each with a unique niche or audience.",
-          "examples": [
-            "The Critical Drinker",
-            "The Hunger Games",
-            "VanossGaming",
-            "Netflix",
-            "LoL Esports"
-          ],
-          "insights": "Diverse content strategies are effective, as evidenced by the range of topics covered by trending creators. Channels should focus on their unique strengths and audience interests to maximize engagement."
-        }
-      },
-      "market_opportunities": {
-        "cross_media_content": {
-          "description": "Content that bridges different media forms, such as movies, anime, and music, is currently popular.",
-          "insights": "Creators can explore cross-media content strategies, such as discussing the cultural impact of a series, hosting collaborative discussions, or creating hybrid content that combines elements from different media forms."
+        "creator_patterns": {
+          "diverse_content": {
+            "description": "Top channels like MrBeast Gaming and VanossGaming, known for diverse and engaging content, suggest a trend towards varied video formats that maintain high viewer interest.",
+            "recommendation": "Emerging creators should diversify their content offerings to include a mix of gaming, challenges, and collaborations to attract and retain a wider audience."
+          },
+          "brand_collaborations": {
+            "description": "Collaboration with well-known franchises and platforms such as Netflix and Crunchyroll shows effectiveness in reaching large audiences.",
+            "recommendation": "Creators should pursue collaborations with popular brands and franchises to boost visibility and tap into established fanbases."
+          }
         },
-        "event-driven_content": {
-          "description": "Content related to specific events or releases, such as game tournaments and movie premieres, tends to trend.",
-          "insights": "Event-driven content strategies could be highly effective. Creators should time their content releases around major events or premieres and engage audiences with timely, relevant discussions or live reactions."
+        "market_opportunities": {
+          "emerging_franchises": {
+            "description": "Upcoming releases like 'The Hunger Games: Sunrise on the Reaping (2026)' present a prime opportunity for creators to produce anticipatory content leading up to the release.",
+            "recommendation": "Creators can capitalize by producing speculative content, trailers analysis, and fan theory videos to capture audience interest before the official release."
+          },
+          "localization_and_subtitled_content": {
+            "description": "The presence of Japanese-titled videos suggests a potential market for localized or subtitled content for non-English-speaking audiences.",
+            "recommendation": "Channels should consider offering multilingual content or subtitles to broaden their audience reach, particularly in regions with high anime consumption."
+          }
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 554394
+        "avg_views_per_video": 754054
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
