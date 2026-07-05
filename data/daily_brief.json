@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-04T21:23:32.723363",
-  "date": "2026-07-04",
+  "timestamp": "2026-07-05T00:58:43.250889",
+  "date": "2026-07-05",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
@@ -12,6 +12,23 @@
     "analysis_generated": true
   },
   "trending_videos": [
+    {
+      "video_id": "7TYdQysC_Fc",
+      "title": "The Hunger Games: Sunrise on the Reaping (2026) 'Meet Haymitch' – Joseph Zada",
+      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://x.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "channel_title": "The Hunger Games",
+      "channel_id": "UCjvqqA-Eogozfm244OhUESw",
+      "published_at": "2026-07-04T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
+      "duration": "PT2M46S",
+      "duration_seconds": 166,
+      "view_count": 250746,
+      "like_count": 11624,
+      "comment_count": 803,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
+    },
     {
       "video_id": "BkGOs3_q79I",
       "title": "The Odyssey - Oh, Dear...",
@@ -22,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BkGOs3_q79I/hqdefault.jpg",
       "duration": "PT8M24S",
       "duration_seconds": 504,
-      "view_count": 1746901,
-      "like_count": 116869,
-      "comment_count": 17111,
+      "view_count": 1829354,
+      "like_count": 120395,
+      "comment_count": 17544,
       "category_id": "24",
       "tags": [
         "critical drinker",
@@ -38,38 +55,21 @@
       "url": "https://www.youtube.com/watch?v=BkGOs3_q79I"
     },
     {
-      "video_id": "7TYdQysC_Fc",
-      "title": "The Hunger Games: Sunrise on the Reaping (2026) 'Meet Haymitch' – Joseph Zada",
-      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://x.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "channel_title": "The Hunger Games",
-      "channel_id": "UCjvqqA-Eogozfm244OhUESw",
-      "published_at": "2026-07-04T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
-      "duration": "PT2M46S",
-      "duration_seconds": 166,
-      "view_count": 181014,
-      "like_count": 9187,
-      "comment_count": 666,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
-    },
-    {
-      "video_id": "nH9R0Jpqeqc",
-      "title": "10 YouTubers vs 2 Secret Traitors",
-      "description": "I can't believe how this ended\n\nGo get yourself some Feastables peanut butter cups 👉 https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-07-04T16:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nH9R0Jpqeqc/hqdefault.jpg",
-      "duration": "PT18M15S",
-      "duration_seconds": 1095,
-      "view_count": 2498907,
-      "like_count": 113093,
-      "comment_count": 7889,
+      "video_id": "dCwkQT7nCM0",
+      "title": "+1 Speed Keyboard Escape Live!",
+      "description": "",
+      "channel_title": "FridBlox",
+      "channel_id": "UCZtPchKhftXAUcwm5RS7KMQ",
+      "published_at": "2026-07-04T21:20:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dCwkQT7nCM0/hqdefault.jpg",
+      "duration": "PT4S",
+      "duration_seconds": 4,
+      "view_count": 389808,
+      "like_count": 2047,
+      "comment_count": 3,
       "category_id": "20",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=nH9R0Jpqeqc"
+      "url": "https://www.youtube.com/watch?v=dCwkQT7nCM0"
     },
     {
       "video_id": "43qoWFJbWF0",
@@ -81,9 +81,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
       "duration": "PT2M2S",
       "duration_seconds": 122,
-      "view_count": 335169,
-      "like_count": 22079,
-      "comment_count": 1770,
+      "view_count": 372248,
+      "like_count": 24060,
+      "comment_count": 1904,
       "category_id": "24",
       "tags": [
         "JoJo’s Bizarre Adventure 2nd stage",
@@ -95,32 +95,24 @@
       "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
     },
     {
-      "video_id": "CRUCxK9xpJw",
-      "title": "Meccha Chameleon - These Spots Might Get Us Cancelled...",
-      "description": "Shop The Vanoss Club Collection HERE: https://www.vanosslimited.com/\nOutro Song: https://www.youtube.com/watch?v=HRPDp9jUNS8\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \nWildcat - @wildcat \nH2O Delirious - @H2ODelirious \nNogla - @DaithiDeNogla \nBasicallyIDoWrk - @BasicallyIDoWrk \nTerroriser - @Terroriser \nPasta -@PastaReacts \nfourzer0seven - @fourzer0seven \nCourageJD - @CouRageJD \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
-      "channel_title": "VanossGaming",
-      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
-      "published_at": "2026-07-04T02:34:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CRUCxK9xpJw/hqdefault.jpg",
-      "duration": "PT31M24S",
-      "duration_seconds": 1884,
-      "view_count": 608251,
-      "like_count": 30292,
-      "comment_count": 896,
+      "video_id": "k3yK7udoJ54",
+      "title": "MECCHA CHAMELEON but my friends SUCK",
+      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-04T09:28:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
+      "duration": "PT36M58S",
+      "duration_seconds": 2218,
+      "view_count": 461061,
+      "like_count": 25938,
+      "comment_count": 2796,
       "category_id": "20",
       "tags": [
-        "Funny Moments",
-        "Montage video games",
-        "gaming",
-        "Vanoss",
-        "VanossGaming",
-        "Gameplay",
-        "Secret",
-        "Puncake",
-        "Parody",
-        "Comedy"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=CRUCxK9xpJw"
+      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
     },
     {
       "video_id": "TL-IGyJGf-w",
@@ -132,9 +124,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TL-IGyJGf-w/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 261904,
-      "like_count": 32537,
-      "comment_count": 1001,
+      "view_count": 301400,
+      "like_count": 36143,
+      "comment_count": 1086,
       "category_id": "1",
       "tags": [
         "the guy she was interested in wasnt a guy at all",
@@ -148,167 +140,6 @@
       "url": "https://www.youtube.com/watch?v=TL-IGyJGf-w"
     },
     {
-      "video_id": "N_S2hrY6gLo",
-      "title": "CAPTCHA.exe",
-      "description": "No, it's not quite like SONIC.exe or any of the other exe games. This is a doppleganger test based on those captchas you do online all the time!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nPlay the Game ► https://reichiv.itch.io/captchaexe\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-07-04T16:10:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N_S2hrY6gLo/hqdefault.jpg",
-      "duration": "PT32M5S",
-      "duration_seconds": 1925,
-      "view_count": 219382,
-      "like_count": 21595,
-      "comment_count": 1945,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "scary games",
-        "lair of torment",
-        "horror games",
-        "jumpscares",
-        "jump scares",
-        "reactions",
-        "scares",
-        "scary game reactions",
-        "scare reactions"
-      ],
-      "url": "https://www.youtube.com/watch?v=N_S2hrY6gLo"
-    },
-    {
-      "video_id": "jXtG_lcR9P4",
-      "title": "PV 第2弾　アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』｜2nd Trailer !!　\"STEEL BALL RUN JoJo’s Bizarre Adventure\"",
-      "description": "2nd & 3rd STAGE（全11話）2026年9月25日よりNetflixにて毎週金曜日 世界独占先行配信開始予定！\n2nd & 3rd STAGE (11 episodes total)Coming to Netflix from September 25, 2026New episodes streaming every Friday, worldwide exclusively on Netflix!\n\n【INTRODUCTION】 \n総距離約750マイルの砂漠越え――\nジョニィ・ジョースターとジャイロ・ツェペリが挑むその砂漠には“悪魔の手のひら”と恐れられる土地が存在した。\nさらに、不穏な事件が巻き起こり、このレースがただの競技大会ではないことを思い知らされる。\nふたりは様々な思惑が交錯する2nd STAGEへ立ち向かう。\nA desert crossing spanning roughly 750 miles-\nthe land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nジョニィ・ジョースター　cv.坂田将吾 \nJohnny Joestar　cv.Shogo Sakata \n\nジャイロ・ツェペリ　cv.阿座上洋平\n Gyro Zeppeli　cv.Yohei Azakami \n\nディエゴ・ブランドー　cv.石川界人 \nDiego Brando　cv.Kaito Ishikawa \n\nルーシー・スティール　cv.高橋李依 \nLucy Steel　cv.Rie Takahashi \n\nスティーブン・スティール　cv.三宅健太\n Steven Steel　cv.Kenta Miyake\n",
-      "channel_title": "Warner Bros. Japan Anime",
-      "channel_id": "UCcjqSFXBg2cGQg5r0YooMiA",
-      "published_at": "2026-07-03T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXtG_lcR9P4/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 559506,
-      "like_count": 37963,
-      "comment_count": 1719,
-      "category_id": "1",
-      "tags": [
-        "ジョニィ･ジョースター",
-        "坂田将吾",
-        "ジャイロ・ツェペリ",
-        "阿座上洋平",
-        "Shogo Sakata",
-        "Johnny Joestar",
-        "Yohei Azakami",
-        "Gyro Zeppeli",
-        "STEEL BALL RUN JoJo's Bizarre Adventure",
-        "JOJO"
-      ],
-      "url": "https://www.youtube.com/watch?v=jXtG_lcR9P4"
-    },
-    {
-      "video_id": "k3yK7udoJ54",
-      "title": "MECCHA CHAMELEON but my friends SUCK",
-      "description": "thanks to my friends for playing meccha chameleon with me and @speedy  for setting up the proximity chat @Jackeryz  @Chaseroony  @Polarcub  @KadenFumblebottom  @Sketchh  @Jayingee  @Temprist",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-04T09:28:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
-      "duration": "PT36M58S",
-      "duration_seconds": 2218,
-      "view_count": 375458,
-      "like_count": 22977,
-      "comment_count": 2696,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
-    }
-  ],
-  "videos_with_transcripts": [],
-  "videos_without_transcripts": [
-    {
-      "video_id": "BkGOs3_q79I",
-      "title": "The Odyssey - Oh, Dear...",
-      "description": "Christopher Nolan's Odyssey hasn't had the best week, with the latest trailer getting ratioed into oblivion. And I think I know why. Let's find out...",
-      "channel_title": "The Critical Drinker",
-      "channel_id": "UCSJPFQdZwrOutnmSFYtbstA",
-      "published_at": "2026-07-03T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BkGOs3_q79I/hqdefault.jpg",
-      "duration": "PT8M24S",
-      "duration_seconds": 504,
-      "view_count": 1746901,
-      "like_count": 116869,
-      "comment_count": 17111,
-      "category_id": "24",
-      "tags": [
-        "critical drinker",
-        "review",
-        "funny",
-        "feminism",
-        "feminist",
-        "best movie reviews",
-        "best film critic"
-      ],
-      "url": "https://www.youtube.com/watch?v=BkGOs3_q79I"
-    },
-    {
-      "video_id": "7TYdQysC_Fc",
-      "title": "The Hunger Games: Sunrise on the Reaping (2026) 'Meet Haymitch' – Joseph Zada",
-      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://x.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "channel_title": "The Hunger Games",
-      "channel_id": "UCjvqqA-Eogozfm244OhUESw",
-      "published_at": "2026-07-04T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
-      "duration": "PT2M46S",
-      "duration_seconds": 166,
-      "view_count": 181014,
-      "like_count": 9187,
-      "comment_count": 666,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
-    },
-    {
-      "video_id": "nH9R0Jpqeqc",
-      "title": "10 YouTubers vs 2 Secret Traitors",
-      "description": "I can't believe how this ended\n\nGo get yourself some Feastables peanut butter cups 👉 https://feastables.com/pages/find-a-store\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
-      "channel_title": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "published_at": "2026-07-04T16:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nH9R0Jpqeqc/hqdefault.jpg",
-      "duration": "PT18M15S",
-      "duration_seconds": 1095,
-      "view_count": 2498907,
-      "like_count": 113093,
-      "comment_count": 7889,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=nH9R0Jpqeqc"
-    },
-    {
-      "video_id": "43qoWFJbWF0",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
-      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-      "channel_title": "Netflix",
-      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-      "published_at": "2026-07-03T23:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
-      "duration": "PT2M2S",
-      "duration_seconds": 122,
-      "view_count": 335169,
-      "like_count": 22079,
-      "comment_count": 1770,
-      "category_id": "24",
-      "tags": [
-        "JoJo’s Bizarre Adventure 2nd stage",
-        "JoJo’s Bizarre Adventure 3rd stage",
-        "jojo's bizarre adventure",
-        "steel ball run",
-        "steel ball run trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
-    },
-    {
       "video_id": "CRUCxK9xpJw",
       "title": "Meccha Chameleon - These Spots Might Get Us Cancelled...",
       "description": "Shop The Vanoss Club Collection HERE: https://www.vanosslimited.com/\nOutro Song: https://www.youtube.com/watch?v=HRPDp9jUNS8\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \nWildcat - @wildcat \nH2O Delirious - @H2ODelirious \nNogla - @DaithiDeNogla \nBasicallyIDoWrk - @BasicallyIDoWrk \nTerroriser - @Terroriser \nPasta -@PastaReacts \nfourzer0seven - @fourzer0seven \nCourageJD - @CouRageJD \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
@@ -318,9 +149,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CRUCxK9xpJw/hqdefault.jpg",
       "duration": "PT31M24S",
       "duration_seconds": 1884,
-      "view_count": 608251,
-      "like_count": 30292,
-      "comment_count": 896,
+      "view_count": 672363,
+      "like_count": 32364,
+      "comment_count": 920,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -337,60 +168,111 @@
       "url": "https://www.youtube.com/watch?v=CRUCxK9xpJw"
     },
     {
-      "video_id": "N_S2hrY6gLo",
-      "title": "CAPTCHA.exe",
-      "description": "No, it's not quite like SONIC.exe or any of the other exe games. This is a doppleganger test based on those captchas you do online all the time!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\nMY COMFY CLOTHES ► https://cloakbrand.com/\n\nEdited By ► @radRYT \nEdited By ► @LixianTV \n\nPlay the Game ► https://reichiv.itch.io/captchaexe\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-07-04T16:10:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N_S2hrY6gLo/hqdefault.jpg",
-      "duration": "PT32M5S",
-      "duration_seconds": 1925,
-      "view_count": 219382,
-      "like_count": 21595,
-      "comment_count": 1945,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "scary games",
-        "lair of torment",
-        "horror games",
-        "jumpscares",
-        "jump scares",
-        "reactions",
-        "scares",
-        "scary game reactions",
-        "scare reactions"
-      ],
-      "url": "https://www.youtube.com/watch?v=N_S2hrY6gLo"
+      "video_id": "sQj9MLVbpog",
+      "title": "Drinker's Chasers - The Odyssey Trailer Gets Brutal Ratio",
+      "description": "Somehow Christopher Nolan's Odyssey is on track to be one of the most disliked trailers on YouTube. Let's find out why. \n\nOrder yourself some Insta-Fix Sealant now: https://www.instafix.com/",
+      "channel_title": "Critical Drinker After Hours",
+      "channel_id": "UC5ckqMQFqpqVbGJNiHhNE7Q",
+      "published_at": "2026-07-04T18:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sQj9MLVbpog/hqdefault.jpg",
+      "duration": "PT20M57S",
+      "duration_seconds": 1257,
+      "view_count": 80547,
+      "like_count": 5444,
+      "comment_count": 1616,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sQj9MLVbpog"
     },
     {
-      "video_id": "jXtG_lcR9P4",
-      "title": "PV 第2弾　アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』｜2nd Trailer !!　\"STEEL BALL RUN JoJo’s Bizarre Adventure\"",
-      "description": "2nd & 3rd STAGE（全11話）2026年9月25日よりNetflixにて毎週金曜日 世界独占先行配信開始予定！\n2nd & 3rd STAGE (11 episodes total)Coming to Netflix from September 25, 2026New episodes streaming every Friday, worldwide exclusively on Netflix!\n\n【INTRODUCTION】 \n総距離約750マイルの砂漠越え――\nジョニィ・ジョースターとジャイロ・ツェペリが挑むその砂漠には“悪魔の手のひら”と恐れられる土地が存在した。\nさらに、不穏な事件が巻き起こり、このレースがただの競技大会ではないことを思い知らされる。\nふたりは様々な思惑が交錯する2nd STAGEへ立ち向かう。\nA desert crossing spanning roughly 750 miles-\nthe land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nジョニィ・ジョースター　cv.坂田将吾 \nJohnny Joestar　cv.Shogo Sakata \n\nジャイロ・ツェペリ　cv.阿座上洋平\n Gyro Zeppeli　cv.Yohei Azakami \n\nディエゴ・ブランドー　cv.石川界人 \nDiego Brando　cv.Kaito Ishikawa \n\nルーシー・スティール　cv.高橋李依 \nLucy Steel　cv.Rie Takahashi \n\nスティーブン・スティール　cv.三宅健太\n Steven Steel　cv.Kenta Miyake\n",
-      "channel_title": "Warner Bros. Japan Anime",
-      "channel_id": "UCcjqSFXBg2cGQg5r0YooMiA",
-      "published_at": "2026-07-03T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXtG_lcR9P4/hqdefault.jpg",
-      "duration": "PT1M44S",
-      "duration_seconds": 104,
-      "view_count": 559506,
-      "like_count": 37963,
-      "comment_count": 1719,
-      "category_id": "1",
+      "video_id": "8UG1IJcYEQU",
+      "title": "We Played Hide & Seek But With Paint!",
+      "description": "THIS WAS SO FUN\nMy first gaming video in over 10 years and it had to be Meccha Chameleon! Who had the best hiding spots?!\n\nTHE SQUAD:\nCaylus: @Caylus \nJC: @lifewithJc \nKiera: @kierakierakierakiera \nMawcho: @Mawcho \nSUNYL: @SUNYL_ \n\n🔴 SUBSCRIBE ► https://www.youtube.com/rug\n🔵 NEW 1UP CANDY ► https://1upcandy.com/\n🟣 PrizePicks ► https://link.prizepicks.com/LME0/RUG\n\nFOLLOW MY OTHER SOCIALS!!\nInstagram ► https://www.instagram.com/fazerug/\nTikTok ► https://www.tiktok.com/@rug\nTwitter ► https://twitter.com/FaZeRug\nSnapchat ► https://www.snapchat.com/add/thefazerug",
+      "channel_title": "FaZe Rug",
+      "channel_id": "UCilwZiBBfI9X6yiZRzWty8Q",
+      "published_at": "2026-07-04T20:57:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8UG1IJcYEQU/hqdefault.jpg",
+      "duration": "PT31M",
+      "duration_seconds": 1860,
+      "view_count": 174705,
+      "like_count": 8588,
+      "comment_count": 1213,
+      "category_id": "24",
       "tags": [
-        "ジョニィ･ジョースター",
-        "坂田将吾",
-        "ジャイロ・ツェペリ",
-        "阿座上洋平",
-        "Shogo Sakata",
-        "Johnny Joestar",
-        "Yohei Azakami",
-        "Gyro Zeppeli",
-        "STEEL BALL RUN JoJo's Bizarre Adventure",
-        "JOJO"
+        "faze rug",
+        "rug",
+        "rugfaze",
+        "fazerug"
       ],
-      "url": "https://www.youtube.com/watch?v=jXtG_lcR9P4"
+      "url": "https://www.youtube.com/watch?v=8UG1IJcYEQU"
+    }
+  ],
+  "videos_with_transcripts": [],
+  "videos_without_transcripts": [
+    {
+      "video_id": "7TYdQysC_Fc",
+      "title": "The Hunger Games: Sunrise on the Reaping (2026) 'Meet Haymitch' – Joseph Zada",
+      "description": "The Hunger Games: Sunrise on the Reaping – in theaters & IMAX November 20.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/thehungergames\nhttps://www.facebook.com/TheHungerGamesMovie\nhttps://www.threads.com/@thehungergames\nhttps://x.com/TheHungerGames\nhttps://www.tiktok.com/@hungergamesofficial\n\n#TheHungerGames\n\nTHE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "channel_title": "The Hunger Games",
+      "channel_id": "UCjvqqA-Eogozfm244OhUESw",
+      "published_at": "2026-07-04T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7TYdQysC_Fc/hqdefault.jpg",
+      "duration": "PT2M46S",
+      "duration_seconds": 166,
+      "view_count": 250746,
+      "like_count": 11624,
+      "comment_count": 803,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=7TYdQysC_Fc"
+    },
+    {
+      "video_id": "BkGOs3_q79I",
+      "title": "The Odyssey - Oh, Dear...",
+      "description": "Christopher Nolan's Odyssey hasn't had the best week, with the latest trailer getting ratioed into oblivion. And I think I know why. Let's find out...",
+      "channel_title": "The Critical Drinker",
+      "channel_id": "UCSJPFQdZwrOutnmSFYtbstA",
+      "published_at": "2026-07-03T16:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BkGOs3_q79I/hqdefault.jpg",
+      "duration": "PT8M24S",
+      "duration_seconds": 504,
+      "view_count": 1829354,
+      "like_count": 120395,
+      "comment_count": 17544,
+      "category_id": "24",
+      "tags": [
+        "critical drinker",
+        "review",
+        "funny",
+        "feminism",
+        "feminist",
+        "best movie reviews",
+        "best film critic"
+      ],
+      "url": "https://www.youtube.com/watch?v=BkGOs3_q79I"
+    },
+    {
+      "video_id": "43qoWFJbWF0",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+      "description": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.\n\nA desert crossing spanning roughly 750 miles—the land that Johnny Joestar and Gyro Zeppeli must make their way through, is home to the dreaded area known as the “Devil’s Palm.”\nAs ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition.\nThe two press forward into the 2nd STAGE, where countless hidden motives collide.\n\nWatch on Netflix: https://www.netflix.com/title/82181513\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nSTEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-07-03T23:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/43qoWFJbWF0/hqdefault.jpg",
+      "duration": "PT2M2S",
+      "duration_seconds": 122,
+      "view_count": 372248,
+      "like_count": 24060,
+      "comment_count": 1904,
+      "category_id": "24",
+      "tags": [
+        "JoJo’s Bizarre Adventure 2nd stage",
+        "JoJo’s Bizarre Adventure 3rd stage",
+        "jojo's bizarre adventure",
+        "steel ball run",
+        "steel ball run trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0"
     },
     {
       "video_id": "k3yK7udoJ54",
@@ -402,15 +284,99 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k3yK7udoJ54/hqdefault.jpg",
       "duration": "PT36M58S",
       "duration_seconds": 2218,
-      "view_count": 375458,
-      "like_count": 22977,
-      "comment_count": 2696,
+      "view_count": 461061,
+      "like_count": 25938,
+      "comment_count": 2796,
       "category_id": "20",
       "tags": [
         "Family",
         "friendly"
       ],
       "url": "https://www.youtube.com/watch?v=k3yK7udoJ54"
+    },
+    {
+      "video_id": "CRUCxK9xpJw",
+      "title": "Meccha Chameleon - These Spots Might Get Us Cancelled...",
+      "description": "Shop The Vanoss Club Collection HERE: https://www.vanosslimited.com/\nOutro Song: https://www.youtube.com/watch?v=HRPDp9jUNS8\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \nWildcat - @wildcat \nH2O Delirious - @H2ODelirious \nNogla - @DaithiDeNogla \nBasicallyIDoWrk - @BasicallyIDoWrk \nTerroriser - @Terroriser \nPasta -@PastaReacts \nfourzer0seven - @fourzer0seven \nCourageJD - @CouRageJD \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
+      "channel_title": "VanossGaming",
+      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "published_at": "2026-07-04T02:34:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CRUCxK9xpJw/hqdefault.jpg",
+      "duration": "PT31M24S",
+      "duration_seconds": 1884,
+      "view_count": 672363,
+      "like_count": 32364,
+      "comment_count": 920,
+      "category_id": "20",
+      "tags": [
+        "Funny Moments",
+        "Montage video games",
+        "gaming",
+        "Vanoss",
+        "VanossGaming",
+        "Gameplay",
+        "Secret",
+        "Puncake",
+        "Parody",
+        "Comedy"
+      ],
+      "url": "https://www.youtube.com/watch?v=CRUCxK9xpJw"
+    },
+    {
+      "video_id": "sQj9MLVbpog",
+      "title": "Drinker's Chasers - The Odyssey Trailer Gets Brutal Ratio",
+      "description": "Somehow Christopher Nolan's Odyssey is on track to be one of the most disliked trailers on YouTube. Let's find out why. \n\nOrder yourself some Insta-Fix Sealant now: https://www.instafix.com/",
+      "channel_title": "Critical Drinker After Hours",
+      "channel_id": "UC5ckqMQFqpqVbGJNiHhNE7Q",
+      "published_at": "2026-07-04T18:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sQj9MLVbpog/hqdefault.jpg",
+      "duration": "PT20M57S",
+      "duration_seconds": 1257,
+      "view_count": 80547,
+      "like_count": 5444,
+      "comment_count": 1616,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sQj9MLVbpog"
+    },
+    {
+      "video_id": "8UG1IJcYEQU",
+      "title": "We Played Hide & Seek But With Paint!",
+      "description": "THIS WAS SO FUN\nMy first gaming video in over 10 years and it had to be Meccha Chameleon! Who had the best hiding spots?!\n\nTHE SQUAD:\nCaylus: @Caylus \nJC: @lifewithJc \nKiera: @kierakierakierakiera \nMawcho: @Mawcho \nSUNYL: @SUNYL_ \n\n🔴 SUBSCRIBE ► https://www.youtube.com/rug\n🔵 NEW 1UP CANDY ► https://1upcandy.com/\n🟣 PrizePicks ► https://link.prizepicks.com/LME0/RUG\n\nFOLLOW MY OTHER SOCIALS!!\nInstagram ► https://www.instagram.com/fazerug/\nTikTok ► https://www.tiktok.com/@rug\nTwitter ► https://twitter.com/FaZeRug\nSnapchat ► https://www.snapchat.com/add/thefazerug",
+      "channel_title": "FaZe Rug",
+      "channel_id": "UCilwZiBBfI9X6yiZRzWty8Q",
+      "published_at": "2026-07-04T20:57:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8UG1IJcYEQU/hqdefault.jpg",
+      "duration": "PT31M",
+      "duration_seconds": 1860,
+      "view_count": 174705,
+      "like_count": 8588,
+      "comment_count": 1213,
+      "category_id": "24",
+      "tags": [
+        "faze rug",
+        "rug",
+        "rugfaze",
+        "fazerug"
+      ],
+      "url": "https://www.youtube.com/watch?v=8UG1IJcYEQU"
+    },
+    {
+      "video_id": "dCwkQT7nCM0",
+      "title": "+1 Speed Keyboard Escape Live!",
+      "description": "",
+      "channel_title": "FridBlox",
+      "channel_id": "UCZtPchKhftXAUcwm5RS7KMQ",
+      "published_at": "2026-07-04T21:20:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dCwkQT7nCM0/hqdefault.jpg",
+      "duration": "PT4S",
+      "duration_seconds": 4,
+      "view_count": 389808,
+      "like_count": 2047,
+      "comment_count": 3,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=dCwkQT7nCM0"
     },
     {
       "video_id": "TL-IGyJGf-w",
@@ -422,9 +388,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TL-IGyJGf-w/hqdefault.jpg",
       "duration": "PT41S",
       "duration_seconds": 41,
-      "view_count": 261904,
-      "like_count": 32537,
-      "comment_count": 1001,
+      "view_count": 301400,
+      "like_count": 36143,
+      "comment_count": 1086,
       "category_id": "1",
       "tags": [
         "the guy she was interested in wasnt a guy at all",
@@ -441,46 +407,47 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "insights": {
-        "view_analysis": {
-          "average_views_per_video": 754,
-          "total_views": 6786492,
-          "total_videos": 9
-        },
-        "content_trends": {
-          "movie_and_series_trailers": {
-            "description": "Videos related to upcoming movie and series releases, such as 'The Hunger Games: Sunrise on the Reaping' and 'STEEL BALL RUN JoJo's Bizarre Adventure', are trending, indicating high interest in popular franchises and adaptations.",
-            "recommendation": "Content creators should consider producing related content such as reviews, theories, or behind-the-scenes analysis to leverage the interest in these popular franchises."
+      "total_videos": 9,
+      "total_views": 4532232,
+      "average_views_per_video": 503581,
+      "trends_analysis": {
+        "emerging_trends": [
+          {
+            "trend": "Nostalgia and Franchise Continuations",
+            "evidence": [
+              "The Hunger Games: Sunrise on the Reaping (2026) 'Meet Haymitch'",
+              "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+              "The Odyssey Trailer"
+            ],
+            "insight": "There is a significant interest in content related to established franchises, suggesting a consumer preference for familiar and nostalgic narratives."
           },
-          "anime_and_japanese_content": {
-            "description": "Videos related to anime, such as 'STEEL BALL RUN JoJo's Bizarre Adventure' and 'The Guy She Was Interested In Wasn't a Guy At All', show a strong presence, highlighting the continuing global engagement with anime content.",
-            "recommendation": "Channels could expand into anime-related content, including reviews, discussions, and fan theories, to capture the anime audience."
+          {
+            "trend": "Anime and Manga Adaptations",
+            "evidence": [
+              "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+              "The Guy She Was Interested In Wasn't a Guy At All | Official Teaser | Crunchyroll"
+            ],
+            "insight": "Anime and manga adaptations continue to capture audience interest, indicating a strong market for streaming services and content creators to explore more such adaptations."
           },
-          "interactive_and_challenge_content": {
-            "description": "Interactive content such as '10 YouTubers vs 2 Secret Traitors' indicates a trend toward engaging, participatory videos that involve audiences in games or challenges.",
-            "recommendation": "Creators should explore interactive content formats, possibly integrating audience participation through comments, polls, or live-streaming events."
+          {
+            "trend": "Interactive and Gaming Content",
+            "evidence": [
+              "+1 Speed Keyboard Escape Live!",
+              "We Played Hide & Seek But With Paint!"
+            ],
+            "insight": "Interactive content, especially around gaming and challenges, is gaining traction. Creators can capitalize on this by developing innovative formats that engage viewers in participatory experiences."
           }
-        },
-        "creator_patterns": {
-          "diverse_content": {
-            "description": "Top channels like MrBeast Gaming and VanossGaming, known for diverse and engaging content, suggest a trend towards varied video formats that maintain high viewer interest.",
-            "recommendation": "Emerging creators should diversify their content offerings to include a mix of gaming, challenges, and collaborations to attract and retain a wider audience."
-          },
-          "brand_collaborations": {
-            "description": "Collaboration with well-known franchises and platforms such as Netflix and Crunchyroll shows effectiveness in reaching large audiences.",
-            "recommendation": "Creators should pursue collaborations with popular brands and franchises to boost visibility and tap into established fanbases."
-          }
-        },
-        "market_opportunities": {
-          "emerging_franchises": {
-            "description": "Upcoming releases like 'The Hunger Games: Sunrise on the Reaping (2026)' present a prime opportunity for creators to produce anticipatory content leading up to the release.",
-            "recommendation": "Creators can capitalize by producing speculative content, trailers analysis, and fan theory videos to capture audience interest before the official release."
-          },
-          "localization_and_subtitled_content": {
-            "description": "The presence of Japanese-titled videos suggests a potential market for localized or subtitled content for non-English-speaking audiences.",
-            "recommendation": "Channels should consider offering multilingual content or subtitles to broaden their audience reach, particularly in regions with high anime consumption."
-          }
-        }
+        ]
+      },
+      "creator_patterns": {
+        "diversity_of_content": "Content spans various genres including movie trailers, gaming, anime, and live challenges, indicating a wide range of viewer interests.",
+        "cross-platform promotion": "With trailers for movies and series being a significant portion, creators are leveraging YouTube for cross-platform promotion of streaming content.",
+        "individual vs. platform-driven content": "While individual creators like The Critical Drinker and FridBlox are prominent, platform-driven content from Netflix and Crunchyroll highlights the strategic use of YouTube for official content releases."
+      },
+      "market_opportunities": {
+        "franchise_expansion": "Brands should consider expanding existing franchises with new narratives or spin-offs to tap into the nostalgia trend.",
+        "content localization": "Given the global appeal of anime and adaptations, there is potential for localized content to cater to specific regional audiences, enhancing engagement.",
+        "interactive content innovation": "Creators can explore new interactive formats or technologies (e.g., AR/VR) to enhance viewer engagement in gaming and live challenge content."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -488,7 +455,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 754054
+        "avg_views_per_video": 503581
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
