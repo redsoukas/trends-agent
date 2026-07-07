@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T10:13:56.039142",
+  "timestamp": "2026-07-07T12:58:16.241800",
   "date": "2026-07-07",
   "summary": {
     "total_videos_analyzed": 9,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/huV4Pk4g-SU/hqdefault.jpg",
       "duration": "PT12M3S",
       "duration_seconds": 723,
-      "view_count": 122581,
-      "like_count": 2846,
-      "comment_count": 316,
+      "view_count": 137014,
+      "like_count": 3080,
+      "comment_count": 341,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=huV4Pk4g-SU"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ysDUclBoJHk/hqdefault.jpg",
       "duration": "PT8M49S",
       "duration_seconds": 529,
-      "view_count": 58807,
-      "like_count": 5138,
-      "comment_count": 772,
+      "view_count": 76270,
+      "like_count": 6228,
+      "comment_count": 902,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -62,9 +62,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/O7I1Lb6ZUdA/hqdefault.jpg",
       "duration": "PT1H6M37S",
       "duration_seconds": 3997,
-      "view_count": 322074,
-      "like_count": 14167,
-      "comment_count": 1059,
+      "view_count": 363170,
+      "like_count": 15446,
+      "comment_count": 1119,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -90,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTkTA9uGC9U/hqdefault.jpg",
       "duration": "PT11M21S",
       "duration_seconds": 681,
-      "view_count": 72366,
-      "like_count": 2202,
-      "comment_count": 168,
+      "view_count": 74965,
+      "like_count": 2290,
+      "comment_count": 181,
       "category_id": "24",
       "tags": [
         "House Of The Dragon",
@@ -118,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/C-JwRlDedig/hqdefault.jpg",
       "duration": "PT1H16M30S",
       "duration_seconds": 4590,
-      "view_count": 302773,
-      "like_count": 10322,
-      "comment_count": 574,
+      "view_count": 326636,
+      "like_count": 10862,
+      "comment_count": 587,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -137,9 +137,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9QyiEgv33z4/hqdefault.jpg",
       "duration": "PT1M42S",
       "duration_seconds": 102,
-      "view_count": 1058321,
-      "like_count": 71744,
-      "comment_count": 3197,
+      "view_count": 1080617,
+      "like_count": 72812,
+      "comment_count": 3241,
       "category_id": "1",
       "tags": [
         "black clover",
@@ -155,21 +155,23 @@
       "url": "https://www.youtube.com/watch?v=9QyiEgv33z4"
     },
     {
-      "video_id": "SQoke0Oyc1A",
-      "title": "+1 Speed Keyboard Escape Live!",
-      "description": "",
-      "channel_title": "FridBlox",
-      "channel_id": "UCZtPchKhftXAUcwm5RS7KMQ",
-      "published_at": "2026-07-06T18:46:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SQoke0Oyc1A/hqdefault.jpg",
-      "duration": "PT5S",
-      "duration_seconds": 5,
-      "view_count": 302274,
-      "like_count": 1750,
-      "comment_count": 4,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=SQoke0Oyc1A"
+      "video_id": "lEYqE15H_8w",
+      "title": "Making My College Decision… RTG Ep. #2",
+      "description": "After dominating the high school ranks, decision day is here. Will we stomp on the SEC? Will we annhilate the ACC? Or will we join the buckeyes and blast the Big 10? Watch, and find out!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-07-06T22:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lEYqE15H_8w/hqdefault.jpg",
+      "duration": "PT1H2M49S",
+      "duration_seconds": 3769,
+      "view_count": 197737,
+      "like_count": 7373,
+      "comment_count": 338,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=lEYqE15H_8w"
     },
     {
       "video_id": "K_lT6Fa5HyU",
@@ -181,9 +183,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K_lT6Fa5HyU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 90718,
-      "like_count": 3562,
-      "comment_count": 241,
+      "view_count": 98570,
+      "like_count": 3785,
+      "comment_count": 251,
       "category_id": "24",
       "tags": [
         "Competition",
@@ -200,23 +202,21 @@
       "url": "https://www.youtube.com/watch?v=K_lT6Fa5HyU"
     },
     {
-      "video_id": "lEYqE15H_8w",
-      "title": "Making My College Decision… RTG Ep. #2",
-      "description": "After dominating the high school ranks, decision day is here. Will we stomp on the SEC? Will we annhilate the ACC? Or will we join the buckeyes and blast the Big 10? Watch, and find out!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-07-06T22:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lEYqE15H_8w/hqdefault.jpg",
-      "duration": "PT1H2M49S",
-      "duration_seconds": 3769,
-      "view_count": 184353,
-      "like_count": 6986,
-      "comment_count": 329,
-      "category_id": "17",
-      "tags": [
-        "mmg"
-      ],
-      "url": "https://www.youtube.com/watch?v=lEYqE15H_8w"
+      "video_id": "SQoke0Oyc1A",
+      "title": "+1 Speed Keyboard Escape Live!",
+      "description": "",
+      "channel_title": "FridBlox",
+      "channel_id": "UCZtPchKhftXAUcwm5RS7KMQ",
+      "published_at": "2026-07-06T18:46:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SQoke0Oyc1A/hqdefault.jpg",
+      "duration": "PT5S",
+      "duration_seconds": 5,
+      "view_count": 302481,
+      "like_count": 1748,
+      "comment_count": 4,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=SQoke0Oyc1A"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,9 +231,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/huV4Pk4g-SU/hqdefault.jpg",
       "duration": "PT12M3S",
       "duration_seconds": 723,
-      "view_count": 122581,
-      "like_count": 2846,
-      "comment_count": 316,
+      "view_count": 137014,
+      "like_count": 3080,
+      "comment_count": 341,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=huV4Pk4g-SU"
@@ -248,9 +248,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ysDUclBoJHk/hqdefault.jpg",
       "duration": "PT8M49S",
       "duration_seconds": 529,
-      "view_count": 58807,
-      "like_count": 5138,
-      "comment_count": 772,
+      "view_count": 76270,
+      "like_count": 6228,
+      "comment_count": 902,
       "category_id": "20",
       "tags": [
         "roblox",
@@ -271,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/O7I1Lb6ZUdA/hqdefault.jpg",
       "duration": "PT1H6M37S",
       "duration_seconds": 3997,
-      "view_count": 322074,
-      "like_count": 14167,
-      "comment_count": 1059,
+      "view_count": 363170,
+      "like_count": 15446,
+      "comment_count": 1119,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -299,9 +299,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JTkTA9uGC9U/hqdefault.jpg",
       "duration": "PT11M21S",
       "duration_seconds": 681,
-      "view_count": 72366,
-      "like_count": 2202,
-      "comment_count": 168,
+      "view_count": 74965,
+      "like_count": 2290,
+      "comment_count": 181,
       "category_id": "24",
       "tags": [
         "House Of The Dragon",
@@ -327,9 +327,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/C-JwRlDedig/hqdefault.jpg",
       "duration": "PT1H16M30S",
       "duration_seconds": 4590,
-      "view_count": 302773,
-      "like_count": 10322,
-      "comment_count": 574,
+      "view_count": 326636,
+      "like_count": 10862,
+      "comment_count": 587,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -346,9 +346,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9QyiEgv33z4/hqdefault.jpg",
       "duration": "PT1M42S",
       "duration_seconds": 102,
-      "view_count": 1058321,
-      "like_count": 71744,
-      "comment_count": 3197,
+      "view_count": 1080617,
+      "like_count": 72812,
+      "comment_count": 3241,
       "category_id": "1",
       "tags": [
         "black clover",
@@ -364,6 +364,25 @@
       "url": "https://www.youtube.com/watch?v=9QyiEgv33z4"
     },
     {
+      "video_id": "lEYqE15H_8w",
+      "title": "Making My College Decision… RTG Ep. #2",
+      "description": "After dominating the high school ranks, decision day is here. Will we stomp on the SEC? Will we annhilate the ACC? Or will we join the buckeyes and blast the Big 10? Watch, and find out!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-07-06T22:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lEYqE15H_8w/hqdefault.jpg",
+      "duration": "PT1H2M49S",
+      "duration_seconds": 3769,
+      "view_count": 197737,
+      "like_count": 7373,
+      "comment_count": 338,
+      "category_id": "17",
+      "tags": [
+        "mmg"
+      ],
+      "url": "https://www.youtube.com/watch?v=lEYqE15H_8w"
+    },
+    {
       "video_id": "K_lT6Fa5HyU",
       "title": "WWE: Unreal: Season 3 | Official Trailer | Netflix",
       "description": "John Cena says goodbye, a fan favorite returns, and the next generation of Superstars rise to the occasion. WWE: Unreal takes viewers inside the writers' room as injuries, last-minute pivots, and career-defining decisions reshape WWE’s biggest season yet heading into Wrestlemania 42.\n\nWWE: Unreal Season 3 releases July 21, 2026.\n\nWatch on Netflix: https://www.netflix.com/title/82137151\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nWWE: Unreal: Season 3 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
@@ -373,9 +392,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K_lT6Fa5HyU/hqdefault.jpg",
       "duration": "PT2M10S",
       "duration_seconds": 130,
-      "view_count": 90718,
-      "like_count": 3562,
-      "comment_count": 241,
+      "view_count": 98570,
+      "like_count": 3785,
+      "comment_count": 251,
       "category_id": "24",
       "tags": [
         "Competition",
@@ -392,25 +411,6 @@
       "url": "https://www.youtube.com/watch?v=K_lT6Fa5HyU"
     },
     {
-      "video_id": "lEYqE15H_8w",
-      "title": "Making My College Decision… RTG Ep. #2",
-      "description": "After dominating the high school ranks, decision day is here. Will we stomp on the SEC? Will we annhilate the ACC? Or will we join the buckeyes and blast the Big 10? Watch, and find out!\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-07-06T22:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lEYqE15H_8w/hqdefault.jpg",
-      "duration": "PT1H2M49S",
-      "duration_seconds": 3769,
-      "view_count": 184353,
-      "like_count": 6986,
-      "comment_count": 329,
-      "category_id": "17",
-      "tags": [
-        "mmg"
-      ],
-      "url": "https://www.youtube.com/watch?v=lEYqE15H_8w"
-    },
-    {
       "video_id": "SQoke0Oyc1A",
       "title": "+1 Speed Keyboard Escape Live!",
       "description": "",
@@ -420,8 +420,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SQoke0Oyc1A/hqdefault.jpg",
       "duration": "PT5S",
       "duration_seconds": 5,
-      "view_count": 302274,
-      "like_count": 1750,
+      "view_count": 302481,
+      "like_count": 1748,
       "comment_count": 4,
       "category_id": "20",
       "tags": [],
@@ -432,56 +432,56 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "high_engagement_genres": [
-          {
-            "genre": "Television Series Analysis",
-            "indicator": "Multiple videos related to 'House of the Dragon' and WWE, indicating strong viewer interest in TV series analysis and breakdowns."
-          },
-          {
-            "genre": "Anime",
-            "indicator": "Presence of multiple anime-related videos like 'Anime Expeditions' and 'Black Clover,' suggesting a robust audience for anime content."
-          },
-          {
-            "genre": "Thriller/Horror",
-            "indicator": "Video titles like 'The Rake Is Always Watching…' suggest an emerging interest in thriller or horror-themed content."
-          },
-          {
-            "genre": "Personal Narratives",
-            "indicator": "Videos like 'I Escaped A Tornado…' and 'Making My College Decision…' indicate that personal storytelling remains a popular genre."
-          }
+        "popular_categories": [
+          "Entertainment",
+          "Anime",
+          "Gaming",
+          "Sports"
         ],
-        "emerging_trends": [
+        "insights": [
           {
-            "trend": "Event-based Content",
-            "insight": "Titles featuring specific episodes or events (e.g., 'House Of The Dragon Season 3 Episode 4') are trending, suggesting that content tied to specific, identifiable events or releases is highly engaging."
+            "pattern": "Trailer breakdowns and official trailers are prominent, indicating high interest in upcoming seasons or new releases.",
+            "actionable_insight": "Content creators can capitalize on this trend by providing in-depth analyses, easter eggs, and speculative content around new releases."
           },
           {
-            "trend": "Interactive and Real-time Content",
-            "insight": "Video like '+1 Speed Keyboard Escape Live!' indicates a growing interest in interactive or real-time content experiences."
+            "pattern": "Videos that incorporate elements of suspense or thrilling experiences (e.g., 'I Escaped A Tornado…', 'The Rake Is Always Watching…') are trending.",
+            "actionable_insight": "Creators should consider producing content that leverages suspense or real-life adventure to engage audiences."
+          },
+          {
+            "pattern": "Content on decision-making processes, such as educational or life decisions ('Making My College Decision…'), is gaining traction.",
+            "actionable_insight": "Target educational or lifestyle content that helps viewers with decision-making, providing guidance or sharing personal experiences."
           }
         ]
       },
       "creator_patterns": {
-        "diversified_content": {
-          "observation": "Top channels produce a wide variety of content, from anime trailers to TV show breakdowns, suggesting that successful channels often diversify their content to capture a wide audience."
-        },
-        "individual_creator_focus": {
-          "observation": "Each top channel listed has only one video trending, indicating that individual creators or small teams are effectively reaching audiences with focused content."
-        }
+        "diverse_interest": "The top channels cover a wide range of topics from pop culture to personal experiences, suggesting that audiences appreciate variety.",
+        "actionable_insight": "Creators should consider diversifying their content to attract broader audiences, possibly by experimenting with different content types within their niche."
       },
       "market_opportunities": {
-        "opportunity_1": {
-          "focus_area": "Cross-genre Content",
-          "strategy": "Develop content that combines popular genres, such as an anime series analysis with a thriller element, to capture overlapping audience interests."
-        },
-        "opportunity_2": {
-          "focus_area": "Localized Content",
-          "strategy": "Create localized or region-specific content breakdowns or trailers, as global franchises like 'House of the Dragon' often have diverse international audiences."
-        },
-        "opportunity_3": {
-          "focus_area": "Interactive Experiences",
-          "strategy": "Expand on the trend of interactive content by creating live or real-time experiences that engage audiences directly, such as live Q&As or interactive storytelling."
-        }
+        "emerging_trends": [
+          {
+            "opportunity": "Capitalize on the popularity of 'House of the Dragon' and similar franchises by producing theories, reaction videos, and fan discussions.",
+            "data_driven_evidence": "Two out of nine trending videos are related to 'House of the Dragon,' indicating strong viewer interest."
+          },
+          {
+            "opportunity": "Anime continues to be a strong category, with official trailers for series like 'Black Clover' trending.",
+            "data_driven_evidence": "The inclusion of 'Anime Expeditions Official Trailer' and 'Black Clover Second Season' highlights ongoing viewer enthusiasm for anime content."
+          },
+          {
+            "opportunity": "Create content around decision-making and personal development, as seen in 'Making My College Decision…'",
+            "data_driven_evidence": "Personal decision content is trending, suggesting viewers find value in relatable, decision-focused narratives."
+          }
+        ],
+        "strategic_recommendations": [
+          {
+            "recommendation": "Focus on creating engaging thumbnails and titles that highlight the unique aspects of the video, such as 'Easter Eggs' or 'Unreal: Season 3'.",
+            "justification": "Distinctive and descriptive titles have shown to attract more views by providing clear value propositions to potential viewers."
+          },
+          {
+            "recommendation": "Leverage multi-platform promotion for videos, especially trailers and breakdowns, to maximize reach and engagement.",
+            "justification": "Cross-promotion can drive additional traffic from platforms like Twitter, Reddit, and Instagram, where discussions around shows and trailers are prevalent."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -489,7 +489,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 279363
+        "avg_views_per_video": 295273
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
