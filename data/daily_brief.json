@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-11T06:54:26.301397",
+  "timestamp": "2026-07-11T09:36:38.668241",
   "date": "2026-07-11",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 5,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 4,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 1734218,
-      "like_count": 73271,
-      "comment_count": 4057,
+      "view_count": 1761918,
+      "like_count": 73807,
+      "comment_count": 4075,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3UwSkQLcyKw/hqdefault.jpg",
       "duration": "PT46M11S",
       "duration_seconds": 2771,
-      "view_count": 1262781,
-      "like_count": 69413,
-      "comment_count": 1674,
+      "view_count": 1485931,
+      "like_count": 75978,
+      "comment_count": 1751,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/153uJDL4Y7s/hqdefault.jpg",
       "duration": "PT2M4S",
       "duration_seconds": 124,
-      "view_count": 275085,
-      "like_count": 8368,
-      "comment_count": 437,
+      "view_count": 375798,
+      "like_count": 9817,
+      "comment_count": 493,
       "category_id": "24",
       "tags": [
         "joblo",
@@ -95,40 +95,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1JdemHlOyN4/hqdefault.jpg",
       "duration": "PT12M38S",
       "duration_seconds": 758,
-      "view_count": 83647,
-      "like_count": 3189,
-      "comment_count": 335,
+      "view_count": 99688,
+      "like_count": 3440,
+      "comment_count": 356,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1JdemHlOyN4"
     },
     {
-      "video_id": "PYy17045AmE",
-      "title": "Animal Hospital…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-09T22:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
-      "duration": "PT1H20M2S",
-      "duration_seconds": 4802,
-      "view_count": 1166275,
-      "like_count": 42001,
-      "comment_count": 2697,
-      "category_id": "20",
+      "video_id": "PudJVwpRsZA",
+      "title": "Rebuilding The WORST Team in College Football…",
+      "description": "MMGM has returned to college, to clap cheeks and rebuild the NEWEST and WORST team in College Football, the North Dakota State Bison! With NIL in college football, this one’s gonna be tough boys…\n\n\nyou stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-07-10T23:41:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PudJVwpRsZA/hqdefault.jpg",
+      "duration": "PT1H24M54S",
+      "duration_seconds": 5094,
+      "view_count": 121310,
+      "like_count": 3998,
+      "comment_count": 351,
+      "category_id": "17",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=PYy17045AmE"
+      "url": "https://www.youtube.com/watch?v=PudJVwpRsZA"
     },
     {
       "video_id": "NdvqHc56lE0",
@@ -140,9 +131,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
       "duration": "PT2M51S",
       "duration_seconds": 171,
-      "view_count": 14860388,
-      "like_count": 391105,
-      "comment_count": 19239,
+      "view_count": 15071863,
+      "like_count": 392573,
+      "comment_count": 19284,
       "category_id": "1",
       "tags": [
         "Action",
@@ -159,32 +150,49 @@
       "url": "https://www.youtube.com/watch?v=NdvqHc56lE0"
     },
     {
-      "video_id": "LNlljMckjhI",
-      "title": "The best Minecraft item ever added",
-      "description": "Minecraft has just had something added to it that changes everything... Has it gone too far?",
-      "channel_title": "Grian",
-      "channel_id": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
-      "published_at": "2026-07-10T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LNlljMckjhI/hqdefault.jpg",
-      "duration": "PT22M37S",
-      "duration_seconds": 1357,
-      "view_count": 547922,
-      "like_count": 48796,
-      "comment_count": 3283,
+      "video_id": "NDWrfzb4XOw",
+      "title": "We Won",
+      "description": "EA is going to remove microtransactions from College Football 27 because of you all. Thank you. #CFBPlayDontPay\n-\nI'm an owner of Student Seats — the protected student-to-student ticket exchange for student tickets: studentseats.com\n-\nFollow Me on Social Media:\nhttps://instagram.com/JamesBordeaux_\nhttps://twitter.com/BordeauxYoutube\nhttps://www.tiktok.com/@bordeauxyt\n-\nSecond Channel:\nhttps://www.youtube.com/c/BordeauxPremium\n-\nContact Me Via Email:\nbordeaux@echotalentagency.com\n-\nCheck Out My Editor: gridironpictures.com\n-\nInspired By Channels Like NotTheExpert, RBT, MMG, and Deestroying\n-\nTags:\n#collegefootball27 #collegefootball #ncaafootball",
+      "channel_title": "Bordeaux",
+      "channel_id": "UCyIjXN5TEaU-LzMT0iQx_ww",
+      "published_at": "2026-07-11T01:19:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NDWrfzb4XOw/hqdefault.jpg",
+      "duration": "PT8M52S",
+      "duration_seconds": 532,
+      "view_count": 257634,
+      "like_count": 24878,
+      "comment_count": 3189,
       "category_id": "20",
       "tags": [
-        "Minecraft",
-        "Grian",
-        "building",
-        "grian",
-        "mincraft",
-        "tutorial",
-        "yt:quality=high",
-        "minecraft",
-        "ideas",
-        "creative"
+        "college football",
+        "cfb 27",
+        "college football 27",
+        "ncaa football",
+        "dynasty",
+        "rtg",
+        "road to glory",
+        "bordeaux",
+        "college football 27 dynasty",
+        "cfb 27 dynasty"
       ],
-      "url": "https://www.youtube.com/watch?v=LNlljMckjhI"
+      "url": "https://www.youtube.com/watch?v=NDWrfzb4XOw"
+    },
+    {
+      "video_id": "doPnqhjtGFs",
+      "title": "YFG Fatso - Ain't I (Official Music Video) [Shot By @Rxllo]",
+      "description": "YFG Fatso - Ain't I\n\nSanity Evaded Out Now🥀\nDownload/Stream: https://santa-anna.ffm.to/sanityevaded\n\nSubscribe for more content from YFG Fatso: https://YFGFatso.lnk.to/Youtube\n\nFollow YFG Fatso 🩸\nInstagram: https://YFGFatso.lnk.to/Instagram\nTikTok: https://YFGFatso.lnk.to/TikTok\nFacebook: https://YFGFatso.lnk.to/Facebook\nSnapchat: https://YFGFatso.lnk.to/Snapchat\n\nListen to YFG Fatso 🩸\nApple Music: https://YFGFatso.lnk.to/AppleMusic\nSpotify: https://YFGFatso.lnk.to/Spotify\nSoundcloud: https://YFGFatso.lnk.to/Soundcloud\nTIDAL: https://YFGFatso.lnk.to/TIDAL\nPandora: https://YFGFatso.lnk.to/Pandora\nAmazon Music: https://YFGFatso.lnk.to/AmazonMusic\n\nThe Official Youtube Channel of YFG Fatso. Subscribe for the latest music videos, performances, and more.\n\n#YFGFatso #AintI #SanityEvaded",
+      "channel_title": "YFG Fatso",
+      "channel_id": "UCvvSsThb7GCHzaMd2ulW72Q",
+      "published_at": "2026-07-10T20:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/doPnqhjtGFs/hqdefault.jpg",
+      "duration": "PT2M43S",
+      "duration_seconds": 163,
+      "view_count": 86666,
+      "like_count": 6812,
+      "comment_count": 296,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=doPnqhjtGFs"
     },
     {
       "video_id": "DqthHL4Yaqc",
@@ -196,9 +204,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DqthHL4Yaqc/hqdefault.jpg",
       "duration": "PT1M56S",
       "duration_seconds": 116,
-      "view_count": 275263,
-      "like_count": 4117,
-      "comment_count": 195,
+      "view_count": 291159,
+      "like_count": 4209,
+      "comment_count": 200,
       "category_id": "24",
       "tags": [
         "2026",
@@ -215,32 +223,32 @@
       "url": "https://www.youtube.com/watch?v=DqthHL4Yaqc"
     },
     {
-      "video_id": "NDWrfzb4XOw",
-      "title": "We Won",
-      "description": "EA is going to remove microtransactions from College Football 27 because of you all. Thank you. #CFBPlayDontPay\n-\nI'm an owner of Student Seats — the protected student-to-student ticket exchange for student tickets: studentseats.com\n-\nFollow Me on Social Media:\nhttps://instagram.com/JamesBordeaux_\nhttps://twitter.com/BordeauxYoutube\nhttps://www.tiktok.com/@bordeauxyt\n-\nSecond Channel:\nhttps://www.youtube.com/c/BordeauxPremium\n-\nContact Me Via Email:\nbordeaux@echotalentagency.com\n-\nCheck Out My Editor: gridironpictures.com\n-\nInspired By Channels Like NotTheExpert, RBT, MMG, and Deestroying\n-\nTags:\n#collegefootball27 #collegefootball #ncaafootball",
-      "channel_title": "Bordeaux",
-      "channel_id": "UCyIjXN5TEaU-LzMT0iQx_ww",
-      "published_at": "2026-07-11T01:19:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NDWrfzb4XOw/hqdefault.jpg",
-      "duration": "PT8M52S",
-      "duration_seconds": 532,
-      "view_count": 210306,
-      "like_count": 23168,
-      "comment_count": 3007,
+      "video_id": "PYy17045AmE",
+      "title": "Animal Hospital…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-07-09T22:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
+      "duration": "PT1H20M2S",
+      "duration_seconds": 4802,
+      "view_count": 1218174,
+      "like_count": 43028,
+      "comment_count": 2743,
       "category_id": "20",
       "tags": [
-        "college football",
-        "cfb 27",
-        "college football 27",
-        "ncaa football",
-        "dynasty",
-        "rtg",
-        "road to glory",
-        "bordeaux",
-        "college football 27 dynasty",
-        "cfb 27 dynasty"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=NDWrfzb4XOw"
+      "url": "https://www.youtube.com/watch?v=PYy17045AmE"
     }
   ],
   "videos_with_transcripts": [],
@@ -255,9 +263,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3UwSkQLcyKw/hqdefault.jpg",
       "duration": "PT46M11S",
       "duration_seconds": 2771,
-      "view_count": 1262781,
-      "like_count": 69413,
-      "comment_count": 1674,
+      "view_count": 1485931,
+      "like_count": 75978,
+      "comment_count": 1751,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -283,9 +291,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/153uJDL4Y7s/hqdefault.jpg",
       "duration": "PT2M4S",
       "duration_seconds": 124,
-      "view_count": 275085,
-      "like_count": 8368,
-      "comment_count": 437,
+      "view_count": 375798,
+      "like_count": 9817,
+      "comment_count": 493,
       "category_id": "24",
       "tags": [
         "joblo",
@@ -311,40 +319,31 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1JdemHlOyN4/hqdefault.jpg",
       "duration": "PT12M38S",
       "duration_seconds": 758,
-      "view_count": 83647,
-      "like_count": 3189,
-      "comment_count": 335,
+      "view_count": 99688,
+      "like_count": 3440,
+      "comment_count": 356,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1JdemHlOyN4"
     },
     {
-      "video_id": "PYy17045AmE",
-      "title": "Animal Hospital…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-09T22:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
-      "duration": "PT1H20M2S",
-      "duration_seconds": 4802,
-      "view_count": 1166275,
-      "like_count": 42001,
-      "comment_count": 2697,
-      "category_id": "20",
+      "video_id": "PudJVwpRsZA",
+      "title": "Rebuilding The WORST Team in College Football…",
+      "description": "MMGM has returned to college, to clap cheeks and rebuild the NEWEST and WORST team in College Football, the North Dakota State Bison! With NIL in college football, this one’s gonna be tough boys…\n\n\nyou stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
+      "channel_title": "MMG",
+      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
+      "published_at": "2026-07-10T23:41:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PudJVwpRsZA/hqdefault.jpg",
+      "duration": "PT1H24M54S",
+      "duration_seconds": 5094,
+      "view_count": 121310,
+      "like_count": 3998,
+      "comment_count": 351,
+      "category_id": "17",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "mmg"
       ],
-      "url": "https://www.youtube.com/watch?v=PYy17045AmE"
+      "url": "https://www.youtube.com/watch?v=PudJVwpRsZA"
     },
     {
       "video_id": "NdvqHc56lE0",
@@ -356,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
       "duration": "PT2M51S",
       "duration_seconds": 171,
-      "view_count": 14860388,
-      "like_count": 391105,
-      "comment_count": 19239,
+      "view_count": 15071863,
+      "like_count": 392573,
+      "comment_count": 19284,
       "category_id": "1",
       "tags": [
         "Action",
@@ -375,62 +374,6 @@
       "url": "https://www.youtube.com/watch?v=NdvqHc56lE0"
     },
     {
-      "video_id": "LNlljMckjhI",
-      "title": "The best Minecraft item ever added",
-      "description": "Minecraft has just had something added to it that changes everything... Has it gone too far?",
-      "channel_title": "Grian",
-      "channel_id": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
-      "published_at": "2026-07-10T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LNlljMckjhI/hqdefault.jpg",
-      "duration": "PT22M37S",
-      "duration_seconds": 1357,
-      "view_count": 547922,
-      "like_count": 48796,
-      "comment_count": 3283,
-      "category_id": "20",
-      "tags": [
-        "Minecraft",
-        "Grian",
-        "building",
-        "grian",
-        "mincraft",
-        "tutorial",
-        "yt:quality=high",
-        "minecraft",
-        "ideas",
-        "creative"
-      ],
-      "url": "https://www.youtube.com/watch?v=LNlljMckjhI"
-    },
-    {
-      "video_id": "DqthHL4Yaqc",
-      "title": "SPIDER-MAN 4: Brand New Day “Spider-Man Fights Hulk” Official Teaser Trailer (2026)",
-      "description": "Official Spider-Man 4: Brand New Day Movie International Teaser Trailer 2026 | More ➤ https://KinoCheck.com/App | Tom Holland Movie Trailer | Cinema: 31 Jul 2026 | Details ➤ https://KinoCheck.com/movie/fgb/spider-man-4-brand-new-day-2026?utm_source=youtube&utm_medium=description\nFour years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.\n\nSpider-Man 4: Brand New Day (2026) is the new superhero movie by Destin Daniel Cretton, starring Tom Holland, Zendaya and Jon Bernthal.\n\nNote | #SpiderManBrandNewDay #S",
-      "channel_title": "KinoCheck.com",
-      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
-      "published_at": "2026-07-10T09:26:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DqthHL4Yaqc/hqdefault.jpg",
-      "duration": "PT1M56S",
-      "duration_seconds": 116,
-      "view_count": 275263,
-      "like_count": 4117,
-      "comment_count": 195,
-      "category_id": "24",
-      "tags": [
-        "2026",
-        "Jon Bernthal",
-        "KinoCheck",
-        "Movie",
-        "Spider-Man 4: Brand New Day",
-        "Spider-Man 4: Brand New Day trailer",
-        "Superhero",
-        "Tom Holland",
-        "Zendaya",
-        "man"
-      ],
-      "url": "https://www.youtube.com/watch?v=DqthHL4Yaqc"
-    },
-    {
       "video_id": "NDWrfzb4XOw",
       "title": "We Won",
       "description": "EA is going to remove microtransactions from College Football 27 because of you all. Thank you. #CFBPlayDontPay\n-\nI'm an owner of Student Seats — the protected student-to-student ticket exchange for student tickets: studentseats.com\n-\nFollow Me on Social Media:\nhttps://instagram.com/JamesBordeaux_\nhttps://twitter.com/BordeauxYoutube\nhttps://www.tiktok.com/@bordeauxyt\n-\nSecond Channel:\nhttps://www.youtube.com/c/BordeauxPremium\n-\nContact Me Via Email:\nbordeaux@echotalentagency.com\n-\nCheck Out My Editor: gridironpictures.com\n-\nInspired By Channels Like NotTheExpert, RBT, MMG, and Deestroying\n-\nTags:\n#collegefootball27 #collegefootball #ncaafootball",
@@ -440,9 +383,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NDWrfzb4XOw/hqdefault.jpg",
       "duration": "PT8M52S",
       "duration_seconds": 532,
-      "view_count": 210306,
-      "like_count": 23168,
-      "comment_count": 3007,
+      "view_count": 257634,
+      "like_count": 24878,
+      "comment_count": 3189,
       "category_id": "20",
       "tags": [
         "college football",
@@ -459,6 +402,62 @@
       "url": "https://www.youtube.com/watch?v=NDWrfzb4XOw"
     },
     {
+      "video_id": "DqthHL4Yaqc",
+      "title": "SPIDER-MAN 4: Brand New Day “Spider-Man Fights Hulk” Official Teaser Trailer (2026)",
+      "description": "Official Spider-Man 4: Brand New Day Movie International Teaser Trailer 2026 | More ➤ https://KinoCheck.com/App | Tom Holland Movie Trailer | Cinema: 31 Jul 2026 | Details ➤ https://KinoCheck.com/movie/fgb/spider-man-4-brand-new-day-2026?utm_source=youtube&utm_medium=description\nFour years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.\n\nSpider-Man 4: Brand New Day (2026) is the new superhero movie by Destin Daniel Cretton, starring Tom Holland, Zendaya and Jon Bernthal.\n\nNote | #SpiderManBrandNewDay #S",
+      "channel_title": "KinoCheck.com",
+      "channel_id": "UCLRlryMfL8ffxzrtqv0_k_w",
+      "published_at": "2026-07-10T09:26:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DqthHL4Yaqc/hqdefault.jpg",
+      "duration": "PT1M56S",
+      "duration_seconds": 116,
+      "view_count": 291159,
+      "like_count": 4209,
+      "comment_count": 200,
+      "category_id": "24",
+      "tags": [
+        "2026",
+        "Jon Bernthal",
+        "KinoCheck",
+        "Movie",
+        "Spider-Man 4: Brand New Day",
+        "Spider-Man 4: Brand New Day trailer",
+        "Superhero",
+        "Tom Holland",
+        "Zendaya",
+        "man"
+      ],
+      "url": "https://www.youtube.com/watch?v=DqthHL4Yaqc"
+    },
+    {
+      "video_id": "PYy17045AmE",
+      "title": "Animal Hospital…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-07-09T22:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
+      "duration": "PT1H20M2S",
+      "duration_seconds": 4802,
+      "view_count": 1218174,
+      "like_count": 43028,
+      "comment_count": 2743,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=PYy17045AmE"
+    },
+    {
       "video_id": "Xmy-Z3dHMd8",
       "title": "GODZILLA MINUS ZERO | Official Teaser",
       "description": "Returning to zero is not an option.\n\nGODZILLA MINUS ZERO\nVFX, Written, and Directed by Takashi Yamazaki\n\nIn theatres November 6\nFollow @godzilla_toho and @GKIDSfilms for more updates!\ngodzillaminuszero.com\n\nGODZILLA MINUS ZERO picks up in 1949, two years after the tumultuous events of Godzilla Minus One, and continues the story of the Shikishima family as they face an all-new calamity. \n\nAs a project Filmed For IMAX, GODZILLA MINUS ZERO was shot with high-definition digital cameras certified by IMAX, and optimized in sound and imagery unique to IMAX screens. Fans can look forward to seeing Godzilla presented to all new terrifying heights, making GODZILLA MINUS ZERO a true cinematic event not to be missed.",
@@ -468,88 +467,104 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
       "duration": "PT31S",
       "duration_seconds": 31,
-      "view_count": 1734218,
-      "like_count": 73271,
-      "comment_count": 4057,
+      "view_count": 1761918,
+      "like_count": 73807,
+      "comment_count": 4075,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8"
+    },
+    {
+      "video_id": "doPnqhjtGFs",
+      "title": "YFG Fatso - Ain't I (Official Music Video) [Shot By @Rxllo]",
+      "description": "YFG Fatso - Ain't I\n\nSanity Evaded Out Now🥀\nDownload/Stream: https://santa-anna.ffm.to/sanityevaded\n\nSubscribe for more content from YFG Fatso: https://YFGFatso.lnk.to/Youtube\n\nFollow YFG Fatso 🩸\nInstagram: https://YFGFatso.lnk.to/Instagram\nTikTok: https://YFGFatso.lnk.to/TikTok\nFacebook: https://YFGFatso.lnk.to/Facebook\nSnapchat: https://YFGFatso.lnk.to/Snapchat\n\nListen to YFG Fatso 🩸\nApple Music: https://YFGFatso.lnk.to/AppleMusic\nSpotify: https://YFGFatso.lnk.to/Spotify\nSoundcloud: https://YFGFatso.lnk.to/Soundcloud\nTIDAL: https://YFGFatso.lnk.to/TIDAL\nPandora: https://YFGFatso.lnk.to/Pandora\nAmazon Music: https://YFGFatso.lnk.to/AmazonMusic\n\nThe Official Youtube Channel of YFG Fatso. Subscribe for the latest music videos, performances, and more.\n\n#YFGFatso #AintI #SanityEvaded",
+      "channel_title": "YFG Fatso",
+      "channel_id": "UCvvSsThb7GCHzaMd2ulW72Q",
+      "published_at": "2026-07-10T20:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/doPnqhjtGFs/hqdefault.jpg",
+      "duration": "PT2M43S",
+      "duration_seconds": 163,
+      "view_count": 86666,
+      "like_count": 6812,
+      "comment_count": 296,
+      "category_id": "22",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=doPnqhjtGFs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "contentTrends": {
-        "superheroTheme": {
-          "description": "There is a noticeable interest in superhero-themed content, particularly involving Spider-Man and crossover events with other iconic characters like Hulk.",
-          "evidence": [
-            "SPIDER-MAN: BRAND NEW DAY 'Hulk Smash Spidey' Trailer (NEW 2026)",
-            "SPIDER-MAN BRAND NEW DAY TRAILER: Spider-Man’s Hulkbuster!",
-            "SPIDER-MAN 4: Brand New Day 'Spider-Man Fights Hulk' Official Teaser Trailer (2026)"
-          ],
-          "actionableInsights": "Consider developing content or collaborations that explore superhero crossovers, given their strong appeal and presence in trending videos."
-        },
-        "franchiseSequels": {
-          "description": "Sequels and teasers for existing franchises are popular, as seen with 'GODZILLA MINUS ZERO' and 'Dune: Part Three'.",
-          "evidence": [
-            "GODZILLA MINUS ZERO | Official Teaser",
-            "Dune: Part Three | Official Trailer"
-          ],
-          "actionableInsights": "Leverage existing franchises to create anticipation through teasers and trailers. Collaborate with official channels for early release or exclusive content."
-        },
-        "gamingContent": {
-          "description": "Gaming content, particularly involving popular games like Minecraft, remains a key interest area.",
-          "evidence": [
-            "The best Minecraft item ever added"
-          ],
-          "actionableInsights": "Develop content around popular games, focusing on updates, tips, and new features to engage the gaming community."
-        },
-        "animalContent": {
-          "description": "Content related to animals, particularly in unique settings like 'Animal Hospital', attracts viewers.",
-          "evidence": [
-            "Animal Hospital…"
-          ],
-          "actionableInsights": "Explore unique or heartwarming animal stories or integrate animal content into other genres to expand reach."
+      "overview": {
+        "total_videos": 10,
+        "total_views": 20770141,
+        "average_views_per_video": 2077014.1,
+        "dominant_categories_inferred": [
+          "Movies/Trailers",
+          "Gaming",
+          "Music",
+          "Sports",
+          "Animals"
+        ]
+      },
+      "trending_patterns": {
+        "genres": {
+          "movies_and_trailers": {
+            "prevalence": 40,
+            "titles": [
+              "GODZILLA MINUS ZERO | Official Teaser",
+              "SPIDER-MAN: BRAND NEW DAY 'Hulk Smash Spidey' Trailer (NEW 2026)",
+              "Dune: Part Three | Official Trailer",
+              "SPIDER-MAN 4: Brand New Day 'Spider-Man Fights Hulk' Official Teaser Trailer (2026)"
+            ],
+            "insights": "High interest in blockbuster movie teasers and trailers, particularly involving popular franchises like Spider-Man and Godzilla."
+          },
+          "gaming": {
+            "prevalence": 20,
+            "titles": [
+              "These Meccha Chameleon spots are out of control…",
+              "Rebuilding The WORST Team in College Football…"
+            ],
+            "insights": "Significant engagement with gaming content, especially related to unique gameplay scenarios and challenges."
+          },
+          "music": {
+            "prevalence": 10,
+            "titles": [
+              "YFG Fatso - Ain't I (Official Music Video) [Shot By @Rxllo]"
+            ],
+            "insights": "Music videos continue to capture audience attention, especially those featuring unique or rising artists."
+          },
+          "animals": {
+            "prevalence": 10,
+            "titles": [
+              "Animal Hospital…"
+            ],
+            "insights": "Animal-related content maintains a steady interest, appealing to a wide demographic."
+          }
         }
       },
-      "creatorPatterns": {
-        "diverseChannelRepresentation": {
-          "description": "The trending videos are spread across various channels, with no single channel dominating.",
-          "evidence": [
-            "GODZILLA OFFICIAL by TOHO",
-            "SMii7Yplus",
-            "JoBlo Movie Network",
-            "Emergency Awesome",
-            "CaseOh"
-          ],
-          "actionableInsights": "Encourage content creators to collaborate across genres to tap into different audiences and increase their content's visibility."
-        },
-        "channelSpecialization": {
-          "description": "Each channel appears to specialize in a specific genre or theme, such as movie trailers, gaming, or entertainment analysis.",
-          "actionableInsights": "Channels should continue to build on their niche expertise while exploring cross-genre collaborations to diversify their audience base."
-        }
+      "creator_patterns": {
+        "diversity": "The trending videos are produced by a mix of both highly specialized channels (e.g., GODZILLA OFFICIAL by TOHO) and more general entertainment channels (e.g., JoBlo Movie Network, Emergency Awesome).",
+        "engagement": "Channels that focus on specific niches (e.g., movie trailers, gaming) are likely to experience higher engagement rates, as indicated by their presence in the trending list."
       },
-      "marketOpportunities": {
-        "cross-mediaCollaborations": {
-          "description": "Given the success of crossover content, there is an opportunity for collaborations between different media properties.",
-          "actionableInsights": "Media companies and content creators should explore partnerships that blend different franchises or genres to create unique and engaging content."
+      "market_opportunities": {
+        "content_creation": {
+          "opportunity1": "Develop more cross-franchise content, particularly involving superheroes and other popular movie characters, to capture fan crossover interest.",
+          "opportunity2": "Enhance content diversity in gaming by exploring new game mechanics or challenges to attract engagement from varied gaming communities.",
+          "opportunity3": "Leverage the consistent interest in music and animals by creating content that combines these genres, such as music videos featuring animals or animal-themed music."
         },
-        "exclusiveContent": {
-          "description": "Exclusive teasers and behind-the-scenes content can drive significant interest and engagement.",
-          "actionableInsights": "Channels should focus on securing exclusive content or early releases to attract viewers and gain a competitive edge."
-        },
-        "communityEngagement": {
-          "description": "Involvement of community-driven content, especially in gaming, can increase engagement.",
-          "actionableInsights": "Foster community participation through contests, challenges, or user-generated content to enhance viewer interaction and loyalty."
+        "audience_engagement": {
+          "strategy1": "Utilize teasers and trailers as a means to generate anticipation and engagement, especially for upcoming movie releases.",
+          "strategy2": "Engage with niche audience groups by producing content that caters to specific fan interests, such as superhero crossovers or unique sports challenges."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2268431
+        "avg_views_per_video": 2077014
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
