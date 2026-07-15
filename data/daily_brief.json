@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-15T18:31:25.380262",
+  "timestamp": "2026-07-15T21:25:08.510347",
   "date": "2026-07-15",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V_g_Ut0jO-0/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 977360,
-      "like_count": 23450,
-      "comment_count": 1921,
+      "view_count": 1938677,
+      "like_count": 31224,
+      "comment_count": 2528,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AH5jwKkCS7M/hqdefault.jpg",
       "duration": "PT4H29M48S",
       "duration_seconds": 16188,
-      "view_count": 1916889,
-      "like_count": 142649,
-      "comment_count": 2998,
+      "view_count": 2065801,
+      "like_count": 148640,
+      "comment_count": 3277,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -74,9 +74,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b6eZjOTcC-I/hqdefault.jpg",
       "duration": "PT10H15M39S",
       "duration_seconds": 36939,
-      "view_count": 760736,
-      "like_count": 9717,
-      "comment_count": 108,
+      "view_count": 779061,
+      "like_count": 9848,
+      "comment_count": 129,
       "category_id": "20",
       "tags": [
         "funny",
@@ -84,6 +84,54 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=b6eZjOTcC-I"
+    },
+    {
+      "video_id": "aG8U7-XK7PI",
+      "title": "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
+      "description": "Don't miss the 'Camera Test' Teaser Trailer for The Batman Part 2, the crime action superhero drama distributed by Warner Bros. Get a brief look at the caped crusader in frame and ready for the next installment in his story as The Batman. The Batman Part 2 is in theaters on February 18, 2028.\n\nThe Batman Part 2 stars Robert Pattinson, Scarlett Johansson, Sebastian Stan, Colin Farrell, Andy Serkis, Jeffrey Wright, Barry Keoghan, Brian Tyree Henry, and more. The film is directed by Matt Reeves and written by Bill Finger, Bob Kane, and Matt Reeves.\n\nThe Batman Part 2 is in theaters on February 18, 2028.\n\n#TheBatmanPart2 #Movies #IGN",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-07-15T17:37:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aG8U7-XK7PI/hqdefault.jpg",
+      "duration": "PT37S",
+      "duration_seconds": 37,
+      "view_count": 126741,
+      "like_count": 18429,
+      "comment_count": 1447,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Batman",
+        "DC Entertainment",
+        "Superhero",
+        "The Batman - Part II",
+        "Theater",
+        "Warner Bros. Pictures",
+        "batman 2",
+        "the batman 2",
+        "the batman part 2 trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=aG8U7-XK7PI"
+    },
+    {
+      "video_id": "TeWkcFrDwgo",
+      "title": "ANIMAL HOSPITAL got DISTURBING",
+      "description": "Today I play teh new animal hospital update! Play it here: https://www.roblox.com/games/78515283254292/Animal-Hospit",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-15T09:12:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TeWkcFrDwgo/hqdefault.jpg",
+      "duration": "PT23M24S",
+      "duration_seconds": 1404,
+      "view_count": 493933,
+      "like_count": 29242,
+      "comment_count": 3847,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=TeWkcFrDwgo"
     },
     {
       "video_id": "paGe9cfIdTY",
@@ -95,9 +143,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/paGe9cfIdTY/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 72555,
-      "like_count": 3996,
-      "comment_count": 584,
+      "view_count": 118258,
+      "like_count": 4661,
+      "comment_count": 661,
       "category_id": "24",
       "tags": [
         "2028",
@@ -114,52 +162,32 @@
       "url": "https://www.youtube.com/watch?v=paGe9cfIdTY"
     },
     {
-      "video_id": "Uc3cxBPwaLU",
-      "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
-      "description": "Naval warfare has arrived, bringing all-out combat across land, air, and sea. \n\nDeploy to Tsuru Reef, our biggest battlefield yet, where sprawling islands, dynamic waves, boats, jets, helicopters, and ground vehicles collide in massive battles. Command the coastline with the RCB-90 Patrol Boat or race through the surf in the 7.7m NSW RHIB. \n\nExpand your arsenal with four new weapons, including the long-range Interdictor sniper rifle, then climb the ranks in a brand-new Ranked Battle Royale season packed with fresh rewards. And later in the season, Wake Island returns. \n\nPrepare to deploy when Season 4 launches on July 21.\n\n#Battlefield6",
-      "channel_title": "Battlefield",
-      "channel_id": "UCvNBXWGykQrWb7kPAn5eLUQ",
-      "published_at": "2026-07-14T15:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Uc3cxBPwaLU/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 890044,
-      "like_count": 60883,
-      "comment_count": 6130,
+      "video_id": "SMqoSh9Hwb4",
+      "title": "I Remade The Lovity Mod To Scare My Friends",
+      "description": "I Remade The Lovity Mod To Scare My Friends\n\n👍 Like and Subscribe to never miss a Video!\n\n📱 Check Out My Other Stuff For More!\nDiscord:https://discord.gg/R5eGAx4n92\n\nToday I Test out scary minecraft myths about the real verity mod sequel These are Minecraft's scariest seeds that scare me and my friends.😱\n\n\n #Minecraft #MinecraftSMP #scaryvideos",
+      "channel_title": "Pepper",
+      "channel_id": "UCB2ymZNDRo4sm-SXVPykMbA",
+      "published_at": "2026-07-15T10:35:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SMqoSh9Hwb4/hqdefault.jpg",
+      "duration": "PT25M36S",
+      "duration_seconds": 1536,
+      "view_count": 408786,
+      "like_count": 8206,
+      "comment_count": 803,
       "category_id": "20",
       "tags": [
-        "Battlefield 6 Season 4",
-        "Battlefield 6 Naval",
-        "Battlefield Naval",
-        "Battlefield Naval trailer",
-        "bf6 naval",
-        "bf6 naval trailer",
-        "bf naval trailer",
-        "Battlefield Trailer",
-        "Battlefield 6 trailer",
-        "bf6"
+        "minecraft",
+        "pepper",
+        "pepper minecraft",
+        "minecraft smp",
+        "I Remade The Lovity Mod To Scare My Friends",
+        "verity minecraft",
+        "VERITY minecraft",
+        "scary minecraft",
+        "modded minecraft",
+        "scary minecraft myths"
       ],
-      "url": "https://www.youtube.com/watch?v=Uc3cxBPwaLU"
-    },
-    {
-      "video_id": "TeWkcFrDwgo",
-      "title": "ANIMAL HOSPITAL got DISTURBING",
-      "description": "Today I play teh new animal hospital update! Play it here: https://www.roblox.com/games/78515283254292/Animal-Hospit",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-15T09:12:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TeWkcFrDwgo/hqdefault.jpg",
-      "duration": "PT23M24S",
-      "duration_seconds": 1404,
-      "view_count": 362817,
-      "like_count": 24995,
-      "comment_count": 3625,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=TeWkcFrDwgo"
+      "url": "https://www.youtube.com/watch?v=SMqoSh9Hwb4"
     },
     {
       "video_id": "2fNrPP1Lne0",
@@ -171,8 +199,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2fNrPP1Lne0/hqdefault.jpg",
       "duration": "PT7M3S",
       "duration_seconds": 423,
-      "view_count": 148142,
-      "like_count": 838,
+      "view_count": 205331,
+      "like_count": 978,
       "comment_count": 8,
       "category_id": "22",
       "tags": [],
@@ -188,9 +216,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_nneiDtbdbk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 138180,
-      "like_count": 7641,
-      "comment_count": 496,
+      "view_count": 211728,
+      "like_count": 9149,
+      "comment_count": 568,
       "category_id": "24",
       "tags": [
         "Coming of Age",
@@ -207,32 +235,32 @@
       "url": "https://www.youtube.com/watch?v=_nneiDtbdbk"
     },
     {
-      "video_id": "hmcUpCZOJ9U",
-      "title": "Working Nights At An Ice Cream Shop…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-14T22:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hmcUpCZOJ9U/hqdefault.jpg",
-      "duration": "PT1H14M15S",
-      "duration_seconds": 4455,
-      "view_count": 400095,
-      "like_count": 16598,
-      "comment_count": 1234,
+      "video_id": "_aV05TrKqQ4",
+      "title": "ANIMAL HOSPITAL! (Roblox)",
+      "description": "🌼If you're reading this have an amazing day! :)🌼\n\n💕Make sure to subscribe and press the notification bell for more!💕\n\n🐰Socials: 🐰\n📷 Instagram: https://www.instagram.com/itscutiethebunny/ 📷\n💙 Twitter: https://twitter.com/cutiethebunny?s=21💙 \n🎵 TikTok: https://www.tiktok.com/@itscutiethebunny?lang=en🎵\n\n💜Roblox Group: https://www.roblox.com/groups/11710180/Cutie-The-Bunny#!/about💜\n\nAlso Subscribe to: \n💜CutieToo: https://www.youtube.com/@CutieToo\n💕 Sanna: https://www.youtube.com/channel/UCzQMI4gtB50HUYAZIa2z-Hg💕\n🖤 Moody: https://www.youtube.com/channel/UCw8kOfFI6F8CspoeHhDdOaA🖤\n\n💗 Thank you all so much for the amazing support! 💗 \n\n#Gaming #Roblox #Animalhospital",
+      "channel_title": "Cutie The Bunny",
+      "channel_id": "UCAy3SbSn9988JS8KCQreF9A",
+      "published_at": "2026-07-03T13:15:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_aV05TrKqQ4/hqdefault.jpg",
+      "duration": "PT1H9M2S",
+      "duration_seconds": 4142,
+      "view_count": 165757,
+      "like_count": 658,
+      "comment_count": 116,
       "category_id": "20",
       "tags": [
+        "roblox",
+        "minecraft",
         "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "adopt me",
+        "robloxgaming",
+        "minecraftgaming",
+        "roleplay",
+        "skits",
+        "new",
+        "rare"
       ],
-      "url": "https://www.youtube.com/watch?v=hmcUpCZOJ9U"
+      "url": "https://www.youtube.com/watch?v=_aV05TrKqQ4"
     }
   ],
   "videos_with_transcripts": [],
@@ -247,9 +275,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V_g_Ut0jO-0/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 977360,
-      "like_count": 23450,
-      "comment_count": 1921,
+      "view_count": 1938677,
+      "like_count": 31224,
+      "comment_count": 2528,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -275,9 +303,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AH5jwKkCS7M/hqdefault.jpg",
       "duration": "PT4H29M48S",
       "duration_seconds": 16188,
-      "view_count": 1916889,
-      "like_count": 142649,
-      "comment_count": 2998,
+      "view_count": 2065801,
+      "like_count": 148640,
+      "comment_count": 3277,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -299,9 +327,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/b6eZjOTcC-I/hqdefault.jpg",
       "duration": "PT10H15M39S",
       "duration_seconds": 36939,
-      "view_count": 760736,
-      "like_count": 9717,
-      "comment_count": 108,
+      "view_count": 779061,
+      "like_count": 9848,
+      "comment_count": 129,
       "category_id": "20",
       "tags": [
         "funny",
@@ -309,34 +337,6 @@
         "tarkov"
       ],
       "url": "https://www.youtube.com/watch?v=b6eZjOTcC-I"
-    },
-    {
-      "video_id": "Uc3cxBPwaLU",
-      "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
-      "description": "Naval warfare has arrived, bringing all-out combat across land, air, and sea. \n\nDeploy to Tsuru Reef, our biggest battlefield yet, where sprawling islands, dynamic waves, boats, jets, helicopters, and ground vehicles collide in massive battles. Command the coastline with the RCB-90 Patrol Boat or race through the surf in the 7.7m NSW RHIB. \n\nExpand your arsenal with four new weapons, including the long-range Interdictor sniper rifle, then climb the ranks in a brand-new Ranked Battle Royale season packed with fresh rewards. And later in the season, Wake Island returns. \n\nPrepare to deploy when Season 4 launches on July 21.\n\n#Battlefield6",
-      "channel_title": "Battlefield",
-      "channel_id": "UCvNBXWGykQrWb7kPAn5eLUQ",
-      "published_at": "2026-07-14T15:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Uc3cxBPwaLU/hqdefault.jpg",
-      "duration": "PT2M18S",
-      "duration_seconds": 138,
-      "view_count": 890044,
-      "like_count": 60883,
-      "comment_count": 6130,
-      "category_id": "20",
-      "tags": [
-        "Battlefield 6 Season 4",
-        "Battlefield 6 Naval",
-        "Battlefield Naval",
-        "Battlefield Naval trailer",
-        "bf6 naval",
-        "bf6 naval trailer",
-        "bf naval trailer",
-        "Battlefield Trailer",
-        "Battlefield 6 trailer",
-        "bf6"
-      ],
-      "url": "https://www.youtube.com/watch?v=Uc3cxBPwaLU"
     },
     {
       "video_id": "TeWkcFrDwgo",
@@ -348,15 +348,43 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TeWkcFrDwgo/hqdefault.jpg",
       "duration": "PT23M24S",
       "duration_seconds": 1404,
-      "view_count": 362817,
-      "like_count": 24995,
-      "comment_count": 3625,
+      "view_count": 493933,
+      "like_count": 29242,
+      "comment_count": 3847,
       "category_id": "20",
       "tags": [
         "Family",
         "friendly"
       ],
       "url": "https://www.youtube.com/watch?v=TeWkcFrDwgo"
+    },
+    {
+      "video_id": "SMqoSh9Hwb4",
+      "title": "I Remade The Lovity Mod To Scare My Friends",
+      "description": "I Remade The Lovity Mod To Scare My Friends\n\n👍 Like and Subscribe to never miss a Video!\n\n📱 Check Out My Other Stuff For More!\nDiscord:https://discord.gg/R5eGAx4n92\n\nToday I Test out scary minecraft myths about the real verity mod sequel These are Minecraft's scariest seeds that scare me and my friends.😱\n\n\n #Minecraft #MinecraftSMP #scaryvideos",
+      "channel_title": "Pepper",
+      "channel_id": "UCB2ymZNDRo4sm-SXVPykMbA",
+      "published_at": "2026-07-15T10:35:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SMqoSh9Hwb4/hqdefault.jpg",
+      "duration": "PT25M36S",
+      "duration_seconds": 1536,
+      "view_count": 408786,
+      "like_count": 8206,
+      "comment_count": 803,
+      "category_id": "20",
+      "tags": [
+        "minecraft",
+        "pepper",
+        "pepper minecraft",
+        "minecraft smp",
+        "I Remade The Lovity Mod To Scare My Friends",
+        "verity minecraft",
+        "VERITY minecraft",
+        "scary minecraft",
+        "modded minecraft",
+        "scary minecraft myths"
+      ],
+      "url": "https://www.youtube.com/watch?v=SMqoSh9Hwb4"
     },
     {
       "video_id": "2fNrPP1Lne0",
@@ -368,8 +396,8 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2fNrPP1Lne0/hqdefault.jpg",
       "duration": "PT7M3S",
       "duration_seconds": 423,
-      "view_count": 148142,
-      "like_count": 838,
+      "view_count": 205331,
+      "like_count": 978,
       "comment_count": 8,
       "category_id": "22",
       "tags": [],
@@ -385,9 +413,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_nneiDtbdbk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 138180,
-      "like_count": 7641,
-      "comment_count": 496,
+      "view_count": 211728,
+      "like_count": 9149,
+      "comment_count": 568,
       "category_id": "24",
       "tags": [
         "Coming of Age",
@@ -404,32 +432,60 @@
       "url": "https://www.youtube.com/watch?v=_nneiDtbdbk"
     },
     {
-      "video_id": "hmcUpCZOJ9U",
-      "title": "Working Nights At An Ice Cream Shop…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-14T22:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hmcUpCZOJ9U/hqdefault.jpg",
-      "duration": "PT1H14M15S",
-      "duration_seconds": 4455,
-      "view_count": 400095,
-      "like_count": 16598,
-      "comment_count": 1234,
+      "video_id": "_aV05TrKqQ4",
+      "title": "ANIMAL HOSPITAL! (Roblox)",
+      "description": "🌼If you're reading this have an amazing day! :)🌼\n\n💕Make sure to subscribe and press the notification bell for more!💕\n\n🐰Socials: 🐰\n📷 Instagram: https://www.instagram.com/itscutiethebunny/ 📷\n💙 Twitter: https://twitter.com/cutiethebunny?s=21💙 \n🎵 TikTok: https://www.tiktok.com/@itscutiethebunny?lang=en🎵\n\n💜Roblox Group: https://www.roblox.com/groups/11710180/Cutie-The-Bunny#!/about💜\n\nAlso Subscribe to: \n💜CutieToo: https://www.youtube.com/@CutieToo\n💕 Sanna: https://www.youtube.com/channel/UCzQMI4gtB50HUYAZIa2z-Hg💕\n🖤 Moody: https://www.youtube.com/channel/UCw8kOfFI6F8CspoeHhDdOaA🖤\n\n💗 Thank you all so much for the amazing support! 💗 \n\n#Gaming #Roblox #Animalhospital",
+      "channel_title": "Cutie The Bunny",
+      "channel_id": "UCAy3SbSn9988JS8KCQreF9A",
+      "published_at": "2026-07-03T13:15:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_aV05TrKqQ4/hqdefault.jpg",
+      "duration": "PT1H9M2S",
+      "duration_seconds": 4142,
+      "view_count": 165757,
+      "like_count": 658,
+      "comment_count": 116,
       "category_id": "20",
       "tags": [
+        "roblox",
+        "minecraft",
         "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "adopt me",
+        "robloxgaming",
+        "minecraftgaming",
+        "roleplay",
+        "skits",
+        "new",
+        "rare"
       ],
-      "url": "https://www.youtube.com/watch?v=hmcUpCZOJ9U"
+      "url": "https://www.youtube.com/watch?v=_aV05TrKqQ4"
+    },
+    {
+      "video_id": "aG8U7-XK7PI",
+      "title": "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
+      "description": "Don't miss the 'Camera Test' Teaser Trailer for The Batman Part 2, the crime action superhero drama distributed by Warner Bros. Get a brief look at the caped crusader in frame and ready for the next installment in his story as The Batman. The Batman Part 2 is in theaters on February 18, 2028.\n\nThe Batman Part 2 stars Robert Pattinson, Scarlett Johansson, Sebastian Stan, Colin Farrell, Andy Serkis, Jeffrey Wright, Barry Keoghan, Brian Tyree Henry, and more. The film is directed by Matt Reeves and written by Bill Finger, Bob Kane, and Matt Reeves.\n\nThe Batman Part 2 is in theaters on February 18, 2028.\n\n#TheBatmanPart2 #Movies #IGN",
+      "channel_title": "IGN",
+      "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "published_at": "2026-07-15T17:37:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aG8U7-XK7PI/hqdefault.jpg",
+      "duration": "PT37S",
+      "duration_seconds": 37,
+      "view_count": 126741,
+      "like_count": 18429,
+      "comment_count": 1447,
+      "category_id": "24",
+      "tags": [
+        "Action",
+        "Batman",
+        "DC Entertainment",
+        "Superhero",
+        "The Batman - Part II",
+        "Theater",
+        "Warner Bros. Pictures",
+        "batman 2",
+        "the batman 2",
+        "the batman part 2 trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=aG8U7-XK7PI"
     },
     {
       "video_id": "paGe9cfIdTY",
@@ -441,9 +497,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/paGe9cfIdTY/hqdefault.jpg",
       "duration": "PT55S",
       "duration_seconds": 55,
-      "view_count": 72555,
-      "like_count": 3996,
-      "comment_count": 584,
+      "view_count": 118258,
+      "like_count": 4661,
+      "comment_count": 661,
       "category_id": "24",
       "tags": [
         "2028",
@@ -464,90 +520,55 @@
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 9,
-        "total_views": 5666818,
-        "average_views_per_video": 629647.56
+        "total_videos": 10,
+        "total_views": 6514073
       },
       "content_trends": {
-        "dominant_themes": [
+        "trending_genres": [
+          "Trailers",
           "Gaming",
-          "Movies/Trailers",
-          "Live Streams",
+          "Entertainment",
           "Music"
         ],
-        "notable_formats": [
-          "Official Trailers",
-          "Gameplay Trailers",
-          "Live Streaming"
-        ],
-        "emerging_patterns": [
-          {
-            "theme": "Gaming",
-            "videos": [
-              "Five Nights at Freddy's 2: Markiplier's Redemption",
-              "Battlefield 6 Season 4 Naval Official Gameplay Trailer"
-            ],
-            "insight": "Gaming content, especially related to popular franchises, continues to generate significant interest. Opportunities exist for collaboration with gaming influencers or creating derivative content that leverages popular game releases."
-          },
-          {
-            "theme": "Movies/Trailers",
-            "videos": [
-              "I Play Rocky | Official Trailer",
-              "THE BATMAN: Part 2 Official Teaser Trailer (2028)",
-              "My Life With the Walter Boys: Season 3 | Official Trailer | Netflix"
-            ],
-            "insight": "The anticipation for upcoming movies and series creates a viable opportunity for preview content. Collaborations with studios for exclusive content or reviews can capitalize on this trend."
-          },
-          {
-            "theme": "Live Streaming",
-            "videos": [
-              "🔴LIVE | PALWORLD | IMPRISONING SMALL ANIMALS ALL NIGHT LONG | #BUNGULATE"
-            ],
-            "insight": "Live streaming remains a powerful engagement tool. Exploring interactive live formats, such as Q&A sessions or live commentary, can enhance viewer interaction and retention."
-          }
-        ]
+        "trailer_content": {
+          "insights": "Trailers are a significant draw, as seen with 'I Play Rocky,' 'The Batman Part 2,' and 'My Life With the Walter Boys.' These videos likely generate engagement due to anticipation and established fan bases."
+        },
+        "gaming_trends": {
+          "insights": "Gaming content remains popular, with videos like 'Five Nights at Freddy's 2' and content from Flamingo focusing on Roblox. This suggests sustained interest in both horror and casual gaming."
+        },
+        "live_streaming": {
+          "insights": "Live streaming, as observed in 'PALWORLD | IMPRISONING SMALL ANIMALS ALL NIGHT LONG,' indicates engagement through real-time content and community interaction."
+        },
+        "music_trends": {
+          "insights": "Music content, such as 'Juan Gabriel - Así Fue (Letra),' continues to attract consistent viewership, emphasizing the cross-generational appeal of music videos."
+        }
       },
       "creator_patterns": {
-        "top_channels": [
-          {
-            "channel": "Amazon MGM Studios",
-            "videos": [
-              "I Play Rocky | Official Trailer"
-            ],
-            "insight": "Major studios maintain strong influence in trending sections, often due to high production values and existing fan bases. Leveraging partnerships or ad placements with these entities could increase visibility."
-          },
-          {
-            "channel": "Markiplier",
-            "videos": [
-              "Five Nights at Freddy's 2: Markiplier's Redemption"
-            ],
-            "insight": "Influencer-driven content, particularly from established personalities like Markiplier, consistently engages audiences. Developing content strategies that involve influencers can provide substantial reach and engagement."
-          }
-        ]
+        "diverse_content_creators": {
+          "insights": "The top channels include Amazon MGM Studios, Markiplier, and IGN, reflecting a mix of corporate and individual creators. This diversity showcases multiple content creation strategies, from high-budget productions to individual gaming commentary."
+        },
+        "channel_success_factors": {
+          "insights": "Channels that leverage established intellectual properties (e.g., The Batman, Five Nights at Freddy's) or have a strong personal brand (e.g., Markiplier) tend to perform well."
+        }
       },
       "market_opportunities": {
-        "trending_categories": [
-          "Gaming",
-          "Film and Entertainment"
-        ],
-        "potential_explorations": [
-          {
-            "category": "Live Streaming",
-            "suggestion": "Develop a series of interactive live sessions themed around trending topics or events to capture real-time engagement."
-          },
-          {
-            "category": "Music",
-            "suggestion": "Explore collaborations with emerging music artists to create unique music videos or lyric videos, tapping into the music trend without established artists."
-          }
-        ]
+        "emerging_opportunities": {
+          "insights": "There is potential in creating more immersive live-stream events and interactive gaming experiences, as well as tapping into nostalgia through rebooted or continued series in trailers."
+        },
+        "content_format_experimentation": {
+          "insights": "Experimenting with formats like teasers, 'camera tests,' and interactive live streams can engage audiences differently and create viral potential."
+        },
+        "audience_engagement": {
+          "insights": "Content that encourages viewer participation, such as live streams or interactive gaming content, presents opportunities for deeper audience engagement and loyalty."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 629646
+        "avg_views_per_video": 651407
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
