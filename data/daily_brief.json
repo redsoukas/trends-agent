@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-14T21:25:27.346050",
-  "date": "2026-07-14",
+  "timestamp": "2026-07-15T00:41:59.808807",
+  "date": "2026-07-15",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 3,
-    "high_potential_videos": 8,
+    "music_videos_filtered": 4,
+    "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -14,7 +14,7 @@
   "trending_videos": [
     {
       "video_id": "_rEnAlZ56i8",
-      "title": "Doe Boy - COME HERE (Official Audio)",
+      "title": "Doe Boy - COME HERE (Youngboy Diss)",
       "description": "Doe Boy - Come Here (Official Audio)\n\nhttps://twitter.com/doeboyofficial\nhttps://instagram.com/doeboy \n\n\n#DoeBoy #ComeHere #YoungboyDiss",
       "channel_title": "Doe Boy",
       "channel_id": "UCkG0bVoMgPQGN2w3-Hr2f9g",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_rEnAlZ56i8/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 105627,
-      "like_count": 8604,
-      "comment_count": 2105,
+      "view_count": 120309,
+      "like_count": 9550,
+      "comment_count": 2268,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=_rEnAlZ56i8"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qORTe1wW3Wg/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 3034440,
-      "like_count": 87353,
-      "comment_count": 7089,
+      "view_count": 3131489,
+      "like_count": 88994,
+      "comment_count": 7212,
       "category_id": "1",
       "tags": [
         "2026",
@@ -58,50 +58,6 @@
       "url": "https://www.youtube.com/watch?v=qORTe1wW3Wg"
     },
     {
-      "video_id": "iN1D7BrFN2c",
-      "title": "Class Of 2026 | Official Trailer [Streamer University]",
-      "description": "Class Of 2026 | Official Trailer [Streamer University]\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
-      "channel_title": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "published_at": "2026-07-13T20:40:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iN1D7BrFN2c/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 1418717,
-      "like_count": 79744,
-      "comment_count": 5050,
-      "category_id": "24",
-      "tags": [
-        "Kai Cenat",
-        "Kai Cenat Live",
-        "Kai Cenat Livestream",
-        "Kai Live",
-        "Kai Cenat Funny"
-      ],
-      "url": "https://www.youtube.com/watch?v=iN1D7BrFN2c"
-    },
-    {
-      "video_id": "H-_9Fgs5tIg",
-      "title": "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-14T10:11:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H-_9Fgs5tIg/hqdefault.jpg",
-      "duration": "PT9H6M38S",
-      "duration_seconds": 32798,
-      "view_count": 827857,
-      "like_count": 10842,
-      "comment_count": 183,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=H-_9Fgs5tIg"
-    },
-    {
       "video_id": "Uc3cxBPwaLU",
       "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
       "description": "Naval warfare has arrived, bringing all-out combat across land, air, and sea. \n\nDeploy to Tsuru Reef, our biggest battlefield yet, where sprawling islands, dynamic waves, boats, jets, helicopters, and ground vehicles collide in massive battles. Command the coastline with the RCB-90 Patrol Boat or race through the surf in the 7.7m NSW RHIB. \n\nExpand your arsenal with four new weapons, including the long-range Interdictor sniper rifle, then climb the ranks in a brand-new Ranked Battle Royale season packed with fresh rewards. And later in the season, Wake Island returns. \n\nPrepare to deploy when Season 4 launches on July 21.\n\n#Battlefield6",
@@ -111,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Uc3cxBPwaLU/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 438943,
-      "like_count": 41464,
-      "comment_count": 4488,
+      "view_count": 571714,
+      "like_count": 48100,
+      "comment_count": 5026,
       "category_id": "20",
       "tags": [
         "Battlefield 6 Season 4",
@@ -130,49 +86,72 @@
       "url": "https://www.youtube.com/watch?v=Uc3cxBPwaLU"
     },
     {
-      "video_id": "dHaKuk45X9I",
-      "title": "We Shouldn't Have Gone Hunting...",
-      "description": "Huntin’ Buddies is like if you went hunting with your buddies. Nothing weird about it.\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@imSovi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Co",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-07-13T19:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dHaKuk45X9I/hqdefault.jpg",
-      "duration": "PT20M53S",
-      "duration_seconds": 1253,
-      "view_count": 1511333,
-      "like_count": 80068,
-      "comment_count": 1826,
+      "video_id": "H-_9Fgs5tIg",
+      "title": "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-14T10:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H-_9Fgs5tIg/hqdefault.jpg",
+      "duration": "PT9H6M38S",
+      "duration_seconds": 32798,
+      "view_count": 852433,
+      "like_count": 11055,
+      "comment_count": 198,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "huntin' buddies",
-        "indie game",
-        "hunting",
-        "indie games",
-        "multiplayer",
-        "funny"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=dHaKuk45X9I"
+      "url": "https://www.youtube.com/watch?v=H-_9Fgs5tIg"
     },
     {
-      "video_id": "DOg401KJZSU",
-      "title": "Z-Ro - Mo City Don [Official Music Video]",
-      "description": "Listen to “Mo City Don” - https://rapalotrecords.lnk.to/ZRo_MoCityDon \n\nFollow Z-Ro \nInstagram: https://www.instagram.com/z_ro/?hl=en \nFacebook: https://www.facebook.com/CallMeRother/ \nX: https://x.com/ZROMOCITYDON?lang=en \n\nFollow Rap-A-Lot Records\nInstagram: https://www.instagram.com/rapalotofficial/ \nFacebook: https://www.facebook.com/rapalotrecords/ \nX: https://x.com/RapaLot4Life \n\nCredits\n\nExecutive Producers  \nAbiel Garcia  \nBaby Jay\n\nDirector  \nOakmobb\n\nCo-Director  \nDorian Green\n\nEditors  \nOakmobb  \nJudith Tapes\n\nLine Producer  \nOmar Kaniche\n\nLocal Producers  \nRyan Aivalis  \nAsha Caraballo  \nMorty Zapata\n\nProduction Manager  \nRyan Aivalis\n\nCasting  \nOakmobb  \nJamey Watts  \nValeria Rios  \nRyan Aivalis\n\nCameo Casting  \nDorian Green\n\nDirector of Photography (16mm)  \nBryce Saucier\n\n2nd Unit Director of Photography  \nVincent Briseno\n\n1st Assistant Director  \nRobert \"RB\" Blair II\n\n2nd Assistant Director  \nJoshua Moody\n\nSteadicam  \nFreddy Dang\n\nTechnocrane  \nUziel Luis\n\n1st Assistant ",
-      "channel_title": "TVzro",
-      "channel_id": "UC54lyRdCqMJE94rlWLPevdQ",
-      "published_at": "2026-07-13T17:40:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DOg401KJZSU/hqdefault.jpg",
-      "duration": "PT6M26S",
-      "duration_seconds": 386,
-      "view_count": 120185,
-      "like_count": 15351,
-      "comment_count": 2258,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DOg401KJZSU"
+      "video_id": "iN1D7BrFN2c",
+      "title": "Class Of 2026 | Official Trailer [Streamer University]",
+      "description": "Class Of 2026 | Official Trailer [Streamer University]\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
+      "channel_title": "Kai Cenat Live",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "published_at": "2026-07-13T20:40:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iN1D7BrFN2c/hqdefault.jpg",
+      "duration": "PT2M19S",
+      "duration_seconds": 139,
+      "view_count": 1545020,
+      "like_count": 82298,
+      "comment_count": 5145,
+      "category_id": "24",
+      "tags": [
+        "Kai Cenat",
+        "Kai Cenat Live",
+        "Kai Cenat Livestream",
+        "Kai Live",
+        "Kai Cenat Funny"
+      ],
+      "url": "https://www.youtube.com/watch?v=iN1D7BrFN2c"
+    },
+    {
+      "video_id": "LN1vb99i6f8",
+      "title": "GTA Online Kortz Center Heist Walkthrough - Undetected Stealth Solo - $2,182,000",
+      "description": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\nDid you shower today? Use Cheeky, the best soap in the world: https://usecheeky.com/pages/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
+      "channel_title": "TGG",
+      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "published_at": "2026-07-14T14:39:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LN1vb99i6f8/hqdefault.jpg",
+      "duration": "PT25M27S",
+      "duration_seconds": 1527,
+      "view_count": 274340,
+      "like_count": 9277,
+      "comment_count": 858,
+      "category_id": "20",
+      "tags": [
+        "gta 5",
+        "gta online",
+        "gta 6",
+        "grand theft auto",
+        "making money gta",
+        "get rich gta"
+      ],
+      "url": "https://www.youtube.com/watch?v=LN1vb99i6f8"
     },
     {
       "video_id": "Ld22MTWZyLc",
@@ -184,9 +163,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ld22MTWZyLc/hqdefault.jpg",
       "duration": "PT2M48S",
       "duration_seconds": 168,
-      "view_count": 200827,
-      "like_count": 6612,
-      "comment_count": 838,
+      "view_count": 234825,
+      "like_count": 7037,
+      "comment_count": 878,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -203,63 +182,86 @@
       "url": "https://www.youtube.com/watch?v=Ld22MTWZyLc"
     },
     {
-      "video_id": "LN1vb99i6f8",
-      "title": "GTA Online Kortz Center Heist Walkthrough - Undetected Stealth Solo - $2,182,000",
-      "description": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\nDid you shower today? Use Cheeky, the best soap in the world: https://usecheeky.com/pages/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
-      "channel_title": "TGG",
-      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "published_at": "2026-07-14T14:39:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LN1vb99i6f8/hqdefault.jpg",
-      "duration": "PT25M27S",
-      "duration_seconds": 1527,
-      "view_count": 197417,
-      "like_count": 7682,
-      "comment_count": 753,
+      "video_id": "dHaKuk45X9I",
+      "title": "We Shouldn't Have Gone Hunting...",
+      "description": "Huntin’ Buddies is like if you went hunting with your buddies. Nothing weird about it.\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@imSovi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Co",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-07-13T19:13:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dHaKuk45X9I/hqdefault.jpg",
+      "duration": "PT20M53S",
+      "duration_seconds": 1253,
+      "view_count": 1573522,
+      "like_count": 82556,
+      "comment_count": 1873,
       "category_id": "20",
       "tags": [
-        "gta 5",
-        "gta online",
-        "gta 6",
-        "grand theft auto",
-        "making money gta",
-        "get rich gta"
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "huntin' buddies",
+        "indie game",
+        "hunting",
+        "indie games",
+        "multiplayer",
+        "funny"
       ],
-      "url": "https://www.youtube.com/watch?v=LN1vb99i6f8"
+      "url": "https://www.youtube.com/watch?v=dHaKuk45X9I"
     },
     {
-      "video_id": "3lZ2ZenuCGc",
-      "title": "Crystal Lake | Official Teaser | Peacock Original",
-      "description": "Crystal Lake is streaming October 15 on Peacock: https://pck.tv/45hBP6q\n\nSynopsis: A prequel to the Friday the 13th franchise, the series follows single mother Pam Voorhees who has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam’s door digging into her past, a disturbing chain of events are set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?\n\n#Peacock #CrystalLake #OfficialTeaser\n\nPeacock is your go-to for hit movies, TV, live sports, and more. With the streaming service from NBCUniversal, you can watch new movies from theaters, current hits from NBC and Bravo, nonstop action from WWE, Premier League, Big Ten, and tons of other sports. Plus, stream exclusive Originals, NBC News, and your faves like The Office, Suits, Modern Family, and Yellowstone. Peacock is currently available to stream within the United States.\n\nGet More Peacock:\n► Fol",
-      "channel_title": "Peacock",
-      "channel_id": "UCPgMAS8woHJ_o_OZdTR7kcQ",
-      "published_at": "2026-07-13T20:59:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3lZ2ZenuCGc/hqdefault.jpg",
-      "duration": "PT51S",
-      "duration_seconds": 51,
-      "view_count": 254436,
-      "like_count": 9262,
-      "comment_count": 793,
+      "video_id": "2YbbiS79nE4",
+      "title": "THE JETSONS (2027) Live Action Trailer | Jim Carrey, Amy Adams | Concept Trailer",
+      "description": "#TheJetsons #JimCarrey #AmyAdams #liveaction \n\nTHE JETSONS (2027) — Live Action Concept Trailer\nWe live above the clouds. Eight million people. And not one of us has ever touched the ground.\nSixty years ago humanity left Earth behind and built Orbit City... a gleaming metropolis floating in the sky where everything runs on its own. The cars fly themselves. The sidewalks carry you. The machines think for you. Nobody asks what holds it all together. Nobody looks down.\nGeorge Jetson is a maintenance tech at Spacely Space Sprockets. He is not a genius. He is not a hero. He is just a guy who shows up and stares at numbers nobody else cares about. But when those numbers start telling a story the whole city is ignoring... George becomes the only person standing between eight million lives and the fall.\nWith his wife by his side... his kids behind him... an old robot who refuses to be left behind... and a dog who was already in the car... the Jetsons go where no family has gone in three genera",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-07-13T18:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2YbbiS79nE4/hqdefault.jpg",
+      "duration": "PT2M9S",
+      "duration_seconds": 129,
+      "view_count": 49173,
+      "like_count": 262,
+      "comment_count": 56,
       "category_id": "24",
       "tags": [
-        "peacock",
-        "peacock tv",
-        "peacock streaming service",
-        "crystal lake",
-        "crystal lake series",
-        "crystal lake peacock original",
-        "crystal lake streaming on peacock",
-        "peacock streaming crystal lake",
-        "crystal lake official teaser",
-        "crystal lake teaser"
+        "the jetsons",
+        "the jetsons 2027",
+        "the jetsons live action",
+        "the jetsons trailer",
+        "the jetsons movie",
+        "jetsons live action trailer",
+        "jetsons concept trailer",
+        "jetsons reboot",
+        "jim carrey",
+        "jim carrey jetsons"
       ],
-      "url": "https://www.youtube.com/watch?v=3lZ2ZenuCGc"
+      "url": "https://www.youtube.com/watch?v=2YbbiS79nE4"
+    },
+    {
+      "video_id": "brR82pG4EtI",
+      "title": "My Neighbor Is A PSYCHOPATH [Dread Neighbor]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-07-14T14:53:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/brR82pG4EtI/hqdefault.jpg",
+      "duration": "PT1H32M8S",
+      "duration_seconds": 5528,
+      "view_count": 138779,
+      "like_count": 5176,
+      "comment_count": 336,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=brR82pG4EtI"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
       "video_id": "_rEnAlZ56i8",
-      "title": "Doe Boy - COME HERE (Official Audio)",
+      "title": "Doe Boy - COME HERE (Youngboy Diss)",
       "description": "Doe Boy - Come Here (Official Audio)\n\nhttps://twitter.com/doeboyofficial\nhttps://instagram.com/doeboy \n\n\n#DoeBoy #ComeHere #YoungboyDiss",
       "channel_title": "Doe Boy",
       "channel_id": "UCkG0bVoMgPQGN2w3-Hr2f9g",
@@ -267,9 +269,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_rEnAlZ56i8/hqdefault.jpg",
       "duration": "PT2M57S",
       "duration_seconds": 177,
-      "view_count": 105627,
-      "like_count": 8604,
-      "comment_count": 2105,
+      "view_count": 120309,
+      "like_count": 9550,
+      "comment_count": 2268,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=_rEnAlZ56i8"
@@ -284,9 +286,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qORTe1wW3Wg/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 3034440,
-      "like_count": 87353,
-      "comment_count": 7089,
+      "view_count": 3131489,
+      "like_count": 88994,
+      "comment_count": 7212,
       "category_id": "1",
       "tags": [
         "2026",
@@ -303,50 +305,6 @@
       "url": "https://www.youtube.com/watch?v=qORTe1wW3Wg"
     },
     {
-      "video_id": "iN1D7BrFN2c",
-      "title": "Class Of 2026 | Official Trailer [Streamer University]",
-      "description": "Class Of 2026 | Official Trailer [Streamer University]\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
-      "channel_title": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "published_at": "2026-07-13T20:40:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iN1D7BrFN2c/hqdefault.jpg",
-      "duration": "PT2M19S",
-      "duration_seconds": 139,
-      "view_count": 1418717,
-      "like_count": 79744,
-      "comment_count": 5050,
-      "category_id": "24",
-      "tags": [
-        "Kai Cenat",
-        "Kai Cenat Live",
-        "Kai Cenat Livestream",
-        "Kai Live",
-        "Kai Cenat Funny"
-      ],
-      "url": "https://www.youtube.com/watch?v=iN1D7BrFN2c"
-    },
-    {
-      "video_id": "H-_9Fgs5tIg",
-      "title": "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-14T10:11:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H-_9Fgs5tIg/hqdefault.jpg",
-      "duration": "PT9H6M38S",
-      "duration_seconds": 32798,
-      "view_count": 827857,
-      "like_count": 10842,
-      "comment_count": 183,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=H-_9Fgs5tIg"
-    },
-    {
       "video_id": "Uc3cxBPwaLU",
       "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
       "description": "Naval warfare has arrived, bringing all-out combat across land, air, and sea. \n\nDeploy to Tsuru Reef, our biggest battlefield yet, where sprawling islands, dynamic waves, boats, jets, helicopters, and ground vehicles collide in massive battles. Command the coastline with the RCB-90 Patrol Boat or race through the surf in the 7.7m NSW RHIB. \n\nExpand your arsenal with four new weapons, including the long-range Interdictor sniper rifle, then climb the ranks in a brand-new Ranked Battle Royale season packed with fresh rewards. And later in the season, Wake Island returns. \n\nPrepare to deploy when Season 4 launches on July 21.\n\n#Battlefield6",
@@ -356,9 +314,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Uc3cxBPwaLU/hqdefault.jpg",
       "duration": "PT2M18S",
       "duration_seconds": 138,
-      "view_count": 438943,
-      "like_count": 41464,
-      "comment_count": 4488,
+      "view_count": 571714,
+      "like_count": 48100,
+      "comment_count": 5026,
       "category_id": "20",
       "tags": [
         "Battlefield 6 Season 4",
@@ -375,32 +333,72 @@
       "url": "https://www.youtube.com/watch?v=Uc3cxBPwaLU"
     },
     {
-      "video_id": "dHaKuk45X9I",
-      "title": "We Shouldn't Have Gone Hunting...",
-      "description": "Huntin’ Buddies is like if you went hunting with your buddies. Nothing weird about it.\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@imSovi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Co",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-07-13T19:13:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dHaKuk45X9I/hqdefault.jpg",
-      "duration": "PT20M53S",
-      "duration_seconds": 1253,
-      "view_count": 1511333,
-      "like_count": 80068,
-      "comment_count": 1826,
+      "video_id": "H-_9Fgs5tIg",
+      "title": "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-14T10:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H-_9Fgs5tIg/hqdefault.jpg",
+      "duration": "PT9H6M38S",
+      "duration_seconds": 32798,
+      "view_count": 852433,
+      "like_count": 11055,
+      "comment_count": 198,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "huntin' buddies",
-        "indie game",
-        "hunting",
-        "indie games",
-        "multiplayer",
-        "funny"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=dHaKuk45X9I"
+      "url": "https://www.youtube.com/watch?v=H-_9Fgs5tIg"
+    },
+    {
+      "video_id": "iN1D7BrFN2c",
+      "title": "Class Of 2026 | Official Trailer [Streamer University]",
+      "description": "Class Of 2026 | Official Trailer [Streamer University]\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
+      "channel_title": "Kai Cenat Live",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "published_at": "2026-07-13T20:40:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iN1D7BrFN2c/hqdefault.jpg",
+      "duration": "PT2M19S",
+      "duration_seconds": 139,
+      "view_count": 1545020,
+      "like_count": 82298,
+      "comment_count": 5145,
+      "category_id": "24",
+      "tags": [
+        "Kai Cenat",
+        "Kai Cenat Live",
+        "Kai Cenat Livestream",
+        "Kai Live",
+        "Kai Cenat Funny"
+      ],
+      "url": "https://www.youtube.com/watch?v=iN1D7BrFN2c"
+    },
+    {
+      "video_id": "LN1vb99i6f8",
+      "title": "GTA Online Kortz Center Heist Walkthrough - Undetected Stealth Solo - $2,182,000",
+      "description": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\nDid you shower today? Use Cheeky, the best soap in the world: https://usecheeky.com/pages/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
+      "channel_title": "TGG",
+      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "published_at": "2026-07-14T14:39:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LN1vb99i6f8/hqdefault.jpg",
+      "duration": "PT25M27S",
+      "duration_seconds": 1527,
+      "view_count": 274340,
+      "like_count": 9277,
+      "comment_count": 858,
+      "category_id": "20",
+      "tags": [
+        "gta 5",
+        "gta online",
+        "gta 6",
+        "grand theft auto",
+        "making money gta",
+        "get rich gta"
+      ],
+      "url": "https://www.youtube.com/watch?v=LN1vb99i6f8"
     },
     {
       "video_id": "Ld22MTWZyLc",
@@ -412,9 +410,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ld22MTWZyLc/hqdefault.jpg",
       "duration": "PT2M48S",
       "duration_seconds": 168,
-      "view_count": 200827,
-      "like_count": 6612,
-      "comment_count": 838,
+      "view_count": 234825,
+      "like_count": 7037,
+      "comment_count": 878,
       "category_id": "1",
       "tags": [
         "movie trailer",
@@ -431,149 +429,137 @@
       "url": "https://www.youtube.com/watch?v=Ld22MTWZyLc"
     },
     {
-      "video_id": "LN1vb99i6f8",
-      "title": "GTA Online Kortz Center Heist Walkthrough - Undetected Stealth Solo - $2,182,000",
-      "description": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\nDid you shower today? Use Cheeky, the best soap in the world: https://usecheeky.com/pages/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
-      "channel_title": "TGG",
-      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "published_at": "2026-07-14T14:39:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LN1vb99i6f8/hqdefault.jpg",
-      "duration": "PT25M27S",
-      "duration_seconds": 1527,
-      "view_count": 197417,
-      "like_count": 7682,
-      "comment_count": 753,
+      "video_id": "dHaKuk45X9I",
+      "title": "We Shouldn't Have Gone Hunting...",
+      "description": "Huntin’ Buddies is like if you went hunting with your buddies. Nothing weird about it.\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@imSovi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Co",
+      "channel_title": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "published_at": "2026-07-13T19:13:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dHaKuk45X9I/hqdefault.jpg",
+      "duration": "PT20M53S",
+      "duration_seconds": 1253,
+      "view_count": 1573522,
+      "like_count": 82556,
+      "comment_count": 1873,
       "category_id": "20",
       "tags": [
-        "gta 5",
-        "gta online",
-        "gta 6",
-        "grand theft auto",
-        "making money gta",
-        "get rich gta"
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "huntin' buddies",
+        "indie game",
+        "hunting",
+        "indie games",
+        "multiplayer",
+        "funny"
       ],
-      "url": "https://www.youtube.com/watch?v=LN1vb99i6f8"
+      "url": "https://www.youtube.com/watch?v=dHaKuk45X9I"
     },
     {
-      "video_id": "DOg401KJZSU",
-      "title": "Z-Ro - Mo City Don [Official Music Video]",
-      "description": "Listen to “Mo City Don” - https://rapalotrecords.lnk.to/ZRo_MoCityDon \n\nFollow Z-Ro \nInstagram: https://www.instagram.com/z_ro/?hl=en \nFacebook: https://www.facebook.com/CallMeRother/ \nX: https://x.com/ZROMOCITYDON?lang=en \n\nFollow Rap-A-Lot Records\nInstagram: https://www.instagram.com/rapalotofficial/ \nFacebook: https://www.facebook.com/rapalotrecords/ \nX: https://x.com/RapaLot4Life \n\nCredits\n\nExecutive Producers  \nAbiel Garcia  \nBaby Jay\n\nDirector  \nOakmobb\n\nCo-Director  \nDorian Green\n\nEditors  \nOakmobb  \nJudith Tapes\n\nLine Producer  \nOmar Kaniche\n\nLocal Producers  \nRyan Aivalis  \nAsha Caraballo  \nMorty Zapata\n\nProduction Manager  \nRyan Aivalis\n\nCasting  \nOakmobb  \nJamey Watts  \nValeria Rios  \nRyan Aivalis\n\nCameo Casting  \nDorian Green\n\nDirector of Photography (16mm)  \nBryce Saucier\n\n2nd Unit Director of Photography  \nVincent Briseno\n\n1st Assistant Director  \nRobert \"RB\" Blair II\n\n2nd Assistant Director  \nJoshua Moody\n\nSteadicam  \nFreddy Dang\n\nTechnocrane  \nUziel Luis\n\n1st Assistant ",
-      "channel_title": "TVzro",
-      "channel_id": "UC54lyRdCqMJE94rlWLPevdQ",
-      "published_at": "2026-07-13T17:40:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DOg401KJZSU/hqdefault.jpg",
-      "duration": "PT6M26S",
-      "duration_seconds": 386,
-      "view_count": 120185,
-      "like_count": 15351,
-      "comment_count": 2258,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DOg401KJZSU"
-    },
-    {
-      "video_id": "3lZ2ZenuCGc",
-      "title": "Crystal Lake | Official Teaser | Peacock Original",
-      "description": "Crystal Lake is streaming October 15 on Peacock: https://pck.tv/45hBP6q\n\nSynopsis: A prequel to the Friday the 13th franchise, the series follows single mother Pam Voorhees who has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam’s door digging into her past, a disturbing chain of events are set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?\n\n#Peacock #CrystalLake #OfficialTeaser\n\nPeacock is your go-to for hit movies, TV, live sports, and more. With the streaming service from NBCUniversal, you can watch new movies from theaters, current hits from NBC and Bravo, nonstop action from WWE, Premier League, Big Ten, and tons of other sports. Plus, stream exclusive Originals, NBC News, and your faves like The Office, Suits, Modern Family, and Yellowstone. Peacock is currently available to stream within the United States.\n\nGet More Peacock:\n► Fol",
-      "channel_title": "Peacock",
-      "channel_id": "UCPgMAS8woHJ_o_OZdTR7kcQ",
-      "published_at": "2026-07-13T20:59:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3lZ2ZenuCGc/hqdefault.jpg",
-      "duration": "PT51S",
-      "duration_seconds": 51,
-      "view_count": 254436,
-      "like_count": 9262,
-      "comment_count": 793,
+      "video_id": "2YbbiS79nE4",
+      "title": "THE JETSONS (2027) Live Action Trailer | Jim Carrey, Amy Adams | Concept Trailer",
+      "description": "#TheJetsons #JimCarrey #AmyAdams #liveaction \n\nTHE JETSONS (2027) — Live Action Concept Trailer\nWe live above the clouds. Eight million people. And not one of us has ever touched the ground.\nSixty years ago humanity left Earth behind and built Orbit City... a gleaming metropolis floating in the sky where everything runs on its own. The cars fly themselves. The sidewalks carry you. The machines think for you. Nobody asks what holds it all together. Nobody looks down.\nGeorge Jetson is a maintenance tech at Spacely Space Sprockets. He is not a genius. He is not a hero. He is just a guy who shows up and stares at numbers nobody else cares about. But when those numbers start telling a story the whole city is ignoring... George becomes the only person standing between eight million lives and the fall.\nWith his wife by his side... his kids behind him... an old robot who refuses to be left behind... and a dog who was already in the car... the Jetsons go where no family has gone in three genera",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-07-13T18:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2YbbiS79nE4/hqdefault.jpg",
+      "duration": "PT2M9S",
+      "duration_seconds": 129,
+      "view_count": 49173,
+      "like_count": 262,
+      "comment_count": 56,
       "category_id": "24",
       "tags": [
-        "peacock",
-        "peacock tv",
-        "peacock streaming service",
-        "crystal lake",
-        "crystal lake series",
-        "crystal lake peacock original",
-        "crystal lake streaming on peacock",
-        "peacock streaming crystal lake",
-        "crystal lake official teaser",
-        "crystal lake teaser"
+        "the jetsons",
+        "the jetsons 2027",
+        "the jetsons live action",
+        "the jetsons trailer",
+        "the jetsons movie",
+        "jetsons live action trailer",
+        "jetsons concept trailer",
+        "jetsons reboot",
+        "jim carrey",
+        "jim carrey jetsons"
       ],
-      "url": "https://www.youtube.com/watch?v=3lZ2ZenuCGc"
+      "url": "https://www.youtube.com/watch?v=2YbbiS79nE4"
+    },
+    {
+      "video_id": "brR82pG4EtI",
+      "title": "My Neighbor Is A PSYCHOPATH [Dread Neighbor]",
+      "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart\n☆Socials:\n➥ Main Channel: https://www.youtube.com/@JoeBartolozzi\n➥ Philosophy Channel: https://www.youtube.com/@Joe-Bart-Philosophy\n➥ Vod Channel: https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw\n➥Twitch: https://www.twitch.tv/joe_bartolozzi\n➥Twitter: https://twitter.com/joebartolozzi_?lang=en\n➥ Instagram: https://www.instagram.com/joe.bartolozzi/?hl=en\n\n\nEditor:\n@Jdyo \nThumbnails: @EvanJohnson2 \n\n☆Discord:\n➥https://discord.gg/joebart\n\nOutro Song:  @PlayaPhonkOfficial   https://www.youtube.com/watch?v=1oC_WYWJx9A",
+      "channel_title": "Joe Bart Games",
+      "channel_id": "UCeBPTBz1oRnsWsUBnKNNKNw",
+      "published_at": "2026-07-14T14:53:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/brR82pG4EtI/hqdefault.jpg",
+      "duration": "PT1H32M8S",
+      "duration_seconds": 5528,
+      "view_count": 138779,
+      "like_count": 5176,
+      "comment_count": 336,
+      "category_id": "20",
+      "tags": [
+        "joebartolozzi"
+      ],
+      "url": "https://www.youtube.com/watch?v=brR82pG4EtI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 10,
-        "totalViews": 8109782,
-        "categories": "Entertainment, Gaming, Music, Film Trailers"
-      },
-      "contentTrends": {
-        "music": {
-          "description": "Music videos and audio tracks continue to capture significant audience attention.",
-          "examples": [
-            "Doe Boy - COME HERE (Official Audio)",
-            "Z-Ro - Mo City Don [Official Music Video]"
-          ],
-          "insights": "Leverage music releases with engaging visuals or lyric videos to maximize reach."
-        },
-        "filmAndSeriesTrailers": {
-          "description": "Official trailers for movies and series are popular, indicating strong interest in upcoming releases.",
-          "examples": [
-            "DIGGER | Official Trailer",
-            "Class Of 2026 | Official Trailer [Streamer University]",
-            "MAYDAY Official Trailer (2026) Ryan Reynolds"
-          ],
-          "insights": "Promotional strategies should include early teaser releases and cross-promotions on social media platforms."
+      "content_trends": {
+        "music_and_entertainment": {
+          "description": "Music and entertainment dominate the trending videos, as evidenced by titles such as 'Doe Boy - COME HERE (Youngboy Diss)' and concept trailers featuring well-known actors.",
+          "actionable_insights": [
+            "Collaborate with popular music artists or create content that involves trending artists to leverage their audience.",
+            "Develop concept trailers or fan-based content featuring popular actors to engage entertainment enthusiasts."
+          ]
         },
         "gaming": {
-          "description": "Gaming content, including live streams and game trailers, remains a key interest area.",
-          "examples": [
-            "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE",
-            "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
-            "GTA Online Kortz Center Heist Walkthrough - Undetected Stealth Solo - $2,182,000"
-          ],
-          "insights": "Content creators should focus on walkthroughs, live streaming, and exclusive gameplay reveals to engage the gaming community."
+          "description": "Gaming content, including official gameplay trailers and live streaming, is a significant part of the trending list.",
+          "actionable_insights": [
+            "Create content around upcoming game releases or updates to capture the interest of the gaming community.",
+            "Host live gaming sessions or walkthroughs to engage viewers who are interested in tips and strategies."
+          ]
         },
-        "uniqueContent": {
-          "description": "Unique or niche content like mystery or thriller teasers can intrigue audiences.",
-          "examples": [
-            "We Shouldn't Have Gone Hunting...",
-            "Crystal Lake | Official Teaser | Peacock Original"
-          ],
-          "insights": "Developing suspenseful or mysterious content can capture viewer interest and drive engagement."
+        "thriller_and_mystery": {
+          "description": "Titles like 'My Neighbor Is A PSYCHOPATH [Dread Neighbor]' indicate a trend towards thriller and mystery content.",
+          "actionable_insights": [
+            "Produce content that includes suspenseful storytelling or mystery elements to attract viewers interested in these genres.",
+            "Explore collaborations with creators who specialize in thriller narratives to expand reach."
+          ]
         }
       },
-      "creatorPatterns": {
-        "diverseContent": {
-          "description": "Channels are not limited to a single type of content; they explore various genres.",
-          "examples": [
-            "Warner Bros.",
-            "Kai Cenat Live",
-            "Battlefield"
-          ],
-          "insights": "Creators should diversify their content offerings to appeal to wider audiences."
+      "creator_patterns": {
+        "diversified_content": {
+          "description": "Top channels are producing a variety of content ranging from music to games and trailers.",
+          "actionable_insights": [
+            "Encourage content creators to diversify their offerings to capture multiple audience segments.",
+            "Utilize cross-promotion between different types of content (e.g., a gaming channel promoting a music video) to increase exposure."
+          ]
         },
-        "collaborativeContent": {
-          "description": "Collaborations with other creators or brands can increase visibility.",
-          "examples": [
-            "🔴LIVE | PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE"
-          ],
-          "insights": "Partnering with other content creators can expand reach and introduce channels to new audiences."
+        "collaborations_and_crossovers": {
+          "description": "Potential for collaborations between creators in different genres, such as music and gaming.",
+          "actionable_insights": [
+            "Foster partnerships between creators from different genres to create unique content that appeals to broader audiences.",
+            "Develop crossover content that combines elements from popular genres to engage viewers looking for innovative experiences."
+          ]
         }
       },
-      "marketOpportunities": {
-        "crossPlatformPromotion": {
-          "description": "Leveraging multiple platforms for content promotion can enhance reach.",
-          "insights": "Utilize social media channels to tease upcoming releases and create anticipation."
+      "market_opportunities": {
+        "streaming_and_live_events": {
+          "description": "Live streaming events are gaining traction, particularly in gaming.",
+          "actionable_insights": [
+            "Invest in platforms and tools that facilitate live streaming to capitalize on real-time engagement opportunities.",
+            "Organize virtual events or live sessions that include audience interaction to build community and increase viewer retention."
+          ]
         },
-        "engagementThroughInteractivity": {
-          "description": "Interactive content such as live streams can drive viewer engagement.",
-          "insights": "Incorporate Q&A sessions or live feedback opportunities during streams to increase interaction."
-        },
-        "nicheMarkets": {
-          "description": "Targeting niche interests like suspenseful teasers or specific gaming genres can capture dedicated audiences.",
-          "insights": "Focus on niche content strategies to build a loyal subscriber base."
+        "concept_trailers_and_speculative_content": {
+          "description": "Concept trailers and speculative content are popular and provide opportunities for creative engagement.",
+          "actionable_insights": [
+            "Create speculative content around upcoming movie releases or popular franchises to attract speculative and fan-based audiences.",
+            "Leverage user-generated content by encouraging fans to create their own concept trailers or interpretations."
+          ]
         }
       },
       "metadata_stats": {
@@ -582,7 +568,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 810978
+        "avg_views_per_video": 849160
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
