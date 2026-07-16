@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-16T15:36:35.380967",
+  "timestamp": "2026-07-16T18:31:56.894182",
   "date": "2026-07-16",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 8,
     "music_videos_filtered": 6,
-    "high_potential_videos": 8,
+    "high_potential_videos": 7,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 8,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V_g_Ut0jO-0/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 5167025,
-      "like_count": 62445,
-      "comment_count": 4565,
+      "view_count": 5469868,
+      "like_count": 69041,
+      "comment_count": 4909,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -41,27 +41,6 @@
       "url": "https://www.youtube.com/watch?v=V_g_Ut0jO-0"
     },
     {
-      "video_id": "DRR2zh3YscM",
-      "title": "🔴LIVE | PALWORLD w/ Gimmick x Cloakzy #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-16T11:35:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DRR2zh3YscM/hqdefault.jpg",
-      "duration": "PT11H47M39S",
-      "duration_seconds": 42459,
-      "view_count": 721697,
-      "like_count": 9332,
-      "comment_count": 41,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=DRR2zh3YscM"
-    },
-    {
       "video_id": "aG8U7-XK7PI",
       "title": "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
       "description": "Don't miss the 'Camera Test' Teaser Trailer for The Batman Part 2, the crime action superhero drama distributed by Warner Bros. Get a brief look at the caped crusader in frame and ready for the next installment in his story as The Batman. The Batman Part 2 is in theaters on February 18, 2028.\n\nThe Batman Part 2 stars Robert Pattinson, Scarlett Johansson, Sebastian Stan, Colin Farrell, Andy Serkis, Jeffrey Wright, Barry Keoghan, Brian Tyree Henry, and more. The film is directed by Matt Reeves and written by Bill Finger, Bob Kane, and Matt Reeves.\n\nThe Batman Part 2 is in theaters on February 18, 2028.\n\n#TheBatmanPart2 #Movies #IGN",
@@ -71,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aG8U7-XK7PI/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 1272604,
-      "like_count": 58330,
-      "comment_count": 3960,
+      "view_count": 1402662,
+      "like_count": 62455,
+      "comment_count": 4197,
       "category_id": "24",
       "tags": [
         "Action",
@@ -90,6 +69,27 @@
       "url": "https://www.youtube.com/watch?v=aG8U7-XK7PI"
     },
     {
+      "video_id": "DRR2zh3YscM",
+      "title": "🔴LIVE | PALWORLD w/ Gimmick x Cloakzy #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-16T11:35:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DRR2zh3YscM/hqdefault.jpg",
+      "duration": "PT11H47M39S",
+      "duration_seconds": 42459,
+      "view_count": 731193,
+      "like_count": 9452,
+      "comment_count": 68,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=DRR2zh3YscM"
+    },
+    {
       "video_id": "AH5jwKkCS7M",
       "title": "Five Nights at Freddy's 2: Markiplier's Redemption",
       "description": "It's time to face the allegations! And it all starts by beating Five Nights at Freddy's 2 FOR REAL!!",
@@ -99,9 +99,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AH5jwKkCS7M/hqdefault.jpg",
       "duration": "PT4H29M48S",
       "duration_seconds": 16188,
-      "view_count": 2659346,
-      "like_count": 168013,
-      "comment_count": 4289,
+      "view_count": 2728938,
+      "like_count": 170638,
+      "comment_count": 4410,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -114,6 +114,25 @@
       "url": "https://www.youtube.com/watch?v=AH5jwKkCS7M"
     },
     {
+      "video_id": "gsJk98La_jA",
+      "title": "Welcome to Hot Bat Summer | Gameplay Trailer",
+      "description": "Make a splash with Gotham City Summer Outfits in the Item Shop and dip into the wildest summer event in Battle Royale! Help Batman track down High Tide Harley, Coastal Catwoman, Sunflower Ivy and send them back to Arkham for heroic in-game rewards.",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-07-16T13:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gsJk98La_jA/hqdefault.jpg",
+      "duration": "PT1M12S",
+      "duration_seconds": 72,
+      "view_count": 111648,
+      "like_count": 11035,
+      "comment_count": 869,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=gsJk98La_jA"
+    },
+    {
       "video_id": "UdAviHUU8v0",
       "title": "The Stoneville Incident…",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -123,9 +142,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UdAviHUU8v0/hqdefault.jpg",
       "duration": "PT49M49S",
       "duration_seconds": 2989,
-      "view_count": 362302,
-      "like_count": 15284,
-      "comment_count": 1197,
+      "view_count": 401434,
+      "like_count": 16645,
+      "comment_count": 1262,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -151,9 +170,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_nneiDtbdbk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 374920,
-      "like_count": 12556,
-      "comment_count": 715,
+      "view_count": 398356,
+      "like_count": 12934,
+      "comment_count": 725,
       "category_id": "24",
       "tags": [
         "Coming of Age",
@@ -179,9 +198,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4gS5zomd7K8/hqdefault.jpg",
       "duration": "PT14M47S",
       "duration_seconds": 887,
-      "view_count": 602760,
-      "like_count": 19041,
-      "comment_count": 636,
+      "view_count": 683286,
+      "like_count": 20792,
+      "comment_count": 667,
       "category_id": "20",
       "tags": [
         "digital circus",
@@ -196,42 +215,6 @@
         "digital"
       ],
       "url": "https://www.youtube.com/watch?v=4gS5zomd7K8"
-    },
-    {
-      "video_id": "gsJk98La_jA",
-      "title": "Welcome to Hot Bat Summer | Gameplay Trailer",
-      "description": "Make a splash with Gotham City Summer Outfits in the Item Shop and dip into the wildest summer event in Battle Royale! Help Batman track down High Tide Harley, Coastal Catwoman, Sunflower Ivy and send them back to Arkham for heroic in-game rewards.",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-16T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gsJk98La_jA/hqdefault.jpg",
-      "duration": "PT1M12S",
-      "duration_seconds": 72,
-      "view_count": 50819,
-      "like_count": 7850,
-      "comment_count": 594,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=gsJk98La_jA"
-    },
-    {
-      "video_id": "VRj9HGZp6UY",
-      "title": "GTA: San Andreas Really Takes You Places",
-      "description": "Right now as a listener of my show, you can get up to 50% OFF your SUBSCRIBE AND SAVE deal (and if you don't love it, get your money back!) at http://meundies.com/anyaustin, promo code anyaustin.\n\nMaybe everyone was right and GTA: San Andreas really is the best Grand Theft Auto game. Let’s find out by taking a road trip.\n\npatreon- https://www.patreon.com/any_austin\nbsky- https://bsky.app/profile/anyaustin.bsky.social\ndiscord- https://discord.gg/0wLFXHCpjmnrwCvJ\ninstagram- https://www.instagram.com/any_austin/\ntwitch- https://www.twitch.tv/any_austin\nTikTok- https://tiktok.com/@any_austin\n\nFor my music, search “The Excellent Man from Minneapolis” on your favorite streaming service, or click here for Spotify- https://open.spotify.com/artist/49RPyTk0BluLrg3scWFCOw\n\n——\n\nThe Team:\n\nAny Austin (me)\nAshlyn K (ops)\nWilliam H (lead editor)\nLuke D (creative associate)\nSadie W (art & assets)",
-      "channel_title": "Any Austin",
-      "channel_id": "UCH_7doiCkWeq0v3ycWE5lDw",
-      "published_at": "2026-07-15T18:44:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VRj9HGZp6UY/hqdefault.jpg",
-      "duration": "PT37M52S",
-      "duration_seconds": 2272,
-      "view_count": 701812,
-      "like_count": 44026,
-      "comment_count": 3657,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=VRj9HGZp6UY"
     }
   ],
   "videos_with_transcripts": [],
@@ -246,9 +229,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V_g_Ut0jO-0/hqdefault.jpg",
       "duration": "PT2M45S",
       "duration_seconds": 165,
-      "view_count": 5167025,
-      "like_count": 62445,
-      "comment_count": 4565,
+      "view_count": 5469868,
+      "like_count": 69041,
+      "comment_count": 4909,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -274,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DRR2zh3YscM/hqdefault.jpg",
       "duration": "PT11H47M39S",
       "duration_seconds": 42459,
-      "view_count": 721697,
-      "like_count": 9332,
-      "comment_count": 41,
+      "view_count": 731193,
+      "like_count": 9452,
+      "comment_count": 68,
       "category_id": "20",
       "tags": [
         "funny",
@@ -295,9 +278,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AH5jwKkCS7M/hqdefault.jpg",
       "duration": "PT4H29M48S",
       "duration_seconds": 16188,
-      "view_count": 2659346,
-      "like_count": 168013,
-      "comment_count": 4289,
+      "view_count": 2728938,
+      "like_count": 170638,
+      "comment_count": 4410,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -310,6 +293,25 @@
       "url": "https://www.youtube.com/watch?v=AH5jwKkCS7M"
     },
     {
+      "video_id": "gsJk98La_jA",
+      "title": "Welcome to Hot Bat Summer | Gameplay Trailer",
+      "description": "Make a splash with Gotham City Summer Outfits in the Item Shop and dip into the wildest summer event in Battle Royale! Help Batman track down High Tide Harley, Coastal Catwoman, Sunflower Ivy and send them back to Arkham for heroic in-game rewards.",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-07-16T13:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gsJk98La_jA/hqdefault.jpg",
+      "duration": "PT1M12S",
+      "duration_seconds": 72,
+      "view_count": 111648,
+      "like_count": 11035,
+      "comment_count": 869,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=gsJk98La_jA"
+    },
+    {
       "video_id": "UdAviHUU8v0",
       "title": "The Stoneville Incident…",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -319,9 +321,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UdAviHUU8v0/hqdefault.jpg",
       "duration": "PT49M49S",
       "duration_seconds": 2989,
-      "view_count": 362302,
-      "like_count": 15284,
-      "comment_count": 1197,
+      "view_count": 401434,
+      "like_count": 16645,
+      "comment_count": 1262,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -347,9 +349,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_nneiDtbdbk/hqdefault.jpg",
       "duration": "PT1M54S",
       "duration_seconds": 114,
-      "view_count": 374920,
-      "like_count": 12556,
-      "comment_count": 715,
+      "view_count": 398356,
+      "like_count": 12934,
+      "comment_count": 725,
       "category_id": "24",
       "tags": [
         "Coming of Age",
@@ -375,9 +377,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4gS5zomd7K8/hqdefault.jpg",
       "duration": "PT14M47S",
       "duration_seconds": 887,
-      "view_count": 602760,
-      "like_count": 19041,
-      "comment_count": 636,
+      "view_count": 683286,
+      "like_count": 20792,
+      "comment_count": 667,
       "category_id": "20",
       "tags": [
         "digital circus",
@@ -394,42 +396,6 @@
       "url": "https://www.youtube.com/watch?v=4gS5zomd7K8"
     },
     {
-      "video_id": "gsJk98La_jA",
-      "title": "Welcome to Hot Bat Summer | Gameplay Trailer",
-      "description": "Make a splash with Gotham City Summer Outfits in the Item Shop and dip into the wildest summer event in Battle Royale! Help Batman track down High Tide Harley, Coastal Catwoman, Sunflower Ivy and send them back to Arkham for heroic in-game rewards.",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-16T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gsJk98La_jA/hqdefault.jpg",
-      "duration": "PT1M12S",
-      "duration_seconds": 72,
-      "view_count": 50819,
-      "like_count": 7850,
-      "comment_count": 594,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=gsJk98La_jA"
-    },
-    {
-      "video_id": "VRj9HGZp6UY",
-      "title": "GTA: San Andreas Really Takes You Places",
-      "description": "Right now as a listener of my show, you can get up to 50% OFF your SUBSCRIBE AND SAVE deal (and if you don't love it, get your money back!) at http://meundies.com/anyaustin, promo code anyaustin.\n\nMaybe everyone was right and GTA: San Andreas really is the best Grand Theft Auto game. Let’s find out by taking a road trip.\n\npatreon- https://www.patreon.com/any_austin\nbsky- https://bsky.app/profile/anyaustin.bsky.social\ndiscord- https://discord.gg/0wLFXHCpjmnrwCvJ\ninstagram- https://www.instagram.com/any_austin/\ntwitch- https://www.twitch.tv/any_austin\nTikTok- https://tiktok.com/@any_austin\n\nFor my music, search “The Excellent Man from Minneapolis” on your favorite streaming service, or click here for Spotify- https://open.spotify.com/artist/49RPyTk0BluLrg3scWFCOw\n\n——\n\nThe Team:\n\nAny Austin (me)\nAshlyn K (ops)\nWilliam H (lead editor)\nLuke D (creative associate)\nSadie W (art & assets)",
-      "channel_title": "Any Austin",
-      "channel_id": "UCH_7doiCkWeq0v3ycWE5lDw",
-      "published_at": "2026-07-15T18:44:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VRj9HGZp6UY/hqdefault.jpg",
-      "duration": "PT37M52S",
-      "duration_seconds": 2272,
-      "view_count": 701812,
-      "like_count": 44026,
-      "comment_count": 3657,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=VRj9HGZp6UY"
-    },
-    {
       "video_id": "aG8U7-XK7PI",
       "title": "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
       "description": "Don't miss the 'Camera Test' Teaser Trailer for The Batman Part 2, the crime action superhero drama distributed by Warner Bros. Get a brief look at the caped crusader in frame and ready for the next installment in his story as The Batman. The Batman Part 2 is in theaters on February 18, 2028.\n\nThe Batman Part 2 stars Robert Pattinson, Scarlett Johansson, Sebastian Stan, Colin Farrell, Andy Serkis, Jeffrey Wright, Barry Keoghan, Brian Tyree Henry, and more. The film is directed by Matt Reeves and written by Bill Finger, Bob Kane, and Matt Reeves.\n\nThe Batman Part 2 is in theaters on February 18, 2028.\n\n#TheBatmanPart2 #Movies #IGN",
@@ -439,9 +405,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aG8U7-XK7PI/hqdefault.jpg",
       "duration": "PT37S",
       "duration_seconds": 37,
-      "view_count": 1272604,
-      "like_count": 58330,
-      "comment_count": 3960,
+      "view_count": 1402662,
+      "like_count": 62455,
+      "comment_count": 4197,
       "category_id": "24",
       "tags": [
         "Action",
@@ -462,64 +428,67 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "genres": [
-          "Trailers",
-          "Gaming",
-          "Entertainment"
-        ],
-        "insights": [
-          {
-            "trend": "High Interest in Trailers",
-            "observation": "Three out of nine videos are trailers, indicating a strong audience interest in upcoming releases and teasers. This includes both movie trailers and game teasers.",
-            "actionable_insights": "Content creators should consider producing more trailer-like content, such as sneak peeks or exclusive previews, to capture audience attention."
-          },
-          {
-            "trend": "Gaming Content Popularity",
-            "observation": "Two videos are directly related to gaming, and another two indirectly (live-streaming and gaming experiences). This shows a continued high engagement with gaming content.",
-            "actionable_insights": "Channels should explore collaborations with popular gamers or integrate gaming elements in their content to leverage this trend."
-          },
-          {
-            "trend": "Use of Nostalgia",
-            "observation": "Videos like 'GTA: San Andreas Really Takes You Places' and 'Five Nights at Freddy's 2: Markiplier's Redemption' leverage nostalgia to attract viewers.",
-            "actionable_insights": "Brands and creators can tap into nostalgic elements of popular media to engage a wide audience range, especially millennials."
-          }
-        ]
+        "trailer_and_teaser_content": {
+          "description": "Four out of eight videos are related to trailers or teasers, indicating a strong interest in upcoming media releases.",
+          "examples": [
+            "I Play Rocky | Official Trailer",
+            "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
+            "Welcome to Hot Bat Summer | Gameplay Trailer",
+            "My Life With the Walter Boys: Season 3 | Official Trailer | Netflix"
+          ],
+          "insight": "There is a significant trend towards promotional content for new media, suggesting high engagement potential for studios releasing trailers for anticipated shows and movies."
+        },
+        "gaming_content": {
+          "description": "Three videos are focused on gaming, indicating a robust interest in gaming-related content.",
+          "examples": [
+            "🔴LIVE | PALWORLD w/ Gimmick x Cloakzy #BUNGULATE",
+            "Five Nights at Freddy's 2: Markiplier's Redemption",
+            "The ABSTRACTION EXPERIENCE in Roblox.."
+          ],
+          "insight": "Gaming content continues to capture significant viewer interest, providing opportunities for gaming creators and brands to leverage live streaming and gameplay videos to engage audiences."
+        },
+        "mystery_and_suspense": {
+          "description": "One video, 'The Stoneville Incident…', suggests an interest in mystery and suspense themes.",
+          "insight": "There is potential to explore content that taps into mystery or suspense genres, which can captivate audiences looking for intriguing narratives."
+        }
       },
       "creator_patterns": {
-        "observations": [
-          {
-            "trend": "Diverse Creator Base",
-            "observation": "The top channels feature a mix of big studios, independent creators, and popular gaming personalities.",
-            "actionable_insights": "New creators should focus on niche content or unique collaborations to stand out in a diverse creator landscape."
-          },
-          {
-            "trend": "High Engagement with Established Personalities",
-            "observation": "Markiplier, a well-known gaming personality, is featured, suggesting high engagement with established online figures.",
-            "actionable_insights": "Emerging creators might benefit from collaborations or shout-outs from established personalities to quickly grow their audience."
-          }
-        ]
+        "diverse_content_type": {
+          "description": "Top channels like Amazon MGM Studios and IGN are diversifying content types, from trailers to gameplay and live streams.",
+          "insight": "Creators and channels that diversify content types can attract wider audiences and increase engagement across different viewer segments."
+        },
+        "influencer_engagement": {
+          "description": "Creators like Markiplier continue to engage audiences with established franchises, in this case, 'Five Nights at Freddy's'.",
+          "insight": "Leveraging well-known influencers to engage with popular franchises or games can enhance reach and viewership."
+        }
       },
       "market_opportunities": {
-        "insights": [
-          {
-            "opportunity": "Cross-Platform Content Promotion",
-            "observation": "Creating content that ties into popular franchises or games can be cross-promoted across different platforms such as Twitch and YouTube.",
-            "actionable_insights": "Develop cross-platform campaigns that link YouTube content with live streams on platforms like Twitch to maximize reach and engagement."
-          },
-          {
-            "opportunity": "Interactive and Live Content",
-            "observation": "The presence of live content indicates a demand for interactive experiences.",
-            "actionable_insights": "Incorporate live elements or interactive segments in content to enhance viewer participation and increase watch time."
-          }
+        "cross-platform_content": {
+          "description": "With the presence of content from platforms like Netflix, there is an opportunity for cross-platform promotions.",
+          "insight": "Brands and creators can explore partnerships with streaming services and gaming platforms to expand their audience reach through cross-promotional strategies."
+        },
+        "emerging_technology": {
+          "description": "The use of live streaming in gaming content highlights an opportunity for integrating emerging technology, such as AR/VR or interactive live streams.",
+          "insight": "Investing in emerging tech can provide competitive advantages, creating immersive and interactive experiences for viewers."
+        }
+      },
+      "data_summary": {
+        "total_videos": 8,
+        "total_views": 11927385,
+        "average_views_per_video": 1490923.13,
+        "key_categories": [
+          "Trailers",
+          "Gaming",
+          "Mystery/Suspense"
         ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 8,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1323698
+        "avg_views_per_video": 1490923
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
