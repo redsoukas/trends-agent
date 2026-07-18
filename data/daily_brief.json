@@ -1,69 +1,17 @@
 {
-  "timestamp": "2026-07-18T15:24:55.479533",
+  "timestamp": "2026-07-18T18:24:42.132797",
   "date": "2026-07-18",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 5,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 4,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
   },
   "trending_videos": [
-    {
-      "video_id": "cC6ebvZg-_Q",
-      "title": "Kamigawa: Titanbreach Announce Trailer | Magic: The Gathering 2027",
-      "description": "When an Omenpath opens above the neon-lit skies of Towashi, a huge mass of Ikoria crashes through, unleashing mayhem! The people of Kamigawa must band together to stop the monsters of Ikoria that threaten to stomp, scorch, and shatter their home! \n\nFace the incursion head on when Kamigawa: Titanbreach releases on June 4, 2027.",
-      "channel_title": "Magic: The Gathering",
-      "channel_id": "UC8ZGymAvfP97qJabgqUkz4A",
-      "published_at": "2026-07-17T17:24:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cC6ebvZg-_Q/hqdefault.jpg",
-      "duration": "PT2M33S",
-      "duration_seconds": 153,
-      "view_count": 184334,
-      "like_count": 10380,
-      "comment_count": 1255,
-      "category_id": "20",
-      "tags": [
-        "magic",
-        "mtg",
-        "wizards",
-        "wotc",
-        "planeswalkers",
-        "tcg",
-        "trading card game",
-        "arena",
-        "magic the gathering",
-        "mtg arena"
-      ],
-      "url": "https://www.youtube.com/watch?v=cC6ebvZg-_Q"
-    },
-    {
-      "video_id": "IRPOlmaKpYA",
-      "title": "Welcome to the Game 3: Markiplier's Redemption",
-      "description": "It's time to face the allegations! And it all starts by beating Welcome to the Game 3 FOR REAL!!\nI'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\n\nPlay the Game ► https://store.steampowered.com/app/3869850/Welcome_to_the_Game_III/",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-07-18T07:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRPOlmaKpYA/hqdefault.jpg",
-      "duration": "PT3H23M25S",
-      "duration_seconds": 12205,
-      "view_count": 605949,
-      "like_count": 32779,
-      "comment_count": 833,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "markiplier cheated",
-        "drama",
-        "welcome to the game",
-        "welcome to the game 3",
-        "markiplier's redemption"
-      ],
-      "url": "https://www.youtube.com/watch?v=IRPOlmaKpYA"
-    },
     {
       "video_id": "7_Eo7_5_FiM",
       "title": "THE CHI SEASON 8 EPISODE 10 TRAILER!!! SERIES FINALE!!!",
@@ -74,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7_Eo7_5_FiM/hqdefault.jpg",
       "duration": "PT38S",
       "duration_seconds": 38,
-      "view_count": 42892,
-      "like_count": 902,
-      "comment_count": 330,
+      "view_count": 45029,
+      "like_count": 919,
+      "comment_count": 334,
       "category_id": "24",
       "tags": [
         "Review",
@@ -93,6 +41,58 @@
       "url": "https://www.youtube.com/watch?v=7_Eo7_5_FiM"
     },
     {
+      "video_id": "IRPOlmaKpYA",
+      "title": "Welcome to the Game 3: Markiplier's Redemption",
+      "description": "It's time to face the allegations! And it all starts by beating Welcome to the Game 3 FOR REAL!!\nI'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\n\nPlay the Game ► https://store.steampowered.com/app/3869850/Welcome_to_the_Game_III/",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-07-18T07:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IRPOlmaKpYA/hqdefault.jpg",
+      "duration": "PT3H23M25S",
+      "duration_seconds": 12205,
+      "view_count": 702739,
+      "like_count": 35492,
+      "comment_count": 1040,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "markiplier cheated",
+        "drama",
+        "welcome to the game",
+        "welcome to the game 3",
+        "markiplier's redemption"
+      ],
+      "url": "https://www.youtube.com/watch?v=IRPOlmaKpYA"
+    },
+    {
+      "video_id": "mM2HFFDTBoQ",
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER | Tom Holland | Marvel Comics | Concept",
+      "description": "#SpiderManBrandNewDay #SpiderMan #Brandnewday #Marvel #Comics\n\n🎥 Attention viewers! (ITS FAN MADE)\nGet ready for the most talked-about Marvel release of the year — this Spider-Man: Brand New Day breakdown dives straight into the trailer footage, TV spots, and every clue Marvel Studios has dropped so far. Tom Holland's Peter Parker returns for a chapter that fans are already calling \"Spider-Man: New Home,\" with Zendaya back by his side and Sadie Sink bringing a fresh dynamic that's shaking up the story in ways no one expected after No Way Home. This video breaks down the trailer shot by shot in 4K, connecting comics lore, hidden easter eggs, and every hint about where Peter's journey goes next in the MCU. If you're chasing the latest Spider-Man trailer 2026 content or just want the full picture before opening weekend, this is the breakdown to watch.\n\nThe inspiration behind this video:\nSpider-Man: Brand New Day just delivered the most jaw-dropping Spider-Man Brand New Day Final Trailer t",
+      "channel_title": "TeaserCon",
+      "channel_id": "UCdIGJ48YH98rTt37mx-UsNQ",
+      "published_at": "2026-07-17T11:10:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mM2HFFDTBoQ/hqdefault.jpg",
+      "duration": "PT1M35S",
+      "duration_seconds": 95,
+      "view_count": 307379,
+      "like_count": 4499,
+      "comment_count": 200,
+      "category_id": "1",
+      "tags": [
+        "spider man brand new day",
+        "spider man brand new day trailer",
+        "spider man brand new day final trailer",
+        "spider man 2026 trailer",
+        "new spider man movie",
+        "spider man new home trailer",
+        "spider man new home",
+        "spider man no way home",
+        "marvel",
+        "tom holland"
+      ],
+      "url": "https://www.youtube.com/watch?v=mM2HFFDTBoQ"
+    },
+    {
       "video_id": "rJrqHyojaa4",
       "title": "Marvel’s Wolverine - Ain’t No Hero Trailer I PS5 Games",
       "description": "https://www.playstation.com/en-us/games/marvels-wolverine/\n\nUnleash the rage, confront the past. With the fate of humans and mutants hanging in the balance, Logan knows the world needs a hero; however, they’ll have to settle for Wolverine.\n\nExperience thrilling set pieces throughout Wolverine’s journey in this global fight for mutant survival.\n\nMarvel’s Wolverine arrives on PlayStation 5 consoles September 15, 2026. Pre-order now. \n\n© 2026 MARVEL \n©2026 Sony Interactive Entertainment Inc. \nDeveloped by Insomniac Games, Inc. \n\n#ps5 #ps5games #wolverine #marvelswolverine",
@@ -102,9 +102,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJrqHyojaa4/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 801020,
-      "like_count": 52159,
-      "comment_count": 10298,
+      "view_count": 820967,
+      "like_count": 52852,
+      "comment_count": 10486,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -130,9 +130,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ohENF8wlWno/hqdefault.jpg",
       "duration": "PT28M22S",
       "duration_seconds": 1702,
-      "view_count": 1366570,
-      "like_count": 80832,
-      "comment_count": 1843,
+      "view_count": 1484434,
+      "like_count": 86045,
+      "comment_count": 1881,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -149,32 +149,21 @@
       "url": "https://www.youtube.com/watch?v=ohENF8wlWno"
     },
     {
-      "video_id": "mM2HFFDTBoQ",
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER | Tom Holland | Marvel Comics | Concept",
-      "description": "#SpiderManBrandNewDay #SpiderMan #Brandnewday #Marvel #Comics\n\n🎥 Attention viewers! (ITS FAN MADE)\nGet ready for the most talked-about Marvel release of the year — this Spider-Man: Brand New Day breakdown dives straight into the trailer footage, TV spots, and every clue Marvel Studios has dropped so far. Tom Holland's Peter Parker returns for a chapter that fans are already calling \"Spider-Man: New Home,\" with Zendaya back by his side and Sadie Sink bringing a fresh dynamic that's shaking up the story in ways no one expected after No Way Home. This video breaks down the trailer shot by shot in 4K, connecting comics lore, hidden easter eggs, and every hint about where Peter's journey goes next in the MCU. If you're chasing the latest Spider-Man trailer 2026 content or just want the full picture before opening weekend, this is the breakdown to watch.\n\nThe inspiration behind this video:\nSpider-Man: Brand New Day just delivered the most jaw-dropping Spider-Man Brand New Day Final Trailer t",
-      "channel_title": "TeaserCon",
-      "channel_id": "UCdIGJ48YH98rTt37mx-UsNQ",
-      "published_at": "2026-07-17T11:10:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mM2HFFDTBoQ/hqdefault.jpg",
-      "duration": "PT1M35S",
-      "duration_seconds": 95,
-      "view_count": 282582,
-      "like_count": 4248,
-      "comment_count": 185,
-      "category_id": "1",
-      "tags": [
-        "spider man brand new day",
-        "spider man brand new day trailer",
-        "spider man brand new day final trailer",
-        "spider man 2026 trailer",
-        "new spider man movie",
-        "spider man new home trailer",
-        "spider man new home",
-        "spider man no way home",
-        "marvel",
-        "tom holland"
-      ],
-      "url": "https://www.youtube.com/watch?v=mM2HFFDTBoQ"
+      "video_id": "sMzswxhSpgw",
+      "title": "Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game)",
+      "description": "The revolution begins. 🌪\n\nUse devastating airbending mixups to take your opponent's breath away... With the help of a few rebellious allies, of course. 🌊🔥💥\n\nWatch Zaheer's character reveal trailer here.\n\nSteam Pre-Order: https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/\nPS5 Pre-Order: https://store.playstation.com/en-us/concept/10018989/\nXbox Series X|S Pre-Order: https://xbox.com/en-us/games/store/avatar-legends-the-fighting-game/9ph2332vrwsf",
+      "channel_title": "AvatarFighters ",
+      "channel_id": "UCiwNNryr4nu3yT4vZUOzeBg",
+      "published_at": "2026-07-17T18:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sMzswxhSpgw/hqdefault.jpg",
+      "duration": "PT1M50S",
+      "duration_seconds": 110,
+      "view_count": 157016,
+      "like_count": 9480,
+      "comment_count": 1263,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sMzswxhSpgw"
     },
     {
       "video_id": "V4ihqFb2GpI",
@@ -186,9 +175,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V4ihqFb2GpI/hqdefault.jpg",
       "duration": "PT51M38S",
       "duration_seconds": 3098,
-      "view_count": 592290,
-      "like_count": 17442,
-      "comment_count": 899,
+      "view_count": 698818,
+      "like_count": 20267,
+      "comment_count": 971,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -196,21 +185,55 @@
       "url": "https://www.youtube.com/watch?v=V4ihqFb2GpI"
     },
     {
-      "video_id": "sMzswxhSpgw",
-      "title": "Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game)",
-      "description": "The revolution begins. 🌪\n\nUse devastating airbending mixups to take your opponent's breath away... With the help of a few rebellious allies, of course. 🌊🔥💥\n\nWatch Zaheer's character reveal trailer here.\n\nSteam Pre-Order: https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/\nPS5 Pre-Order: https://store.playstation.com/en-us/concept/10018989/\nXbox Series X|S Pre-Order: https://xbox.com/en-us/games/store/avatar-legends-the-fighting-game/9ph2332vrwsf",
-      "channel_title": "AvatarFighters ",
-      "channel_id": "UCiwNNryr4nu3yT4vZUOzeBg",
-      "published_at": "2026-07-17T18:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sMzswxhSpgw/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 149275,
-      "like_count": 9195,
-      "comment_count": 1235,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sMzswxhSpgw"
+      "video_id": "1rzFcq4oOyA",
+      "title": "Doe Boy - COME HERE (Official Music Video)",
+      "description": "Doe Boy drops the visual for \"COME HERE\" \nDirected by Fast Life Productions\n\nhttps://twitter.com/doeboyofficial\nhttps://instagram.com/doeboy\nhttps://tiktok.tv/doeboyfbg\n\n#DoeBoy #ComeHere #YoungBoyDiss",
+      "channel_title": "Doe Boy",
+      "channel_id": "UCkG0bVoMgPQGN2w3-Hr2f9g",
+      "published_at": "2026-07-18T01:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rzFcq4oOyA/hqdefault.jpg",
+      "duration": "PT2M58S",
+      "duration_seconds": 178,
+      "view_count": 74958,
+      "like_count": 7770,
+      "comment_count": 1747,
+      "category_id": "24",
+      "tags": [
+        "Doe Boy",
+        "Future",
+        "Poor Or Rich",
+        "Walk Down",
+        "Streetz Need Me 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=1rzFcq4oOyA"
+    },
+    {
+      "video_id": "ZVkrhHebz1Q",
+      "title": "THE UPRISING - Official Trailer [HD] - Only In Theaters September 11",
+      "description": "Rise or die. Andrew Garfield stars in THE UPRISING, only in theaters September 11. Watch the trailer now.\n\nAndrew Garfield stars as the legendary leader of a ferocious rebellion against the tyranny of King Richard II. As war burns across England, he forms an army of the people to face the King’s might in a fight for justice and survival.\n\nhttps://theuprising.movie/\nInstagram: https://www.instagram.com/theuprisingfilm/\nFacebook: https://www.facebook.com/uprisingthefilm\nTwitter: https://x.com/theuprisingmov\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+      "channel_title": "Focus Features",
+      "channel_id": "UCU4SM3j_9TNWaSu8KdGV50g",
+      "published_at": "2026-07-16T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZVkrhHebz1Q/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "duration_seconds": 160,
+      "view_count": 7982839,
+      "like_count": 49941,
+      "comment_count": 4404,
+      "category_id": "1",
+      "tags": [
+        "Focus Features",
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller",
+        "Woody Norman",
+        "Katherine Waterston"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZVkrhHebz1Q"
     },
     {
       "video_id": "u799DFYWKRY",
@@ -222,9 +245,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u799DFYWKRY/hqdefault.jpg",
       "duration": "PT7H38M54S",
       "duration_seconds": 27534,
-      "view_count": 722351,
-      "like_count": 21708,
-      "comment_count": 86,
+      "view_count": 730946,
+      "like_count": 21788,
+      "comment_count": 98,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u799DFYWKRY"
@@ -233,34 +256,6 @@
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "cC6ebvZg-_Q",
-      "title": "Kamigawa: Titanbreach Announce Trailer | Magic: The Gathering 2027",
-      "description": "When an Omenpath opens above the neon-lit skies of Towashi, a huge mass of Ikoria crashes through, unleashing mayhem! The people of Kamigawa must band together to stop the monsters of Ikoria that threaten to stomp, scorch, and shatter their home! \n\nFace the incursion head on when Kamigawa: Titanbreach releases on June 4, 2027.",
-      "channel_title": "Magic: The Gathering",
-      "channel_id": "UC8ZGymAvfP97qJabgqUkz4A",
-      "published_at": "2026-07-17T17:24:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cC6ebvZg-_Q/hqdefault.jpg",
-      "duration": "PT2M33S",
-      "duration_seconds": 153,
-      "view_count": 184334,
-      "like_count": 10380,
-      "comment_count": 1255,
-      "category_id": "20",
-      "tags": [
-        "magic",
-        "mtg",
-        "wizards",
-        "wotc",
-        "planeswalkers",
-        "tcg",
-        "trading card game",
-        "arena",
-        "magic the gathering",
-        "mtg arena"
-      ],
-      "url": "https://www.youtube.com/watch?v=cC6ebvZg-_Q"
-    },
-    {
       "video_id": "IRPOlmaKpYA",
       "title": "Welcome to the Game 3: Markiplier's Redemption",
       "description": "It's time to face the allegations! And it all starts by beating Welcome to the Game 3 FOR REAL!!\nI'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\n\nPlay the Game ► https://store.steampowered.com/app/3869850/Welcome_to_the_Game_III/",
@@ -270,9 +265,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IRPOlmaKpYA/hqdefault.jpg",
       "duration": "PT3H23M25S",
       "duration_seconds": 12205,
-      "view_count": 605949,
-      "like_count": 32779,
-      "comment_count": 833,
+      "view_count": 702739,
+      "like_count": 35492,
+      "comment_count": 1040,
       "category_id": "20",
       "tags": [
         "markiplier",
@@ -285,6 +280,34 @@
       "url": "https://www.youtube.com/watch?v=IRPOlmaKpYA"
     },
     {
+      "video_id": "mM2HFFDTBoQ",
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER | Tom Holland | Marvel Comics | Concept",
+      "description": "#SpiderManBrandNewDay #SpiderMan #Brandnewday #Marvel #Comics\n\n🎥 Attention viewers! (ITS FAN MADE)\nGet ready for the most talked-about Marvel release of the year — this Spider-Man: Brand New Day breakdown dives straight into the trailer footage, TV spots, and every clue Marvel Studios has dropped so far. Tom Holland's Peter Parker returns for a chapter that fans are already calling \"Spider-Man: New Home,\" with Zendaya back by his side and Sadie Sink bringing a fresh dynamic that's shaking up the story in ways no one expected after No Way Home. This video breaks down the trailer shot by shot in 4K, connecting comics lore, hidden easter eggs, and every hint about where Peter's journey goes next in the MCU. If you're chasing the latest Spider-Man trailer 2026 content or just want the full picture before opening weekend, this is the breakdown to watch.\n\nThe inspiration behind this video:\nSpider-Man: Brand New Day just delivered the most jaw-dropping Spider-Man Brand New Day Final Trailer t",
+      "channel_title": "TeaserCon",
+      "channel_id": "UCdIGJ48YH98rTt37mx-UsNQ",
+      "published_at": "2026-07-17T11:10:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mM2HFFDTBoQ/hqdefault.jpg",
+      "duration": "PT1M35S",
+      "duration_seconds": 95,
+      "view_count": 307379,
+      "like_count": 4499,
+      "comment_count": 200,
+      "category_id": "1",
+      "tags": [
+        "spider man brand new day",
+        "spider man brand new day trailer",
+        "spider man brand new day final trailer",
+        "spider man 2026 trailer",
+        "new spider man movie",
+        "spider man new home trailer",
+        "spider man new home",
+        "spider man no way home",
+        "marvel",
+        "tom holland"
+      ],
+      "url": "https://www.youtube.com/watch?v=mM2HFFDTBoQ"
+    },
+    {
       "video_id": "rJrqHyojaa4",
       "title": "Marvel’s Wolverine - Ain’t No Hero Trailer I PS5 Games",
       "description": "https://www.playstation.com/en-us/games/marvels-wolverine/\n\nUnleash the rage, confront the past. With the fate of humans and mutants hanging in the balance, Logan knows the world needs a hero; however, they’ll have to settle for Wolverine.\n\nExperience thrilling set pieces throughout Wolverine’s journey in this global fight for mutant survival.\n\nMarvel’s Wolverine arrives on PlayStation 5 consoles September 15, 2026. Pre-order now. \n\n© 2026 MARVEL \n©2026 Sony Interactive Entertainment Inc. \nDeveloped by Insomniac Games, Inc. \n\n#ps5 #ps5games #wolverine #marvelswolverine",
@@ -294,9 +317,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rJrqHyojaa4/hqdefault.jpg",
       "duration": "PT1M28S",
       "duration_seconds": 88,
-      "view_count": 801020,
-      "like_count": 52159,
-      "comment_count": 10298,
+      "view_count": 820967,
+      "like_count": 52852,
+      "comment_count": 10486,
       "category_id": "20",
       "tags": [
         "PlayStation",
@@ -322,9 +345,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ohENF8wlWno/hqdefault.jpg",
       "duration": "PT28M22S",
       "duration_seconds": 1702,
-      "view_count": 1366570,
-      "like_count": 80832,
-      "comment_count": 1843,
+      "view_count": 1484434,
+      "like_count": 86045,
+      "comment_count": 1881,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -341,32 +364,21 @@
       "url": "https://www.youtube.com/watch?v=ohENF8wlWno"
     },
     {
-      "video_id": "mM2HFFDTBoQ",
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER | Tom Holland | Marvel Comics | Concept",
-      "description": "#SpiderManBrandNewDay #SpiderMan #Brandnewday #Marvel #Comics\n\n🎥 Attention viewers! (ITS FAN MADE)\nGet ready for the most talked-about Marvel release of the year — this Spider-Man: Brand New Day breakdown dives straight into the trailer footage, TV spots, and every clue Marvel Studios has dropped so far. Tom Holland's Peter Parker returns for a chapter that fans are already calling \"Spider-Man: New Home,\" with Zendaya back by his side and Sadie Sink bringing a fresh dynamic that's shaking up the story in ways no one expected after No Way Home. This video breaks down the trailer shot by shot in 4K, connecting comics lore, hidden easter eggs, and every hint about where Peter's journey goes next in the MCU. If you're chasing the latest Spider-Man trailer 2026 content or just want the full picture before opening weekend, this is the breakdown to watch.\n\nThe inspiration behind this video:\nSpider-Man: Brand New Day just delivered the most jaw-dropping Spider-Man Brand New Day Final Trailer t",
-      "channel_title": "TeaserCon",
-      "channel_id": "UCdIGJ48YH98rTt37mx-UsNQ",
-      "published_at": "2026-07-17T11:10:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mM2HFFDTBoQ/hqdefault.jpg",
-      "duration": "PT1M35S",
-      "duration_seconds": 95,
-      "view_count": 282582,
-      "like_count": 4248,
-      "comment_count": 185,
-      "category_id": "1",
-      "tags": [
-        "spider man brand new day",
-        "spider man brand new day trailer",
-        "spider man brand new day final trailer",
-        "spider man 2026 trailer",
-        "new spider man movie",
-        "spider man new home trailer",
-        "spider man new home",
-        "spider man no way home",
-        "marvel",
-        "tom holland"
-      ],
-      "url": "https://www.youtube.com/watch?v=mM2HFFDTBoQ"
+      "video_id": "sMzswxhSpgw",
+      "title": "Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game)",
+      "description": "The revolution begins. 🌪\n\nUse devastating airbending mixups to take your opponent's breath away... With the help of a few rebellious allies, of course. 🌊🔥💥\n\nWatch Zaheer's character reveal trailer here.\n\nSteam Pre-Order: https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/\nPS5 Pre-Order: https://store.playstation.com/en-us/concept/10018989/\nXbox Series X|S Pre-Order: https://xbox.com/en-us/games/store/avatar-legends-the-fighting-game/9ph2332vrwsf",
+      "channel_title": "AvatarFighters ",
+      "channel_id": "UCiwNNryr4nu3yT4vZUOzeBg",
+      "published_at": "2026-07-17T18:58:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sMzswxhSpgw/hqdefault.jpg",
+      "duration": "PT1M50S",
+      "duration_seconds": 110,
+      "view_count": 157016,
+      "like_count": 9480,
+      "comment_count": 1263,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=sMzswxhSpgw"
     },
     {
       "video_id": "V4ihqFb2GpI",
@@ -378,9 +390,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/V4ihqFb2GpI/hqdefault.jpg",
       "duration": "PT51M38S",
       "duration_seconds": 3098,
-      "view_count": 592290,
-      "like_count": 17442,
-      "comment_count": 899,
+      "view_count": 698818,
+      "like_count": 20267,
+      "comment_count": 971,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -388,21 +400,32 @@
       "url": "https://www.youtube.com/watch?v=V4ihqFb2GpI"
     },
     {
-      "video_id": "sMzswxhSpgw",
-      "title": "Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game)",
-      "description": "The revolution begins. 🌪\n\nUse devastating airbending mixups to take your opponent's breath away... With the help of a few rebellious allies, of course. 🌊🔥💥\n\nWatch Zaheer's character reveal trailer here.\n\nSteam Pre-Order: https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/\nPS5 Pre-Order: https://store.playstation.com/en-us/concept/10018989/\nXbox Series X|S Pre-Order: https://xbox.com/en-us/games/store/avatar-legends-the-fighting-game/9ph2332vrwsf",
-      "channel_title": "AvatarFighters ",
-      "channel_id": "UCiwNNryr4nu3yT4vZUOzeBg",
-      "published_at": "2026-07-17T18:58:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sMzswxhSpgw/hqdefault.jpg",
-      "duration": "PT1M50S",
-      "duration_seconds": 110,
-      "view_count": 149275,
-      "like_count": 9195,
-      "comment_count": 1235,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=sMzswxhSpgw"
+      "video_id": "ZVkrhHebz1Q",
+      "title": "THE UPRISING - Official Trailer [HD] - Only In Theaters September 11",
+      "description": "Rise or die. Andrew Garfield stars in THE UPRISING, only in theaters September 11. Watch the trailer now.\n\nAndrew Garfield stars as the legendary leader of a ferocious rebellion against the tyranny of King Richard II. As war burns across England, he forms an army of the people to face the King’s might in a fight for justice and survival.\n\nhttps://theuprising.movie/\nInstagram: https://www.instagram.com/theuprisingfilm/\nFacebook: https://www.facebook.com/uprisingthefilm\nTwitter: https://x.com/theuprisingmov\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+      "channel_title": "Focus Features",
+      "channel_id": "UCU4SM3j_9TNWaSu8KdGV50g",
+      "published_at": "2026-07-16T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZVkrhHebz1Q/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "duration_seconds": 160,
+      "view_count": 7982839,
+      "like_count": 49941,
+      "comment_count": 4404,
+      "category_id": "1",
+      "tags": [
+        "Focus Features",
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller",
+        "Woody Norman",
+        "Katherine Waterston"
+      ],
+      "url": "https://www.youtube.com/watch?v=ZVkrhHebz1Q"
     },
     {
       "video_id": "u799DFYWKRY",
@@ -414,9 +437,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/u799DFYWKRY/hqdefault.jpg",
       "duration": "PT7H38M54S",
       "duration_seconds": 27534,
-      "view_count": 722351,
-      "like_count": 21708,
-      "comment_count": 86,
+      "view_count": 730946,
+      "like_count": 21788,
+      "comment_count": 98,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=u799DFYWKRY"
@@ -431,9 +454,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7_Eo7_5_FiM/hqdefault.jpg",
       "duration": "PT38S",
       "duration_seconds": 38,
-      "view_count": 42892,
-      "like_count": 902,
-      "comment_count": 330,
+      "view_count": 45029,
+      "like_count": 919,
+      "comment_count": 334,
       "category_id": "24",
       "tags": [
         "Review",
@@ -448,95 +471,119 @@
         "Spoiler"
       ],
       "url": "https://www.youtube.com/watch?v=7_Eo7_5_FiM"
+    },
+    {
+      "video_id": "1rzFcq4oOyA",
+      "title": "Doe Boy - COME HERE (Official Music Video)",
+      "description": "Doe Boy drops the visual for \"COME HERE\" \nDirected by Fast Life Productions\n\nhttps://twitter.com/doeboyofficial\nhttps://instagram.com/doeboy\nhttps://tiktok.tv/doeboyfbg\n\n#DoeBoy #ComeHere #YoungBoyDiss",
+      "channel_title": "Doe Boy",
+      "channel_id": "UCkG0bVoMgPQGN2w3-Hr2f9g",
+      "published_at": "2026-07-18T01:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rzFcq4oOyA/hqdefault.jpg",
+      "duration": "PT2M58S",
+      "duration_seconds": 178,
+      "view_count": 74958,
+      "like_count": 7770,
+      "comment_count": 1747,
+      "category_id": "24",
+      "tags": [
+        "Doe Boy",
+        "Future",
+        "Poor Or Rich",
+        "Walk Down",
+        "Streetz Need Me 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=1rzFcq4oOyA"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "total_videos": 9,
-      "total_views": 4747263,
-      "average_views_per_video": 527474,
-      "content_trends": {
-        "gaming": {
-          "presence": 44.4,
-          "videos": [
-            "Kamigawa: Titanbreach Announce Trailer | Magic: The Gathering 2027",
-            "Welcome to the Game 3: Markiplier's Redemption",
-            "Marvel’s Wolverine - Ain’t No Hero Trailer I PS5 Games",
-            "Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game)"
-          ]
-        },
-        "entertainment": {
-          "presence": 33.3,
-          "videos": [
-            "THE CHI SEASON 8 EPISODE 10 TRAILER!!! SERIES FINALE!!!",
-            "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER | Tom Holland | Marvel Comics | Concept",
-            "OpTic TEXAS VS GENTLE MATES!! SCUMP WATCH PARTY - CDL CHAMPS VEGAS DAY 2"
-          ]
-        },
-        "unique/controversial": {
-          "presence": 22.2,
-          "videos": [
-            "Trying to Survive The End of The World",
-            "Building A Nuclear Bomb In My Backyard"
+      "trending_patterns": {
+        "observations": [
+          {
+            "type": "entertainment",
+            "description": "A significant portion of the trending videos are related to entertainment, such as TV series, gaming, and movies. This is indicated by titles mentioning series finales, game trailers, and concept movie trailers."
+          },
+          {
+            "type": "gaming",
+            "description": "Multiple videos are related to gaming, with titles like 'Welcome to the Game 3', 'Marvel’s Wolverine', and 'Zaheer Character Reveal Trailer'. This suggests a strong interest in gaming content."
+          },
+          {
+            "type": "music",
+            "description": "There is a presence of music-related content, as seen in the video titled 'Doe Boy - COME HERE (Official Music Video)'."
+          },
+          {
+            "type": "current events",
+            "description": "The video 'OpTic TEXAS VS GENTLE MATES!! SCUMP WATCH PARTY' suggests a trend towards live events and watch parties, especially in the context of competitive gaming."
+          }
+        ],
+        "data_analysis": {
+          "average_views_per_video": 1300512.5,
+          "dominant_content_type": "Entertainment/Gaming",
+          "notable_channels": [
+            {
+              "name": "MarcDarkTV",
+              "content_focus": "TV Series",
+              "trending_video": "THE CHI SEASON 8 EPISODE 10 TRAILER!!! SERIES FINALE!!!"
+            },
+            {
+              "name": "Markiplier",
+              "content_focus": "Gaming",
+              "trending_video": "Welcome to the Game 3: Markiplier's Redemption"
+            },
+            {
+              "name": "TeaserCon",
+              "content_focus": "Movies",
+              "trending_video": "SPIDER-MAN: BRAND NEW DAY (2026) FINAL TRAILER"
+            }
           ]
         }
       },
       "creator_patterns": {
-        "single_video_channels": 100,
-        "influential_channels": [
-          "Magic: The Gathering",
-          "Markiplier",
-          "PlayStation"
-        ]
-      },
-      "market_opportunities": {
-        "gaming": {
-          "trend": "high",
-          "opportunity": "High demand for gaming trailers and announcements. Significant engagement from high-profile gaming channels."
-        },
-        "entertainment": {
-          "trend": "steady",
-          "opportunity": "Continued interest in TV and movie trailers, particularly series finales and concept trailers."
-        },
-        "unique/controversial": {
-          "trend": "emerging",
-          "opportunity": "Growing interest in unique or controversial content, offering potential for viral engagement."
-        }
-      },
-      "actionable_insights": {
-        "focus_areas": [
+        "observations": [
           {
-            "category": "gaming",
-            "action": "Increase production of gaming-related content, focusing on trailers and game updates."
+            "type": "individual creators",
+            "description": "Channels like Markiplier and SMii7Yplus suggest a trend of individual content creators making an impact in the trending list, particularly in gaming and reaction content."
           },
           {
-            "category": "entertainment",
-            "action": "Develop content around trending TV series finales and movie concepts to attract engagement."
-          },
-          {
-            "category": "unique/controversial",
-            "action": "Experiment with unique or controversial topics to capture emerging audience interest."
+            "type": "official channels",
+            "description": "Official channels such as PlayStation and TeaserCon indicate the influence of official trailers and promotional content on trending patterns."
           }
         ],
-        "collaboration_suggestions": [
+        "opportunities": {
+          "collaboration": "Collaborations between individual creators and official channels could boost visibility and engagement, particularly in gaming and entertainment sectors."
+        }
+      },
+      "market_opportunities": {
+        "emerging_trends": [
           {
-            "channel": "Magic: The Gathering",
-            "suggestion": "Collaborate on gaming content for mutual audience growth."
+            "trend": "live events/watch parties",
+            "description": "There is a growing interest in live events and watch parties, especially related to gaming and sports. Brands and creators can capitalize on this by hosting more interactive live streams."
           },
           {
-            "channel": "Markiplier",
-            "suggestion": "Leverage Markiplier's reach for new game announcements or reviews."
+            "trend": "concept trailers",
+            "description": "Concept trailers for upcoming movies or games, even unofficial ones, are gaining traction. There is potential for creators to explore this format to engage audiences with speculative content."
+          }
+        ],
+        "strategic_recommendations": [
+          {
+            "strategy": "focus on cross-platform promotion",
+            "description": "Leverage social media platforms to promote upcoming releases and trailers, as this appears to drive interest and engagement on YouTube."
+          },
+          {
+            "strategy": "expand into niche gaming content",
+            "description": "Given the popularity of gaming content, creators and brands should explore niche gaming topics or lesser-known games to capture dedicated audiences."
           }
         ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 527473
+        "avg_views_per_video": 1300512
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
