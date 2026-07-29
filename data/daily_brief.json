@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-29T15:41:40.588793",
+  "timestamp": "2026-07-29T18:27:32.182112",
   "date": "2026-07-29",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 5,
     "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 3913042,
-      "like_count": 175448,
-      "comment_count": 8758,
+      "view_count": 4349682,
+      "like_count": 185926,
+      "comment_count": 9152,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n4P9ymOBtt0/hqdefault.jpg",
       "duration": "PT3H21M37S",
       "duration_seconds": 12097,
-      "view_count": 632528,
-      "like_count": 14030,
-      "comment_count": 678,
+      "view_count": 676853,
+      "like_count": 14713,
+      "comment_count": 702,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -49,109 +49,32 @@
       "url": "https://www.youtube.com/watch?v=n4P9ymOBtt0"
     },
     {
-      "video_id": "GACU1N9hg5o",
-      "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
-      "description": "From executive producers Bill Lawrence and Jason Sudeikis, Ted Lasso follows an American football coach hired to manage a British soccer team - despite having no experience. \n\nFeels good to be back. \n\nTed Lasso returns August 5. https://apple.co/_TedLasso\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJFAQ: \n\nWhen does Ted Lasso premiere? \nTed Lasso premieres August 5 on Apple TV.\n\nWhere can I watch Ted Lasso?\nWatch Ted Lasso on Apple TV.\n\nWho stars in Ted Lasso?\nTed Lasso features Jason Sudeikis, Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift.\n\nWhat is Ted Lasso about? \nJason Sudeikis is Ted Lasso, an American football coach hired to manage a British soccer",
-      "channel_title": "Apple TV",
-      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
-      "published_at": "2026-07-28T12:59:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
-      "duration": "PT1M8S",
-      "duration_seconds": 68,
-      "view_count": 1854093,
-      "like_count": 18868,
-      "comment_count": 792,
+      "video_id": "lb3fvMJMadk",
+      "title": "Outer Banks: Season 5 | Official Trailer | Netflix",
+      "description": "Every summer led to this. The final season of Outer Banks premieres August 20, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81706626\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOuter Banks: Season 5 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAfter losing one of their own, the Pogues chase revenge and redemption as they pursue a stolen artifact with the power to change their fortunes.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-07-29T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lb3fvMJMadk/hqdefault.jpg",
+      "duration": "PT2M8S",
+      "duration_seconds": 128,
+      "view_count": 278035,
+      "like_count": 19755,
+      "comment_count": 1055,
       "category_id": "24",
       "tags": [
-        "ted lasso",
-        "ted",
-        "lasso",
-        "ted lasso season 4",
-        "season 4",
-        "trailer",
-        "trailers",
-        "ted lasso trailer",
-        "official trailer",
-        "ted lasso official trailer"
+        "Adventure",
+        "Austin North",
+        "Carlacia Grant",
+        "Carolina",
+        "Charleston",
+        "Chase Stokes",
+        "Cleo",
+        "Drama",
+        "Drew Starkey",
+        "Fiona Palomo"
       ],
-      "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
-    },
-    {
-      "video_id": "lIpP0ECcZHM",
-      "title": "Quitting EVERYTHING for this.",
-      "description": "Today I turn a new leaf. Forever.",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-29T03:34:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
-      "duration": "PT20M4S",
-      "duration_seconds": 1204,
-      "view_count": 424912,
-      "like_count": 32227,
-      "comment_count": 3812,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
-    },
-    {
-      "video_id": "KtH3MqUmnws",
-      "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
-      "description": "You heard him! Spider-Man is returning to Fortnite, and we’ve got an exclusive look at Spider-Man: Brand New Day, exclusively in theaters July 31st. Web Shooter gameplay returns August 1!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-28T21:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
-      "duration": "PT2M40S",
-      "duration_seconds": 160,
-      "view_count": 686403,
-      "like_count": 42595,
-      "comment_count": 2502,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
-    },
-    {
-      "video_id": "3m9TJYEpjzM",
-      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-29T08:49:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
-      "duration": "PT4H26M42S",
-      "duration_seconds": 16002,
-      "view_count": 249816,
-      "like_count": 4042,
-      "comment_count": 52,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
-    },
-    {
-      "video_id": "DIzuIkGeJk8",
-      "title": "TopOppGen - take that risk (Official Music Video)",
-      "description": "Purchase tickets to the tour here -https://drop.cobrand.com/d/TopOppGen/PDNROMETour\n\nFollow TopOppGen\nInstagram https://www.instagram.com/eyeammusic6/\nTikTok https://www.tiktok.com/@snapchatghost79\nSoundcloud https://soundcloud.com/topoppgen",
-      "channel_title": "Topoppgen",
-      "channel_id": "UCOBVHHugHl1EI3R5Zxs3fyA",
-      "published_at": "2026-07-28T19:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DIzuIkGeJk8/hqdefault.jpg",
-      "duration": "PT2M29S",
-      "duration_seconds": 149,
-      "view_count": 66678,
-      "like_count": 8579,
-      "comment_count": 492,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DIzuIkGeJk8"
+      "url": "https://www.youtube.com/watch?v=lb3fvMJMadk"
     },
     {
       "video_id": "gnm4HgIAVmU",
@@ -163,9 +86,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 117718,
-      "like_count": 8553,
-      "comment_count": 1003,
+      "view_count": 1059310,
+      "like_count": 14108,
+      "comment_count": 1626,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -182,6 +105,94 @@
       "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU"
     },
     {
+      "video_id": "lIpP0ECcZHM",
+      "title": "Quitting EVERYTHING for this.",
+      "description": "Today I turn a new leaf. Forever.",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-29T03:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
+      "duration": "PT20M4S",
+      "duration_seconds": 1204,
+      "view_count": 507057,
+      "like_count": 36334,
+      "comment_count": 4038,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
+    },
+    {
+      "video_id": "GACU1N9hg5o",
+      "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+      "description": "From executive producers Bill Lawrence and Jason Sudeikis, Ted Lasso follows an American football coach hired to manage a British soccer team - despite having no experience. \n\nFeels good to be back. \n\nTed Lasso returns August 5. https://apple.co/_TedLasso\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJFAQ: \n\nWhen does Ted Lasso premiere? \nTed Lasso premieres August 5 on Apple TV.\n\nWhere can I watch Ted Lasso?\nWatch Ted Lasso on Apple TV.\n\nWho stars in Ted Lasso?\nTed Lasso features Jason Sudeikis, Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift.\n\nWhat is Ted Lasso about? \nJason Sudeikis is Ted Lasso, an American football coach hired to manage a British soccer",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-07-28T12:59:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
+      "duration": "PT1M8S",
+      "duration_seconds": 68,
+      "view_count": 1971935,
+      "like_count": 19347,
+      "comment_count": 812,
+      "category_id": "24",
+      "tags": [
+        "ted lasso",
+        "ted",
+        "lasso",
+        "ted lasso season 4",
+        "season 4",
+        "trailer",
+        "trailers",
+        "ted lasso trailer",
+        "official trailer",
+        "ted lasso official trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
+    },
+    {
+      "video_id": "3m9TJYEpjzM",
+      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-29T08:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
+      "duration": "PT4H26M42S",
+      "duration_seconds": 16002,
+      "view_count": 260219,
+      "like_count": 4146,
+      "comment_count": 80,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
+    },
+    {
+      "video_id": "KtH3MqUmnws",
+      "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
+      "description": "You heard him! Spider-Man is returning to Fortnite, and we’ve got an exclusive look at Spider-Man: Brand New Day, exclusively in theaters July 31st. Web Shooter gameplay returns August 1!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-07-28T21:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "duration_seconds": 160,
+      "view_count": 724500,
+      "like_count": 43442,
+      "comment_count": 2552,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
+    },
+    {
       "video_id": "CybH1qwKN-Y",
       "title": "This Might Be The Best Backrooms Game...",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 55:25 - Your Happy Place \n55:25 - 1:07:52 - Neighborhood Nightmares \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -191,9 +202,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CybH1qwKN-Y/hqdefault.jpg",
       "duration": "PT1H7M53S",
       "duration_seconds": 4073,
-      "view_count": 484964,
-      "like_count": 23774,
-      "comment_count": 1583,
+      "view_count": 544271,
+      "like_count": 25979,
+      "comment_count": 1688,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -208,23 +219,6 @@
         "jumpscare"
       ],
       "url": "https://www.youtube.com/watch?v=CybH1qwKN-Y"
-    },
-    {
-      "video_id": "HnWvg90lQt8",
-      "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
-      "description": "From visionary filmmaker Gina Prince-Bythewood, the world of Orïsha comes to life. Watch the Official Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027.\n\nIn  the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule. Directed by Gina Prince-Bythewood, CHILDREN OF BLOOD AND BONE features a stellar cast including Thuso Mbedu, Damson Idris, Amandla Stenberg, Tosin Cole, featuring Academy Award® nominee Cynthia Erivo, Lashana Lynch, Zackary Momoh, Richard Mofe-Damijo, Academy Award®  nominee Chiwetel Ejiofor, Academy Award®  winner Regina King, with Idris Elba and Academy Award®  winner Viola Davis.\n\nConnect with #ChildrenOfBloodAndBone \nWebsite: childrenofbloodandbone.movie\nInstagram: https://www.instagram.com/ChildrenofBloodandBone/\nX: https://x.com/ChildrenofBandB\nFacebook: https://www.fa",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-07-28T13:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
-      "duration": "PT2M53S",
-      "duration_seconds": 173,
-      "view_count": 6372384,
-      "like_count": 30346,
-      "comment_count": 4667,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HnWvg90lQt8"
     }
   ],
   "videos_with_transcripts": [],
@@ -239,9 +233,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 3913042,
-      "like_count": 175448,
-      "comment_count": 8758,
+      "view_count": 4349682,
+      "like_count": 185926,
+      "comment_count": 9152,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
@@ -256,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n4P9ymOBtt0/hqdefault.jpg",
       "duration": "PT3H21M37S",
       "duration_seconds": 12097,
-      "view_count": 632528,
-      "like_count": 14030,
-      "comment_count": 678,
+      "view_count": 676853,
+      "like_count": 14713,
+      "comment_count": 702,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -266,92 +260,32 @@
       "url": "https://www.youtube.com/watch?v=n4P9ymOBtt0"
     },
     {
-      "video_id": "GACU1N9hg5o",
-      "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
-      "description": "From executive producers Bill Lawrence and Jason Sudeikis, Ted Lasso follows an American football coach hired to manage a British soccer team - despite having no experience. \n\nFeels good to be back. \n\nTed Lasso returns August 5. https://apple.co/_TedLasso\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJFAQ: \n\nWhen does Ted Lasso premiere? \nTed Lasso premieres August 5 on Apple TV.\n\nWhere can I watch Ted Lasso?\nWatch Ted Lasso on Apple TV.\n\nWho stars in Ted Lasso?\nTed Lasso features Jason Sudeikis, Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift.\n\nWhat is Ted Lasso about? \nJason Sudeikis is Ted Lasso, an American football coach hired to manage a British soccer",
-      "channel_title": "Apple TV",
-      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
-      "published_at": "2026-07-28T12:59:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
-      "duration": "PT1M8S",
-      "duration_seconds": 68,
-      "view_count": 1854093,
-      "like_count": 18868,
-      "comment_count": 792,
+      "video_id": "lb3fvMJMadk",
+      "title": "Outer Banks: Season 5 | Official Trailer | Netflix",
+      "description": "Every summer led to this. The final season of Outer Banks premieres August 20, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81706626\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOuter Banks: Season 5 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAfter losing one of their own, the Pogues chase revenge and redemption as they pursue a stolen artifact with the power to change their fortunes.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-07-29T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lb3fvMJMadk/hqdefault.jpg",
+      "duration": "PT2M8S",
+      "duration_seconds": 128,
+      "view_count": 278035,
+      "like_count": 19755,
+      "comment_count": 1055,
       "category_id": "24",
       "tags": [
-        "ted lasso",
-        "ted",
-        "lasso",
-        "ted lasso season 4",
-        "season 4",
-        "trailer",
-        "trailers",
-        "ted lasso trailer",
-        "official trailer",
-        "ted lasso official trailer"
+        "Adventure",
+        "Austin North",
+        "Carlacia Grant",
+        "Carolina",
+        "Charleston",
+        "Chase Stokes",
+        "Cleo",
+        "Drama",
+        "Drew Starkey",
+        "Fiona Palomo"
       ],
-      "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
-    },
-    {
-      "video_id": "lIpP0ECcZHM",
-      "title": "Quitting EVERYTHING for this.",
-      "description": "Today I turn a new leaf. Forever.",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-29T03:34:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
-      "duration": "PT20M4S",
-      "duration_seconds": 1204,
-      "view_count": 424912,
-      "like_count": 32227,
-      "comment_count": 3812,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
-    },
-    {
-      "video_id": "KtH3MqUmnws",
-      "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
-      "description": "You heard him! Spider-Man is returning to Fortnite, and we’ve got an exclusive look at Spider-Man: Brand New Day, exclusively in theaters July 31st. Web Shooter gameplay returns August 1!",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-28T21:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
-      "duration": "PT2M40S",
-      "duration_seconds": 160,
-      "view_count": 686403,
-      "like_count": 42595,
-      "comment_count": 2502,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
-    },
-    {
-      "video_id": "3m9TJYEpjzM",
-      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-29T08:49:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
-      "duration": "PT4H26M42S",
-      "duration_seconds": 16002,
-      "view_count": 249816,
-      "like_count": 4042,
-      "comment_count": 52,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
+      "url": "https://www.youtube.com/watch?v=lb3fvMJMadk"
     },
     {
       "video_id": "gnm4HgIAVmU",
@@ -363,9 +297,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 117718,
-      "like_count": 8553,
-      "comment_count": 1003,
+      "view_count": 1059310,
+      "like_count": 14108,
+      "comment_count": 1626,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -382,6 +316,94 @@
       "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU"
     },
     {
+      "video_id": "lIpP0ECcZHM",
+      "title": "Quitting EVERYTHING for this.",
+      "description": "Today I turn a new leaf. Forever.",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-29T03:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
+      "duration": "PT20M4S",
+      "duration_seconds": 1204,
+      "view_count": 507057,
+      "like_count": 36334,
+      "comment_count": 4038,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
+    },
+    {
+      "video_id": "GACU1N9hg5o",
+      "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+      "description": "From executive producers Bill Lawrence and Jason Sudeikis, Ted Lasso follows an American football coach hired to manage a British soccer team - despite having no experience. \n\nFeels good to be back. \n\nTed Lasso returns August 5. https://apple.co/_TedLasso\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nThreads: https://threads.com/@AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJFAQ: \n\nWhen does Ted Lasso premiere? \nTed Lasso premieres August 5 on Apple TV.\n\nWhere can I watch Ted Lasso?\nWatch Ted Lasso on Apple TV.\n\nWho stars in Ted Lasso?\nTed Lasso features Jason Sudeikis, Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift.\n\nWhat is Ted Lasso about? \nJason Sudeikis is Ted Lasso, an American football coach hired to manage a British soccer",
+      "channel_title": "Apple TV",
+      "channel_id": "UC1Myj674wRVXB9I4c6Hm5zA",
+      "published_at": "2026-07-28T12:59:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
+      "duration": "PT1M8S",
+      "duration_seconds": 68,
+      "view_count": 1971935,
+      "like_count": 19347,
+      "comment_count": 812,
+      "category_id": "24",
+      "tags": [
+        "ted lasso",
+        "ted",
+        "lasso",
+        "ted lasso season 4",
+        "season 4",
+        "trailer",
+        "trailers",
+        "ted lasso trailer",
+        "official trailer",
+        "ted lasso official trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
+    },
+    {
+      "video_id": "3m9TJYEpjzM",
+      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-29T08:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
+      "duration": "PT4H26M42S",
+      "duration_seconds": 16002,
+      "view_count": 260219,
+      "like_count": 4146,
+      "comment_count": 80,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
+    },
+    {
+      "video_id": "KtH3MqUmnws",
+      "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
+      "description": "You heard him! Spider-Man is returning to Fortnite, and we’ve got an exclusive look at Spider-Man: Brand New Day, exclusively in theaters July 31st. Web Shooter gameplay returns August 1!",
+      "channel_title": "Fortnite",
+      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
+      "published_at": "2026-07-28T21:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "duration_seconds": 160,
+      "view_count": 724500,
+      "like_count": 43442,
+      "comment_count": 2552,
+      "category_id": "20",
+      "tags": [
+        "yt:cc=on"
+      ],
+      "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
+    },
+    {
       "video_id": "CybH1qwKN-Y",
       "title": "This Might Be The Best Backrooms Game...",
       "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 55:25 - Your Happy Place \n55:25 - 1:07:52 - Neighborhood Nightmares \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -391,9 +413,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CybH1qwKN-Y/hqdefault.jpg",
       "duration": "PT1H7M53S",
       "duration_seconds": 4073,
-      "view_count": 484964,
-      "like_count": 23774,
-      "comment_count": 1583,
+      "view_count": 544271,
+      "like_count": 25979,
+      "comment_count": 1688,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -408,110 +430,80 @@
         "jumpscare"
       ],
       "url": "https://www.youtube.com/watch?v=CybH1qwKN-Y"
-    },
-    {
-      "video_id": "HnWvg90lQt8",
-      "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
-      "description": "From visionary filmmaker Gina Prince-Bythewood, the world of Orïsha comes to life. Watch the Official Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027.\n\nIn  the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule. Directed by Gina Prince-Bythewood, CHILDREN OF BLOOD AND BONE features a stellar cast including Thuso Mbedu, Damson Idris, Amandla Stenberg, Tosin Cole, featuring Academy Award® nominee Cynthia Erivo, Lashana Lynch, Zackary Momoh, Richard Mofe-Damijo, Academy Award®  nominee Chiwetel Ejiofor, Academy Award®  winner Regina King, with Idris Elba and Academy Award®  winner Viola Davis.\n\nConnect with #ChildrenOfBloodAndBone \nWebsite: childrenofbloodandbone.movie\nInstagram: https://www.instagram.com/ChildrenofBloodandBone/\nX: https://x.com/ChildrenofBandB\nFacebook: https://www.fa",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-07-28T13:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
-      "duration": "PT2M53S",
-      "duration_seconds": 173,
-      "view_count": 6372384,
-      "like_count": 30346,
-      "comment_count": 4667,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HnWvg90lQt8"
-    },
-    {
-      "video_id": "DIzuIkGeJk8",
-      "title": "TopOppGen - take that risk (Official Music Video)",
-      "description": "Purchase tickets to the tour here -https://drop.cobrand.com/d/TopOppGen/PDNROMETour\n\nFollow TopOppGen\nInstagram https://www.instagram.com/eyeammusic6/\nTikTok https://www.tiktok.com/@snapchatghost79\nSoundcloud https://soundcloud.com/topoppgen",
-      "channel_title": "Topoppgen",
-      "channel_id": "UCOBVHHugHl1EI3R5Zxs3fyA",
-      "published_at": "2026-07-28T19:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DIzuIkGeJk8/hqdefault.jpg",
-      "duration": "PT2M29S",
-      "duration_seconds": 149,
-      "view_count": 66678,
-      "like_count": 8579,
-      "comment_count": 492,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=DIzuIkGeJk8"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "dominant_themes": [
-          "Entertainment Trailers",
-          "Gaming",
-          "Music",
-          "Fantasy and Sci-Fi"
-        ],
-        "emerging_trends": [
-          {
-            "theme": "Interactive Gaming Content",
-            "evidence": [
-              "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
-              "This Might Be The Best Backrooms Game...",
-              "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE"
-            ],
-            "insights": "There is a notable interest in gaming content, both in traditional video format and live streams, indicating opportunities for creators to explore interactive and live content formats."
-          },
-          {
-            "theme": "Cinematic Trailers",
-            "evidence": [
+        "video_themes": {
+          "entertainment": {
+            "count": 5,
+            "examples": [
               "JUMANJI: OPEN WORLD - Official Trailer (4K)",
-              "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+              "Outer Banks: Season 5 | Official Trailer | Netflix",
               "The Thomas Crown Affair | Official Teaser Trailer",
-              "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg"
+              "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+              "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite"
             ],
-            "insights": "Trailers for upcoming movies and TV series continue to engage audiences effectively, creating pre-release buzz. There is potential for ancillary content such as behind-the-scenes clips, interviews, and fan theory discussions."
+            "insight": "There is a clear dominance of entertainment-based content, specifically official trailers and teasers for upcoming movies and series. This suggests a strong viewer interest in upcoming releases and popular franchises."
+          },
+          "gaming": {
+            "count": 2,
+            "examples": [
+              "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+              "This Might Be The Best Backrooms Game..."
+            ],
+            "insight": "Gaming content remains a staple in trending videos. The focus on live streams and gameplay suggests an engaged audience interested in interactive and immersive content."
+          },
+          "mystery/horror": {
+            "count": 1,
+            "example": "Don’t Let The Skinwalkers In… [Shift At Midnight]",
+            "insight": "Niche horror and mystery-themed content also attract viewership, indicating a diverse audience base that enjoys varied genres."
+          },
+          "personal/journey": {
+            "count": 1,
+            "example": "Quitting EVERYTHING for this.",
+            "insight": "Content that revolves around personal stories or significant life changes can capture viewer interest by appealing to emotions and curiosity."
           }
-        ]
+        }
       },
       "creator_patterns": {
-        "popular_channels": [
-          "Sony Pictures Entertainment",
-          "Apple TV",
-          "Fortnite"
-        ],
-        "insights": "Channels with established entertainment brands maintain strong viewer engagement. New creators can collaborate with such brands or focus on niche markets to gain traction."
+        "dominant_chains": {
+          "Sony Pictures Entertainment": {
+            "video_count": 1,
+            "category": "Entertainment",
+            "insight": "Major studios like Sony are leveraging YouTube for high-quality trailer releases, capitalizing on the platform's reach to build anticipation for new projects."
+          },
+          "other_channels": {
+            "examples": [
+              "Joe Bart Games",
+              "Netflix",
+              "Amazon MGM Studios",
+              "Flamingo"
+            ],
+            "insight": "A mix of corporate entities and individual creators indicates a diverse content ecosystem. While companies focus on promotional material, individual creators offer unique, personality-driven content."
+          }
+        }
       },
       "market_opportunities": {
-        "expanding_categories": [
-          "Fantasy and Sci-Fi",
-          "Interactive Gaming",
-          "Music Videos"
-        ],
-        "recommendations": [
-          {
-            "strategy": "Capitalize on Gaming Crossover Content",
-            "details": "Given the popularity of gaming-related videos, creators can explore crossover content that merges gaming with other genres, such as interactive movie experiences or music video games."
-          },
-          {
-            "strategy": "Leverage Emerging Sci-Fi and Fantasy Narratives",
-            "details": "High interest in fantasy and sci-fi trailers suggests a growing audience for these genres. Content creators can develop series or discussion content around upcoming releases to attract fans of these genres."
-          },
-          {
-            "strategy": "Utilize Powerful Brand Collaborations",
-            "details": "Collaborating with recognized brands (e.g., Sony Pictures, Apple TV) can provide significant visibility and credibility, particularly for content related to entertainment and popular culture."
-          }
-        ]
+        "content_expansion": {
+          "opportunity": "Focusing on cross-genre content that blends entertainment with interactive engagement, such as interactive trailers or gamified experiences, could capture cross-segment audiences."
+        },
+        "collaboration": {
+          "opportunity": "Opportunities for collaboration between major studios and influential YouTubers could leverage wider reach and credibility, fostering community engagement and expanding audience base."
+        },
+        "niche_exploration": {
+          "opportunity": "Exploring niche genres such as horror or personal journey stories can tap into less saturated markets, attracting loyal niche audiences."
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1480253
+        "avg_views_per_video": 1152429
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
