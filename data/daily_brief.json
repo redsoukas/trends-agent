@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-29T09:57:25.239742",
+  "timestamp": "2026-07-29T12:49:41.727778",
   "date": "2026-07-29",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 4,
-    "high_potential_videos": 9,
+    "high_potential_videos": 8,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 2819580,
-      "like_count": 142025,
-      "comment_count": 7240,
+      "view_count": 3345225,
+      "like_count": 159964,
+      "comment_count": 8062,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n4P9ymOBtt0/hqdefault.jpg",
       "duration": "PT3H21M37S",
       "duration_seconds": 12097,
-      "view_count": 539532,
-      "like_count": 12687,
-      "comment_count": 634,
+      "view_count": 578514,
+      "like_count": 13300,
+      "comment_count": 653,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -58,9 +58,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1523642,
-      "like_count": 17921,
-      "comment_count": 756,
+      "view_count": 1701985,
+      "like_count": 18340,
+      "comment_count": 779,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -77,24 +77,25 @@
       "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
     },
     {
-      "video_id": "lIpP0ECcZHM",
-      "title": "Quitting EVERYTHING for this.",
-      "description": "Today I turn a new leaf. Forever.",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-29T03:34:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
-      "duration": "PT20M4S",
-      "duration_seconds": 1204,
-      "view_count": 251559,
-      "like_count": 22947,
-      "comment_count": 3331,
+      "video_id": "3m9TJYEpjzM",
+      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-29T08:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
+      "duration": "PT4H26M42S",
+      "duration_seconds": 16002,
+      "view_count": 236039,
+      "like_count": 3875,
+      "comment_count": 23,
       "category_id": "20",
       "tags": [
-        "Family",
-        "friendly"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
+      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
     },
     {
       "video_id": "DIzuIkGeJk8",
@@ -106,9 +107,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DIzuIkGeJk8/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 59355,
-      "like_count": 7748,
-      "comment_count": 452,
+      "view_count": 62240,
+      "like_count": 8078,
+      "comment_count": 460,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DIzuIkGeJk8"
@@ -123,9 +124,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 608825,
-      "like_count": 40612,
-      "comment_count": 2416,
+      "view_count": 646751,
+      "like_count": 41584,
+      "comment_count": 2461,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
@@ -133,56 +134,24 @@
       "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
     },
     {
-      "video_id": "vQ2jNNbh1TU",
-      "title": "NBA 2K27: Official Gameplay Trailer",
-      "description": "You. Know. What. Time. It. Is. 🎮 ⚡\n\nThe Official Gameplay Trailer is here! 🔥\n\nPre-order NBA 2K27 now!\n\nhttps://nba.2k.com/2k27/buy/",
-      "channel_title": "NBA 2K",
-      "channel_id": "UCYAJjqIukwm4r3GHEpJDhVw",
-      "published_at": "2026-07-28T15:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vQ2jNNbh1TU/hqdefault.jpg",
-      "duration": "PT2M22S",
-      "duration_seconds": 142,
-      "view_count": 414476,
-      "like_count": 8130,
-      "comment_count": 1284,
+      "video_id": "lIpP0ECcZHM",
+      "title": "Quitting EVERYTHING for this.",
+      "description": "Today I turn a new leaf. Forever.",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-29T03:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
+      "duration": "PT20M4S",
+      "duration_seconds": 1204,
+      "view_count": 327882,
+      "like_count": 27652,
+      "comment_count": 3579,
       "category_id": "20",
       "tags": [
-        "NBA",
-        "NBA2K",
-        "2K",
-        "Basketball",
-        "NBA2K26",
-        "2K26"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=vQ2jNNbh1TU"
-    },
-    {
-      "video_id": "CybH1qwKN-Y",
-      "title": "This Might Be The Best Backrooms Game...",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 55:25 - Your Happy Place \n55:25 - 1:07:52 - Neighborhood Nightmares \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-28T22:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CybH1qwKN-Y/hqdefault.jpg",
-      "duration": "PT1H7M53S",
-      "duration_seconds": 4073,
-      "view_count": 359326,
-      "like_count": 18607,
-      "comment_count": 1374,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=CybH1qwKN-Y"
+      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
     },
     {
       "video_id": "HnWvg90lQt8",
@@ -194,33 +163,64 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
       "duration": "PT2M53S",
       "duration_seconds": 173,
-      "view_count": 5859310,
-      "like_count": 28190,
-      "comment_count": 4335,
+      "view_count": 6065465,
+      "like_count": 29175,
+      "comment_count": 4496,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=HnWvg90lQt8"
     },
     {
-      "video_id": "7tz1JyMfDxk",
-      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-29T04:13:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7tz1JyMfDxk/hqdefault.jpg",
-      "duration": "PT3H44M57S",
-      "duration_seconds": 13497,
-      "view_count": 338941,
-      "like_count": 5414,
-      "comment_count": 76,
+      "video_id": "l0NnPltSyoQ",
+      "title": "roblox best gameplay",
+      "description": "roblox insane moment aura #roblox #shorts #usa",
+      "channel_title": "StanRP",
+      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
+      "published_at": "2026-07-29T05:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l0NnPltSyoQ/hqdefault.jpg",
+      "duration": "PT13S",
+      "duration_seconds": 13,
+      "view_count": 363451,
+      "like_count": 2907,
+      "comment_count": 1,
       "category_id": "20",
       "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
+        "roblox",
+        "granny",
+        "free fire",
+        "live roblox",
+        "roblox shorts",
+        "shorts feed",
+        "67",
+        "six seven",
+        "meme reset",
+        "singing brainrot song"
       ],
-      "url": "https://www.youtube.com/watch?v=7tz1JyMfDxk"
+      "url": "https://www.youtube.com/watch?v=l0NnPltSyoQ"
+    },
+    {
+      "video_id": "vQ2jNNbh1TU",
+      "title": "NBA 2K27: Official Gameplay Trailer",
+      "description": "You. Know. What. Time. It. Is. 🎮 ⚡\n\nThe Official Gameplay Trailer is here! 🔥\n\nPre-order NBA 2K27 now!\n\nhttps://nba.2k.com/2k27/buy/",
+      "channel_title": "NBA 2K",
+      "channel_id": "UCYAJjqIukwm4r3GHEpJDhVw",
+      "published_at": "2026-07-28T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vQ2jNNbh1TU/hqdefault.jpg",
+      "duration": "PT2M22S",
+      "duration_seconds": 142,
+      "view_count": 453578,
+      "like_count": 8252,
+      "comment_count": 1299,
+      "category_id": "20",
+      "tags": [
+        "NBA",
+        "NBA2K",
+        "2K",
+        "Basketball",
+        "NBA2K26",
+        "2K26"
+      ],
+      "url": "https://www.youtube.com/watch?v=vQ2jNNbh1TU"
     }
   ],
   "videos_with_transcripts": [],
@@ -235,9 +235,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 2819580,
-      "like_count": 142025,
-      "comment_count": 7240,
+      "view_count": 3345225,
+      "like_count": 159964,
+      "comment_count": 8062,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
@@ -252,9 +252,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n4P9ymOBtt0/hqdefault.jpg",
       "duration": "PT3H21M37S",
       "duration_seconds": 12097,
-      "view_count": 539532,
-      "like_count": 12687,
-      "comment_count": 634,
+      "view_count": 578514,
+      "like_count": 13300,
+      "comment_count": 653,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -271,9 +271,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
       "duration": "PT1M8S",
       "duration_seconds": 68,
-      "view_count": 1523642,
-      "like_count": 17921,
-      "comment_count": 756,
+      "view_count": 1701985,
+      "like_count": 18340,
+      "comment_count": 779,
       "category_id": "24",
       "tags": [
         "ted lasso",
@@ -290,24 +290,25 @@
       "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
     },
     {
-      "video_id": "lIpP0ECcZHM",
-      "title": "Quitting EVERYTHING for this.",
-      "description": "Today I turn a new leaf. Forever.",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-07-29T03:34:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
-      "duration": "PT20M4S",
-      "duration_seconds": 1204,
-      "view_count": 251559,
-      "like_count": 22947,
-      "comment_count": 3331,
+      "video_id": "3m9TJYEpjzM",
+      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-29T08:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3m9TJYEpjzM/hqdefault.jpg",
+      "duration": "PT4H26M42S",
+      "duration_seconds": 16002,
+      "view_count": 236039,
+      "like_count": 3875,
+      "comment_count": 23,
       "category_id": "20",
       "tags": [
-        "Family",
-        "friendly"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
+      "url": "https://www.youtube.com/watch?v=3m9TJYEpjzM"
     },
     {
       "video_id": "KtH3MqUmnws",
@@ -319,14 +320,51 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
       "duration": "PT2M40S",
       "duration_seconds": 160,
-      "view_count": 608825,
-      "like_count": 40612,
-      "comment_count": 2416,
+      "view_count": 646751,
+      "like_count": 41584,
+      "comment_count": 2461,
       "category_id": "20",
       "tags": [
         "yt:cc=on"
       ],
       "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
+    },
+    {
+      "video_id": "lIpP0ECcZHM",
+      "title": "Quitting EVERYTHING for this.",
+      "description": "Today I turn a new leaf. Forever.",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-07-29T03:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lIpP0ECcZHM/hqdefault.jpg",
+      "duration": "PT20M4S",
+      "duration_seconds": 1204,
+      "view_count": 327882,
+      "like_count": 27652,
+      "comment_count": 3579,
+      "category_id": "20",
+      "tags": [
+        "Family",
+        "friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=lIpP0ECcZHM"
+    },
+    {
+      "video_id": "HnWvg90lQt8",
+      "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
+      "description": "From visionary filmmaker Gina Prince-Bythewood, the world of Orïsha comes to life. Watch the Official Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027.\n\nIn  the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule. Directed by Gina Prince-Bythewood, CHILDREN OF BLOOD AND BONE features a stellar cast including Thuso Mbedu, Damson Idris, Amandla Stenberg, Tosin Cole, featuring Academy Award® nominee Cynthia Erivo, Lashana Lynch, Zackary Momoh, Richard Mofe-Damijo, Academy Award®  nominee Chiwetel Ejiofor, Academy Award®  winner Regina King, with Idris Elba and Academy Award®  winner Viola Davis.\n\nConnect with #ChildrenOfBloodAndBone \nWebsite: childrenofbloodandbone.movie\nInstagram: https://www.instagram.com/ChildrenofBloodandBone/\nX: https://x.com/ChildrenofBandB\nFacebook: https://www.fa",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2026-07-28T13:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
+      "duration": "PT2M53S",
+      "duration_seconds": 173,
+      "view_count": 6065465,
+      "like_count": 29175,
+      "comment_count": 4496,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=HnWvg90lQt8"
     },
     {
       "video_id": "vQ2jNNbh1TU",
@@ -338,9 +376,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vQ2jNNbh1TU/hqdefault.jpg",
       "duration": "PT2M22S",
       "duration_seconds": 142,
-      "view_count": 414476,
-      "like_count": 8130,
-      "comment_count": 1284,
+      "view_count": 453578,
+      "like_count": 8252,
+      "comment_count": 1299,
       "category_id": "20",
       "tags": [
         "NBA",
@@ -353,72 +391,6 @@
       "url": "https://www.youtube.com/watch?v=vQ2jNNbh1TU"
     },
     {
-      "video_id": "CybH1qwKN-Y",
-      "title": "This Might Be The Best Backrooms Game...",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n00:00 - 55:25 - Your Happy Place \n55:25 - 1:07:52 - Neighborhood Nightmares \n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-28T22:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CybH1qwKN-Y/hqdefault.jpg",
-      "duration": "PT1H7M53S",
-      "duration_seconds": 4073,
-      "view_count": 359326,
-      "like_count": 18607,
-      "comment_count": 1374,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=CybH1qwKN-Y"
-    },
-    {
-      "video_id": "HnWvg90lQt8",
-      "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
-      "description": "From visionary filmmaker Gina Prince-Bythewood, the world of Orïsha comes to life. Watch the Official Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027.\n\nIn  the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule. Directed by Gina Prince-Bythewood, CHILDREN OF BLOOD AND BONE features a stellar cast including Thuso Mbedu, Damson Idris, Amandla Stenberg, Tosin Cole, featuring Academy Award® nominee Cynthia Erivo, Lashana Lynch, Zackary Momoh, Richard Mofe-Damijo, Academy Award®  nominee Chiwetel Ejiofor, Academy Award®  winner Regina King, with Idris Elba and Academy Award®  winner Viola Davis.\n\nConnect with #ChildrenOfBloodAndBone \nWebsite: childrenofbloodandbone.movie\nInstagram: https://www.instagram.com/ChildrenofBloodandBone/\nX: https://x.com/ChildrenofBandB\nFacebook: https://www.fa",
-      "channel_title": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "published_at": "2026-07-28T13:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
-      "duration": "PT2M53S",
-      "duration_seconds": 173,
-      "view_count": 5859310,
-      "like_count": 28190,
-      "comment_count": 4335,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=HnWvg90lQt8"
-    },
-    {
-      "video_id": "7tz1JyMfDxk",
-      "title": "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-29T04:13:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7tz1JyMfDxk/hqdefault.jpg",
-      "duration": "PT3H44M57S",
-      "duration_seconds": 13497,
-      "view_count": 338941,
-      "like_count": 5414,
-      "comment_count": 76,
-      "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=7tz1JyMfDxk"
-    },
-    {
       "video_id": "DIzuIkGeJk8",
       "title": "TopOppGen - take that risk (Official Music Video)",
       "description": "Purchase tickets to the tour here -https://drop.cobrand.com/d/TopOppGen/PDNROMETour\n\nFollow TopOppGen\nInstagram https://www.instagram.com/eyeammusic6/\nTikTok https://www.tiktok.com/@snapchatghost79\nSoundcloud https://soundcloud.com/topoppgen",
@@ -428,68 +400,117 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DIzuIkGeJk8/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 59355,
-      "like_count": 7748,
-      "comment_count": 452,
+      "view_count": 62240,
+      "like_count": 8078,
+      "comment_count": 460,
       "category_id": "22",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DIzuIkGeJk8"
+    },
+    {
+      "video_id": "l0NnPltSyoQ",
+      "title": "roblox best gameplay",
+      "description": "roblox insane moment aura #roblox #shorts #usa",
+      "channel_title": "StanRP",
+      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
+      "published_at": "2026-07-29T05:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l0NnPltSyoQ/hqdefault.jpg",
+      "duration": "PT13S",
+      "duration_seconds": 13,
+      "view_count": 363451,
+      "like_count": 2907,
+      "comment_count": 1,
+      "category_id": "20",
+      "tags": [
+        "roblox",
+        "granny",
+        "free fire",
+        "live roblox",
+        "roblox shorts",
+        "shorts feed",
+        "67",
+        "six seven",
+        "meme reset",
+        "singing brainrot song"
+      ],
+      "url": "https://www.youtube.com/watch?v=l0NnPltSyoQ"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "analysis": {
-        "content_trends": {
-          "movie_trailers": {
-            "description": "Movie trailers continue to dominate YouTube's trending section, with major releases like 'JUMANJI: OPEN WORLD' and 'Children of Blood and Bone' capturing significant viewer interest.",
-            "insights": [
-              "High-quality trailers with 4K resolution are particularly appealing.",
-              "Trailers for well-known franchises or adaptations of popular books tend to attract more views."
-            ]
+      "content_trends": {
+        "genre": {
+          "entertainment": {
+            "count": 5,
+            "examples": [
+              "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+              "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+              "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg"
+            ],
+            "insight": "Trailers for movies and TV shows are prominently trending, indicating strong viewer interest in upcoming entertainment releases."
           },
-          "gaming_content": {
-            "description": "Gaming content remains a staple on YouTube, with both game trailers and gameplay streams trending.",
-            "insights": [
-              "Trailers like 'NBA 2K27' and 'Spider-Man: Brand New Day' capitalize on existing fan bases.",
-              "Live streams, such as 'DARK & DARKER', engage audiences through interactive content."
-            ]
+          "gaming": {
+            "count": 3,
+            "examples": [
+              "🔴LIVE | DARK & DARKER | GIMMICK & COCO | I HAVE MASTERED THE WIZARD | #BUNGULATE",
+              "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
+              "NBA 2K27: Official Gameplay Trailer"
+            ],
+            "insight": "Gaming content, particularly live streams and new gameplay releases, remains a significant draw for audiences."
           },
-          "music_videos": {
-            "description": "Music videos continue to be a popular category, with unique titles like 'take that risk' capturing attention.",
-            "insights": [
-              "Emerging artists can leverage YouTube's platform to reach a wider audience."
-            ]
-          }
-        },
-        "creator_patterns": {
-          "established_brands": {
-            "description": "Established channels like 'Sony Pictures Entertainment' and 'Apple TV' maintain a strong presence.",
-            "insights": [
-              "These channels benefit from brand recognition and can drive significant viewership with new releases."
-            ]
+          "music": {
+            "count": 1,
+            "examples": [
+              "TopOppGen - take that risk (Official Music Video)"
+            ],
+            "insight": "Music videos continue to attract significant attention, although less represented in this sample."
           },
-          "individual_creators": {
-            "description": "Individual creators like 'Flamingo' and 'Joe Bart Games' continue to hold significant influence.",
-            "insights": [
-              "Personality-driven content and niche expertise can build a dedicated subscriber base."
-            ]
-          }
-        },
-        "market_opportunities": {
-          "cross-platform promotions": {
-            "description": "Leveraging cross-platform promotions can enhance visibility and engagement.",
-            "insights": [
-              "Collaborations between gaming platforms and popular franchises (e.g., Spider-Man and Fortnite) can amplify reach."
-            ]
-          },
-          "diverse content formats": {
-            "description": "Experimenting with diverse content formats, such as live streams and interactive videos, can capture varied audience segments.",
-            "insights": [
-              "Creators should explore interactive content to increase viewer engagement and retention."
-            ]
+          "miscellaneous": {
+            "count": 1,
+            "examples": [
+              "Quitting EVERYTHING for this."
+            ],
+            "insight": "Personal journey and lifestyle changes content can captivate audiences, suggesting a niche for personal storytelling."
           }
         }
+      },
+      "creator_patterns": {
+        "dominant_channels": {
+          "Sony Pictures Entertainment": {
+            "video_count": 1,
+            "insight": "Major studios releasing high-production trailers are consistently trending, benefiting from pre-established fan bases."
+          },
+          "Apple TV": {
+            "video_count": 1,
+            "insight": "Exclusive content from streaming services like Apple TV garners attention, highlighting the competition among streaming platforms."
+          }
+        },
+        "emerging_creators": {
+          "Joe Bart Games": {
+            "video_count": 1,
+            "insight": "Smaller gaming channels can leverage trending games to capture audience interest, indicating potential for growth in niche gaming content."
+          },
+          "TheBurntPeanut": {
+            "video_count": 1,
+            "insight": "Unique content such as personal stories or challenges can break into trending lists, emphasizing creativity and relatability."
+          }
+        }
+      },
+      "market_opportunities": {
+        "trailer_releases": {
+          "strategy": "Create engaging and visually appealing trailers for upcoming releases to leverage the high interest in entertainment previews."
+        },
+        "gaming_content": {
+          "strategy": "Focus on live streaming and new game releases to engage the growing gaming community, possibly collaborating with influencers."
+        },
+        "diverse_content": {
+          "strategy": "Develop content around personal journeys and lifestyle changes to tap into audiences seeking relatable and inspiring stories."
+        }
+      },
+      "viewership_data_analysis": {
+        "average_views_per_video": 1378131,
+        "insight": "The high average views per video suggest that trending content on YouTube is capable of reaching vast audiences, emphasizing the platform's potential for viral reach."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -497,7 +518,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1277454
+        "avg_views_per_video": 1378113
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
