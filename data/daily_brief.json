@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-30T15:42:37.383397",
+  "timestamp": "2026-07-30T18:37:20.866886",
   "date": "2026-07-30",
   "summary": {
-    "total_videos_analyzed": 10,
-    "music_videos_filtered": 4,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,33 +22,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lNaSdnz2I8g/hqdefault.jpg",
       "duration": "PT4M10S",
       "duration_seconds": 250,
-      "view_count": 17763362,
-      "like_count": 857276,
-      "comment_count": 91952,
+      "view_count": 20092183,
+      "like_count": 902545,
+      "comment_count": 95850,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
     },
     {
-      "video_id": "cseNmwD74hE",
-      "title": "🔴LIVE | MISTFALL HUNTER | COCO & PARTY CHIP | THE ULTIMATE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-30T08:36:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cseNmwD74hE/hqdefault.jpg",
-      "duration": "PT7H46M2S",
-      "duration_seconds": 27962,
-      "view_count": 479021,
-      "like_count": 7312,
-      "comment_count": 136,
+      "video_id": "h-j-SpRxhHo",
+      "title": "HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond",
+      "description": "Roll the dice to break the traitorous enemies of Super Earth in this historic crossover Legendary Warbond.\n \nFight for Liberty without measuring distance, line-of-sight or your target’s chances of survival with potent weapons, formidable armor, and so much more.\n\nHELLDIVERS™ 2 x WARHAMMER 40,000 Legendary Warbond is available from August 12th 2026\n\nHELLDIVERS™ 2 is Out Now for PS5®, PC & XBOX",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-07-30T12:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-j-SpRxhHo/hqdefault.jpg",
+      "duration": "PT1M48S",
+      "duration_seconds": 108,
+      "view_count": 475713,
+      "like_count": 45012,
+      "comment_count": 7343,
       "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=cseNmwD74hE"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=h-j-SpRxhHo"
     },
     {
       "video_id": "zhApeaHMvfs",
@@ -60,12 +56,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 6060213,
-      "like_count": 234257,
-      "comment_count": 10900,
+      "view_count": 6286204,
+      "like_count": 239558,
+      "comment_count": 11057,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
+    },
+    {
+      "video_id": "cseNmwD74hE",
+      "title": "🔴LIVE | MISTFALL HUNTER | COCO & PARTY CHIP | THE ULTIMATE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-30T08:36:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cseNmwD74hE/hqdefault.jpg",
+      "duration": "PT7H46M2S",
+      "duration_seconds": 27962,
+      "view_count": 493154,
+      "like_count": 7422,
+      "comment_count": 159,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=cseNmwD74hE"
     },
     {
       "video_id": "lb3fvMJMadk",
@@ -77,9 +94,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lb3fvMJMadk/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 866723,
-      "like_count": 36314,
-      "comment_count": 1726,
+      "view_count": 930630,
+      "like_count": 38123,
+      "comment_count": 1815,
       "category_id": "24",
       "tags": [
         "Adventure",
@@ -96,32 +113,55 @@
       "url": "https://www.youtube.com/watch?v=lb3fvMJMadk"
     },
     {
-      "video_id": "VDtPTB72Nog",
-      "title": "Backrooms Anomaly…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-29T22:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VDtPTB72Nog/hqdefault.jpg",
-      "duration": "PT1H12M54S",
-      "duration_seconds": 4374,
-      "view_count": 376237,
-      "like_count": 13339,
-      "comment_count": 1017,
-      "category_id": "20",
+      "video_id": "Ak9GQROLLyQ",
+      "title": "The Flintstones LiveAction (2026) | Matt Damon, Amanda Seyfried, Jake Gyllenhaal | Concept Trailer",
+      "description": "#theflintstones #concepttrailer #mattdamon\n\nWatch This The Flintstones Live Action Concept Trailer\n\nWhat if The Flintstones was reimagined as a gritty, grounded prehistoric drama where Bedrock was not a cartoon suburb but a volcanic civilization built on the backs of quarry workers and the man who broke the most rock had the least to show for it? This fan-made concept trailer imagines The Flintstones for 2026 where Matt Damon stars as Fred Flintstone, a quarry foreman who has spent his life cutting stone for a city he can barely afford to live in, alongside Jake Gyllenhaal as his best friend Barney Rubble, the one man Fred trusts with his life. I personally created every storyboard and visual in this \"What If\" concept from scratch, building a cinematic reimagining where a catastrophic quarry collapse exposes a rare mineral vein beneath the volcanic ridge and Anthony Hopkins as Mr. Slate, the ruthless owner of Slate Rock and Gravel Company, seizes the discovery and announces a brutal ex",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-07-27T14:30:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ak9GQROLLyQ/hqdefault.jpg",
+      "duration": "PT2M1S",
+      "duration_seconds": 121,
+      "view_count": 44250,
+      "like_count": 122,
+      "comment_count": 79,
+      "category_id": "24",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "the flintstones",
+        "the flintstones trailer",
+        "the flintstones movie",
+        "the flintstones liveaction",
+        "the flintstones liveaction trailer",
+        "the flintstones movie trailer",
+        "the flintstones liveaction movie trailer",
+        "trailer",
+        "trailers",
+        "new trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=VDtPTB72Nog"
+      "url": "https://www.youtube.com/watch?v=Ak9GQROLLyQ"
+    },
+    {
+      "video_id": "nYB8sPmfOm4",
+      "title": "Kai Cenat & Rakai Play Fears To Fathom: Scratch Creek",
+      "description": "Kai Cenat & Rakai Play Fears To Fathom: Scratch Creek\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
+      "channel_title": "Kai Cenat Live",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "published_at": "2026-07-30T10:40:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nYB8sPmfOm4/hqdefault.jpg",
+      "duration": "PT3H48M37S",
+      "duration_seconds": 13717,
+      "view_count": 106407,
+      "like_count": 5861,
+      "comment_count": 384,
+      "category_id": "24",
+      "tags": [
+        "Kai Cenat",
+        "Kai Cenat Live",
+        "Kai Cenat Livestream",
+        "Kai Live",
+        "Kai Cenat Funny"
+      ],
+      "url": "https://www.youtube.com/watch?v=nYB8sPmfOm4"
     },
     {
       "video_id": "gnm4HgIAVmU",
@@ -133,9 +173,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 6289985,
-      "like_count": 24183,
-      "comment_count": 2587,
+      "view_count": 6943828,
+      "like_count": 25379,
+      "comment_count": 2715,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -152,91 +192,30 @@
       "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU"
     },
     {
-      "video_id": "Jkj9Ehr26o0",
-      "title": "BO3 Zombies - Trolling Terroriser with Magic! (Harry Potter Map)",
-      "description": "Outro Song: https://www.youtube.com/watch?v=ZQvppMPlhO4\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \nWildcat - @wildcat \nTerroriser - @Terroriser \nSp00n - @Sp00nerism \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
-      "channel_title": "VanossGaming",
-      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
-      "published_at": "2026-07-30T00:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jkj9Ehr26o0/hqdefault.jpg",
-      "duration": "PT29M51S",
-      "duration_seconds": 1791,
-      "view_count": 340966,
-      "like_count": 18499,
-      "comment_count": 580,
+      "video_id": "ukHLJ06ecH0",
+      "title": "Exposing 11 SECRETS in Animal Hospital..",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Roblox #Cash #NicoandCash",
+      "channel_title": "CashBlox",
+      "channel_id": "UCY0R0Ck6qK2deVTKkfWJIEA",
+      "published_at": "2026-07-30T13:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ukHLJ06ecH0/hqdefault.jpg",
+      "duration": "PT22M39S",
+      "duration_seconds": 1359,
+      "view_count": 168420,
+      "like_count": 4851,
+      "comment_count": 819,
       "category_id": "20",
       "tags": [
-        "Funny Moments",
-        "Montage video games",
-        "gaming",
-        "Vanoss",
-        "VanossGaming",
-        "Gameplay",
-        "Secret",
-        "Puncake",
-        "Parody",
-        "Comedy"
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=Jkj9Ehr26o0"
-    },
-    {
-      "video_id": "Nv_xXbj0h-w",
-      "title": "Trim - Nobody (Remix) (feat. G Herbo) (Official Music Video)",
-      "description": "Stream Nobody (feat. Monaleo & G Herbo) [Remix] now: https://itsmstrim.lnk.to/Nobody2Remix\n\nFollow Trim:\nhttps://www.itsmstrim.world/\nhttps://www.instagram.com/itsmstrim/\nhttps://www.tiktok.com/@itsmstrim?lang=en\nhttps://x.com/Itsmstrim\n\n#ItsMsTrim #NobodyRemix #GHerbo",
-      "channel_title": "TrimOfficial",
-      "channel_id": "UC2W9lo4U_GirlhRnkKp4Gog",
-      "published_at": "2026-07-29T17:04:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nv_xXbj0h-w/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 55763,
-      "like_count": 5347,
-      "comment_count": 418,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Nv_xXbj0h-w"
-    },
-    {
-      "video_id": "2iI8iZg8pos",
-      "title": "The Simpsons x Fortnite Reload | Trailer",
-      "description": "The Simpsons are crashing the party again, and this time they're bringing the chaos straight to Reload.\nSpringfield is back on the map rotation with a few fresh tweaks, plus a brand-new POI, The Confidential, you won't want to skip. The new map now holds all 50 players, so expect a lot more enemies to fight through.\n\nSpringfield holds down the map rotation solo until August 3, when Elite Stronghold and Slurp Rush join back in. Complete Reload quests and own the Battle Pass, and you'll unlock a Simpsonified John Wick as a bonus reward starting July 30.\n\nA new Ranked Season has landed, and with it come new rewards. Climb the ranks and unlock a new tier reward at specific ranks, including Reload’s brand-new Axe of Unreal for those who make it to the Unreal.\nNew Map Mastery Quests, bringing a fresh wave of rewards to earn as you complete quests and a new Victory Umbrella for those who win a match of Ranked or Unranked.\n\nNew gadget: the Reload Portable Extractor:\nUse it to pull a brand-new ",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-29T20:10:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2iI8iZg8pos/hqdefault.jpg",
-      "duration": "PT53S",
-      "duration_seconds": 53,
-      "view_count": 438313,
-      "like_count": 17601,
-      "comment_count": 973,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=2iI8iZg8pos"
-    },
-    {
-      "video_id": "8Iyjm1-gynk",
-      "title": "JYNXZI & RON vs RANKED Rainbow Six Siege",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nJYNXZI & RON vs RANKED Rainbow Six Siege\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-07-29T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Iyjm1-gynk/hqdefault.jpg",
-      "duration": "PT2H14M35S",
-      "duration_seconds": 8075,
-      "view_count": 303968,
-      "like_count": 7706,
-      "comment_count": 480,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "JYNXZI & RON vs RANKED Rainbow Six Siege"
-      ],
-      "url": "https://www.youtube.com/watch?v=8Iyjm1-gynk"
+      "url": "https://www.youtube.com/watch?v=ukHLJ06ecH0"
     }
   ],
   "videos_with_transcripts": [],
@@ -251,33 +230,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lNaSdnz2I8g/hqdefault.jpg",
       "duration": "PT4M10S",
       "duration_seconds": 250,
-      "view_count": 17763362,
-      "like_count": 857276,
-      "comment_count": 91952,
+      "view_count": 20092183,
+      "like_count": 902545,
+      "comment_count": 95850,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
     },
     {
-      "video_id": "cseNmwD74hE",
-      "title": "🔴LIVE | MISTFALL HUNTER | COCO & PARTY CHIP | THE ULTIMATE WIZARD | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-07-30T08:36:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cseNmwD74hE/hqdefault.jpg",
-      "duration": "PT7H46M2S",
-      "duration_seconds": 27962,
-      "view_count": 479021,
-      "like_count": 7312,
-      "comment_count": 136,
+      "video_id": "h-j-SpRxhHo",
+      "title": "HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond",
+      "description": "Roll the dice to break the traitorous enemies of Super Earth in this historic crossover Legendary Warbond.\n \nFight for Liberty without measuring distance, line-of-sight or your target’s chances of survival with potent weapons, formidable armor, and so much more.\n\nHELLDIVERS™ 2 x WARHAMMER 40,000 Legendary Warbond is available from August 12th 2026\n\nHELLDIVERS™ 2 is Out Now for PS5®, PC & XBOX",
+      "channel_title": "HELLDIVERS™ 2",
+      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
+      "published_at": "2026-07-30T12:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-j-SpRxhHo/hqdefault.jpg",
+      "duration": "PT1M48S",
+      "duration_seconds": 108,
+      "view_count": 475713,
+      "like_count": 45012,
+      "comment_count": 7343,
       "category_id": "20",
-      "tags": [
-        "funny",
-        "escape from tarkov",
-        "tarkov"
-      ],
-      "url": "https://www.youtube.com/watch?v=cseNmwD74hE"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=h-j-SpRxhHo"
     },
     {
       "video_id": "zhApeaHMvfs",
@@ -289,12 +264,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 6060213,
-      "like_count": 234257,
-      "comment_count": 10900,
+      "view_count": 6286204,
+      "like_count": 239558,
+      "comment_count": 11057,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
+    },
+    {
+      "video_id": "cseNmwD74hE",
+      "title": "🔴LIVE | MISTFALL HUNTER | COCO & PARTY CHIP | THE ULTIMATE WIZARD | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-07-30T08:36:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cseNmwD74hE/hqdefault.jpg",
+      "duration": "PT7H46M2S",
+      "duration_seconds": 27962,
+      "view_count": 493154,
+      "like_count": 7422,
+      "comment_count": 159,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=cseNmwD74hE"
     },
     {
       "video_id": "lb3fvMJMadk",
@@ -306,9 +302,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lb3fvMJMadk/hqdefault.jpg",
       "duration": "PT2M8S",
       "duration_seconds": 128,
-      "view_count": 866723,
-      "like_count": 36314,
-      "comment_count": 1726,
+      "view_count": 930630,
+      "like_count": 38123,
+      "comment_count": 1815,
       "category_id": "24",
       "tags": [
         "Adventure",
@@ -325,32 +321,55 @@
       "url": "https://www.youtube.com/watch?v=lb3fvMJMadk"
     },
     {
-      "video_id": "VDtPTB72Nog",
-      "title": "Backrooms Anomaly…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-07-29T22:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VDtPTB72Nog/hqdefault.jpg",
-      "duration": "PT1H12M54S",
-      "duration_seconds": 4374,
-      "view_count": 376237,
-      "like_count": 13339,
-      "comment_count": 1017,
-      "category_id": "20",
+      "video_id": "Ak9GQROLLyQ",
+      "title": "The Flintstones LiveAction (2026) | Matt Damon, Amanda Seyfried, Jake Gyllenhaal | Concept Trailer",
+      "description": "#theflintstones #concepttrailer #mattdamon\n\nWatch This The Flintstones Live Action Concept Trailer\n\nWhat if The Flintstones was reimagined as a gritty, grounded prehistoric drama where Bedrock was not a cartoon suburb but a volcanic civilization built on the backs of quarry workers and the man who broke the most rock had the least to show for it? This fan-made concept trailer imagines The Flintstones for 2026 where Matt Damon stars as Fred Flintstone, a quarry foreman who has spent his life cutting stone for a city he can barely afford to live in, alongside Jake Gyllenhaal as his best friend Barney Rubble, the one man Fred trusts with his life. I personally created every storyboard and visual in this \"What If\" concept from scratch, building a cinematic reimagining where a catastrophic quarry collapse exposes a rare mineral vein beneath the volcanic ridge and Anthony Hopkins as Mr. Slate, the ruthless owner of Slate Rock and Gravel Company, seizes the discovery and announces a brutal ex",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-07-27T14:30:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ak9GQROLLyQ/hqdefault.jpg",
+      "duration": "PT2M1S",
+      "duration_seconds": 121,
+      "view_count": 44250,
+      "like_count": 122,
+      "comment_count": 79,
+      "category_id": "24",
       "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
+        "the flintstones",
+        "the flintstones trailer",
+        "the flintstones movie",
+        "the flintstones liveaction",
+        "the flintstones liveaction trailer",
+        "the flintstones movie trailer",
+        "the flintstones liveaction movie trailer",
+        "trailer",
+        "trailers",
+        "new trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=VDtPTB72Nog"
+      "url": "https://www.youtube.com/watch?v=Ak9GQROLLyQ"
+    },
+    {
+      "video_id": "nYB8sPmfOm4",
+      "title": "Kai Cenat & Rakai Play Fears To Fathom: Scratch Creek",
+      "description": "Kai Cenat & Rakai Play Fears To Fathom: Scratch Creek\nFOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat\n\n 🔴Follow My Socials:\nMain Channel: https://youtube.com/c/KaiCenat\nTwitter : https://twitter.com/KaiCenat\nInstagram: https://www.instagram.com/kaicenat\n#KaiCenat #KaiCenatLive #KaiCenatStream",
+      "channel_title": "Kai Cenat Live",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "published_at": "2026-07-30T10:40:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nYB8sPmfOm4/hqdefault.jpg",
+      "duration": "PT3H48M37S",
+      "duration_seconds": 13717,
+      "view_count": 106407,
+      "like_count": 5861,
+      "comment_count": 384,
+      "category_id": "24",
+      "tags": [
+        "Kai Cenat",
+        "Kai Cenat Live",
+        "Kai Cenat Livestream",
+        "Kai Live",
+        "Kai Cenat Funny"
+      ],
+      "url": "https://www.youtube.com/watch?v=nYB8sPmfOm4"
     },
     {
       "video_id": "gnm4HgIAVmU",
@@ -362,9 +381,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
       "duration": "PT1M30S",
       "duration_seconds": 90,
-      "view_count": 6289985,
-      "like_count": 24183,
-      "comment_count": 2587,
+      "view_count": 6943828,
+      "like_count": 25379,
+      "comment_count": 2715,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -381,187 +400,120 @@
       "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU"
     },
     {
-      "video_id": "Jkj9Ehr26o0",
-      "title": "BO3 Zombies - Trolling Terroriser with Magic! (Harry Potter Map)",
-      "description": "Outro Song: https://www.youtube.com/watch?v=ZQvppMPlhO4\nVanoss Merch HERE!: https://vanosslimited.com\n\nPersonal Twitter - https://twitter.com/evanfong\nPersonal Instagram - https://www.instagram.com/evanfong/\nVanossGaming Twitter - http://twitter.com/#!/VanossGaming\nVanossGaming Instagram - http://instagram.com/vanossinstagram\nVanossGaming TikTok: https://www.tiktok.com/@vanossontiktok\nVanossGaming Facebook Page - http://www.facebook.com/VanossGaming\n\nFriends in Video: \nWildcat - @wildcat \nTerroriser - @Terroriser \nSp00n - @Sp00nerism \n\nPlease Ignore or flag spam, negative, or hateful comments.  We're here to have a good time.  Thanks everyone, and enjoy :]",
-      "channel_title": "VanossGaming",
-      "channel_id": "UCKqH_9mk1waLgBiL2vT5b9g",
-      "published_at": "2026-07-30T00:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jkj9Ehr26o0/hqdefault.jpg",
-      "duration": "PT29M51S",
-      "duration_seconds": 1791,
-      "view_count": 340966,
-      "like_count": 18499,
-      "comment_count": 580,
+      "video_id": "ukHLJ06ecH0",
+      "title": "Exposing 11 SECRETS in Animal Hospital..",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Roblox #Cash #NicoandCash",
+      "channel_title": "CashBlox",
+      "channel_id": "UCY0R0Ck6qK2deVTKkfWJIEA",
+      "published_at": "2026-07-30T13:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ukHLJ06ecH0/hqdefault.jpg",
+      "duration": "PT22M39S",
+      "duration_seconds": 1359,
+      "view_count": 168420,
+      "like_count": 4851,
+      "comment_count": 819,
       "category_id": "20",
       "tags": [
-        "Funny Moments",
-        "Montage video games",
-        "gaming",
-        "Vanoss",
-        "VanossGaming",
-        "Gameplay",
-        "Secret",
-        "Puncake",
-        "Parody",
-        "Comedy"
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=Jkj9Ehr26o0"
-    },
-    {
-      "video_id": "8Iyjm1-gynk",
-      "title": "JYNXZI & RON vs RANKED Rainbow Six Siege",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nJYNXZI & RON vs RANKED Rainbow Six Siege\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-07-29T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Iyjm1-gynk/hqdefault.jpg",
-      "duration": "PT2H14M35S",
-      "duration_seconds": 8075,
-      "view_count": 303968,
-      "like_count": 7706,
-      "comment_count": 480,
-      "category_id": "20",
-      "tags": [
-        "Jynxzi",
-        "JynxziR6",
-        "JynxziLive",
-        "Jynxzi Stream",
-        "JYNXZI & RON vs RANKED Rainbow Six Siege"
-      ],
-      "url": "https://www.youtube.com/watch?v=8Iyjm1-gynk"
-    },
-    {
-      "video_id": "Nv_xXbj0h-w",
-      "title": "Trim - Nobody (Remix) (feat. G Herbo) (Official Music Video)",
-      "description": "Stream Nobody (feat. Monaleo & G Herbo) [Remix] now: https://itsmstrim.lnk.to/Nobody2Remix\n\nFollow Trim:\nhttps://www.itsmstrim.world/\nhttps://www.instagram.com/itsmstrim/\nhttps://www.tiktok.com/@itsmstrim?lang=en\nhttps://x.com/Itsmstrim\n\n#ItsMsTrim #NobodyRemix #GHerbo",
-      "channel_title": "TrimOfficial",
-      "channel_id": "UC2W9lo4U_GirlhRnkKp4Gog",
-      "published_at": "2026-07-29T17:04:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nv_xXbj0h-w/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "duration_seconds": 156,
-      "view_count": 55763,
-      "like_count": 5347,
-      "comment_count": 418,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Nv_xXbj0h-w"
-    },
-    {
-      "video_id": "2iI8iZg8pos",
-      "title": "The Simpsons x Fortnite Reload | Trailer",
-      "description": "The Simpsons are crashing the party again, and this time they're bringing the chaos straight to Reload.\nSpringfield is back on the map rotation with a few fresh tweaks, plus a brand-new POI, The Confidential, you won't want to skip. The new map now holds all 50 players, so expect a lot more enemies to fight through.\n\nSpringfield holds down the map rotation solo until August 3, when Elite Stronghold and Slurp Rush join back in. Complete Reload quests and own the Battle Pass, and you'll unlock a Simpsonified John Wick as a bonus reward starting July 30.\n\nA new Ranked Season has landed, and with it come new rewards. Climb the ranks and unlock a new tier reward at specific ranks, including Reload’s brand-new Axe of Unreal for those who make it to the Unreal.\nNew Map Mastery Quests, bringing a fresh wave of rewards to earn as you complete quests and a new Victory Umbrella for those who win a match of Ranked or Unranked.\n\nNew gadget: the Reload Portable Extractor:\nUse it to pull a brand-new ",
-      "channel_title": "Fortnite",
-      "channel_id": "UClG8odDC8TS6Zpqk9CGVQiQ",
-      "published_at": "2026-07-29T20:10:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2iI8iZg8pos/hqdefault.jpg",
-      "duration": "PT53S",
-      "duration_seconds": 53,
-      "view_count": 438313,
-      "like_count": 17601,
-      "comment_count": 973,
-      "category_id": "20",
-      "tags": [
-        "yt:cc=on"
-      ],
-      "url": "https://www.youtube.com/watch?v=2iI8iZg8pos"
+      "url": "https://www.youtube.com/watch?v=ukHLJ06ecH0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 10,
-        "total_views": 32974551,
-        "average_views_per_video": 3297455.1,
-        "categories": "Unknown"
+        "total_videos": 9,
+        "total_views": 35540789,
+        "average_views_per_video": 3948976.56
       },
       "content_trends": {
-        "trending_genres": [
+        "genres": [
           {
             "genre": "Film Trailers",
             "examples": [
               "Namit Malhotra’s Ramayana- Hindi Trailer",
-              "JUMANJI: OPEN WORLD",
-              "The Thomas Crown Affair",
-              "Outer Banks: Season 5"
+              "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+              "Outer Banks: Season 5 | Official Trailer | Netflix",
+              "The Flintstones LiveAction (2026) | Concept Trailer",
+              "The Thomas Crown Affair | Official Teaser Trailer"
             ],
-            "insight": "The prominence of film and series trailers suggests that viewers are highly engaged with upcoming releases across various entertainment industries."
+            "trend_analysis": "Film trailers and concept previews are popular, indicating a strong interest in upcoming releases in both traditional and conceptual formats."
           },
           {
             "genre": "Gaming",
             "examples": [
-              "🔴LIVE | MISTFALL HUNTER",
-              "BO3 Zombies - Trolling Terroriser",
-              "The Simpsons x Fortnite Reload",
-              "JYNXZI & RON vs RANKED Rainbow Six Siege"
+              "HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond",
+              "Kai Cenat & Rakai Play Fears To Fathom: Scratch Creek"
             ],
-            "insight": "Gaming content remains a strong trend, particularly live streams and collaborative play, indicating a robust audience for interactive and community-driven gaming experiences."
+            "trend_analysis": "Gaming content remains significant, especially collaborations and playthroughs, suggesting a robust audience for interactive entertainment."
           },
           {
-            "genre": "Music",
+            "genre": "Live Streams and Interactive Content",
             "examples": [
-              "Trim - Nobody (Remix) (feat. G Herbo)"
+              "🔴LIVE | MISTFALL HUNTER | COCO & PARTY CHIP | THE ULTIMATE WIZARD | #BUNGULATE"
             ],
-            "insight": "Music videos, especially those featuring collaborations, continue to capture significant viewership, highlighting opportunities in music marketing and cross-promotions."
+            "trend_analysis": "Live streaming content is gaining traction, highlighting the demand for real-time interaction and engagement."
+          },
+          {
+            "genre": "Educational/Informative",
+            "examples": [
+              "Exposing 11 SECRETS in Animal Hospital.."
+            ],
+            "trend_analysis": "Informative content that reveals secrets or provides insights into niche topics attracts viewers, indicating a market for educational content."
           }
-        ]
+        ],
+        "language_trends": {
+          "dominant_language": "English",
+          "note": "The presence of a Hindi trailer suggests growing multicultural content, reflective of global audience diversity."
+        }
       },
       "creator_patterns": {
         "top_channels": [
           {
             "channel": "World Of Ramayana",
-            "videos_posted": 1,
-            "insight": "Channels focusing on culturally significant or large-scale productions, like 'World Of Ramayana', have the potential to tap into niche yet enthusiastic audiences."
+            "video_count": 1,
+            "notable_contributions": "Cultural content with potential for high engagement due to unique storytelling and cultural appeal."
           },
+          {
+            "channel": "Netflix",
+            "video_count": 1,
+            "notable_contributions": "Continued dominance in streaming service trailers, leveraging large viewership."
+          },
+          {
+            "channel": "Sony Pictures Entertainment",
+            "video_count": 1,
+            "notable_contributions": "Maintaining a strong presence in official film trailers, offering high production values."
+          }
+        ],
+        "emerging_creators": [
           {
             "channel": "TheBurntPeanut",
-            "videos_posted": 1,
-            "insight": "Niche content creators such as 'TheBurntPeanut' who engage in specific themes like gaming can maintain strong viewership by cultivating dedicated fanbases."
-          }
-        ],
-        "distribution": {
-          "single_video_channels": 5,
-          "insight": "Most videos come from different channels, indicating diversification in content creation and a competitive environment for trending visibility."
-        }
-      },
-      "market_opportunities": {
-        "film_and_series": {
-          "opportunity": "Increase in demand for trailers suggests opportunities for content creators to engage in film review channels, reaction videos, and behind-the-scenes content."
-        },
-        "gaming": {
-          "opportunity": "High engagement in gaming suggests potential in launching esports tournaments, gaming tutorials, and collaborative gaming content to leverage viewer interest."
-        },
-        "music_collaborations": {
-          "opportunity": "The success of music collaborations underscores the potential for creators to explore cross-genre partnerships and innovative music video concepts."
-        }
-      },
-      "strategic_recommendations": {
-        "for_creators": [
-          {
-            "recommendation": "Focus on trendy genres like film trailers and gaming to maximize reach and tap into existing viewer interests."
-          },
-          {
-            "recommendation": "Leverage collaborations with other creators and brands to expand audience engagement and cross-promote content."
-          }
-        ],
-        "for_brands": [
-          {
-            "recommendation": "Invest in content marketing strategies that align with trending themes such as gaming and entertainment to enhance audience connection."
-          },
-          {
-            "recommendation": "Explore partnerships with influencers in the entertainment and gaming sectors to amplify brand visibility and reach targeted demographics."
+            "video_count": 1,
+            "insight": "Niche content creators can capture attention with unique or unexpected content, highlighting the value of creativity."
           }
         ]
       },
+      "market_opportunities": {
+        "cultural_expansion": "Create content that taps into global cultures and languages, as seen with the Hindi trailer, to appeal to diverse audiences.",
+        "live_interaction": "Invest in live streaming and interactive content, which are gaining popularity for their engagement potential.",
+        "niche_expertise": "Leverage niche topics and educate audiences, as there is a demand for informative content that uncovers 'secrets' or provides deep insights.",
+        "gaming_collaborations": "Explore cross-industry collaborations in gaming to reach broader audiences, particularly in popular franchises."
+      },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 3297455
+        "avg_views_per_video": 3948976
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
