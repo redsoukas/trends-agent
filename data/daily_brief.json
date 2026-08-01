@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-01T00:50:01.229714",
+  "timestamp": "2026-08-01T04:12:48.661003",
   "date": "2026-08-01",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
       "duration": "PT4M10S",
       "duration_seconds": 250,
-      "view_count": 13339900,
-      "like_count": 345231,
-      "comment_count": 34525,
+      "view_count": 13510600,
+      "like_count": 351238,
+      "comment_count": 35279,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XBmyzLcaDaI/hqdefault.jpg",
       "duration": "PT34M18S",
       "duration_seconds": 2058,
-      "view_count": 536199,
-      "like_count": 41841,
-      "comment_count": 2838,
+      "view_count": 840568,
+      "like_count": 54316,
+      "comment_count": 3118,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -58,6 +58,51 @@
       "url": "https://www.youtube.com/watch?v=XBmyzLcaDaI"
     },
     {
+      "video_id": "JH25LjG7R7k",
+      "title": "WICKER Official Trailer (2026) Alexander Skarsgård",
+      "description": "First movie trailer for Wicker starring Peter Dinklage, Alexander Skarsgård.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-07-30T14:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JH25LjG7R7k/hqdefault.jpg",
+      "duration": "PT2M39S",
+      "duration_seconds": 159,
+      "view_count": 172324,
+      "like_count": 2582,
+      "comment_count": 313,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=JH25LjG7R7k"
+    },
+    {
+      "video_id": "M3H8u3Y0S-s",
+      "title": "Five Nights at Freddy's 2: 10/20 COMPLETE (no cheats)",
+      "description": "Yes, I cheated in my original Five Nights at Freddy's 2 video. So I set out to beat it legitimately with no exploits and no cheats... but in my quest I may have just stumbled across a strategy that could solve FNAF 2 once and for all. Could this be enough for my redemption?\n\nMore FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-07-31T23:28:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M3H8u3Y0S-s/hqdefault.jpg",
+      "duration": "PT19M33S",
+      "duration_seconds": 1173,
+      "view_count": 403783,
+      "like_count": 88203,
+      "comment_count": 7902,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddy's",
+        "cheating",
+        "cheated",
+        "markiplier fnaf 2",
+        "five nights at freddy's 2 10/20 mode",
+        "10/20 mode",
+        "ultimate custom night",
+        "minus 7",
+        "fnaf 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=M3H8u3Y0S-s"
+    },
+    {
       "video_id": "funfFAMMBBs",
       "title": "MARVEL Tōkon: Fighting Souls - Launch Trailer",
       "description": "Assemble your team of iconic Marvel Heroes and Villains in MARVEL Tōkon: Fighting Souls, the Ultimate 4v4 Tag-Team Fighter!\n\nThe Champion has set his sights on Earth. Build your dream team of legendary Marvel characters, unleash explosive 4v4 tag battles, and rise to his challenge to save the planet.\n\nFight your way through ranked online matches, challenge friends in local battles, experience five original stories in Episode Mode, explore the Online Lobby, and master a launch roster of 20 iconic Marvel characters.\n\nMARVEL Tōkon: Fighting Souls is available August 6 on PlayStation 5 and PC (Steam & Epic Games Store).",
@@ -67,9 +112,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/funfFAMMBBs/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 97206,
-      "like_count": 6822,
-      "comment_count": 581,
+      "view_count": 105605,
+      "like_count": 7072,
+      "comment_count": 598,
       "category_id": "20",
       "tags": [
         "Marvel",
@@ -86,32 +131,86 @@
       "url": "https://www.youtube.com/watch?v=funfFAMMBBs"
     },
     {
-      "video_id": "9kYDgXfmGRY",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-07-31T18:13:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9kYDgXfmGRY/hqdefault.jpg",
-      "duration": "PT14S",
-      "duration_seconds": 14,
-      "view_count": 400560,
-      "like_count": 4004,
-      "comment_count": 2,
+      "video_id": "y8TieBZEcbE",
+      "title": "His Story Is INSANE..",
+      "description": "subscribe for more :)\n\nFOLTYN FAMILY MERCH: https://foltyn.shop/\n\n-Socials-\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/1177555...\n\nInsta: https://www.instagram.com/foltynn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a mul",
+      "channel_title": "Foltyn Reacts",
+      "channel_id": "UCD4UWbxOOrFsxkMMfjYQ0VA",
+      "published_at": "2026-07-31T17:31:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y8TieBZEcbE/hqdefault.jpg",
+      "duration": "PT19M14S",
+      "duration_seconds": 1154,
+      "view_count": 535629,
+      "like_count": 17274,
+      "comment_count": 4880,
+      "category_id": "24",
+      "tags": [
+        "Foltyn",
+        "Foltyn family",
+        "foltyn reacts",
+        "reaction",
+        "foltyn reacting",
+        "foltynplays",
+        "roblox foltyn",
+        "foltyn reaction",
+        "foltyn roblox",
+        "sssniperwolf"
+      ],
+      "url": "https://www.youtube.com/watch?v=y8TieBZEcbE"
+    },
+    {
+      "video_id": "cNTGdpXAM5M",
+      "title": "Steel Wool dropped ANOTHER Teaser for the Next FNAF Game!! | FNAF Theory",
+      "description": "Go to http://protonvpn.com/ryetoast to get up to 70% discount when you sign up to Proton VPN 2-year plan.\n--------------------------------------------------------------------------------------------------------\nOkay it's GOTTA be actual FNAF teasers at this point. There's two of them and we're like a week away from the FNAF anniversary. It's GOTTA be actual teasers for the next Five Nights at Freddy's game in SOME way. \n--------------------------------------------------------------------------------------------------------\nFollow me on twitch!\nhttps://www.twitch.tv/ryetoastyt\nThe Theories: @RyeToast \nThe Gaming: @RyeTwost \nThe Long Stuff: @RyeDoze \nThumbnail art by BarBADroid\nhttps://x.com/BarBADroid\nHere are all my socials and ways to support the channel!\nhttps://ryetoast.carrd.co\nJoin our growing community on discord! \nhttps://discord.gg/hcWdnBCJ4A\n---------------------------------------------------------------------------------------------------------\nFor Brand Deals and Sponsorship",
+      "channel_title": "RyeToast",
+      "channel_id": "UC6cXXSd9InsR1kaH-JHJeNw",
+      "published_at": "2026-07-31T18:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNTGdpXAM5M/hqdefault.jpg",
+      "duration": "PT13M13S",
+      "duration_seconds": 793,
+      "view_count": 47678,
+      "like_count": 3890,
+      "comment_count": 552,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "security breach",
+        "fnaf security breach",
+        "fnaf",
+        "FuhNaff",
+        "Steel Wool",
+        "Game Theory",
+        "fnaf ruin",
+        "fnaf help wanted",
+        "fnaf vr 2",
+        "fnaf vr 2 trailer"
       ],
-      "url": "https://www.youtube.com/watch?v=9kYDgXfmGRY"
+      "url": "https://www.youtube.com/watch?v=cNTGdpXAM5M"
+    },
+    {
+      "video_id": "Wms577MmvuI",
+      "title": "The SAD STORY of Cash..",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-07-31T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wms577MmvuI/hqdefault.jpg",
+      "duration": "PT15M40S",
+      "duration_seconds": 940,
+      "view_count": 421028,
+      "like_count": 6402,
+      "comment_count": 1151,
+      "category_id": "24",
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=Wms577MmvuI"
     },
     {
       "video_id": "1yMOZlYqsnY",
@@ -123,9 +222,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1yMOZlYqsnY/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 346523,
-      "like_count": 7900,
-      "comment_count": 964,
+      "view_count": 391867,
+      "like_count": 8139,
+      "comment_count": 990,
       "category_id": "24",
       "tags": [
         "Dungeons & Dragons",
@@ -142,58 +241,6 @@
       "url": "https://www.youtube.com/watch?v=1yMOZlYqsnY"
     },
     {
-      "video_id": "Wms577MmvuI",
-      "title": "The SAD STORY of Cash..",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-07-31T15:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wms577MmvuI/hqdefault.jpg",
-      "duration": "PT15M40S",
-      "duration_seconds": 940,
-      "view_count": 339054,
-      "like_count": 5773,
-      "comment_count": 1104,
-      "category_id": "24",
-      "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=Wms577MmvuI"
-    },
-    {
-      "video_id": "pjVMQ4TdPFc",
-      "title": "WICKER Trailer (2026) Olivia Colman",
-      "description": "WICKER Trailer (2026) Olivia Colman, Peter Dinklage, Alexander Skarsgård\n© 2026 - Black Bear",
-      "channel_title": "ONE Media Coverage",
-      "channel_id": "UCwYzZs_hwA6NdaQp6Hjhe5w",
-      "published_at": "2026-07-30T14:39:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pjVMQ4TdPFc/hqdefault.jpg",
-      "duration": "PT2M45S",
-      "duration_seconds": 165,
-      "view_count": 220392,
-      "like_count": 4397,
-      "comment_count": 327,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "2026",
-        "Wicker",
-        "Wicker Trailer",
-        "Olivia Colman",
-        "Peter Dinklage",
-        "Alexander Skarsgård"
-      ],
-      "url": "https://www.youtube.com/watch?v=pjVMQ4TdPFc"
-    },
-    {
       "video_id": "LAf_6OwDodc",
       "title": "This Island is Making us Crazy",
       "description": "SMii7Y x BLDBLZ IS BACK! A new drop unlike anything else on August 7th! JOIN THE WAITLIST NOW http://bldblz.com/smii7y\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Blar",
@@ -203,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LAf_6OwDodc/hqdefault.jpg",
       "duration": "PT45M34S",
       "duration_seconds": 2734,
-      "view_count": 1430411,
-      "like_count": 70493,
-      "comment_count": 2377,
+      "view_count": 1482276,
+      "like_count": 72081,
+      "comment_count": 2401,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -220,51 +267,6 @@
         "horror games"
       ],
       "url": "https://www.youtube.com/watch?v=LAf_6OwDodc"
-    },
-    {
-      "video_id": "cNTGdpXAM5M",
-      "title": "Steel Wool dropped ANOTHER Teaser for the Next FNAF Game!! | FNAF Theory",
-      "description": "Go to http://protonvpn.com/ryetoast to get up to 70% discount when you sign up to Proton VPN 2-year plan.\n--------------------------------------------------------------------------------------------------------\nOkay it's GOTTA be actual FNAF teasers at this point. There's two of them and we're like a week away from the FNAF anniversary. It's GOTTA be actual teasers for the next Five Nights at Freddy's game in SOME way. \n--------------------------------------------------------------------------------------------------------\nFollow me on twitch!\nhttps://www.twitch.tv/ryetoastyt\nThe Theories: @RyeToast \nThe Gaming: @RyeTwost \nThe Long Stuff: @RyeDoze \nThumbnail art by BarBADroid\nhttps://x.com/BarBADroid\nHere are all my socials and ways to support the channel!\nhttps://ryetoast.carrd.co\nJoin our growing community on discord! \nhttps://discord.gg/hcWdnBCJ4A\n---------------------------------------------------------------------------------------------------------\nFor Brand Deals and Sponsorship",
-      "channel_title": "RyeToast",
-      "channel_id": "UC6cXXSd9InsR1kaH-JHJeNw",
-      "published_at": "2026-07-31T18:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cNTGdpXAM5M/hqdefault.jpg",
-      "duration": "PT13M13S",
-      "duration_seconds": 793,
-      "view_count": 35422,
-      "like_count": 3306,
-      "comment_count": 475,
-      "category_id": "20",
-      "tags": [
-        "security breach",
-        "fnaf security breach",
-        "fnaf",
-        "FuhNaff",
-        "Steel Wool",
-        "Game Theory",
-        "fnaf ruin",
-        "fnaf help wanted",
-        "fnaf vr 2",
-        "fnaf vr 2 trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=cNTGdpXAM5M"
-    },
-    {
-      "video_id": "R8hmr0fXScc",
-      "title": "SHORT STREAM",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nTimestamps:\n\n00:00 - Intro/Miscellaneous R6 Reacts/Reacting to Speed Hitting 60 Million Subs \n1:00:40 - Scary Game 2 \n1:21:07 - Solo to Champ R6\n\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-07-31T21:33:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R8hmr0fXScc/hqdefault.jpg",
-      "duration": "PT3H58M14S",
-      "duration_seconds": 14294,
-      "view_count": 344990,
-      "like_count": 5481,
-      "comment_count": 36,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=R8hmr0fXScc"
     }
   ],
   "videos_with_transcripts": [],
@@ -279,9 +281,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
       "duration": "PT4M10S",
       "duration_seconds": 250,
-      "view_count": 13339900,
-      "like_count": 345231,
-      "comment_count": 34525,
+      "view_count": 13510600,
+      "like_count": 351238,
+      "comment_count": 35279,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
@@ -296,9 +298,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XBmyzLcaDaI/hqdefault.jpg",
       "duration": "PT34M18S",
       "duration_seconds": 2058,
-      "view_count": 536199,
-      "like_count": 41841,
-      "comment_count": 2838,
+      "view_count": 840568,
+      "like_count": 54316,
+      "comment_count": 3118,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -315,6 +317,51 @@
       "url": "https://www.youtube.com/watch?v=XBmyzLcaDaI"
     },
     {
+      "video_id": "JH25LjG7R7k",
+      "title": "WICKER Official Trailer (2026) Alexander Skarsgård",
+      "description": "First movie trailer for Wicker starring Peter Dinklage, Alexander Skarsgård.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-07-30T14:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JH25LjG7R7k/hqdefault.jpg",
+      "duration": "PT2M39S",
+      "duration_seconds": 159,
+      "view_count": 172324,
+      "like_count": 2582,
+      "comment_count": 313,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=JH25LjG7R7k"
+    },
+    {
+      "video_id": "M3H8u3Y0S-s",
+      "title": "Five Nights at Freddy's 2: 10/20 COMPLETE (no cheats)",
+      "description": "Yes, I cheated in my original Five Nights at Freddy's 2 video. So I set out to beat it legitimately with no exploits and no cheats... but in my quest I may have just stumbled across a strategy that could solve FNAF 2 once and for all. Could this be enough for my redemption?\n\nMore FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-07-31T23:28:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M3H8u3Y0S-s/hqdefault.jpg",
+      "duration": "PT19M33S",
+      "duration_seconds": 1173,
+      "view_count": 403783,
+      "like_count": 88203,
+      "comment_count": 7902,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddy's",
+        "cheating",
+        "cheated",
+        "markiplier fnaf 2",
+        "five nights at freddy's 2 10/20 mode",
+        "10/20 mode",
+        "ultimate custom night",
+        "minus 7",
+        "fnaf 2"
+      ],
+      "url": "https://www.youtube.com/watch?v=M3H8u3Y0S-s"
+    },
+    {
       "video_id": "funfFAMMBBs",
       "title": "MARVEL Tōkon: Fighting Souls - Launch Trailer",
       "description": "Assemble your team of iconic Marvel Heroes and Villains in MARVEL Tōkon: Fighting Souls, the Ultimate 4v4 Tag-Team Fighter!\n\nThe Champion has set his sights on Earth. Build your dream team of legendary Marvel characters, unleash explosive 4v4 tag battles, and rise to his challenge to save the planet.\n\nFight your way through ranked online matches, challenge friends in local battles, experience five original stories in Episode Mode, explore the Online Lobby, and master a launch roster of 20 iconic Marvel characters.\n\nMARVEL Tōkon: Fighting Souls is available August 6 on PlayStation 5 and PC (Steam & Epic Games Store).",
@@ -324,9 +371,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/funfFAMMBBs/hqdefault.jpg",
       "duration": "PT2M14S",
       "duration_seconds": 134,
-      "view_count": 97206,
-      "like_count": 6822,
-      "comment_count": 581,
+      "view_count": 105605,
+      "like_count": 7072,
+      "comment_count": 598,
       "category_id": "20",
       "tags": [
         "Marvel",
@@ -343,84 +390,32 @@
       "url": "https://www.youtube.com/watch?v=funfFAMMBBs"
     },
     {
-      "video_id": "Wms577MmvuI",
-      "title": "The SAD STORY of Cash..",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-07-31T15:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wms577MmvuI/hqdefault.jpg",
-      "duration": "PT15M40S",
-      "duration_seconds": 940,
-      "view_count": 339054,
-      "like_count": 5773,
-      "comment_count": 1104,
+      "video_id": "y8TieBZEcbE",
+      "title": "His Story Is INSANE..",
+      "description": "subscribe for more :)\n\nFOLTYN FAMILY MERCH: https://foltyn.shop/\n\n-Socials-\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/1177555...\n\nInsta: https://www.instagram.com/foltynn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a mul",
+      "channel_title": "Foltyn Reacts",
+      "channel_id": "UCD4UWbxOOrFsxkMMfjYQ0VA",
+      "published_at": "2026-07-31T17:31:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y8TieBZEcbE/hqdefault.jpg",
+      "duration": "PT19M14S",
+      "duration_seconds": 1154,
+      "view_count": 535629,
+      "like_count": 17274,
+      "comment_count": 4880,
       "category_id": "24",
       "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
+        "Foltyn",
+        "Foltyn family",
+        "foltyn reacts",
+        "reaction",
+        "foltyn reacting",
+        "foltynplays",
+        "roblox foltyn",
+        "foltyn reaction",
+        "foltyn roblox",
+        "sssniperwolf"
       ],
-      "url": "https://www.youtube.com/watch?v=Wms577MmvuI"
-    },
-    {
-      "video_id": "pjVMQ4TdPFc",
-      "title": "WICKER Trailer (2026) Olivia Colman",
-      "description": "WICKER Trailer (2026) Olivia Colman, Peter Dinklage, Alexander Skarsgård\n© 2026 - Black Bear",
-      "channel_title": "ONE Media Coverage",
-      "channel_id": "UCwYzZs_hwA6NdaQp6Hjhe5w",
-      "published_at": "2026-07-30T14:39:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pjVMQ4TdPFc/hqdefault.jpg",
-      "duration": "PT2M45S",
-      "duration_seconds": 165,
-      "view_count": 220392,
-      "like_count": 4397,
-      "comment_count": 327,
-      "category_id": "1",
-      "tags": [
-        "movie trailer",
-        "new trailer",
-        "2026",
-        "Wicker",
-        "Wicker Trailer",
-        "Olivia Colman",
-        "Peter Dinklage",
-        "Alexander Skarsgård"
-      ],
-      "url": "https://www.youtube.com/watch?v=pjVMQ4TdPFc"
-    },
-    {
-      "video_id": "LAf_6OwDodc",
-      "title": "This Island is Making us Crazy",
-      "description": "SMii7Y x BLDBLZ IS BACK! A new drop unlike anything else on August 7th! JOIN THE WAITLIST NOW http://bldblz.com/smii7y\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Blar",
-      "channel_title": "SMii7Yplus",
-      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
-      "published_at": "2026-07-30T19:13:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LAf_6OwDodc/hqdefault.jpg",
-      "duration": "PT45M34S",
-      "duration_seconds": 2734,
-      "view_count": 1430411,
-      "like_count": 70493,
-      "comment_count": 2377,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "the mound omen of cthulhu",
-        "the mound: omen of cthulhu",
-        "exploration",
-        "steam games",
-        "the mound",
-        "horror games"
-      ],
-      "url": "https://www.youtube.com/watch?v=LAf_6OwDodc"
+      "url": "https://www.youtube.com/watch?v=y8TieBZEcbE"
     },
     {
       "video_id": "cNTGdpXAM5M",
@@ -432,9 +427,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cNTGdpXAM5M/hqdefault.jpg",
       "duration": "PT13M13S",
       "duration_seconds": 793,
-      "view_count": 35422,
-      "like_count": 3306,
-      "comment_count": 475,
+      "view_count": 47678,
+      "like_count": 3890,
+      "comment_count": 552,
       "category_id": "20",
       "tags": [
         "security breach",
@@ -451,49 +446,58 @@
       "url": "https://www.youtube.com/watch?v=cNTGdpXAM5M"
     },
     {
-      "video_id": "R8hmr0fXScc",
-      "title": "SHORT STREAM",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nTimestamps:\n\n00:00 - Intro/Miscellaneous R6 Reacts/Reacting to Speed Hitting 60 Million Subs \n1:00:40 - Scary Game 2 \n1:21:07 - Solo to Champ R6\n\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-07-31T21:33:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R8hmr0fXScc/hqdefault.jpg",
-      "duration": "PT3H58M14S",
-      "duration_seconds": 14294,
-      "view_count": 344990,
-      "like_count": 5481,
-      "comment_count": 36,
+      "video_id": "Wms577MmvuI",
+      "title": "The SAD STORY of Cash..",
+      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+      "channel_title": "Cash",
+      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+      "published_at": "2026-07-31T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wms577MmvuI/hqdefault.jpg",
+      "duration": "PT15M40S",
+      "duration_seconds": 940,
+      "view_count": 421028,
+      "like_count": 6402,
+      "comment_count": 1151,
       "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=R8hmr0fXScc"
+      "tags": [
+        "Cash",
+        "Nico",
+        "Nico and Cash",
+        "Cash and Nico",
+        "Minecraft",
+        "Minecraft mod",
+        "family friendly",
+        "kid friendly"
+      ],
+      "url": "https://www.youtube.com/watch?v=Wms577MmvuI"
     },
     {
-      "video_id": "9kYDgXfmGRY",
-      "title": "roblox best gameplay",
-      "description": "roblox insane moment aura #roblox #shorts #usa",
-      "channel_title": "StanRP",
-      "channel_id": "UCHYA5HNaS5n4idxmP-at8nA",
-      "published_at": "2026-07-31T18:13:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9kYDgXfmGRY/hqdefault.jpg",
-      "duration": "PT14S",
-      "duration_seconds": 14,
-      "view_count": 400560,
-      "like_count": 4004,
-      "comment_count": 2,
+      "video_id": "LAf_6OwDodc",
+      "title": "This Island is Making us Crazy",
+      "description": "SMii7Y x BLDBLZ IS BACK! A new drop unlike anything else on August 7th! JOIN THE WAITLIST NOW http://bldblz.com/smii7y\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Blar",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-07-30T19:13:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LAf_6OwDodc/hqdefault.jpg",
+      "duration": "PT45M34S",
+      "duration_seconds": 2734,
+      "view_count": 1482276,
+      "like_count": 72081,
+      "comment_count": 2401,
       "category_id": "20",
       "tags": [
-        "roblox",
-        "granny",
-        "free fire",
-        "live roblox",
-        "roblox shorts",
-        "shorts feed",
-        "67",
-        "six seven",
-        "meme reset",
-        "singing brainrot song"
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "the mound omen of cthulhu",
+        "the mound: omen of cthulhu",
+        "exploration",
+        "steam games",
+        "the mound",
+        "horror games"
       ],
-      "url": "https://www.youtube.com/watch?v=9kYDgXfmGRY"
+      "url": "https://www.youtube.com/watch?v=LAf_6OwDodc"
     },
     {
       "video_id": "1yMOZlYqsnY",
@@ -505,9 +509,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1yMOZlYqsnY/hqdefault.jpg",
       "duration": "PT39S",
       "duration_seconds": 39,
-      "view_count": 346523,
-      "like_count": 7900,
-      "comment_count": 964,
+      "view_count": 391867,
+      "like_count": 8139,
+      "comment_count": 990,
       "category_id": "24",
       "tags": [
         "Dungeons & Dragons",
@@ -528,59 +532,44 @@
     "transcript_based": null,
     "metadata_based": {
       "content_trends": {
-        "genres_and_themes": {
-          "entertainment": 3,
+        "genre_focus": {
+          "trailers": 5,
           "gaming": 3,
-          "trailer_and_teasers": 4,
-          "documentary_or_reality": 1,
-          "religious_or_historical": 1
+          "personal_stories": 2
         },
-        "insight": "Trailers and teasers dominate the trending list, highlighting a strong viewer interest in upcoming media releases. This indicates a market opportunity for content that builds anticipation for new releases in both entertainment and gaming sectors."
-      },
-      "creator_patterns": {
-        "major_channels": {
-          "Sony Pictures Entertainment": {
-            "video_count": 1,
-            "category": "entertainment"
-          },
-          "MARVEL Tokon: Fighting Souls": {
-            "video_count": 1,
-            "category": "gaming"
-          },
-          "Dungeons & Dragons": {
-            "video_count": 1,
-            "category": "entertainment/gaming"
-          }
-        },
-        "insight": "Established channels with strong brand recognition like Sony Pictures and Marvel continue to capture audience attention with high-production-value content. Emerging creators should consider collaborating with such brands or adopting similar high-quality production strategies."
-      },
-      "market_opportunities": {
-        "gaming_content": {
-          "trending_videos": [
-            "roblox best gameplay",
-            "Steel Wool dropped ANOTHER Teaser for the Next FNAF Game!! | FNAF Theory"
-          ],
-          "insight": "Gaming content, especially related to popular franchises like Roblox and FNAF, remains popular. There is an opportunity for creators to capitalize on nostalgic or sequel content within established gaming communities."
-        },
-        "diverse_content_types": {
-          "trending_videos": [
-            "This Island is Making us Crazy",
-            "The SAD STORY of Cash.."
-          ],
-          "insight": "Content that tells unique, personal, or comedic stories is also trending. Creators can explore niche storytelling or reality-based content to engage viewers looking for relatable or humorous experiences."
-        },
-        "religious_and_historical": {
-          "trending_videos": [
-            "RAMAYANA - Official Trailer"
-          ],
-          "insight": "There is a growing interest in content that explores religious and historical themes. This suggests potential for educational or cultural content that provides deeper insights into these areas."
+        "insights": {
+          "trailer_dominance": "50% of the trending videos are trailers, indicating high viewer interest in upcoming movies and games.",
+          "gaming_influence": "30% of the videos are gaming-related, showcasing sustained interest in gaming content, particularly around popular franchises like Five Nights at Freddy's.",
+          "personal_narratives": "20% of the videos focus on personal or emotional stories, suggesting a niche audience engagement with content that has strong narrative components."
         }
       },
-      "data_summary": {
-        "total_videos": 10,
-        "total_views": 17090657,
-        "average_views_per_video": 1709065.7,
-        "insight": "With an average of over 1.7 million views per video, trending content on YouTube indicates significant viewer engagement. This suggests that focusing on trending topics or leveraging popular themes could enhance visibility and viewer interaction."
+      "creator_patterns": {
+        "high_engagement_channels": {
+          "Sony Pictures Entertainment": "Presence of major entertainment companies like Sony signifies a competitive advantage in creating high-interest content.",
+          "Markiplier": "Popular gaming creators like Markiplier have substantial influence and can drive significant traffic to gaming content.",
+          "emerging_channels": "Channels like SMii7Y and MARVEL Tokon: Fighting Souls indicate newer or niche channels gaining traction with specific content types."
+        },
+        "insights": {
+          "brand_influence": "Large brands continue to dominate with polished trailers and official reveals.",
+          "creator diversity": "The presence of both large brands and individual creators highlights a diverse content landscape where both professional and personal content can trend."
+        }
+      },
+      "market_opportunities": {
+        "content_creation": {
+          "opportunity_for_trailers": "Creating high-quality trailer content for new or indie films and games could capture audience interest.",
+          "gaming_content": "Producing content around popular game franchises or emerging games could capitalize on the gaming trend."
+        },
+        "collaborations": {
+          "potential_for_collaborations": "Collaborating with established creators like Markiplier or channels like Movie Trailers Source can enhance visibility and reach."
+        },
+        "narrative_storytelling": {
+          "story-driven_content": "Developing content that focuses on compelling narratives or personal stories can tap into the audience's emotional engagement."
+        }
+      },
+      "data_driven_recommendations": {
+        "engage_with_trending_genres": "To maximize reach, content creators should focus on trailers, gaming, and narrative content.",
+        "leverage_existing_audience": "Channels with existing audiences should explore trending topics within their niche to maintain and grow engagement.",
+        "explore_cross-promotional_opportunities": "Cross-promotions between channels with complementary content types can expand viewership and subscriber base."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -588,7 +577,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1709065
+        "avg_views_per_video": 1791135
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
