@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-01T21:21:52.825636",
-  "date": "2026-08-01",
+  "timestamp": "2026-08-02T00:51:01.112872",
+  "date": "2026-08-02",
   "summary": {
     "total_videos_analyzed": 9,
     "music_videos_filtered": 5,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2X9tFQI4jis/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 94991,
-      "like_count": 383,
-      "comment_count": 83,
+      "view_count": 110755,
+      "like_count": 428,
+      "comment_count": 87,
       "category_id": "1",
       "tags": [
         "movie",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 3595344,
-      "like_count": 196674,
-      "comment_count": 8068,
+      "view_count": 6050309,
+      "like_count": 267362,
+      "comment_count": 9794,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
@@ -67,12 +67,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
       "duration": "PT14M7S",
       "duration_seconds": 847,
-      "view_count": 38441,
-      "like_count": 1369,
-      "comment_count": 623,
+      "view_count": 45891,
+      "like_count": 1540,
+      "comment_count": 705,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
+    },
+    {
+      "video_id": "MiwObwZw-Lc",
+      "title": "Five Nights at Freddy's: Return of the King",
+      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-08-01T22:43:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
+      "duration": "PT3H29M24S",
+      "duration_seconds": 12564,
+      "view_count": 1090878,
+      "like_count": 74406,
+      "comment_count": 624,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama"
+      ],
+      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
     },
     {
       "video_id": "JIqKjjTfOxM",
@@ -84,9 +108,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 1157628,
-      "like_count": 57654,
-      "comment_count": 1069,
+      "view_count": 1191910,
+      "like_count": 58252,
+      "comment_count": 1091,
       "category_id": "24",
       "tags": [
         "Korean Kanakaraju Trailer",
@@ -103,6 +127,23 @@
       "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM"
     },
     {
+      "video_id": "1zip1rNaNYs",
+      "title": "RAMAYANA - Official Trailer",
+      "description": "The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Screenplay by Shridhar Raghavan & Nitesh Tiwari\nMusic by Hans Zimmer & A.R. Rahman\nLyrics by Kumar Vishwas\n\n\nMusic Supervisor & Editor - Hiral Viradia & A.R. Ameen \nSolo Violin- Rangapriya \nShloka Sung by Rakshita Suresh\nSitar by Rishab Rikhiram Sharma\n\nExtended Credits:\nChorus Conducted by Arjun Chandy \nChorus- Mahalingam, Vaishali Samant, Vipin Aneja, Deepthi Suresh, Sarath Santosh, Aravind Srinivasan, Aparna Harikumar \nMusic Mixed by Suresh Permal \nAdditional Programming - Prashanth Venkat, Shubham Bhat & Sidharth Narayanan\n\nPresented by Prime Focus Studios in association with Monster Mind Creations\n\nGlobal Distribution b",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2026-07-30T05:13:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
+      "duration": "PT4M10S",
+      "duration_seconds": 250,
+      "view_count": 15972731,
+      "like_count": 383102,
+      "comment_count": 39385,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+    },
+    {
       "video_id": "vqlHSPlRDbs",
       "title": "Hero Valkyrie: A Hero Written in Stone",
       "description": "X ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock powerful new Cards to your collection!\n\nBATTLE YOUR WAY TO THE TOP\nBattle your way to",
@@ -112,9 +153,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vqlHSPlRDbs/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 966110,
-      "like_count": 33071,
-      "comment_count": 751,
+      "view_count": 1207904,
+      "like_count": 38763,
+      "comment_count": 833,
       "category_id": "20",
       "tags": [
         "Clash Royale",
@@ -127,105 +168,49 @@
       "url": "https://www.youtube.com/watch?v=vqlHSPlRDbs"
     },
     {
-      "video_id": "1zip1rNaNYs",
-      "title": "RAMAYANA - Official Trailer",
-      "description": "The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Screenplay by Shridhar Raghavan & Nitesh Tiwari\nMusic by Hans Zimmer & A.R. Rahman\nLyrics by Kumar Vishwas\n\n\nMusic Supervisor & Editor - Hiral Viradia & A.R. Ameen \nSolo Violin- Rangapriya \nShloka Sung by Rakshita Suresh\nSitar by Rishab Rikhiram Sharma\n\nExtended Credits:\nChorus Conducted by Arjun Chandy \nChorus- Mahalingam, Vaishali Samant, Vipin Aneja, Deepthi Suresh, Sarath Santosh, Aravind Srinivasan, Aparna Harikumar \nMusic Mixed by Suresh Permal \nAdditional Programming - Prashanth Venkat, Shubham Bhat & Sidharth Narayanan\n\nPresented by Prime Focus Studios in association with Monster Mind Creations\n\nGlobal Distribution b",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-07-30T05:13:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
-      "duration": "PT4M10S",
-      "duration_seconds": 250,
-      "view_count": 15870294,
-      "like_count": 382256,
-      "comment_count": 39257,
-      "category_id": "24",
+      "video_id": "JH25LjG7R7k",
+      "title": "WICKER Official Trailer (2026) Alexander Skarsgård",
+      "description": "First movie trailer for Wicker starring Peter Dinklage, Alexander Skarsgård.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-07-30T14:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JH25LjG7R7k/hqdefault.jpg",
+      "duration": "PT2M39S",
+      "duration_seconds": 159,
+      "view_count": 272897,
+      "like_count": 3698,
+      "comment_count": 482,
+      "category_id": "1",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+      "url": "https://www.youtube.com/watch?v=JH25LjG7R7k"
     },
     {
-      "video_id": "M3H8u3Y0S-s",
-      "title": "Five Nights at Freddy's 2: 10/20 COMPLETE (no cheats)",
-      "description": "Yes, I cheated in my original Five Nights at Freddy's 2 video. So I set out to beat it legitimately with no exploits and no cheats... but in my quest I may have just stumbled across a strategy that could solve FNAF 2 once and for all. Could this be enough for my redemption?\n\nMore FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-07-31T23:28:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3H8u3Y0S-s/hqdefault.jpg",
-      "duration": "PT19M33S",
-      "duration_seconds": 1173,
-      "view_count": 1556486,
-      "like_count": 214199,
-      "comment_count": 13489,
+      "video_id": "FrL13EvDSIM",
+      "title": "They killed the greatest franchise of all time..",
+      "description": "Asmongold reacts to https://youtube.com/watch?v=kkHVTAkaMdk\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-08-01T12:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FrL13EvDSIM/hqdefault.jpg",
+      "duration": "PT24M57S",
+      "duration_seconds": 1497,
+      "view_count": 750262,
+      "like_count": 42150,
+      "comment_count": 6986,
       "category_id": "20",
       "tags": [
-        "markiplier",
-        "five nights at freddy's",
-        "cheating",
-        "cheated",
-        "markiplier fnaf 2",
-        "five nights at freddy's 2 10/20 mode",
-        "10/20 mode",
-        "ultimate custom night",
-        "minus 7",
-        "fnaf 2"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=M3H8u3Y0S-s"
-    },
-    {
-      "video_id": "nSDo_Z_DrJQ",
-      "title": "DRAMATIC RHOA Season 17 Reunion Extended Trailer Reactions + Casting TEA",
-      "description": "Y'all... the RHOA Season 17 Reunion trailer is finally here and BABY... the Atlanta Housewives are not playing with us! 👀\n\nThe ladies are not playing this year. The Real Housewives of Atlanta Season 17 reunion trailer just dropped and it’s pure chaos in the best way.It starts with the cast turning the stage into a full-on dance party… then the good vibes die instantly as all the season’s beefs explode. Andy Cohen gives Cynthia Bailey a hilarious (and shady) recap of everything she missed, then drops a shocking question that has Phaedra yelling “Oh Lord!”Expect major face-offs:\n\n• Shamea vs Angela & Porsha\n• Drew vs K. Michelle (clapperboard moment )\n• Porsha vs Kelli & K. Michelle\n• Kelli vs Angela (that read is savage)\n• Phaedra vs Pinky\n• Plus Porsha opening up about being “so in love” with SwayThis three-part reunion is stacking up to be one of the most dramatic in years.\n\nRHOA Reunion Part 1 airs Sunday, August 9 at 8/7c on Bravo (extended & uncensored the next day on Peacock).\n\nWh",
-      "channel_title": "Bingeworthy",
-      "channel_id": "UCK6I9vhNGIAEP90cIvBWfFw",
-      "published_at": "2026-07-31T23:54:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nSDo_Z_DrJQ/hqdefault.jpg",
-      "duration": "PT19M9S",
-      "duration_seconds": 1149,
-      "view_count": 31154,
-      "like_count": 1999,
-      "comment_count": 536,
-      "category_id": "22",
-      "tags": [
-        "RHOA mid season trailer",
-        "Real Housewives of Atlanta",
-        "RHOA Season 17",
-        "RHOA trailer",
-        "RHOA Season 17 trailer",
-        "Real Housewives of Atlanta Season 17",
-        "K Michelle RHOA",
-        "Bravo reality TV",
-        "K michelle",
-        "Atlanta"
-      ],
-      "url": "https://www.youtube.com/watch?v=nSDo_Z_DrJQ"
-    },
-    {
-      "video_id": "XBmyzLcaDaI",
-      "title": "OH MY GOD...",
-      "description": "SMii7Y x BLDBLZ IS BACK! A new drop unlike anything else on August 7th! JOIN THE WAITLIST NOW http://bldblz.com/smii7y\n\nFunnel Runners is insane...\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@daukey \n@imSovi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps:/",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-07-31T19:13:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XBmyzLcaDaI/hqdefault.jpg",
-      "duration": "PT34M18S",
-      "duration_seconds": 2058,
-      "view_count": 1822391,
-      "like_count": 86513,
-      "comment_count": 3766,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "funnel runners",
-        "funnel runners game",
-        "co op funny moments",
-        "funnel runners multiplayer",
-        "storm chasing game",
-        "natural disaster game"
-      ],
-      "url": "https://www.youtube.com/watch?v=XBmyzLcaDaI"
+      "url": "https://www.youtube.com/watch?v=FrL13EvDSIM"
     }
   ],
   "videos_with_transcripts": [],
@@ -240,9 +225,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2X9tFQI4jis/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 94991,
-      "like_count": 383,
-      "comment_count": 83,
+      "view_count": 110755,
+      "like_count": 428,
+      "comment_count": 87,
       "category_id": "1",
       "tags": [
         "movie",
@@ -268,9 +253,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 3595344,
-      "like_count": 196674,
-      "comment_count": 8068,
+      "view_count": 6050309,
+      "like_count": 267362,
+      "comment_count": 9794,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
@@ -285,12 +270,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
       "duration": "PT14M7S",
       "duration_seconds": 847,
-      "view_count": 38441,
-      "like_count": 1369,
-      "comment_count": 623,
+      "view_count": 45891,
+      "like_count": 1540,
+      "comment_count": 705,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
+    },
+    {
+      "video_id": "MiwObwZw-Lc",
+      "title": "Five Nights at Freddy's: Return of the King",
+      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-08-01T22:43:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
+      "duration": "PT3H29M24S",
+      "duration_seconds": 12564,
+      "view_count": 1090878,
+      "like_count": 74406,
+      "comment_count": 624,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama"
+      ],
+      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
     },
     {
       "video_id": "JIqKjjTfOxM",
@@ -302,9 +311,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 1157628,
-      "like_count": 57654,
-      "comment_count": 1069,
+      "view_count": 1191910,
+      "like_count": 58252,
+      "comment_count": 1091,
       "category_id": "24",
       "tags": [
         "Korean Kanakaraju Trailer",
@@ -321,6 +330,23 @@
       "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM"
     },
     {
+      "video_id": "1zip1rNaNYs",
+      "title": "RAMAYANA - Official Trailer",
+      "description": "The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Screenplay by Shridhar Raghavan & Nitesh Tiwari\nMusic by Hans Zimmer & A.R. Rahman\nLyrics by Kumar Vishwas\n\n\nMusic Supervisor & Editor - Hiral Viradia & A.R. Ameen \nSolo Violin- Rangapriya \nShloka Sung by Rakshita Suresh\nSitar by Rishab Rikhiram Sharma\n\nExtended Credits:\nChorus Conducted by Arjun Chandy \nChorus- Mahalingam, Vaishali Samant, Vipin Aneja, Deepthi Suresh, Sarath Santosh, Aravind Srinivasan, Aparna Harikumar \nMusic Mixed by Suresh Permal \nAdditional Programming - Prashanth Venkat, Shubham Bhat & Sidharth Narayanan\n\nPresented by Prime Focus Studios in association with Monster Mind Creations\n\nGlobal Distribution b",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2026-07-30T05:13:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
+      "duration": "PT4M10S",
+      "duration_seconds": 250,
+      "view_count": 15972731,
+      "like_count": 383102,
+      "comment_count": 39385,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+    },
+    {
       "video_id": "vqlHSPlRDbs",
       "title": "Hero Valkyrie: A Hero Written in Stone",
       "description": "X ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Tower Troops from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock powerful new Cards to your collection!\n\nBATTLE YOUR WAY TO THE TOP\nBattle your way to",
@@ -330,9 +356,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vqlHSPlRDbs/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 966110,
-      "like_count": 33071,
-      "comment_count": 751,
+      "view_count": 1207904,
+      "like_count": 38763,
+      "comment_count": 833,
       "category_id": "20",
       "tags": [
         "Clash Royale",
@@ -345,190 +371,110 @@
       "url": "https://www.youtube.com/watch?v=vqlHSPlRDbs"
     },
     {
-      "video_id": "1zip1rNaNYs",
-      "title": "RAMAYANA - Official Trailer",
-      "description": "The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Screenplay by Shridhar Raghavan & Nitesh Tiwari\nMusic by Hans Zimmer & A.R. Rahman\nLyrics by Kumar Vishwas\n\n\nMusic Supervisor & Editor - Hiral Viradia & A.R. Ameen \nSolo Violin- Rangapriya \nShloka Sung by Rakshita Suresh\nSitar by Rishab Rikhiram Sharma\n\nExtended Credits:\nChorus Conducted by Arjun Chandy \nChorus- Mahalingam, Vaishali Samant, Vipin Aneja, Deepthi Suresh, Sarath Santosh, Aravind Srinivasan, Aparna Harikumar \nMusic Mixed by Suresh Permal \nAdditional Programming - Prashanth Venkat, Shubham Bhat & Sidharth Narayanan\n\nPresented by Prime Focus Studios in association with Monster Mind Creations\n\nGlobal Distribution b",
-      "channel_title": "Sony Pictures Entertainment",
-      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
-      "published_at": "2026-07-30T05:13:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
-      "duration": "PT4M10S",
-      "duration_seconds": 250,
-      "view_count": 15870294,
-      "like_count": 382256,
-      "comment_count": 39257,
-      "category_id": "24",
+      "video_id": "JH25LjG7R7k",
+      "title": "WICKER Official Trailer (2026) Alexander Skarsgård",
+      "description": "First movie trailer for Wicker starring Peter Dinklage, Alexander Skarsgård.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-07-30T14:22:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JH25LjG7R7k/hqdefault.jpg",
+      "duration": "PT2M39S",
+      "duration_seconds": 159,
+      "view_count": 272897,
+      "like_count": 3698,
+      "comment_count": 482,
+      "category_id": "1",
       "tags": [],
-      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+      "url": "https://www.youtube.com/watch?v=JH25LjG7R7k"
     },
     {
-      "video_id": "M3H8u3Y0S-s",
-      "title": "Five Nights at Freddy's 2: 10/20 COMPLETE (no cheats)",
-      "description": "Yes, I cheated in my original Five Nights at Freddy's 2 video. So I set out to beat it legitimately with no exploits and no cheats... but in my quest I may have just stumbled across a strategy that could solve FNAF 2 once and for all. Could this be enough for my redemption?\n\nMore FNAF ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDL09lO0xjKEix84OY27xet",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-07-31T23:28:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3H8u3Y0S-s/hqdefault.jpg",
-      "duration": "PT19M33S",
-      "duration_seconds": 1173,
-      "view_count": 1556486,
-      "like_count": 214199,
-      "comment_count": 13489,
+      "video_id": "FrL13EvDSIM",
+      "title": "They killed the greatest franchise of all time..",
+      "description": "Asmongold reacts to https://youtube.com/watch?v=kkHVTAkaMdk\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-08-01T12:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FrL13EvDSIM/hqdefault.jpg",
+      "duration": "PT24M57S",
+      "duration_seconds": 1497,
+      "view_count": 750262,
+      "like_count": 42150,
+      "comment_count": 6986,
       "category_id": "20",
       "tags": [
-        "markiplier",
-        "five nights at freddy's",
-        "cheating",
-        "cheated",
-        "markiplier fnaf 2",
-        "five nights at freddy's 2 10/20 mode",
-        "10/20 mode",
-        "ultimate custom night",
-        "minus 7",
-        "fnaf 2"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=M3H8u3Y0S-s"
-    },
-    {
-      "video_id": "nSDo_Z_DrJQ",
-      "title": "DRAMATIC RHOA Season 17 Reunion Extended Trailer Reactions + Casting TEA",
-      "description": "Y'all... the RHOA Season 17 Reunion trailer is finally here and BABY... the Atlanta Housewives are not playing with us! 👀\n\nThe ladies are not playing this year. The Real Housewives of Atlanta Season 17 reunion trailer just dropped and it’s pure chaos in the best way.It starts with the cast turning the stage into a full-on dance party… then the good vibes die instantly as all the season’s beefs explode. Andy Cohen gives Cynthia Bailey a hilarious (and shady) recap of everything she missed, then drops a shocking question that has Phaedra yelling “Oh Lord!”Expect major face-offs:\n\n• Shamea vs Angela & Porsha\n• Drew vs K. Michelle (clapperboard moment )\n• Porsha vs Kelli & K. Michelle\n• Kelli vs Angela (that read is savage)\n• Phaedra vs Pinky\n• Plus Porsha opening up about being “so in love” with SwayThis three-part reunion is stacking up to be one of the most dramatic in years.\n\nRHOA Reunion Part 1 airs Sunday, August 9 at 8/7c on Bravo (extended & uncensored the next day on Peacock).\n\nWh",
-      "channel_title": "Bingeworthy",
-      "channel_id": "UCK6I9vhNGIAEP90cIvBWfFw",
-      "published_at": "2026-07-31T23:54:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nSDo_Z_DrJQ/hqdefault.jpg",
-      "duration": "PT19M9S",
-      "duration_seconds": 1149,
-      "view_count": 31154,
-      "like_count": 1999,
-      "comment_count": 536,
-      "category_id": "22",
-      "tags": [
-        "RHOA mid season trailer",
-        "Real Housewives of Atlanta",
-        "RHOA Season 17",
-        "RHOA trailer",
-        "RHOA Season 17 trailer",
-        "Real Housewives of Atlanta Season 17",
-        "K Michelle RHOA",
-        "Bravo reality TV",
-        "K michelle",
-        "Atlanta"
-      ],
-      "url": "https://www.youtube.com/watch?v=nSDo_Z_DrJQ"
-    },
-    {
-      "video_id": "XBmyzLcaDaI",
-      "title": "OH MY GOD...",
-      "description": "SMii7Y x BLDBLZ IS BACK! A new drop unlike anything else on August 7th! JOIN THE WAITLIST NOW http://bldblz.com/smii7y\n\nFunnel Runners is insane...\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@Yumi \n@daukey \n@imSovi \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps:/",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-07-31T19:13:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XBmyzLcaDaI/hqdefault.jpg",
-      "duration": "PT34M18S",
-      "duration_seconds": 2058,
-      "view_count": 1822391,
-      "like_count": 86513,
-      "comment_count": 3766,
-      "category_id": "20",
-      "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "funnel runners",
-        "funnel runners game",
-        "co op funny moments",
-        "funnel runners multiplayer",
-        "storm chasing game",
-        "natural disaster game"
-      ],
-      "url": "https://www.youtube.com/watch?v=XBmyzLcaDaI"
+      "url": "https://www.youtube.com/watch?v=FrL13EvDSIM"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "totalVideos": 9,
-        "totalViews": 25132839,
-        "averageViewsPerVideo": 2792548
+      "video_trends": {
+        "total_videos": 9,
+        "total_views": 26693537,
+        "average_views_per_video": 2965959.67,
+        "key_trends": [
+          {
+            "trend": "Gaming",
+            "evidence": [
+              "Video: Exploring My Abandoned Minecraft Server",
+              "Video: Five Nights at Freddy's: Return of the King",
+              "Channel: MrBeast Gaming"
+            ],
+            "insight": "Gaming content remains popular, with nostalgic and iconic games like Minecraft and Five Nights at Freddy's being central."
+          },
+          {
+            "trend": "Film Trailers",
+            "evidence": [
+              "Video: STREET FIGHTER Blanka vs. Ryu Special Look Trailer",
+              "Video: RAMAYANA - Official Trailer",
+              "Video: WICKER Official Trailer",
+              "Channel: Trailer Feed"
+            ],
+            "insight": "Film trailer content, especially those involving familiar franchises or iconic stories, attracts significant attention."
+          },
+          {
+            "trend": "Pop Culture and TV Series",
+            "evidence": [
+              "Video: Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
+              "Video: They killed the greatest franchise of all time.."
+            ],
+            "insight": "Breakdowns and commentary on popular TV series and franchises engage audiences interested in detailed analysis and opinions."
+          }
+        ]
       },
-      "contentTrends": {
-        "trailerContent": {
-          "description": "Trailers continue to be a significant trend on YouTube, with high engagement across different genres.",
-          "examples": [
-            "STREET FIGHTER Blanka vs. Ryu Special Look Trailer",
-            "Korean Kanakaraju Trailer",
-            "RAMAYANA - Official Trailer"
-          ],
-          "insights": {
-            "popCultureInfluence": "Movies and gaming trailers featuring popular culture icons like 'Street Fighter' tend to generate high interest.",
-            "cross-genreAppeal": "Trailers appeal to a broad audience across different genres like action, drama, and animation."
-          }
-        },
-        "gamingContent": {
-          "description": "Gaming content remains a strong performer, with creators exploring unique aspects of games.",
-          "examples": [
-            "Exploring My Abandoned Minecraft Server",
-            "Five Nights at Freddy's 2: 10/20 COMPLETE"
-          ],
-          "insights": {
-            "communityEngagement": "Nostalgic and challenging game content like 'Five Nights at Freddy's' maintains a dedicated fanbase.",
-            "innovativeContent": "Unique takes on popular games, such as revisiting an abandoned server, attract curiosity-driven views."
-          }
-        },
-        "entertainmentContent": {
-          "description": "Entertainment-related videos, especially those featuring TV series breakdowns and reactions, are popular.",
-          "examples": [
-            "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
-            "DRAMATIC RHOA Season 17 Reunion Extended Trailer Reactions"
-          ],
-          "insights": {
-            "fandomAnalysis": "In-depth analysis and fan theories about ongoing series engage dedicated audiences.",
-            "reactionVideos": "Reaction content adds a personal touch, making fans feel more connected to the media."
-          }
-        }
+      "creator_patterns": {
+        "top_channels": [
+          "Trailer Feed",
+          "MrBeast Gaming",
+          "MOVIE BOT",
+          "Markiplier",
+          "UV Creations"
+        ],
+        "insight": "Channels focused on niche content (e.g., gaming, movies, trailers) are gaining traction due to their specialized appeal. Channels like MrBeast Gaming leverage existing fanbases for cross-platform engagement."
       },
-      "creatorPatterns": {
-        "topChannels": {
-          "description": "Channels specializing in trailers and gaming content are prominent among top performers.",
-          "examples": [
-            "Trailer Feed",
-            "MrBeast Gaming",
-            "MOVIE BOT"
-          ],
-          "insights": {
-            "nicheSpecialization": "Channels focusing on specific niches like trailers or gaming can garner significant audiences.",
-            "cross-promotionPotential": "Collaborative opportunities exist for channels to cross-promote content through shared interests in gaming or entertainment."
-          }
+      "market_opportunities": {
+        "opportunity_1": {
+          "category": "Gaming Content",
+          "suggestion": "Develop content around emerging and classic video games, exploring unique angles such as server explorations, game lore, and community interactions."
         },
-        "emergingCreators": {
-          "description": "Opportunities exist for emerging creators to capitalize on less saturated niches.",
-          "insights": {
-            "diverseContentCreation": "Creators can explore niche topics within popular categories to stand out, such as specialized game challenges or indie film trailers.",
-            "audienceEngagementStrategies": "Interactive content that involves the audience, like live reactions or Q&A sessions, can increase viewer retention."
-          }
-        }
-      },
-      "marketOpportunities": {
-        "trailerContentExpansion": {
-          "insights": {
-            "upcomingReleases": "Focusing on upcoming blockbuster movie and game releases can attract early engagement.",
-            "technologyIntegration": "Incorporating 4K or VR elements in trailers can enhance viewer experience and increase watch time."
-          }
+        "opportunity_2": {
+          "category": "Film and TV Analysis",
+          "suggestion": "Create detailed breakdowns and speculation videos around upcoming films and TV series, leveraging audience interest in narratives and potential plot developments."
         },
-        "gamingNicheExploration": {
-          "insights": {
-            "retroGaming": "Exploring retro or less mainstream games provides content diversity and taps into nostalgic trends.",
-            "gameModificationContent": "Content related to game modifications or custom challenges can engage communities interested in game development."
-          }
-        },
-        "interactiveEntertainment": {
-          "insights": {
-            "liveStreamEvents": "Hosting live events for trailer releases or game challenges can drive real-time engagement.",
-            "fanCollaborations": "Collaborating with fans on content creation can enhance community feel and loyalty."
-          }
+        "opportunity_3": {
+          "category": "Franchise Revivals",
+          "suggestion": "Capitalize on nostalgia by revisiting and analyzing popular franchises, comparing new content with original works to attract both new and returning fans."
         }
       },
       "metadata_stats": {
@@ -537,7 +483,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 2792537
+        "avg_views_per_video": 2965948
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
