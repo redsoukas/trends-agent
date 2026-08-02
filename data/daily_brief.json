@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-02T09:44:25.140128",
+  "timestamp": "2026-08-02T12:30:41.586175",
   "date": "2026-08-02",
   "summary": {
-    "total_videos_analyzed": 8,
-    "music_videos_filtered": 6,
-    "high_potential_videos": 8,
+    "total_videos_analyzed": 9,
+    "music_videos_filtered": 5,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 8,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2X9tFQI4jis/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 145691,
-      "like_count": 497,
-      "comment_count": 100,
+      "view_count": 152453,
+      "like_count": 517,
+      "comment_count": 103,
       "category_id": "1",
       "tags": [
         "movie",
@@ -50,53 +50,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 11883059,
-      "like_count": 441514,
-      "comment_count": 13890,
+      "view_count": 13728939,
+      "like_count": 498444,
+      "comment_count": 15273,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
-    },
-    {
-      "video_id": "CPt7f_iPwlA",
-      "title": "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
-      "description": "",
-      "channel_title": "MOVIE BOT",
-      "channel_id": "UCu1c5btvbPmTgphSX69guNg",
-      "published_at": "2026-08-01T10:04:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
-      "duration": "PT14M7S",
-      "duration_seconds": 847,
-      "view_count": 59357,
-      "like_count": 1763,
-      "comment_count": 803,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
-    },
-    {
-      "video_id": "MiwObwZw-Lc",
-      "title": "Five Nights at Freddy's: Return of the King",
-      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-08-01T22:43:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
-      "duration": "PT3H29M24S",
-      "duration_seconds": 12564,
-      "view_count": 1533351,
-      "like_count": 87993,
-      "comment_count": 1069,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "five nights at freddys",
-        "fnaf",
-        "fnaf 20 mode",
-        "markiplier cheated",
-        "drama"
-      ],
-      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
     },
     {
       "video_id": "BEMURK22eyM",
@@ -108,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BEMURK22eyM/hqdefault.jpg",
       "duration": "PT6M23S",
       "duration_seconds": 383,
-      "view_count": 227730,
-      "like_count": 6094,
-      "comment_count": 1144,
+      "view_count": 352285,
+      "like_count": 7756,
+      "comment_count": 1359,
       "category_id": "24",
       "tags": [
         "trailer",
@@ -127,32 +86,62 @@
       "url": "https://www.youtube.com/watch?v=BEMURK22eyM"
     },
     {
-      "video_id": "X2IS6bc3sJo",
-      "title": "We The WORST Duck Herders",
-      "description": "Yumi tries to heard ducks joined by Daukey and Smii7y in Quack Quack Up! LEAVE A LIKE AND SUB IF YOU WANNA SEE MORE GAMING WITH THE BOYS WOOOOOOOOO!!\n10% OFF GAMERSUPPS: https://bit.ly/CODEYUMI\nStreamed live at: https://www.twitch.tv/yumi\nMain Channel: ‪@Yumi \n2nd Channel: @TooYumi \nYumi Music: ‪@YumiMusicc",
-      "channel_title": "YumiLive",
-      "channel_id": "UCLMYuYy1GkhaR2xnhx2koWg",
-      "published_at": "2026-08-01T21:40:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X2IS6bc3sJo/hqdefault.jpg",
-      "duration": "PT1H29M23S",
-      "duration_seconds": 5363,
-      "view_count": 164072,
-      "like_count": 1368,
-      "comment_count": 44,
+      "video_id": "MiwObwZw-Lc",
+      "title": "Five Nights at Freddy's: Return of the King",
+      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-08-01T22:43:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
+      "duration": "PT3H29M24S",
+      "duration_seconds": 12564,
+      "view_count": 1604733,
+      "like_count": 88916,
+      "comment_count": 1147,
       "category_id": "20",
       "tags": [
-        "vod",
-        "live",
-        "live stream",
-        "yumi",
-        "gaming",
-        "gameplay",
-        "funny moments",
-        "yumilive",
-        "streamer",
-        "quack quack up"
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama"
       ],
-      "url": "https://www.youtube.com/watch?v=X2IS6bc3sJo"
+      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
+    },
+    {
+      "video_id": "CPt7f_iPwlA",
+      "title": "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
+      "description": "",
+      "channel_title": "MOVIE BOT",
+      "channel_id": "UCu1c5btvbPmTgphSX69guNg",
+      "published_at": "2026-08-01T10:04:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
+      "duration": "PT14M7S",
+      "duration_seconds": 847,
+      "view_count": 61190,
+      "like_count": 1797,
+      "comment_count": 811,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
+    },
+    {
+      "video_id": "AwOJ4OL8ekI",
+      "title": "🔴 LIVE! - HUNTING NEW SPRITES in FORTNITE!",
+      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-08-02T09:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AwOJ4OL8ekI/hqdefault.jpg",
+      "duration": "PT3H27M56S",
+      "duration_seconds": 12476,
+      "view_count": 274542,
+      "like_count": 2760,
+      "comment_count": 53,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=AwOJ4OL8ekI"
     },
     {
       "video_id": "JIqKjjTfOxM",
@@ -164,9 +153,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 1417464,
-      "like_count": 65867,
-      "comment_count": 1185,
+      "view_count": 1491918,
+      "like_count": 67181,
+      "comment_count": 1218,
       "category_id": "24",
       "tags": [
         "Korean Kanakaraju Trailer",
@@ -183,32 +172,49 @@
       "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM"
     },
     {
-      "video_id": "OMoKkS1v8W8",
-      "title": "using YY MOVEMENT LOADOUTS on Warzone",
-      "description": "Lucky Chamu uses the yy movement meta loadout to drop high kill games on Rebirth Island. The best warzone loadout on rebirth island include smg class setups, rebirth island loadouts, warzone 3 broken guns, and more. \n\nController: 5% OFF code: LUCKYCHAMU https://bit.ly/gamesirlucky\nHeadset: 12% OFF Sony INZONE E9: https://bit.ly/luckysony\n\nSocials:\nTwitter: https://x.com/LuckyChamu\nInstagram: https://www.instagram.com/luckychamuu/?hl=en\\\nLuckyOnes Merch: https://www.luckyones.la/password\nJoin the discord: https://discord.gg/tYfNhP8zkm\n\nEquipment (Code: LUCKYCHAMU)\nController: https://bit.ly/gamesirlucky \nHeadset: https://bit.ly/luckysony\n\nLucky Chamu is Family Friendly Fun content for Call of Duty Warzone & Modern Warfare.\n#rebirth #warzone #callofduty",
-      "channel_title": "Lucky Chamu",
-      "channel_id": "UCAtGANLX7I5N4wOBLH8Yq8Q",
-      "published_at": "2026-08-01T21:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OMoKkS1v8W8/hqdefault.jpg",
-      "duration": "PT1H2M",
-      "duration_seconds": 3720,
-      "view_count": 139187,
-      "like_count": 431,
-      "comment_count": 84,
+      "video_id": "X2IS6bc3sJo",
+      "title": "We The WORST Duck Herders",
+      "description": "Yumi tries to heard ducks joined by Daukey and Smii7y in Quack Quack Up! LEAVE A LIKE AND SUB IF YOU WANNA SEE MORE GAMING WITH THE BOYS WOOOOOOOOO!!\n10% OFF GAMERSUPPS: https://bit.ly/CODEYUMI\nStreamed live at: https://www.twitch.tv/yumi\nMain Channel: ‪@Yumi \n2nd Channel: @TooYumi \nYumi Music: ‪@YumiMusicc",
+      "channel_title": "YumiLive",
+      "channel_id": "UCLMYuYy1GkhaR2xnhx2koWg",
+      "published_at": "2026-08-01T21:40:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X2IS6bc3sJo/hqdefault.jpg",
+      "duration": "PT1H29M23S",
+      "duration_seconds": 5363,
+      "view_count": 254386,
+      "like_count": 1474,
+      "comment_count": 46,
       "category_id": "20",
       "tags": [
-        "luckychamu",
-        "lucky chamu",
-        "lucky warzone",
-        "call of duty warzone",
-        "warzone",
-        "call of duty warzone meta",
-        "warzone meta",
-        "warzone meta loadout",
-        "warzone update",
-        "call of duty"
+        "vod",
+        "live",
+        "live stream",
+        "yumi",
+        "gaming",
+        "gameplay",
+        "funny moments",
+        "yumilive",
+        "streamer",
+        "quack quack up"
       ],
-      "url": "https://www.youtube.com/watch?v=OMoKkS1v8W8"
+      "url": "https://www.youtube.com/watch?v=X2IS6bc3sJo"
+    },
+    {
+      "video_id": "r3AVrOG58XQ",
+      "title": "Escape from Tarkov - Kord Breach Trailer",
+      "description": "The start of the first season Kord Breach is right around the corner: seasonal modifiers that will change your gameplay, reworked operational tasks, Battle Pass and other changes are coming with an update 1.1. \n\nPurchase Escape from Tarkov on the official website https://www.escapefromtarkov.com\n\nAnd Steam https://store.steampowered.com/app/3932890/Escape_from_Tarkov/\n\n#escapefromtarkov #tarkov #побегизтаркова #тарков #TarkovRelease #battlestategames #battlestate #tarkovtrailer",
+      "channel_title": "Battlestate",
+      "channel_id": "UC5QGploHhl9_XaxDiHZKamg",
+      "published_at": "2026-08-02T07:05:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r3AVrOG58XQ/hqdefault.jpg",
+      "duration": "PT1M22S",
+      "duration_seconds": 82,
+      "view_count": 20736,
+      "like_count": 3891,
+      "comment_count": 294,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=r3AVrOG58XQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -223,9 +229,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2X9tFQI4jis/hqdefault.jpg",
       "duration": "PT1M19S",
       "duration_seconds": 79,
-      "view_count": 145691,
-      "like_count": 497,
-      "comment_count": 100,
+      "view_count": 152453,
+      "like_count": 517,
+      "comment_count": 103,
       "category_id": "1",
       "tags": [
         "movie",
@@ -251,53 +257,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
       "duration": "PT19M45S",
       "duration_seconds": 1185,
-      "view_count": 11883059,
-      "like_count": 441514,
-      "comment_count": 13890,
+      "view_count": 13728939,
+      "like_count": 498444,
+      "comment_count": 15273,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
-    },
-    {
-      "video_id": "CPt7f_iPwlA",
-      "title": "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
-      "description": "",
-      "channel_title": "MOVIE BOT",
-      "channel_id": "UCu1c5btvbPmTgphSX69guNg",
-      "published_at": "2026-08-01T10:04:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
-      "duration": "PT14M7S",
-      "duration_seconds": 847,
-      "view_count": 59357,
-      "like_count": 1763,
-      "comment_count": 803,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
-    },
-    {
-      "video_id": "MiwObwZw-Lc",
-      "title": "Five Nights at Freddy's: Return of the King",
-      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-08-01T22:43:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
-      "duration": "PT3H29M24S",
-      "duration_seconds": 12564,
-      "view_count": 1533351,
-      "like_count": 87993,
-      "comment_count": 1069,
-      "category_id": "20",
-      "tags": [
-        "markiplier",
-        "five nights at freddys",
-        "fnaf",
-        "fnaf 20 mode",
-        "markiplier cheated",
-        "drama"
-      ],
-      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
     },
     {
       "video_id": "BEMURK22eyM",
@@ -309,9 +274,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BEMURK22eyM/hqdefault.jpg",
       "duration": "PT6M23S",
       "duration_seconds": 383,
-      "view_count": 227730,
-      "like_count": 6094,
-      "comment_count": 1144,
+      "view_count": 352285,
+      "like_count": 7756,
+      "comment_count": 1359,
       "category_id": "24",
       "tags": [
         "trailer",
@@ -328,32 +293,62 @@
       "url": "https://www.youtube.com/watch?v=BEMURK22eyM"
     },
     {
-      "video_id": "X2IS6bc3sJo",
-      "title": "We The WORST Duck Herders",
-      "description": "Yumi tries to heard ducks joined by Daukey and Smii7y in Quack Quack Up! LEAVE A LIKE AND SUB IF YOU WANNA SEE MORE GAMING WITH THE BOYS WOOOOOOOOO!!\n10% OFF GAMERSUPPS: https://bit.ly/CODEYUMI\nStreamed live at: https://www.twitch.tv/yumi\nMain Channel: ‪@Yumi \n2nd Channel: @TooYumi \nYumi Music: ‪@YumiMusicc",
-      "channel_title": "YumiLive",
-      "channel_id": "UCLMYuYy1GkhaR2xnhx2koWg",
-      "published_at": "2026-08-01T21:40:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X2IS6bc3sJo/hqdefault.jpg",
-      "duration": "PT1H29M23S",
-      "duration_seconds": 5363,
-      "view_count": 164072,
-      "like_count": 1368,
-      "comment_count": 44,
+      "video_id": "MiwObwZw-Lc",
+      "title": "Five Nights at Freddy's: Return of the King",
+      "description": "I'M FINALLY SPONSORED!! Use code MARKIPLIER to get 10% off GoPro ►► https://prf.hn/l/55DP8aB/\nWell, well, well... looks like I've redeemed myself in Five Nights at Freddy's 2! Surely I won't let this go to my head?",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-08-01T22:43:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
+      "duration": "PT3H29M24S",
+      "duration_seconds": 12564,
+      "view_count": 1604733,
+      "like_count": 88916,
+      "comment_count": 1147,
       "category_id": "20",
       "tags": [
-        "vod",
-        "live",
-        "live stream",
-        "yumi",
-        "gaming",
-        "gameplay",
-        "funny moments",
-        "yumilive",
-        "streamer",
-        "quack quack up"
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama"
       ],
-      "url": "https://www.youtube.com/watch?v=X2IS6bc3sJo"
+      "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc"
+    },
+    {
+      "video_id": "CPt7f_iPwlA",
+      "title": "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
+      "description": "",
+      "channel_title": "MOVIE BOT",
+      "channel_id": "UCu1c5btvbPmTgphSX69guNg",
+      "published_at": "2026-08-01T10:04:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CPt7f_iPwlA/hqdefault.jpg",
+      "duration": "PT14M7S",
+      "duration_seconds": 847,
+      "view_count": 61190,
+      "like_count": 1797,
+      "comment_count": 811,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=CPt7f_iPwlA"
+    },
+    {
+      "video_id": "AwOJ4OL8ekI",
+      "title": "🔴 LIVE! - HUNTING NEW SPRITES in FORTNITE!",
+      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-08-02T09:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AwOJ4OL8ekI/hqdefault.jpg",
+      "duration": "PT3H27M56S",
+      "duration_seconds": 12476,
+      "view_count": 274542,
+      "like_count": 2760,
+      "comment_count": 53,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=AwOJ4OL8ekI"
     },
     {
       "video_id": "JIqKjjTfOxM",
@@ -365,9 +360,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
       "duration": "PT2M55S",
       "duration_seconds": 175,
-      "view_count": 1417464,
-      "like_count": 65867,
-      "comment_count": 1185,
+      "view_count": 1491918,
+      "like_count": 67181,
+      "comment_count": 1218,
       "category_id": "24",
       "tags": [
         "Korean Kanakaraju Trailer",
@@ -384,32 +379,49 @@
       "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM"
     },
     {
-      "video_id": "OMoKkS1v8W8",
-      "title": "using YY MOVEMENT LOADOUTS on Warzone",
-      "description": "Lucky Chamu uses the yy movement meta loadout to drop high kill games on Rebirth Island. The best warzone loadout on rebirth island include smg class setups, rebirth island loadouts, warzone 3 broken guns, and more. \n\nController: 5% OFF code: LUCKYCHAMU https://bit.ly/gamesirlucky\nHeadset: 12% OFF Sony INZONE E9: https://bit.ly/luckysony\n\nSocials:\nTwitter: https://x.com/LuckyChamu\nInstagram: https://www.instagram.com/luckychamuu/?hl=en\\\nLuckyOnes Merch: https://www.luckyones.la/password\nJoin the discord: https://discord.gg/tYfNhP8zkm\n\nEquipment (Code: LUCKYCHAMU)\nController: https://bit.ly/gamesirlucky \nHeadset: https://bit.ly/luckysony\n\nLucky Chamu is Family Friendly Fun content for Call of Duty Warzone & Modern Warfare.\n#rebirth #warzone #callofduty",
-      "channel_title": "Lucky Chamu",
-      "channel_id": "UCAtGANLX7I5N4wOBLH8Yq8Q",
-      "published_at": "2026-08-01T21:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OMoKkS1v8W8/hqdefault.jpg",
-      "duration": "PT1H2M",
-      "duration_seconds": 3720,
-      "view_count": 139187,
-      "like_count": 431,
-      "comment_count": 84,
+      "video_id": "X2IS6bc3sJo",
+      "title": "We The WORST Duck Herders",
+      "description": "Yumi tries to heard ducks joined by Daukey and Smii7y in Quack Quack Up! LEAVE A LIKE AND SUB IF YOU WANNA SEE MORE GAMING WITH THE BOYS WOOOOOOOOO!!\n10% OFF GAMERSUPPS: https://bit.ly/CODEYUMI\nStreamed live at: https://www.twitch.tv/yumi\nMain Channel: ‪@Yumi \n2nd Channel: @TooYumi \nYumi Music: ‪@YumiMusicc",
+      "channel_title": "YumiLive",
+      "channel_id": "UCLMYuYy1GkhaR2xnhx2koWg",
+      "published_at": "2026-08-01T21:40:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X2IS6bc3sJo/hqdefault.jpg",
+      "duration": "PT1H29M23S",
+      "duration_seconds": 5363,
+      "view_count": 254386,
+      "like_count": 1474,
+      "comment_count": 46,
       "category_id": "20",
       "tags": [
-        "luckychamu",
-        "lucky chamu",
-        "lucky warzone",
-        "call of duty warzone",
-        "warzone",
-        "call of duty warzone meta",
-        "warzone meta",
-        "warzone meta loadout",
-        "warzone update",
-        "call of duty"
+        "vod",
+        "live",
+        "live stream",
+        "yumi",
+        "gaming",
+        "gameplay",
+        "funny moments",
+        "yumilive",
+        "streamer",
+        "quack quack up"
       ],
-      "url": "https://www.youtube.com/watch?v=OMoKkS1v8W8"
+      "url": "https://www.youtube.com/watch?v=X2IS6bc3sJo"
+    },
+    {
+      "video_id": "r3AVrOG58XQ",
+      "title": "Escape from Tarkov - Kord Breach Trailer",
+      "description": "The start of the first season Kord Breach is right around the corner: seasonal modifiers that will change your gameplay, reworked operational tasks, Battle Pass and other changes are coming with an update 1.1. \n\nPurchase Escape from Tarkov on the official website https://www.escapefromtarkov.com\n\nAnd Steam https://store.steampowered.com/app/3932890/Escape_from_Tarkov/\n\n#escapefromtarkov #tarkov #побегизтаркова #тарков #TarkovRelease #battlestategames #battlestate #tarkovtrailer",
+      "channel_title": "Battlestate",
+      "channel_id": "UC5QGploHhl9_XaxDiHZKamg",
+      "published_at": "2026-08-02T07:05:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r3AVrOG58XQ/hqdefault.jpg",
+      "duration": "PT1M22S",
+      "duration_seconds": 82,
+      "view_count": 20736,
+      "like_count": 3891,
+      "comment_count": 294,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=r3AVrOG58XQ"
     }
   ],
   "analysis": {
@@ -418,71 +430,70 @@
       "content_trends": {
         "genres": [
           {
-            "genre": "Gaming",
-            "mention_count": 2,
-            "insight": "Gaming content, specifically around popular game franchises like 'Five Nights at Freddy's' and 'Minecraft,' continues to attract significant viewership, indicating ongoing interest and a strong fan base."
+            "genre": "Action and Gaming",
+            "evidence": [
+              "STREET FIGHTER Blanka vs. Ryu Special Look Trailer",
+              "WARHAMMER 40,000: Dawn Of War 4 Official Trailer",
+              "Five Nights at Freddy's: Return of the King",
+              "Escape from Tarkov - Kord Breach Trailer"
+            ],
+            "insight": "Action and gaming-related content continue to dominate, suggesting a strong audience interest in immersive and high-energy media."
           },
           {
-            "genre": "Trailers",
-            "mention_count": 3,
-            "insight": "Movie and game trailers are a popular category, with titles like 'STREET FIGHTER' and 'WARHAMMER 40,000' indicating a strong interest in upcoming media releases, especially those involving well-known brands or celebrities."
+            "genre": "Interactive Gaming",
+            "evidence": [
+              "🔴 LIVE! - HUNTING NEW SPRITES in FORTNITE!",
+              "Exploring My Abandoned Minecraft Server"
+            ],
+            "insight": "Live-streamed and interactive gaming experiences are trending, highlighting the audience's preference for engaging, real-time content."
           },
           {
-            "genre": "Television",
-            "mention_count": 1,
-            "insight": "Television content analysis, such as 'Raising Kanan Season 5,' suggests that viewers are engaged with serialized content and interested in deeper insights into ongoing series."
-          },
-          {
-            "genre": "Vlogs/Other",
-            "mention_count": 2,
-            "insight": "Unique content like 'We The WORST Duck Herders' suggests a niche interest in unconventional or humorous vlogs, providing opportunities for creators to explore alternative content styles."
+            "genre": "Television and Film",
+            "evidence": [
+              "Raising Kanan Season 5 'Episode 8 Trailer Breakdown & Clues'",
+              "Korean Kanakaraju Trailer"
+            ],
+            "insight": "Television series and international cinema are maintaining viewer interest, pointing towards diversified content consumption."
           }
         ]
       },
       "creator_patterns": {
-        "diversity_in_channels": {
-          "observation": "Each video is posted by a different channel, indicating diverse creator involvement and the importance of niche expertise in various content categories.",
-          "insight": "This diversity suggests that viewers are not exclusively loyal to a single channel but rather follow content based on interest areas, presenting opportunities for new creators to attract audiences by focusing on trending topics."
+        "diversified_content": {
+          "evidence": [
+            "Trailer Feed",
+            "MrBeast Gaming",
+            "GameGasm",
+            "Markiplier",
+            "MOVIE BOT"
+          ],
+          "insight": "Top channels are specializing in specific niches, indicating the importance of focused content strategies for capturing targeted audience segments."
         },
-        "notable_creators": [
-          {
-            "channel": "MrBeast Gaming",
-            "insight": "MrBeast continues to leverage his brand into the gaming sector, suggesting a strategic expansion into different content areas to maintain audience engagement."
-          },
-          {
-            "channel": "Markiplier",
-            "insight": "Markiplier's involvement in trending content highlights the enduring popularity of established gaming personalities in driving viewership."
-          }
-        ]
+        "cross-platform engagement": {
+          "evidence": [
+            "MrBeast Gaming",
+            "Markiplier"
+          ],
+          "insight": "Popular creators are leveraging cross-platform engagement strategies to maximize reach and audience interaction, which is essential for maintaining relevance in competitive content landscapes."
+        }
       },
       "market_opportunities": {
-        "emerging_trends": [
-          {
-            "trend": "Cinematic Trailers",
-            "opportunity": "Creating high-quality, cinematic trailers for upcoming games and movies can capture significant attention, especially if they include popular figures or franchises."
-          },
-          {
-            "trend": "Niche Gaming Content",
-            "opportunity": "Developing niche gaming content, especially around under-explored or fan-favorite aspects of games, can engage dedicated fan communities."
-          },
-          {
-            "trend": "Influencer Collaborations",
-            "opportunity": "Collaborating with well-established influencers like Jason Momoa or 50 Cent in media content can enhance reach and engagement."
-          }
-        ],
-        "content_format_advancements": {
-          "4K and UHD Content": {
-            "insight": "The use of high-definition formats like 4K in trailers is increasingly expected by audiences, suggesting a need for creators to invest in high-quality production to meet viewer expectations."
-          }
+        "immersive experiences": {
+          "insight": "Given the strong engagement with action and gaming content, there is an opportunity to develop immersive experiences such as VR and AR content that could enhance viewer engagement."
+        },
+        "real-time content": {
+          "insight": "The popularity of live gaming streams suggests a market opportunity for real-time, interactive content formats, potentially expanding into other genres such as live sports or reality TV."
+        },
+        "international content": {
+          "insight": "International cinema and TV trailers indicate a growing market for non-English content, suggesting an opportunity for platforms to diversify offerings and tap into global markets."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 8,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1946238
+        "avg_views_per_video": 1993464
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
