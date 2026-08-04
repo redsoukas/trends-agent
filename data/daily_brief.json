@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T07:02:09.230350",
+  "timestamp": "2026-08-04T09:58:00.833456",
   "date": "2026-08-04",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lnG-9ydT440/hqdefault.jpg",
       "duration": "PT13M50S",
       "duration_seconds": 830,
-      "view_count": 99972,
-      "like_count": 3221,
-      "comment_count": 481,
+      "view_count": 121820,
+      "like_count": 3491,
+      "comment_count": 523,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lnG-9ydT440"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
       "duration": "PT53M18S",
       "duration_seconds": 3198,
-      "view_count": 947359,
-      "like_count": 53789,
-      "comment_count": 2763,
+      "view_count": 1138284,
+      "like_count": 58847,
+      "comment_count": 2896,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3FqCH-Q_3TM/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 70573,
-      "like_count": 761,
-      "comment_count": 73,
+      "view_count": 76321,
+      "like_count": 787,
+      "comment_count": 75,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=3FqCH-Q_3TM"
@@ -84,9 +84,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
       "duration": "PT1H28M6S",
       "duration_seconds": 5286,
-      "view_count": 2206585,
-      "like_count": 195880,
-      "comment_count": 30186,
+      "view_count": 2691553,
+      "like_count": 218528,
+      "comment_count": 33044,
       "category_id": "20",
       "tags": [
         "wifies",
@@ -111,9 +111,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
       "duration": "PT2M6S",
       "duration_seconds": 126,
-      "view_count": 1101785,
-      "like_count": 6518,
-      "comment_count": 474,
+      "view_count": 1218617,
+      "like_count": 6926,
+      "comment_count": 505,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -139,9 +139,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W7QK4GOLzSk/hqdefault.jpg",
       "duration": "PT2H46M43S",
       "duration_seconds": 10003,
-      "view_count": 190059,
-      "like_count": 6849,
-      "comment_count": 446,
+      "view_count": 281459,
+      "like_count": 7778,
+      "comment_count": 486,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -158,9 +158,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/M_tJWRRi2Ns/hqdefault.jpg",
       "duration": "PT11M49S",
       "duration_seconds": 709,
-      "view_count": 88982,
-      "like_count": 2507,
-      "comment_count": 293,
+      "view_count": 94695,
+      "like_count": 2589,
+      "comment_count": 303,
       "category_id": "24",
       "tags": [
         "House Of The Dragon",
@@ -177,25 +177,25 @@
       "url": "https://www.youtube.com/watch?v=M_tJWRRi2Ns"
     },
     {
-      "video_id": "-mK-DkO2SoY",
+      "video_id": "IX8mDR9i658",
       "title": "🔴LIVE | TARKOV SEASONAL | GIMMICK X JOHN | MANY MEN MONDAY | #BUNGULATE",
       "description": "",
       "channel_title": "TheBurntPeanut",
       "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-08-04T05:50:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-mK-DkO2SoY/hqdefault.jpg",
-      "duration": "PT11H55M",
-      "duration_seconds": 42900,
-      "view_count": 642277,
-      "like_count": 11239,
-      "comment_count": 11,
+      "published_at": "2026-08-04T07:02:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IX8mDR9i658/hqdefault.jpg",
+      "duration": "PT1H32M17S",
+      "duration_seconds": 5537,
+      "view_count": 123559,
+      "like_count": 2341,
+      "comment_count": 26,
       "category_id": "20",
       "tags": [
         "funny",
         "escape from tarkov",
         "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=-mK-DkO2SoY"
+      "url": "https://www.youtube.com/watch?v=IX8mDR9i658"
     },
     {
       "video_id": "pKD5M0JAH3w",
@@ -207,9 +207,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pKD5M0JAH3w/hqdefault.jpg",
       "duration": "PT1M45S",
       "duration_seconds": 105,
-      "view_count": 48428,
-      "like_count": 1316,
-      "comment_count": 111,
+      "view_count": 61703,
+      "like_count": 1444,
+      "comment_count": 125,
       "category_id": "24",
       "tags": [
         "Paramount Movies",
@@ -226,23 +226,32 @@
       "url": "https://www.youtube.com/watch?v=pKD5M0JAH3w"
     },
     {
-      "video_id": "qCPMuBhsCs0",
-      "title": "i love mondays",
-      "description": "tts donations here/ https://streamlabs.com/ishowspeed\n\nFOLLOW ME 👀  http://link.me/ishowspeed\nMERCH 👕 -  https://speed.store/\nMEMBERSHIPS ✅  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@livespeedy?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@speeduniverse?si=XUMYeIWoUY4TIjFl",
-      "channel_title": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "published_at": "2026-08-03T20:52:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qCPMuBhsCs0/hqdefault.jpg",
-      "duration": "PT3H11M9S",
-      "duration_seconds": 11469,
-      "view_count": 2941763,
-      "like_count": 83832,
-      "comment_count": 905,
+      "video_id": "fCaWiJLSbQI",
+      "title": "Our First Employee… (Stanky Shores Ep 3)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-08-03T22:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fCaWiJLSbQI/hqdefault.jpg",
+      "duration": "PT1H17M7S",
+      "duration_seconds": 4627,
+      "view_count": 319947,
+      "like_count": 15768,
+      "comment_count": 1257,
       "category_id": "20",
       "tags": [
-        "ishowspeed"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=qCPMuBhsCs0"
+      "url": "https://www.youtube.com/watch?v=fCaWiJLSbQI"
     }
   ],
   "videos_with_transcripts": [],
@@ -257,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lnG-9ydT440/hqdefault.jpg",
       "duration": "PT13M50S",
       "duration_seconds": 830,
-      "view_count": 99972,
-      "like_count": 3221,
-      "comment_count": 481,
+      "view_count": 121820,
+      "like_count": 3491,
+      "comment_count": 523,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=lnG-9ydT440"
@@ -274,9 +283,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
       "duration": "PT53M18S",
       "duration_seconds": 3198,
-      "view_count": 947359,
-      "like_count": 53789,
-      "comment_count": 2763,
+      "view_count": 1138284,
+      "like_count": 58847,
+      "comment_count": 2896,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -302,9 +311,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3FqCH-Q_3TM/hqdefault.jpg",
       "duration": "PT2M36S",
       "duration_seconds": 156,
-      "view_count": 70573,
-      "like_count": 761,
-      "comment_count": 73,
+      "view_count": 76321,
+      "like_count": 787,
+      "comment_count": 75,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=3FqCH-Q_3TM"
@@ -319,9 +328,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
       "duration": "PT1H28M6S",
       "duration_seconds": 5286,
-      "view_count": 2206585,
-      "like_count": 195880,
-      "comment_count": 30186,
+      "view_count": 2691553,
+      "like_count": 218528,
+      "comment_count": 33044,
       "category_id": "20",
       "tags": [
         "wifies",
@@ -346,9 +355,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
       "duration": "PT2M6S",
       "duration_seconds": 126,
-      "view_count": 1101785,
-      "like_count": 6518,
-      "comment_count": 474,
+      "view_count": 1218617,
+      "like_count": 6926,
+      "comment_count": 505,
       "category_id": "24",
       "tags": [
         "MGM",
@@ -374,9 +383,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W7QK4GOLzSk/hqdefault.jpg",
       "duration": "PT2H46M43S",
       "duration_seconds": 10003,
-      "view_count": 190059,
-      "like_count": 6849,
-      "comment_count": 446,
+      "view_count": 281459,
+      "like_count": 7778,
+      "comment_count": 486,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
@@ -393,9 +402,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/M_tJWRRi2Ns/hqdefault.jpg",
       "duration": "PT11M49S",
       "duration_seconds": 709,
-      "view_count": 88982,
-      "like_count": 2507,
-      "comment_count": 293,
+      "view_count": 94695,
+      "like_count": 2589,
+      "comment_count": 303,
       "category_id": "24",
       "tags": [
         "House Of The Dragon",
@@ -412,25 +421,25 @@
       "url": "https://www.youtube.com/watch?v=M_tJWRRi2Ns"
     },
     {
-      "video_id": "-mK-DkO2SoY",
+      "video_id": "IX8mDR9i658",
       "title": "🔴LIVE | TARKOV SEASONAL | GIMMICK X JOHN | MANY MEN MONDAY | #BUNGULATE",
       "description": "",
       "channel_title": "TheBurntPeanut",
       "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-08-04T05:50:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-mK-DkO2SoY/hqdefault.jpg",
-      "duration": "PT11H55M",
-      "duration_seconds": 42900,
-      "view_count": 642277,
-      "like_count": 11239,
-      "comment_count": 11,
+      "published_at": "2026-08-04T07:02:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IX8mDR9i658/hqdefault.jpg",
+      "duration": "PT1H32M17S",
+      "duration_seconds": 5537,
+      "view_count": 123559,
+      "like_count": 2341,
+      "comment_count": 26,
       "category_id": "20",
       "tags": [
         "funny",
         "escape from tarkov",
         "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=-mK-DkO2SoY"
+      "url": "https://www.youtube.com/watch?v=IX8mDR9i658"
     },
     {
       "video_id": "pKD5M0JAH3w",
@@ -442,9 +451,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pKD5M0JAH3w/hqdefault.jpg",
       "duration": "PT1M45S",
       "duration_seconds": 105,
-      "view_count": 48428,
-      "like_count": 1316,
-      "comment_count": 111,
+      "view_count": 61703,
+      "like_count": 1444,
+      "comment_count": 125,
       "category_id": "24",
       "tags": [
         "Paramount Movies",
@@ -461,68 +470,102 @@
       "url": "https://www.youtube.com/watch?v=pKD5M0JAH3w"
     },
     {
-      "video_id": "qCPMuBhsCs0",
-      "title": "i love mondays",
-      "description": "tts donations here/ https://streamlabs.com/ishowspeed\n\nFOLLOW ME 👀  http://link.me/ishowspeed\nMERCH 👕 -  https://speed.store/\nMEMBERSHIPS ✅  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@livespeedy?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@speeduniverse?si=XUMYeIWoUY4TIjFl",
-      "channel_title": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "published_at": "2026-08-03T20:52:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qCPMuBhsCs0/hqdefault.jpg",
-      "duration": "PT3H11M9S",
-      "duration_seconds": 11469,
-      "view_count": 2941763,
-      "like_count": 83832,
-      "comment_count": 905,
+      "video_id": "fCaWiJLSbQI",
+      "title": "Our First Employee… (Stanky Shores Ep 3)",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-08-03T22:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fCaWiJLSbQI/hqdefault.jpg",
+      "duration": "PT1H17M7S",
+      "duration_seconds": 4627,
+      "view_count": 319947,
+      "like_count": 15768,
+      "comment_count": 1257,
       "category_id": "20",
       "tags": [
-        "ishowspeed"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=qCPMuBhsCs0"
+      "url": "https://www.youtube.com/watch?v=fCaWiJLSbQI"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "series_analysis": {
-          "observation": "Two videos are related to 'House Of The Dragon', indicating a trend towards content breakdowns and analyses of popular series.",
-          "insight": "Content creators focusing on popular TV series can capitalize on audience interest by producing detailed breakdowns, easter egg reveals, and speculative content."
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 6127958,
+        "averageViewsPerVideo": 612795.8
+      },
+      "contentTrends": {
+        "trailerPopularity": {
+          "description": "A significant portion of the trending content includes trailers and breakdowns of popular series and upcoming movies.",
+          "examples": [
+            "House Of The Dragon Season 3 Episode 8 Trailer Breakdown & Easter Eggs",
+            "WICKER | Official Trailer | 2026 [HD]",
+            "Your Mother Your Mother Your Mother | Official Trailer",
+            "Confinement (2026) | Official Trailer | Paramount Movies"
+          ],
+          "insights": "Trailers and related content are highly engaging, likely due to fan anticipation and the popularity of the franchises."
         },
-        "horror_and_suspense": {
-          "observation": "There are multiple entries related to horror and suspense, such as 'Working A Midnight Shift is a Nightmare' and 'Don't Serve The Imposters...'.",
-          "insight": "Horror and suspense genres continue to attract viewers. Creators can explore psychological thrillers or horror scenarios based on everyday experiences to engage audiences."
+        "horrorAndFantasyElements": {
+          "description": "Content with horror and fantasy themes appears to resonate well with audiences.",
+          "examples": [
+            "Working A Midnight Shift is a Nightmare",
+            "The Search For The Leviathan",
+            "HOUSE OF THE DRAGON Season 3 Episode 8 Trailer Breakdown | The Battle Of Tumbleton"
+          ],
+          "insights": "There is a consistent interest in horror and fantasy genres, suggesting a potential area for content creation in these genres."
         },
-        "trailer_releases": {
-          "observation": "There are three official trailers listed, indicating a trend towards promoting upcoming films or series.",
-          "insight": "Releasing trailers with engaging visuals and cliffhanger elements can boost interest and anticipation for upcoming content. Studios can collaborate with influencers for wider reach."
-        },
-        "live_streaming": {
-          "observation": "There is a live streaming entry with gaming content, which suggests ongoing interest in interactive and real-time content.",
-          "insight": "Live streaming offers opportunities for real-time engagement with audiences. Creators can leverage this by hosting Q&A sessions, live gameplays, or collaborative events."
+        "liveStreamingContent": {
+          "description": "Live streaming content is represented, showcasing its popularity and engagement capabilities.",
+          "examples": [
+            "🔴LIVE | TARKOV SEASONAL | GIMMICK X JOHN | MANY MEN MONDAY | #BUNGULATE"
+          ],
+          "insights": "Live content can drive real-time engagement and offers a different viewer experience, which can be leveraged for interactive audience engagement strategies."
         }
       },
-      "creator_patterns": {
-        "diverse_content": {
-          "observation": "Top channels are producing a variety of content ranging from series analysis to gaming and movie trailers.",
-          "insight": "Diversifying content types can attract a broader audience. Channels should explore cross-genre content to engage different viewer segments."
+      "creatorPatterns": {
+        "topChannels": {
+          "description": "Channels with diverse content, including entertainment and gaming, are present in the trending list.",
+          "examples": [
+            "Emergency Awesome",
+            "SMii7Y",
+            "Roadshow Films",
+            "Wifies",
+            "Amazon MGM Studios"
+          ],
+          "insights": "Channels that create engaging, diverse content tend to trend, indicating the effectiveness of varied content strategies."
         },
-        "single_video_per_channel": {
-          "observation": "Each top channel contributed only one video to the trending list.",
-          "insight": "Maintaining high-quality, unique content can ensure that even single video entries capture significant viewer attention. Consistency in quality over quantity can be beneficial."
+        "emergingCreators": {
+          "description": "Opportunities exist for emerging creators to leverage trending themes.",
+          "insights": "New creators can focus on producing content related to popular series or genres to tap into existing audience interest."
         }
       },
-      "market_opportunities": {
-        "emerging_genres": {
-          "opportunity": "The presence of horror, suspense, and speculative fiction suggests growing audience interest.",
-          "actionable_insight": "Content creators and studios can explore producing original horror or sci-fi series to cater to this demand."
+      "marketOpportunities": {
+        "contentCreation": {
+          "description": "There is potential for creating content around trailers, breakdowns, and fan theories of popular media franchises.",
+          "strategies": [
+            "Produce in-depth analyses and breakdowns of trending series episodes and movie trailers.",
+            "Create engaging live streaming content that involves audience interaction and participation.",
+            "Explore collaboration opportunities with popular channels for cross-promotion."
+          ]
         },
-        "engagement_with_series_fandoms": {
-          "opportunity": "Series like 'House Of The Dragon' have dedicated fandoms eager for content.",
-          "actionable_insight": "Creators can tap into existing fandoms by producing complementary content like fan theories, character deep dives, or interactive fan events."
-        },
-        "collaborations_with_streaming_services": {
-          "opportunity": "Trailers from major studios like Paramount suggest streaming platforms' interest in YouTube for promotion.",
-          "actionable_insight": "Collaborations between content creators and streaming services can be mutually beneficial, promoting new releases while providing creators with exclusive content."
+        "genreExploration": {
+          "description": "Horror and fantasy genres show strong viewer interest, suggesting opportunities for content creation within these themes.",
+          "strategies": [
+            "Develop content series focused on horror and fantasy themes to attract niche audiences.",
+            "Utilize storytelling and special effects to enhance viewer engagement in these genres."
+          ]
         }
       },
       "metadata_stats": {
@@ -531,7 +574,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 833778
+        "avg_views_per_video": 612795
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
