@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-05T11:25:54.788683",
+  "timestamp": "2026-08-05T14:23:30.186511",
   "date": "2026-08-05",
   "summary": {
-    "total_videos_analyzed": 10,
+    "total_videos_analyzed": 9,
     "music_videos_filtered": 5,
-    "high_potential_videos": 10,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 10,
+    "videos_without_transcripts": 9,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YMweqIzyB7s/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 1380666,
-      "like_count": 59263,
-      "comment_count": 5414,
+      "view_count": 1415992,
+      "like_count": 59914,
+      "comment_count": 5494,
       "category_id": "20",
       "tags": [
         "The Hood",
@@ -45,9 +45,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tCptlANvtY4/hqdefault.jpg",
       "duration": "PT36M45S",
       "duration_seconds": 2205,
-      "view_count": 940644,
-      "like_count": 46517,
-      "comment_count": 1678,
+      "view_count": 1031094,
+      "like_count": 49840,
+      "comment_count": 1744,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -73,33 +73,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FmM2giDwLAE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 1654756,
-      "like_count": 24094,
-      "comment_count": 1582,
+      "view_count": 1846069,
+      "like_count": 25143,
+      "comment_count": 1627,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FmM2giDwLAE"
     },
     {
-      "video_id": "rUZDk2X6eUo",
-      "title": "🔴LIVE | [DROPS TOMORROW] TARKOV SEASONAL | DAY 2 | HutchMF x Lemon | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-08-05T07:46:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rUZDk2X6eUo/hqdefault.jpg",
-      "duration": "PT8H42M49S",
-      "duration_seconds": 31369,
-      "view_count": 549939,
-      "like_count": 8369,
-      "comment_count": 42,
+      "video_id": "Vem4SOUpwDA",
+      "title": "I Visited Papas House…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-08-04T22:05:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vem4SOUpwDA/hqdefault.jpg",
+      "duration": "PT1H18M30S",
+      "duration_seconds": 4710,
+      "view_count": 318943,
+      "like_count": 12546,
+      "comment_count": 1058,
       "category_id": "20",
       "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
         "funny",
-        "escape from tarkov",
-        "tarkov"
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=rUZDk2X6eUo"
+      "url": "https://www.youtube.com/watch?v=Vem4SOUpwDA"
     },
     {
       "video_id": "MTKWTANK5Wo",
@@ -111,9 +118,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MTKWTANK5Wo/hqdefault.jpg",
       "duration": "PT4M49S",
       "duration_seconds": 289,
-      "view_count": 205219,
-      "like_count": 14261,
-      "comment_count": 555,
+      "view_count": 224344,
+      "like_count": 15517,
+      "comment_count": 593,
       "category_id": "24",
       "tags": [
         "funnymike",
@@ -139,57 +146,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qzi9Bsy_390/hqdefault.jpg",
       "duration": "PT33M48S",
       "duration_seconds": 2028,
-      "view_count": 1333583,
-      "like_count": 64500,
-      "comment_count": 6454,
+      "view_count": 1447720,
+      "like_count": 67601,
+      "comment_count": 6693,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qzi9Bsy_390"
     },
     {
-      "video_id": "wOFb7gENC_4",
-      "title": "Honest Trailers | Masters of the Universe",
-      "description": "They made a Masters of the Universe movie! Again! Will the 2026 version be more popular than the original? Depends on who’s stronger: the power of Grayskull or the power of elder millennial nostalgia.\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\nAre you still reading this? Comment “Gwildor!” below \n\n#honesttrailers #entertainment #parody #trailer #funny #mastersoftheuniverse #motu #skeletor #heman #jaredleto",
-      "channel_title": "Screen Junkies",
-      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
-      "published_at": "2026-08-04T17:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wOFb7gENC_4/hqdefault.jpg",
-      "duration": "PT7M49S",
-      "duration_seconds": 469,
-      "view_count": 343161,
-      "like_count": 15554,
-      "comment_count": 2030,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wOFb7gENC_4"
+      "video_id": "_Vyy6AueWkM",
+      "title": "The Dukes of Hazzard (2027) – Matt Damon, Jake Gyllenhaal, Inde Navarrette | Concept Trailer",
+      "description": "#DukesOfHazzard #LastRun #indenavarrette \n\nWatch This Dukes of Hazzard Last Run Fan-Made Concept Trailer Featuring Matt Damon, Jake Gyllenhaal, Inde Navarrette, Richard Gere, Nicolas Cage and Daniel Craig\n\nWhat if the Duke boys grew up and the rebellion died and the General Lee sat under a dusty tarp in a barn for fifteen years with flat tires and fading paint while the county that raised them was gutted one family at a time by a corporation that buys small towns, strip-mines their land, and moves on? This 2027 concept trailer reimagines The Dukes of Hazzard as a gritty, emotionally devastating Southern thriller that opens in a Hazzard County that is dying quietly, half the storefronts boarded up and the two cousins who once outran every sheriff in Georgia sitting on opposite ends of the country refusing to speak. Matt Damon delivers a weathered performance as Bo Duke, the reckless kid who could thread a Charger through a creek gap at ninety now running a small repair shop after two ye",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-08-04T16:30:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Vyy6AueWkM/hqdefault.jpg",
+      "duration": "PT2M15S",
+      "duration_seconds": 135,
+      "view_count": 19203,
+      "like_count": 446,
+      "comment_count": 125,
+      "category_id": "24",
+      "tags": [
+        "The Dukes of Hazzard",
+        "the dukes of hazzard trailer",
+        "the dukes of hazzard 2026",
+        "the dukes of hazzard movie",
+        "the dukes of hazzard new trailer",
+        "the dukes of hazzard reboot",
+        "2026",
+        "nicole kidman",
+        "matt damon",
+        "jake gyllenhaal"
+      ],
+      "url": "https://www.youtube.com/watch?v=_Vyy6AueWkM"
     },
     {
-      "video_id": "Vem4SOUpwDA",
-      "title": "I Visited Papas House…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-08-04T22:05:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vem4SOUpwDA/hqdefault.jpg",
-      "duration": "PT1H18M30S",
-      "duration_seconds": 4710,
-      "view_count": 283180,
-      "like_count": 11386,
-      "comment_count": 1021,
+      "video_id": "xkIFd-V8lPU",
+      "title": "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!",
+      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-08-05T07:47:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xkIFd-V8lPU/hqdefault.jpg",
+      "duration": "PT6H9M33S",
+      "duration_seconds": 22173,
+      "view_count": 324646,
+      "like_count": 3570,
+      "comment_count": 29,
       "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=Vem4SOUpwDA"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xkIFd-V8lPU"
     },
     {
       "video_id": "LbShrez8eso",
@@ -201,9 +208,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbShrez8eso/hqdefault.jpg",
       "duration": "PT23M5S",
       "duration_seconds": 1385,
-      "view_count": 194496,
-      "like_count": 4939,
-      "comment_count": 685,
+      "view_count": 210927,
+      "like_count": 5305,
+      "comment_count": 720,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday",
@@ -218,23 +225,6 @@
         "star wars"
       ],
       "url": "https://www.youtube.com/watch?v=LbShrez8eso"
-    },
-    {
-      "video_id": "xkIFd-V8lPU",
-      "title": "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!",
-      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
-      "channel_title": "Typical Gamer",
-      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
-      "published_at": "2026-08-05T07:47:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xkIFd-V8lPU/hqdefault.jpg",
-      "duration": "PT6H9M33S",
-      "duration_seconds": 22173,
-      "view_count": 313502,
-      "like_count": 3521,
-      "comment_count": 23,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xkIFd-V8lPU"
     }
   ],
   "videos_with_transcripts": [],
@@ -249,9 +239,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YMweqIzyB7s/hqdefault.jpg",
       "duration": "PT1M22S",
       "duration_seconds": 82,
-      "view_count": 1380666,
-      "like_count": 59263,
-      "comment_count": 5414,
+      "view_count": 1415992,
+      "like_count": 59914,
+      "comment_count": 5494,
       "category_id": "20",
       "tags": [
         "The Hood",
@@ -272,9 +262,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tCptlANvtY4/hqdefault.jpg",
       "duration": "PT36M45S",
       "duration_seconds": 2205,
-      "view_count": 940644,
-      "like_count": 46517,
-      "comment_count": 1678,
+      "view_count": 1031094,
+      "like_count": 49840,
+      "comment_count": 1744,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -300,33 +290,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FmM2giDwLAE/hqdefault.jpg",
       "duration": "PT2M25S",
       "duration_seconds": 145,
-      "view_count": 1654756,
-      "like_count": 24094,
-      "comment_count": 1582,
+      "view_count": 1846069,
+      "like_count": 25143,
+      "comment_count": 1627,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=FmM2giDwLAE"
     },
     {
-      "video_id": "rUZDk2X6eUo",
-      "title": "🔴LIVE | [DROPS TOMORROW] TARKOV SEASONAL | DAY 2 | HutchMF x Lemon | #BUNGULATE",
-      "description": "",
-      "channel_title": "TheBurntPeanut",
-      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
-      "published_at": "2026-08-05T07:46:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rUZDk2X6eUo/hqdefault.jpg",
-      "duration": "PT8H42M49S",
-      "duration_seconds": 31369,
-      "view_count": 549939,
-      "like_count": 8369,
-      "comment_count": 42,
+      "video_id": "Vem4SOUpwDA",
+      "title": "I Visited Papas House…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-08-04T22:05:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vem4SOUpwDA/hqdefault.jpg",
+      "duration": "PT1H18M30S",
+      "duration_seconds": 4710,
+      "view_count": 318943,
+      "like_count": 12546,
+      "comment_count": 1058,
       "category_id": "20",
       "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
         "funny",
-        "escape from tarkov",
-        "tarkov"
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=rUZDk2X6eUo"
+      "url": "https://www.youtube.com/watch?v=Vem4SOUpwDA"
     },
     {
       "video_id": "MTKWTANK5Wo",
@@ -338,9 +335,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MTKWTANK5Wo/hqdefault.jpg",
       "duration": "PT4M49S",
       "duration_seconds": 289,
-      "view_count": 205219,
-      "like_count": 14261,
-      "comment_count": 555,
+      "view_count": 224344,
+      "like_count": 15517,
+      "comment_count": 593,
       "category_id": "24",
       "tags": [
         "funnymike",
@@ -366,57 +363,57 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qzi9Bsy_390/hqdefault.jpg",
       "duration": "PT33M48S",
       "duration_seconds": 2028,
-      "view_count": 1333583,
-      "like_count": 64500,
-      "comment_count": 6454,
+      "view_count": 1447720,
+      "like_count": 67601,
+      "comment_count": 6693,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=qzi9Bsy_390"
     },
     {
-      "video_id": "wOFb7gENC_4",
-      "title": "Honest Trailers | Masters of the Universe",
-      "description": "They made a Masters of the Universe movie! Again! Will the 2026 version be more popular than the original? Depends on who’s stronger: the power of Grayskull or the power of elder millennial nostalgia.\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\nAre you still reading this? Comment “Gwildor!” below \n\n#honesttrailers #entertainment #parody #trailer #funny #mastersoftheuniverse #motu #skeletor #heman #jaredleto",
-      "channel_title": "Screen Junkies",
-      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
-      "published_at": "2026-08-04T17:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wOFb7gENC_4/hqdefault.jpg",
-      "duration": "PT7M49S",
-      "duration_seconds": 469,
-      "view_count": 343161,
-      "like_count": 15554,
-      "comment_count": 2030,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=wOFb7gENC_4"
+      "video_id": "_Vyy6AueWkM",
+      "title": "The Dukes of Hazzard (2027) – Matt Damon, Jake Gyllenhaal, Inde Navarrette | Concept Trailer",
+      "description": "#DukesOfHazzard #LastRun #indenavarrette \n\nWatch This Dukes of Hazzard Last Run Fan-Made Concept Trailer Featuring Matt Damon, Jake Gyllenhaal, Inde Navarrette, Richard Gere, Nicolas Cage and Daniel Craig\n\nWhat if the Duke boys grew up and the rebellion died and the General Lee sat under a dusty tarp in a barn for fifteen years with flat tires and fading paint while the county that raised them was gutted one family at a time by a corporation that buys small towns, strip-mines their land, and moves on? This 2027 concept trailer reimagines The Dukes of Hazzard as a gritty, emotionally devastating Southern thriller that opens in a Hazzard County that is dying quietly, half the storefronts boarded up and the two cousins who once outran every sheriff in Georgia sitting on opposite ends of the country refusing to speak. Matt Damon delivers a weathered performance as Bo Duke, the reckless kid who could thread a Charger through a creek gap at ninety now running a small repair shop after two ye",
+      "channel_title": "Ultimate Studios",
+      "channel_id": "UCc3qOMA8TN5b3PPRlGAFA0Q",
+      "published_at": "2026-08-04T16:30:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Vyy6AueWkM/hqdefault.jpg",
+      "duration": "PT2M15S",
+      "duration_seconds": 135,
+      "view_count": 19203,
+      "like_count": 446,
+      "comment_count": 125,
+      "category_id": "24",
+      "tags": [
+        "The Dukes of Hazzard",
+        "the dukes of hazzard trailer",
+        "the dukes of hazzard 2026",
+        "the dukes of hazzard movie",
+        "the dukes of hazzard new trailer",
+        "the dukes of hazzard reboot",
+        "2026",
+        "nicole kidman",
+        "matt damon",
+        "jake gyllenhaal"
+      ],
+      "url": "https://www.youtube.com/watch?v=_Vyy6AueWkM"
     },
     {
-      "video_id": "Vem4SOUpwDA",
-      "title": "I Visited Papas House…",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\nBTV - http://btvcomic.com/caseoh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-08-04T22:05:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vem4SOUpwDA/hqdefault.jpg",
-      "duration": "PT1H18M30S",
-      "duration_seconds": 4710,
-      "view_count": 283180,
-      "like_count": 11386,
-      "comment_count": 1021,
+      "video_id": "xkIFd-V8lPU",
+      "title": "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!",
+      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+      "channel_title": "Typical Gamer",
+      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "published_at": "2026-08-05T07:47:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xkIFd-V8lPU/hqdefault.jpg",
+      "duration": "PT6H9M33S",
+      "duration_seconds": 22173,
+      "view_count": 324646,
+      "like_count": 3570,
+      "comment_count": 29,
       "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=Vem4SOUpwDA"
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=xkIFd-V8lPU"
     },
     {
       "video_id": "LbShrez8eso",
@@ -428,9 +425,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LbShrez8eso/hqdefault.jpg",
       "duration": "PT23M5S",
       "duration_seconds": 1385,
-      "view_count": 194496,
-      "like_count": 4939,
-      "comment_count": 685,
+      "view_count": 210927,
+      "like_count": 5305,
+      "comment_count": 720,
       "category_id": "1",
       "tags": [
         "Avengers Doomsday",
@@ -445,106 +442,81 @@
         "star wars"
       ],
       "url": "https://www.youtube.com/watch?v=LbShrez8eso"
-    },
-    {
-      "video_id": "xkIFd-V8lPU",
-      "title": "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!",
-      "description": "New huge Sprites update in Fortnite Chapter 7, Season 3 and my Typical Gamer icon bundle is back in the items hop!\nUse code TYPICALGAMER in the item shop 💙 (Epic Partner)\n❤️ SUBSCRIBE! ► http://bit.ly/SubToTG\n\n🎮 I build Fortnite games with my studio JOGO\n⭐ Follow us in Fortnite for new maps and updates first 👇\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n💬 Join the Discord: https://discord.gg/TypicalGamer\n🐦 Twitter: https://twitter.com/TypicalGamer\n📸 Instagram: https://instagram.com/typicalgamer  \n🧢 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
-      "channel_title": "Typical Gamer",
-      "channel_id": "UC2wKfjlioOCLP4xQMOWNcgg",
-      "published_at": "2026-08-05T07:47:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xkIFd-V8lPU/hqdefault.jpg",
-      "duration": "PT6H9M33S",
-      "duration_seconds": 22173,
-      "view_count": 313502,
-      "like_count": 3521,
-      "comment_count": 23,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=xkIFd-V8lPU"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
-        "total_videos": 10,
-        "total_views": 7199146,
-        "average_views_per_video": 719914.6,
-        "categories": "Unknown"
-      },
       "content_trends": {
         "genres": [
-          "Trailers",
-          "Live Streaming",
-          "Comedy/Satire",
-          "Gaming",
-          "Entertainment"
-        ],
-        "key_observations": [
           {
-            "title": "Prevalence of Trailers",
-            "description": "Three out of ten videos are trailers or related previews, suggesting a high viewer interest in new releases and upcoming content."
+            "name": "Entertainment",
+            "examples": [
+              "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
+              "Violent Night 2 | Official Trailer",
+              "Streamer Prom 2026 (OFFICIAL TRAILER)",
+              "The Dukes of Hazzard (2027) – Matt Damon, Jake Gyllenhaal, Inde Navarrette | Concept Trailer"
+            ],
+            "insight": "Trailers and concept videos are popular, indicating a strong interest in upcoming media content."
           },
           {
-            "title": "Live Streaming Engagement",
-            "description": "Two videos are live streams, indicating an increasing trend in real-time content engagement, especially in gaming."
+            "name": "Gaming",
+            "examples": [
+              "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!"
+            ],
+            "insight": "Live gaming streams and updates on new game features attract significant attention."
           },
           {
-            "title": "Gaming Influence",
-            "description": "Multiple videos relate to gaming (e.g., Fortnite, TARKOV), demonstrating a sustained interest and market in gaming content."
+            "name": "Lifestyle/Vlogs",
+            "examples": [
+              "We Opened A Totally Normal Burger Restaurant",
+              "I Visited Papas House…"
+            ],
+            "insight": "Personal experiences and lifestyle content remain engaging for audiences."
           }
         ]
       },
       "creator_patterns": {
-        "top_channels": [
-          "Marvel Rivals",
-          "SMii7Yplus",
-          "Universal Pictures",
-          "TheBurntPeanut",
-          "FunnyMike Live"
-        ],
-        "insights": [
-          {
-            "channel": "Marvel Rivals",
-            "content_type": "Character Reveal Trailer",
-            "potential_opportunity": "Capitalize on character-driven content and collaborations with gaming and movie franchises."
-          },
-          {
-            "channel": "SMii7Yplus",
-            "content_type": "Entertainment/Comedy",
-            "potential_opportunity": "Increase engagement through humor and satire, potentially expand into crossover genres like gaming comedy."
-          },
-          {
-            "channel": "Universal Pictures",
-            "content_type": "Official Trailer",
-            "potential_opportunity": "Leverage cinematic content to create anticipation through strategic teaser releases."
-          }
-        ]
+        "diversity_in_content": {
+          "observation": "Channels are diversifying content by exploring different genres such as trailers, live streams, and personal vlogs.",
+          "example_channels": [
+            "Marvel Rivals",
+            "Universal Pictures",
+            "SMii7Yplus"
+          ],
+          "insight": "Creators who diversify their content are likely to capture a wider audience base."
+        },
+        "engagement_strategies": {
+          "observation": "Creators are using real-time engagement techniques like live streaming to increase viewer interaction.",
+          "example": "🔴 LIVE! - NEW MYTHIC SPRITE *IRONMOUSE* and FNCS QUALIFIERS in FORTNITE!",
+          "insight": "Live content can enhance viewer engagement and retention by creating a sense of urgency and community."
+        }
       },
       "market_opportunities": {
-        "suggestions": [
-          {
-            "opportunity": "Expand Live Content",
-            "description": "With a growing interest in live streams, channels can benefit from incorporating live Q&As, gaming sessions, and interactive content."
-          },
-          {
-            "opportunity": "Cross-Genre Content",
-            "description": "Combine elements of gaming, entertainment, and comedy for innovative content formats that appeal to multiple audience segments."
-          },
-          {
-            "opportunity": "Character and Plot Analysis",
-            "description": "Create content that dives deep into character backstories and plot theories, especially around popular franchises like Marvel and Avengers."
-          }
-        ]
+        "emerging_trends": {
+          "trend": "Concept and teaser trailers",
+          "opportunity": "Brands and creators can capitalize on the hype of upcoming releases by investing in high-quality trailers and teasers."
+        },
+        "untapped_potential": {
+          "trend": "Interactive live streams",
+          "opportunity": "There is potential for increased monetization and audience growth through interactive and collaborative live content."
+        },
+        "niche_audiences": {
+          "trend": "Personal storytelling",
+          "opportunity": "Creators focusing on authentic storytelling and personal experiences may attract niche audiences looking for relatable content."
+        }
+      },
+      "summary": {
+        "overall_insight": "YouTube's trending content suggests a robust interest in entertainment and gaming, with a significant viewer base for both high-production trailers and personal vlogs. Creators who diversify their content and employ engaging strategies like live streaming are more likely to succeed in the current digital landscape.",
+        "recommendation": "Channels should consider producing diverse content, including live streams and trailers, to maximize reach and engagement."
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 10,
+        "videos_analyzed": 9,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 719914
+        "avg_views_per_video": 759882
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
