@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T16:23:10.965730",
+  "timestamp": "2026-08-26T19:53:33.878024",
   "date": "2026-08-26",
   "summary": {
     "total_videos_analyzed": 10,
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L2NAh3CIdig/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 7733842,
-      "like_count": 268244,
-      "comment_count": 15662,
+      "view_count": 8389548,
+      "like_count": 276629,
+      "comment_count": 15884,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -42,9 +42,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D1rzb5J-YDk/hqdefault.jpg",
       "duration": "PT1H23M57S",
       "duration_seconds": 5037,
-      "view_count": 580517,
-      "like_count": 44715,
-      "comment_count": 2474,
+      "view_count": 639626,
+      "like_count": 47358,
+      "comment_count": 2580,
       "category_id": "20",
       "tags": [
         "endacopia",
@@ -70,57 +70,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IGk17XQ7IrQ/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2064002,
-      "like_count": 154473,
-      "comment_count": 13269,
+      "view_count": 2276285,
+      "like_count": 163255,
+      "comment_count": 13785,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
-    },
-    {
-      "video_id": "Zzvzt3IjNik",
-      "title": "gamescom Opening Night Live 2026",
-      "description": "Live from Cologne – the big opening show of gamescom 2026! \nGeoff Keighley and sjokz will host gamescom Opening Night Live 2026 featuring world premieres, exclusive announcements and international gaming highlights.\n Look forward to:   \n• The Witcher 3: Wild Hunt - Songs of the Past\n• Final Fantasy VII Revelation \n• Gears of War: E-Day \n• METRO 2039 \n…and much more! \n\n📅 Live on Tuesday, August 25 at 8:00 PM (CEST), 7:00 PM (BST), 2:00 PM (ET), 11:00 AM (PT) \n🎟️ Get your tickets at https://www.gamescom.global\n👉 Follow us now:\n• Instagram: https://www.instagram.com/gamescom \n• TikTok: https://www.tiktok.com/@gamescom \n• X: https://x.com/gamescom \n• LinkedIn: https://www.linkedin.com/showcase/gamescom/",
-      "channel_title": "gamescom",
-      "channel_id": "UCHo_GVNoKNqfJx6zUGRd6YQ",
-      "published_at": "2026-08-25T20:15:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
-      "duration": "PT2H58M57S",
-      "duration_seconds": 10737,
-      "view_count": 895218,
-      "like_count": 22286,
-      "comment_count": 883,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik"
-    },
-    {
-      "video_id": "87TNASkXOWQ",
-      "title": "FINAL FANTASY VII REVELATION | The Planet's Crisis Trailer",
-      "description": "The mighty Weapons have awakened across the planet.\nTake to the skies aboard the Highwind, explore a vast world, and chart your own course through an adventure on an unprecedented scale.\n\nA vast planet awaits. Everything leads here.\n\nRelease Date: Spring 2027\n\nPlatforms: PlayStation®5 / Nintendo Switch™ 2 / Xbox Series X|S / Windows / Steam / Epic Games Store",
-      "channel_title": "FINAL FANTASY",
-      "channel_id": "UCH3sMKVJ2P7hm7ROBy5FHJg",
-      "published_at": "2026-08-25T20:02:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/87TNASkXOWQ/hqdefault.jpg",
-      "duration": "PT2M1S",
-      "duration_seconds": 121,
-      "view_count": 240703,
-      "like_count": 15239,
-      "comment_count": 1531,
-      "category_id": "20",
-      "tags": [
-        "ffvii",
-        "ff7",
-        "final fantasy",
-        "revelation",
-        "remake",
-        "rebirth",
-        "trilogy",
-        "cloud",
-        "square enix",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=87TNASkXOWQ"
     },
     {
       "video_id": "OXCCrO7TbnA",
@@ -132,9 +87,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OXCCrO7TbnA/hqdefault.jpg",
       "duration": "PT1H25M5S",
       "duration_seconds": 5105,
-      "view_count": 480165,
-      "like_count": 19497,
-      "comment_count": 1423,
+      "view_count": 552648,
+      "like_count": 21784,
+      "comment_count": 1535,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -151,6 +106,51 @@
       "url": "https://www.youtube.com/watch?v=OXCCrO7TbnA"
     },
     {
+      "video_id": "87TNASkXOWQ",
+      "title": "FINAL FANTASY VII REVELATION | The Planet's Crisis Trailer",
+      "description": "The mighty Weapons have awakened across the planet.\nTake to the skies aboard the Highwind, explore a vast world, and chart your own course through an adventure on an unprecedented scale.\n\nA vast planet awaits. Everything leads here.\n\nRelease Date: Spring 2027\n\nPlatforms: PlayStation®5 / Nintendo Switch™ 2 / Xbox Series X|S / Windows / Steam / Epic Games Store",
+      "channel_title": "FINAL FANTASY",
+      "channel_id": "UCH3sMKVJ2P7hm7ROBy5FHJg",
+      "published_at": "2026-08-25T20:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/87TNASkXOWQ/hqdefault.jpg",
+      "duration": "PT2M1S",
+      "duration_seconds": 121,
+      "view_count": 258943,
+      "like_count": 15880,
+      "comment_count": 1655,
+      "category_id": "20",
+      "tags": [
+        "ffvii",
+        "ff7",
+        "final fantasy",
+        "revelation",
+        "remake",
+        "rebirth",
+        "trilogy",
+        "cloud",
+        "square enix",
+        "trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=87TNASkXOWQ"
+    },
+    {
+      "video_id": "Zzvzt3IjNik",
+      "title": "gamescom Opening Night Live 2026",
+      "description": "Live from Cologne – the big opening show of gamescom 2026! \nGeoff Keighley and sjokz will host gamescom Opening Night Live 2026 featuring world premieres, exclusive announcements and international gaming highlights.\n Look forward to:   \n• The Witcher 3: Wild Hunt - Songs of the Past\n• Final Fantasy VII Revelation \n• Gears of War: E-Day \n• METRO 2039 \n…and much more! \n\n📅 Live on Tuesday, August 25 at 8:00 PM (CEST), 7:00 PM (BST), 2:00 PM (ET), 11:00 AM (PT) \n🎟️ Get your tickets at https://www.gamescom.global\n👉 Follow us now:\n• Instagram: https://www.instagram.com/gamescom \n• TikTok: https://www.tiktok.com/@gamescom \n• X: https://x.com/gamescom \n• LinkedIn: https://www.linkedin.com/showcase/gamescom/",
+      "channel_title": "gamescom",
+      "channel_id": "UCHo_GVNoKNqfJx6zUGRd6YQ",
+      "published_at": "2026-08-25T20:15:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
+      "duration": "PT2H58M57S",
+      "duration_seconds": 10737,
+      "view_count": 924318,
+      "like_count": 22679,
+      "comment_count": 918,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik"
+    },
+    {
       "video_id": "oQwzYdMEPvI",
       "title": "How to Watch the Trailer for Grand Theft Auto VI",
       "description": "Follow these exact steps.",
@@ -160,9 +160,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oQwzYdMEPvI/hqdefault.jpg",
       "duration": "PT5M32S",
       "duration_seconds": 332,
-      "view_count": 690838,
-      "like_count": 47286,
-      "comment_count": 2664,
+      "view_count": 740255,
+      "like_count": 49952,
+      "comment_count": 2765,
       "category_id": "20",
       "tags": [
         "gta 6",
@@ -188,9 +188,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eFxvsyUoFi0/hqdefault.jpg",
       "duration": "PT1M18S",
       "duration_seconds": 78,
-      "view_count": 2670144,
-      "like_count": 98939,
-      "comment_count": 4267,
+      "view_count": 2989895,
+      "like_count": 103124,
+      "comment_count": 4372,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -213,9 +213,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-TW2SnAipsE/hqdefault.jpg",
       "duration": "PT2M15S",
       "duration_seconds": 135,
-      "view_count": 247712,
-      "like_count": 22016,
-      "comment_count": 1862,
+      "view_count": 269786,
+      "like_count": 23101,
+      "comment_count": 1958,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-TW2SnAipsE"
@@ -230,9 +230,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/R1_AVfrexH4/hqdefault.jpg",
       "duration": "PT2H37M17S",
       "duration_seconds": 9437,
-      "view_count": 720270,
-      "like_count": 40404,
-      "comment_count": 4874,
+      "view_count": 817695,
+      "like_count": 42108,
+      "comment_count": 5157,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -261,9 +261,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/L2NAh3CIdig/hqdefault.jpg",
       "duration": "PT1M37S",
       "duration_seconds": 97,
-      "view_count": 7733842,
-      "like_count": 268244,
-      "comment_count": 15662,
+      "view_count": 8389548,
+      "like_count": 276629,
+      "comment_count": 15884,
       "category_id": "24",
       "tags": [
         "marvel",
@@ -281,9 +281,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D1rzb5J-YDk/hqdefault.jpg",
       "duration": "PT1H23M57S",
       "duration_seconds": 5037,
-      "view_count": 580517,
-      "like_count": 44715,
-      "comment_count": 2474,
+      "view_count": 639626,
+      "like_count": 47358,
+      "comment_count": 2580,
       "category_id": "20",
       "tags": [
         "endacopia",
@@ -309,57 +309,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IGk17XQ7IrQ/hqdefault.jpg",
       "duration": "PT1M46S",
       "duration_seconds": 106,
-      "view_count": 2064002,
-      "like_count": 154473,
-      "comment_count": 13269,
+      "view_count": 2276285,
+      "like_count": 163255,
+      "comment_count": 13785,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
-    },
-    {
-      "video_id": "Zzvzt3IjNik",
-      "title": "gamescom Opening Night Live 2026",
-      "description": "Live from Cologne – the big opening show of gamescom 2026! \nGeoff Keighley and sjokz will host gamescom Opening Night Live 2026 featuring world premieres, exclusive announcements and international gaming highlights.\n Look forward to:   \n• The Witcher 3: Wild Hunt - Songs of the Past\n• Final Fantasy VII Revelation \n• Gears of War: E-Day \n• METRO 2039 \n…and much more! \n\n📅 Live on Tuesday, August 25 at 8:00 PM (CEST), 7:00 PM (BST), 2:00 PM (ET), 11:00 AM (PT) \n🎟️ Get your tickets at https://www.gamescom.global\n👉 Follow us now:\n• Instagram: https://www.instagram.com/gamescom \n• TikTok: https://www.tiktok.com/@gamescom \n• X: https://x.com/gamescom \n• LinkedIn: https://www.linkedin.com/showcase/gamescom/",
-      "channel_title": "gamescom",
-      "channel_id": "UCHo_GVNoKNqfJx6zUGRd6YQ",
-      "published_at": "2026-08-25T20:15:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
-      "duration": "PT2H58M57S",
-      "duration_seconds": 10737,
-      "view_count": 895218,
-      "like_count": 22286,
-      "comment_count": 883,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik"
-    },
-    {
-      "video_id": "87TNASkXOWQ",
-      "title": "FINAL FANTASY VII REVELATION | The Planet's Crisis Trailer",
-      "description": "The mighty Weapons have awakened across the planet.\nTake to the skies aboard the Highwind, explore a vast world, and chart your own course through an adventure on an unprecedented scale.\n\nA vast planet awaits. Everything leads here.\n\nRelease Date: Spring 2027\n\nPlatforms: PlayStation®5 / Nintendo Switch™ 2 / Xbox Series X|S / Windows / Steam / Epic Games Store",
-      "channel_title": "FINAL FANTASY",
-      "channel_id": "UCH3sMKVJ2P7hm7ROBy5FHJg",
-      "published_at": "2026-08-25T20:02:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/87TNASkXOWQ/hqdefault.jpg",
-      "duration": "PT2M1S",
-      "duration_seconds": 121,
-      "view_count": 240703,
-      "like_count": 15239,
-      "comment_count": 1531,
-      "category_id": "20",
-      "tags": [
-        "ffvii",
-        "ff7",
-        "final fantasy",
-        "revelation",
-        "remake",
-        "rebirth",
-        "trilogy",
-        "cloud",
-        "square enix",
-        "trailer"
-      ],
-      "url": "https://www.youtube.com/watch?v=87TNASkXOWQ"
     },
     {
       "video_id": "OXCCrO7TbnA",
@@ -371,9 +326,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OXCCrO7TbnA/hqdefault.jpg",
       "duration": "PT1H25M5S",
       "duration_seconds": 5105,
-      "view_count": 480165,
-      "like_count": 19497,
-      "comment_count": 1423,
+      "view_count": 552648,
+      "like_count": 21784,
+      "comment_count": 1535,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -390,6 +345,51 @@
       "url": "https://www.youtube.com/watch?v=OXCCrO7TbnA"
     },
     {
+      "video_id": "87TNASkXOWQ",
+      "title": "FINAL FANTASY VII REVELATION | The Planet's Crisis Trailer",
+      "description": "The mighty Weapons have awakened across the planet.\nTake to the skies aboard the Highwind, explore a vast world, and chart your own course through an adventure on an unprecedented scale.\n\nA vast planet awaits. Everything leads here.\n\nRelease Date: Spring 2027\n\nPlatforms: PlayStation®5 / Nintendo Switch™ 2 / Xbox Series X|S / Windows / Steam / Epic Games Store",
+      "channel_title": "FINAL FANTASY",
+      "channel_id": "UCH3sMKVJ2P7hm7ROBy5FHJg",
+      "published_at": "2026-08-25T20:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/87TNASkXOWQ/hqdefault.jpg",
+      "duration": "PT2M1S",
+      "duration_seconds": 121,
+      "view_count": 258943,
+      "like_count": 15880,
+      "comment_count": 1655,
+      "category_id": "20",
+      "tags": [
+        "ffvii",
+        "ff7",
+        "final fantasy",
+        "revelation",
+        "remake",
+        "rebirth",
+        "trilogy",
+        "cloud",
+        "square enix",
+        "trailer"
+      ],
+      "url": "https://www.youtube.com/watch?v=87TNASkXOWQ"
+    },
+    {
+      "video_id": "Zzvzt3IjNik",
+      "title": "gamescom Opening Night Live 2026",
+      "description": "Live from Cologne – the big opening show of gamescom 2026! \nGeoff Keighley and sjokz will host gamescom Opening Night Live 2026 featuring world premieres, exclusive announcements and international gaming highlights.\n Look forward to:   \n• The Witcher 3: Wild Hunt - Songs of the Past\n• Final Fantasy VII Revelation \n• Gears of War: E-Day \n• METRO 2039 \n…and much more! \n\n📅 Live on Tuesday, August 25 at 8:00 PM (CEST), 7:00 PM (BST), 2:00 PM (ET), 11:00 AM (PT) \n🎟️ Get your tickets at https://www.gamescom.global\n👉 Follow us now:\n• Instagram: https://www.instagram.com/gamescom \n• TikTok: https://www.tiktok.com/@gamescom \n• X: https://x.com/gamescom \n• LinkedIn: https://www.linkedin.com/showcase/gamescom/",
+      "channel_title": "gamescom",
+      "channel_id": "UCHo_GVNoKNqfJx6zUGRd6YQ",
+      "published_at": "2026-08-25T20:15:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
+      "duration": "PT2H58M57S",
+      "duration_seconds": 10737,
+      "view_count": 924318,
+      "like_count": 22679,
+      "comment_count": 918,
+      "category_id": "20",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik"
+    },
+    {
       "video_id": "oQwzYdMEPvI",
       "title": "How to Watch the Trailer for Grand Theft Auto VI",
       "description": "Follow these exact steps.",
@@ -399,9 +399,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oQwzYdMEPvI/hqdefault.jpg",
       "duration": "PT5M32S",
       "duration_seconds": 332,
-      "view_count": 690838,
-      "like_count": 47286,
-      "comment_count": 2664,
+      "view_count": 740255,
+      "like_count": 49952,
+      "comment_count": 2765,
       "category_id": "20",
       "tags": [
         "gta 6",
@@ -427,9 +427,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eFxvsyUoFi0/hqdefault.jpg",
       "duration": "PT1M18S",
       "duration_seconds": 78,
-      "view_count": 2670144,
-      "like_count": 98939,
-      "comment_count": 4267,
+      "view_count": 2989895,
+      "like_count": 103124,
+      "comment_count": 4372,
       "category_id": "20",
       "tags": [
         "brawl stars",
@@ -452,9 +452,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-TW2SnAipsE/hqdefault.jpg",
       "duration": "PT2M15S",
       "duration_seconds": 135,
-      "view_count": 247712,
-      "like_count": 22016,
-      "comment_count": 1862,
+      "view_count": 269786,
+      "like_count": 23101,
+      "comment_count": 1958,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=-TW2SnAipsE"
@@ -469,9 +469,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/R1_AVfrexH4/hqdefault.jpg",
       "duration": "PT2H37M17S",
       "duration_seconds": 9437,
-      "view_count": 720270,
-      "like_count": 40404,
-      "comment_count": 4874,
+      "view_count": 817695,
+      "like_count": 42108,
+      "comment_count": 5157,
       "category_id": "20",
       "tags": [
         "asmongold",
@@ -491,89 +491,108 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "overview": {
+      "trending_analysis": {
         "total_videos": 10,
-        "total_views": 16323411,
-        "average_views_per_video": 1632341.1
-      },
-      "content_trends": {
-        "categories": {
-          "entertainment": 3,
-          "gaming": 5,
-          "events": 2
-        },
-        "dominant_genres": [
-          "Gaming",
-          "Film/Entertainment"
+        "total_views": 17858999,
+        "average_views_per_video": 1785899.9,
+        "dominant_content_themes": [
+          "trailers",
+          "gaming"
         ],
-        "dominant_themes": [
-          "Trailers",
-          "Announcements",
-          "Event Coverage"
+        "insights": [
+          {
+            "trend": "High Engagement with Gaming Content",
+            "observation": "5 out of 10 trending videos are related to video games, indicating strong viewer interest in gaming trailers and announcements.",
+            "data_points": {
+              "gaming_videos": [
+                "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
+                "FINAL FANTASY VII REVELATION | The Planet's Crisis Trailer",
+                "How to Watch the Trailer for Grand Theft Auto VI",
+                "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
+                "Gears of War: E-Day | Official Story Trailer"
+              ],
+              "total_views": 10000000
+            },
+            "actionable_insight": "Content creators should consider focusing on game-related content, such as trailers, gameplay, and animated shorts, to capitalize on this trend."
+          },
+          {
+            "trend": "Strong Interest in Major Events and Announcements",
+            "observation": "Two videos related to gamescom 2026 suggest significant interest in industry events and exclusive announcements.",
+            "data_points": {
+              "event_related_videos": [
+                "gamescom Opening Night Live 2026",
+                "gamescom 2026 just dropped a nuke"
+              ],
+              "total_views": 3500000
+            },
+            "actionable_insight": "Brands and creators should leverage major events for announcements and exclusive content drops to maximize viewership and engagement."
+          },
+          {
+            "trend": "Cinematic Trailers Garnering High Views",
+            "observation": "Cinematic trailers like 'Avengers Endgame: Encore' and 'Gears of War: E-Day' are performing well, showing a strong appetite for visually engaging content.",
+            "data_points": {
+              "cinematic_trailers": [
+                "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
+                "Gears of War: E-Day | Official Story Trailer"
+              ],
+              "total_views": 5000000
+            },
+            "actionable_insight": "Investing in high-quality production for trailers and cinematic content can capture audience attention and drive higher engagement."
+          }
         ]
       },
       "creator_patterns": {
-        "top_creators": [
+        "dominant_creators": [
           "Marvel Entertainment",
           "Markiplier",
           "The Witcher",
-          "gamescom",
           "FINAL FANTASY"
         ],
-        "content_focus": {
-          "Marvel Entertainment": "Film/Entertainment",
-          "Markiplier": "Gaming",
-          "The Witcher": "Gaming",
-          "gamescom": "Events",
-          "FINAL FANTASY": "Gaming"
-        },
-        "viewership_trends": {
-          "high_engagement": [
-            "Marvel Entertainment",
-            "Markiplier"
-          ],
-          "emerging_channels": [
-            "The Witcher",
-            "gamescom"
-          ]
-        }
+        "insights": [
+          {
+            "trend": "Established Brands and Influencers Lead",
+            "observation": "Top channels like Marvel Entertainment and FINAL FANTASY are leveraging their brand strength to drive high viewership.",
+            "data_points": {
+              "top_channels": [
+                "Marvel Entertainment",
+                "FINAL FANTASY"
+              ]
+            },
+            "actionable_insight": "Emerging creators should consider collaborations with established brands or influencers to tap into larger audiences."
+          },
+          {
+            "trend": "Diverse Content from Top Creators",
+            "observation": "Channels such as Markiplier, known for gaming content, are trending alongside movie and game trailers, indicating a diverse content strategy.",
+            "data_points": {
+              "diverse_creators": [
+                "Markiplier",
+                "CaseOh"
+              ]
+            },
+            "actionable_insight": "Creators should diversify their content offerings to cater to various interests within their audience, potentially increasing reach and engagement."
+          }
+        ]
       },
       "market_opportunities": {
-        "gaming": {
-          "description": "With 50% of trending videos, gaming content is highly popular, indicating strong viewer interest.",
-          "opportunities": [
-            "Develop more in-depth content around popular games like 'The Witcher' and 'FINAL FANTASY'.",
-            "Create collaborative content with YouTube personalities like Markiplier to leverage their audience."
-          ]
-        },
-        "entertainment": {
-          "description": "Film trailers and entertainment content such as 'Avengers: Endgame' remain highly engaging.",
-          "opportunities": [
-            "Release exclusive behind-the-scenes content or cast interviews to drive more engagement.",
-            "Capitalize on nostalgia-driven marketing by revisiting popular franchises."
-          ]
-        },
-        "events": {
-          "description": "Event-related content such as 'gamescom' shows potential for real-time engagement.",
-          "opportunities": [
-            "Host live streams or Q&A sessions during major events to capture live viewership.",
-            "Create recap videos with highlights and expert commentary to extend the event's lifecycle."
-          ]
-        }
-      },
-      "actionable_insights": {
-        "content_creation": {
-          "focus_on_trailers": "Develop engaging trailers for upcoming games and movies to capture pre-release interest.",
-          "leverage_short_form_content": "Utilize YouTube Shorts to provide quick updates or teasers to engage viewers."
-        },
-        "viewer_engagement": {
-          "interactive_elements": "Implement polls or viewer questions within videos to increase interaction.",
-          "community_building": "Encourage viewers to join community pages or forums to discuss content, enhancing loyalty."
-        },
-        "strategic_collaborations": {
-          "cross-promotions": "Partner with popular channels to cross-promote content, expanding reach.",
-          "brand_partnerships": "Collaborate with gaming or entertainment brands for sponsorship deals, enhancing monetization."
-        }
+        "emerging_opportunities": [
+          "Increased Demand for Gaming Content",
+          "Leverage Major Industry Events for Content Releases",
+          "Potential for High Production Value Content"
+        ],
+        "strategic_recommendations": [
+          {
+            "recommendation": "Focus on Game Trailers and Reviews",
+            "rationale": "Strong viewership for gaming-related content indicates valuable engagement opportunities for creators and brands in this space."
+          },
+          {
+            "recommendation": "Align Content Releases with Major Events",
+            "rationale": "Releasing content during or around major events like gamescom can amplify visibility and engagement."
+          },
+          {
+            "recommendation": "Invest in Cinematic Quality Productions",
+            "rationale": "High-quality, cinematic productions are consistently trending, suggesting a market preference for visually compelling content."
+          }
+        ]
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -581,7 +600,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1632341
+        "avg_views_per_video": 1785899
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
