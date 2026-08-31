@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-31T13:19:01.295169",
+  "timestamp": "2026-08-31T20:45:06.584616",
   "date": "2026-08-31",
   "summary": {
-    "total_videos_analyzed": 9,
-    "music_videos_filtered": 6,
+    "total_videos_analyzed": 10,
+    "music_videos_filtered": 5,
     "high_potential_videos": 8,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,10 +22,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 582510,
-      "like_count": 12493,
-      "comment_count": 1022,
-      "category_id": "20",
+      "view_count": 1099458,
+      "like_count": 18221,
+      "comment_count": 1433,
+      "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ"
     },
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7yj_WVQIB4I/hqdefault.jpg",
       "duration": "PT32M35S",
       "duration_seconds": 1955,
-      "view_count": 2227285,
-      "like_count": 70033,
-      "comment_count": 2452,
+      "view_count": 2655783,
+      "like_count": 79991,
+      "comment_count": 2620,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -58,21 +58,88 @@
       "url": "https://www.youtube.com/watch?v=7yj_WVQIB4I"
     },
     {
-      "video_id": "exKLy6CwUNo",
-      "title": "Tower Defense X Tower Battles II Trailer | ROBLOX",
-      "description": "Raze the Void in their dimension. Save Earth from the Void Army. Introducing the original and classic towers such as Scout, Phaser, and Aviator. Only in TDX.\n\n\n#roblox \n\nhey guys u can become a member now:\nhttps://www.youtube.com/channel/UCojsj6T5tNPGPZSx7wn4coQ/join",
-      "channel_title": "JOHN ROBLOX",
-      "channel_id": "UCojsj6T5tNPGPZSx7wn4coQ",
-      "published_at": "2026-08-30T18:59:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/exKLy6CwUNo/hqdefault.jpg",
-      "duration": "PT1M41S",
-      "duration_seconds": 101,
-      "view_count": 133479,
-      "like_count": 5561,
-      "comment_count": 1228,
+      "video_id": "zrOtmDQawas",
+      "title": "Tyler Perry’s Doing Life | Official Trailer | Netflix",
+      "description": "From Tyler Perry, a gritty and gripping urban drama that explores the life of a single mother fighting for survival and a reformed ex-con with untapped talents forge an unexpected bond. Starring Naomi Baker and Jay Reeves.\n\nWatch Tyler Perry’s Doing Life, only on Netflix: https://www.netflix.com/doinglife\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nTyler Perry’s Doing Life | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-08-31T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zrOtmDQawas/hqdefault.jpg",
+      "duration": "PT2M9S",
+      "duration_seconds": 129,
+      "view_count": 133932,
+      "like_count": 3998,
+      "comment_count": 383,
+      "category_id": "24",
+      "tags": [
+        "Baker",
+        "Doing",
+        "Doing Life",
+        "Drama",
+        "Film",
+        "Jay",
+        "Jay Reeves",
+        "Life",
+        "Movie",
+        "Naomi"
+      ],
+      "url": "https://www.youtube.com/watch?v=zrOtmDQawas"
+    },
+    {
+      "video_id": "61RoQlFkYjs",
+      "title": "John Cena in Clash of Clans?!",
+      "description": "The chances of finding John Cena might be small. The rewards aren’t. \n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortres",
+      "channel_title": "Clash of Clans",
+      "channel_id": "UCD1Em4q90ZUK2R5HKesszJg",
+      "published_at": "2026-08-31T11:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
+      "duration": "PT46S",
+      "duration_seconds": 46,
+      "view_count": 1275252,
+      "like_count": 37774,
+      "comment_count": 1560,
       "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=exKLy6CwUNo"
+      "tags": [
+        "clash of clans",
+        "COC",
+        "Clash of Clans Gameplay",
+        "Clash of Clans Strategy",
+        "Clash of Clans Animation",
+        "Clash of Clans Commercial",
+        "Clash of Clans Attacks",
+        "Clash of Clans Town Hall",
+        "Hog Rider",
+        "PEKKA"
+      ],
+      "url": "https://www.youtube.com/watch?v=61RoQlFkYjs"
+    },
+    {
+      "video_id": "cCISra9NEe0",
+      "title": "LANTERNS Episode 4 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | Hal Betrays John",
+      "description": "Download Testerup via my link to get $5 just for signing up: https://linktwin.co/jkQCaX\n\nLANTERNS Episode 4 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | Hal Betrays John. We breakdown, review and recap the new HBO show Lanterns and point out the comic easter eggs, hidden details and also give our theories on what could be happening with Hal Jordan and John Stewart.\n\n#Lanterns #Episode4 #DC #DCU #Superman #EasterEggs #HBO #HBOMax #ComicBooks #EasterEggs \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nDonate to my half marathon fundraising for the Newcastle Cats and Dog Shelter here - https://ajbellgreatnorthrun2026.enthuse.com/pf/paul-tweddle\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our ",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-08-31T15:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCISra9NEe0/hqdefault.jpg",
+      "duration": "PT9M54S",
+      "duration_seconds": 594,
+      "view_count": 52220,
+      "like_count": 1136,
+      "comment_count": 151,
+      "category_id": "24",
+      "tags": [
+        "lanterns",
+        "lanterns episode 4",
+        "lanterns episode 4 breakdown",
+        "green lantern",
+        "dc",
+        "dcu",
+        "superman",
+        "hal jordan",
+        "hal jordan death",
+        "john stewart"
+      ],
+      "url": "https://www.youtube.com/watch?v=cCISra9NEe0"
     },
     {
       "video_id": "dVE8T-yJXak",
@@ -82,85 +149,42 @@
       "channel_id": "UCjiXtODGCCulmhwypZAWSag",
       "published_at": "2026-08-31T03:16:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dVE8T-yJXak/hqdefault.jpg",
-      "duration": "PT10H34M59S",
-      "duration_seconds": 38099,
-      "view_count": 1894524,
-      "like_count": 14567,
-      "comment_count": 131,
+      "duration": "PT10H33M26S",
+      "duration_seconds": 38006,
+      "view_count": 1930570,
+      "like_count": 14789,
+      "comment_count": 157,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=dVE8T-yJXak"
     },
     {
-      "video_id": "CBUBk3uwWM0",
-      "title": "The PS5 Pro is SOLD OUT All Over the U.S. after Netflix's GTA 6 Extended Look Trailer!",
-      "description": "The PS5 Pro is SOLD OUT All Over The United States after Netflix's GTA 6 Extended Look Trailer!\n\n#ps5pro #gta6 #soldout #gamingnews #netflix #sony #rockstargames #taketwo #videogamenews #videogame #videogames #game #games #gta #rockstar #tyronemagnus #reaction #reactions \n\nArticle:  https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
-      "channel_title": "Tyrone Magnus",
-      "channel_id": "UCs95gwav7frv5HTVqAGa7uQ",
-      "published_at": "2026-08-30T21:48:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CBUBk3uwWM0/hqdefault.jpg",
-      "duration": "PT4M51S",
-      "duration_seconds": 291,
-      "view_count": 72022,
-      "like_count": 1571,
-      "comment_count": 426,
-      "category_id": "20",
+      "video_id": "giz-XClHE-0",
+      "title": "DDG - HIT-A-THON 2 (Official Trailer)",
+      "description": "DDG - HIT-A-THON 2 (Offcial Trailer)\n\n'don’t overthink it' the album, out now - https://open.spotify.com/album/4RfTA1IaKCPOUIcRp99C7P?si=k1o-g-v9T2y62xbownwi8A\n\n📬DDG’s Official PO Box📬Send fan mail, letters, or packages here: P.O. box 10210 Canoga Park, CA 91309\n\nJoin The Discord: https://discord.gg/pontiacmadeddg\nTwitch: https://twitch.tv/ddg\n\nFollow DDG:\nhttps://www.instagram.com/ddg/\nhttps://twitter.com/pontiacmadeddg \nhttps://www.facebook.com/Pontiacmadeddg/  \nhttps://soundcloud.com/pontiacmadeddg \n\nBusiness Inquires: ddgbizinquires@gmail.com",
+      "channel_title": "DDG Live",
+      "channel_id": "UC5QjibX9jYUAZGE9diXpiKA",
+      "published_at": "2026-08-31T19:06:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/giz-XClHE-0/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 17058,
+      "like_count": 3489,
+      "comment_count": 466,
+      "category_id": "22",
       "tags": [
-        "ps5 pro",
-        "sold out",
-        "sony",
-        "gta 6",
-        "netflix",
-        "extended look",
-        "trailer",
-        "tyrone magnus",
-        "reactions",
-        "push square"
+        "the ddg family",
+        "ddg family",
+        "theddgfamily",
+        "ddgfamily",
+        "Ddg",
+        "Amp",
+        "Kai Cenat",
+        "Yourragegaming",
+        "Yourrage",
+        "BruceDropEmOff"
       ],
-      "url": "https://www.youtube.com/watch?v=CBUBk3uwWM0"
-    },
-    {
-      "video_id": "pVm-0kQiFxk",
-      "title": "I Became BEN-10 in Minecraft!",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-08-30T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pVm-0kQiFxk/hqdefault.jpg",
-      "duration": "PT20M36S",
-      "duration_seconds": 1236,
-      "view_count": 941581,
-      "like_count": 10014,
-      "comment_count": 1596,
-      "category_id": "24",
-      "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=pVm-0kQiFxk"
-    },
-    {
-      "video_id": "h7EX3dxqXHI",
-      "title": "Lanterns Episode 3 Trailer: WTF Happened To Hal Jordan",
-      "description": "Lanterns Episode 3 Trailer. John Stewart Gets His Comic Book Green Lantern Suit, Nathan Fillion Guy Gardner, Sinestro and Hal Jordan, Is Hal Jordan really dead, Who is the manhunter & Lanterns Episode 4 ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 2 https://www.youtube.com/watch?v=ExaOJm1q5Oc&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Episode 8 https://www.youtube.com/watch?v=vTtyyFhtNDg&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Post Credit Scene https://www.youtube.com/watch?v=WOfZwL4NKFE&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-08-29T20:23:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h7EX3dxqXHI/hqdefault.jpg",
-      "duration": "PT13M59S",
-      "duration_seconds": 839,
-      "view_count": 355966,
-      "like_count": 4637,
-      "comment_count": 626,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=h7EX3dxqXHI"
+      "url": "https://www.youtube.com/watch?v=giz-XClHE-0"
     },
     {
       "video_id": "wJuSfV9hitM",
@@ -172,9 +196,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wJuSfV9hitM/hqdefault.jpg",
       "duration": "PT27M54S",
       "duration_seconds": 1674,
-      "view_count": 521437,
-      "like_count": 19015,
-      "comment_count": 615,
+      "view_count": 824798,
+      "like_count": 26035,
+      "comment_count": 723,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -191,32 +215,45 @@
       "url": "https://www.youtube.com/watch?v=wJuSfV9hitM"
     },
     {
-      "video_id": "WJwCNTgbSeY",
-      "title": "Supermarket Together - Part 2",
-      "description": "Bob, Wade, and I make some truly disasterous choices in managing our grocery store in Supermarket Together!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► @radRYT \n\nPlay the Game ► https://store.steampowered.com/app/2709570/Supermarket_Together/\n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-08-30T19:13:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WJwCNTgbSeY/hqdefault.jpg",
-      "duration": "PT1H51M39S",
-      "duration_seconds": 6699,
-      "view_count": 804513,
-      "like_count": 21521,
-      "comment_count": 1048,
+      "video_id": "cKYFn2yOgP0",
+      "title": "Lanterns Episode 4 Trailer: Sinestro, Guy Gardner Green Lantern & Things You Missed!",
+      "description": "Lanterns Episode 4 Trailer. Hal Jordan & Sinestro's Master Plan, Guy Gardner Green Lantern, Blackest Night, John Stewart Green Lantern Constructs, Who Is The Manhunter & Lanterns Episode 5 ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 3 https://www.youtube.com/watch?v=Ka70wqSzU6g&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Episode 8 https://www.youtube.com/watch?v=vTtyyFhtNDg&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Post Credit Scene https://www.youtube.com/watch?v=WOfZwL4NKFE&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&p",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-08-31T19:12:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKYFn2yOgP0/hqdefault.jpg",
+      "duration": "PT13M26S",
+      "duration_seconds": 806,
+      "view_count": 15380,
+      "like_count": 1061,
+      "comment_count": 176,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cKYFn2yOgP0"
+    },
+    {
+      "video_id": "CMXxuSmzXsk",
+      "title": "GTA 6: Robberies, Economy & How Money Works Now | Exclusive Deep Dive",
+      "description": "Chapter 1 – 0:00 – How Money Used to Work\nChapter 2 – 1:40 – The Three Money Types (That we know of)\nChapter 3 – 2:08 – Types of robberies\nChapter 4 – 5:54 – The Feet Pics Story\nChapter 5 – 7:29 – Heists\nChapter 6 – 8:09 – Fences\nChapter 7 – 9:02 – Money is Tied to Story\nChapter 8 – 10:31 – What You Can Spend Money On\nChapter 9 – 11:53 – The GTA 5 Money Problem, Acknowledged\n\nGet 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
+      "channel_title": "TGG",
+      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "published_at": "2026-08-31T07:25:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CMXxuSmzXsk/hqdefault.jpg",
+      "duration": "PT13M43S",
+      "duration_seconds": 823,
+      "view_count": 1529582,
+      "like_count": 29072,
+      "comment_count": 2530,
       "category_id": "20",
       "tags": [
-        "markiplier",
-        "supermarket together",
-        "supermarket simulation",
-        "simulation game",
-        "mark bob wade",
-        "distractible",
-        "markiplier collab",
-        "collab",
-        "multiplayer",
-        "funny moments"
+        "gta 5",
+        "gta online",
+        "gta 6",
+        "grand theft auto",
+        "making money gta",
+        "get rich gta"
       ],
-      "url": "https://www.youtube.com/watch?v=WJwCNTgbSeY"
+      "url": "https://www.youtube.com/watch?v=CMXxuSmzXsk"
     }
   ],
   "videos_with_transcripts": [],
@@ -231,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7yj_WVQIB4I/hqdefault.jpg",
       "duration": "PT32M35S",
       "duration_seconds": 1955,
-      "view_count": 2227285,
-      "like_count": 70033,
-      "comment_count": 2452,
+      "view_count": 2655783,
+      "like_count": 79991,
+      "comment_count": 2620,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -250,21 +287,60 @@
       "url": "https://www.youtube.com/watch?v=7yj_WVQIB4I"
     },
     {
-      "video_id": "exKLy6CwUNo",
-      "title": "Tower Defense X Tower Battles II Trailer | ROBLOX",
-      "description": "Raze the Void in their dimension. Save Earth from the Void Army. Introducing the original and classic towers such as Scout, Phaser, and Aviator. Only in TDX.\n\n\n#roblox \n\nhey guys u can become a member now:\nhttps://www.youtube.com/channel/UCojsj6T5tNPGPZSx7wn4coQ/join",
-      "channel_title": "JOHN ROBLOX",
-      "channel_id": "UCojsj6T5tNPGPZSx7wn4coQ",
-      "published_at": "2026-08-30T18:59:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/exKLy6CwUNo/hqdefault.jpg",
-      "duration": "PT1M41S",
-      "duration_seconds": 101,
-      "view_count": 133479,
-      "like_count": 5561,
-      "comment_count": 1228,
-      "category_id": "20",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=exKLy6CwUNo"
+      "video_id": "zrOtmDQawas",
+      "title": "Tyler Perry’s Doing Life | Official Trailer | Netflix",
+      "description": "From Tyler Perry, a gritty and gripping urban drama that explores the life of a single mother fighting for survival and a reformed ex-con with untapped talents forge an unexpected bond. Starring Naomi Baker and Jay Reeves.\n\nWatch Tyler Perry’s Doing Life, only on Netflix: https://www.netflix.com/doinglife\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nTyler Perry’s Doing Life | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2026-08-31T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zrOtmDQawas/hqdefault.jpg",
+      "duration": "PT2M9S",
+      "duration_seconds": 129,
+      "view_count": 133932,
+      "like_count": 3998,
+      "comment_count": 383,
+      "category_id": "24",
+      "tags": [
+        "Baker",
+        "Doing",
+        "Doing Life",
+        "Drama",
+        "Film",
+        "Jay",
+        "Jay Reeves",
+        "Life",
+        "Movie",
+        "Naomi"
+      ],
+      "url": "https://www.youtube.com/watch?v=zrOtmDQawas"
+    },
+    {
+      "video_id": "cCISra9NEe0",
+      "title": "LANTERNS Episode 4 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | Hal Betrays John",
+      "description": "Download Testerup via my link to get $5 just for signing up: https://linktwin.co/jkQCaX\n\nLANTERNS Episode 4 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | Hal Betrays John. We breakdown, review and recap the new HBO show Lanterns and point out the comic easter eggs, hidden details and also give our theories on what could be happening with Hal Jordan and John Stewart.\n\n#Lanterns #Episode4 #DC #DCU #Superman #EasterEggs #HBO #HBOMax #ComicBooks #EasterEggs \n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nDonate to my half marathon fundraising for the Newcastle Cats and Dog Shelter here - https://ajbellgreatnorthrun2026.enthuse.com/pf/paul-tweddle\n\nJoin our membership program and get early access to our videos here - \nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers merch at - https://heavyspoilers.shop/\n\nGet 10% Off Arrow Films by using our ",
+      "channel_title": "Heavy Spoilers",
+      "channel_id": "UCq3hT5JPPKy87JGbDls_5BQ",
+      "published_at": "2026-08-31T15:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCISra9NEe0/hqdefault.jpg",
+      "duration": "PT9M54S",
+      "duration_seconds": 594,
+      "view_count": 52220,
+      "like_count": 1136,
+      "comment_count": 151,
+      "category_id": "24",
+      "tags": [
+        "lanterns",
+        "lanterns episode 4",
+        "lanterns episode 4 breakdown",
+        "green lantern",
+        "dc",
+        "dcu",
+        "superman",
+        "hal jordan",
+        "hal jordan death",
+        "john stewart"
+      ],
+      "url": "https://www.youtube.com/watch?v=cCISra9NEe0"
     },
     {
       "video_id": "dVE8T-yJXak",
@@ -274,85 +350,42 @@
       "channel_id": "UCjiXtODGCCulmhwypZAWSag",
       "published_at": "2026-08-31T03:16:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dVE8T-yJXak/hqdefault.jpg",
-      "duration": "PT10H34M59S",
-      "duration_seconds": 38099,
-      "view_count": 1894524,
-      "like_count": 14567,
-      "comment_count": 131,
+      "duration": "PT10H33M26S",
+      "duration_seconds": 38006,
+      "view_count": 1930570,
+      "like_count": 14789,
+      "comment_count": 157,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=dVE8T-yJXak"
     },
     {
-      "video_id": "CBUBk3uwWM0",
-      "title": "The PS5 Pro is SOLD OUT All Over the U.S. after Netflix's GTA 6 Extended Look Trailer!",
-      "description": "The PS5 Pro is SOLD OUT All Over The United States after Netflix's GTA 6 Extended Look Trailer!\n\n#ps5pro #gta6 #soldout #gamingnews #netflix #sony #rockstargames #taketwo #videogamenews #videogame #videogames #game #games #gta #rockstar #tyronemagnus #reaction #reactions \n\nArticle:  https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
-      "channel_title": "Tyrone Magnus",
-      "channel_id": "UCs95gwav7frv5HTVqAGa7uQ",
-      "published_at": "2026-08-30T21:48:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CBUBk3uwWM0/hqdefault.jpg",
-      "duration": "PT4M51S",
-      "duration_seconds": 291,
-      "view_count": 72022,
-      "like_count": 1571,
-      "comment_count": 426,
-      "category_id": "20",
+      "video_id": "giz-XClHE-0",
+      "title": "DDG - HIT-A-THON 2 (Official Trailer)",
+      "description": "DDG - HIT-A-THON 2 (Offcial Trailer)\n\n'don’t overthink it' the album, out now - https://open.spotify.com/album/4RfTA1IaKCPOUIcRp99C7P?si=k1o-g-v9T2y62xbownwi8A\n\n📬DDG’s Official PO Box📬Send fan mail, letters, or packages here: P.O. box 10210 Canoga Park, CA 91309\n\nJoin The Discord: https://discord.gg/pontiacmadeddg\nTwitch: https://twitch.tv/ddg\n\nFollow DDG:\nhttps://www.instagram.com/ddg/\nhttps://twitter.com/pontiacmadeddg \nhttps://www.facebook.com/Pontiacmadeddg/  \nhttps://soundcloud.com/pontiacmadeddg \n\nBusiness Inquires: ddgbizinquires@gmail.com",
+      "channel_title": "DDG Live",
+      "channel_id": "UC5QjibX9jYUAZGE9diXpiKA",
+      "published_at": "2026-08-31T19:06:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/giz-XClHE-0/hqdefault.jpg",
+      "duration": "PT1M39S",
+      "duration_seconds": 99,
+      "view_count": 17058,
+      "like_count": 3489,
+      "comment_count": 466,
+      "category_id": "22",
       "tags": [
-        "ps5 pro",
-        "sold out",
-        "sony",
-        "gta 6",
-        "netflix",
-        "extended look",
-        "trailer",
-        "tyrone magnus",
-        "reactions",
-        "push square"
+        "the ddg family",
+        "ddg family",
+        "theddgfamily",
+        "ddgfamily",
+        "Ddg",
+        "Amp",
+        "Kai Cenat",
+        "Yourragegaming",
+        "Yourrage",
+        "BruceDropEmOff"
       ],
-      "url": "https://www.youtube.com/watch?v=CBUBk3uwWM0"
-    },
-    {
-      "video_id": "pVm-0kQiFxk",
-      "title": "I Became BEN-10 in Minecraft!",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-08-30T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pVm-0kQiFxk/hqdefault.jpg",
-      "duration": "PT20M36S",
-      "duration_seconds": 1236,
-      "view_count": 941581,
-      "like_count": 10014,
-      "comment_count": 1596,
-      "category_id": "24",
-      "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=pVm-0kQiFxk"
-    },
-    {
-      "video_id": "h7EX3dxqXHI",
-      "title": "Lanterns Episode 3 Trailer: WTF Happened To Hal Jordan",
-      "description": "Lanterns Episode 3 Trailer. John Stewart Gets His Comic Book Green Lantern Suit, Nathan Fillion Guy Gardner, Sinestro and Hal Jordan, Is Hal Jordan really dead, Who is the manhunter & Lanterns Episode 4 ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 2 https://www.youtube.com/watch?v=ExaOJm1q5Oc&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Episode 8 https://www.youtube.com/watch?v=vTtyyFhtNDg&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Post Credit Scene https://www.youtube.com/watch?v=WOfZwL4NKFE&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85",
-      "channel_title": "Emergency Awesome",
-      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
-      "published_at": "2026-08-29T20:23:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h7EX3dxqXHI/hqdefault.jpg",
-      "duration": "PT13M59S",
-      "duration_seconds": 839,
-      "view_count": 355966,
-      "like_count": 4637,
-      "comment_count": 626,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=h7EX3dxqXHI"
+      "url": "https://www.youtube.com/watch?v=giz-XClHE-0"
     },
     {
       "video_id": "wJuSfV9hitM",
@@ -364,9 +397,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wJuSfV9hitM/hqdefault.jpg",
       "duration": "PT27M54S",
       "duration_seconds": 1674,
-      "view_count": 521437,
-      "like_count": 19015,
-      "comment_count": 615,
+      "view_count": 824798,
+      "like_count": 26035,
+      "comment_count": 723,
       "category_id": "20",
       "tags": [
         "Funny Moments",
@@ -383,32 +416,45 @@
       "url": "https://www.youtube.com/watch?v=wJuSfV9hitM"
     },
     {
-      "video_id": "WJwCNTgbSeY",
-      "title": "Supermarket Together - Part 2",
-      "description": "Bob, Wade, and I make some truly disasterous choices in managing our grocery store in Supermarket Together!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► @radRYT \n\nPlay the Game ► https://store.steampowered.com/app/2709570/Supermarket_Together/\n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
-      "channel_title": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "published_at": "2026-08-30T19:13:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WJwCNTgbSeY/hqdefault.jpg",
-      "duration": "PT1H51M39S",
-      "duration_seconds": 6699,
-      "view_count": 804513,
-      "like_count": 21521,
-      "comment_count": 1048,
+      "video_id": "cKYFn2yOgP0",
+      "title": "Lanterns Episode 4 Trailer: Sinestro, Guy Gardner Green Lantern & Things You Missed!",
+      "description": "Lanterns Episode 4 Trailer. Hal Jordan & Sinestro's Master Plan, Guy Gardner Green Lantern, Blackest Night, John Stewart Green Lantern Constructs, Who Is The Manhunter & Lanterns Episode 5 ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 3 https://www.youtube.com/watch?v=Ka70wqSzU6g&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nHouse Of The Dragon Season 3 Episode 8 https://www.youtube.com/watch?v=vTtyyFhtNDg&list=PLOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q&index=1&pp=iAQBsAgC\nSpider-Man Brand New Day Post Credit Scene https://www.youtube.com/watch?v=WOfZwL4NKFE&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&p",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-08-31T19:12:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKYFn2yOgP0/hqdefault.jpg",
+      "duration": "PT13M26S",
+      "duration_seconds": 806,
+      "view_count": 15380,
+      "like_count": 1061,
+      "comment_count": 176,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=cKYFn2yOgP0"
+    },
+    {
+      "video_id": "CMXxuSmzXsk",
+      "title": "GTA 6: Robberies, Economy & How Money Works Now | Exclusive Deep Dive",
+      "description": "Chapter 1 – 0:00 – How Money Used to Work\nChapter 2 – 1:40 – The Three Money Types (That we know of)\nChapter 3 – 2:08 – Types of robberies\nChapter 4 – 5:54 – The Feet Pics Story\nChapter 5 – 7:29 – Heists\nChapter 6 – 8:09 – Fences\nChapter 7 – 9:02 – Money is Tied to Story\nChapter 8 – 10:31 – What You Can Spend Money On\nChapter 9 – 11:53 – The GTA 5 Money Problem, Acknowledged\n\nGet 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg\n\nMy Headset: https://amzn.to/3CJgcBZ\nMy Mouse: https://amzn.to/4ibs3cf\nMy Keyboard: https://amzn.to/3Os5fHr\nMy Console: https://amzn.to/3Zfofhw\nMy GPU: https://amzn.to/49noX0C\n\nTwitch: https://www.twitch.tv/tgg_gta\nInstagram: https://www.instagram.com/tee_gee_gee/\nJoin our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang\nFollow me on Twitter/X: https://twitter.com/TGGonYT\n\nGrand Theft Auto 5. GTA 5. GTA 6",
+      "channel_title": "TGG",
+      "channel_id": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "published_at": "2026-08-31T07:25:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CMXxuSmzXsk/hqdefault.jpg",
+      "duration": "PT13M43S",
+      "duration_seconds": 823,
+      "view_count": 1529582,
+      "like_count": 29072,
+      "comment_count": 2530,
       "category_id": "20",
       "tags": [
-        "markiplier",
-        "supermarket together",
-        "supermarket simulation",
-        "simulation game",
-        "mark bob wade",
-        "distractible",
-        "markiplier collab",
-        "collab",
-        "multiplayer",
-        "funny moments"
+        "gta 5",
+        "gta online",
+        "gta 6",
+        "grand theft auto",
+        "making money gta",
+        "get rich gta"
       ],
-      "url": "https://www.youtube.com/watch?v=WJwCNTgbSeY"
+      "url": "https://www.youtube.com/watch?v=CMXxuSmzXsk"
     },
     {
       "video_id": "H6_jMQ6whtQ",
@@ -420,93 +466,120 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 582510,
-      "like_count": 12493,
-      "comment_count": 1022,
-      "category_id": "20",
+      "view_count": 1099458,
+      "like_count": 18221,
+      "comment_count": 1433,
+      "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ"
+    },
+    {
+      "video_id": "61RoQlFkYjs",
+      "title": "John Cena in Clash of Clans?!",
+      "description": "The chances of finding John Cena might be small. The rewards aren’t. \n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortres",
+      "channel_title": "Clash of Clans",
+      "channel_id": "UCD1Em4q90ZUK2R5HKesszJg",
+      "published_at": "2026-08-31T11:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
+      "duration": "PT46S",
+      "duration_seconds": 46,
+      "view_count": 1275252,
+      "like_count": 37774,
+      "comment_count": 1560,
+      "category_id": "20",
+      "tags": [
+        "clash of clans",
+        "COC",
+        "Clash of Clans Gameplay",
+        "Clash of Clans Strategy",
+        "Clash of Clans Animation",
+        "Clash of Clans Commercial",
+        "Clash of Clans Attacks",
+        "Clash of Clans Town Hall",
+        "Hog Rider",
+        "PEKKA"
+      ],
+      "url": "https://www.youtube.com/watch?v=61RoQlFkYjs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 9,
-        "total_views": 7533317,
-        "average_views_per_video": 837035.22,
-        "categories": "Unknown"
+        "total_videos": 10,
+        "total_views": 9534033,
+        "average_views_per_video": 953403.3
       },
       "content_trends": {
+        "entertainment_and_trailers": {
+          "description": "Videos related to entertainment such as movie trailers and game announcements are prominent.",
+          "examples": [
+            "Pokémon: Wild Card | Official Teaser Trailer",
+            "Tyler Perry’s Doing Life | Official Trailer | Netflix",
+            "John Cena in Clash of Clans?!",
+            "DDG - HIT-A-THON 2 (Official Trailer)",
+            "GTA 6: Robberies, Economy & How Money Works Now | Exclusive Deep Dive"
+          ],
+          "insight": "There is a strong interest in upcoming entertainment releases and game updates. Leveraging these genres could capture high viewer interest."
+        },
         "gaming": {
-          "description": "Gaming-related content appears to be popular, with titles related to Pokémon, ROBLOX, and Minecraft.",
-          "videos": [
-            "Pokémon: Wild Card | Official Teaser Trailer",
-            "Tower Defense X Tower Battles II Trailer | ROBLOX",
-            "I Became BEN-10 in Minecraft!",
-            "Minecraft Hardcore - Bring Your Woman to Shared Health Day!"
+          "description": "Content related to gaming, including trailers and gameplay, is trending.",
+          "examples": [
+            "John Cena in Clash of Clans?!",
+            "Minecraft Hardcore - Bring Your Woman to Shared Health Day!",
+            "GTA 6: Robberies, Economy & How Money Works Now | Exclusive Deep Dive"
           ],
-          "insights": "Leveraging popular gaming franchises and platforms such as Pokémon, ROBLOX, and Minecraft can attract significant viewership."
+          "insight": "Gaming remains a dominant category. Collaborations with popular games or creating content around new updates and features can drive engagement."
         },
-        "trailer_and_teaser": {
-          "description": "Trailers and teasers for upcoming content are capturing attention.",
-          "videos": [
-            "Pokémon: Wild Card | Official Teaser Trailer",
-            "Tower Defense X Tower Battles II Trailer | ROBLOX",
-            "Lanterns Episode 3 Trailer: WTF Happened To Hal Jordan"
-          ],
-          "insights": "Creating anticipation through trailers and teasers is a strong engagement strategy, especially for established franchises."
-        },
-        "educational": {
-          "description": "Educational content, such as tutorials, maintains relevance, as seen with the fishing tutorial.",
-          "videos": [
+        "educational_and_tutorials": {
+          "description": "Tutorial content is also featured.",
+          "examples": [
             "This video will teach you How To Fish"
           ],
-          "insights": "There is a market for educational content, particularly practical skills that can be easily demonstrated in video format."
+          "insight": "There is potential for growth in educational content. Creating informative videos on niche topics can attract dedicated audiences."
+        },
+        "comic_and_fandom_analysis": {
+          "description": "Analysis and breakdown of comic book and fandom content is present.",
+          "examples": [
+            "LANTERNS Episode 4 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | Hal Betrays John",
+            "Lanterns Episode 4 Trailer: Sinestro, Guy Gardner Green Lantern & Things You Missed!"
+          ],
+          "insight": "Deep dives into popular franchises and detailed breakdowns cater to niche audiences looking for in-depth analysis."
         }
       },
       "creator_patterns": {
-        "top_channels": {
-          "The Official Pokémon YouTube channel": {
-            "video_count": 1,
-            "insights": "Leveraging official channels with established audiences can result in high engagement and views."
-          },
-          "Diverse creators": {
-            "description": "Each channel has released only one video in this dataset.",
-            "insights": "The diversity of channels suggests a wide variety of content can trend, potentially due to niche audiences or viral appeal."
-          }
+        "diverse_content_creators": {
+          "description": "Content is being created by channels with a diverse range of interests.",
+          "examples": [
+            "The Official Pokémon YouTube channel",
+            "Netflix",
+            "Clash of Clans",
+            "Heavy Spoilers"
+          ],
+          "insight": "Channels are leveraging their unique niches. Collaborating with influencers or experts in specific fields can enhance content authenticity and reach."
         }
       },
       "market_opportunities": {
-        "gaming_expansion": {
-          "description": "The consistent popularity of gaming content indicates an opportunity for expansion.",
-          "suggestions": [
-            "Develop collaborative content with gaming influencers.",
-            "Explore emerging games and trends within the gaming community."
-          ]
+        "cross-promotional_content": {
+          "strategy": "Collaborate across different content niches, such as gaming with entertainment or educational tutorials with popular franchises.",
+          "potential": "This can capture audiences from multiple interests, enhancing viewership and engagement."
         },
-        "trailer_and_teaser_content": {
-          "description": "Creating suspense and anticipation through trailer releases is effective.",
-          "suggestions": [
-            "Invest in high-quality production for trailers.",
-            "Time releases to align with major events or announcements."
-          ]
+        "event_based_content": {
+          "strategy": "Capitalize on current events, game releases, and movie premieres to create timely content.",
+          "potential": "Timely content can leverage peak interest periods, driving higher engagement and visibility."
         },
-        "educational_videos": {
-          "description": "There is potential for growth in educational content.",
-          "suggestions": [
-            "Identify trending skills and produce tutorial content.",
-            "Engage with audiences through interactive and practical demonstrations."
-          ]
+        "niche_educational_series": {
+          "strategy": "Develop a series of educational videos around trending topics or underrepresented niches.",
+          "potential": "This can build a loyal viewer base looking for consistent and valuable information."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 837035
+        "avg_views_per_video": 953403
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
