@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-01T08:30:47.800490",
+  "timestamp": "2026-09-01T14:04:28.352664",
   "date": "2026-09-01",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cKYFn2yOgP0/hqdefault.jpg",
       "duration": "PT13M26S",
       "duration_seconds": 806,
-      "view_count": 209471,
-      "like_count": 3636,
-      "comment_count": 525,
+      "view_count": 264543,
+      "like_count": 4196,
+      "comment_count": 568,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cKYFn2yOgP0"
@@ -39,9 +39,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/13bm7GivLIM/hqdefault.jpg",
       "duration": "PT44M2S",
       "duration_seconds": 2642,
-      "view_count": 1382591,
-      "like_count": 37073,
-      "comment_count": 1329,
+      "view_count": 1655756,
+      "like_count": 43477,
+      "comment_count": 1455,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -67,9 +67,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SNPKq8O4cG0/hqdefault.jpg",
       "duration": "PT11M28S",
       "duration_seconds": 688,
-      "view_count": 179880,
-      "like_count": 2183,
-      "comment_count": 129,
+      "view_count": 209247,
+      "like_count": 2563,
+      "comment_count": 145,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -86,6 +86,44 @@
       "url": "https://www.youtube.com/watch?v=SNPKq8O4cG0"
     },
     {
+      "video_id": "H0j6tsnGdwE",
+      "title": "🔴LIVE | ESCAPE FROM BUNGUS | John X Gimmick | Zero To Hero | LEMONS EFT TIER LIST SUCKS | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-01T07:45:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H0j6tsnGdwE/hqdefault.jpg",
+      "duration": "PT6H41M3S",
+      "duration_seconds": 24063,
+      "view_count": 734251,
+      "like_count": 8028,
+      "comment_count": 70,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=H0j6tsnGdwE"
+    },
+    {
+      "video_id": "H6_jMQ6whtQ",
+      "title": "Pokémon: Wild Card | Official Teaser Trailer",
+      "description": "Get ready for Pokémon: Wild Card, an all-new animated film featuring a Pokémon TCG player and Mimikyu! Stay tuned! 🎬 \n\nFind all your favorite Pokémon merchandise at the official Pokémon Center: https://www.pokemoncenter.com/\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat",
+      "channel_title": "The Official Pokémon YouTube channel",
+      "channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+      "published_at": "2026-08-31T03:54:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
+      "duration": "PT40S",
+      "duration_seconds": 40,
+      "view_count": 1570520,
+      "like_count": 25798,
+      "comment_count": 1830,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ"
+    },
+    {
       "video_id": "ImEeEO6xd3o",
       "title": "I Created A Crazy Slide… (Stanky Shores Ep 13)",
       "description": "Intel Gamer Days is Live! Check out the amazing deals on Intel Starforge PC's!  http://starforgesystems.com/pages/gamer-days-2026\n\nCaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -95,9 +133,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ImEeEO6xd3o/hqdefault.jpg",
       "duration": "PT1H20M11S",
       "duration_seconds": 4811,
-      "view_count": 357797,
-      "like_count": 11530,
-      "comment_count": 838,
+      "view_count": 446921,
+      "like_count": 13778,
+      "comment_count": 934,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -114,43 +152,6 @@
       "url": "https://www.youtube.com/watch?v=ImEeEO6xd3o"
     },
     {
-      "video_id": "H6_jMQ6whtQ",
-      "title": "Pokémon: Wild Card | Official Teaser Trailer",
-      "description": "Get ready for Pokémon: Wild Card, an all-new animated film featuring a Pokémon TCG player and Mimikyu! Stay tuned! 🎬 \n\nFind all your favorite Pokémon merchandise at the official Pokémon Center: https://www.pokemoncenter.com/\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat",
-      "channel_title": "The Official Pokémon YouTube channel",
-      "channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
-      "published_at": "2026-08-31T03:54:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
-      "duration": "PT40S",
-      "duration_seconds": 40,
-      "view_count": 1438284,
-      "like_count": 23904,
-      "comment_count": 1730,
-      "category_id": "1",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ"
-    },
-    {
-      "video_id": "93XWSfCfnvo",
-      "title": "Be Quiet or IT will find you.",
-      "description": "thanks friends for being part of this @Polarcub @Sketchh @speedy @Jackeryz @Chaseroony @Laughability @jayingee7550\nteh game: https://www.roblox.com/games/106920577206536/A-Quiet-Place-Deadzone",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-08-31T23:55:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/93XWSfCfnvo/hqdefault.jpg",
-      "duration": "PT18M15S",
-      "duration_seconds": 1095,
-      "view_count": 349591,
-      "like_count": 17261,
-      "comment_count": 2236,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=93XWSfCfnvo"
-    },
-    {
       "video_id": "zrOtmDQawas",
       "title": "Tyler Perry’s Doing Life | Official Trailer | Netflix",
       "description": "From Tyler Perry, a gritty and gripping urban drama that explores the life of a single mother fighting for survival and a reformed ex-con with untapped talents forge an unexpected bond. Starring Naomi Baker and Jay Reeves.\n\nWatch Tyler Perry’s Doing Life, only on Netflix: https://www.netflix.com/doinglife\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nTyler Perry’s Doing Life | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
@@ -160,9 +161,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zrOtmDQawas/hqdefault.jpg",
       "duration": "PT2M9S",
       "duration_seconds": 129,
-      "view_count": 309914,
-      "like_count": 6308,
-      "comment_count": 543,
+      "view_count": 334370,
+      "like_count": 6828,
+      "comment_count": 584,
       "category_id": "24",
       "tags": [
         "Baker",
@@ -179,32 +180,32 @@
       "url": "https://www.youtube.com/watch?v=zrOtmDQawas"
     },
     {
-      "video_id": "61RoQlFkYjs",
-      "title": "John Cena in Clash of Clans?!",
-      "description": "The chances of finding John Cena might be small. The rewards aren’t. \n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortres",
-      "channel_title": "Clash of Clans",
-      "channel_id": "UCD1Em4q90ZUK2R5HKesszJg",
-      "published_at": "2026-08-31T11:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
-      "duration": "PT46S",
-      "duration_seconds": 46,
-      "view_count": 1753156,
-      "like_count": 46774,
-      "comment_count": 1764,
+      "video_id": "zR1asSRlo6g",
+      "title": "GRIEF 97% 🔴 75%+ x41 🔴 STREAM 382",
+      "description": "GET NEW DOGGIE MERCH: https://doggie-shop.com/\n\nBecome a member! https://www.youtube.com/channel/UC3ZhM0fDxU9bqqlwWRMHwuw/join\n\nDonations are appreciated :) \nhttps://streamlabs.com/doggiegd/tip\n\nMy discord server: https://discord.gg/sGSHg8W\nMy Twitter: https://twitter.com/DasherDoggie\n\nFAQ:\nQ: How old are you?\nA: 20 years old (Birthday is April 5th)\n\nQ: What's your hardest demon?\nA: Acheron (2.1) as of 11/1/22\n\nQ: When did you start playing GD?\nA: November 30th, 2014 (beginning of 1.9)\n\nQ: Where do you live?\nA: New York\n\nQ: Where can I download your texture pack?\nA: There is a video on @IrvingSoluble YouTube channel\n\nStream Transition by: @qdzjoe \n\nDiscord: @doggiegd",
+      "channel_title": "Doggie",
+      "channel_id": "UC3ZhM0fDxU9bqqlwWRMHwuw",
+      "published_at": "2026-09-01T06:42:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zR1asSRlo6g/hqdefault.jpg",
+      "duration": "PT3H53M36S",
+      "duration_seconds": 14016,
+      "view_count": 631018,
+      "like_count": 14128,
+      "comment_count": 484,
       "category_id": "20",
       "tags": [
-        "clash of clans",
-        "COC",
-        "Clash of Clans Gameplay",
-        "Clash of Clans Strategy",
-        "Clash of Clans Animation",
-        "Clash of Clans Commercial",
-        "Clash of Clans Attacks",
-        "Clash of Clans Town Hall",
-        "Hog Rider",
-        "PEKKA"
+        "geometry dash",
+        "doggiedasher",
+        "doggie",
+        "gd",
+        "extreme",
+        "demon",
+        "extreme demon",
+        "zdoggie",
+        "doggiegd",
+        "verification"
       ],
-      "url": "https://www.youtube.com/watch?v=61RoQlFkYjs"
+      "url": "https://www.youtube.com/watch?v=zR1asSRlo6g"
     },
     {
       "video_id": "giz-XClHE-0",
@@ -216,9 +217,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/giz-XClHE-0/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 209296,
-      "like_count": 9382,
-      "comment_count": 976,
+      "view_count": 225444,
+      "like_count": 9938,
+      "comment_count": 1006,
       "category_id": "22",
       "tags": [
         "the ddg family",
@@ -235,23 +236,24 @@
       "url": "https://www.youtube.com/watch?v=giz-XClHE-0"
     },
     {
-      "video_id": "LOoynSCSLfI",
-      "title": "I Imported My Heisman TE To Madden 27!",
-      "description": "After dominating the collegiate level (and sorority row TRUEEEUEUEUEU) for four years, the greatest tight end in NCAA history made the transition to the NFL. Can we dominate the cities like we dominated college towns?\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-08-31T22:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOoynSCSLfI/hqdefault.jpg",
-      "duration": "PT35M23S",
-      "duration_seconds": 2123,
-      "view_count": 226710,
-      "like_count": 4771,
-      "comment_count": 185,
-      "category_id": "17",
+      "video_id": "93XWSfCfnvo",
+      "title": "Be Quiet or IT will find you.",
+      "description": "thanks friends for being part of this @Polarcub @Sketchh @speedy @Jackeryz @Chaseroony @Laughability @jayingee7550\nteh game: https://www.roblox.com/games/106920577206536/A-Quiet-Place-Deadzone",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-08-31T23:55:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/93XWSfCfnvo/hqdefault.jpg",
+      "duration": "PT18M15S",
+      "duration_seconds": 1095,
+      "view_count": 478895,
+      "like_count": 21783,
+      "comment_count": 2396,
+      "category_id": "20",
       "tags": [
-        "mmg"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=LOoynSCSLfI"
+      "url": "https://www.youtube.com/watch?v=93XWSfCfnvo"
     }
   ],
   "videos_with_transcripts": [],
@@ -266,9 +268,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cKYFn2yOgP0/hqdefault.jpg",
       "duration": "PT13M26S",
       "duration_seconds": 806,
-      "view_count": 209471,
-      "like_count": 3636,
-      "comment_count": 525,
+      "view_count": 264543,
+      "like_count": 4196,
+      "comment_count": 568,
       "category_id": "24",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cKYFn2yOgP0"
@@ -283,9 +285,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/13bm7GivLIM/hqdefault.jpg",
       "duration": "PT44M2S",
       "duration_seconds": 2642,
-      "view_count": 1382591,
-      "like_count": 37073,
-      "comment_count": 1329,
+      "view_count": 1655756,
+      "like_count": 43477,
+      "comment_count": 1455,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -311,9 +313,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SNPKq8O4cG0/hqdefault.jpg",
       "duration": "PT11M28S",
       "duration_seconds": 688,
-      "view_count": 179880,
-      "like_count": 2183,
-      "comment_count": 129,
+      "view_count": 209247,
+      "like_count": 2563,
+      "comment_count": 145,
       "category_id": "1",
       "tags": [
         "screencrush",
@@ -330,6 +332,27 @@
       "url": "https://www.youtube.com/watch?v=SNPKq8O4cG0"
     },
     {
+      "video_id": "H0j6tsnGdwE",
+      "title": "🔴LIVE | ESCAPE FROM BUNGUS | John X Gimmick | Zero To Hero | LEMONS EFT TIER LIST SUCKS | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-01T07:45:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H0j6tsnGdwE/hqdefault.jpg",
+      "duration": "PT6H41M3S",
+      "duration_seconds": 24063,
+      "view_count": 734251,
+      "like_count": 8028,
+      "comment_count": 70,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=H0j6tsnGdwE"
+    },
+    {
       "video_id": "ImEeEO6xd3o",
       "title": "I Created A Crazy Slide… (Stanky Shores Ep 13)",
       "description": "Intel Gamer Days is Live! Check out the amazing deals on Intel Starforge PC's!  http://starforgesystems.com/pages/gamer-days-2026\n\nCaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
@@ -339,9 +362,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ImEeEO6xd3o/hqdefault.jpg",
       "duration": "PT1H20M11S",
       "duration_seconds": 4811,
-      "view_count": 357797,
-      "like_count": 11530,
-      "comment_count": 838,
+      "view_count": 446921,
+      "like_count": 13778,
+      "comment_count": 934,
       "category_id": "20",
       "tags": [
         "gaming",
@@ -358,26 +381,6 @@
       "url": "https://www.youtube.com/watch?v=ImEeEO6xd3o"
     },
     {
-      "video_id": "93XWSfCfnvo",
-      "title": "Be Quiet or IT will find you.",
-      "description": "thanks friends for being part of this @Polarcub @Sketchh @speedy @Jackeryz @Chaseroony @Laughability @jayingee7550\nteh game: https://www.roblox.com/games/106920577206536/A-Quiet-Place-Deadzone",
-      "channel_title": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "published_at": "2026-08-31T23:55:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/93XWSfCfnvo/hqdefault.jpg",
-      "duration": "PT18M15S",
-      "duration_seconds": 1095,
-      "view_count": 349591,
-      "like_count": 17261,
-      "comment_count": 2236,
-      "category_id": "20",
-      "tags": [
-        "Family",
-        "friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=93XWSfCfnvo"
-    },
-    {
       "video_id": "zrOtmDQawas",
       "title": "Tyler Perry’s Doing Life | Official Trailer | Netflix",
       "description": "From Tyler Perry, a gritty and gripping urban drama that explores the life of a single mother fighting for survival and a reformed ex-con with untapped talents forge an unexpected bond. Starring Naomi Baker and Jay Reeves.\n\nWatch Tyler Perry’s Doing Life, only on Netflix: https://www.netflix.com/doinglife\n\nAbout Netflix:\nNetflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nTyler Perry’s Doing Life | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
@@ -387,9 +390,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zrOtmDQawas/hqdefault.jpg",
       "duration": "PT2M9S",
       "duration_seconds": 129,
-      "view_count": 309914,
-      "like_count": 6308,
-      "comment_count": 543,
+      "view_count": 334370,
+      "like_count": 6828,
+      "comment_count": 584,
       "category_id": "24",
       "tags": [
         "Baker",
@@ -406,6 +409,34 @@
       "url": "https://www.youtube.com/watch?v=zrOtmDQawas"
     },
     {
+      "video_id": "zR1asSRlo6g",
+      "title": "GRIEF 97% 🔴 75%+ x41 🔴 STREAM 382",
+      "description": "GET NEW DOGGIE MERCH: https://doggie-shop.com/\n\nBecome a member! https://www.youtube.com/channel/UC3ZhM0fDxU9bqqlwWRMHwuw/join\n\nDonations are appreciated :) \nhttps://streamlabs.com/doggiegd/tip\n\nMy discord server: https://discord.gg/sGSHg8W\nMy Twitter: https://twitter.com/DasherDoggie\n\nFAQ:\nQ: How old are you?\nA: 20 years old (Birthday is April 5th)\n\nQ: What's your hardest demon?\nA: Acheron (2.1) as of 11/1/22\n\nQ: When did you start playing GD?\nA: November 30th, 2014 (beginning of 1.9)\n\nQ: Where do you live?\nA: New York\n\nQ: Where can I download your texture pack?\nA: There is a video on @IrvingSoluble YouTube channel\n\nStream Transition by: @qdzjoe \n\nDiscord: @doggiegd",
+      "channel_title": "Doggie",
+      "channel_id": "UC3ZhM0fDxU9bqqlwWRMHwuw",
+      "published_at": "2026-09-01T06:42:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zR1asSRlo6g/hqdefault.jpg",
+      "duration": "PT3H53M36S",
+      "duration_seconds": 14016,
+      "view_count": 631018,
+      "like_count": 14128,
+      "comment_count": 484,
+      "category_id": "20",
+      "tags": [
+        "geometry dash",
+        "doggiedasher",
+        "doggie",
+        "gd",
+        "extreme",
+        "demon",
+        "extreme demon",
+        "zdoggie",
+        "doggiegd",
+        "verification"
+      ],
+      "url": "https://www.youtube.com/watch?v=zR1asSRlo6g"
+    },
+    {
       "video_id": "giz-XClHE-0",
       "title": "DDG - HIT-A-THON 2 (Official Trailer)",
       "description": "DDG - HIT-A-THON 2 (Offcial Trailer)\n\n'don’t overthink it' the album, out now - https://open.spotify.com/album/4RfTA1IaKCPOUIcRp99C7P?si=k1o-g-v9T2y62xbownwi8A\n\n📬DDG’s Official PO Box📬Send fan mail, letters, or packages here: P.O. box 10210 Canoga Park, CA 91309\n\nJoin The Discord: https://discord.gg/pontiacmadeddg\nTwitch: https://twitch.tv/ddg\n\nFollow DDG:\nhttps://www.instagram.com/ddg/\nhttps://twitter.com/pontiacmadeddg \nhttps://www.facebook.com/Pontiacmadeddg/  \nhttps://soundcloud.com/pontiacmadeddg \n\nBusiness Inquires: ddgbizinquires@gmail.com",
@@ -415,9 +446,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/giz-XClHE-0/hqdefault.jpg",
       "duration": "PT1M39S",
       "duration_seconds": 99,
-      "view_count": 209296,
-      "like_count": 9382,
-      "comment_count": 976,
+      "view_count": 225444,
+      "like_count": 9938,
+      "comment_count": 1006,
       "category_id": "22",
       "tags": [
         "the ddg family",
@@ -434,23 +465,24 @@
       "url": "https://www.youtube.com/watch?v=giz-XClHE-0"
     },
     {
-      "video_id": "LOoynSCSLfI",
-      "title": "I Imported My Heisman TE To Madden 27!",
-      "description": "After dominating the collegiate level (and sorority row TRUEEEUEUEUEU) for four years, the greatest tight end in NCAA history made the transition to the NFL. Can we dominate the cities like we dominated college towns?\n\nwow, you stud - thanks for clicking this video. quite simply, i cant help but notice how handsome you look right now - great job sport. keep up the nice work!\n\n#mmg",
-      "channel_title": "MMG",
-      "channel_id": "UCaYxyR9mzVlTrOOyZD0XAmA",
-      "published_at": "2026-08-31T22:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOoynSCSLfI/hqdefault.jpg",
-      "duration": "PT35M23S",
-      "duration_seconds": 2123,
-      "view_count": 226710,
-      "like_count": 4771,
-      "comment_count": 185,
-      "category_id": "17",
+      "video_id": "93XWSfCfnvo",
+      "title": "Be Quiet or IT will find you.",
+      "description": "thanks friends for being part of this @Polarcub @Sketchh @speedy @Jackeryz @Chaseroony @Laughability @jayingee7550\nteh game: https://www.roblox.com/games/106920577206536/A-Quiet-Place-Deadzone",
+      "channel_title": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "published_at": "2026-08-31T23:55:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/93XWSfCfnvo/hqdefault.jpg",
+      "duration": "PT18M15S",
+      "duration_seconds": 1095,
+      "view_count": 478895,
+      "like_count": 21783,
+      "comment_count": 2396,
+      "category_id": "20",
       "tags": [
-        "mmg"
+        "Family",
+        "friendly"
       ],
-      "url": "https://www.youtube.com/watch?v=LOoynSCSLfI"
+      "url": "https://www.youtube.com/watch?v=93XWSfCfnvo"
     },
     {
       "video_id": "H6_jMQ6whtQ",
@@ -462,92 +494,95 @@
       "thumbnail_url": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
       "duration": "PT40S",
       "duration_seconds": 40,
-      "view_count": 1438284,
-      "like_count": 23904,
-      "comment_count": 1730,
+      "view_count": 1570520,
+      "like_count": 25798,
+      "comment_count": 1830,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ"
-    },
-    {
-      "video_id": "61RoQlFkYjs",
-      "title": "John Cena in Clash of Clans?!",
-      "description": "The chances of finding John Cena might be small. The rewards aren’t. \n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortres",
-      "channel_title": "Clash of Clans",
-      "channel_id": "UCD1Em4q90ZUK2R5HKesszJg",
-      "published_at": "2026-08-31T11:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
-      "duration": "PT46S",
-      "duration_seconds": 46,
-      "view_count": 1753156,
-      "like_count": 46774,
-      "comment_count": 1764,
-      "category_id": "20",
-      "tags": [
-        "clash of clans",
-        "COC",
-        "Clash of Clans Gameplay",
-        "Clash of Clans Strategy",
-        "Clash of Clans Animation",
-        "Clash of Clans Commercial",
-        "Clash of Clans Attacks",
-        "Clash of Clans Town Hall",
-        "Hog Rider",
-        "PEKKA"
-      ],
-      "url": "https://www.youtube.com/watch?v=61RoQlFkYjs"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
       "overview": {
-        "total_videos": 10,
-        "total_views": 6416690,
-        "average_views_per_video": 641669
+        "totalVideos": 10,
+        "totalViews": 6550965,
+        "averageViewsPerVideo": 655096.5
       },
-      "content_trends": {
-        "dominant_themes": [
+      "contentTrends": {
+        "recurringThemes": [
           "Trailers and Teasers",
           "Gaming",
-          "Entertainment"
+          "Entertainment and Pop Culture"
         ],
-        "trailer_and_teaser_videos": 5,
-        "gaming_related_videos": 3,
-        "entertainment_videos": 2,
-        "insight": "Trailers and teasers are currently a dominant theme, reflecting high audience interest in upcoming content across various entertainment mediums. Gaming content also shows significant engagement, indicating a strong viewer base for interactive and competitive entertainment."
-      },
-      "creator_patterns": {
-        "unique_channels": 5,
-        "videos_per_channel": {
-          "Emergency Awesome": 1,
-          "SMii7Yplus": 1,
-          "ScreenCrush": 1,
-          "CaseOh": 1,
-          "The Official Pokémon YouTube channel": 1
+        "popularContentTypes": {
+          "Trailers": 4,
+          "Gaming": 2,
+          "Entertainment": 2,
+          "Miscellaneous": 2
         },
-        "insight": "The presence of unique channels with single video contributions highlights a diverse creator landscape. Channels focusing on niche content like superhero lore and gaming are successfully capturing viewer interest."
-      },
-      "market_opportunities": {
-        "opportunity_areas": [
-          "In-depth content analysis and breakdowns",
-          "Gaming strategy and competitive content",
-          "Crossover content involving pop culture and gaming"
-        ],
-        "recommendations": [
-          {
-            "opportunity": "In-depth content analysis",
-            "strategy": "Create detailed breakdown videos of popular trailers and teasers, focusing on hidden details and speculative storylines."
-          },
-          {
-            "opportunity": "Gaming strategy content",
-            "strategy": "Develop content around gaming tips, strategies, and reviews to capitalize on the growing gaming audience."
-          },
-          {
-            "opportunity": "Crossover content",
-            "strategy": "Explore content that merges pop culture references with gaming or entertainment, appealing to audiences interested in both domains."
-          }
+        "titleKeywords": [
+          "Trailer",
+          "Episode",
+          "Teaser",
+          "Live",
+          "Official"
         ]
+      },
+      "creatorPatterns": {
+        "uniqueCreators": 10,
+        "highVisibilityCreators": [
+          "Emergency Awesome",
+          "ScreenCrush",
+          "The Official Pokémon YouTube channel"
+        ],
+        "videoDistribution": {
+          "singleVideoCreators": 10,
+          "multipleVideoCreators": 0
+        }
+      },
+      "marketOpportunities": {
+        "emergingCategories": [
+          "Superhero Content",
+          "Gaming Livestreams",
+          "Nostalgia-driven Content"
+        ],
+        "growthPotential": {
+          "Gaming Live Streams": {
+            "description": "High engagement potential with interactive audience participation.",
+            "recommendation": "Develop consistent streaming schedules and leverage platform-specific features like Super Chat to increase monetization."
+          },
+          "Trailer Analysis": {
+            "description": "Significant interest in breakdowns and analysis of popular media trailers.",
+            "recommendation": "Create detailed, insightful analysis videos that offer unique perspectives to capture audience interest."
+          }
+        },
+        "audienceEngagement": {
+          "interactiveContent": {
+            "description": "High potential for viewer interaction in live streams and gaming content.",
+            "recommendation": "Incorporate audience polls, Q&A sessions, and real-time feedback mechanisms to boost engagement."
+          },
+          "cross-platform Promotion": {
+            "description": "Utilizing other social media platforms to promote content can enhance reach.",
+            "recommendation": "Engage audiences on platforms like Twitter and Instagram to tease upcoming content and drive traffic to YouTube."
+          }
+        }
+      },
+      "data-drivenInsights": {
+        "averageViewsPerCategory": {
+          "Trailers": 2620386,
+          "Gaming": 655096.5,
+          "Miscellaneous": 327548.25
+        },
+        "channelPerformance": {
+          "Emergency Awesome": {
+            "views": "High relative viewership indicates strong channel authority in pop culture content."
+          },
+          "The Official Pokémon YouTube channel": {
+            "views": "Consistent viewership suggests a dedicated fan base for Pokémon-related content."
+          }
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -555,7 +590,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 641669
+        "avg_views_per_video": 655096
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
