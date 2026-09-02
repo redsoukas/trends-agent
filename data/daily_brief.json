@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-02T04:00:13.056734",
+  "timestamp": "2026-09-02T11:01:54.652043",
   "date": "2026-09-02",
   "summary": {
     "total_videos_analyzed": 10,
     "music_videos_filtered": 2,
-    "high_potential_videos": 10,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YWsczzufh6Q/hqdefault.jpg",
       "duration": "PT3M25S",
       "duration_seconds": 205,
-      "view_count": 1945578,
-      "like_count": 289074,
-      "comment_count": 18328,
+      "view_count": 2311235,
+      "like_count": 369334,
+      "comment_count": 19219,
       "category_id": "24",
       "tags": [
         "Stray Kids",
@@ -50,38 +50,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
       "duration": "PT2M49S",
       "duration_seconds": 169,
-      "view_count": 6345050,
-      "like_count": 53064,
-      "comment_count": 5158,
+      "view_count": 8650016,
+      "like_count": 68760,
+      "comment_count": 6268,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U6sbm1OaJb8"
     },
     {
-      "video_id": "PrrE6YwY6mo",
-      "title": "SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS",
-      "description": "🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n🃏Hot House Games: https://www.hothousegames.com/\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● https://www.instagram.com/vikkstar\n● http://www.twitter.com/Vikkstar123\n\n🔵 TOBI (Tobjizzle)\n● http://www",
-      "channel_title": "MoreSidemen",
-      "channel_id": "UCh5mLn90vUaB1PbRRx_AiaA",
-      "published_at": "2026-09-01T17:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PrrE6YwY6mo/hqdefault.jpg",
-      "duration": "PT1H8M3S",
-      "duration_seconds": 4083,
-      "view_count": 1454578,
-      "like_count": 46886,
-      "comment_count": 3536,
-      "category_id": "24",
+      "video_id": "r_nlMc9DkS8",
+      "title": "🔴LIVE | THE COMEBACK. | ESCAPE FROM TARKOV | John X Cloakzy | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-02T06:23:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r_nlMc9DkS8/hqdefault.jpg",
+      "duration": "PT7H32M46S",
+      "duration_seconds": 27166,
+      "view_count": 783726,
+      "like_count": 8649,
+      "comment_count": 52,
+      "category_id": "20",
       "tags": [
-        "sidemen",
-        "moresidemen",
-        "miniminter",
-        "zerkaa",
-        "behzinga",
-        "tbjzl",
-        "vikkstar",
-        "wroetoshaw"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=PrrE6YwY6mo"
+      "url": "https://www.youtube.com/watch?v=r_nlMc9DkS8"
     },
     {
       "video_id": "J6ILiEuUvM0",
@@ -93,9 +88,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/J6ILiEuUvM0/hqdefault.jpg",
       "duration": "PT3M2S",
       "duration_seconds": 182,
-      "view_count": 544158,
-      "like_count": 34907,
-      "comment_count": 3119,
+      "view_count": 723775,
+      "like_count": 40257,
+      "comment_count": 3481,
       "category_id": "23",
       "tags": [
         "Weird Al",
@@ -116,29 +111,39 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fVCD9oKjtZs/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 450162,
-      "like_count": 16043,
-      "comment_count": 1622,
+      "view_count": 513487,
+      "like_count": 17400,
+      "comment_count": 1732,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fVCD9oKjtZs"
     },
     {
-      "video_id": "5b6PWx690zA",
-      "title": "NEW R6 SEASON",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nTimestamps:\n\n00:00 - New R6 Season Intro\n33:56 - First Game of New Season (Casual)\n57:14 - New Season Ranked w/ Ricci, Mingo, Bootz and Gunnar\n2:27:10 - Placement Game (R6)\n3:08:15 - New Season Ranked w/ Ricci, Mingo, Bootz and Gunnar\n\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-09-02T00:06:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5b6PWx690zA/hqdefault.jpg",
-      "duration": "PT6H2M48S",
-      "duration_seconds": 21768,
-      "view_count": 700647,
-      "like_count": 6846,
-      "comment_count": 53,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=5b6PWx690zA"
+      "video_id": "OJOyJtavpXs",
+      "title": "Five Nights at Freddy's and GoPro Update",
+      "description": "new Cloak ► https://cloakbrand.com/\nPlaying through another Five Nights at Freddy's Fan Game, 3 Vegan Entrepreneurs! Also giving you guys an update on the GoPro situation.\nPlay The Game ► https://gamejolt.com/p/the-three-vegan-entrepreneurs-x-five-nights-at-freddy-s-g2fn6rw9",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-09-02T04:44:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OJOyJtavpXs/hqdefault.jpg",
+      "duration": "PT1H14M26S",
+      "duration_seconds": 4466,
+      "view_count": 753091,
+      "like_count": 20754,
+      "comment_count": 554,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama",
+        "five nights at freddys in real time",
+        "graveyard shift at freddy's",
+        "3 vegan entrepreneurs"
+      ],
+      "url": "https://www.youtube.com/watch?v=OJOyJtavpXs"
     },
     {
       "video_id": "_jVtYQKWJRM",
@@ -150,9 +155,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_jVtYQKWJRM/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 159200,
-      "like_count": 1288,
-      "comment_count": 125,
+      "view_count": 285835,
+      "like_count": 1459,
+      "comment_count": 138,
       "category_id": "24",
       "tags": [
         "ncis",
@@ -169,75 +174,75 @@
       "url": "https://www.youtube.com/watch?v=_jVtYQKWJRM"
     },
     {
-      "video_id": "CXYgQzAEt7U",
-      "title": "10 Gacha Games, but if they ask for money I quit",
-      "description": "Yes, I am gonna play the horse game.\n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=AagcyCBxGqg\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #umamusume",
-      "channel_title": "DougDougDoug",
-      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
-      "published_at": "2026-09-01T22:16:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CXYgQzAEt7U/hqdefault.jpg",
-      "duration": "PT51M57S",
-      "duration_seconds": 3117,
-      "view_count": 212685,
-      "like_count": 10351,
-      "comment_count": 1396,
-      "category_id": "20",
-      "tags": [
-        "DougDoug",
-        "DougDoug's Leftovers",
-        "DougDoug Youtube",
-        "DougDoug second channel",
-        "dougdoug stream highlights",
-        "dougdoug twitch",
-        "dougdoug twitch highlights",
-        "dougdoug stream",
-        "twitch",
-        "twitch chat"
-      ],
-      "url": "https://www.youtube.com/watch?v=CXYgQzAEt7U"
-    },
-    {
-      "video_id": "iQM8DzszRCw",
-      "title": "Honest Trailers | Toy Story 5",
-      "description": "Calling all (literal) Screen Junkies! It's the Honest Trailer for Toy Story 5!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Lon Harris & Spencer Gilbert\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #funny #toystory #pixar #disney #woody #buzz #smartypants",
-      "channel_title": "Screen Junkies",
-      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
-      "published_at": "2026-09-01T17:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iQM8DzszRCw/hqdefault.jpg",
-      "duration": "PT6M26S",
-      "duration_seconds": 386,
-      "view_count": 250291,
-      "like_count": 6082,
-      "comment_count": 502,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iQM8DzszRCw"
-    },
-    {
-      "video_id": "PJaRsW0H8-c",
-      "title": "Bodybuilding to Rizz SCHOOL GIRLS.. (Minecraft)",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-09-01T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PJaRsW0H8-c/hqdefault.jpg",
-      "duration": "PT21M6S",
-      "duration_seconds": 1266,
-      "view_count": 526335,
-      "like_count": 6344,
-      "comment_count": 1246,
+      "video_id": "PrrE6YwY6mo",
+      "title": "SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS",
+      "description": "🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n🃏Hot House Games: https://www.hothousegames.com/\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● https://www.instagram.com/vikkstar\n● http://www.twitter.com/Vikkstar123\n\n🔵 TOBI (Tobjizzle)\n● http://www",
+      "channel_title": "MoreSidemen",
+      "channel_id": "UCh5mLn90vUaB1PbRRx_AiaA",
+      "published_at": "2026-09-01T17:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PrrE6YwY6mo/hqdefault.jpg",
+      "duration": "PT1H8M3S",
+      "duration_seconds": 4083,
+      "view_count": 2012472,
+      "like_count": 58427,
+      "comment_count": 4215,
       "category_id": "24",
       "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
+        "sidemen",
+        "moresidemen",
+        "miniminter",
+        "zerkaa",
+        "behzinga",
+        "tbjzl",
+        "vikkstar",
+        "wroetoshaw"
       ],
-      "url": "https://www.youtube.com/watch?v=PJaRsW0H8-c"
+      "url": "https://www.youtube.com/watch?v=PrrE6YwY6mo"
+    },
+    {
+      "video_id": "M5hJvO3CWTw",
+      "title": "Romeo Santos - Imitadora (Letra/Lyrics)",
+      "description": "🍃 Romeo Santos - Imitadora (Letra/Lyrics)\n🌎Download / Stream: https://sml.lnk.to/Golden\n💚Help us reach 50.000 subscribers!💚\n\n🌸Romeo Santos\nhttps://www.instagram.com/romeosantos \nhttps://www.facebook.com/RomeoSantosOfficial \n\n💚 Lyrics:  Romeo Santos - Imitadora\n\n[Intro]\nHey\nWho are you?\n\n[Verso]\nMi memoria ha conservado lo que se ha llevado el viento\nY yo estoy estancado en esos tiempos\nCuando tú me amabas y con gran fulgor sentía tus besos\nDime, quítame esta duda\n¿Quién es esta extraña que se ha apoderado de tu ser?\n¿Dónde está la amante loca que me erizaba la piel?\nPorque ya tú no me tocas como lo hacía esa mujer\nAlgo no anda bien\nEscucha las palabras de Romeo\n\n[Coro]\nEsta noche me hago el interrogante\nY le pongo fin a la impostora, usurpadora\nExijo contigo una entrevista\nSospecho plagio a mi señora, mala imitadora\nDime, tengo unas preguntas\n¿Dónde fue bajo la lluvia que te di ese primer beso?\nDime también, relátame el momento\nNúmero de alojamiento donde yo te hice mujer\nConfírmame\n¿Q",
+      "channel_title": "World of Healing",
+      "channel_id": "UC4AerYtVqvf4sxUTqqAfL4A",
+      "published_at": "2026-09-01T13:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M5hJvO3CWTw/hqdefault.jpg",
+      "duration": "PT3M55S",
+      "duration_seconds": 235,
+      "view_count": 233742,
+      "like_count": 401,
+      "comment_count": 8,
+      "category_id": "22",
+      "tags": [
+        "imitadora",
+        "imitadora letra",
+        "letra imitadora",
+        "imitadora lyrics",
+        "lyrics imitadora",
+        "romeo santos",
+        "letra",
+        "lyrics",
+        "romeo santos imitadora",
+        "imitadora romeo santos"
+      ],
+      "url": "https://www.youtube.com/watch?v=M5hJvO3CWTw"
+    },
+    {
+      "video_id": "9CZ5xNna-tg",
+      "title": "PORTAL TO HELL Official Trailer (2026)",
+      "description": "First movie trailer for Portal To Hell starring, Trey Holland, Keith David.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-09-01T15:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9CZ5xNna-tg/hqdefault.jpg",
+      "duration": "PT2M20S",
+      "duration_seconds": 140,
+      "view_count": 175153,
+      "like_count": 2989,
+      "comment_count": 187,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9CZ5xNna-tg"
     }
   ],
   "videos_with_transcripts": [],
@@ -252,9 +257,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YWsczzufh6Q/hqdefault.jpg",
       "duration": "PT3M25S",
       "duration_seconds": 205,
-      "view_count": 1945578,
-      "like_count": 289074,
-      "comment_count": 18328,
+      "view_count": 2311235,
+      "like_count": 369334,
+      "comment_count": 19219,
       "category_id": "24",
       "tags": [
         "Stray Kids",
@@ -280,38 +285,33 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
       "duration": "PT2M49S",
       "duration_seconds": 169,
-      "view_count": 6345050,
-      "like_count": 53064,
-      "comment_count": 5158,
+      "view_count": 8650016,
+      "like_count": 68760,
+      "comment_count": 6268,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=U6sbm1OaJb8"
     },
     {
-      "video_id": "PrrE6YwY6mo",
-      "title": "SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS",
-      "description": "🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n🃏Hot House Games: https://www.hothousegames.com/\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● https://www.instagram.com/vikkstar\n● http://www.twitter.com/Vikkstar123\n\n🔵 TOBI (Tobjizzle)\n● http://www",
-      "channel_title": "MoreSidemen",
-      "channel_id": "UCh5mLn90vUaB1PbRRx_AiaA",
-      "published_at": "2026-09-01T17:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PrrE6YwY6mo/hqdefault.jpg",
-      "duration": "PT1H8M3S",
-      "duration_seconds": 4083,
-      "view_count": 1454578,
-      "like_count": 46886,
-      "comment_count": 3536,
-      "category_id": "24",
+      "video_id": "r_nlMc9DkS8",
+      "title": "🔴LIVE | THE COMEBACK. | ESCAPE FROM TARKOV | John X Cloakzy | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-02T06:23:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r_nlMc9DkS8/hqdefault.jpg",
+      "duration": "PT7H32M46S",
+      "duration_seconds": 27166,
+      "view_count": 783726,
+      "like_count": 8649,
+      "comment_count": 52,
+      "category_id": "20",
       "tags": [
-        "sidemen",
-        "moresidemen",
-        "miniminter",
-        "zerkaa",
-        "behzinga",
-        "tbjzl",
-        "vikkstar",
-        "wroetoshaw"
+        "funny",
+        "escape from tarkov",
+        "tarkov"
       ],
-      "url": "https://www.youtube.com/watch?v=PrrE6YwY6mo"
+      "url": "https://www.youtube.com/watch?v=r_nlMc9DkS8"
     },
     {
       "video_id": "J6ILiEuUvM0",
@@ -323,9 +323,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/J6ILiEuUvM0/hqdefault.jpg",
       "duration": "PT3M2S",
       "duration_seconds": 182,
-      "view_count": 544158,
-      "like_count": 34907,
-      "comment_count": 3119,
+      "view_count": 723775,
+      "like_count": 40257,
+      "comment_count": 3481,
       "category_id": "23",
       "tags": [
         "Weird Al",
@@ -346,29 +346,39 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fVCD9oKjtZs/hqdefault.jpg",
       "duration": "PT2M29S",
       "duration_seconds": 149,
-      "view_count": 450162,
-      "like_count": 16043,
-      "comment_count": 1622,
+      "view_count": 513487,
+      "like_count": 17400,
+      "comment_count": 1732,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=fVCD9oKjtZs"
     },
     {
-      "video_id": "5b6PWx690zA",
-      "title": "NEW R6 SEASON",
-      "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\nGet the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi\n\n---------------------------------------------------------------------------------------------------------------------------\n\nTimestamps:\n\n00:00 - New R6 Season Intro\n33:56 - First Game of New Season (Casual)\n57:14 - New Season Ranked w/ Ricci, Mingo, Bootz and Gunnar\n2:27:10 - Placement Game (R6)\n3:08:15 - New Season Ranked w/ Ricci, Mingo, Bootz and Gunnar\n\n\n---------------------------------------------------------------------------------------------------------------------------\n\nG FUEL x JYNXZI 20% OFF: http://gfuel.ly/jynxzi Code: \"JYNXZI\"\n\nKONTROLFREEK x JYNXZI 12% off: https://glnk.io/Jynxzi Code: \"JYNXZI\"",
-      "channel_title": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "published_at": "2026-09-02T00:06:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5b6PWx690zA/hqdefault.jpg",
-      "duration": "PT6H2M48S",
-      "duration_seconds": 21768,
-      "view_count": 700647,
-      "like_count": 6846,
-      "comment_count": 53,
-      "category_id": "24",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=5b6PWx690zA"
+      "video_id": "OJOyJtavpXs",
+      "title": "Five Nights at Freddy's and GoPro Update",
+      "description": "new Cloak ► https://cloakbrand.com/\nPlaying through another Five Nights at Freddy's Fan Game, 3 Vegan Entrepreneurs! Also giving you guys an update on the GoPro situation.\nPlay The Game ► https://gamejolt.com/p/the-three-vegan-entrepreneurs-x-five-nights-at-freddy-s-g2fn6rw9",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-09-02T04:44:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OJOyJtavpXs/hqdefault.jpg",
+      "duration": "PT1H14M26S",
+      "duration_seconds": 4466,
+      "view_count": 753091,
+      "like_count": 20754,
+      "comment_count": 554,
+      "category_id": "20",
+      "tags": [
+        "markiplier",
+        "five nights at freddys",
+        "fnaf",
+        "fnaf 20 mode",
+        "markiplier cheated",
+        "drama",
+        "five nights at freddys in real time",
+        "graveyard shift at freddy's",
+        "3 vegan entrepreneurs"
+      ],
+      "url": "https://www.youtube.com/watch?v=OJOyJtavpXs"
     },
     {
       "video_id": "_jVtYQKWJRM",
@@ -380,9 +390,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_jVtYQKWJRM/hqdefault.jpg",
       "duration": "PT1M20S",
       "duration_seconds": 80,
-      "view_count": 159200,
-      "like_count": 1288,
-      "comment_count": 125,
+      "view_count": 285835,
+      "like_count": 1459,
+      "comment_count": 138,
       "category_id": "24",
       "tags": [
         "ncis",
@@ -399,133 +409,129 @@
       "url": "https://www.youtube.com/watch?v=_jVtYQKWJRM"
     },
     {
-      "video_id": "CXYgQzAEt7U",
-      "title": "10 Gacha Games, but if they ask for money I quit",
-      "description": "Yes, I am gonna play the horse game.\n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=AagcyCBxGqg\n\nMAIN CHANNEL: https://www.youtube.com/user/Gloudas\nTWITTER: https://twitter.com/dougdougfood\n\nEdited by Mckl! https://twitter.com/mckl99\n\nMain Channel Playlists:\nLatest Uploads: https://www.youtube.com/playlist?list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nGaming Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#DougDoug #DougDougDoug #umamusume",
-      "channel_title": "DougDougDoug",
-      "channel_id": "UC5sc1ysFs7RfjjEFMuQ3ZQw",
-      "published_at": "2026-09-01T22:16:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CXYgQzAEt7U/hqdefault.jpg",
-      "duration": "PT51M57S",
-      "duration_seconds": 3117,
-      "view_count": 212685,
-      "like_count": 10351,
-      "comment_count": 1396,
-      "category_id": "20",
-      "tags": [
-        "DougDoug",
-        "DougDoug's Leftovers",
-        "DougDoug Youtube",
-        "DougDoug second channel",
-        "dougdoug stream highlights",
-        "dougdoug twitch",
-        "dougdoug twitch highlights",
-        "dougdoug stream",
-        "twitch",
-        "twitch chat"
-      ],
-      "url": "https://www.youtube.com/watch?v=CXYgQzAEt7U"
-    },
-    {
-      "video_id": "iQM8DzszRCw",
-      "title": "Honest Trailers | Toy Story 5",
-      "description": "Calling all (literal) Screen Junkies! It's the Honest Trailer for Toy Story 5!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Lon Harris & Spencer Gilbert\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #funny #toystory #pixar #disney #woody #buzz #smartypants",
-      "channel_title": "Screen Junkies",
-      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
-      "published_at": "2026-09-01T17:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iQM8DzszRCw/hqdefault.jpg",
-      "duration": "PT6M26S",
-      "duration_seconds": 386,
-      "view_count": 250291,
-      "like_count": 6082,
-      "comment_count": 502,
-      "category_id": "22",
-      "tags": [],
-      "url": "https://www.youtube.com/watch?v=iQM8DzszRCw"
-    },
-    {
-      "video_id": "PJaRsW0H8-c",
-      "title": "Bodybuilding to Rizz SCHOOL GIRLS.. (Minecraft)",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-09-01T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PJaRsW0H8-c/hqdefault.jpg",
-      "duration": "PT21M6S",
-      "duration_seconds": 1266,
-      "view_count": 526335,
-      "like_count": 6344,
-      "comment_count": 1246,
+      "video_id": "PrrE6YwY6mo",
+      "title": "SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS",
+      "description": "🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n🃏Hot House Games: https://www.hothousegames.com/\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● https://www.instagram.com/vikkstar\n● http://www.twitter.com/Vikkstar123\n\n🔵 TOBI (Tobjizzle)\n● http://www",
+      "channel_title": "MoreSidemen",
+      "channel_id": "UCh5mLn90vUaB1PbRRx_AiaA",
+      "published_at": "2026-09-01T17:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PrrE6YwY6mo/hqdefault.jpg",
+      "duration": "PT1H8M3S",
+      "duration_seconds": 4083,
+      "view_count": 2012472,
+      "like_count": 58427,
+      "comment_count": 4215,
       "category_id": "24",
       "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
+        "sidemen",
+        "moresidemen",
+        "miniminter",
+        "zerkaa",
+        "behzinga",
+        "tbjzl",
+        "vikkstar",
+        "wroetoshaw"
       ],
-      "url": "https://www.youtube.com/watch?v=PJaRsW0H8-c"
+      "url": "https://www.youtube.com/watch?v=PrrE6YwY6mo"
+    },
+    {
+      "video_id": "9CZ5xNna-tg",
+      "title": "PORTAL TO HELL Official Trailer (2026)",
+      "description": "First movie trailer for Portal To Hell starring, Trey Holland, Keith David.",
+      "channel_title": "Movie Trailers Source",
+      "channel_id": "UCpJN7kiUkDrH11p0GQhLyFw",
+      "published_at": "2026-09-01T15:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9CZ5xNna-tg/hqdefault.jpg",
+      "duration": "PT2M20S",
+      "duration_seconds": 140,
+      "view_count": 175153,
+      "like_count": 2989,
+      "comment_count": 187,
+      "category_id": "1",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=9CZ5xNna-tg"
+    },
+    {
+      "video_id": "M5hJvO3CWTw",
+      "title": "Romeo Santos - Imitadora (Letra/Lyrics)",
+      "description": "🍃 Romeo Santos - Imitadora (Letra/Lyrics)\n🌎Download / Stream: https://sml.lnk.to/Golden\n💚Help us reach 50.000 subscribers!💚\n\n🌸Romeo Santos\nhttps://www.instagram.com/romeosantos \nhttps://www.facebook.com/RomeoSantosOfficial \n\n💚 Lyrics:  Romeo Santos - Imitadora\n\n[Intro]\nHey\nWho are you?\n\n[Verso]\nMi memoria ha conservado lo que se ha llevado el viento\nY yo estoy estancado en esos tiempos\nCuando tú me amabas y con gran fulgor sentía tus besos\nDime, quítame esta duda\n¿Quién es esta extraña que se ha apoderado de tu ser?\n¿Dónde está la amante loca que me erizaba la piel?\nPorque ya tú no me tocas como lo hacía esa mujer\nAlgo no anda bien\nEscucha las palabras de Romeo\n\n[Coro]\nEsta noche me hago el interrogante\nY le pongo fin a la impostora, usurpadora\nExijo contigo una entrevista\nSospecho plagio a mi señora, mala imitadora\nDime, tengo unas preguntas\n¿Dónde fue bajo la lluvia que te di ese primer beso?\nDime también, relátame el momento\nNúmero de alojamiento donde yo te hice mujer\nConfírmame\n¿Q",
+      "channel_title": "World of Healing",
+      "channel_id": "UC4AerYtVqvf4sxUTqqAfL4A",
+      "published_at": "2026-09-01T13:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M5hJvO3CWTw/hqdefault.jpg",
+      "duration": "PT3M55S",
+      "duration_seconds": 235,
+      "view_count": 233742,
+      "like_count": 401,
+      "comment_count": 8,
+      "category_id": "22",
+      "tags": [
+        "imitadora",
+        "imitadora letra",
+        "letra imitadora",
+        "imitadora lyrics",
+        "lyrics imitadora",
+        "romeo santos",
+        "letra",
+        "lyrics",
+        "romeo santos imitadora",
+        "imitadora romeo santos"
+      ],
+      "url": "https://www.youtube.com/watch?v=M5hJvO3CWTw"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 16442532,
+        "average_views_per_video": 1644253.2
+      },
       "content_trends": {
-        "music_and_entertainment": {
-          "description": "Videos related to music and entertainment, such as 'Felix \"Slow It Down\"' by Stray Kids and 'The Brain Song' by Weird Al Yankovic, are showing strong engagement. This indicates a consistent audience interest in diverse formats of entertainment content.",
-          "actionable_insights": [
-            "Expand content offerings to include music and comedy collaborations, leveraging popular artists and influencers to boost engagement.",
-            "Explore partnerships with entertainment-focused creators to create exclusive or behind-the-scenes content."
-          ]
+        "music_and_performance": {
+          "videos": [
+            "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
+            "Romeo Santos - Imitadora (Letra/Lyrics)"
+          ],
+          "insights": "Music and performance-related content maintain strong engagement, evident from the inclusion of popular artists and bands. Leveraging well-known artists or unique music content can drive significant views."
         },
-        "gaming": {
-          "description": "Gaming content remains a strong trend with videos like 'SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS', 'nopixel V Trailer', and 'NEW R6 SEASON' highlighting both gameplay and gaming culture.",
-          "actionable_insights": [
-            "Develop interactive gaming content that allows audience participation, such as live streams or challenge videos.",
-            "Collaborate with gaming influencers to create content that features new or upcoming games, tapping into their fan base."
-          ]
+        "gaming_and_live_streaming": {
+          "videos": [
+            "🔴LIVE | THE COMEBACK. | ESCAPE FROM TARKOV | John X Cloakzy | #BUNGULATE",
+            "nopixel V Trailer",
+            "Five Nights at Freddy's and GoPro Update"
+          ],
+          "insights": "The presence of gaming content, especially live streams and updates to popular games, shows high engagement. Opportunities exist in producing timely content around game releases or updates."
         },
-        "movie_trailers_and_analysis": {
-          "description": "Trailer content, including 'Street Fighter | New Trailer (2026 Movie)' and 'NCIS Season 24 Official Trailer', as well as parody or review videos like 'Honest Trailers | Toy Story 5', indicate a strong interest in film and television previews and analysis.",
-          "actionable_insights": [
-            "Capitalize on upcoming movie releases by creating prediction or review content to engage audiences pre-release.",
-            "Develop a series of commentary or analysis videos on popular franchises to attract dedicated fan communities."
-          ]
+        "entertainment_and_movies": {
+          "videos": [
+            "Street Fighter | New Trailer (2026 Movie)",
+            "PORTAL TO HELL Official Trailer (2026)",
+            "NCIS Season 24 Official Trailer | NCIS | CBS"
+          ],
+          "insights": "Movie trailers and TV series promotions generate substantial interest. There's potential in collaborating with studios for exclusive previews or behind-the-scenes content."
+        },
+        "comedy_and_parody": {
+          "videos": [
+            "The Brain Song – “Weird Al” Yankovic"
+          ],
+          "insights": "Comedy and parody content, especially from established figures like 'Weird Al' Yankovic, remain popular. Creating humorous or parody content around trending topics can attract wide audiences."
         }
       },
       "creator_patterns": {
-        "emerging_creators": {
-          "description": "Channels like MoreSidemen and nopixel are gaining traction with unique and engaging content formats.",
-          "actionable_insights": [
-            "Identify and support emerging creators who are experimenting with new content formats or themes, offering them resources or collaboration opportunities.",
-            "Monitor audience engagement on content from lesser-known channels to identify potential growth areas."
-          ]
-        },
-        "established_creators": {
-          "description": "Established creators like Stray Kids and Paramount Pictures continue to dominate with high-quality content and loyal fan bases.",
-          "actionable_insights": [
-            "Leverage established creators for cross-promotional opportunities to reach wider audiences.",
-            "Create joint ventures with established channels to produce limited series or event-based content."
-          ]
-        }
+        "diverse_content_creators": 5,
+        "insights": "The top channels each represent different content niches, indicating a variety of interests among viewers. Opportunities exist for creators to diversify content to capture cross-niche audiences."
       },
       "market_opportunities": {
-        "cross-category_expansion": {
-          "description": "Cross-category content, such as combining gaming with music or comedy, presents opportunities for innovation and audience growth.",
-          "actionable_insights": [
-            "Invest in content that blends multiple categories to appeal to diverse audience segments.",
-            "Pilot new content series that mix genres, such as comedy skits within gaming videos or musical performances in movie analysis."
-          ]
+        "cross-promotional_content": {
+          "insight": "Given the diversity in popular content types, there is a significant opportunity for cross-promotional content, such as blending music with gaming or incorporating humor into movie trailers."
         },
-        "localized_content": {
-          "description": "Localized content could tap into a growing global audience as evidenced by the diverse range of creators and content topics.",
-          "actionable_insights": [
-            "Develop region-specific content strategies to cater to local tastes and cultural nuances.",
-            "Collaborate with local influencers to create content that resonates with their audience's unique interests."
-          ]
+        "language_and_localization": {
+          "insight": "Inclusion of non-English titles like 'Romeo Santos - Imitadora (Letra/Lyrics)' suggests an opportunity to tap into non-English speaking markets with localized content."
+        },
+        "live_interaction": {
+          "insight": "The popularity of live streams indicates a strong market for interactive content. Engaging audiences in real-time through Q&As or live events could enhance viewer retention and engagement."
         }
       },
       "metadata_stats": {
@@ -534,7 +540,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1258868
+        "avg_views_per_video": 1644253
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
