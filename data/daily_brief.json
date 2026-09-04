@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-04T04:01:03.450208",
+  "timestamp": "2026-09-04T11:00:54.780201",
   "date": "2026-09-04",
   "summary": {
     "total_videos_analyzed": 10,
-    "music_videos_filtered": 5,
+    "music_videos_filtered": 4,
     "high_potential_videos": 10,
     "videos_with_transcripts": 0,
     "videos_without_transcripts": 10,
@@ -13,58 +13,6 @@
   },
   "trending_videos": [
     {
-      "video_id": "SJVmeJaS44s",
-      "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
-      "description": "Welcome to a new year at Hogwarts. The HBO Original Series Harry Potter and the Philosopher’s Stone premieres this Christmas on HBO Max. #HarryPotterHBO \n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook\n\n#HarryPotterHBO\n\nhttps://www.yout",
-      "channel_title": "Harry Potter",
-      "channel_id": "UChPRO1CB_Hvd0TvKRU62iSQ",
-      "published_at": "2026-09-02T15:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 3289987,
-      "like_count": 102818,
-      "comment_count": 9178,
-      "category_id": "1",
-      "tags": [
-        "Harry Potter",
-        "Wizarding World",
-        "Warner Bros",
-        "Hogwarts",
-        "Marauders Map",
-        "Draco Malfoy",
-        "Ron Weasley",
-        "Hermione Granger",
-        "Harry Potter Lore",
-        "Potter"
-      ],
-      "url": "https://www.youtube.com/watch?v=SJVmeJaS44s"
-    },
-    {
-      "video_id": "dcTYz_mJpkU",
-      "title": "State of Play | September 3, 2026 [English]",
-      "description": "State of Play returns Thursday, September 3 with two broadcasts airing back-to-back.\n\nFirst, tune in for a new State of Play featuring updates and announcements from PlayStation Studios and our third-party partners, concluding with an extended look at the vast world of Final Fantasy VII Revelation from our friends at Square Enix.\n\nImmediately following, stay tuned for a new episode of State of Play Japan, once again hosted by Yuki Kaji. State of Play Japan will offer deep dives into upcoming games from game studios in Japan and Asia, including new gameplay, announcements, and more.\n\nWatch both broadcasts live on September 3 starting at 6:00am PT / 9:00am ET / 3:00pm CEST / 10:00pm JST on YouTube and Twitch. State of Play will air in English, with Japanese subtitles also available. State of Play Japan will air in Japanese, with English subtitles available.\n\nSee you there.\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-09-03T14:58:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
-      "duration": "PT1H45M22S",
-      "duration_seconds": 6322,
-      "view_count": 2805788,
-      "like_count": 40260,
-      "comment_count": 3084,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "ps5games"
-      ],
-      "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU"
-    },
-    {
       "video_id": "ZeMKYURp_A8",
       "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
       "description": "The Wilds evolve with the massive expansion, Monster Hunter Wilds: Ascendance, coming in 2027!\n\nA giant dragon's sudden siege heralds change in the Forbidden Lands, for both land and sky. Bracing for danger, the Expedition steels themselves as familiar and undiscovered Elder Dragons emerge - and a disturbing new threat prowls the land.\n \nOfficial website\nhttps://www.monsterhunter.com/wilds-ascendance/en-us/\n\nWishlist now on Steam\nhttps://bit.ly/MHWAsteam\n \n*Footage represents a game still in development. The main Monster Hunter Wilds game is required to play Monster Hunter Wilds: Ascendance.\n \nAbout Monster Hunter Wilds: Ascendance\n \nMonster Hunter Wilds: Ascendance takes the hunt to new heights in Master Rank. New monsters and challenges, evolved hunting actions and mechanics, a new locale, and the next chapter in the Expedition Team's story await in 2027 on PS5, XBOX Series X|S, and PC.\n\nJapanese https://youtu.be/YdccUnqbPcA\nFrench https://youtu.be/aTZG8I3Lve4\nItalian https://youtu.b",
@@ -74,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZeMKYURp_A8/hqdefault.jpg",
       "duration": "PT3M11S",
       "duration_seconds": 191,
-      "view_count": 1181007,
-      "like_count": 44600,
-      "comment_count": 3701,
+      "view_count": 1357019,
+      "like_count": 46325,
+      "comment_count": 3834,
       "category_id": "20",
       "tags": [
         "monster hunter",
@@ -93,32 +41,99 @@
       "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8"
     },
     {
-      "video_id": "91Ht98fhsI0",
-      "title": "I haven’t laughed this hard in months..",
-      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
-      "channel_title": "Asmongold TV  ",
-      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
-      "published_at": "2026-09-03T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/91Ht98fhsI0/hqdefault.jpg",
-      "duration": "PT36M",
-      "duration_seconds": 2160,
-      "view_count": 804655,
-      "like_count": 20079,
-      "comment_count": 3352,
+      "video_id": "dcTYz_mJpkU",
+      "title": "State of Play | September 3, 2026 [English]",
+      "description": "State of Play returns Thursday, September 3 with two broadcasts airing back-to-back.\n\nFirst, tune in for a new State of Play featuring updates and announcements from PlayStation Studios and our third-party partners, concluding with an extended look at the vast world of Final Fantasy VII Revelation from our friends at Square Enix.\n\nImmediately following, stay tuned for a new episode of State of Play Japan, once again hosted by Yuki Kaji. State of Play Japan will offer deep dives into upcoming games from game studios in Japan and Asia, including new gameplay, announcements, and more.\n\nWatch both broadcasts live on September 3 starting at 6:00am PT / 9:00am ET / 3:00pm CEST / 10:00pm JST on YouTube and Twitch. State of Play will air in English, with Japanese subtitles also available. State of Play Japan will air in Japanese, with English subtitles available.\n\nSee you there.\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-09-03T14:58:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
+      "duration": "PT1H45M22S",
+      "duration_seconds": 6322,
+      "view_count": 2900063,
+      "like_count": 40589,
+      "comment_count": 3251,
       "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold reacts",
-        "asmongold wow",
-        "asmongold highlights",
-        "asmongold youtube",
-        "world of warcraft",
-        "asmongold funny",
-        "asmongold tv",
-        "asmongold channel",
-        "zackrawrr"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony",
+        "ps5games"
       ],
-      "url": "https://www.youtube.com/watch?v=91Ht98fhsI0"
+      "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU"
+    },
+    {
+      "video_id": "aWpw-Ynl0Yc",
+      "title": "MILEY - Bass Persuades (Official Video)",
+      "description": "BASS PERSUADES. THE ALBUM 9/18. LIVE 10/16 & 18.\n\nPRESAVE: https://miley.lnk.to/basspersuades\nSIGN UP FOR PRESALE: https://mileyofficial.com/tour\n\nPRESALE BEGINS 9/8\n\nON SALE 9/10\n\nCredits:\n\ndirector: mert alas\nvideo creative director: mert alas\n\nalbum creative director: alastair mckimm / prototype.world\ncreative agency: prototype.world\n\nprod company: january x freenjoy \njan founder + producer: leonard cuinet petit\nfnj founder + producer: nathan scherrer\nfnj creative partner + ep: tara sheree\nproducer: eli raskin \nproducer: keri rothwell douglas\n\ndirector of photography: pablo berron\nsteadicam: ari robbins\n1st acs shaun mayor, kevin akers, evan wilhelm\n2nd acs: arthur zajac, lani wasserman\n\ngaffer: eddie reid\nbest electric: marek bojsza\nprogrammer: eric tk androvich\nkey grip: alessandro picasso\nrigging key: steve samuelson\nbest grips: william green, nathan schindler\ngrip driver: alex schmidt \n\nproduction designer: adam william wilson\nleadman: andy peterson\nart director: francisco varga",
+      "channel_title": "MILEY",
+      "channel_id": "UCn7dB9UMTBDjKtEKBy_XISw",
+      "published_at": "2026-09-03T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aWpw-Ynl0Yc/hqdefault.jpg",
+      "duration": "PT3M59S",
+      "duration_seconds": 239,
+      "view_count": 1299446,
+      "like_count": 118584,
+      "comment_count": 11647,
+      "category_id": "24",
+      "tags": [
+        "Miley",
+        "Cyrus",
+        "MiFans",
+        "MileyWorld"
+      ],
+      "url": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc"
+    },
+    {
+      "video_id": "SJVmeJaS44s",
+      "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
+      "description": "Welcome to a new year at Hogwarts. The HBO Original Series Harry Potter and the Philosopher’s Stone premieres this Christmas on HBO Max. #HarryPotterHBO \n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook\n\n#HarryPotterHBO\n\nhttps://www.yout",
+      "channel_title": "Harry Potter",
+      "channel_id": "UChPRO1CB_Hvd0TvKRU62iSQ",
+      "published_at": "2026-09-02T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 3522016,
+      "like_count": 106830,
+      "comment_count": 9631,
+      "category_id": "1",
+      "tags": [
+        "Harry Potter",
+        "Wizarding World",
+        "Warner Bros",
+        "Hogwarts",
+        "Marauders Map",
+        "Draco Malfoy",
+        "Ron Weasley",
+        "Hermione Granger",
+        "Harry Potter Lore",
+        "Potter"
+      ],
+      "url": "https://www.youtube.com/watch?v=SJVmeJaS44s"
+    },
+    {
+      "video_id": "pE8wVKI79zo",
+      "title": "🔴LIVE | WARDOGS BETA | Tim x Hutch X Nickmercs X Landmark X Courage X Drac X Rogue | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-04T06:43:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pE8wVKI79zo/hqdefault.jpg",
+      "duration": "PT10H59M4S",
+      "duration_seconds": 39544,
+      "view_count": 1367672,
+      "like_count": 10991,
+      "comment_count": 62,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=pE8wVKI79zo"
     },
     {
       "video_id": "CFgEL7ei8VE",
@@ -130,40 +145,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg",
       "duration": "PT1M52S",
       "duration_seconds": 112,
-      "view_count": 3006151,
-      "like_count": 108920,
-      "comment_count": 8461,
+      "view_count": 3319922,
+      "like_count": 112387,
+      "comment_count": 8676,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
     },
     {
-      "video_id": "Z22O7JjLZYY",
-      "title": "One of these Animals is not like the other...",
-      "description": "This might be the funniest video on my channel\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@imSovi \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativ",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-09-02T19:13:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z22O7JjLZYY/hqdefault.jpg",
-      "duration": "PT31M47S",
-      "duration_seconds": 1907,
-      "view_count": 2721747,
-      "like_count": 100266,
-      "comment_count": 2712,
+      "video_id": "IOhqcZOgBWI",
+      "title": "Somethings In The Corn Field…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-09-03T22:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IOhqcZOgBWI/hqdefault.jpg",
+      "duration": "PT2H4M19S",
+      "duration_seconds": 7459,
+      "view_count": 431935,
+      "like_count": 11558,
+      "comment_count": 898,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "moo who",
-        "games to play with friends",
-        "moo who gameplay",
-        "funny multiplayer game",
-        "social deduction game",
-        "moo who?"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=Z22O7JjLZYY"
+      "url": "https://www.youtube.com/watch?v=IOhqcZOgBWI"
     },
     {
       "video_id": "-PMXIPVMMd0",
@@ -175,9 +190,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-PMXIPVMMd0/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 271201,
-      "like_count": 10696,
-      "comment_count": 906,
+      "view_count": 358267,
+      "like_count": 11581,
+      "comment_count": 1022,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -194,145 +209,54 @@
       "url": "https://www.youtube.com/watch?v=-PMXIPVMMd0"
     },
     {
-      "video_id": "vU03tjHzTwI",
-      "title": "HOW TO FISH (FULL GAME)",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-09-02T22:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vU03tjHzTwI/hqdefault.jpg",
-      "duration": "PT4H20M",
-      "duration_seconds": 15600,
-      "view_count": 877290,
-      "like_count": 18461,
-      "comment_count": 1252,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=vU03tjHzTwI"
+      "video_id": "mnaT4AqVj8k",
+      "title": "I Ranked All 11 Grand Theft Auto Games",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nUse Cheeky https://www.usecheeky.com/moist\nSpotify: https://open.spotify.com/show/6x2gzOl0QxsphzyHPjSGhe\nThis is the greatest grand theft auto ranking of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-09-04T01:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mnaT4AqVj8k/hqdefault.jpg",
+      "duration": "PT27M4S",
+      "duration_seconds": 1624,
+      "view_count": 720121,
+      "like_count": 14533,
+      "comment_count": 1580,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=mnaT4AqVj8k"
     },
     {
-      "video_id": "GhvI403SgeI",
-      "title": "GUNDAM ROGUE ORBIT – Release Date Trailer",
-      "description": "GUNDAM ROGUE ORBIT launches on March 5th, 2027!\n \nBecome the pilot you were born to be. Change humanity’s fate in GUNDAM ROGUE ORBIT, a high-mobility action game that delivers a bold new take on Gundam, blending a fast-paced cinematic story with intense, hard-hitting combat in an all-new universe.\n\nhttps://www.bandainamcoent.com/games/gundam-rogue-orbit\n\n#gundam",
-      "channel_title": "GUNDAM CHANNEL INTL",
-      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
-      "published_at": "2026-09-03T14:07:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GhvI403SgeI/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "duration_seconds": 113,
-      "view_count": 239379,
-      "like_count": 8102,
-      "comment_count": 970,
+      "video_id": "bRkSGRjIWM0",
+      "title": "Harry Potter HBO Series FULL Trailer BREAKDOWN: Easter Eggs & Everything You Missed",
+      "description": "Patreon: https://www.patreon.com/MovieFlameProd/overview\nTwitter: https://twitter.com/MovieFlameProd\nPersonal Instagram: https://www.instagram.com/morgan_ross18/\nTikTok: https://www.tiktok.com/@movieflamemorgan?_d=secCgYIASAHKAESMgow3bfnYmyfuu04G7we6Z3Zh6NP%2FeQRvTYiR8Iwy7%2BXLueuQQmmtekqDnwVdlbAawLqGgA%3D&language=en&sec_uid=MS4wLjABAAAA77td8incFohI6R26sdrv3dCKiUgjiDorJrxJ_q65dCsWd6un7iXA9xfjrzWYWEUF&sec_user_id=MS4wLjABAAAA77td8incFohI6R26sdrv3dCKiUgjiDorJrxJ_q65dCsWd6un7iXA9xfjrzWYWEUF&share_author_id=6853245561010209797&share_link_id=7578B259-D4E7-4D41-BEAC-\nFacebook: https://www.facebook.com/MovieFlame/\n\nMusic by Tom J. Harding. Check his stuff out below!\nYouTube: https://www.youtube.com/@relaxing--sounds\nInsta: @tomjhardingmusic https://www.instagram.com/tomjhardingmusic/?igshid=YmMyMTA2M2Y%3D",
+      "channel_title": "MovieFlame",
+      "channel_id": "UCOajpsI8t3Eg-u-s2j_c-cQ",
+      "published_at": "2026-09-03T18:25:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bRkSGRjIWM0/hqdefault.jpg",
+      "duration": "PT47M13S",
+      "duration_seconds": 2833,
+      "view_count": 221439,
+      "like_count": 7097,
+      "comment_count": 1106,
       "category_id": "1",
       "tags": [
-        "ガンダム",
-        "Gundam",
-        "高達",
-        "鋼彈",
-        "敢达",
-        "건담",
-        "GUNDAMINFO",
-        "ガンプラ",
-        "Gunpla",
-        "模型"
+        "Harry Potter",
+        "Marvel",
+        "DC",
+        "Star Wars",
+        "Disney",
+        "Hunger Games",
+        "details you missed",
+        "hidden details",
+        "top 10",
+        "countdown"
       ],
-      "url": "https://www.youtube.com/watch?v=GhvI403SgeI"
-    },
-    {
-      "video_id": "Bc1hwOcs0JU",
-      "title": "I Played The New Halloween Game",
-      "description": "In this video, I got the chance to check out the new horror experience \"Halloween: The Game\" by Illfonic & Gun Interactive!\nPlay as the legendary Michael Myers or try your best to escape as a resident of Haddonfield.\n\nHalloween: The Game is available September 4th for Deluxe Pre Orders & September 8th for standard.\nFind out more here: https://store.steampowered.com/app/3219630/Halloween_The_Game/\n\n➡️2ND CHANNEL - @notslymer  \n➡️WATCH LIVE - https://www.twitch.tv/spookyloopz\n➡️JOIN MY COMMUNITY - https://discord.gg/4dktzCB8Pd\n➡️FOLLOW ME ON TWITTER - https://x.com/SpookyLoopz\n➡️MERCH - https://spookyloopz-shop.fourthwall.com/\n\n#halloween",
-      "channel_title": "SpookyLoopz",
-      "channel_id": "UCG2ZSuJUnKGFNno97fkvdPw",
-      "published_at": "2026-09-03T13:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bc1hwOcs0JU/hqdefault.jpg",
-      "duration": "PT26M31S",
-      "duration_seconds": 1591,
-      "view_count": 499580,
-      "like_count": 11936,
-      "comment_count": 1728,
-      "category_id": "20",
-      "tags": [
-        "halloween the game",
-        "halloween",
-        "new halloween game",
-        "i played the new halloween game",
-        "new halloween",
-        "michael myers",
-        "myers",
-        "michael myers game",
-        "dead by daylight",
-        "dbd"
-      ],
-      "url": "https://www.youtube.com/watch?v=Bc1hwOcs0JU"
+      "url": "https://www.youtube.com/watch?v=bRkSGRjIWM0"
     }
   ],
   "videos_with_transcripts": [],
   "videos_without_transcripts": [
     {
-      "video_id": "SJVmeJaS44s",
-      "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
-      "description": "Welcome to a new year at Hogwarts. The HBO Original Series Harry Potter and the Philosopher’s Stone premieres this Christmas on HBO Max. #HarryPotterHBO \n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook\n\n#HarryPotterHBO\n\nhttps://www.yout",
-      "channel_title": "Harry Potter",
-      "channel_id": "UChPRO1CB_Hvd0TvKRU62iSQ",
-      "published_at": "2026-09-02T15:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
-      "duration": "PT2M38S",
-      "duration_seconds": 158,
-      "view_count": 3289987,
-      "like_count": 102818,
-      "comment_count": 9178,
-      "category_id": "1",
-      "tags": [
-        "Harry Potter",
-        "Wizarding World",
-        "Warner Bros",
-        "Hogwarts",
-        "Marauders Map",
-        "Draco Malfoy",
-        "Ron Weasley",
-        "Hermione Granger",
-        "Harry Potter Lore",
-        "Potter"
-      ],
-      "url": "https://www.youtube.com/watch?v=SJVmeJaS44s"
-    },
-    {
-      "video_id": "dcTYz_mJpkU",
-      "title": "State of Play | September 3, 2026 [English]",
-      "description": "State of Play returns Thursday, September 3 with two broadcasts airing back-to-back.\n\nFirst, tune in for a new State of Play featuring updates and announcements from PlayStation Studios and our third-party partners, concluding with an extended look at the vast world of Final Fantasy VII Revelation from our friends at Square Enix.\n\nImmediately following, stay tuned for a new episode of State of Play Japan, once again hosted by Yuki Kaji. State of Play Japan will offer deep dives into upcoming games from game studios in Japan and Asia, including new gameplay, announcements, and more.\n\nWatch both broadcasts live on September 3 starting at 6:00am PT / 9:00am ET / 3:00pm CEST / 10:00pm JST on YouTube and Twitch. State of Play will air in English, with Japanese subtitles also available. State of Play Japan will air in Japanese, with English subtitles available.\n\nSee you there.\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e",
-      "channel_title": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "published_at": "2026-09-03T14:58:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
-      "duration": "PT1H45M22S",
-      "duration_seconds": 6322,
-      "view_count": 2805788,
-      "like_count": 40260,
-      "comment_count": 3084,
-      "category_id": "20",
-      "tags": [
-        "PlayStation",
-        "PS5",
-        "video games",
-        "next gen",
-        "Sony",
-        "ps5games"
-      ],
-      "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU"
-    },
-    {
       "video_id": "ZeMKYURp_A8",
       "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
       "description": "The Wilds evolve with the massive expansion, Monster Hunter Wilds: Ascendance, coming in 2027!\n\nA giant dragon's sudden siege heralds change in the Forbidden Lands, for both land and sky. Bracing for danger, the Expedition steels themselves as familiar and undiscovered Elder Dragons emerge - and a disturbing new threat prowls the land.\n \nOfficial website\nhttps://www.monsterhunter.com/wilds-ascendance/en-us/\n\nWishlist now on Steam\nhttps://bit.ly/MHWAsteam\n \n*Footage represents a game still in development. The main Monster Hunter Wilds game is required to play Monster Hunter Wilds: Ascendance.\n \nAbout Monster Hunter Wilds: Ascendance\n \nMonster Hunter Wilds: Ascendance takes the hunt to new heights in Master Rank. New monsters and challenges, evolved hunting actions and mechanics, a new locale, and the next chapter in the Expedition Team's story await in 2027 on PS5, XBOX Series X|S, and PC.\n\nJapanese https://youtu.be/YdccUnqbPcA\nFrench https://youtu.be/aTZG8I3Lve4\nItalian https://youtu.b",
@@ -342,9 +266,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZeMKYURp_A8/hqdefault.jpg",
       "duration": "PT3M11S",
       "duration_seconds": 191,
-      "view_count": 1181007,
-      "like_count": 44600,
-      "comment_count": 3701,
+      "view_count": 1357019,
+      "like_count": 46325,
+      "comment_count": 3834,
       "category_id": "20",
       "tags": [
         "monster hunter",
@@ -361,32 +285,99 @@
       "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8"
     },
     {
-      "video_id": "91Ht98fhsI0",
-      "title": "I haven’t laughed this hard in months..",
-      "description": "► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
-      "channel_title": "Asmongold TV  ",
-      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
-      "published_at": "2026-09-03T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/91Ht98fhsI0/hqdefault.jpg",
-      "duration": "PT36M",
-      "duration_seconds": 2160,
-      "view_count": 804655,
-      "like_count": 20079,
-      "comment_count": 3352,
+      "video_id": "dcTYz_mJpkU",
+      "title": "State of Play | September 3, 2026 [English]",
+      "description": "State of Play returns Thursday, September 3 with two broadcasts airing back-to-back.\n\nFirst, tune in for a new State of Play featuring updates and announcements from PlayStation Studios and our third-party partners, concluding with an extended look at the vast world of Final Fantasy VII Revelation from our friends at Square Enix.\n\nImmediately following, stay tuned for a new episode of State of Play Japan, once again hosted by Yuki Kaji. State of Play Japan will offer deep dives into upcoming games from game studios in Japan and Asia, including new gameplay, announcements, and more.\n\nWatch both broadcasts live on September 3 starting at 6:00am PT / 9:00am ET / 3:00pm CEST / 10:00pm JST on YouTube and Twitch. State of Play will air in English, with Japanese subtitles also available. State of Play Japan will air in Japanese, with English subtitles available.\n\nSee you there.\nRegarding co-streaming and video-on-demand (VOD)\n\nPlease note that this broadcast may include copyrighted content (e",
+      "channel_title": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "published_at": "2026-09-03T14:58:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
+      "duration": "PT1H45M22S",
+      "duration_seconds": 6322,
+      "view_count": 2900063,
+      "like_count": 40589,
+      "comment_count": 3251,
       "category_id": "20",
       "tags": [
-        "asmongold",
-        "asmongold reacts",
-        "asmongold wow",
-        "asmongold highlights",
-        "asmongold youtube",
-        "world of warcraft",
-        "asmongold funny",
-        "asmongold tv",
-        "asmongold channel",
-        "zackrawrr"
+        "PlayStation",
+        "PS5",
+        "video games",
+        "next gen",
+        "Sony",
+        "ps5games"
       ],
-      "url": "https://www.youtube.com/watch?v=91Ht98fhsI0"
+      "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU"
+    },
+    {
+      "video_id": "aWpw-Ynl0Yc",
+      "title": "MILEY - Bass Persuades (Official Video)",
+      "description": "BASS PERSUADES. THE ALBUM 9/18. LIVE 10/16 & 18.\n\nPRESAVE: https://miley.lnk.to/basspersuades\nSIGN UP FOR PRESALE: https://mileyofficial.com/tour\n\nPRESALE BEGINS 9/8\n\nON SALE 9/10\n\nCredits:\n\ndirector: mert alas\nvideo creative director: mert alas\n\nalbum creative director: alastair mckimm / prototype.world\ncreative agency: prototype.world\n\nprod company: january x freenjoy \njan founder + producer: leonard cuinet petit\nfnj founder + producer: nathan scherrer\nfnj creative partner + ep: tara sheree\nproducer: eli raskin \nproducer: keri rothwell douglas\n\ndirector of photography: pablo berron\nsteadicam: ari robbins\n1st acs shaun mayor, kevin akers, evan wilhelm\n2nd acs: arthur zajac, lani wasserman\n\ngaffer: eddie reid\nbest electric: marek bojsza\nprogrammer: eric tk androvich\nkey grip: alessandro picasso\nrigging key: steve samuelson\nbest grips: william green, nathan schindler\ngrip driver: alex schmidt \n\nproduction designer: adam william wilson\nleadman: andy peterson\nart director: francisco varga",
+      "channel_title": "MILEY",
+      "channel_id": "UCn7dB9UMTBDjKtEKBy_XISw",
+      "published_at": "2026-09-03T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aWpw-Ynl0Yc/hqdefault.jpg",
+      "duration": "PT3M59S",
+      "duration_seconds": 239,
+      "view_count": 1299446,
+      "like_count": 118584,
+      "comment_count": 11647,
+      "category_id": "24",
+      "tags": [
+        "Miley",
+        "Cyrus",
+        "MiFans",
+        "MileyWorld"
+      ],
+      "url": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc"
+    },
+    {
+      "video_id": "SJVmeJaS44s",
+      "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
+      "description": "Welcome to a new year at Hogwarts. The HBO Original Series Harry Potter and the Philosopher’s Stone premieres this Christmas on HBO Max. #HarryPotterHBO \n\nAbout HBO Max:\nHBO Max is the premier global streaming platform from Warner Bros. Discovery that delivers the most unique and captivating stories, ranging from the highest quality in scripted programming, movies, documentaries, true crime, adult animation, and live sports and news (where available). HBO Max is the destination for prestigious entertainment brands such as HBO, Warner Bros., Max Originals, DC, Harry Potter, as well as iconic shows like “Friends” and “The Big Bang Theory,” all in one place.\n\nGET HBO MAX\nhttps://hbomax.com/\n\nFOLLOW HBO MAX\nFollow HBO Max on YouTube: https://hbom.ax/YouTube\nFollow HBO Max on Instagram: https://hbom.ax/Instagram\nFollow HBO Max on TikTok: https://hbom.ax/Tiktok\nFollow HBO Max on Twitter: https://hbom.ax/x\nFollow HBO Max on Facebook: https://hbom.ax/Facebook\n\n#HarryPotterHBO\n\nhttps://www.yout",
+      "channel_title": "Harry Potter",
+      "channel_id": "UChPRO1CB_Hvd0TvKRU62iSQ",
+      "published_at": "2026-09-02T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "duration_seconds": 158,
+      "view_count": 3522016,
+      "like_count": 106830,
+      "comment_count": 9631,
+      "category_id": "1",
+      "tags": [
+        "Harry Potter",
+        "Wizarding World",
+        "Warner Bros",
+        "Hogwarts",
+        "Marauders Map",
+        "Draco Malfoy",
+        "Ron Weasley",
+        "Hermione Granger",
+        "Harry Potter Lore",
+        "Potter"
+      ],
+      "url": "https://www.youtube.com/watch?v=SJVmeJaS44s"
+    },
+    {
+      "video_id": "pE8wVKI79zo",
+      "title": "🔴LIVE | WARDOGS BETA | Tim x Hutch X Nickmercs X Landmark X Courage X Drac X Rogue | #BUNGULATE",
+      "description": "",
+      "channel_title": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "published_at": "2026-09-04T06:43:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pE8wVKI79zo/hqdefault.jpg",
+      "duration": "PT10H59M4S",
+      "duration_seconds": 39544,
+      "view_count": 1367672,
+      "like_count": 10991,
+      "comment_count": 62,
+      "category_id": "20",
+      "tags": [
+        "funny",
+        "escape from tarkov",
+        "tarkov"
+      ],
+      "url": "https://www.youtube.com/watch?v=pE8wVKI79zo"
     },
     {
       "video_id": "CFgEL7ei8VE",
@@ -398,40 +389,40 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg",
       "duration": "PT1M52S",
       "duration_seconds": 112,
-      "view_count": 3006151,
-      "like_count": 108920,
-      "comment_count": 8461,
+      "view_count": 3319922,
+      "like_count": 112387,
+      "comment_count": 8676,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
     },
     {
-      "video_id": "Z22O7JjLZYY",
-      "title": "One of these Animals is not like the other...",
-      "description": "This might be the funniest video on my channel\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@imSovi \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativ",
-      "channel_title": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "published_at": "2026-09-02T19:13:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z22O7JjLZYY/hqdefault.jpg",
-      "duration": "PT31M47S",
-      "duration_seconds": 1907,
-      "view_count": 2721747,
-      "like_count": 100266,
-      "comment_count": 2712,
+      "video_id": "IOhqcZOgBWI",
+      "title": "Somethings In The Corn Field…",
+      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-09-03T22:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IOhqcZOgBWI/hqdefault.jpg",
+      "duration": "PT2H4M19S",
+      "duration_seconds": 7459,
+      "view_count": 431935,
+      "like_count": 11558,
+      "comment_count": 898,
       "category_id": "20",
       "tags": [
-        "smii7y",
-        "smii7yplus",
-        "smii7y+",
-        "smii7y plus",
-        "moo who",
-        "games to play with friends",
-        "moo who gameplay",
-        "funny multiplayer game",
-        "social deduction game",
-        "moo who?"
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
       ],
-      "url": "https://www.youtube.com/watch?v=Z22O7JjLZYY"
+      "url": "https://www.youtube.com/watch?v=IOhqcZOgBWI"
     },
     {
       "video_id": "-PMXIPVMMd0",
@@ -443,9 +434,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-PMXIPVMMd0/hqdefault.jpg",
       "duration": "PT1M33S",
       "duration_seconds": 93,
-      "view_count": 271201,
-      "like_count": 10696,
-      "comment_count": 906,
+      "view_count": 358267,
+      "like_count": 11581,
+      "comment_count": 1022,
       "category_id": "20",
       "tags": [
         "Bandai Namco",
@@ -462,152 +453,159 @@
       "url": "https://www.youtube.com/watch?v=-PMXIPVMMd0"
     },
     {
-      "video_id": "vU03tjHzTwI",
-      "title": "HOW TO FISH (FULL GAME)",
-      "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nKitty Thumbsticks - https://kontrolfreek.pro/CaseOh\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
-      "channel_title": "CaseOh",
-      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
-      "published_at": "2026-09-02T22:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vU03tjHzTwI/hqdefault.jpg",
-      "duration": "PT4H20M",
-      "duration_seconds": 15600,
-      "view_count": 877290,
-      "like_count": 18461,
-      "comment_count": 1252,
-      "category_id": "20",
-      "tags": [
-        "gaming",
-        "caseoh",
-        "caseohgames",
-        "case",
-        "funny",
-        "streamer",
-        "horror",
-        "horror gaming",
-        "scary",
-        "jumpscare"
-      ],
-      "url": "https://www.youtube.com/watch?v=vU03tjHzTwI"
+      "video_id": "mnaT4AqVj8k",
+      "title": "I Ranked All 11 Grand Theft Auto Games",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nUse Cheeky https://www.usecheeky.com/moist\nSpotify: https://open.spotify.com/show/6x2gzOl0QxsphzyHPjSGhe\nThis is the greatest grand theft auto ranking of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-09-04T01:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mnaT4AqVj8k/hqdefault.jpg",
+      "duration": "PT27M4S",
+      "duration_seconds": 1624,
+      "view_count": 720121,
+      "like_count": 14533,
+      "comment_count": 1580,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=mnaT4AqVj8k"
     },
     {
-      "video_id": "GhvI403SgeI",
-      "title": "GUNDAM ROGUE ORBIT – Release Date Trailer",
-      "description": "GUNDAM ROGUE ORBIT launches on March 5th, 2027!\n \nBecome the pilot you were born to be. Change humanity’s fate in GUNDAM ROGUE ORBIT, a high-mobility action game that delivers a bold new take on Gundam, blending a fast-paced cinematic story with intense, hard-hitting combat in an all-new universe.\n\nhttps://www.bandainamcoent.com/games/gundam-rogue-orbit\n\n#gundam",
-      "channel_title": "GUNDAM CHANNEL INTL",
-      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
-      "published_at": "2026-09-03T14:07:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GhvI403SgeI/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "duration_seconds": 113,
-      "view_count": 239379,
-      "like_count": 8102,
-      "comment_count": 970,
+      "video_id": "bRkSGRjIWM0",
+      "title": "Harry Potter HBO Series FULL Trailer BREAKDOWN: Easter Eggs & Everything You Missed",
+      "description": "Patreon: https://www.patreon.com/MovieFlameProd/overview\nTwitter: https://twitter.com/MovieFlameProd\nPersonal Instagram: https://www.instagram.com/morgan_ross18/\nTikTok: https://www.tiktok.com/@movieflamemorgan?_d=secCgYIASAHKAESMgow3bfnYmyfuu04G7we6Z3Zh6NP%2FeQRvTYiR8Iwy7%2BXLueuQQmmtekqDnwVdlbAawLqGgA%3D&language=en&sec_uid=MS4wLjABAAAA77td8incFohI6R26sdrv3dCKiUgjiDorJrxJ_q65dCsWd6un7iXA9xfjrzWYWEUF&sec_user_id=MS4wLjABAAAA77td8incFohI6R26sdrv3dCKiUgjiDorJrxJ_q65dCsWd6un7iXA9xfjrzWYWEUF&share_author_id=6853245561010209797&share_link_id=7578B259-D4E7-4D41-BEAC-\nFacebook: https://www.facebook.com/MovieFlame/\n\nMusic by Tom J. Harding. Check his stuff out below!\nYouTube: https://www.youtube.com/@relaxing--sounds\nInsta: @tomjhardingmusic https://www.instagram.com/tomjhardingmusic/?igshid=YmMyMTA2M2Y%3D",
+      "channel_title": "MovieFlame",
+      "channel_id": "UCOajpsI8t3Eg-u-s2j_c-cQ",
+      "published_at": "2026-09-03T18:25:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bRkSGRjIWM0/hqdefault.jpg",
+      "duration": "PT47M13S",
+      "duration_seconds": 2833,
+      "view_count": 221439,
+      "like_count": 7097,
+      "comment_count": 1106,
       "category_id": "1",
       "tags": [
-        "ガンダム",
-        "Gundam",
-        "高達",
-        "鋼彈",
-        "敢达",
-        "건담",
-        "GUNDAMINFO",
-        "ガンプラ",
-        "Gunpla",
-        "模型"
+        "Harry Potter",
+        "Marvel",
+        "DC",
+        "Star Wars",
+        "Disney",
+        "Hunger Games",
+        "details you missed",
+        "hidden details",
+        "top 10",
+        "countdown"
       ],
-      "url": "https://www.youtube.com/watch?v=GhvI403SgeI"
-    },
-    {
-      "video_id": "Bc1hwOcs0JU",
-      "title": "I Played The New Halloween Game",
-      "description": "In this video, I got the chance to check out the new horror experience \"Halloween: The Game\" by Illfonic & Gun Interactive!\nPlay as the legendary Michael Myers or try your best to escape as a resident of Haddonfield.\n\nHalloween: The Game is available September 4th for Deluxe Pre Orders & September 8th for standard.\nFind out more here: https://store.steampowered.com/app/3219630/Halloween_The_Game/\n\n➡️2ND CHANNEL - @notslymer  \n➡️WATCH LIVE - https://www.twitch.tv/spookyloopz\n➡️JOIN MY COMMUNITY - https://discord.gg/4dktzCB8Pd\n➡️FOLLOW ME ON TWITTER - https://x.com/SpookyLoopz\n➡️MERCH - https://spookyloopz-shop.fourthwall.com/\n\n#halloween",
-      "channel_title": "SpookyLoopz",
-      "channel_id": "UCG2ZSuJUnKGFNno97fkvdPw",
-      "published_at": "2026-09-03T13:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bc1hwOcs0JU/hqdefault.jpg",
-      "duration": "PT26M31S",
-      "duration_seconds": 1591,
-      "view_count": 499580,
-      "like_count": 11936,
-      "comment_count": 1728,
-      "category_id": "20",
-      "tags": [
-        "halloween the game",
-        "halloween",
-        "new halloween game",
-        "i played the new halloween game",
-        "new halloween",
-        "michael myers",
-        "myers",
-        "michael myers game",
-        "dead by daylight",
-        "dbd"
-      ],
-      "url": "https://www.youtube.com/watch?v=Bc1hwOcs0JU"
+      "url": "https://www.youtube.com/watch?v=bRkSGRjIWM0"
     }
   ],
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "overview": {
-          "total_videos": 10,
-          "total_views": 15696785,
-          "average_views_per_video": 1569678.5
-        },
-        "category_analysis": {
-          "observations": [
-            "A significant portion of content is related to gaming and movie trailers.",
-            "Pop-culture franchises like Harry Potter and Dragon Ball are prominently featured.",
-            "Content with humor or unique perspectives, such as 'I haven’t laughed this hard in months..' and 'One of these Animals is not like the other...', is also trending."
-          ]
-        },
-        "trending_types": {
-          "movie_trailers": 2,
-          "gaming_trailers": 4,
-          "humor": 2,
-          "unique/quirky": 2
-        }
+      "overview": {
+        "totalVideos": 10,
+        "totalViews": 15497900,
+        "averageViewsPerVideo": 1549790
       },
-      "creator_patterns": {
-        "top_channels": [
-          "Harry Potter",
-          "PlayStation",
-          "Monster Hunter",
-          "Asmongold TV",
-          "東映アニメーション公式YouTubeチャンネル"
+      "trendingPatterns": {
+        "categories": [
+          "Gaming",
+          "Entertainment",
+          "Music",
+          "Anime"
         ],
-        "dominant_themes": {
-          "franchise_power": [
-            "Harry Potter",
-            "Dragon Ball"
-          ],
-          "gaming_influence": [
-            "PlayStation",
-            "Monster Hunter"
-          ]
-        },
-        "content_diversity": {
-          "findings": [
-            "Channels associated with well-known franchises and gaming brands are more likely to trend.",
-            "Anime and game-related content from official channels like '東映アニメーション公式YouTubeチャンネル' are gaining traction."
-          ]
+        "dominantThemes": [
+          "Gaming Trailers",
+          "Movie/Series Trailers",
+          "Live Streams",
+          "Music Videos",
+          "Content Analysis"
+        ],
+        "viewershipInsights": {
+          "gaming": {
+            "trailerViewership": 3,
+            "liveStreams": 1,
+            "totalViews": "likely substantial but data not provided"
+          },
+          "entertainment": {
+            "trailerCount": 3,
+            "teaserCount": 1,
+            "analysis": 1
+          },
+          "music": {
+            "videoCount": 1
+          }
         }
       },
-      "market_opportunities": {
-        "potential_gaps": {
-          "cross-genre_content": "Create content that merges gaming with other entertainment genres to capture wider audiences.",
-          "collaborations": "Consider partnerships with influential channels like PlayStation and Harry Potter for cross-promotion."
+      "creatorPatterns": {
+        "topChannels": {
+          "Monster Hunter": {
+            "videoCount": 1,
+            "contentType": "Gaming Trailer"
+          },
+          "PlayStation": {
+            "videoCount": 1,
+            "contentType": "Event Announcement"
+          },
+          "MILEY": {
+            "videoCount": 1,
+            "contentType": "Official Music Video"
+          },
+          "Harry Potter": {
+            "videoCount": 1,
+            "contentType": "Teaser Trailer"
+          },
+          "TheBurntPeanut": {
+            "videoCount": 1,
+            "contentType": "Content Analysis"
+          }
         },
-        "emerging_trends": {
-          "anime_and_gaming": "Increasing interest in anime-related gaming content, evidenced by the Dragon Ball and Gundam trailers.",
-          "nostalgia_factor": "Content that taps into established franchises can leverage nostalgia for views and engagement."
+        "collaborationInsights": {
+          "liveStreams": {
+            "collaborators": [
+              "Tim",
+              "Hutch",
+              "Nickmercs",
+              "Landmark",
+              "Courage",
+              "Drac",
+              "Rogue"
+            ],
+            "potentialReach": "High due to multiple influencer involvement"
+          }
+        }
+      },
+      "marketOpportunities": {
+        "gaming": {
+          "emergingTrends": [
+            "New Game Announcements",
+            "Franchise Expansions",
+            "Live Streaming Collaborations"
+          ],
+          "opportunities": [
+            "Strengthen content around major releases",
+            "Utilize live streaming for engagement",
+            "Focus on collaborative content"
+          ]
         },
-        "recommendations": [
-          "Capitalize on popular franchises by creating related content or analysis videos.",
-          "Focus on humorous or unique content that can stand out in a saturated market.",
-          "Develop interactive content or series that can engage viewers over multiple episodes."
-        ]
+        "entertainment": {
+          "emergingTrends": [
+            "Franchise Revivals",
+            "Nostalgia Marketing"
+          ],
+          "opportunities": [
+            "Leverage nostalgia for engagement",
+            "Create detailed analysis content for deep engagement"
+          ]
+        },
+        "music": {
+          "emergingTrends": [
+            "Celebrity Engagement"
+          ],
+          "opportunities": [
+            "Capitalize on music video releases",
+            "Engage with fan communities for viral growth"
+          ]
+        }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
@@ -615,7 +613,7 @@
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1569678
+        "avg_views_per_video": 1549790
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
