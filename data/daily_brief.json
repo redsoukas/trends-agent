@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-12T22:55:46.321804",
-  "date": "2026-09-12",
+  "timestamp": "2026-09-13T04:20:02.113580",
+  "date": "2026-09-13",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uQuKE0KDgiM/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 152792,
-      "like_count": 13942,
-      "comment_count": 2535,
+      "view_count": 908498,
+      "like_count": 18377,
+      "comment_count": 3437,
       "category_id": "20",
       "tags": [
         "World of Warcraft",
@@ -50,32 +50,35 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
       "duration": "PT30M35S",
       "duration_seconds": 1835,
-      "view_count": 5180789,
-      "like_count": 152317,
-      "comment_count": 6454,
+      "view_count": 10113800,
+      "like_count": 204585,
+      "comment_count": 7636,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
     },
     {
-      "video_id": "h5dwH7nx9do",
-      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-09-12T17:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
-      "duration": "PT5M30S",
-      "duration_seconds": 330,
-      "view_count": 320155,
-      "like_count": 37636,
-      "comment_count": 2755,
+      "video_id": "GxCN_AKYtts",
+      "title": "Diablo V Teaser",
+      "description": "Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
+      "channel_title": "Diablo",
+      "channel_id": "UCxn8csYeZg6awRnZS-aqg0g",
+      "published_at": "2026-09-12T18:20:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
+      "duration": "PT48S",
+      "duration_seconds": 48,
+      "view_count": 461330,
+      "like_count": 12337,
+      "comment_count": 2384,
       "category_id": "20",
       "tags": [
-        "Overwatch 2",
-        "Overwatch"
+        "Diablo",
+        "Diablo III",
+        "D3",
+        "Blizzard",
+        "Blizzard Entertainment"
       ],
-      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
+      "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
     },
     {
       "video_id": "9eQUtOQXYgQ",
@@ -87,9 +90,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9eQUtOQXYgQ/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 227560,
-      "like_count": 35597,
-      "comment_count": 4400,
+      "view_count": 1101900,
+      "like_count": 51483,
+      "comment_count": 6309,
       "category_id": "20",
       "tags": [
         "StarCraft",
@@ -103,27 +106,24 @@
       "url": "https://www.youtube.com/watch?v=9eQUtOQXYgQ"
     },
     {
-      "video_id": "GxCN_AKYtts",
-      "title": "Diablo V Teaser",
-      "description": "Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
-      "channel_title": "Diablo",
-      "channel_id": "UCxn8csYeZg6awRnZS-aqg0g",
-      "published_at": "2026-09-12T18:20:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
-      "duration": "PT48S",
-      "duration_seconds": 48,
-      "view_count": 81385,
-      "like_count": 9153,
-      "comment_count": 1783,
+      "video_id": "h5dwH7nx9do",
+      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
+      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+      "channel_title": "PlayOverwatch",
+      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
+      "published_at": "2026-09-12T17:58:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
+      "duration": "PT5M30S",
+      "duration_seconds": 330,
+      "view_count": 1102094,
+      "like_count": 47134,
+      "comment_count": 3369,
       "category_id": "20",
       "tags": [
-        "Diablo",
-        "Diablo III",
-        "D3",
-        "Blizzard",
-        "Blizzard Entertainment"
+        "Overwatch 2",
+        "Overwatch"
       ],
-      "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
+      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
     },
     {
       "video_id": "c2-9YLaWXmE",
@@ -135,9 +135,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c2-9YLaWXmE/hqdefault.jpg",
       "duration": "PT30M58S",
       "duration_seconds": 1858,
-      "view_count": 220604,
-      "like_count": 23165,
-      "comment_count": 1504,
+      "view_count": 835012,
+      "like_count": 38281,
+      "comment_count": 1812,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -154,81 +154,105 @@
       "url": "https://www.youtube.com/watch?v=c2-9YLaWXmE"
     },
     {
-      "video_id": "4kMhUVz4q5I",
-      "title": "Xal'atath Reveal Trailer | Heroes of the Storm",
-      "description": "THE VOID HITS THE NEXUS ON SEPTEMBER 28! ​\n​\nHarness the powers of the Void and devastate your enemies with a new Ranged Assassin: Xal'atath. \n\nXal'atath Pre-purchase to get limited-time Heartseeker Xal’atath Skin​\n​ \n--\n\n► Latest HOTS news: https://news.blizzard.com/en-us/feed/heroes-of-the-storm \n► Play Now: https://blizz.ly/4xjr00e\n► Visit HOTS on Battle.net: https://heroesofthestorm.blizzard.com/en-us/\n\n-- \n\n► Follow HOTS on Twitter: https://x.com/BlizzHeroes  \n\nTags: Heroes of the Storm, HOTS, Xal'Atath, warcraft, blizzard, blizzard entertainment",
-      "channel_title": "Heroes of the Storm",
-      "channel_id": "UCpVdq9gLew6E76BmfB2GJ0w",
-      "published_at": "2026-09-12T17:39:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4kMhUVz4q5I/hqdefault.jpg",
-      "duration": "PT1M6S",
-      "duration_seconds": 66,
-      "view_count": 50920,
-      "like_count": 5239,
-      "comment_count": 729,
+      "video_id": "67Mln_OqFGM",
+      "title": "I Didn't See This Coming..",
+      "description": "Asmongold Reacts to Blizzcon 2026 game trailers and announcements \n\n0:00 StarCraft New Game\n4:10 Overwatch\n11:33 Diablo 5\n27:39 Hearthstone\n37:38 WoW Retail\n49:16 Warcraft\n54:20 WoW Classic Plus\n\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-09-12T19:24:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/67Mln_OqFGM/hqdefault.jpg",
+      "duration": "PT1H9M38S",
+      "duration_seconds": 4178,
+      "view_count": 1307507,
+      "like_count": 46562,
+      "comment_count": 5897,
       "category_id": "20",
       "tags": [
-        "BlizzHeroes",
-        "Heroes of the Storm",
-        "Blizzard Heroes"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=4kMhUVz4q5I"
+      "url": "https://www.youtube.com/watch?v=67Mln_OqFGM"
     },
     {
-      "video_id": "ducfD9D4-HA",
-      "title": "I Found FOOTPRINTS of FAMOUS Minecraft MONSTERS…",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\nThis video was inspired by @JPPlays!\nWe all know scary myths aren’t actually real haha. Our goal is to create exciting and super entertaining stories to make your day better :)  Have a blessed day! \n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://www.firemerch.com/\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://prestonplayz.gg/TikTokIRL\n☛ Instagram -  https://www.instagram.com/prestonplayz\n☛ Twitter -  https://prestonplayz.gg/XTwitterIRL\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://prestonplayz.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-09-12T14:15:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ducfD9D4-HA/hqdefault.jpg",
-      "duration": "PT23M50S",
-      "duration_seconds": 1430,
-      "view_count": 328235,
-      "like_count": 5965,
-      "comment_count": 222,
+      "video_id": "vKSvcrLTdIo",
+      "title": "2002 WAYS TO DIE | House 2",
+      "description": "The original House game was notorious for having so many ways to die but the sequel House 2 cranks that up to an absurd level! We're barely scratching the surface of this game with the first ending I could find!\nCheck out my Clothes ►► https://cloakbrand.com/\n\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ►  @LixianTV \n\nPlay the Game ► https://store.steampowered.com/app/2586440/House_2/\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-09-12T19:57:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vKSvcrLTdIo/hqdefault.jpg",
+      "duration": "PT1H4M48S",
+      "duration_seconds": 3888,
+      "view_count": 646185,
+      "like_count": 33933,
+      "comment_count": 1890,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
+        "markiplier",
+        "house",
+        "house game",
+        "house scary game",
+        "house horror game",
+        "house markiplier",
+        "house part 1",
+        "scary games",
+        "markiplier scary games",
+        "markiplier horror games"
       ],
-      "url": "https://www.youtube.com/watch?v=ducfD9D4-HA"
+      "url": "https://www.youtube.com/watch?v=vKSvcrLTdIo"
     },
     {
-      "video_id": "nhdh962_ee0",
-      "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
-      "description": "Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization’s last strongholds collapse.\n\nWatch More Avatar ➡️ https://bit.ly/4vDnUE3\n\nWelcome to the Avatar Legends channel – the ultimate home for all things Avatar! Here you will find the best battles, deep dives, and the most memorable moments from all of your favorite characters from Aang to Zuko. On top of that, there will be plenty of Legend of Korra, official Avatar Comics, and even more exciting original content! You don’t need a sky bison to swing on by to the Avatar: The Last Air",
-      "channel_title": "Avatar Legends",
-      "channel_id": "UCN_u5w69V9wUZYG8WeJWuNg",
-      "published_at": "2026-09-10T15:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "duration_seconds": 145,
-      "view_count": 3812426,
-      "like_count": 95863,
-      "comment_count": 8798,
-      "category_id": "1",
+      "video_id": "Z2UL71BGHFY",
+      "title": "VISIONQUEST TRAILER: Iron Man, Ultron & Avengers Doomsday",
+      "description": "VisionQuest Trailer 2026. More New Iron Man, What Happened To Ultron, James Spader Returns, Vision Meets Adult Tommy Speed, Scarlet Witch, Visionquest Episode 1 & Avengers Doomsday Connection ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 4 https://www.youtube.com/watch?v=mdG-j57RvaY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Opening Scene https://www.youtube.com/watch?v=Yi113sBCLDs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=9&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nSpider-Man Noir Ending Explained https://www.youtube.com/watch?v=XDXx8adYDSI&list=PLOIeYdZ3QczwRWhE_S97dlLSCo8F-x_o0&index=27&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nSp",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-09-12T22:42:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z2UL71BGHFY/hqdefault.jpg",
+      "duration": "PT17M59S",
+      "duration_seconds": 1079,
+      "view_count": 74086,
+      "like_count": 1967,
+      "comment_count": 280,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Z2UL71BGHFY"
+    },
+    {
+      "video_id": "Ai3L_iwn5oE",
+      "title": "I Entered a Tournament with a New Mega Pokemon",
+      "description": "Mega Golisopod LOOKS like it's going to be a massive threat - but the only way to know for sure is to try it for myself. That's why I entered a tournament with this brand new Mega Evolution.\n\nCheck out all my Pokemon Champions videos here: https://www.youtube.com/playlist?list=PLb_5fF_O3Fvg6rkUCmwXYHdS9BzgBdKGz\n\n#Pokemon #PokemonChampions #WolfeyVGC\nThe Difference Notebook: https://vgcnotebook.com/\nStore►: https://wolfeystore.com/\nPatreon►: https://www.patreon.com/WolfeyVGC\nTiktok►: https://www.tiktok.com/@wolfeyvgc\nTwitter►: https://twitter.com/WolfeyGlick\nInstagram►: https://www.instagram.com/wolfeyglick/\n\nEdited by: http://rewindreplay.com/\nEdited by: https://x.com/ContentDrew\n\nThumbnail Artist: https://x.com/spyggt",
+      "channel_title": "WolfeyVGC",
+      "channel_id": "UC9OZkS1Mhl5UvKSiPrYqsxg",
+      "published_at": "2026-09-12T15:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ai3L_iwn5oE/hqdefault.jpg",
+      "duration": "PT2H19M24S",
+      "duration_seconds": 8364,
+      "view_count": 701492,
+      "like_count": 20258,
+      "comment_count": 1046,
+      "category_id": "20",
       "tags": [
-        "Avatar",
-        "Avatar: The Last Airbender",
-        "ATLA",
-        "Legend of Korra",
-        "Aang",
-        "Katara",
-        "Toph",
-        "Sokka",
-        "Zuko",
-        "Suki"
+        "Wolfey",
+        "Pokemon",
+        "VGC",
+        "Wolfe Glick",
+        "Competitive Pokemon",
+        "Pokemon VGC",
+        "pokemon nuzlocke",
+        "nuzlocke",
+        "pokemon challenge",
+        "alpharad"
       ],
-      "url": "https://www.youtube.com/watch?v=nhdh962_ee0"
+      "url": "https://www.youtube.com/watch?v=Ai3L_iwn5oE"
     }
   ],
   "videos_with_transcripts": [],
@@ -243,9 +267,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uQuKE0KDgiM/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 152792,
-      "like_count": 13942,
-      "comment_count": 2535,
+      "view_count": 908498,
+      "like_count": 18377,
+      "comment_count": 3437,
       "category_id": "20",
       "tags": [
         "World of Warcraft",
@@ -271,32 +295,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
       "duration": "PT30M35S",
       "duration_seconds": 1835,
-      "view_count": 5180789,
-      "like_count": 152317,
-      "comment_count": 6454,
+      "view_count": 10113800,
+      "like_count": 204585,
+      "comment_count": 7636,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
-    },
-    {
-      "video_id": "h5dwH7nx9do",
-      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-09-12T17:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
-      "duration": "PT5M30S",
-      "duration_seconds": 330,
-      "view_count": 320155,
-      "like_count": 37636,
-      "comment_count": 2755,
-      "category_id": "20",
-      "tags": [
-        "Overwatch 2",
-        "Overwatch"
-      ],
-      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
     },
     {
       "video_id": "9eQUtOQXYgQ",
@@ -308,9 +312,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9eQUtOQXYgQ/hqdefault.jpg",
       "duration": "PT3M7S",
       "duration_seconds": 187,
-      "view_count": 227560,
-      "like_count": 35597,
-      "comment_count": 4400,
+      "view_count": 1101900,
+      "like_count": 51483,
+      "comment_count": 6309,
       "category_id": "20",
       "tags": [
         "StarCraft",
@@ -324,6 +328,26 @@
       "url": "https://www.youtube.com/watch?v=9eQUtOQXYgQ"
     },
     {
+      "video_id": "h5dwH7nx9do",
+      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
+      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+      "channel_title": "PlayOverwatch",
+      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
+      "published_at": "2026-09-12T17:58:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
+      "duration": "PT5M30S",
+      "duration_seconds": 330,
+      "view_count": 1102094,
+      "like_count": 47134,
+      "comment_count": 3369,
+      "category_id": "20",
+      "tags": [
+        "Overwatch 2",
+        "Overwatch"
+      ],
+      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
+    },
+    {
       "video_id": "c2-9YLaWXmE",
       "title": "This is NOT The Fall Guys I Remember...",
       "description": "Weird Fall Guys update but okay...\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\nStream Highlight Channel:  https://www.youtube.com/c/SMii7Yplus\nStream VODs:  https://www.youtube.com/c/SMii7Yminus\n\nFollow my social medias and stream!\n🔴 Stream  -  http://www.twitch.tv/smii7y\n👕 Merch - https://smii7y.store/\n🐦 Twitter  -  https://twitter.com/SMii7Y\n📷 Instagram  -  https://www.instagram.com/smii7y/\n🎬 Clips Page - https://www.instagram.com/smii7y.clips/\n\nFriends in the video:\n@soup \n@BlargMyShnoople \n@Yumi \n@daukey \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutterstock.com/\nhttp://www.premiumbeat.com/\nhttp://audiojungle.net/\nhttps://www.soundsnap.com/\nhttps://www.pond5.com/\nhttps://motionarray.com/\nincompetech.com \nLicensed under Creative Commons: By Attribution 3.0\nhttp://cre",
@@ -333,9 +357,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c2-9YLaWXmE/hqdefault.jpg",
       "duration": "PT30M58S",
       "duration_seconds": 1858,
-      "view_count": 220604,
-      "like_count": 23165,
-      "comment_count": 1504,
+      "view_count": 835012,
+      "like_count": 38281,
+      "comment_count": 1812,
       "category_id": "20",
       "tags": [
         "smii7y",
@@ -352,81 +376,105 @@
       "url": "https://www.youtube.com/watch?v=c2-9YLaWXmE"
     },
     {
-      "video_id": "4kMhUVz4q5I",
-      "title": "Xal'atath Reveal Trailer | Heroes of the Storm",
-      "description": "THE VOID HITS THE NEXUS ON SEPTEMBER 28! ​\n​\nHarness the powers of the Void and devastate your enemies with a new Ranged Assassin: Xal'atath. \n\nXal'atath Pre-purchase to get limited-time Heartseeker Xal’atath Skin​\n​ \n--\n\n► Latest HOTS news: https://news.blizzard.com/en-us/feed/heroes-of-the-storm \n► Play Now: https://blizz.ly/4xjr00e\n► Visit HOTS on Battle.net: https://heroesofthestorm.blizzard.com/en-us/\n\n-- \n\n► Follow HOTS on Twitter: https://x.com/BlizzHeroes  \n\nTags: Heroes of the Storm, HOTS, Xal'Atath, warcraft, blizzard, blizzard entertainment",
-      "channel_title": "Heroes of the Storm",
-      "channel_id": "UCpVdq9gLew6E76BmfB2GJ0w",
-      "published_at": "2026-09-12T17:39:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4kMhUVz4q5I/hqdefault.jpg",
-      "duration": "PT1M6S",
-      "duration_seconds": 66,
-      "view_count": 50920,
-      "like_count": 5239,
-      "comment_count": 729,
+      "video_id": "67Mln_OqFGM",
+      "title": "I Didn't See This Coming..",
+      "description": "Asmongold Reacts to Blizzcon 2026 game trailers and announcements \n\n0:00 StarCraft New Game\n4:10 Overwatch\n11:33 Diablo 5\n27:39 Hearthstone\n37:38 WoW Retail\n49:16 Warcraft\n54:20 WoW Classic Plus\n\n► Asmongold's Twitch: https://www.twitch.tv/zackrawrr\n► Asmongold's X: https://x.com/asmongold\n► Asmongold's Kick: https://kick.com/asmongold\n► Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold\n► Asmongold's Twitch VOD Rerun Channel: https://twitch.tv/asmongold247\n► Asmongold's Kick VOD Rerun Channel: https://kick.com/asmongold247\n\nChannel Editors: CatDany & Daily Dose of Asmongold\nIf you own the copyright of content showed in this video and would like it to be removed:\nhttps://x.com/CatDanyRU\nhttps://x.com/DAsmongold",
+      "channel_title": "Asmongold TV  ",
+      "channel_id": "UCQeRaTukNYft1_6AZPACnog",
+      "published_at": "2026-09-12T19:24:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/67Mln_OqFGM/hqdefault.jpg",
+      "duration": "PT1H9M38S",
+      "duration_seconds": 4178,
+      "view_count": 1307507,
+      "like_count": 46562,
+      "comment_count": 5897,
       "category_id": "20",
       "tags": [
-        "BlizzHeroes",
-        "Heroes of the Storm",
-        "Blizzard Heroes"
+        "asmongold",
+        "asmongold reacts",
+        "asmongold wow",
+        "asmongold highlights",
+        "asmongold youtube",
+        "world of warcraft",
+        "asmongold funny",
+        "asmongold tv",
+        "asmongold channel",
+        "zackrawrr"
       ],
-      "url": "https://www.youtube.com/watch?v=4kMhUVz4q5I"
+      "url": "https://www.youtube.com/watch?v=67Mln_OqFGM"
     },
     {
-      "video_id": "ducfD9D4-HA",
-      "title": "I Found FOOTPRINTS of FAMOUS Minecraft MONSTERS…",
-      "description": "❇️Need new glasses? Check out our partner Zenni Optical: https://preston.gg/ZenniPlayz\nFor 10% off your purchase at checkout use code: PRESTON10\n\nThis video was inspired by @JPPlays!\nWe all know scary myths aren’t actually real haha. Our goal is to create exciting and super entertaining stories to make your day better :)  Have a blessed day! \n\n❇️ SUBSCRIBE - https://preston.gg/subscribeplayz\n👕 FIRE MERCH - https://www.firemerch.com/\n\n👀 FOLLOW ME HERE!\n☛ TikTok -  https://prestonplayz.gg/TikTokIRL\n☛ Instagram -  https://www.instagram.com/prestonplayz\n☛ Twitter -  https://prestonplayz.gg/XTwitterIRL\n\n🎮 OUR COMMUNITY DISCORD! \n☛ https://prestonplayz.gg/Discord\n\n📬 Use this address to send me mail! It can be fan art, letters, etc.\nPO BOX 191212\nDallas Texas 75219\n------------------------------\n\nIf you believe your copyrighted work was unintentionally used in this video without permission, please contact us at copyright@tbnr.net",
-      "channel_title": "PrestonPlayz",
-      "channel_id": "UCJZam2u1G0syq3kyqrCXrNw",
-      "published_at": "2026-09-12T14:15:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ducfD9D4-HA/hqdefault.jpg",
-      "duration": "PT23M50S",
-      "duration_seconds": 1430,
-      "view_count": 328235,
-      "like_count": 5965,
-      "comment_count": 222,
+      "video_id": "vKSvcrLTdIo",
+      "title": "2002 WAYS TO DIE | House 2",
+      "description": "The original House game was notorious for having so many ways to die but the sequel House 2 cranks that up to an absurd level! We're barely scratching the surface of this game with the first ending I could find!\nCheck out my Clothes ►► https://cloakbrand.com/\n\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ►  @LixianTV \n\nPlay the Game ► https://store.steampowered.com/app/2586440/House_2/\n\nScary Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo",
+      "channel_title": "Markiplier",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "published_at": "2026-09-12T19:57:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vKSvcrLTdIo/hqdefault.jpg",
+      "duration": "PT1H4M48S",
+      "duration_seconds": 3888,
+      "view_count": 646185,
+      "like_count": 33933,
+      "comment_count": 1890,
       "category_id": "20",
       "tags": [
-        "minecraft",
-        "preston",
-        "brianna",
-        "gaming",
-        "funny",
-        "ssundee",
-        "unspeakable",
-        "mrbeast",
-        "aphmau",
-        "canman"
+        "markiplier",
+        "house",
+        "house game",
+        "house scary game",
+        "house horror game",
+        "house markiplier",
+        "house part 1",
+        "scary games",
+        "markiplier scary games",
+        "markiplier horror games"
       ],
-      "url": "https://www.youtube.com/watch?v=ducfD9D4-HA"
+      "url": "https://www.youtube.com/watch?v=vKSvcrLTdIo"
     },
     {
-      "video_id": "nhdh962_ee0",
-      "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
-      "description": "Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization’s last strongholds collapse.\n\nWatch More Avatar ➡️ https://bit.ly/4vDnUE3\n\nWelcome to the Avatar Legends channel – the ultimate home for all things Avatar! Here you will find the best battles, deep dives, and the most memorable moments from all of your favorite characters from Aang to Zuko. On top of that, there will be plenty of Legend of Korra, official Avatar Comics, and even more exciting original content! You don’t need a sky bison to swing on by to the Avatar: The Last Air",
-      "channel_title": "Avatar Legends",
-      "channel_id": "UCN_u5w69V9wUZYG8WeJWuNg",
-      "published_at": "2026-09-10T15:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "duration_seconds": 145,
-      "view_count": 3812426,
-      "like_count": 95863,
-      "comment_count": 8798,
-      "category_id": "1",
+      "video_id": "Z2UL71BGHFY",
+      "title": "VISIONQUEST TRAILER: Iron Man, Ultron & Avengers Doomsday",
+      "description": "VisionQuest Trailer 2026. More New Iron Man, What Happened To Ultron, James Spader Returns, Vision Meets Adult Tommy Speed, Scarlet Witch, Visionquest Episode 1 & Avengers Doomsday Connection ► https://bit.ly/AwesomeSubscribe\nLanterns Episode 4 https://www.youtube.com/watch?v=mdG-j57RvaY&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nThe New DCU Batman https://www.youtube.com/watch?v=FMdL1T4k_Is&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=iAQBsAgC\nAvengers Doomsday Opening Scene https://www.youtube.com/watch?v=Yi113sBCLDs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=9&pp=iAQBsAgC\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=DFGkcteQgAg&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=iAQBsAgC\nSpider-Man Noir Ending Explained https://www.youtube.com/watch?v=XDXx8adYDSI&list=PLOIeYdZ3QczwRWhE_S97dlLSCo8F-x_o0&index=27&pp=iAQBsAgC\nX-Men 2028 Teaser https://www.youtube.com/watch?v=TBSPL-P-LCs&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=2&pp=iAQBsAgC\nSp",
+      "channel_title": "Emergency Awesome",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "published_at": "2026-09-12T22:42:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z2UL71BGHFY/hqdefault.jpg",
+      "duration": "PT17M59S",
+      "duration_seconds": 1079,
+      "view_count": 74086,
+      "like_count": 1967,
+      "comment_count": 280,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=Z2UL71BGHFY"
+    },
+    {
+      "video_id": "Ai3L_iwn5oE",
+      "title": "I Entered a Tournament with a New Mega Pokemon",
+      "description": "Mega Golisopod LOOKS like it's going to be a massive threat - but the only way to know for sure is to try it for myself. That's why I entered a tournament with this brand new Mega Evolution.\n\nCheck out all my Pokemon Champions videos here: https://www.youtube.com/playlist?list=PLb_5fF_O3Fvg6rkUCmwXYHdS9BzgBdKGz\n\n#Pokemon #PokemonChampions #WolfeyVGC\nThe Difference Notebook: https://vgcnotebook.com/\nStore►: https://wolfeystore.com/\nPatreon►: https://www.patreon.com/WolfeyVGC\nTiktok►: https://www.tiktok.com/@wolfeyvgc\nTwitter►: https://twitter.com/WolfeyGlick\nInstagram►: https://www.instagram.com/wolfeyglick/\n\nEdited by: http://rewindreplay.com/\nEdited by: https://x.com/ContentDrew\n\nThumbnail Artist: https://x.com/spyggt",
+      "channel_title": "WolfeyVGC",
+      "channel_id": "UC9OZkS1Mhl5UvKSiPrYqsxg",
+      "published_at": "2026-09-12T15:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ai3L_iwn5oE/hqdefault.jpg",
+      "duration": "PT2H19M24S",
+      "duration_seconds": 8364,
+      "view_count": 701492,
+      "like_count": 20258,
+      "comment_count": 1046,
+      "category_id": "20",
       "tags": [
-        "Avatar",
-        "Avatar: The Last Airbender",
-        "ATLA",
-        "Legend of Korra",
-        "Aang",
-        "Katara",
-        "Toph",
-        "Sokka",
-        "Zuko",
-        "Suki"
+        "Wolfey",
+        "Pokemon",
+        "VGC",
+        "Wolfe Glick",
+        "Competitive Pokemon",
+        "Pokemon VGC",
+        "pokemon nuzlocke",
+        "nuzlocke",
+        "pokemon challenge",
+        "alpharad"
       ],
-      "url": "https://www.youtube.com/watch?v=nhdh962_ee0"
+      "url": "https://www.youtube.com/watch?v=Ai3L_iwn5oE"
     },
     {
       "video_id": "GxCN_AKYtts",
@@ -438,9 +486,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 81385,
-      "like_count": 9153,
-      "comment_count": 1783,
+      "view_count": 461330,
+      "like_count": 12337,
+      "comment_count": 2384,
       "category_id": "20",
       "tags": [
         "Diablo",
@@ -455,82 +503,69 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
+      "overview": {
+        "total_videos": 10,
+        "total_views": 17251904,
+        "average_views_per_video": 1725190
+      },
       "content_trends": {
         "gaming_focus": {
-          "description": "A significant portion of the trending videos are related to gaming, with titles linked to popular franchises like World of Warcraft, Overwatch, StarCraft, and Diablo.",
-          "data": {
-            "gaming_videos": 7,
-            "total_videos": 9,
-            "percentage": 77.78
-          },
-          "insight": "This indicates a strong interest in gaming content on YouTube, particularly in established franchises. Creators and brands should consider leveraging these popular titles to engage with audiences."
+          "evidence": "All video titles are related to gaming, featuring popular franchises like World of Warcraft, Diablo, StarCraft, Overwatch, Fall Guys, and Pokemon.",
+          "insights": [
+            "Franchise-based content is driving engagement. Leveraging established gaming brands captures audience interests effectively.",
+            "Gameplay trailers and cinematic announcements are particularly popular, indicating a strong interest in visual storytelling and teaser content."
+          ]
         },
-        "trailer_and_teaser_content": {
-          "description": "Trailer and teaser videos dominate the trending list, suggesting high engagement with sneak peeks and upcoming releases.",
-          "data": {
-            "trailer_videos": 5,
-            "total_videos": 9,
-            "percentage": 55.56
-          },
-          "insight": "There is a significant appetite for new releases and exclusive previews. Content strategies should include creating anticipation for upcoming projects through teaser and trailer videos."
+        "creative_challenges": {
+          "evidence": "Titles like 'I Survived 100 Days on One Block' and 'I Entered a Tournament with a New Mega Pokemon' suggest a trend towards challenge-based content.",
+          "insights": [
+            "Creators can capitalize on the popularity of challenge formats by designing unique and engaging challenges that encourage viewer participation and sharing.",
+            "Collaborations or competitions within gaming communities can amplify reach and engagement."
+          ]
         },
-        "nostalgia_and_mystery": {
-          "description": "Videos like 'This is NOT The Fall Guys I Remember...' and 'I Found FOOTPRINTS of FAMOUS Minecraft MONSTERS…' suggest a trend towards exploring nostalgia and mystery.",
-          "data": {
-            "nostalgia_videos": 2,
-            "total_videos": 9,
-            "percentage": 22.22
-          },
-          "insight": "Nostalgic and mysterious themes capture audience interest. Content creators can tap into these emotions by revisiting older popular themes or creating content around unresolved mysteries."
+        "nostalgia_effect": {
+          "evidence": "Video titled 'This is NOT The Fall Guys I Remember...' implies a nostalgic angle.",
+          "insights": [
+            "Nostalgia marketing can be a powerful tool, particularly in gaming, where revisiting or reimagining classic games can attract both new and returning audiences."
+          ]
         }
       },
       "creator_patterns": {
-        "top_channel_presence": {
-          "description": "Each top channel has only one video trending, indicating a wide distribution of influence among different creators.",
-          "data": {
-            "unique_channels": 5,
-            "total_videos": 9,
-            "average_videos_per_channel": 1.8
-          },
-          "insight": "Diverse creator representation suggests that new channels can find success with the right content. Channels should focus on high-quality, unique content to stand out."
+        "multi-franchise strategy": {
+          "evidence": "Channels like World of Warcraft, Diablo, StarCraft, and PlayOverwatch each have one video, suggesting a diverse multi-franchise content strategy.",
+          "insights": [
+            "Creators and channels can benefit from diversifying content across multiple popular franchises to capture different audience segments.",
+            "Cross-promotion between franchises may enhance brand visibility and viewer retention."
+          ]
         },
-        "cross-platform franchise synergy": {
-          "description": "Channels like World of Warcraft and StarCraft leverage their cross-platform presence (gaming, streaming, events) to drive video popularity.",
-          "data": {
-            "franchise_videos": 5,
-            "total_videos": 9,
-            "percentage": 55.56
-          },
-          "insight": "Leveraging existing franchises across multiple platforms can amplify reach and engagement. Creators can explore partnerships with established brands to tap into their audiences."
+        "influencer impact": {
+          "evidence": "The presence of a MrBeast Gaming video indicates the influence of popular creators.",
+          "insights": [
+            "Individual influencers with large followings can drive significant traffic to gaming content, suggesting potential collaboration opportunities for brands looking to expand their reach."
+          ]
         }
       },
       "market_opportunities": {
-        "emerging_content_types": {
-          "description": "Content such as survival challenges and exploration ('I Survived 100 Days on One Block') are gaining traction.",
-          "data": {
-            "survival_exploration_videos": 2,
-            "total_videos": 9,
-            "percentage": 22.22
-          },
-          "insight": "Creators can explore content that involves challenges, explorations, or survival themes to capitalize on growing viewer interest."
+        "emerging games": {
+          "insights": [
+            "While popular franchises dominate, there is room for emerging games and indie titles to capture attention through unique storytelling or innovative gameplay mechanics.",
+            "Developing content around upcoming game releases or updates can position creators as early adopters and industry leaders."
+          ]
         },
-        "collaboration_with_gaming_brands": {
-          "description": "Collaborations with gaming brands can lead to increased visibility and audience engagement.",
-          "data": {
-            "collaborative_videos": 5,
-            "total_videos": 9,
-            "percentage": 55.56
-          },
-          "insight": "Partnering with well-known gaming brands can provide a boost in views and subscriber growth. Creators should seek collaborations with brands that align with their content style."
+        "user-generated content": {
+          "insights": [
+            "Encouraging user-generated content, such as fan-made trailers or challenge submissions, can increase community engagement and content diversity.",
+            "Platforms or contests that incentivize user contributions can foster a more interactive and loyal audience base."
+          ]
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 1152762
+        "avg_views_per_video": 1725190
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
