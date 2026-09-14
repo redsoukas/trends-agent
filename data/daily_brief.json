@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-14T04:26:47.658316",
+  "timestamp": "2026-09-14T12:25:10.079444",
   "date": "2026-09-14",
   "summary": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "music_videos_filtered": 5,
-    "high_potential_videos": 8,
+    "high_potential_videos": 9,
     "videos_with_transcripts": 0,
-    "videos_without_transcripts": 9,
+    "videos_without_transcripts": 10,
     "transcript_success_rate": "0.0%",
     "overall_success_rate": "0.0%",
     "analysis_generated": true
@@ -22,9 +22,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Rs49eRHFD9c/hqdefault.jpg",
       "duration": "PT2M47S",
       "duration_seconds": 167,
-      "view_count": 1096274,
-      "like_count": 25329,
-      "comment_count": 2160,
+      "view_count": 1409866,
+      "like_count": 28883,
+      "comment_count": 2431,
       "category_id": "24",
       "tags": [
         "peacock",
@@ -50,9 +50,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DLwiQdy-Q9g/hqdefault.jpg",
       "duration": "PT29M59S",
       "duration_seconds": 1799,
-      "view_count": 715382,
-      "like_count": 103549,
-      "comment_count": 6728,
+      "view_count": 1131059,
+      "like_count": 130656,
+      "comment_count": 8089,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DLwiQdy-Q9g"
@@ -67,108 +67,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 977933,
-      "like_count": 11068,
-      "comment_count": 811,
+      "view_count": 1295559,
+      "like_count": 12996,
+      "comment_count": 933,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs"
-    },
-    {
-      "video_id": "mOsb8yjw6Aw",
-      "title": "I Became a RAINBOW GOD, And NOBODY Knew!",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-09-13T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mOsb8yjw6Aw/hqdefault.jpg",
-      "duration": "PT21M46S",
-      "duration_seconds": 1306,
-      "view_count": 510110,
-      "like_count": 7145,
-      "comment_count": 1241,
-      "category_id": "24",
-      "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=mOsb8yjw6Aw"
-    },
-    {
-      "video_id": "h5dwH7nx9do",
-      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-09-12T17:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
-      "duration": "PT5M30S",
-      "duration_seconds": 330,
-      "view_count": 1664799,
-      "like_count": 56904,
-      "comment_count": 3972,
-      "category_id": "20",
-      "tags": [
-        "Overwatch 2",
-        "Overwatch"
-      ],
-      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
-    },
-    {
-      "video_id": "Duqv2j_7XSg",
-      "title": "BlizzCon 2026 | Main Stage | Closing Remarks",
-      "description": "For more information, visit Blizzard.com.\r\n\r\nLike Blizzard on Facebook: facebook.com/Blizzard/\r\nLike Blizzard on Instagram: instagram.com/blizzard/\r\nFollow Blizzard on Twitter: twitter.com/blizzard_ent\r\nBlizzard is hiring: blizzard.com/company/careers/",
-      "channel_title": "Blizzard Entertainment",
-      "channel_id": "UC3GriadTkHBnfgd2UFETGOA",
-      "published_at": "2026-09-14T01:26:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Duqv2j_7XSg/hqdefault.jpg",
-      "duration": "PT7H32M16S",
-      "duration_seconds": 27136,
-      "view_count": 695612,
-      "like_count": 5945,
-      "comment_count": 14,
-      "category_id": "20",
-      "tags": [
-        "Blizzard",
-        "Blizzard Entertainment",
-        "Overwatch",
-        "Hearthstone",
-        "World of Warcraft",
-        "StarCraft",
-        "Diablo",
-        "Heroes of the Storm",
-        "Video Games"
-      ],
-      "url": "https://www.youtube.com/watch?v=Duqv2j_7XSg"
-    },
-    {
-      "video_id": "GxCN_AKYtts",
-      "title": "Diablo V Teaser",
-      "description": "Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
-      "channel_title": "Diablo",
-      "channel_id": "UCxn8csYeZg6awRnZS-aqg0g",
-      "published_at": "2026-09-12T18:20:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
-      "duration": "PT48S",
-      "duration_seconds": 48,
-      "view_count": 880101,
-      "like_count": 17089,
-      "comment_count": 3282,
-      "category_id": "20",
-      "tags": [
-        "Diablo",
-        "Diablo III",
-        "D3",
-        "Blizzard",
-        "Blizzard Entertainment"
-      ],
-      "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
     },
     {
       "video_id": "Ehgg2o0C60w",
@@ -180,14 +84,102 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ehgg2o0C60w/hqdefault.jpg",
       "duration": "PT1H14M30S",
       "duration_seconds": 4470,
-      "view_count": 606783,
-      "like_count": 12267,
-      "comment_count": 487,
+      "view_count": 818800,
+      "like_count": 14186,
+      "comment_count": 531,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
       ],
       "url": "https://www.youtube.com/watch?v=Ehgg2o0C60w"
+    },
+    {
+      "video_id": "h5dwH7nx9do",
+      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
+      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+      "channel_title": "PlayOverwatch",
+      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
+      "published_at": "2026-09-12T17:58:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
+      "duration": "PT5M30S",
+      "duration_seconds": 330,
+      "view_count": 1711223,
+      "like_count": 57886,
+      "comment_count": 4049,
+      "category_id": "20",
+      "tags": [
+        "Overwatch 2",
+        "Overwatch"
+      ],
+      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
+    },
+    {
+      "video_id": "bOp7W7f7EDw",
+      "title": "The Quiet Flat…",
+      "description": "Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/caseoh\n\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-09-13T22:07:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bOp7W7f7EDw/hqdefault.jpg",
+      "duration": "PT55M10S",
+      "duration_seconds": 3310,
+      "view_count": 392578,
+      "like_count": 9544,
+      "comment_count": 718,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=bOp7W7f7EDw"
+    },
+    {
+      "video_id": "GxCN_AKYtts",
+      "title": "Diablo V Teaser",
+      "description": "Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
+      "channel_title": "Diablo",
+      "channel_id": "UCxn8csYeZg6awRnZS-aqg0g",
+      "published_at": "2026-09-12T18:20:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
+      "duration": "PT48S",
+      "duration_seconds": 48,
+      "view_count": 918920,
+      "like_count": 17622,
+      "comment_count": 3428,
+      "category_id": "20",
+      "tags": [
+        "Diablo",
+        "Diablo III",
+        "D3",
+        "Blizzard",
+        "Blizzard Entertainment"
+      ],
+      "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
+    },
+    {
+      "video_id": "m9bDJlcKYSM",
+      "title": "People Are Very Mad at Sony for This",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nUse Cheeky https://www.usecheeky.com/moist\nSpotify: https://open.spotify.com/show/6x2gzOl0QxsphzyHPjSGhe\nThis is the greatest last of us multiplayer mod of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-09-14T03:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m9bDJlcKYSM/hqdefault.jpg",
+      "duration": "PT12M10S",
+      "duration_seconds": 730,
+      "view_count": 946523,
+      "like_count": 27054,
+      "comment_count": 3842,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=m9bDJlcKYSM"
     },
     {
       "video_id": "R8R6o0yC4bg",
@@ -199,9 +191,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/R8R6o0yC4bg/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 124058,
-      "like_count": 1988,
-      "comment_count": 390,
+      "view_count": 152905,
+      "like_count": 2211,
+      "comment_count": 445,
       "category_id": "24",
       "tags": [
         "joblo",
@@ -216,6 +208,34 @@
         "full movie trailer"
       ],
       "url": "https://www.youtube.com/watch?v=R8R6o0yC4bg"
+    },
+    {
+      "video_id": "Tu5Nr9gOpNQ",
+      "title": "We Are Still Stuck in Space... Again",
+      "description": "Will Kryoz and I figure out how to get off the moon?\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Kryoz \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutters",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-09-13T19:43:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tu5Nr9gOpNQ/hqdefault.jpg",
+      "duration": "PT40M40S",
+      "duration_seconds": 2440,
+      "view_count": 927277,
+      "like_count": 30480,
+      "comment_count": 1169,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "Together: Moon Escape",
+        "together: moon escape playthrough",
+        "together moon escape gameplay",
+        "together: moon escape walkthrough",
+        "together: moon escape gameplay",
+        "co-op gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=Tu5Nr9gOpNQ"
     }
   ],
   "videos_with_transcripts": [],
@@ -230,9 +250,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Rs49eRHFD9c/hqdefault.jpg",
       "duration": "PT2M47S",
       "duration_seconds": 167,
-      "view_count": 1096274,
-      "like_count": 25329,
-      "comment_count": 2160,
+      "view_count": 1409866,
+      "like_count": 28883,
+      "comment_count": 2431,
       "category_id": "24",
       "tags": [
         "peacock",
@@ -258,9 +278,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DLwiQdy-Q9g/hqdefault.jpg",
       "duration": "PT29M59S",
       "duration_seconds": 1799,
-      "view_count": 715382,
-      "like_count": 103549,
-      "comment_count": 6728,
+      "view_count": 1131059,
+      "like_count": 130656,
+      "comment_count": 8089,
       "category_id": "20",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=DLwiQdy-Q9g"
@@ -275,85 +295,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
       "duration": "PT3M",
       "duration_seconds": 180,
-      "view_count": 977933,
-      "like_count": 11068,
-      "comment_count": 811,
+      "view_count": 1295559,
+      "like_count": 12996,
+      "comment_count": 933,
       "category_id": "1",
       "tags": [],
       "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs"
-    },
-    {
-      "video_id": "mOsb8yjw6Aw",
-      "title": "I Became a RAINBOW GOD, And NOBODY Knew!",
-      "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
-      "channel_title": "Cash",
-      "channel_id": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-      "published_at": "2026-09-13T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mOsb8yjw6Aw/hqdefault.jpg",
-      "duration": "PT21M46S",
-      "duration_seconds": 1306,
-      "view_count": 510110,
-      "like_count": 7145,
-      "comment_count": 1241,
-      "category_id": "24",
-      "tags": [
-        "Cash",
-        "Nico",
-        "Nico and Cash",
-        "Cash and Nico",
-        "Minecraft",
-        "Minecraft mod",
-        "family friendly",
-        "kid friendly"
-      ],
-      "url": "https://www.youtube.com/watch?v=mOsb8yjw6Aw"
-    },
-    {
-      "video_id": "h5dwH7nx9do",
-      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
-      "channel_title": "PlayOverwatch",
-      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
-      "published_at": "2026-09-12T17:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
-      "duration": "PT5M30S",
-      "duration_seconds": 330,
-      "view_count": 1664799,
-      "like_count": 56904,
-      "comment_count": 3972,
-      "category_id": "20",
-      "tags": [
-        "Overwatch 2",
-        "Overwatch"
-      ],
-      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
-    },
-    {
-      "video_id": "Duqv2j_7XSg",
-      "title": "BlizzCon 2026 | Main Stage | Closing Remarks",
-      "description": "For more information, visit Blizzard.com.\r\n\r\nLike Blizzard on Facebook: facebook.com/Blizzard/\r\nLike Blizzard on Instagram: instagram.com/blizzard/\r\nFollow Blizzard on Twitter: twitter.com/blizzard_ent\r\nBlizzard is hiring: blizzard.com/company/careers/",
-      "channel_title": "Blizzard Entertainment",
-      "channel_id": "UC3GriadTkHBnfgd2UFETGOA",
-      "published_at": "2026-09-14T01:26:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Duqv2j_7XSg/hqdefault.jpg",
-      "duration": "PT7H32M16S",
-      "duration_seconds": 27136,
-      "view_count": 695612,
-      "like_count": 5945,
-      "comment_count": 14,
-      "category_id": "20",
-      "tags": [
-        "Blizzard",
-        "Blizzard Entertainment",
-        "Overwatch",
-        "Hearthstone",
-        "World of Warcraft",
-        "StarCraft",
-        "Diablo",
-        "Heroes of the Storm",
-        "Video Games"
-      ],
-      "url": "https://www.youtube.com/watch?v=Duqv2j_7XSg"
     },
     {
       "video_id": "Ehgg2o0C60w",
@@ -365,14 +312,79 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ehgg2o0C60w/hqdefault.jpg",
       "duration": "PT1H14M30S",
       "duration_seconds": 4470,
-      "view_count": 606783,
-      "like_count": 12267,
-      "comment_count": 487,
+      "view_count": 818800,
+      "like_count": 14186,
+      "comment_count": 531,
       "category_id": "20",
       "tags": [
         "joebartolozzi"
       ],
       "url": "https://www.youtube.com/watch?v=Ehgg2o0C60w"
+    },
+    {
+      "video_id": "h5dwH7nx9do",
+      "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
+      "description": "If Doomfist plans to make a new gauntlet, he’s going to need help from a very old friend.\n\nJoin him and his allies as they work to break out Doctrine from the depths of Watchpoint: Grimsvotn in our newest Hero Trailer, ‘Breakout.’\n\nAnd after, play as our newest Support Hero, Doctrine, during his limited time Hero Trial Sep 12-14 before his official release with the launch of Season 5.\n\nOverwatch is free to play on PC and console, now including Nintendo Switch™ 2\"!\n_\nFollow #Overwatch for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+      "channel_title": "PlayOverwatch",
+      "channel_id": "UClOf1XXinvZsy4wKPAkro2A",
+      "published_at": "2026-09-12T17:58:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
+      "duration": "PT5M30S",
+      "duration_seconds": 330,
+      "view_count": 1711223,
+      "like_count": 57886,
+      "comment_count": 4049,
+      "category_id": "20",
+      "tags": [
+        "Overwatch 2",
+        "Overwatch"
+      ],
+      "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
+    },
+    {
+      "video_id": "bOp7W7f7EDw",
+      "title": "The Quiet Flat…",
+      "description": "Starforge  https://starforgepc.com/CaseOh \nGamerSupps -10% off Code CaseOh -  https://gamersupps.gg/\nMerch - https://caseohgames.com/\nCheeky - https://usecheeky.com/caseoh\n\n_________________________________________________________________\n\nJoin this channel to get access to uploads with no blurs or mutes:\nhttps://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw/join\n________________________________________________________________\nFollow 👇\nTwitch 🎥 https://www.twitch.tv/caseoh_\nMoreCaseOh YT 📺  https://www.youtube.com/@MoreCaseOh\nTikTok - https://www.tiktok.com/@caseohgames \nX - https://x.com/CaseOh__\nInstagram - https://www.instagram.com/caseoh_games\nDiscord - https://discord.gg/caseoh\n_________________________________________________________________",
+      "channel_title": "CaseOh",
+      "channel_id": "UC63anZxfVGHUEmfBAf5w7pw",
+      "published_at": "2026-09-13T22:07:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bOp7W7f7EDw/hqdefault.jpg",
+      "duration": "PT55M10S",
+      "duration_seconds": 3310,
+      "view_count": 392578,
+      "like_count": 9544,
+      "comment_count": 718,
+      "category_id": "20",
+      "tags": [
+        "gaming",
+        "caseoh",
+        "caseohgames",
+        "case",
+        "funny",
+        "streamer",
+        "horror",
+        "horror gaming",
+        "scary",
+        "jumpscare"
+      ],
+      "url": "https://www.youtube.com/watch?v=bOp7W7f7EDw"
+    },
+    {
+      "video_id": "m9bDJlcKYSM",
+      "title": "People Are Very Mad at Sony for This",
+      "description": "Starforge PC https://starforgepc.com/moist-yt\nGet Goof Juice and use code MOIST https://gamersupps.gg/moist\nUse Cheeky https://www.usecheeky.com/moist\nSpotify: https://open.spotify.com/show/6x2gzOl0QxsphzyHPjSGhe\nThis is the greatest last of us multiplayer mod of All Time",
+      "channel_title": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "published_at": "2026-09-14T03:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m9bDJlcKYSM/hqdefault.jpg",
+      "duration": "PT12M10S",
+      "duration_seconds": 730,
+      "view_count": 946523,
+      "like_count": 27054,
+      "comment_count": 3842,
+      "category_id": "24",
+      "tags": [],
+      "url": "https://www.youtube.com/watch?v=m9bDJlcKYSM"
     },
     {
       "video_id": "R8R6o0yC4bg",
@@ -384,9 +396,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/R8R6o0yC4bg/hqdefault.jpg",
       "duration": "PT2M39S",
       "duration_seconds": 159,
-      "view_count": 124058,
-      "like_count": 1988,
-      "comment_count": 390,
+      "view_count": 152905,
+      "like_count": 2211,
+      "comment_count": 445,
       "category_id": "24",
       "tags": [
         "joblo",
@@ -403,6 +415,34 @@
       "url": "https://www.youtube.com/watch?v=R8R6o0yC4bg"
     },
     {
+      "video_id": "Tu5Nr9gOpNQ",
+      "title": "We Are Still Stuck in Space... Again",
+      "description": "Will Kryoz and I figure out how to get off the moon?\n\nAll the footage featured in this video was livestreamed on my Twitch channel!\nFollow it to catch the streams live when they happen! - https://www.twitch.tv/smii7y\n\nWant to see the full unedited streams these videos are made from? Check out my VOD channel:\nhttps://www.youtube.com/c/SMii7Yminus\n\nMERCH Available now! https://smii7y.store/\n\nUse code S7 on Gamer Supps for 10% OFF your order\nGet my GamerSupps flavor, GOOD here!: https://gamersupps.gg/s7\n\nCheck out my other channels!\nMain Channel:  https://www.youtube.com/c/SMii7Y\nSolo Let's Play Channel: https://www.youtube.com/@SMii7Yplays\n\nFollow my Stream, Social Medias and check out my Merch!\n🔴 Stream - http://www.twitch.tv/smii7y\n🐦 Twitter - https://twitter.com/SMii7Y\n📷 Instagram - https://www.instagram.com/smii7y/\n📱 TikTok - https://www.tiktok.com/@thesmii7y\n👕 Merch - https://smii7y.store/\n\nFriends in the video:\n@Kryoz \n\n🎵 Music by:\nhttp://www.epidemicsound.com/\nhttps://www.shutters",
+      "channel_title": "SMii7Yplus",
+      "channel_id": "UC-gW4TeZAlKm7UATp24JsWQ",
+      "published_at": "2026-09-13T19:43:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tu5Nr9gOpNQ/hqdefault.jpg",
+      "duration": "PT40M40S",
+      "duration_seconds": 2440,
+      "view_count": 927277,
+      "like_count": 30480,
+      "comment_count": 1169,
+      "category_id": "20",
+      "tags": [
+        "smii7y",
+        "smii7yplus",
+        "smii7y+",
+        "smii7y plus",
+        "Together: Moon Escape",
+        "together: moon escape playthrough",
+        "together moon escape gameplay",
+        "together: moon escape walkthrough",
+        "together: moon escape gameplay",
+        "co-op gameplay"
+      ],
+      "url": "https://www.youtube.com/watch?v=Tu5Nr9gOpNQ"
+    },
+    {
       "video_id": "GxCN_AKYtts",
       "title": "Diablo V Teaser",
       "description": "Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
@@ -412,9 +452,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
       "duration": "PT48S",
       "duration_seconds": 48,
-      "view_count": 880101,
-      "like_count": 17089,
-      "comment_count": 3282,
+      "view_count": 918920,
+      "like_count": 17622,
+      "comment_count": 3428,
       "category_id": "20",
       "tags": [
         "Diablo",
@@ -429,67 +469,77 @@
   "analysis": {
     "transcript_based": null,
     "metadata_based": {
-      "content_trends": {
-        "trailer_dominance": {
-          "description": "A significant portion of trending content consists of trailers for upcoming shows and movies.",
-          "data": {
-            "percentage_of_trailers": 44.44,
-            "titles": [
+      "trend_analysis": {
+        "total_videos": 10,
+        "total_views": 9704710,
+        "average_views_per_video": 970471,
+        "categories": "Unknown",
+        "video_analysis": {
+          "trailers_and_teasers": {
+            "count": 4,
+            "videos": [
               "Crystal Lake | Official Trailer | Peacock Original",
               "Mr. Irrelevant | Official Trailer (2026 Movie) - David Corenswet, Isabel May",
-              "CRYSTAL LAKE | Official Trailer (2026) 4K",
               "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-              "Diablo V Teaser"
-            ]
+              "CRYSTAL LAKE | Official Trailer (2026) 4K"
+            ],
+            "insight": "Trailer and teaser content comprise 40% of trending videos, indicating a high viewer interest in upcoming media releases."
           },
-          "actionable_insight": "Collaborate with entertainment companies to create sneak peeks, behind-the-scenes content, or exclusive interviews that can complement official trailers and tap into this high-interest area."
-        },
-        "gaming_content": {
-          "description": "Gaming content remains a staple in the trending list, with diverse formats ranging from modded gameplay to event coverage.",
-          "data": {
-            "percentage_of_gaming_content": 33.33,
-            "titles": [
+          "gaming_content": {
+            "count": 2,
+            "videos": [
               "A NEW BEGINNING - Minecraft Modded SkyFactory 7",
-              "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-              "BlizzCon 2026 | Main Stage | Closing Remarks"
-            ]
+              "We Are Still Stuck in Space... Again"
+            ],
+            "insight": "Gaming content maintains a strong presence in trending videos, suggesting continued high engagement and interest in this genre."
           },
-          "actionable_insight": "Develop content that explores new game mods, patches, and updates as well as coverage of major gaming events. Consider collaboration with popular gaming influencers for broader reach."
+          "controversial_topics": {
+            "count": 1,
+            "videos": [
+              "People Are Very Mad at Sony for This"
+            ],
+            "insight": "Videos discussing controversial topics or company decisions can generate significant viewer interest, as seen with the Sony-related video."
+          }
         }
       },
       "creator_patterns": {
-        "diverse_creator_network": {
-          "description": "The content comes from a diverse range of creators, with no single creator dominating the trending list.",
-          "data": {
-            "total_unique_creators": 5,
-            "notable_creators": [
-              "Peacock",
-              "SSundee",
-              "Paramount Pictures",
-              "Cash",
-              "PlayOverwatch"
-            ]
+        "notable_channels": {
+          "Peacock": {
+            "video_count": 1,
+            "insight": "Peacock's trailer content for 'Crystal Lake' is gaining traction, suggesting effective marketing strategies for upcoming shows."
           },
-          "actionable_insight": "Focus on building partnerships across a wide variety of creators to leverage their unique audiences. Explore sponsorships or content collaborations with emerging creators in niche markets."
+          "SSundee": {
+            "video_count": 1,
+            "insight": "SSundee's continued presence in trending content highlights the sustained popularity of gaming influencers."
+          },
+          "Paramount Pictures": {
+            "video_count": 1,
+            "insight": "Paramount Pictures has successfully engaged audiences with movie trailers, emphasizing the importance of cinematic content."
+          },
+          "PlayOverwatch": {
+            "video_count": 1,
+            "insight": "PlayOverwatch's trailer indicates strong community interest in game updates, which can be leveraged for further engagement."
+          }
         }
       },
       "market_opportunities": {
-        "cross-industry_collaboration": {
-          "description": "The intersection of entertainment and gaming offers a fertile ground for cross-industry collaborations.",
-          "actionable_insight": "Initiate projects that merge gaming and entertainment, such as interactive trailers or game-inspired short films. This could attract fans from both industries and create a hybrid fan base."
+        "category_expansion": {
+          "insight": "Given the dominance of trailers and gaming content, expanding into these categories can capture a larger audience segment."
         },
-        "enhanced_content_experience": {
-          "description": "High-quality content such as 4K trailers is demanded and trending.",
-          "actionable_insight": "Invest in producing high-definition and immersive content to meet consumer expectations for quality. Consider technologies like VR or AR for an enhanced viewing experience."
+        "controversial_content": {
+          "insight": "Producing content that delves into industry controversies or major company decisions can attract significant viewer interest and discussion."
+        },
+        "cross-promotion": {
+          "insight": "Collaborations between media companies and popular gaming influencers or channels could enhance reach and engagement."
         }
       },
       "metadata_stats": {
         "analysis_method": "metadata_only",
-        "videos_analyzed": 9,
+        "videos_analyzed": 10,
         "top_categories": [
           "Unknown"
         ],
-        "avg_views_per_video": 807894
+        "avg_views_per_video": 970471
       }
     },
     "note": "Transcript analysis is more detailed, metadata analysis provides broader trends"
